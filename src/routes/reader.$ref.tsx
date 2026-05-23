@@ -12,7 +12,7 @@ import { Sheet, SheetContent } from "@/components/ui/sheet";
 import { useNavigate } from "@tanstack/react-router";
 
 const searchSchema = z.object({
-  w: fallback(z.string().optional(), undefined),
+  w: z.string().optional().catch(undefined),
 });
 
 export const Route = createFileRoute("/reader/$ref")({
