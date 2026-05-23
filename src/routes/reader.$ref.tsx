@@ -1,15 +1,33 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { zodValidator } from "@tanstack/zod-adapter";
 import { z } from "zod";
-import { useMemo } from "react";
+import { useEffect, useMemo, useState } from "react";
+import * as VisuallyHidden from "@radix-ui/react-visually-hidden";
 import type { Verse, GreekToken } from "@/lib/corpus";
 import { getPassage } from "@/lib/corpus";
 import { SiteHeader, SiteFooter } from "@/components/site-chrome";
 import { PassagePicker } from "@/components/passage-picker";
 import { VerseReader } from "@/components/verse-reader";
 import { WordAnalysisPanel } from "@/components/word-analysis-panel";
-import { Sheet, SheetContent } from "@/components/ui/sheet";
+import {
+  Sheet,
+  SheetContent,
+  SheetTitle,
+  SheetDescription,
+} from "@/components/ui/sheet";
 import { useNavigate } from "@tanstack/react-router";
+
+function useIsCompact() {
+  const [isCompact, setIsCompact] = useState(false);
+  useEffect(() => {
+    const mql = window.matchMedia("(max-width: 1023px)");
+    const onChange = () => setIsCompact(mql.matches);
+    onChange();
+    mql.addEventListener("change", onChange);
+    return () => mql.removeEventListener("change", onChange);
+  }, []);
+  return isCompact;
+}
 
 const searchSchema = z.object({
   w: z.string().optional().catch(undefined),
@@ -47,6 +65,7 @@ function ReaderPage() {
   const { passage } = Route.useLoaderData();
   const { w } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
+  const isCompact = useIsCompact();
 
   const selectedToken: GreekToken | null = useMemo(() => {
     if (!w) return null;
@@ -107,20 +126,27 @@ function ReaderPage() {
         </aside>
       </div>
 
-      {/* Mobile/tablet sheet */}
-      <Sheet
-        open={!!selectedToken}
-        onOpenChange={(open) => {
-          if (!open) closePanel();
-        }}
-      >
-        <SheetContent
-          side="right"
-          className="w-full max-w-md p-0 lg:hidden"
+      {/* Mobile/tablet sheet — only mount on compact viewports so the
+          overlay doesn't cover the desktop right-column panel. */}
+      {isCompact ? (
+        <Sheet
+          open={!!selectedToken}
+          onOpenChange={(open) => {
+            if (!open) closePanel();
+          }}
         >
-          <WordAnalysisPanel token={selectedToken} onClose={closePanel} />
-        </SheetContent>
-      </Sheet>
+          <SheetContent side="right" className="w-full max-w-md p-0">
+            <VisuallyHidden.Root>
+              <SheetTitle>Word analysis</SheetTitle>
+              <SheetDescription>
+                Lexical and contrastive notes for the selected Greek word.
+              </SheetDescription>
+            </VisuallyHidden.Root>
+            <WordAnalysisPanel token={selectedToken} onClose={closePanel} />
+          </SheetContent>
+        </Sheet>
+      ) : null}
+
 
       <SiteFooter />
     </div>
