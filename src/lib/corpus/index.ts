@@ -4,7 +4,7 @@ import { passages } from "./mock/passages";
 import { analyses } from "./mock/analyses";
 import type { Passage, Verse, WordAnalysis } from "./types";
 
-export type { Passage, Verse, WordAnalysis } from "./types";
+export type { Passage, Verse, WordAnalysis, GreekToken, SemanticNeighbour, UsageExample } from "./types";
 
 export function listPassages(): Passage[] {
   return passages;
