@@ -16,6 +16,8 @@ import {
   SheetDescription,
 } from "@/components/ui/sheet";
 import { useNavigate } from "@tanstack/react-router";
+import { recordRecentPassage } from "@/hooks/use-recent-passages";
+
 
 function useIsCompact() {
   const [isCompact, setIsCompact] = useState(false);
@@ -66,6 +68,15 @@ function ReaderPage() {
   const { w } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
   const isCompact = useIsCompact();
+
+  useEffect(() => {
+    recordRecentPassage({
+      id: passage.id,
+      ref: passage.ref,
+      title: passage.title,
+    });
+  }, [passage.id, passage.ref, passage.title]);
+
 
   const selectedToken: GreekToken | null = useMemo(() => {
     if (!w) return null;
