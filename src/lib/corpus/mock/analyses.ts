@@ -72,23 +72,23 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "John 1:14",
-        englishText: "And the Word became flesh and dwelt among us.",
+        englishSnippet: "And the Word became flesh and dwelt among us.",
         greekSnippet: "καὶ ὁ Λόγος σὰρξ ἐγένετο",
         highlightLemma: "λόγος",
-      } as unknown as import("../types").UsageExample, // appease TS shape
+      }, // appease TS shape
       {
         ref: "Hebrews 4:12",
-        englishText: "For the word of God is living and active.",
+        englishSnippet: "For the word of God is living and active.",
         greekSnippet: "ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ",
         highlightLemma: "λόγος",
-      } as unknown as import("../types").UsageExample,
+      },
       {
         ref: "Luke 1:38 (ῥῆμα)",
-        englishText: "Let it be to me according to your word.",
+        englishSnippet: "Let it be to me according to your word.",
         greekSnippet: "γένοιτό μοι κατὰ τὸ ῥῆμά σου",
         highlightLemma: "ῥῆμα",
         note: "Mary's response uses ῥῆμα — a specific spoken promise — not λόγος.",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 
@@ -131,10 +131,10 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "John 20:28",
-        englishText: "My Lord and my God!",
+        englishSnippet: "My Lord and my God!",
         greekSnippet: "Ὁ κύριός μου καὶ ὁ Θεός μου",
         highlightLemma: "θεός",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 
@@ -177,16 +177,16 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "Genesis 1:1 (LXX)",
-        englishText: "In the beginning God created the heavens and the earth.",
+        englishSnippet: "In the beginning God created the heavens and the earth.",
         greekSnippet: "Ἐν ἀρχῇ ἐποίησεν ὁ Θεὸς",
         highlightLemma: "ἀρχή",
-      } as unknown as import("../types").UsageExample,
+      },
       {
         ref: "Colossians 1:18",
-        englishText: "He is the beginning, the firstborn from the dead.",
+        englishSnippet: "He is the beginning, the firstborn from the dead.",
         greekSnippet: "ὅς ἐστιν ἀρχή",
         highlightLemma: "ἀρχή",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 
@@ -242,10 +242,10 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "1 John 1:2",
-        englishText: "the eternal life that was with the Father.",
+        englishSnippet: "the eternal life that was with the Father.",
         greekSnippet: "ἥτις ἦν πρὸς τὸν Πατέρα",
         highlightLemma: "πρός",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 
@@ -289,10 +289,10 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "John 3:16",
-        englishText: "For God so loved the world…",
+        englishSnippet: "For God so loved the world…",
         greekSnippet: "οὕτως γὰρ ἠγάπησεν ὁ Θεὸς τὸν κόσμον",
         highlightLemma: "ἀγαπάω",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 
@@ -323,10 +323,10 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "John 11:36",
-        englishText: "See how he loved him!",
+        englishSnippet: "See how he loved him!",
         greekSnippet: "Ἴδε πῶς ἐφίλει αὐτόν",
         highlightLemma: "φιλέω",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 
@@ -368,10 +368,10 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "Galatians 2:16",
-        englishText: "justified… through faith in Jesus Christ.",
+        englishSnippet: "justified… through faith in Jesus Christ.",
         greekSnippet: "διὰ πίστεως Ἰησοῦ Χριστοῦ",
         highlightLemma: "πίστις",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 
@@ -415,10 +415,10 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "Matthew 6:33",
-        englishText: "Seek first the kingdom and his righteousness.",
+        englishSnippet: "Seek first the kingdom and his righteousness.",
         greekSnippet: "τὴν δικαιοσύνην αὐτοῦ",
         highlightLemma: "δικαιοσύνη",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 
@@ -461,10 +461,10 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "Romans 5:15",
-        englishText: "much more have the grace of God… abounded for many.",
+        englishSnippet: "much more have the grace of God… abounded for many.",
         greekSnippet: "ἡ χάρις τοῦ Θεοῦ",
         highlightLemma: "χάρις",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 
@@ -507,10 +507,10 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "Matthew 5:8",
-        englishText: "Blessed are the pure in heart.",
+        englishSnippet: "Blessed are the pure in heart.",
         greekSnippet: "Μακάριοι οἱ καθαροὶ τῇ καρδίᾳ",
         highlightLemma: "μακάριος",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 
@@ -553,10 +553,10 @@ export const analyses: Record<string, WordAnalysis> = {
     examples: [
       {
         ref: "Luke 6:20",
-        englishText: "Blessed are you who are poor.",
+        englishSnippet: "Blessed are you who are poor.",
         greekSnippet: "Μακάριοι οἱ πτωχοί",
         highlightLemma: "πτωχός",
-      } as unknown as import("../types").UsageExample,
+      },
     ],
   },
 };
