@@ -4,13 +4,13 @@ import { SiteHeader, SiteFooter } from "@/components/site-chrome";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Logos Nuance — Why this word?" },
+      { title: "Why This Word" },
       {
         name: "description",
         content:
           "A contrastive-semantics reader for the Greek New Testament. Explore why biblical authors chose this word, not a nearby alternative.",
       },
-      { property: "og:title", content: "Logos Nuance — Why this word?" },
+      { property: "og:title", content: "Why This Word" },
       {
         property: "og:description",
         content:

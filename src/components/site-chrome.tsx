@@ -53,7 +53,7 @@ export function SiteHeader() {
       <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-6">
         <Link to="/" className="flex items-baseline gap-2">
           <span className="font-greek text-xl leading-none text-accent-scholar">λ</span>
-          <span className="font-serif text-lg leading-none tracking-tight">Logos Nuance</span>
+          <span className="font-serif text-lg leading-none tracking-tight">Why This Word</span>
         </Link>
         <nav className="flex items-center gap-6">
           {navItem("/", "Home")}
