@@ -65,6 +65,7 @@ function ReaderPage() {
   const { passage } = Route.useLoaderData();
   const { w } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
+  const isCompact = useIsCompact();
 
   const selectedToken: GreekToken | null = useMemo(() => {
     if (!w) return null;
