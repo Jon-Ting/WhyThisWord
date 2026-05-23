@@ -1,5 +1,5 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { zodValidator, fallback } from "@tanstack/zod-adapter";
+import { zodValidator } from "@tanstack/zod-adapter";
 import { z } from "zod";
 import { useMemo } from "react";
 import type { Verse, GreekToken } from "@/lib/corpus";
@@ -12,7 +12,7 @@ import { Sheet, SheetContent } from "@/components/ui/sheet";
 import { useNavigate } from "@tanstack/react-router";
 
 const searchSchema = z.object({
-  w: fallback(z.string().optional(), undefined),
+  w: z.string().optional().catch(undefined),
 });
 
 export const Route = createFileRoute("/reader/$ref")({
