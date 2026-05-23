@@ -1,15 +1,33 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { zodValidator } from "@tanstack/zod-adapter";
 import { z } from "zod";
-import { useMemo } from "react";
+import { useEffect, useMemo, useState } from "react";
+import * as VisuallyHidden from "@radix-ui/react-visually-hidden";
 import type { Verse, GreekToken } from "@/lib/corpus";
 import { getPassage } from "@/lib/corpus";
 import { SiteHeader, SiteFooter } from "@/components/site-chrome";
 import { PassagePicker } from "@/components/passage-picker";
 import { VerseReader } from "@/components/verse-reader";
 import { WordAnalysisPanel } from "@/components/word-analysis-panel";
-import { Sheet, SheetContent } from "@/components/ui/sheet";
+import {
+  Sheet,
+  SheetContent,
+  SheetTitle,
+  SheetDescription,
+} from "@/components/ui/sheet";
 import { useNavigate } from "@tanstack/react-router";
+
+function useIsCompact() {
+  const [isCompact, setIsCompact] = useState(false);
+  useEffect(() => {
+    const mql = window.matchMedia("(max-width: 1023px)");
+    const onChange = () => setIsCompact(mql.matches);
+    onChange();
+    mql.addEventListener("change", onChange);
+    return () => mql.removeEventListener("change", onChange);
+  }, []);
+  return isCompact;
+}
 
 const searchSchema = z.object({
   w: z.string().optional().catch(undefined),
