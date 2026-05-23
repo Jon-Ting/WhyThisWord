@@ -2,6 +2,7 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { zodValidator, fallback } from "@tanstack/zod-adapter";
 import { z } from "zod";
 import { useMemo } from "react";
+import type { Verse, GreekToken } from "@/lib/corpus";
 import { getPassage } from "@/lib/corpus";
 import { SiteHeader, SiteFooter } from "@/components/site-chrome";
 import { PassagePicker } from "@/components/passage-picker";
@@ -47,10 +48,10 @@ function ReaderPage() {
   const { w } = Route.useSearch();
   const navigate = useNavigate({ from: Route.fullPath });
 
-  const selectedToken = useMemo(() => {
+  const selectedToken: GreekToken | null = useMemo(() => {
     if (!w) return null;
-    for (const v of passage.verses) {
-      const found = v.tokens.find((t) => t.id === w);
+    for (const v of passage.verses as Verse[]) {
+      const found = v.tokens.find((t: GreekToken) => t.id === w);
       if (found) return found;
     }
     return null;
@@ -88,7 +89,7 @@ function ReaderPage() {
           </header>
 
           <div className="space-y-14">
-            {passage.verses.map((verse) => (
+            {(passage.verses as Verse[]).map((verse) => (
               <VerseReader
                 key={verse.ref}
                 verse={verse}
