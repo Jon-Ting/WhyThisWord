@@ -4,13 +4,13 @@ import { SiteHeader, SiteFooter } from "@/components/site-chrome";
 export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
-      { title: "About — Logos Nuance" },
+      { title: "About — Why This Word" },
       {
         name: "description",
         content:
-          "What Logos Nuance is — and what it deliberately is not. A study companion for contrastive semantics in the Greek New Testament.",
+          "What Why This Word is — and what it deliberately is not. A study companion for contrastive semantics in the Greek New Testament.",
       },
-      { property: "og:title", content: "About — Logos Nuance" },
+      { property: "og:title", content: "About — Why This Word" },
       {
         property: "og:description",
         content: "A scholarly study companion, not a devotional or dogmatic engine.",
@@ -30,7 +30,7 @@ function About() {
         </h1>
         <div className="mt-8 space-y-6 font-serif text-[17px] leading-relaxed text-reader-ink">
           <p>
-            Logos Nuance is a reading companion for serious Bible students, seminarians,
+            Why This Word is a reading companion for serious Bible students, seminarians,
             pastors, and theologically curious readers. It is built around one question:
             <em>
               {" "}

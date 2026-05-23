@@ -43,18 +43,18 @@ export const Route = createFileRoute("/reader/$ref")({
   head: ({ loaderData }) => ({
     meta: loaderData
       ? [
-          { title: `${loaderData.passage.ref} — Logos Nuance` },
+          { title: `${loaderData.passage.ref} — Why This Word` },
           {
             name: "description",
             content: `${loaderData.passage.ref}: ${loaderData.passage.description}`,
           },
-          { property: "og:title", content: `${loaderData.passage.ref} — Logos Nuance` },
+          { property: "og:title", content: `${loaderData.passage.ref} — Why This Word` },
           {
             property: "og:description",
             content: loaderData.passage.description,
           },
         ]
-      : [{ title: "Reader — Logos Nuance" }],
+      : [{ title: "Reader — Why This Word" }],
   }),
   notFoundComponent: NotFound,
   errorComponent: ErrorView,
