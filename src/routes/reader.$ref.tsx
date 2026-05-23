@@ -126,20 +126,27 @@ function ReaderPage() {
         </aside>
       </div>
 
-      {/* Mobile/tablet sheet */}
-      <Sheet
-        open={!!selectedToken}
-        onOpenChange={(open) => {
-          if (!open) closePanel();
-        }}
-      >
-        <SheetContent
-          side="right"
-          className="w-full max-w-md p-0 lg:hidden"
+      {/* Mobile/tablet sheet — only mount on compact viewports so the
+          overlay doesn't cover the desktop right-column panel. */}
+      {isCompact ? (
+        <Sheet
+          open={!!selectedToken}
+          onOpenChange={(open) => {
+            if (!open) closePanel();
+          }}
         >
-          <WordAnalysisPanel token={selectedToken} onClose={closePanel} />
-        </SheetContent>
-      </Sheet>
+          <SheetContent side="right" className="w-full max-w-md p-0">
+            <VisuallyHidden.Root>
+              <SheetTitle>Word analysis</SheetTitle>
+              <SheetDescription>
+                Lexical and contrastive notes for the selected Greek word.
+              </SheetDescription>
+            </VisuallyHidden.Root>
+            <WordAnalysisPanel token={selectedToken} onClose={closePanel} />
+          </SheetContent>
+        </Sheet>
+      ) : null}
+
 
       <SiteFooter />
     </div>
