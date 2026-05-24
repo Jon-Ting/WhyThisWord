@@ -93,36 +93,36 @@ export function PassagePicker() {
           </p>
         ) : (
           filtered.map((p) => {
-          const to = `/reader/${p.id}`;
-          const active = pathname === to;
-          return (
-            <Link
-              key={p.id}
-              to={to}
-              className={cn(
-                "block rounded-md border border-transparent px-3 py-2 text-sm transition-colors",
-                active
-                  ? "border-border bg-accent text-foreground"
-                  : "text-muted-foreground hover:bg-accent/60 hover:text-foreground",
-              )}
-            >
-              <span className="flex items-baseline justify-between gap-2">
-                <span className="font-serif text-[15px]">{p.ref}</span>
-                {p.visitedAt ? (
-                  <span className="text-[10px] uppercase tracking-wider text-muted-foreground/60">
-                    {formatRelative(p.visitedAt)}
+            const to = `/reader/${p.id}`;
+            const active = pathname === to;
+            return (
+              <Link
+                key={p.id}
+                to={to}
+                className={cn(
+                  "block rounded-md border border-transparent px-3 py-2 text-sm transition-colors",
+                  active
+                    ? "border-border bg-accent text-foreground"
+                    : "text-muted-foreground hover:bg-accent/60 hover:text-foreground",
+                )}
+              >
+                <span className="flex items-baseline justify-between gap-2">
+                  <span className="font-serif text-[15px]">{p.ref}</span>
+                  {p.visitedAt ? (
+                    <span className="text-[10px] uppercase tracking-wider text-muted-foreground/60">
+                      {formatRelative(p.visitedAt)}
+                    </span>
+                  ) : null}
+                </span>
+                {p.title ? (
+                  <span className="mt-0.5 block truncate text-xs text-muted-foreground/80">
+                    {p.title}
                   </span>
                 ) : null}
-              </span>
-              {p.title ? (
-                <span className="mt-0.5 block truncate text-xs text-muted-foreground/80">
-                  {p.title}
-                </span>
-              ) : null}
-            </Link>
-          );
-        })}
-      )}
+              </Link>
+            );
+          })
+        )}
       </nav>
     </div>
   );
