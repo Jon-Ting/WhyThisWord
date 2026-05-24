@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { Link, useRouterState } from "@tanstack/react-router";
 import { cn } from "@/lib/utils";
 import { Input } from "@/components/ui/input";
@@ -22,44 +22,20 @@ export function PassagePicker() {
   const { recent } = useRecentPassages();
   const [query, setQuery] = useState("");
 
-  const all = listPassages();
-  const recentIds = new Set(recent.map((r) => r.id));
-
-  type Entry = {
-    id: string;
-    ref: string;
-    title?: string;
-    description?: string;
-    visitedAt?: number;
-  };
-
-  const entries: Entry[] = [
-    ...recent.map((r) => ({
-      id: r.id,
-      ref: r.ref,
-      title: r.title,
-      description: all.find((p) => p.id === r.id)?.description,
-      visitedAt: r.visitedAt,
-    })),
-    ...all
-      .filter((p) => !recentIds.has(p.id))
-      .map((p) => ({
-        id: p.id,
-        ref: p.ref,
-        title: p.title,
-        description: p.description,
-      })),
-  ];
+  const all = useMemo(() => listPassages(), []);
 
   const q = query.trim().toLowerCase();
-  const filtered = q
-    ? entries.filter(
+  const results = useMemo(() => {
+    if (!q) return [];
+    return all
+      .filter(
         (p) =>
           p.ref.toLowerCase().includes(q) ||
           (p.title?.toLowerCase().includes(q) ?? false) ||
           (p.description?.toLowerCase().includes(q) ?? false),
       )
-    : entries;
+      .slice(0, 8);
+  }, [all, q]);
 
   return (
     <div>
@@ -68,16 +44,39 @@ export function PassagePicker() {
           <Search className="absolute left-2.5 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
           <Input
             type="text"
-            placeholder="e.g. Romans 8:28"
+            placeholder="Find a passage, e.g. Romans 8"
             className="pl-9 text-sm"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
           />
         </div>
+
         {q ? (
-          <p className="mt-1.5 text-[11px] text-muted-foreground/70">
-            {filtered.length} result{filtered.length !== 1 ? "s" : ""}
-          </p>
+          <div className="mt-2 rounded-md border border-border bg-popover p-1 shadow-sm">
+            {results.length === 0 ? (
+              <p className="px-2 py-2 text-xs text-muted-foreground">
+                No matches in the current corpus.
+              </p>
+            ) : (
+              results.map((p) => (
+                <Link
+                  key={p.id}
+                  to={`/reader/${p.id}`}
+                  onClick={() => setQuery("")}
+                  className="block rounded-sm px-2 py-1.5 text-sm text-muted-foreground hover:bg-accent hover:text-foreground"
+                >
+                  <span className="font-serif text-[14px] text-foreground">
+                    {p.ref}
+                  </span>
+                  {p.title ? (
+                    <span className="ml-2 text-xs text-muted-foreground/80">
+                      {p.title}
+                    </span>
+                  ) : null}
+                </Link>
+              ))
+            )}
+          </div>
         ) : null}
       </div>
 
@@ -87,17 +86,17 @@ export function PassagePicker() {
           Recent
         </p>
 
-        {filtered.length === 0 ? (
+        {recent.length === 0 ? (
           <p className="px-3 py-2 text-sm text-muted-foreground">
-            No passages found.
+            No recent passages yet. Search above to open one.
           </p>
         ) : (
-          filtered.map((p) => {
-            const to = `/reader/${p.id}`;
+          recent.map((r) => {
+            const to = `/reader/${r.id}`;
             const active = pathname === to;
             return (
               <Link
-                key={p.id}
+                key={r.id}
                 to={to}
                 className={cn(
                   "block rounded-md border border-transparent px-3 py-2 text-sm transition-colors",
@@ -107,16 +106,14 @@ export function PassagePicker() {
                 )}
               >
                 <span className="flex items-baseline justify-between gap-2">
-                  <span className="font-serif text-[15px]">{p.ref}</span>
-                  {p.visitedAt ? (
-                    <span className="text-[10px] uppercase tracking-wider text-muted-foreground/60">
-                      {formatRelative(p.visitedAt)}
-                    </span>
-                  ) : null}
+                  <span className="font-serif text-[15px]">{r.ref}</span>
+                  <span className="text-[10px] uppercase tracking-wider text-muted-foreground/60">
+                    {formatRelative(r.visitedAt)}
+                  </span>
                 </span>
-                {p.title ? (
+                {r.title ? (
                   <span className="mt-0.5 block truncate text-xs text-muted-foreground/80">
-                    {p.title}
+                    {r.title}
                   </span>
                 ) : null}
               </Link>
