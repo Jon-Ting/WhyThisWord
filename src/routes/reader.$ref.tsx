@@ -185,12 +185,15 @@ function NotFound() {
 }
 
 function ErrorView({ error, reset }: { error: Error; reset: () => void }) {
+  console.error(error);
   return (
     <div className="min-h-screen bg-background">
       <SiteHeader />
       <div className="mx-auto max-w-xl px-6 py-24 text-center">
         <h1 className="font-serif text-2xl">Something went wrong</h1>
-        <p className="mt-3 text-sm text-muted-foreground">{error.message}</p>
+        <p className="mt-3 text-sm text-muted-foreground">
+          An unexpected error occurred while loading this passage. Please try again.
+        </p>
         <button
           onClick={() => reset()}
           className="mt-6 inline-flex h-10 items-center rounded-md bg-primary px-5 text-sm font-medium text-primary-foreground hover:bg-primary/90"
