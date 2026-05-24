@@ -87,7 +87,12 @@ export function PassagePicker() {
           Recent
         </p>
 
-        {entries.map((p) => {
+        {filtered.length === 0 ? (
+          <p className="px-3 py-2 text-sm text-muted-foreground">
+            No passages found.
+          </p>
+        ) : (
+          filtered.map((p) => {
           const to = `/reader/${p.id}`;
           const active = pathname === to;
           return (
