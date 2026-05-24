@@ -122,6 +122,7 @@ export function PassagePicker() {
             </Link>
           );
         })}
+      )}
       </nav>
     </div>
   );
