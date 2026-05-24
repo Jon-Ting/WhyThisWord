@@ -20,6 +20,7 @@ function formatRelative(ts: number) {
 export function PassagePicker() {
   const pathname = useRouterState({ select: (s) => s.location.pathname });
   const { recent } = useRecentPassages();
+  const [query, setQuery] = useState("");
 
   const all = listPassages();
   const recentIds = new Set(recent.map((r) => r.id));
@@ -28,6 +29,7 @@ export function PassagePicker() {
     id: string;
     ref: string;
     title?: string;
+    description?: string;
     visitedAt?: number;
   };
 
@@ -36,12 +38,28 @@ export function PassagePicker() {
       id: r.id,
       ref: r.ref,
       title: r.title,
+      description: all.find((p) => p.id === r.id)?.description,
       visitedAt: r.visitedAt,
     })),
     ...all
       .filter((p) => !recentIds.has(p.id))
-      .map((p) => ({ id: p.id, ref: p.ref, title: p.title })),
+      .map((p) => ({
+        id: p.id,
+        ref: p.ref,
+        title: p.title,
+        description: p.description,
+      })),
   ];
+
+  const q = query.trim().toLowerCase();
+  const filtered = q
+    ? entries.filter(
+        (p) =>
+          p.ref.toLowerCase().includes(q) ||
+          (p.title?.toLowerCase().includes(q) ?? false) ||
+          (p.description?.toLowerCase().includes(q) ?? false),
+      )
+    : entries;
 
   return (
     <div>
@@ -52,12 +70,15 @@ export function PassagePicker() {
             type="text"
             placeholder="e.g. Romans 8:28"
             className="pl-9 text-sm"
-            disabled
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
           />
         </div>
-        <p className="mt-1.5 text-[11px] text-muted-foreground/70">
-          Search coming soon
-        </p>
+        {q ? (
+          <p className="mt-1.5 text-[11px] text-muted-foreground/70">
+            {filtered.length} result{filtered.length !== 1 ? "s" : ""}
+          </p>
+        ) : null}
       </div>
 
       <nav aria-label="Recent passages" className="space-y-1">
