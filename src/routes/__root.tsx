@@ -78,6 +78,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:description", content: "A contrastive-semantics reader for the Greek New Testament. Explore why biblical authors chose this word, not a nearby alternative." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
+      { name: "twitter:title", content: "Why This Word" },
+      { name: "twitter:description", content: "A contrastive-semantics reader for the Greek New Testament. Explore why biblical authors chose this word, not a nearby alternative." },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/8a670064-73be-4186-9873-347a023a7786" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/attachments/og-images/8a670064-73be-4186-9873-347a023a7786" },
     ],
     links: [
       {
