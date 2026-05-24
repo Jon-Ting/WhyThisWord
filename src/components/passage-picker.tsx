@@ -3,6 +3,7 @@ import { cn } from "@/lib/utils";
 import { Input } from "@/components/ui/input";
 import { Search, Clock } from "lucide-react";
 import { useRecentPassages } from "@/hooks/use-recent-passages";
+import { listPassages } from "@/lib/corpus";
 
 function formatRelative(ts: number) {
   const diff = Date.now() - ts;
@@ -18,6 +19,28 @@ function formatRelative(ts: number) {
 export function PassagePicker() {
   const pathname = useRouterState({ select: (s) => s.location.pathname });
   const { recent } = useRecentPassages();
+
+  const all = listPassages();
+  const recentIds = new Set(recent.map((r) => r.id));
+
+  type Entry = {
+    id: string;
+    ref: string;
+    title?: string;
+    visitedAt?: number;
+  };
+
+  const entries: Entry[] = [
+    ...recent.map((r) => ({
+      id: r.id,
+      ref: r.ref,
+      title: r.title,
+      visitedAt: r.visitedAt,
+    })),
+    ...all
+      .filter((p) => !recentIds.has(p.id))
+      .map((p) => ({ id: p.id, ref: p.ref, title: p.title })),
+  ];
 
   return (
     <div>
@@ -42,40 +65,36 @@ export function PassagePicker() {
           Recent
         </p>
 
-        {recent.length === 0 ? (
-          <p className="rounded-md border border-dashed border-border/70 px-3 py-4 text-xs leading-relaxed text-muted-foreground/80">
-            Passages you open will appear here for quick access.
-          </p>
-        ) : (
-          recent.map((p) => {
-            const to = `/reader/${p.id}`;
-            const active = pathname === to;
-            return (
-              <Link
-                key={p.id}
-                to={to}
-                className={cn(
-                  "block rounded-md border border-transparent px-3 py-2 text-sm transition-colors",
-                  active
-                    ? "border-border bg-accent text-foreground"
-                    : "text-muted-foreground hover:bg-accent/60 hover:text-foreground",
-                )}
-              >
-                <span className="flex items-baseline justify-between gap-2">
-                  <span className="font-serif text-[15px]">{p.ref}</span>
+        {entries.map((p) => {
+          const to = `/reader/${p.id}`;
+          const active = pathname === to;
+          return (
+            <Link
+              key={p.id}
+              to={to}
+              className={cn(
+                "block rounded-md border border-transparent px-3 py-2 text-sm transition-colors",
+                active
+                  ? "border-border bg-accent text-foreground"
+                  : "text-muted-foreground hover:bg-accent/60 hover:text-foreground",
+              )}
+            >
+              <span className="flex items-baseline justify-between gap-2">
+                <span className="font-serif text-[15px]">{p.ref}</span>
+                {p.visitedAt ? (
                   <span className="text-[10px] uppercase tracking-wider text-muted-foreground/60">
                     {formatRelative(p.visitedAt)}
                   </span>
-                </span>
-                {p.title ? (
-                  <span className="mt-0.5 block truncate text-xs text-muted-foreground/80">
-                    {p.title}
-                  </span>
                 ) : null}
-              </Link>
-            );
-          })
-        )}
+              </span>
+              {p.title ? (
+                <span className="mt-0.5 block truncate text-xs text-muted-foreground/80">
+                  {p.title}
+                </span>
+              ) : null}
+            </Link>
+          );
+        })}
       </nav>
     </div>
   );
