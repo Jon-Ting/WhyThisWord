@@ -3,6 +3,7 @@ import type { GreekToken, WordAnalysis } from "@/lib/corpus";
 import { getWordAnalysis } from "@/lib/corpus";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
+import logoIcon from "../../assets/app_icon_rounded.png";
 
 interface WordAnalysisPanelProps {
   token: GreekToken | null;
@@ -253,8 +254,8 @@ function NoAnalysisFallback({ token }: { token: GreekToken }) {
 function EmptyState() {
   return (
     <aside className="flex h-full flex-col items-center justify-center bg-card px-8 text-center">
-      <span className="font-greek text-5xl leading-none text-accent-scholar/40">λ</span>
-      <h3 className="mt-4 font-serif text-lg text-foreground">
+      <img src={logoIcon} alt="Why This Word" className="h-12 w-12 object-contain opacity-25 dark:opacity-40 mb-4" />
+      <h3 className="mt-2 font-serif text-lg text-foreground">
         Click a Greek word
       </h3>
       <p className="mt-2 max-w-xs text-sm leading-relaxed text-muted-foreground">

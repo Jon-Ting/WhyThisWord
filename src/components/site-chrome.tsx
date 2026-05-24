@@ -1,6 +1,7 @@
 import { Link, useRouterState } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import { Moon, Sun } from "lucide-react";
+import logoIcon from "../../assets/app_icon_rounded.png";
 
 function ThemeToggle() {
   const [dark, setDark] = useState(false);
@@ -51,8 +52,8 @@ export function SiteHeader() {
   return (
     <header className="sticky top-0 z-30 border-b border-border/70 bg-background/85 backdrop-blur">
       <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-6">
-        <Link to="/" className="flex items-baseline gap-2">
-          <span className="font-greek text-xl leading-none text-accent-scholar">λ</span>
+        <Link to="/" className="flex items-center gap-2.5">
+          <img src={logoIcon} alt="Why This Word logo" className="h-6 w-6 object-contain" />
           <span className="font-serif text-lg leading-none tracking-tight">Why This Word</span>
         </Link>
         <nav className="flex items-center gap-6">
