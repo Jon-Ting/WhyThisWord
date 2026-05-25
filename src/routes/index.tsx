@@ -30,9 +30,9 @@ function Index() {
 
       <main>
         <section className="mx-auto max-w-3xl px-6 pt-16 pb-16 text-center">
-          <div className="mx-auto mb-8 flex justify-center">
-            <img src={logoLight} alt="Why This Word" className="h-16 w-auto object-contain dark:hidden" />
-            <img src={logoDark} alt="Why This Word" className="hidden h-16 w-auto object-contain dark:block" />
+          <div className="mx-auto mb-10 flex justify-center">
+            <img src={logoLight} alt="Why This Word" className="h-20 w-auto object-contain dark:hidden" />
+            <img src={logoDark} alt="Why This Word" className="hidden h-20 w-auto object-contain dark:block" />
           </div>
           <p className="font-greek text-sm uppercase tracking-[0.3em] text-accent-scholar">
             λόγος · ῥῆμα · σοφία · φωνή
