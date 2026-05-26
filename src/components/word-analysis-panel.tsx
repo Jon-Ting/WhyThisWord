@@ -3,7 +3,7 @@ import type { GreekToken, WordAnalysis } from "@/lib/corpus";
 import { getWordAnalysis } from "@/lib/corpus";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
-import logoIcon from "../../assets/app_icon_rounded.png";
+import logoIcon from "../../assets/logos/icon-rounded-light.png";
 
 interface WordAnalysisPanelProps {
   token: GreekToken | null;
