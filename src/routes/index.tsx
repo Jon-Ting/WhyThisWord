@@ -1,7 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { SiteHeader, SiteFooter } from "@/components/site-chrome";
-import logoLight from "../../assets/main_logo_light.png";
-import logoDark from "../../assets/main_logo_dark.png";
+import logoLight from "../../assets/logos/primary-light.png";
+import logoDark from "../../assets/logos/primary-dark.png";
 
 export const Route = createFileRoute("/")({
   head: () => ({
