@@ -1,7 +1,7 @@
 import { Link, useRouterState } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
 import { Moon, Sun } from "lucide-react";
-import logoIcon from "../../assets/app_icon_rounded.png";
+import logoIcon from "../../assets/logos/icon-rounded-light.png";
 
 function ThemeToggle() {
   const [dark, setDark] = useState(false);
