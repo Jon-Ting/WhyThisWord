@@ -33,15 +33,17 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
         }
       : undefined;
 
+    console.log(`[Panel] Fetching analysis for lemma: ${token.lemma}`);
     getWordAnalysis(token.lemma, context)
       .then((res) => {
         if (active) {
+          console.log(`[Panel] Analysis received for: ${token.lemma}`, res);
           setAnalysis(res || null);
           setLoading(false);
         }
       })
       .catch((err) => {
-        console.error(err);
+        console.error(`[Panel] Error fetching analysis for: ${token.lemma}`, err);
         if (active) {
           setAnalysis(null);
           setLoading(false);

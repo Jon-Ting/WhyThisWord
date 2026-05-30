@@ -133,6 +133,7 @@ Return a JSON object matching the following structure:
     }
   };
 
+  console.log(`[Gemini] Sending request for model: ${model}`);
   const response = await fetch(url, {
     method: "POST",
     headers: {
@@ -143,14 +144,17 @@ Return a JSON object matching the following structure:
 
   if (!response.ok) {
     const errorText = await response.text();
+    console.error(`[Gemini] API error ${response.status}:`, errorText);
     throw new Error(`Gemini API returned status ${response.status}: ${errorText}`);
   }
 
   const json = await response.json();
   const text = json.candidates?.[0]?.content?.parts?.[0]?.text;
   if (!text) {
+    console.error(`[Gemini] Unexpected response structure:`, json);
     throw new Error("Empty candidate response from Gemini API");
   }
 
+  console.log(`[Gemini] Response received successfully`);
   return JSON.parse(text) as WordAnalysis;
 }
