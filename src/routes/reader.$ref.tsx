@@ -71,11 +71,11 @@ function ReaderPage() {
     });
   }, [passage.id, passage.ref, passage.title]);
 
-  const selectedToken: GreekToken | null = useMemo(() => {
+  const selectedTokenAndVerse = useMemo(() => {
     if (!w) return null;
     for (const v of passage.verses as Verse[]) {
       const found = v.tokens.find((t: GreekToken) => t.id === w);
-      if (found) return found;
+      if (found) return { token: found, verse: v };
     }
     return null;
   }, [w, passage]);
@@ -124,7 +124,11 @@ function ReaderPage() {
 
         <aside className="hidden border-l border-border/70 lg:block">
           <div className="sticky top-14 h-[calc(100vh-3.5rem)]">
-            <WordAnalysisPanel token={selectedToken} onClose={closePanel} />
+            <WordAnalysisPanel
+              token={selectedTokenAndVerse?.token ?? null}
+              verse={selectedTokenAndVerse?.verse ?? null}
+              onClose={closePanel}
+            />
           </div>
         </aside>
       </div>
@@ -133,7 +137,7 @@ function ReaderPage() {
           overlay doesn't cover the desktop right-column panel. */}
       {isCompact ? (
         <Sheet
-          open={!!selectedToken}
+          open={!!selectedTokenAndVerse}
           onOpenChange={(open) => {
             if (!open) closePanel();
           }}
@@ -145,10 +149,15 @@ function ReaderPage() {
                 Lexical and contrastive notes for the selected Greek word.
               </SheetDescription>
             </VisuallyHidden.Root>
-            <WordAnalysisPanel token={selectedToken} onClose={closePanel} />
+            <WordAnalysisPanel
+              token={selectedTokenAndVerse?.token ?? null}
+              verse={selectedTokenAndVerse?.verse ?? null}
+              onClose={closePanel}
+            />
           </SheetContent>
         </Sheet>
       ) : null}
+
 
       <SiteFooter />
     </div>

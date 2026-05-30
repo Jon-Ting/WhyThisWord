@@ -1,6 +1,6 @@
 import { X, BookOpen, GitCompare, Sparkles, History, Info, Loader2 } from "lucide-react";
 import { useEffect, useState } from "react";
-import type { GreekToken, WordAnalysis } from "@/lib/corpus";
+import type { GreekToken, WordAnalysis, Verse } from "@/lib/corpus";
 import { getWordAnalysis } from "@/lib/corpus";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
@@ -8,10 +8,11 @@ import logoIcon from "../../assets/logos/icon-rounded-light.png";
 
 interface WordAnalysisPanelProps {
   token: GreekToken | null;
+  verse?: Verse | null;
   onClose: () => void;
 }
 
-export function WordAnalysisPanel({ token, onClose }: WordAnalysisPanelProps) {
+export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelProps) {
   const [analysis, setAnalysis] = useState<WordAnalysis | null>(null);
   const [loading, setLoading] = useState(false);
 
@@ -19,7 +20,20 @@ export function WordAnalysisPanel({ token, onClose }: WordAnalysisPanelProps) {
     if (!token) return;
     let active = true;
     setLoading(true);
-    getWordAnalysis(token.lemma)
+
+    const greekText = verse
+      ? verse.tokens.map((t) => t.surface + (t.punctuationAfter ?? "")).join(" ")
+      : "";
+
+    const context = verse
+      ? {
+          ref: verse.ref,
+          englishText: verse.englishText,
+          greekText,
+        }
+      : undefined;
+
+    getWordAnalysis(token.lemma, context)
       .then((res) => {
         if (active) {
           setAnalysis(res || null);
@@ -36,7 +50,8 @@ export function WordAnalysisPanel({ token, onClose }: WordAnalysisPanelProps) {
     return () => {
       active = false;
     };
-  }, [token]);
+  }, [token, verse]);
+
 
   if (!token) {
     return <EmptyState />;

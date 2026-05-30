@@ -82,7 +82,10 @@ export async function getPassage(id: string): Promise<Passage | undefined> {
 }
 
 // Asynchronously resolve a Greek word's contrastive semantics or lexicon definitions
-export async function getWordAnalysis(lemma: string): Promise<WordAnalysis | undefined> {
+export async function getWordAnalysis(
+  lemma: string,
+  context?: { ref: string; englishText: string; greekText: string }
+): Promise<WordAnalysis | undefined> {
   const normalizedLemma = lemma.normalize("NFC").trim();
 
   // 1. Check if a curated, contrastive analysis exists in the mock database
@@ -90,7 +93,49 @@ export async function getWordAnalysis(lemma: string): Promise<WordAnalysis | und
     return analyses[normalizedLemma];
   }
 
-  // 2. Fall back to standard dictionary definition (Abbott-Smith / Strong's)
+  // 2. If context is provided, try retrieving/generating via Gemini & cache
+  if (context) {
+    try {
+      // If running inside CLI test script (direct execution)
+      if (typeof window === "undefined" && typeof process !== "undefined" && !process.env.VINXI_ENV) {
+        const { getCachedAnalysis, setCachedAnalysis } = await import("../analysis/cache");
+        const { fetchSemanticAnalysis } = await import("../analysis/gemini");
+
+        const cached = await getCachedAnalysis(normalizedLemma, context.ref);
+        if (cached) {
+          return cached;
+        }
+
+        const generated = await fetchSemanticAnalysis(
+          normalizedLemma,
+          context.ref,
+          context.englishText,
+          context.greekText
+        );
+        await setCachedAnalysis(normalizedLemma, context.ref, generated);
+        return generated;
+      }
+
+      // If running in browser or SSR runtime, execute standard Server Function RPC
+      const { getSemanticAnalysisServer } = await import("../analysis/server-functions");
+      const result = await getSemanticAnalysisServer({
+        data: {
+          lemma: normalizedLemma,
+          ref: context.ref,
+          englishText: context.englishText,
+          greekText: context.greekText,
+        },
+      });
+      if (result) {
+        return result;
+      }
+    } catch (err) {
+      console.warn("Dynamic AI analysis failed, falling back to lexicon definition:", err);
+    }
+  }
+
+
+  // 3. Fall back to standard dictionary definition (Abbott-Smith / Strong's)
   try {
     const lexicon = await import("./data/lexicon.json").then((m) => m.default || m);
     const cleanLemma = normalizedLemma.toLowerCase();
@@ -105,6 +150,7 @@ export async function getWordAnalysis(lemma: string): Promise<WordAnalysis | und
 
   return undefined;
 }
+
 
 // Synchronously check if a Greek lemma has a curated, contrastive analysis
 export function hasCuratedAnalysis(lemma: string): boolean {
