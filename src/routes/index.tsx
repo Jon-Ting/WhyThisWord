@@ -31,8 +31,16 @@ function Index() {
       <main>
         <section className="mx-auto max-w-3xl px-6 pt-16 pb-16 text-center">
           <div className="mx-auto mb-10 flex justify-center">
-            <img src={logoLight} alt="Why This Word" className="h-20 w-auto object-contain dark:hidden" />
-            <img src={logoDark} alt="Why This Word" className="hidden h-20 w-auto object-contain dark:block" />
+            <img
+              src={logoLight}
+              alt="Why This Word"
+              className="h-20 w-auto object-contain dark:hidden"
+            />
+            <img
+              src={logoDark}
+              alt="Why This Word"
+              className="hidden h-20 w-auto object-contain dark:block"
+            />
           </div>
           <p className="font-greek text-sm uppercase tracking-[0.3em] text-accent-scholar">
             λόγος · ῥῆμα · σοφία · φωνή
@@ -43,9 +51,9 @@ function Index() {
             and not a near one?
           </h1>
           <p className="mx-auto mt-7 max-w-xl font-serif text-lg leading-relaxed text-muted-foreground">
-            A reading companion for the Greek New Testament. Click any word to surface its
-            lexical entry, its semantic neighbours, and a careful reflection on what would
-            shift if the author had reached for a different term.
+            A reading companion for the Greek New Testament. Click any word to surface its lexical
+            entry, its semantic neighbours, and a careful reflection on what would shift if the
+            author had reached for a different term.
           </p>
 
           <div className="mt-10 flex items-center justify-center gap-3">
@@ -83,8 +91,8 @@ function Index() {
 
         <section className="mx-auto max-w-3xl px-6 pb-24">
           <blockquote className="border-l-2 border-accent-scholar pl-6 font-serif text-xl italic leading-relaxed text-reader-ink">
-            “Biblical authors chose words carefully. Theology can hinge on a lexical
-            distinction. Translation compresses meaning. Careful reading matters.”
+            “Biblical authors chose words carefully. Theology can hinge on a lexical distinction.
+            Translation compresses meaning. Careful reading matters.”
           </blockquote>
         </section>
       </main>

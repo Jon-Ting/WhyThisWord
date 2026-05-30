@@ -9,15 +9,9 @@ import { SiteHeader, SiteFooter } from "@/components/site-chrome";
 import { PassagePicker } from "@/components/passage-picker";
 import { VerseReader } from "@/components/verse-reader";
 import { WordAnalysisPanel } from "@/components/word-analysis-panel";
-import {
-  Sheet,
-  SheetContent,
-  SheetTitle,
-  SheetDescription,
-} from "@/components/ui/sheet";
+import { Sheet, SheetContent, SheetTitle, SheetDescription } from "@/components/ui/sheet";
 import { useNavigate } from "@tanstack/react-router";
 import { recordRecentPassage } from "@/hooks/use-recent-passages";
-
 
 function useIsCompact() {
   const [isCompact, setIsCompact] = useState(false);
@@ -37,8 +31,8 @@ const searchSchema = z.object({
 
 export const Route = createFileRoute("/reader/$ref")({
   validateSearch: zodValidator(searchSchema),
-  loader: ({ params }) => {
-    const passage = getPassage(params.ref);
+  loader: async ({ params }) => {
+    const passage = await getPassage(params.ref);
     if (!passage) throw notFound();
     return { passage };
   },
@@ -77,7 +71,6 @@ function ReaderPage() {
     });
   }, [passage.id, passage.ref, passage.title]);
 
-
   const selectedToken: GreekToken | null = useMemo(() => {
     if (!w) return null;
     for (const v of passage.verses as Verse[]) {
@@ -87,8 +80,7 @@ function ReaderPage() {
     return null;
   }, [w, passage]);
 
-  const selectToken = (tokenId: string) =>
-    navigate({ search: { w: tokenId }, replace: true });
+  const selectToken = (tokenId: string) => navigate({ search: { w: tokenId }, replace: true });
   const closePanel = () => navigate({ search: { w: undefined }, replace: true });
 
   return (
@@ -157,7 +149,6 @@ function ReaderPage() {
           </SheetContent>
         </Sheet>
       ) : null}
-
 
       <SiteFooter />
     </div>

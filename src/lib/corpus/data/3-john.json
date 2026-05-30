@@ -1,0 +1,2343 @@
+{
+  "id": "3-john",
+  "name": "3 John",
+  "verses": [
+    {
+      "ref": "3 John 1:1",
+      "englishText": "The elder to Gaius the beloved, whom I love in truth.",
+      "tokens": [
+        {
+          "id": "3-john-1-1-0",
+          "surface": "Ὁ",
+          "lemma": "ὁ",
+          "translit": "Ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-1-1",
+          "surface": "πρεσβύτερος",
+          "lemma": "πρεσβύτερος",
+          "translit": "presbyteros",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["comparative of  elderly"],
+          "strongs": "G4245"
+        },
+        {
+          "id": "3-john-1-1-2",
+          "surface": "Γαΐῳ",
+          "lemma": "Γάϊος",
+          "translit": "Gaio",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of latin origin"],
+          "strongs": "G1050"
+        },
+        {
+          "id": "3-john-1-1-3",
+          "surface": "τῷ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-1-4",
+          "surface": "ἀγαπητῷ,",
+          "lemma": "ἀγαπητός",
+          "translit": "agapeto",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from ἀγαπάω"],
+          "strongs": "G27",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-1-5",
+          "surface": "ὃν",
+          "lemma": "ὅς",
+          "translit": "hon",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "3-john-1-1-6",
+          "surface": "ἐγὼ",
+          "lemma": "ἐγώ",
+          "translit": "ego",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "3-john-1-1-7",
+          "surface": "ἀγαπῶ",
+          "lemma": "ἀγαπάω",
+          "translit": "agapo",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["perhaps from  much or compare עֲגַב"],
+          "strongs": "G25"
+        },
+        {
+          "id": "3-john-1-1-8",
+          "surface": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "3-john-1-1-9",
+          "surface": "ἀληθείᾳ.",
+          "lemma": "ἀλήθεια",
+          "translit": "aletheia",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀληθής"],
+          "strongs": "G225",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:2",
+      "englishText": "Beloved, I pray that you may prosper in all things and be healthy, even as your soul prospers.",
+      "tokens": [
+        {
+          "id": "3-john-1-2-10",
+          "surface": "Ἀγαπητέ,",
+          "lemma": "ἀγαπητός",
+          "translit": "Agapete",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from ἀγαπάω"],
+          "strongs": "G27",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-2-11",
+          "surface": "περὶ",
+          "lemma": "περί",
+          "translit": "peri",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["from the base of πέραν"],
+          "strongs": "G4012"
+        },
+        {
+          "id": "3-john-1-2-12",
+          "surface": "πάντων",
+          "lemma": "πᾶς",
+          "translit": "panton",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["including all the forms of declension"],
+          "strongs": "G3956"
+        },
+        {
+          "id": "3-john-1-2-13",
+          "surface": "εὔχομαί",
+          "lemma": "εὔχομαι",
+          "translit": "eychomai",
+          "morph": "Verb, 1st person, present, middle, indicative",
+          "pos": "Verb",
+          "glosses": ["middle voice of a primary verb"],
+          "strongs": "G2172"
+        },
+        {
+          "id": "3-john-1-2-14",
+          "surface": "σε",
+          "lemma": "σύ",
+          "translit": "se",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "3-john-1-2-15",
+          "surface": "εὐοδοῦσθαι",
+          "lemma": "εὐοδόομαι",
+          "translit": "eyodoysthai",
+          "morph": "Verb, present, passive, infinitive",
+          "pos": "Verb",
+          "glosses": ["εὐοδόομαι"]
+        },
+        {
+          "id": "3-john-1-2-16",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-2-17",
+          "surface": "ὑγιαίνειν,",
+          "lemma": "ὑγιαίνω",
+          "translit": "hygiainein",
+          "morph": "Verb, present, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["from ὑγιής"],
+          "strongs": "G5198",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-2-18",
+          "surface": "καθὼς",
+          "lemma": "καθώς",
+          "translit": "kathos",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from κατά and ὡς"],
+          "strongs": "G2531"
+        },
+        {
+          "id": "3-john-1-2-19",
+          "surface": "εὐοδοῦταί",
+          "lemma": "εὐοδόομαι",
+          "translit": "eyodoytai",
+          "morph": "Verb, 3rd person, present, passive, indicative",
+          "pos": "Verb",
+          "glosses": ["εὐοδόομαι"]
+        },
+        {
+          "id": "3-john-1-2-20",
+          "surface": "σου",
+          "lemma": "σύ",
+          "translit": "soy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "3-john-1-2-21",
+          "surface": "ἡ",
+          "lemma": "ὁ",
+          "translit": "he",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-2-22",
+          "surface": "ψυχή.",
+          "lemma": "ψυχή",
+          "translit": "psyche",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ψύχω"],
+          "strongs": "G5590",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:3",
+      "englishText": "For I rejoiced greatly, when brothers came and testified about your truth, even as you walk in truth.",
+      "tokens": [
+        {
+          "id": "3-john-1-3-23",
+          "surface": "ἐχάρην",
+          "lemma": "χαίρω",
+          "translit": "echaren",
+          "morph": "Verb, 1st person, aorist, passive, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G5463"
+        },
+        {
+          "id": "3-john-1-3-24",
+          "surface": "γὰρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "3-john-1-3-25",
+          "surface": "λίαν",
+          "lemma": "λίαν",
+          "translit": "lian",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G3029"
+        },
+        {
+          "id": "3-john-1-3-26",
+          "surface": "ἐρχομένων",
+          "lemma": "ἔρχομαι",
+          "translit": "erchomenon",
+          "morph": "Verb, present, middle, participle, genitive, plural, masculine",
+          "pos": "Verb",
+          "glosses": [
+            "middle voice of a primary verb  used only in the present and imperfect tenses"
+          ],
+          "strongs": "G2064"
+        },
+        {
+          "id": "3-john-1-3-27",
+          "surface": "ἀδελφῶν",
+          "lemma": "ἀδελφός",
+          "translit": "adelphon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from α as a connective particle and  the womb"],
+          "strongs": "G80"
+        },
+        {
+          "id": "3-john-1-3-28",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-3-29",
+          "surface": "μαρτυρούντων",
+          "lemma": "μαρτυρέω",
+          "translit": "martyroynton",
+          "morph": "Verb, present, active, participle, genitive, plural, masculine",
+          "pos": "Verb",
+          "glosses": ["from μάρτυς"],
+          "strongs": "G3140"
+        },
+        {
+          "id": "3-john-1-3-30",
+          "surface": "σου",
+          "lemma": "σύ",
+          "translit": "soy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "3-john-1-3-31",
+          "surface": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-3-32",
+          "surface": "ἀληθείᾳ,",
+          "lemma": "ἀλήθεια",
+          "translit": "aletheia",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀληθής"],
+          "strongs": "G225",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-3-33",
+          "surface": "καθὼς",
+          "lemma": "καθώς",
+          "translit": "kathos",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from κατά and ὡς"],
+          "strongs": "G2531"
+        },
+        {
+          "id": "3-john-1-3-34",
+          "surface": "σὺ",
+          "lemma": "σύ",
+          "translit": "sy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "3-john-1-3-35",
+          "surface": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "3-john-1-3-36",
+          "surface": "ἀληθείᾳ",
+          "lemma": "ἀλήθεια",
+          "translit": "aletheia",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀληθής"],
+          "strongs": "G225"
+        },
+        {
+          "id": "3-john-1-3-37",
+          "surface": "περιπατεῖς.",
+          "lemma": "περιπατέω",
+          "translit": "peripateis",
+          "morph": "Verb, 2nd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from περί and πατέω"],
+          "strongs": "G4043",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:4",
+      "englishText": "I have no greater joy than this, to hear about my children walking in truth.",
+      "tokens": [
+        {
+          "id": "3-john-1-4-38",
+          "surface": "μειζοτέραν",
+          "lemma": "μειζότερος",
+          "translit": "meizoteran",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["continued comparative of μείζων"],
+          "strongs": "G3186"
+        },
+        {
+          "id": "3-john-1-4-39",
+          "surface": "τούτων",
+          "lemma": "οὗτος",
+          "translit": "toyton",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from the article ὁ and αὐτός"],
+          "strongs": "G3778"
+        },
+        {
+          "id": "3-john-1-4-40",
+          "surface": "οὐκ",
+          "lemma": "οὐ",
+          "translit": "oyk",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "3-john-1-4-41",
+          "surface": "ἔχω",
+          "lemma": "ἔχω",
+          "translit": "echo",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G2192"
+        },
+        {
+          "id": "3-john-1-4-42",
+          "surface": "⸀χαράν,",
+          "lemma": "χαρά",
+          "translit": "charan",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χαίρω"],
+          "strongs": "G5479",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-4-43",
+          "surface": "ἵνα",
+          "lemma": "ἵνα",
+          "translit": "hina",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "probably from the same as the former part of ἑαυτοῦ through the demonstrative idea"
+          ],
+          "strongs": "G2443"
+        },
+        {
+          "id": "3-john-1-4-44",
+          "surface": "ἀκούω",
+          "lemma": "ἀκούω",
+          "translit": "akoyo",
+          "morph": "Verb, 1st person, present, active, subjunctive",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G191"
+        },
+        {
+          "id": "3-john-1-4-45",
+          "surface": "τὰ",
+          "lemma": "ὁ",
+          "translit": "ta",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-4-46",
+          "surface": "ἐμὰ",
+          "lemma": "ἐμός",
+          "translit": "ema",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from the oblique cases of ἐγώ ἐμοί"],
+          "strongs": "G1699"
+        },
+        {
+          "id": "3-john-1-4-47",
+          "surface": "τέκνα",
+          "lemma": "τέκνον",
+          "translit": "tekna",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from the base of τίκτω"],
+          "strongs": "G5043"
+        },
+        {
+          "id": "3-john-1-4-48",
+          "surface": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "3-john-1-4-49",
+          "surface": "⸀τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-4-50",
+          "surface": "ἀληθείᾳ",
+          "lemma": "ἀλήθεια",
+          "translit": "aletheia",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀληθής"],
+          "strongs": "G225"
+        },
+        {
+          "id": "3-john-1-4-51",
+          "surface": "περιπατοῦντα.",
+          "lemma": "περιπατέω",
+          "translit": "peripatoynta",
+          "morph": "Verb, present, active, participle, accusative, plural, neuter",
+          "pos": "Verb",
+          "glosses": ["from περί and πατέω"],
+          "strongs": "G4043",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:5",
+      "englishText": "Beloved, you do a faithful work in whatever you accomplish for those who are brothers and strangers.",
+      "tokens": [
+        {
+          "id": "3-john-1-5-52",
+          "surface": "Ἀγαπητέ,",
+          "lemma": "ἀγαπητός",
+          "translit": "Agapete",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from ἀγαπάω"],
+          "strongs": "G27",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-5-53",
+          "surface": "πιστὸν",
+          "lemma": "πιστός",
+          "translit": "piston",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from πείθω"],
+          "strongs": "G4103"
+        },
+        {
+          "id": "3-john-1-5-54",
+          "surface": "ποιεῖς",
+          "lemma": "ποιέω",
+          "translit": "poieis",
+          "morph": "Verb, 2nd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["apparently a prolonged form of an obsolete primary"],
+          "strongs": "G4160"
+        },
+        {
+          "id": "3-john-1-5-55",
+          "surface": "ὃ",
+          "lemma": "ὅς",
+          "translit": "ho",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "3-john-1-5-56",
+          "surface": "ἐὰν",
+          "lemma": "ἐάν",
+          "translit": "ean",
+          "morph": "Particle",
+          "pos": "Particle",
+          "glosses": ["from εἰ and ἄν"],
+          "strongs": "G1437"
+        },
+        {
+          "id": "3-john-1-5-57",
+          "surface": "ἐργάσῃ",
+          "lemma": "ἐργάζομαι",
+          "translit": "ergase",
+          "morph": "Verb, 2nd person, aorist, middle, subjunctive",
+          "pos": "Verb",
+          "glosses": ["middle voice from ἔργον"],
+          "strongs": "G2038"
+        },
+        {
+          "id": "3-john-1-5-58",
+          "surface": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "3-john-1-5-59",
+          "surface": "τοὺς",
+          "lemma": "ὁ",
+          "translit": "toys",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-5-60",
+          "surface": "ἀδελφοὺς",
+          "lemma": "ἀδελφός",
+          "translit": "adelphoys",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from α as a connective particle and  the womb"],
+          "strongs": "G80"
+        },
+        {
+          "id": "3-john-1-5-61",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-5-62",
+          "surface": "⸀τοῦτο",
+          "lemma": "οὗτος",
+          "translit": "toyto",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from the article ὁ and αὐτός"],
+          "strongs": "G3778"
+        },
+        {
+          "id": "3-john-1-5-63",
+          "surface": "ξένους,",
+          "lemma": "ξένος",
+          "translit": "xenoys",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G3581",
+          "punctuationAfter": ","
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:6",
+      "englishText": "They have testified about your love before the assembly. You will do well to send them forward on their journey in a way worthy of God,",
+      "tokens": [
+        {
+          "id": "3-john-1-6-64",
+          "surface": "οἳ",
+          "lemma": "ὅς",
+          "translit": "hoi",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "3-john-1-6-65",
+          "surface": "ἐμαρτύρησάν",
+          "lemma": "μαρτυρέω",
+          "translit": "emartyresan",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from μάρτυς"],
+          "strongs": "G3140"
+        },
+        {
+          "id": "3-john-1-6-66",
+          "surface": "σου",
+          "lemma": "σύ",
+          "translit": "soy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "3-john-1-6-67",
+          "surface": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-6-68",
+          "surface": "ἀγάπῃ",
+          "lemma": "ἀγάπη",
+          "translit": "agape",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀγαπάω"],
+          "strongs": "G26"
+        },
+        {
+          "id": "3-john-1-6-69",
+          "surface": "ἐνώπιον",
+          "lemma": "ἐνώπιον",
+          "translit": "enopion",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["neuter of a compound of ἐν and a derivative of ὀπτάνομαι"],
+          "strongs": "G1799"
+        },
+        {
+          "id": "3-john-1-6-70",
+          "surface": "ἐκκλησίας,",
+          "lemma": "ἐκκλησία",
+          "translit": "ekklesias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a compound of ἐκ and a derivative of καλέω"],
+          "strongs": "G1577",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-6-71",
+          "surface": "οὓς",
+          "lemma": "ὅς",
+          "translit": "hoys",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "3-john-1-6-72",
+          "surface": "καλῶς",
+          "lemma": "καλῶς",
+          "translit": "kalos",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["adverb from καλός"],
+          "strongs": "G2573"
+        },
+        {
+          "id": "3-john-1-6-73",
+          "surface": "ποιήσεις",
+          "lemma": "ποιέω",
+          "translit": "poieseis",
+          "morph": "Verb, 2nd person, future, active, indicative",
+          "pos": "Verb",
+          "glosses": ["apparently a prolonged form of an obsolete primary"],
+          "strongs": "G4160"
+        },
+        {
+          "id": "3-john-1-6-74",
+          "surface": "προπέμψας",
+          "lemma": "προπέμπω",
+          "translit": "propempsas",
+          "morph": "Verb, aorist, active, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from πρό and πέμπω"],
+          "strongs": "G4311"
+        },
+        {
+          "id": "3-john-1-6-75",
+          "surface": "ἀξίως",
+          "lemma": "ἀξίως",
+          "translit": "axios",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["adverb from ἄξιος"],
+          "strongs": "G516"
+        },
+        {
+          "id": "3-john-1-6-76",
+          "surface": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-6-77",
+          "surface": "θεοῦ·",
+          "lemma": "θεός",
+          "translit": "theoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316",
+          "punctuationAfter": "·"
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:7",
+      "englishText": "because for the sake of the Name they went out, taking nothing from the Gentiles.",
+      "tokens": [
+        {
+          "id": "3-john-1-7-78",
+          "surface": "ὑπὲρ",
+          "lemma": "ὑπέρ",
+          "translit": "hyper",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G5228"
+        },
+        {
+          "id": "3-john-1-7-79",
+          "surface": "γὰρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "3-john-1-7-80",
+          "surface": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-7-81",
+          "surface": "ὀνόματος",
+          "lemma": "ὄνομα",
+          "translit": "onomatos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a presumed derivative of the base of γινώσκω compare ὀνίνημι"],
+          "strongs": "G3686"
+        },
+        {
+          "id": "3-john-1-7-82",
+          "surface": "ἐξῆλθον",
+          "lemma": "ἐξέρχομαι",
+          "translit": "exelthon",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἐκ and ἔρχομαι"],
+          "strongs": "G1831"
+        },
+        {
+          "id": "3-john-1-7-83",
+          "surface": "μηδὲν",
+          "lemma": "μηδείς",
+          "translit": "meden",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from μή and εἷς"],
+          "strongs": "G3367"
+        },
+        {
+          "id": "3-john-1-7-84",
+          "surface": "λαμβάνοντες",
+          "lemma": "λαμβάνω",
+          "translit": "lambanontes",
+          "morph": "Verb, present, active, participle, nominative, plural, masculine",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of a primary verb"],
+          "strongs": "G2983"
+        },
+        {
+          "id": "3-john-1-7-85",
+          "surface": "ἀπὸ",
+          "lemma": "ἀπό",
+          "translit": "apo",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G575"
+        },
+        {
+          "id": "3-john-1-7-86",
+          "surface": "τῶν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-7-87",
+          "surface": "⸀ἐθνικῶν.",
+          "lemma": "ἐθνικός",
+          "translit": "ethnikon",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from ἔθνος"],
+          "strongs": "G1482",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:8",
+      "englishText": "We therefore ought to receive such, that we may be fellow workers for the truth.",
+      "tokens": [
+        {
+          "id": "3-john-1-8-88",
+          "surface": "ἡμεῖς",
+          "lemma": "ἐγώ",
+          "translit": "hemeis",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "3-john-1-8-89",
+          "surface": "οὖν",
+          "lemma": "οὖν",
+          "translit": "oyn",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G3767"
+        },
+        {
+          "id": "3-john-1-8-90",
+          "surface": "ὀφείλομεν",
+          "lemma": "ὀφείλω",
+          "translit": "opheilomen",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["probably from the base of ὄφελος through the idea of accruing"],
+          "strongs": "G3784"
+        },
+        {
+          "id": "3-john-1-8-91",
+          "surface": "⸀ὑπολαμβάνειν",
+          "lemma": "ὑπολαμβάνω",
+          "translit": "hypolambanein",
+          "morph": "Verb, present, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["from ὑπό and λαμβάνω"],
+          "strongs": "G5274"
+        },
+        {
+          "id": "3-john-1-8-92",
+          "surface": "τοὺς",
+          "lemma": "ὁ",
+          "translit": "toys",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-8-93",
+          "surface": "τοιούτους,",
+          "lemma": "τοιοῦτος",
+          "translit": "toioytoys",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["including the other inflections"],
+          "strongs": "G5108",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-8-94",
+          "surface": "ἵνα",
+          "lemma": "ἵνα",
+          "translit": "hina",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": [
+            "probably from the same as the former part of ἑαυτοῦ through the demonstrative idea"
+          ],
+          "strongs": "G2443"
+        },
+        {
+          "id": "3-john-1-8-95",
+          "surface": "συνεργοὶ",
+          "lemma": "συνεργός",
+          "translit": "synergoi",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from a presumed compound of σύν and the base of ἔργον"],
+          "strongs": "G4904"
+        },
+        {
+          "id": "3-john-1-8-96",
+          "surface": "γινώμεθα",
+          "lemma": "γίνομαι",
+          "translit": "ginometha",
+          "morph": "Verb, 1st person, present, middle, subjunctive",
+          "pos": "Verb",
+          "glosses": ["a prolongation and middle voice form of a primary verb"],
+          "strongs": "G1096"
+        },
+        {
+          "id": "3-john-1-8-97",
+          "surface": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-8-98",
+          "surface": "ἀληθείᾳ.",
+          "lemma": "ἀλήθεια",
+          "translit": "aletheia",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀληθής"],
+          "strongs": "G225",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:9",
+      "englishText": "I wrote to the assembly, but Diotrephes, who loves to be first among them, doesn’t accept what we say.",
+      "tokens": [
+        {
+          "id": "3-john-1-9-99",
+          "surface": "Ἔγραψά",
+          "lemma": "γράφω",
+          "translit": "Egrapsa",
+          "morph": "Verb, 1st person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G1125"
+        },
+        {
+          "id": "3-john-1-9-100",
+          "surface": "⸀τι",
+          "lemma": "τις",
+          "translit": "ti",
+          "morph": "Interrogative/Indefinite Pronoun",
+          "pos": "Interrogative/Indefinite Pronoun",
+          "glosses": ["τις"]
+        },
+        {
+          "id": "3-john-1-9-101",
+          "surface": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-9-102",
+          "surface": "ἐκκλησίᾳ·",
+          "lemma": "ἐκκλησία",
+          "translit": "ekklesia",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a compound of ἐκ and a derivative of καλέω"],
+          "strongs": "G1577",
+          "punctuationAfter": "·"
+        },
+        {
+          "id": "3-john-1-9-103",
+          "surface": "ἀλλ’",
+          "lemma": "ἀλλά",
+          "translit": "all’",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter plural of ἄλλος"],
+          "strongs": "G235"
+        },
+        {
+          "id": "3-john-1-9-104",
+          "surface": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-9-105",
+          "surface": "φιλοπρωτεύων",
+          "lemma": "φιλοπρωτεύω",
+          "translit": "philoproteyon",
+          "morph": "Verb, present, active, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from a compound of φίλος and πρῶτος"],
+          "strongs": "G5383"
+        },
+        {
+          "id": "3-john-1-9-106",
+          "surface": "αὐτῶν",
+          "lemma": "αὐτός",
+          "translit": "ayton",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "3-john-1-9-107",
+          "surface": "Διοτρέφης",
+          "lemma": "Διοτρέφης",
+          "translit": "Diotrephes",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["διοτρέφης"]
+        },
+        {
+          "id": "3-john-1-9-108",
+          "surface": "οὐκ",
+          "lemma": "οὐ",
+          "translit": "oyk",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "3-john-1-9-109",
+          "surface": "ἐπιδέχεται",
+          "lemma": "ἐπιδέχομαι",
+          "translit": "epidechetai",
+          "morph": "Verb, 3rd person, present, middle, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἐπί and δέχομαι"],
+          "strongs": "G1926"
+        },
+        {
+          "id": "3-john-1-9-110",
+          "surface": "ἡμᾶς.",
+          "lemma": "ἐγώ",
+          "translit": "hemas",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:10",
+      "englishText": "Therefore if I come, I will call attention to his deeds which he does, unjustly accusing us with wicked words. Not content with this, neither does he himself receive the brothers, and those who would, he forbids and throws out of the assembly.",
+      "tokens": [
+        {
+          "id": "3-john-1-10-111",
+          "surface": "διὰ",
+          "lemma": "διά",
+          "translit": "dia",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting the channel of an act"],
+          "strongs": "G1223"
+        },
+        {
+          "id": "3-john-1-10-112",
+          "surface": "τοῦτο,",
+          "lemma": "οὗτος",
+          "translit": "toyto",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from the article ὁ and αὐτός"],
+          "strongs": "G3778",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-10-113",
+          "surface": "ἐὰν",
+          "lemma": "ἐάν",
+          "translit": "ean",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from εἰ and ἄν"],
+          "strongs": "G1437"
+        },
+        {
+          "id": "3-john-1-10-114",
+          "surface": "ἔλθω,",
+          "lemma": "ἔρχομαι",
+          "translit": "eltho",
+          "morph": "Verb, 1st person, aorist, active, subjunctive",
+          "pos": "Verb",
+          "glosses": [
+            "middle voice of a primary verb  used only in the present and imperfect tenses"
+          ],
+          "strongs": "G2064",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-10-115",
+          "surface": "ὑπομνήσω",
+          "lemma": "ὑπομιμνῄσκω",
+          "translit": "hypomneso",
+          "morph": "Verb, 1st person, future, active, indicative",
+          "pos": "Verb",
+          "glosses": ["ὑπομιμνῄσκω"]
+        },
+        {
+          "id": "3-john-1-10-116",
+          "surface": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "translit": "aytoy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "3-john-1-10-117",
+          "surface": "τὰ",
+          "lemma": "ὁ",
+          "translit": "ta",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-10-118",
+          "surface": "ἔργα",
+          "lemma": "ἔργον",
+          "translit": "erga",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a primary but obsolete  to work"],
+          "strongs": "G2041"
+        },
+        {
+          "id": "3-john-1-10-119",
+          "surface": "ἃ",
+          "lemma": "ὅς",
+          "translit": "ha",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "3-john-1-10-120",
+          "surface": "ποιεῖ,",
+          "lemma": "ποιέω",
+          "translit": "poiei",
+          "morph": "Verb, 3rd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["apparently a prolonged form of an obsolete primary"],
+          "strongs": "G4160",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-10-121",
+          "surface": "λόγοις",
+          "lemma": "λόγος",
+          "translit": "logois",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from λέγω"],
+          "strongs": "G3056"
+        },
+        {
+          "id": "3-john-1-10-122",
+          "surface": "πονηροῖς",
+          "lemma": "πονηρός",
+          "translit": "ponerois",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from a derivative of πόνος"],
+          "strongs": "G4190"
+        },
+        {
+          "id": "3-john-1-10-123",
+          "surface": "φλυαρῶν",
+          "lemma": "φλυαρέω",
+          "translit": "phlyaron",
+          "morph": "Verb, present, active, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from φλύαρος"],
+          "strongs": "G5396"
+        },
+        {
+          "id": "3-john-1-10-124",
+          "surface": "ἡμᾶς,",
+          "lemma": "ἐγώ",
+          "translit": "hemas",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-10-125",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-10-126",
+          "surface": "μὴ",
+          "lemma": "μή",
+          "translit": "me",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "a primary particle of qualified negation whereas οὐ expresses an absolute denial"
+          ],
+          "strongs": "G3361"
+        },
+        {
+          "id": "3-john-1-10-127",
+          "surface": "ἀρκούμενος",
+          "lemma": "ἀρκέω",
+          "translit": "arkoymenos",
+          "morph": "Verb, present, passive, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": [
+            "apparently a primary verb but probably akin to αἴρω through the idea of raising a barrier"
+          ],
+          "strongs": "G714"
+        },
+        {
+          "id": "3-john-1-10-128",
+          "surface": "ἐπὶ",
+          "lemma": "ἐπί",
+          "translit": "epi",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1909"
+        },
+        {
+          "id": "3-john-1-10-129",
+          "surface": "τούτοις",
+          "lemma": "οὗτος",
+          "translit": "toytois",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from the article ὁ and αὐτός"],
+          "strongs": "G3778"
+        },
+        {
+          "id": "3-john-1-10-130",
+          "surface": "οὔτε",
+          "lemma": "οὔτε",
+          "translit": "oyte",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from οὐ and τέ"],
+          "strongs": "G3777"
+        },
+        {
+          "id": "3-john-1-10-131",
+          "surface": "αὐτὸς",
+          "lemma": "αὐτός",
+          "translit": "aytos",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "3-john-1-10-132",
+          "surface": "ἐπιδέχεται",
+          "lemma": "ἐπιδέχομαι",
+          "translit": "epidechetai",
+          "morph": "Verb, 3rd person, present, middle, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἐπί and δέχομαι"],
+          "strongs": "G1926"
+        },
+        {
+          "id": "3-john-1-10-133",
+          "surface": "τοὺς",
+          "lemma": "ὁ",
+          "translit": "toys",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-10-134",
+          "surface": "ἀδελφοὺς",
+          "lemma": "ἀδελφός",
+          "translit": "adelphoys",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from α as a connective particle and  the womb"],
+          "strongs": "G80"
+        },
+        {
+          "id": "3-john-1-10-135",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-10-136",
+          "surface": "τοὺς",
+          "lemma": "ὁ",
+          "translit": "toys",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-10-137",
+          "surface": "βουλομένους",
+          "lemma": "βούλομαι",
+          "translit": "boylomenoys",
+          "morph": "Verb, present, middle, participle, accusative, plural, masculine",
+          "pos": "Verb",
+          "glosses": ["middle voice of a primary verb"],
+          "strongs": "G1014"
+        },
+        {
+          "id": "3-john-1-10-138",
+          "surface": "κωλύει",
+          "lemma": "κωλύω",
+          "translit": "kolyei",
+          "morph": "Verb, 3rd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from the base of κολάζω"],
+          "strongs": "G2967"
+        },
+        {
+          "id": "3-john-1-10-139",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-10-140",
+          "surface": "ἐκ",
+          "lemma": "ἐκ",
+          "translit": "ek",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": [
+            "a primary preposition denoting origin the point whence action or motion proceeds"
+          ],
+          "strongs": "G1537"
+        },
+        {
+          "id": "3-john-1-10-141",
+          "surface": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-10-142",
+          "surface": "ἐκκλησίας",
+          "lemma": "ἐκκλησία",
+          "translit": "ekklesias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a compound of ἐκ and a derivative of καλέω"],
+          "strongs": "G1577"
+        },
+        {
+          "id": "3-john-1-10-143",
+          "surface": "ἐκβάλλει.",
+          "lemma": "ἐκβάλλω",
+          "translit": "ekballei",
+          "morph": "Verb, 3rd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἐκ and βάλλω"],
+          "strongs": "G1544",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:11",
+      "englishText": "Beloved, don’t imitate that which is evil, but that which is good. He who does good is of God. He who does evil hasn’t seen God.",
+      "tokens": [
+        {
+          "id": "3-john-1-11-144",
+          "surface": "Ἀγαπητέ,",
+          "lemma": "ἀγαπητός",
+          "translit": "Agapete",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from ἀγαπάω"],
+          "strongs": "G27",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-11-145",
+          "surface": "μὴ",
+          "lemma": "μή",
+          "translit": "me",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "a primary particle of qualified negation whereas οὐ expresses an absolute denial"
+          ],
+          "strongs": "G3361"
+        },
+        {
+          "id": "3-john-1-11-146",
+          "surface": "μιμοῦ",
+          "lemma": "μιμέομαι",
+          "translit": "mimoy",
+          "morph": "Verb, 2nd person, present, middle, imperative",
+          "pos": "Verb",
+          "glosses": ["middle voice from  a \"mimic\""],
+          "strongs": "G3401"
+        },
+        {
+          "id": "3-john-1-11-147",
+          "surface": "τὸ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-11-148",
+          "surface": "κακὸν",
+          "lemma": "κακός",
+          "translit": "kakon",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G2556"
+        },
+        {
+          "id": "3-john-1-11-149",
+          "surface": "ἀλλὰ",
+          "lemma": "ἀλλά",
+          "translit": "alla",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter plural of ἄλλος"],
+          "strongs": "G235"
+        },
+        {
+          "id": "3-john-1-11-150",
+          "surface": "τὸ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-11-151",
+          "surface": "ἀγαθόν.",
+          "lemma": "ἀγαθός",
+          "translit": "agathon",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["a primary word"],
+          "strongs": "G18",
+          "punctuationAfter": "."
+        },
+        {
+          "id": "3-john-1-11-152",
+          "surface": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-11-153",
+          "surface": "ἀγαθοποιῶν",
+          "lemma": "ἀγαθοποιέω",
+          "translit": "agathopoion",
+          "morph": "Verb, present, active, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from ἀγαθοποιός"],
+          "strongs": "G15"
+        },
+        {
+          "id": "3-john-1-11-154",
+          "surface": "ἐκ",
+          "lemma": "ἐκ",
+          "translit": "ek",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": [
+            "a primary preposition denoting origin the point whence action or motion proceeds"
+          ],
+          "strongs": "G1537"
+        },
+        {
+          "id": "3-john-1-11-155",
+          "surface": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-11-156",
+          "surface": "θεοῦ",
+          "lemma": "θεός",
+          "translit": "theoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316"
+        },
+        {
+          "id": "3-john-1-11-157",
+          "surface": "ἐστιν·",
+          "lemma": "εἰμί",
+          "translit": "estin",
+          "morph": "Verb, 3rd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["the first person singular present indicative"],
+          "strongs": "G1510",
+          "punctuationAfter": "·"
+        },
+        {
+          "id": "3-john-1-11-158",
+          "surface": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-11-159",
+          "surface": "κακοποιῶν",
+          "lemma": "κακοποιέω",
+          "translit": "kakopoion",
+          "morph": "Verb, present, active, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from κακοποιός"],
+          "strongs": "G2554"
+        },
+        {
+          "id": "3-john-1-11-160",
+          "surface": "οὐχ",
+          "lemma": "οὐ",
+          "translit": "oych",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "3-john-1-11-161",
+          "surface": "ἑώρακεν",
+          "lemma": "ὁράω",
+          "translit": "heoraken",
+          "morph": "Verb, 3rd person, perfect, active, indicative",
+          "pos": "Verb",
+          "glosses": ["properly"],
+          "strongs": "G3708"
+        },
+        {
+          "id": "3-john-1-11-162",
+          "surface": "τὸν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-11-163",
+          "surface": "θεόν.",
+          "lemma": "θεός",
+          "translit": "theon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:12",
+      "englishText": "Demetrius has the testimony of all, and of the truth itself; yes, we also testify, and you know that our testimony is true.",
+      "tokens": [
+        {
+          "id": "3-john-1-12-164",
+          "surface": "Δημητρίῳ",
+          "lemma": "Δημήτριος",
+          "translit": "Demetrio",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from  ceres"],
+          "strongs": "G1216"
+        },
+        {
+          "id": "3-john-1-12-165",
+          "surface": "μεμαρτύρηται",
+          "lemma": "μαρτυρέω",
+          "translit": "memartyretai",
+          "morph": "Verb, 3rd person, perfect, passive, indicative",
+          "pos": "Verb",
+          "glosses": ["from μάρτυς"],
+          "strongs": "G3140"
+        },
+        {
+          "id": "3-john-1-12-166",
+          "surface": "ὑπὸ",
+          "lemma": "ὑπό",
+          "translit": "hypo",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G5259"
+        },
+        {
+          "id": "3-john-1-12-167",
+          "surface": "πάντων",
+          "lemma": "πᾶς",
+          "translit": "panton",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["including all the forms of declension"],
+          "strongs": "G3956"
+        },
+        {
+          "id": "3-john-1-12-168",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-12-169",
+          "surface": "ὑπὸ",
+          "lemma": "ὑπό",
+          "translit": "hypo",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G5259"
+        },
+        {
+          "id": "3-john-1-12-170",
+          "surface": "αὐτῆς",
+          "lemma": "αὐτός",
+          "translit": "aytes",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "3-john-1-12-171",
+          "surface": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-12-172",
+          "surface": "ἀληθείας·",
+          "lemma": "ἀλήθεια",
+          "translit": "aletheias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀληθής"],
+          "strongs": "G225",
+          "punctuationAfter": "·"
+        },
+        {
+          "id": "3-john-1-12-173",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-12-174",
+          "surface": "ἡμεῖς",
+          "lemma": "ἐγώ",
+          "translit": "hemeis",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "3-john-1-12-175",
+          "surface": "δὲ",
+          "lemma": "δέ",
+          "translit": "de",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle adversative or continuative"],
+          "strongs": "G1161"
+        },
+        {
+          "id": "3-john-1-12-176",
+          "surface": "μαρτυροῦμεν,",
+          "lemma": "μαρτυρέω",
+          "translit": "martyroymen",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from μάρτυς"],
+          "strongs": "G3140",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "3-john-1-12-177",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-12-178",
+          "surface": "⸀οἶδας",
+          "lemma": "οἶδα",
+          "translit": "oidas",
+          "morph": "Verb, 2nd person, perfect, active, indicative",
+          "pos": "Verb",
+          "glosses": ["οἶδα"]
+        },
+        {
+          "id": "3-john-1-12-179",
+          "surface": "ὅτι",
+          "lemma": "ὅτι",
+          "translit": "hoti",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter of ὅστις as conjunction"],
+          "strongs": "G3754"
+        },
+        {
+          "id": "3-john-1-12-180",
+          "surface": "ἡ",
+          "lemma": "ὁ",
+          "translit": "he",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-12-181",
+          "surface": "μαρτυρία",
+          "lemma": "μαρτυρία",
+          "translit": "martyria",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from μάρτυς"],
+          "strongs": "G3141"
+        },
+        {
+          "id": "3-john-1-12-182",
+          "surface": "ἡμῶν",
+          "lemma": "ἐγώ",
+          "translit": "hemon",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "3-john-1-12-183",
+          "surface": "ἀληθής",
+          "lemma": "ἀληθής",
+          "translit": "alethes",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from α as a negative particle and λανθάνω"],
+          "strongs": "G227"
+        },
+        {
+          "id": "3-john-1-12-184",
+          "surface": "ἐστιν.",
+          "lemma": "εἰμί",
+          "translit": "estin",
+          "morph": "Verb, 3rd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["the first person singular present indicative"],
+          "strongs": "G1510",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:13",
+      "englishText": "I had many things to write to you, but I am unwilling to write to you with ink and pen;",
+      "tokens": [
+        {
+          "id": "3-john-1-13-185",
+          "surface": "Πολλὰ",
+          "lemma": "πολύς",
+          "translit": "Polla",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["including the forms from the alternate"],
+          "strongs": "G4183"
+        },
+        {
+          "id": "3-john-1-13-186",
+          "surface": "εἶχον",
+          "lemma": "ἔχω",
+          "translit": "eichon",
+          "morph": "Verb, 1st person, imperfect, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G2192"
+        },
+        {
+          "id": "3-john-1-13-187",
+          "surface": "⸂γράψαι",
+          "lemma": "γράφω",
+          "translit": "grapsai",
+          "morph": "Verb, aorist, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G1125"
+        },
+        {
+          "id": "3-john-1-13-188",
+          "surface": "σοι⸃,",
+          "lemma": "σύ",
+          "translit": "soi",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771",
+          "punctuationAfter": "⸃,"
+        },
+        {
+          "id": "3-john-1-13-189",
+          "surface": "ἀλλ’",
+          "lemma": "ἀλλά",
+          "translit": "all’",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter plural of ἄλλος"],
+          "strongs": "G235"
+        },
+        {
+          "id": "3-john-1-13-190",
+          "surface": "οὐ",
+          "lemma": "οὐ",
+          "translit": "oy",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "3-john-1-13-191",
+          "surface": "θέλω",
+          "lemma": "θέλω",
+          "translit": "thelo",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["apparently strengthened from the alternate form of αἱρέομαι"],
+          "strongs": "G2309"
+        },
+        {
+          "id": "3-john-1-13-192",
+          "surface": "διὰ",
+          "lemma": "διά",
+          "translit": "dia",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting the channel of an act"],
+          "strongs": "G1223"
+        },
+        {
+          "id": "3-john-1-13-193",
+          "surface": "μέλανος",
+          "lemma": "μέλαν",
+          "translit": "melanos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["neuter of μέλας as noun"],
+          "strongs": "G3188"
+        },
+        {
+          "id": "3-john-1-13-194",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-13-195",
+          "surface": "καλάμου",
+          "lemma": "κάλαμος",
+          "translit": "kalamoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2563"
+        },
+        {
+          "id": "3-john-1-13-196",
+          "surface": "σοι",
+          "lemma": "σύ",
+          "translit": "soi",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "3-john-1-13-197",
+          "surface": "⸀γράφειν·",
+          "lemma": "γράφω",
+          "translit": "graphein",
+          "morph": "Verb, present, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G1125",
+          "punctuationAfter": "·"
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:14",
+      "englishText": "but I hope to see you soon, and we will speak face to face. Peace be to you. The friends greet you. Greet the friends by name.",
+      "tokens": [
+        {
+          "id": "3-john-1-14-198",
+          "surface": "ἐλπίζω",
+          "lemma": "ἐλπίζω",
+          "translit": "elpizo",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἐλπίς"],
+          "strongs": "G1679"
+        },
+        {
+          "id": "3-john-1-14-199",
+          "surface": "δὲ",
+          "lemma": "δέ",
+          "translit": "de",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle adversative or continuative"],
+          "strongs": "G1161"
+        },
+        {
+          "id": "3-john-1-14-200",
+          "surface": "εὐθέως",
+          "lemma": "εὐθέως",
+          "translit": "eytheos",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["adverb from εὐθύς"],
+          "strongs": "G2112"
+        },
+        {
+          "id": "3-john-1-14-201",
+          "surface": "⸂σε",
+          "lemma": "σύ",
+          "translit": "se",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "3-john-1-14-202",
+          "surface": "ἰδεῖν⸃,",
+          "lemma": "ὁράω",
+          "translit": "idein",
+          "morph": "Verb, aorist, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["properly"],
+          "strongs": "G3708",
+          "punctuationAfter": "⸃,"
+        },
+        {
+          "id": "3-john-1-14-203",
+          "surface": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "3-john-1-14-204",
+          "surface": "στόμα",
+          "lemma": "στόμα",
+          "translit": "stoma",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["probably strengthened from a presumed derivative of the base of τομώτερος"],
+          "strongs": "G4750"
+        },
+        {
+          "id": "3-john-1-14-205",
+          "surface": "πρὸς",
+          "lemma": "πρός",
+          "translit": "pros",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a strengthened form of πρό"],
+          "strongs": "G4314"
+        },
+        {
+          "id": "3-john-1-14-206",
+          "surface": "στόμα",
+          "lemma": "στόμα",
+          "translit": "stoma",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["probably strengthened from a presumed derivative of the base of τομώτερος"],
+          "strongs": "G4750"
+        },
+        {
+          "id": "3-john-1-14-207",
+          "surface": "λαλήσομεν.",
+          "lemma": "λαλέω",
+          "translit": "lalesomen",
+          "morph": "Verb, 1st person, future, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of an otherwise obsolete verb"],
+          "strongs": "G2980",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "3 John 1:15",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "3-john-1-15-208",
+          "surface": "Εἰρήνη",
+          "lemma": "εἰρήνη",
+          "translit": "Eirene",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["probably from a primary verb  to join"],
+          "strongs": "G1515"
+        },
+        {
+          "id": "3-john-1-15-209",
+          "surface": "σοι.",
+          "lemma": "σύ",
+          "translit": "soi",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771",
+          "punctuationAfter": "."
+        },
+        {
+          "id": "3-john-1-15-210",
+          "surface": "ἀσπάζονταί",
+          "lemma": "ἀσπάζομαι",
+          "translit": "aspazontai",
+          "morph": "Verb, 3rd person, present, middle, indicative",
+          "pos": "Verb",
+          "glosses": ["from α as a particle of union and a presumed form of σπάω"],
+          "strongs": "G782"
+        },
+        {
+          "id": "3-john-1-15-211",
+          "surface": "σε",
+          "lemma": "σύ",
+          "translit": "se",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "3-john-1-15-212",
+          "surface": "οἱ",
+          "lemma": "ὁ",
+          "translit": "hoi",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-15-213",
+          "surface": "φίλοι.",
+          "lemma": "φίλος",
+          "translit": "philoi",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["properly"],
+          "strongs": "G5384",
+          "punctuationAfter": "."
+        },
+        {
+          "id": "3-john-1-15-214",
+          "surface": "ἀσπάζου",
+          "lemma": "ἀσπάζομαι",
+          "translit": "aspazoy",
+          "morph": "Verb, 2nd person, present, middle, imperative",
+          "pos": "Verb",
+          "glosses": ["from α as a particle of union and a presumed form of σπάω"],
+          "strongs": "G782"
+        },
+        {
+          "id": "3-john-1-15-215",
+          "surface": "τοὺς",
+          "lemma": "ὁ",
+          "translit": "toys",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "3-john-1-15-216",
+          "surface": "φίλους",
+          "lemma": "φίλος",
+          "translit": "philoys",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["properly"],
+          "strongs": "G5384"
+        },
+        {
+          "id": "3-john-1-15-217",
+          "surface": "κατ’",
+          "lemma": "κατά",
+          "translit": "kat’",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G2596"
+        },
+        {
+          "id": "3-john-1-15-218",
+          "surface": "ὄνομα.",
+          "lemma": "ὄνομα",
+          "translit": "onoma",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a presumed derivative of the base of γινώσκω compare ὀνίνημι"],
+          "strongs": "G3686",
+          "punctuationAfter": "."
+        }
+      ]
+    }
+  ]
+}

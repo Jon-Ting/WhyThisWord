@@ -7,7 +7,5 @@ export async function analyzeWord(
   _lemma: string,
   _context: { verseRef: string; surface: string },
 ): Promise<WordAnalysis> {
-  throw new Error(
-    "AI analysis not wired yet. Falling back to the curated mock dataset.",
-  );
+  throw new Error("AI analysis not wired yet. Falling back to the curated mock dataset.");
 }

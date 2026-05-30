@@ -1,24 +1,114 @@
-// Public data API. Components import only from here.
-// Swap mock implementations for SBLGNT/MorphGNT/AI without touching UI.
-import { passages } from "./mock/passages";
+// Public GNT corpus data API. Components import only from here.
+import booksIndex from "./data/books.json";
 import { analyses } from "./mock/analyses";
 import type { Passage, Verse, WordAnalysis } from "./types";
 
-export type { Passage, Verse, WordAnalysis, GreekToken, SemanticNeighbour, UsageExample } from "./types";
+export type {
+  Passage,
+  Verse,
+  WordAnalysis,
+  GreekToken,
+  SemanticNeighbour,
+  UsageExample,
+} from "./types";
 
-export function listPassages(): Passage[] {
-  return passages;
+export interface BookMetadata {
+  id: string;
+  name: string;
+  abbr: string;
+  chaptersCount: number;
+  versesCount: number;
 }
 
-export function getPassage(id: string): Passage | undefined {
-  return passages.find((p) => p.id === id);
+export interface PassageSearchResult {
+  id: string;
+  ref: string;
+  title: string;
+  description: string;
 }
 
-export function getWordAnalysis(lemma: string): WordAnalysis | undefined {
-  return analyses[lemma];
+// Synchronously export the list of all chapters in the New Testament for search indexing
+export function listPassages(): PassageSearchResult[] {
+  const list: PassageSearchResult[] = [];
+  for (const book of booksIndex) {
+    for (let c = 1; c <= book.chaptersCount; c++) {
+      list.push({
+        id: `${book.id}-${c}`,
+        ref: `${book.name} ${c}`,
+        title: book.name,
+        description: `Chapter ${c}`,
+      });
+    }
+  }
+  return list;
 }
 
-// Future seams — replace with real implementations.
-// src/lib/corpus/sources/sblgnt.ts   — TODO: parse SBLGNT
-// src/lib/corpus/sources/morphgnt.ts — TODO: parse MorphGNT
-// src/lib/corpus/sources/strongs.ts  — TODO: Strong's lookup
+// Asynchronously load a complete chapter passage on demand (dynamic chunk loading)
+export async function getPassage(id: string): Promise<Passage | undefined> {
+  // Support standard book-chapter URL format, e.g. "john-1" or "1-corinthians-13"
+  const match = id.match(/^([a-z0-9-]+)-(\d+)$/);
+  if (!match) {
+    return undefined;
+  }
+
+  const [_, bookId, chapterStr] = match;
+  const chapterNum = parseInt(chapterStr, 10);
+
+  try {
+    // Dynamically load the book chunk (Vite handles this as an on-demand chunk)
+    const bookData = await import(`./data/${bookId}.json`).then((m) => m.default || m);
+
+    // Filter verses belonging to this specific chapter
+    const verses = bookData.verses.filter((v: Verse) => {
+      const parts = v.ref.split(" ");
+      const refVerse = parts[parts.length - 1]; // "3:16"
+      const chStr = refVerse.split(":")[0];
+      return parseInt(chStr, 10) === chapterNum;
+    });
+
+    if (verses.length === 0) return undefined;
+
+    return {
+      id,
+      ref: `${bookData.name} ${chapterNum}`,
+      title: bookData.name,
+      description: `Koine Greek text of ${bookData.name} Chapter ${chapterNum} with grammatical morphology analysis.`,
+      verses,
+    };
+  } catch (err) {
+    console.error(`Failed to load passage chunk for book ${bookId}:`, err);
+    return undefined;
+  }
+}
+
+// Asynchronously resolve a Greek word's contrastive semantics or lexicon definitions
+export async function getWordAnalysis(lemma: string): Promise<WordAnalysis | undefined> {
+  const normalizedLemma = lemma.normalize("NFC").trim();
+
+  // 1. Check if a curated, contrastive analysis exists in the mock database
+  if (analyses[normalizedLemma]) {
+    return analyses[normalizedLemma];
+  }
+
+  // 2. Fall back to standard dictionary definition (Abbott-Smith / Strong's)
+  try {
+    const lexicon = await import("./data/lexicon.json").then((m) => m.default || m);
+    const cleanLemma = normalizedLemma.toLowerCase();
+    const fallback = lexicon[cleanLemma];
+
+    if (fallback) {
+      return fallback as WordAnalysis;
+    }
+  } catch (err) {
+    console.error("Failed to load lexicon fallback definition:", err);
+  }
+
+  return undefined;
+}
+
+// Synchronously check if a Greek lemma has a curated, contrastive analysis
+export function hasCuratedAnalysis(lemma: string): boolean {
+  if (!lemma) return false;
+  const normalizedLemma = lemma.normalize("NFC").trim();
+  return !!analyses[normalizedLemma];
+}

@@ -65,13 +65,9 @@ export function PassagePicker() {
                   onClick={() => setQuery("")}
                   className="block rounded-sm px-2 py-1.5 text-sm text-muted-foreground hover:bg-accent hover:text-foreground"
                 >
-                  <span className="font-serif text-[14px] text-foreground">
-                    {p.ref}
-                  </span>
+                  <span className="font-serif text-[14px] text-foreground">{p.ref}</span>
                   {p.title ? (
-                    <span className="ml-2 text-xs text-muted-foreground/80">
-                      {p.title}
-                    </span>
+                    <span className="ml-2 text-xs text-muted-foreground/80">{p.title}</span>
                   ) : null}
                 </Link>
               ))

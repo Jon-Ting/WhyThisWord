@@ -54,9 +54,6 @@ export function useRecentPassages() {
 export function recordRecentPassage(entry: Omit<RecentPassage, "visitedAt">) {
   if (typeof window === "undefined") return;
   const current = read().filter((p) => p.id !== entry.id);
-  const next = [{ ...entry, visitedAt: Date.now() }, ...current].slice(
-    0,
-    MAX_RECENT,
-  );
+  const next = [{ ...entry, visitedAt: Date.now() }, ...current].slice(0, MAX_RECENT);
   write(next);
 }

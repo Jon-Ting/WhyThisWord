@@ -6,6 +6,7 @@ export interface GreekToken {
   morph: string;
   glosses: string[];
   strongs?: string;
+  pos?: string;
   punctuationAfter?: string;
 }
 

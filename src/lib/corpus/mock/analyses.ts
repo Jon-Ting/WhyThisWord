@@ -61,9 +61,8 @@ export const analyses: Record<string, WordAnalysis> = {
           "Both λόγος and νόμος can name an ordering principle that comes from God and shapes life.",
         distinction:
           "νόμος is law — codified, normative, often Mosaic. λόγος is broader: rational structure, expression, account.",
-        typicalUsage:
-          "νόμος dominates Paul; λόγος dominates John's prologue.",
-          implication:
+        typicalUsage: "νόμος dominates Paul; λόγος dominates John's prologue.",
+        implication:
           "Opening with λόγος rather than νόμος may suggest John frames revelation in terms of personal self-disclosure rather than legal code — a contrast he develops in 1:17 ('the law was given through Moses; grace and truth came through Jesus Christ').",
         ifReplaced:
           "Substituting νόμος would re-cast Christ as embodied Torah, a legitimate biblical theme, but would lose the philosophical and creational reach of λόγος.",
@@ -166,8 +165,7 @@ export const analyses: Record<string, WordAnalysis> = {
         overlap: "Both can mark priority.",
         distinction:
           "πρῶτον is ordinal ('first in sequence'); ἀρχή carries a heavier ontological weight ('originating principle').",
-        typicalUsage:
-          "πρῶτον commonly orders events or items; ἀρχή frames cosmologies.",
+        typicalUsage: "πρῶτον commonly orders events or items; ἀρχή frames cosmologies.",
         implication:
           "ἀρχή places the prologue in a cosmological register rather than a chronological list.",
         ifReplaced:
@@ -233,8 +231,7 @@ export const analyses: Record<string, WordAnalysis> = {
           "παρά + dative denotes being beside or in someone's presence; πρός + accusative carries the sense of directed relation.",
         typicalUsage:
           "παρά often locates someone at a place or with a person spatially. πρός is more dynamic.",
-        implication:
-          "πρός can imply active facing-toward; παρά would suggest static co-location.",
+        implication: "πρός can imply active facing-toward; παρά would suggest static co-location.",
         ifReplaced:
           "παρά would render the verse closer to 'the Word was beside God' — a quieter, less relationally charged image.",
       },
@@ -276,10 +273,8 @@ export const analyses: Record<string, WordAnalysis> = {
         lemma: "στοργή",
         translit: "storgē",
         overlap: "All three name forms of love.",
-        distinction:
-          "στοργή is familial affection; ἀγαπάω names a broader, often willed, regard.",
-        typicalUsage:
-          "στοργή is rare in the NT; ἀγαπάω dominates.",
+        distinction: "στοργή is familial affection; ἀγαπάω names a broader, often willed, regard.",
+        typicalUsage: "στοργή is rare in the NT; ἀγαπάω dominates.",
         implication:
           "The NT's preference for ἀγαπάω over στοργή may suggest love framed less by kinship instinct and more by chosen commitment.",
         ifReplaced:
@@ -308,8 +303,7 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         lemma: "ἀγαπάω",
         translit: "agapaō",
-        overlap:
-          "Both verbs name love and are at points interchangeable in Koine.",
+        overlap: "Both verbs name love and are at points interchangeable in Koine.",
         distinction:
           "φιλέω often carries affective warmth; ἀγαπάω often carries willed regard. The contrast is genuine in some texts but should not be pressed into a rigid system.",
         typicalUsage:
@@ -400,12 +394,10 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         lemma: "ἁγιωσύνη",
         translit: "hagiōsynē",
-        overlap:
-          "Both name a quality God shares with those joined to him.",
+        overlap: "Both name a quality God shares with those joined to him.",
         distinction:
           "ἁγιωσύνη is holiness — set-apartness. δικαιοσύνη is rightness — relational/forensic alignment.",
-        typicalUsage:
-          "Paul uses both; in Romans 3, δικαιοσύνη carries the argument.",
+        typicalUsage: "Paul uses both; in Romans 3, δικαιοσύνη carries the argument.",
         implication:
           "Choosing δικαιοσύνη here keeps the focus on standing-before-God rather than purity.",
         ifReplaced:
@@ -439,8 +431,7 @@ export const analyses: Record<string, WordAnalysis> = {
           "ἔλεος is mercy — kindness toward the miserable. χάρις is favor — kindness as gift.",
         typicalUsage:
           "ἔλεος carries forward LXX vocabulary for חֶסֶד (covenant loyalty). χάρις dominates Paul's articulation of salvation.",
-        implication:
-          "Using χάρις rather than ἔλεος in Eph 2:8 highlights gift, not just relief.",
+        implication: "Using χάρις rather than ἔλεος in Eph 2:8 highlights gift, not just relief.",
         ifReplaced:
           "Replacing χάρις with ἔλεος would foreground rescue from misery and underplay the note of free gift.",
       },
@@ -448,12 +439,9 @@ export const analyses: Record<string, WordAnalysis> = {
         lemma: "δῶρον",
         translit: "dōron",
         overlap: "Both belong to the gift field.",
-        distinction:
-          "δῶρον is the gift-object; χάρις is the gracious disposition that gives it.",
-        typicalUsage:
-          "Eph 2:8 actually uses both — 'by χάρις… it is the δῶρον of God.'",
-        implication:
-          "Paul stacks the two so the disposition and the gift reinforce one another.",
+        distinction: "δῶρον is the gift-object; χάρις is the gracious disposition that gives it.",
+        typicalUsage: "Eph 2:8 actually uses both — 'by χάρις… it is the δῶρον of God.'",
+        implication: "Paul stacks the two so the disposition and the gift reinforce one another.",
         ifReplaced:
           "Using only δῶρον would lose the relational warmth of χάρις; using only χάρις would lose the concreteness of δῶρον.",
       },
@@ -483,8 +471,7 @@ export const analyses: Record<string, WordAnalysis> = {
         overlap: "Both can be rendered 'blessed' in English.",
         distinction:
           "εὐλογητός means 'praised, spoken-well-of' and in NT usage is reserved almost entirely for God. μακάριος describes humans (and occasionally God) as enviably well-positioned.",
-        typicalUsage:
-          "Doxologies use εὐλογητός ('Blessed be God'). Beatitudes use μακάριος.",
+        typicalUsage: "Doxologies use εὐλογητός ('Blessed be God'). Beatitudes use μακάριος.",
         implication:
           "Jesus' choice of μακάριος in the Beatitudes can imply a declaration about the recipients' actual state, not merely a wish or a praise.",
         ifReplaced:
@@ -496,8 +483,7 @@ export const analyses: Record<string, WordAnalysis> = {
         overlap: "Both touch the field of human flourishing.",
         distinction:
           "εὐδαίμων is the classical philosophical term for the well-flourishing life; μακάριος in NT usage attaches flourishing to God's reign.",
-        typicalUsage:
-          "εὐδαίμων is rare in the NT; μακάριος is the gospel idiom.",
+        typicalUsage: "εὐδαίμων is rare in the NT; μακάριος is the gospel idiom.",
         implication:
           "Using μακάριος rather than εὐδαίμων can imply that the blessedness in view is not philosophical self-cultivation but God-given standing.",
         ifReplaced:
@@ -542,8 +528,7 @@ export const analyses: Record<string, WordAnalysis> = {
         overlap: "Both can name a low or humbled condition.",
         distinction:
           "ταπεινός is lowly or humble — a posture. πτωχός is destitute — a material condition often spiritualised in 'poor in spirit'.",
-        typicalUsage:
-          "ταπεινός is used of Mary in the Magnificat ('my lowly state').",
+        typicalUsage: "ταπεινός is used of Mary in the Magnificat ('my lowly state').",
         implication:
           "Matthew's πτωχοὶ τῷ πνεύματι may suggest spiritual destitution — empty hands before God — rather than the virtue of humility per se.",
         ifReplaced:
