@@ -54,9 +54,7 @@ function About() {
           </ul>
           <h2 className="pt-4 font-serif text-2xl text-foreground">Prototype scope</h2>
           <p>
-            This is an MVP. The Greek text and contrastive notes are a curated mock dataset covering
-            a handful of passages (John 1:1, John 21:15–17, Romans 3:21–26, Ephesians 2:8–9, Matthew
-            5:3). The data layer is modular: real sources such as SBLGNT, MorphGNT, Strong's, and
+            This is a work in progress. The data layer is modular: real sources such as SBLGNT, MorphGNT, Strong's, and
             AI-generated explanations can later be plugged in behind the same component surface.
           </p>
           <div className="pt-4">

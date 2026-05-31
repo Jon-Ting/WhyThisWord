@@ -96,7 +96,7 @@ export function SiteFooter() {
     <footer className="mt-24 border-t border-border/70">
       <div className="mx-auto max-w-6xl px-6 py-10 text-xs text-muted-foreground">
         <p className="font-serif italic">
-          A study companion for contrastive semantics in the biblical text. Mock dataset; prototype.
+          A study companion for contrastive semantics in the biblical text.
         </p>
       </div>
     </footer>
