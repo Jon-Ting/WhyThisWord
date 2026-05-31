@@ -3,8 +3,10 @@ import booksIndex from "./data/books.json";
 import { analyses } from "./mock/analyses";
 import type { Passage, Verse, WordAnalysis } from "./types";
 import { findNeighboursByLemma } from "./louw-nida";
+import { findExamplesInCorpus } from "./concordance";
 
 export { findNeighboursByLemma } from "./louw-nida";
+export { findExamplesInCorpus } from "./concordance";
 
 export type {
   Passage,
@@ -156,8 +158,14 @@ export async function getWordAnalysis(
           return {
             lemma: l,
             translit: entry?.translit || l,
+            shortDef: entry?.shortDef,
           };
         });
+      }
+
+      // Inject real usage examples if empty
+      if (!result.examples || result.examples.length === 0) {
+        result.examples = await findExamplesInCorpus(normalizedLemma, 3, context?.ref);
       }
       
       return result;

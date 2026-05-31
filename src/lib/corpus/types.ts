@@ -27,6 +27,7 @@ export interface Passage {
 export interface SemanticNeighbour {
   lemma: string;
   translit: string;
+  shortDef?: string;
   overlap?: string;
   distinction?: string;
   typicalUsage?: string;

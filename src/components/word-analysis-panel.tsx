@@ -171,16 +171,23 @@ function NuanceSection({ analysis }: { analysis: WordAnalysis }) {
         <SectionLabel icon={GitCompare} letter="B/C">
           Semantic neighbours
         </SectionLabel>
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-col gap-3">
           {analysis.neighbours.map((n) => (
             <div
               key={n.lemma}
-              className="rounded-full border border-border/70 bg-background/40 px-3 py-1.5"
+              className="rounded-lg border border-border/70 bg-background/40 p-4"
             >
-              <span className="font-greek text-base text-foreground">{n.lemma}</span>
-              <span className="ml-2 font-serif text-[10px] italic text-muted-foreground">
-                {n.translit}
-              </span>
+              <div className="flex items-baseline justify-between gap-3">
+                <h5 className="font-greek text-xl text-foreground">{n.lemma}</h5>
+                <span className="font-serif text-xs italic text-muted-foreground">
+                  {n.translit}
+                </span>
+              </div>
+              {n.shortDef && (
+                <p className="mt-2 font-serif text-sm leading-relaxed text-reader-ink line-clamp-2 italic">
+                  {n.shortDef}
+                </p>
+              )}
             </div>
           ))}
         </div>
