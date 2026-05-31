@@ -339,6 +339,7 @@ async function main() {
   // Create mappings for Strong's entries (filtering for Greek "G" entries)
   const strongsMap = new Map();
   const lemmaToStrongs = new Map();
+  const lemmaFrequency = new Map();
 
   for (const entry of strongsDb) {
     if (entry.number && entry.number.startsWith("G")) {
@@ -468,6 +469,9 @@ async function main() {
         strongs: mappedStrong,
       };
 
+      // Count frequency
+      lemmaFrequency.set(cleanLemma, (lemmaFrequency.get(cleanLemma) || 0) + 1);
+
       if (punctuationAfter) {
         token.punctuationAfter = punctuationAfter;
       }
@@ -542,6 +546,7 @@ async function main() {
         glosses: [entry.description.split(";")[0].split(",")[0].trim()],
         shortDef: entry.description,
         strongs: entry.number,
+        frequency: lemmaFrequency.get(cleanLemma) || 0,
         neighbours: [],
         examples: [],
       };
