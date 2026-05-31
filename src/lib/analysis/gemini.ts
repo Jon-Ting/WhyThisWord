@@ -1,4 +1,5 @@
 import type { WordAnalysis } from "../corpus/types";
+import { findNeighboursByLemma } from "../corpus/index";
 
 function getEnvVar(key: string): string | undefined {
   if (typeof process !== "undefined" && process.env && process.env[key]) {
@@ -19,6 +20,15 @@ export async function fetchSemanticAnalysis(
   englishText: string,
   greekText: string
 ): Promise<WordAnalysis> {
+  // 0. Pre-identify semantic neighbours using Louw-Nida data
+  const lnNeighbours = await findNeighboursByLemma(lemma);
+  const suggestedNeighbours = lnNeighbours.slice(0, 5); // Give a few more for choice
+
+  const neighbourInstructions = suggestedNeighbours.length > 0
+    ? `The following semantic neighbours have been pre-identified for "${lemma}" using Louw-Nida domains: ${suggestedNeighbours.join(", ")}. 
+   Please analyze 2-4 of these specifically (or other highly relevant synonyms if these are not suitable in this context).`
+    : `Identify 2-4 semantic neighbours (synonyms in Koine Greek).`;
+
   const apiKey = getEnvVar("GEMINI_API_KEY");
   if (!apiKey) {
     throw new Error("GEMINI_API_KEY environment variable is not set");
@@ -35,7 +45,7 @@ Provide:
 1. Pronunciation (IPA) and short morphological summary.
 2. Glosses.
 3. A brief definition of the word's primary meaning.
-4. 2-4 semantic neighbours (synonyms in Koine Greek). For each neighbour:
+4. ${neighbourInstructions} For each neighbour:
    - Overlap: how they are similar.
    - Distinction: how they differ.
    - Typical usage: where they are normally found.
@@ -44,6 +54,7 @@ Provide:
 5. 2-3 usage examples from other biblical or classical literature.
 
 CRITICAL: Keep your tone academic, hedged, and non-dogmatic. Use words like "may suggest", "often associated with", "could imply". Avoid declaring absolute authorial intent.
+`;
 
 Return a JSON object matching the following structure:
 {
