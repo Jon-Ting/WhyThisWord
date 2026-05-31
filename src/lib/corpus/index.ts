@@ -150,6 +150,26 @@ export async function getWordAnalysis(
     if (fallback) {
       const result = { ...fallback } as WordAnalysis;
       
+      // Inject Louw-Nida domains
+      if (result.strongs) {
+        try {
+          const lnData = await import("./data/louw-nida.json").then((m) => m.default || m);
+          const domainNames = await import("./data/louw-nida-domains.json").then((m) => m.default || m);
+          const lnCodes = lnData.strongToLn[result.strongs] || [];
+          
+          const uniqueDomains = new Set<string>();
+          lnCodes.forEach((code: string) => {
+            const domainId = code.split(".")[0];
+            const name = domainNames[domainId];
+            if (name) uniqueDomains.add(name);
+          });
+          
+          result.domains = Array.from(uniqueDomains);
+        } catch (err) {
+          console.error("Failed to load Louw-Nida domain data:", err);
+        }
+      }
+
       // Inject Louw-Nida neighbours if empty
       if (!result.neighbours || result.neighbours.length === 0) {
         const lnLemmas = await findNeighboursByLemma(normalizedLemma);

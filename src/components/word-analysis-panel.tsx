@@ -154,6 +154,23 @@ function LexicalSection({ analysis, token }: { analysis: WordAnalysis; token: Gr
         <dd>{analysis.morphSummary}</dd>
         <dt className="text-muted-foreground">Glosses</dt>
         <dd className="text-foreground">{analysis.glosses.join(" · ")}</dd>
+        {analysis.domains && analysis.domains.length > 0 && (
+          <>
+            <dt className="text-muted-foreground">Themes</dt>
+            <dd className="text-xs italic text-accent-scholar/90">
+              {analysis.domains.join(" · ")}
+            </dd>
+          </>
+        )}
+        {analysis.frequency !== undefined && (
+          <>
+            <dt className="text-muted-foreground">Frequency</dt>
+            <dd className="text-xs">
+              Appears <span className="font-semibold text-foreground">{analysis.frequency}</span>{" "}
+              times in the NT
+            </dd>
+          </>
+        )}
       </dl>
       <p className="mt-4 font-serif text-[15px] leading-relaxed text-reader-ink">
         {analysis.shortDef}

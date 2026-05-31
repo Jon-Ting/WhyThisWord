@@ -50,6 +50,8 @@ export interface WordAnalysis {
   morphSummary: string;
   glosses: string[];
   shortDef: string;
+  domains?: string[]; // Louw-Nida domain names
+  frequency?: number; // Total count in NT
   neighbours: SemanticNeighbour[];
   examples: UsageExample[];
 }
