@@ -84,7 +84,8 @@ export async function getPassage(id: string): Promise<Passage | undefined> {
 // Asynchronously resolve a Greek word's contrastive semantics or lexicon definitions
 export async function getWordAnalysis(
   lemma: string,
-  context?: { ref: string; englishText: string; greekText: string }
+  context?: { ref: string; englishText: string; greekText: string },
+  options?: { disableAI?: boolean }
 ): Promise<WordAnalysis | undefined> {
   const normalizedLemma = lemma.normalize("NFC").trim();
 
@@ -93,8 +94,8 @@ export async function getWordAnalysis(
     return analyses[normalizedLemma];
   }
 
-  // 2. If context is provided, try retrieving/generating via Gemini & cache
-  if (context) {
+  // 2. If context is provided and AI is not disabled, try retrieving/generating via Gemini & cache
+  if (context && !options?.disableAI) {
     try {
       // If running inside CLI test script (direct execution)
       if (typeof window === "undefined" && typeof process !== "undefined" && !process.env.VINXI_ENV) {
@@ -137,7 +138,7 @@ export async function getWordAnalysis(
 
   // 3. Fall back to standard dictionary definition (Abbott-Smith / Strong's)
   try {
-    const lexicon = await import("./data/lexicon.json").then((m) => m.default || m);
+    const lexicon = (await import("./data/lexicon.json").then((m) => m.default || m)) as Record<string, any>;
     const cleanLemma = normalizedLemma.toLowerCase();
     const fallback = lexicon[cleanLemma];
 

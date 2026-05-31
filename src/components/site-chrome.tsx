@@ -1,6 +1,7 @@
 import { Link, useRouterState } from "@tanstack/react-router";
 import { useEffect, useState } from "react";
-import { Moon, Sun } from "lucide-react";
+import { Moon, Sun, Sparkles } from "lucide-react";
+import { useSettings } from "@/hooks/use-settings";
 import logoIcon from "../../assets/logos/icon-square-light.png";
 
 function ThemeToggle() {
@@ -35,6 +36,25 @@ function ThemeToggle() {
   );
 }
 
+function AISynthesisToggle() {
+  const { aiSynthesisEnabled, updateSettings } = useSettings();
+  return (
+    <button
+      type="button"
+      onClick={() => updateSettings({ aiSynthesisEnabled: !aiSynthesisEnabled })}
+      title={aiSynthesisEnabled ? "Disable AI Synthesis" : "Enable AI Synthesis"}
+      className={
+        "inline-flex h-9 w-9 items-center justify-center rounded-md border transition-colors " +
+        (aiSynthesisEnabled
+          ? "border-accent-scholar/30 bg-accent-scholar/10 text-accent-scholar hover:bg-accent-scholar/20"
+          : "border-border text-muted-foreground hover:bg-accent hover:text-foreground")
+      }
+    >
+      <Sparkles className="h-4 w-4" />
+    </button>
+  );
+}
+
 export function SiteHeader() {
   const pathname = useRouterState({ select: (s) => s.location.pathname });
   const navItem = (to: string, label: string) => (
@@ -61,7 +81,10 @@ export function SiteHeader() {
           {navItem("/", "Home")}
           {navItem("/reader/john-1", "Reader")}
           {navItem("/about", "About")}
-          <ThemeToggle />
+          <div className="flex items-center gap-2 border-l border-border/50 pl-6">
+            <AISynthesisToggle />
+            <ThemeToggle />
+          </div>
         </nav>
       </div>
     </header>

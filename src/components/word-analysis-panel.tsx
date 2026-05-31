@@ -2,6 +2,7 @@ import { X, BookOpen, GitCompare, Sparkles, History, Info, Loader2 } from "lucid
 import { useEffect, useState } from "react";
 import type { GreekToken, WordAnalysis, Verse } from "@/lib/corpus";
 import { getWordAnalysis } from "@/lib/corpus";
+import { useSettings } from "@/hooks/use-settings";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
 import logoIcon from "../../assets/logos/icon-rounded-light.png";
@@ -15,6 +16,7 @@ interface WordAnalysisPanelProps {
 export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelProps) {
   const [analysis, setAnalysis] = useState<WordAnalysis | null>(null);
   const [loading, setLoading] = useState(false);
+  const { aiSynthesisEnabled } = useSettings();
 
   useEffect(() => {
     if (!token) return;
@@ -34,7 +36,7 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
       : undefined;
 
     console.log(`[Panel] Fetching analysis for lemma: ${token.lemma}`);
-    getWordAnalysis(token.lemma, context)
+    getWordAnalysis(token.lemma, context, { disableAI: !aiSynthesisEnabled })
       .then((res) => {
         if (active) {
           console.log(`[Panel] Analysis received for: ${token.lemma}`, res);
