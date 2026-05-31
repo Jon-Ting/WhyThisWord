@@ -1,4 +1,6 @@
-export interface GreekToken {
+export type Language = "greek" | "hebrew" | "aramaic";
+
+export interface CorpusToken {
   id: string;
   surface: string; // surface form as it appears in text
   lemma: string;
@@ -13,7 +15,8 @@ export interface GreekToken {
 export interface Verse {
   ref: string; // e.g. "John 1:1"
   englishText: string;
-  tokens: GreekToken[];
+  tokens: CorpusToken[];
+  language?: Language;
 }
 
 export interface Passage {
@@ -22,6 +25,7 @@ export interface Passage {
   title: string;
   description: string;
   verses: Verse[];
+  language?: Language;
 }
 
 export interface SemanticNeighbour {
@@ -38,7 +42,7 @@ export interface SemanticNeighbour {
 export interface UsageExample {
   ref: string;
   englishSnippet: string;
-  greekSnippet: string;
+  originalSnippet: string;
   highlightLemma: string;
   note?: string;
 }

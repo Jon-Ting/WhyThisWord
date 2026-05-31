@@ -3,7 +3,7 @@ import { zodValidator } from "@tanstack/zod-adapter";
 import { z } from "zod";
 import { useEffect, useMemo, useState } from "react";
 import * as VisuallyHidden from "@radix-ui/react-visually-hidden";
-import type { Verse, GreekToken } from "@/lib/corpus";
+import type { Verse, CorpusToken } from "@/lib/corpus";
 import { getPassage } from "@/lib/corpus";
 import { SiteHeader, SiteFooter } from "@/components/site-chrome";
 import { PassagePicker } from "@/components/passage-picker";
@@ -74,7 +74,7 @@ function ReaderPage() {
   const selectedTokenAndVerse = useMemo(() => {
     if (!w) return null;
     for (const v of passage.verses as Verse[]) {
-      const found = v.tokens.find((t: GreekToken) => t.id === w);
+      const found = v.tokens.find((t: CorpusToken) => t.id === w);
       if (found) return { token: found, verse: v };
     }
     return null;

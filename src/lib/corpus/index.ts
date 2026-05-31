@@ -12,7 +12,7 @@ export type {
   Passage,
   Verse,
   WordAnalysis,
-  GreekToken,
+  CorpusToken,
   SemanticNeighbour,
   UsageExample,
 } from "./types";
@@ -23,6 +23,8 @@ export interface BookMetadata {
   abbr: string;
   chaptersCount: number;
   versesCount: number;
+  testament: "OT" | "NT";
+  language: "greek" | "hebrew";
 }
 
 export interface PassageSearchResult {
@@ -32,7 +34,7 @@ export interface PassageSearchResult {
   description: string;
 }
 
-// Synchronously export the list of all chapters in the New Testament for search indexing
+// Synchronously export the list of all chapters in the Bible for search indexing
 export function listPassages(): PassageSearchResult[] {
   const list: PassageSearchResult[] = [];
   for (const book of booksIndex) {
@@ -59,9 +61,15 @@ export async function getPassage(id: string): Promise<Passage | undefined> {
   const [_, bookId, chapterStr] = match;
   const chapterNum = parseInt(chapterStr, 10);
 
+  // Look up book metadata to find testament (folder)
+  const bookMetadata = (booksIndex as BookMetadata[]).find((b) => b.id === bookId);
+  if (!bookMetadata) return undefined;
+
+  const folder = bookMetadata.testament.toLowerCase();
+
   try {
-    // Dynamically load the book chunk (Vite handles this as an on-demand chunk)
-    const bookData = await import(`./data/${bookId}.json`).then((m) => m.default || m);
+    // Dynamically load the book chunk from its testament folder
+    const bookData = await import(`./data/${folder}/${bookId}.json`).then((m) => m.default || m);
 
     // Filter verses belonging to this specific chapter
     const verses = bookData.verses.filter((v: Verse) => {
@@ -77,8 +85,9 @@ export async function getPassage(id: string): Promise<Passage | undefined> {
       id,
       ref: `${bookData.name} ${chapterNum}`,
       title: bookData.name,
-      description: `Koine Greek text of ${bookData.name} Chapter ${chapterNum} with grammatical morphology analysis.`,
+      description: `Original language text of ${bookData.name} Chapter ${chapterNum} with grammatical morphology analysis.`,
       verses,
+      language: bookMetadata.language,
     };
   } catch (err) {
     console.error(`Failed to load passage chunk for book ${bookId}:`, err);
@@ -89,7 +98,7 @@ export async function getPassage(id: string): Promise<Passage | undefined> {
 // Asynchronously resolve a Greek word's contrastive semantics or lexicon definitions
 export async function getWordAnalysis(
   lemma: string,
-  context?: { ref: string; englishText: string; greekText: string },
+  context?: { ref: string; englishText: string; sourceText: string },
   options?: { disableAI?: boolean }
 ): Promise<WordAnalysis | undefined> {
   const normalizedLemma = lemma.normalize("NFC").trim();
@@ -116,7 +125,7 @@ export async function getWordAnalysis(
           normalizedLemma,
           context.ref,
           context.englishText,
-          context.greekText
+          context.sourceText
         );
         await setCachedAnalysis(normalizedLemma, context.ref, generated);
         return generated;
@@ -129,7 +138,7 @@ export async function getWordAnalysis(
           lemma: normalizedLemma,
           ref: context.ref,
           englishText: context.englishText,
-          greekText: context.greekText,
+          sourceText: context.sourceText,
         },
       });
       if (result) {

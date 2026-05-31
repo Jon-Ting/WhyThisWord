@@ -524,12 +524,23 @@ async function main() {
       abbr: book.abbr,
       chaptersCount,
       versesCount: verses.length,
+      testament: "NT",
+      language: "greek",
     });
   }
 
-  // 4. Save Metadata index
-  fs.writeFileSync(path.join(DATA_DIR, "books.json"), JSON.stringify(booksMetadata, null, 2));
-  console.log(`✅ Saved metadata for ${booksMetadata.length} books in books.json.`);
+  // 4. Save Metadata index (preserving OT if present)
+  let finalMetadata = booksMetadata;
+  const booksPath = path.join(DATA_DIR, "books.json");
+  if (fs.existsSync(booksPath)) {
+    const existing = JSON.parse(fs.readFileSync(booksPath, "utf-8"));
+    const otBooks = existing.filter((b) => b.testament === "OT");
+    // Place OT before NT for canonical order
+    finalMetadata = [...otBooks, ...booksMetadata];
+  }
+
+  fs.writeFileSync(booksPath, JSON.stringify(finalMetadata, null, 2));
+  console.log(`✅ Saved metadata for ${finalMetadata.length} books in books.json.`);
 
   // 5. Generate lexicon.json falling back to Strong's
   console.log("✍️ Generating fallback lexicon database in lexicon.json...");

@@ -18,7 +18,7 @@ export async function fetchSemanticAnalysis(
   lemma: string,
   ref: string,
   englishText: string,
-  greekText: string
+  sourceText: string
 ): Promise<WordAnalysis> {
   // 0. Pre-identify semantic neighbours using Louw-Nida data
   const lnNeighbours = await findNeighboursByLemma(lemma);
@@ -27,7 +27,7 @@ export async function fetchSemanticAnalysis(
   const neighbourInstructions = suggestedNeighbours.length > 0
     ? `The following semantic neighbours have been pre-identified for "${lemma}" using Louw-Nida domains: ${suggestedNeighbours.join(", ")}. 
    Please analyze 2-4 of these specifically (or other highly relevant synonyms if these are not suitable in this context).`
-    : `Identify 2-4 semantic neighbours (synonyms in Koine Greek).`;
+    : `Identify 2-4 semantic neighbours (synonyms in the original language).`;
 
   const apiKey = getEnvVar("GEMINI_API_KEY");
   if (!apiKey) {
@@ -37,8 +37,8 @@ export async function fetchSemanticAnalysis(
   const model = getEnvVar("GEMINI_MODEL") || "gemini-2.5-flash";
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
 
-  const prompt = `You are a cautious Koine Greek seminary tutor. Analyze the word "${lemma}" in the context of the verse "${ref}" which reads:
-Greek: "${greekText}"
+  const prompt = `You are a cautious Biblical Languages scholar. Analyze the word "${lemma}" in the context of the verse "${ref}" which reads:
+Original: "${sourceText}"
 English: "${englishText}"
 
 Provide:
@@ -79,7 +79,7 @@ Return a JSON object matching the following structure:
     {
       "ref": "verse ref",
       "englishSnippet": "english snippet",
-      "greekSnippet": "greek snippet",
+      "originalSnippet": "original language snippet",
       "highlightLemma": "matching lemma",
       "note": "optional explanatory note"
     }
@@ -118,11 +118,11 @@ Return a JSON object matching the following structure:
           properties: {
             ref: { type: "STRING" },
             englishSnippet: { type: "STRING" },
-            greekSnippet: { type: "STRING" },
+            originalSnippet: { type: "STRING" },
             highlightLemma: { type: "STRING" },
             note: { type: "STRING" }
           },
-          required: ["ref", "englishSnippet", "greekSnippet", "highlightLemma"]
+          required: ["ref", "englishSnippet", "originalSnippet", "highlightLemma"]
         }
       }
     },

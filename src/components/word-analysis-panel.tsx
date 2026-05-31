@@ -1,6 +1,6 @@
 import { X, BookOpen, GitCompare, Sparkles, History, Info, Loader2 } from "lucide-react";
 import { useEffect, useState } from "react";
-import type { GreekToken, WordAnalysis, Verse } from "@/lib/corpus";
+import type { CorpusToken, WordAnalysis, Verse } from "@/lib/corpus";
 import { getWordAnalysis } from "@/lib/corpus";
 import { useSettings } from "@/hooks/use-settings";
 import { ScrollArea } from "@/components/ui/scroll-area";
@@ -8,7 +8,7 @@ import { Separator } from "@/components/ui/separator";
 import logoIcon from "../../assets/logos/icon-rounded-light.png";
 
 interface WordAnalysisPanelProps {
-  token: GreekToken | null;
+  token: CorpusToken | null;
   verse?: Verse | null;
   onClose: () => void;
 }
@@ -23,7 +23,7 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
     let active = true;
     setLoading(true);
 
-    const greekText = verse
+    const sourceText = verse
       ? verse.tokens.map((t) => t.surface + (t.punctuationAfter ?? "")).join(" ")
       : "";
 
@@ -31,7 +31,7 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
       ? {
           ref: verse.ref,
           englishText: verse.englishText,
-          greekText,
+          sourceText,
         }
       : undefined;
 
@@ -135,7 +135,7 @@ function SectionLabel({
   );
 }
 
-function LexicalSection({ analysis, token }: { analysis: WordAnalysis; token: GreekToken }) {
+function LexicalSection({ analysis, token }: { analysis: WordAnalysis; token: CorpusToken }) {
   return (
     <section>
       <SectionLabel icon={BookOpen} letter="A">
@@ -291,9 +291,9 @@ function ExamplesSection({ analysis }: { analysis: WordAnalysis }) {
       </SectionLabel>
       <ul className="space-y-4">
         {analysis.examples.map((ex) => (
-          <li key={ex.ref + ex.greekSnippet}>
+          <li key={ex.ref + ex.originalSnippet}>
             <p className="text-xs uppercase tracking-[0.14em] text-muted-foreground">{ex.ref}</p>
-            <p className="mt-1 font-greek text-lg leading-snug text-greek-ink">{ex.greekSnippet}</p>
+            <p className="mt-1 font-greek text-lg leading-snug text-greek-ink">{ex.originalSnippet}</p>
             <p className="mt-1 font-serif text-[15px] italic leading-snug text-reader-ink">
               {ex.englishSnippet}
             </p>
@@ -321,7 +321,7 @@ function Disclaimer() {
   );
 }
 
-function NoAnalysisFallback({ token }: { token: GreekToken }) {
+function NoAnalysisFallback({ token }: { token: CorpusToken }) {
   return (
     <section className="space-y-4">
       <SectionLabel icon={BookOpen} letter="A">

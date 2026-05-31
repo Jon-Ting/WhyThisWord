@@ -30,14 +30,14 @@ export async function findExamplesInCorpus(
         );
 
         if (hasLemma) {
-          const greekSnippet = verse.tokens
+          const originalSnippet = verse.tokens
             .map((t) => t.surface + (t.punctuationAfter ?? ""))
             .join(" ");
 
           examples.push({
             ref: verse.ref,
             englishSnippet: verse.englishText,
-            greekSnippet: greekSnippet,
+            originalSnippet: originalSnippet,
             highlightLemma: normalizedLemma,
             note: "Corpus example",
           });

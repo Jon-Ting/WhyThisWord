@@ -72,19 +72,19 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "John 1:14",
         englishSnippet: "And the Word became flesh and dwelt among us.",
-        greekSnippet: "καὶ ὁ Λόγος σὰρξ ἐγένετο",
+        originalSnippet: "καὶ ὁ Λόγος σὰρξ ἐγένετο",
         highlightLemma: "λόγος",
       }, // appease TS shape
       {
         ref: "Hebrews 4:12",
         englishSnippet: "For the word of God is living and active.",
-        greekSnippet: "ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ",
+        originalSnippet: "ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ",
         highlightLemma: "λόγος",
       },
       {
         ref: "Luke 1:38 (ῥῆμα)",
         englishSnippet: "Let it be to me according to your word.",
-        greekSnippet: "γένοιτό μοι κατὰ τὸ ῥῆμά σου",
+        originalSnippet: "γένοιτό μοι κατὰ τὸ ῥῆμά σου",
         highlightLemma: "ῥῆμα",
         note: "Mary's response uses ῥῆμα — a specific spoken promise — not λόγος.",
       },
@@ -131,7 +131,7 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "John 20:28",
         englishSnippet: "My Lord and my God!",
-        greekSnippet: "Ὁ κύριός μου καὶ ὁ Θεός μου",
+        originalSnippet: "Ὁ κύριός μου καὶ ὁ Θεός μου",
         highlightLemma: "θεός",
       },
     ],
@@ -176,13 +176,13 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "Genesis 1:1 (LXX)",
         englishSnippet: "In the beginning God created the heavens and the earth.",
-        greekSnippet: "Ἐν ἀρχῇ ἐποίησεν ὁ Θεὸς",
+        originalSnippet: "Ἐν ἀρχῇ ἐποίησεν ὁ Θεὸς",
         highlightLemma: "ἀρχή",
       },
       {
         ref: "Colossians 1:18",
         englishSnippet: "He is the beginning, the firstborn from the dead.",
-        greekSnippet: "ὅς ἐστιν ἀρχή",
+        originalSnippet: "ὅς ἐστιν ἀρχή",
         highlightLemma: "ἀρχή",
       },
     ],
@@ -240,7 +240,7 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "1 John 1:2",
         englishSnippet: "the eternal life that was with the Father.",
-        greekSnippet: "ἥτις ἦν πρὸς τὸν Πατέρα",
+        originalSnippet: "ἥτις ἦν πρὸς τὸν Πατέρα",
         highlightLemma: "πρός",
       },
     ],
@@ -285,7 +285,7 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "John 3:16",
         englishSnippet: "For God so loved the world…",
-        greekSnippet: "οὕτως γὰρ ἠγάπησεν ὁ Θεὸς τὸν κόσμον",
+        originalSnippet: "οὕτως γὰρ ἠγάπησεν ὁ Θεὸς τὸν κόσμον",
         highlightLemma: "ἀγαπάω",
       },
     ],
@@ -318,7 +318,7 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "John 11:36",
         englishSnippet: "See how he loved him!",
-        greekSnippet: "Ἴδε πῶς ἐφίλει αὐτόν",
+        originalSnippet: "Ἴδε πῶς ἐφίλει αὐτόν",
         highlightLemma: "φιλέω",
       },
     ],
@@ -363,7 +363,7 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "Galatians 2:16",
         englishSnippet: "justified… through faith in Jesus Christ.",
-        greekSnippet: "διὰ πίστεως Ἰησοῦ Χριστοῦ",
+        originalSnippet: "διὰ πίστεως Ἰησοῦ Χριστοῦ",
         highlightLemma: "πίστις",
       },
     ],
@@ -408,7 +408,7 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "Matthew 6:33",
         englishSnippet: "Seek first the kingdom and his righteousness.",
-        greekSnippet: "τὴν δικαιοσύνην αὐτοῦ",
+        originalSnippet: "τὴν δικαιοσύνην αὐτοῦ",
         highlightLemma: "δικαιοσύνη",
       },
     ],
@@ -450,7 +450,7 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "Romans 5:15",
         englishSnippet: "much more have the grace of God… abounded for many.",
-        greekSnippet: "ἡ χάρις τοῦ Θεοῦ",
+        originalSnippet: "ἡ χάρις τοῦ Θεοῦ",
         highlightLemma: "χάρις",
       },
     ],
@@ -494,7 +494,7 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "Matthew 5:8",
         englishSnippet: "Blessed are the pure in heart.",
-        greekSnippet: "Μακάριοι οἱ καθαροὶ τῇ καρδίᾳ",
+        originalSnippet: "Μακάριοι οἱ καθαροὶ τῇ καρδίᾳ",
         highlightLemma: "μακάριος",
       },
     ],
@@ -539,7 +539,7 @@ export const analyses: Record<string, WordAnalysis> = {
       {
         ref: "Luke 6:20",
         englishSnippet: "Blessed are you who are poor.",
-        greekSnippet: "Μακάριοι οἱ πτωχοί",
+        originalSnippet: "Μακάριοι οἱ πτωχοί",
         highlightLemma: "πτωχός",
       },
     ],
