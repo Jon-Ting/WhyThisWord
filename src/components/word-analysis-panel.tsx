@@ -43,7 +43,7 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
         }
       })
       .catch((err) => {
-        console.error(`[Panel] Error fetching analysis for: ${token.lemma}`, err);
+        console.warn(`[Panel] Error fetching analysis for: ${token.lemma}`, err);
         if (active) {
           setAnalysis(null);
           setLoading(false);

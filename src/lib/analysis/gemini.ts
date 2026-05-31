@@ -144,14 +144,14 @@ Return a JSON object matching the following structure:
 
   if (!response.ok) {
     const errorText = await response.text();
-    console.error(`[Gemini] API error ${response.status}:`, errorText);
+    console.warn(`[Gemini] API error ${response.status}:`, errorText);
     throw new Error(`Gemini API returned status ${response.status}: ${errorText}`);
   }
 
   const json = await response.json();
   const text = json.candidates?.[0]?.content?.parts?.[0]?.text;
   if (!text) {
-    console.error(`[Gemini] Unexpected response structure:`, json);
+    console.warn(`[Gemini] Unexpected response structure:`, json);
     throw new Error("Empty candidate response from Gemini API");
   }
 
