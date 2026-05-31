@@ -80,8 +80,8 @@ function ReaderPage() {
     return null;
   }, [w, passage]);
 
-  const selectToken = (tokenId: string) => navigate({ search: { w: tokenId }, replace: true });
-  const closePanel = () => navigate({ search: { w: undefined }, replace: true });
+  const selectToken = (tokenId: string) => navigate({ search: { w: tokenId }, replace: true, resetScroll: false });
+  const closePanel = () => navigate({ search: { w: undefined }, replace: true, resetScroll: false });
 
   return (
     <div className="min-h-screen bg-background">
