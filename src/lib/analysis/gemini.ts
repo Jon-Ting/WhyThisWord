@@ -1,5 +1,5 @@
 import type { WordAnalysis } from "../corpus/types";
-import { findNeighboursByLemma } from "../corpus/index";
+import { findNeighboursByLemma } from "../corpus/louw-nida";
 
 function getEnvVar(key: string): string | undefined {
   if (typeof process !== "undefined" && process.env && process.env[key]) {

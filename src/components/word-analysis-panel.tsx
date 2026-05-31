@@ -163,6 +163,35 @@ function LexicalSection({ analysis, token }: { analysis: WordAnalysis; token: Gr
 }
 
 function NuanceSection({ analysis }: { analysis: WordAnalysis }) {
+  const hasNuance = analysis.neighbours.some((n) => n.overlap || n.distinction);
+
+  if (!hasNuance) {
+    return (
+      <section>
+        <SectionLabel icon={GitCompare} letter="B/C">
+          Semantic neighbours
+        </SectionLabel>
+        <div className="flex flex-wrap gap-2">
+          {analysis.neighbours.map((n) => (
+            <div
+              key={n.lemma}
+              className="rounded-full border border-border/70 bg-background/40 px-3 py-1.5"
+            >
+              <span className="font-greek text-base text-foreground">{n.lemma}</span>
+              <span className="ml-2 font-serif text-[10px] italic text-muted-foreground">
+                {n.translit}
+              </span>
+            </div>
+          ))}
+        </div>
+        <p className="mt-4 text-xs italic text-muted-foreground">
+          Activate AI synthesis to see a detailed contrastive analysis between these terms in this
+          specific context.
+        </p>
+      </section>
+    );
+  }
+
   return (
     <section>
       <SectionLabel icon={GitCompare} letter="B/C">
@@ -187,6 +216,7 @@ function NuanceSection({ analysis }: { analysis: WordAnalysis }) {
 }
 
 function NuanceRow({ label, children }: { label: string; children: React.ReactNode }) {
+  if (!children) return null;
   return (
     <div className="mt-3">
       <p className="text-[10px] font-semibold uppercase tracking-[0.14em] text-muted-foreground">
@@ -198,26 +228,32 @@ function NuanceRow({ label, children }: { label: string; children: React.ReactNo
 }
 
 function ReplaceSection({ analysis }: { analysis: WordAnalysis }) {
+  const hasReplaceData = analysis.neighbours.some((n) => n.ifReplaced);
+  if (!hasReplaceData) return null;
+
   return (
     <section>
       <SectionLabel icon={Sparkles} letter="D">
         What changes if replaced?
       </SectionLabel>
       <ul className="space-y-4">
-        {analysis.neighbours.map((n) => (
-          <li
-            key={n.lemma}
-            className="border-l-2 border-accent-scholar/60 bg-accent-scholar/5 px-4 py-3"
-          >
-            <p className="text-xs uppercase tracking-[0.14em] text-accent-scholar/90">
-              If <span className="font-greek normal-case">{analysis.lemma}</span> →{" "}
-              <span className="font-greek normal-case">{n.lemma}</span>
-            </p>
-            <p className="mt-1.5 font-serif text-[15px] leading-relaxed italic text-reader-ink">
-              {n.ifReplaced}
-            </p>
-          </li>
-        ))}
+        {analysis.neighbours.map((n) => {
+          if (!n.ifReplaced) return null;
+          return (
+            <li
+              key={n.lemma}
+              className="border-l-2 border-accent-scholar/60 bg-accent-scholar/5 px-4 py-3"
+            >
+              <p className="text-xs uppercase tracking-[0.14em] text-accent-scholar/90">
+                If <span className="font-greek normal-case">{analysis.lemma}</span> →{" "}
+                <span className="font-greek normal-case">{n.lemma}</span>
+              </p>
+              <p className="mt-1.5 font-serif text-[15px] leading-relaxed italic text-reader-ink">
+                {n.ifReplaced}
+              </p>
+            </li>
+          );
+        })}
       </ul>
     </section>
   );

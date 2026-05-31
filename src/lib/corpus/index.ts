@@ -2,6 +2,9 @@
 import booksIndex from "./data/books.json";
 import { analyses } from "./mock/analyses";
 import type { Passage, Verse, WordAnalysis } from "./types";
+import { findNeighboursByLemma } from "./louw-nida";
+
+export { findNeighboursByLemma } from "./louw-nida";
 
 export type {
   Passage,
@@ -143,58 +146,27 @@ export async function getWordAnalysis(
     const fallback = lexicon[cleanLemma];
 
     if (fallback) {
-      return fallback as WordAnalysis;
+      const result = { ...fallback } as WordAnalysis;
+      
+      // Inject Louw-Nida neighbours if empty
+      if (!result.neighbours || result.neighbours.length === 0) {
+        const lnLemmas = await findNeighboursByLemma(normalizedLemma);
+        result.neighbours = lnLemmas.slice(0, 5).map(l => {
+          const entry = lexicon[l] || lexicon[l.toLowerCase()];
+          return {
+            lemma: l,
+            translit: entry?.translit || l,
+          };
+        });
+      }
+      
+      return result;
     }
   } catch (err) {
     console.error("Failed to load lexicon fallback definition:", err);
   }
 
   return undefined;
-}
-
-// Find semantic neighbors for a lemma using Louw-Nida domain mapping
-export async function findNeighboursByLemma(lemma: string): Promise<string[]> {
-  if (!lemma) return [];
-  const normalizedLemma = lemma.normalize("NFC").trim();
-
-  try {
-    // Dynamically load lexicon and Louw-Nida mapping
-    const lexicon = (await import("./data/lexicon.json").then((m) => m.default || m)) as Record<string, any>;
-    const lnData = await import("./data/louw-nida.json").then((m) => m.default || m);
-
-    // 1. Get Strong's number for the lemma
-    // Lexicon is keyed by the lemma itself
-    const word = lexicon[normalizedLemma] || lexicon[normalizedLemma.toLowerCase()];
-    if (!word || !word.strongs) {
-      console.warn(`No Strong's number found for lemma: ${normalizedLemma}`);
-      return [];
-    }
-
-    const strongs = word.strongs;
-    const domains = lnData.strongToLn[strongs] || [];
-
-    // 2. Find all Strong's numbers sharing these domains
-    const neighbourStrongs = new Set<string>();
-    domains.forEach((domain: string) => {
-      const sList = lnData.lnToStrong[domain] || [];
-      sList.forEach((s: string) => {
-        if (s !== strongs) {
-          neighbourStrongs.add(s);
-        }
-      });
-    });
-
-    // 3. Map Strong's numbers back to lemmas
-    const neighbourLemmas = Array.from(neighbourStrongs)
-      .map((s) => lnData.strongToLemma[s])
-      .filter((l) => l && l !== normalizedLemma);
-
-    // Return unique lemmas (limit to a reasonable number if needed)
-    return Array.from(new Set(neighbourLemmas));
-  } catch (err) {
-    console.error(`Failed to find Louw-Nida neighbours for ${lemma}:`, err);
-    return [];
-  }
 }
 
 // Synchronously check if a Greek lemma has a curated, contrastive analysis

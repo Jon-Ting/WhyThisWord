@@ -27,11 +27,11 @@ export interface Passage {
 export interface SemanticNeighbour {
   lemma: string;
   translit: string;
-  overlap: string;
-  distinction: string;
-  typicalUsage: string;
-  implication: string;
-  ifReplaced: string; // section D, per-neighbour
+  overlap?: string;
+  distinction?: string;
+  typicalUsage?: string;
+  implication?: string;
+  ifReplaced?: string; // section D, per-neighbour
 }
 
 export interface UsageExample {
