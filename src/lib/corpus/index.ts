@@ -98,8 +98,8 @@ export async function getPassage(id: string): Promise<Passage | undefined> {
 // Asynchronously resolve a Greek word's contrastive semantics or lexicon definitions
 export async function getWordAnalysis(
   lemma: string,
-  context?: { ref: string; englishText: string; sourceText: string },
-  options?: { disableAI?: boolean }
+  context?: { ref: string; englishText: string; sourceText: string; language?: string },
+  options?: { disableAI?: boolean },
 ): Promise<WordAnalysis | undefined> {
   const normalizedLemma = lemma.normalize("NFC").trim();
 
@@ -125,7 +125,8 @@ export async function getWordAnalysis(
           normalizedLemma,
           context.ref,
           context.englishText,
-          context.sourceText
+          context.sourceText,
+          context.language || "greek",
         );
         await setCachedAnalysis(normalizedLemma, context.ref, generated);
         return generated;
@@ -139,6 +140,7 @@ export async function getWordAnalysis(
           ref: context.ref,
           englishText: context.englishText,
           sourceText: context.sourceText,
+          language: context.language || "greek",
         },
       });
       if (result) {
@@ -148,6 +150,7 @@ export async function getWordAnalysis(
       console.warn("Dynamic AI analysis failed, falling back to lexicon definition:", err);
     }
   }
+
 
 
   // 3. Fall back to standard dictionary definition (Abbott-Smith / Strong's)

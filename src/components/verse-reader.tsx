@@ -9,21 +9,32 @@ interface VerseReaderProps {
 }
 
 export function VerseReader({ verse, selectedTokenId, onSelectToken }: VerseReaderProps) {
+  const isHebrew = verse.language === "hebrew" || verse.language === "aramaic";
+  const direction = isHebrew ? "rtl" : "ltr";
+
   return (
     <article className="space-y-6">
       <header className="flex items-baseline justify-between">
         <h2 className="font-serif text-sm uppercase tracking-[0.18em] text-muted-foreground">
           {verse.ref}
         </h2>
-        <span className="text-xs text-muted-foreground">SBLGNT</span>
+        <span className="text-xs text-muted-foreground">
+          {isHebrew ? "WLC (BHS)" : "SBLGNT"}
+        </span>
       </header>
 
       <p className="font-serif text-2xl leading-relaxed text-reader-ink md:text-[1.7rem]">
         {verse.englishText}
       </p>
 
-      <div className="border-t border-border/60 pt-6">
-        <p className="font-greek text-2xl leading-loose text-greek-ink md:text-[1.9rem]">
+      <div className={cn("border-t border-border/60 pt-6", isHebrew && "text-right")}>
+        <p
+          dir={direction}
+          className={cn(
+            "text-2xl leading-loose md:text-[1.9rem]",
+            isHebrew ? "font-hebrew text-hebrew-ink" : "font-greek text-greek-ink",
+          )}
+        >
           {verse.tokens.map((t, i) => {
             const isSelected = selectedTokenId === t.id;
             const isClickable = !!(t.lemma && t.lemma.length > 0);
@@ -43,8 +54,9 @@ export function VerseReader({ verse, selectedTokenId, onSelectToken }: VerseRead
                       : isCurated
                         ? "border-b border-dotted border-accent-scholar/70 text-foreground hover:bg-accent hover:border-solid hover:border-accent-scholar"
                         : isClickable
-                          ? "text-greek-ink/90 hover:bg-accent hover:text-foreground hover:underline hover:decoration-accent-scholar/30 hover:underline-offset-[6px]"
-                          : "text-greek-ink/60",
+                          ? "hover:bg-accent hover:text-foreground hover:underline hover:decoration-accent-scholar/30 hover:underline-offset-[6px]"
+                          : "opacity-60",
+                    isHebrew ? "text-hebrew-ink/90" : "text-greek-ink/90",
                   )}
                 >
                   {t.surface}
@@ -59,3 +71,4 @@ export function VerseReader({ verse, selectedTokenId, onSelectToken }: VerseRead
     </article>
   );
 }
+

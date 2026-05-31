@@ -18,16 +18,23 @@ export async function fetchSemanticAnalysis(
   lemma: string,
   ref: string,
   englishText: string,
-  sourceText: string
+  sourceText: string,
+  language: string = "greek"
 ): Promise<WordAnalysis> {
-  // 0. Pre-identify semantic neighbours using Louw-Nida data
-  const lnNeighbours = await findNeighboursByLemma(lemma);
-  const suggestedNeighbours = lnNeighbours.slice(0, 5); // Give a few more for choice
+  const isHebrew = language === "hebrew" || language === "aramaic";
+  
+  // 0. Pre-identify semantic neighbours
+  let lnNeighbours: string[] = [];
+  if (language === "greek") {
+    lnNeighbours = await findNeighboursByLemma(lemma);
+  }
+  
+  const suggestedNeighbours = lnNeighbours.slice(0, 5);
 
   const neighbourInstructions = suggestedNeighbours.length > 0
     ? `The following semantic neighbours have been pre-identified for "${lemma}" using Louw-Nida domains: ${suggestedNeighbours.join(", ")}. 
    Please analyze 2-4 of these specifically (or other highly relevant synonyms if these are not suitable in this context).`
-    : `Identify 2-4 semantic neighbours (synonyms in the original language).`;
+    : `Identify 2-4 semantic neighbours (synonyms in the original language, ${language}).`;
 
   const apiKey = getEnvVar("GEMINI_API_KEY");
   if (!apiKey) {
@@ -37,24 +44,26 @@ export async function fetchSemanticAnalysis(
   const model = getEnvVar("GEMINI_MODEL") || "gemini-2.5-flash";
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
 
-  const prompt = `You are a cautious Biblical Languages scholar. Analyze the word "${lemma}" in the context of the verse "${ref}" which reads:
+  const prompt = `You are a cautious Biblical Languages scholar and seminary tutor. Analyze the ${language} word "${lemma}" in the context of the verse "${ref}" which reads:
 Original: "${sourceText}"
 English: "${englishText}"
 
 Provide:
-1. Pronunciation (IPA) and short morphological summary.
-2. Glosses.
-3. A brief definition of the word's primary meaning.
-4. ${neighbourInstructions} For each neighbour:
+1. Transliteration and Pronunciation (IPA).
+2. Short morphological summary (e.g., Verb, Qal, Perfect, 3ms for Hebrew; or Verb, Aorist, Active, Indicative, 3s for Greek).
+3. Glosses.
+4. A brief definition of the word's primary meaning in this specific context.
+5. ${neighbourInstructions} For each neighbour:
    - Overlap: how they are similar.
    - Distinction: how they differ.
-   - Typical usage: where they are normally found.
-   - Implication: why the author preferred the target lemma in this specific context.
+   - Typical usage: where they are normally found in the ${language === "greek" ? "NT / LXX" : "HB / Tanakh"}.
+   - Implication: why the author likely preferred the target lemma "${lemma}" over this specific neighbour in this specific context.
    - If Replaced: a translation/nuance diff if the author had chosen the neighbour.
-5. 2-3 usage examples from other biblical or classical literature.
+6. 2-3 usage examples from other biblical or relevant ancient literature (e.g., DSS, Josephus, Philo if Greek; same/other OT books if Hebrew).
 
 CRITICAL: Keep your tone academic, hedged, and non-dogmatic. Use words like "may suggest", "often associated with", "could imply". Avoid declaring absolute authorial intent.
 `;
+
 
 Return a JSON object matching the following structure:
 {

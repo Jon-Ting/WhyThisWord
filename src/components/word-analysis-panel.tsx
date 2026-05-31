@@ -5,6 +5,7 @@ import { getWordAnalysis } from "@/lib/corpus";
 import { useSettings } from "@/hooks/use-settings";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
+import { cn } from "@/lib/utils";
 import logoIcon from "../../assets/logos/icon-rounded-light.png";
 
 interface WordAnalysisPanelProps {
@@ -17,6 +18,10 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
   const [analysis, setAnalysis] = useState<WordAnalysis | null>(null);
   const [loading, setLoading] = useState(false);
   const { aiSynthesisEnabled } = useSettings();
+
+  const language = verse?.language || "greek";
+  const isHebrew = language === "hebrew" || language === "aramaic";
+  const langFont = isHebrew ? "font-hebrew" : "font-greek";
 
   useEffect(() => {
     if (!token) return;
@@ -32,6 +37,7 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
           ref: verse.ref,
           englishText: verse.englishText,
           sourceText,
+          language: verse.language,
         }
       : undefined;
 
@@ -66,7 +72,9 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
       <header className="flex items-start justify-between gap-3 border-b border-border/70 px-6 py-5">
         <div className="min-w-0">
           <p className="text-xs uppercase tracking-[0.18em] text-muted-foreground">Word analysis</p>
-          <h3 className="mt-1 font-greek text-3xl leading-tight text-foreground">{token.lemma}</h3>
+          <h3 className={cn("mt-1 text-3xl leading-tight text-foreground", langFont)}>
+            {token.lemma}
+          </h3>
           <p className="mt-1 font-serif text-sm italic text-muted-foreground">
             {token.translit} · {token.morph}
           </p>
@@ -92,20 +100,20 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
             </div>
           ) : analysis ? (
             <>
-              <LexicalSection analysis={analysis} token={token} />
+              <LexicalSection analysis={analysis} token={token} language={language} />
               {analysis.neighbours && analysis.neighbours.length > 0 && (
                 <>
-                  <NuanceSection analysis={analysis} />
-                  <ReplaceSection analysis={analysis} />
+                  <NuanceSection analysis={analysis} language={language} />
+                  <ReplaceSection analysis={analysis} language={language} />
                 </>
               )}
               {analysis.examples && analysis.examples.length > 0 && (
-                <ExamplesSection analysis={analysis} />
+                <ExamplesSection analysis={analysis} language={language} />
               )}
               <Disclaimer />
             </>
           ) : (
-            <NoAnalysisFallback token={token} />
+            <NoAnalysisFallback token={token} language={language} />
           )}
         </div>
       </ScrollArea>
@@ -135,7 +143,18 @@ function SectionLabel({
   );
 }
 
-function LexicalSection({ analysis, token }: { analysis: WordAnalysis; token: CorpusToken }) {
+function LexicalSection({
+  analysis,
+  token,
+  language,
+}: {
+  analysis: WordAnalysis;
+  token: CorpusToken;
+  language: string;
+}) {
+  const isHebrew = language === "hebrew" || language === "aramaic";
+  const langFont = isHebrew ? "font-hebrew" : "font-greek";
+
   return (
     <section>
       <SectionLabel icon={BookOpen} letter="A">
@@ -143,9 +162,9 @@ function LexicalSection({ analysis, token }: { analysis: WordAnalysis; token: Co
       </SectionLabel>
       <dl className="grid grid-cols-[7rem_1fr] gap-x-4 gap-y-2 text-sm">
         <dt className="text-muted-foreground">Surface</dt>
-        <dd className="font-greek text-base">{token.surface}</dd>
+        <dd className={cn("text-base", langFont)}>{token.surface}</dd>
         <dt className="text-muted-foreground">Lemma</dt>
-        <dd className="font-greek text-base">{analysis.lemma}</dd>
+        <dd className={cn("text-base", langFont)}>{analysis.lemma}</dd>
         <dt className="text-muted-foreground">Translit.</dt>
         <dd className="font-serif italic">{analysis.translit}</dd>
         <dt className="text-muted-foreground">Pronunciation</dt>
@@ -167,7 +186,7 @@ function LexicalSection({ analysis, token }: { analysis: WordAnalysis; token: Co
             <dt className="text-muted-foreground">Frequency</dt>
             <dd className="text-xs">
               Appears <span className="font-semibold text-foreground">{analysis.frequency}</span>{" "}
-              times in the NT
+              times in the {language === "greek" ? "NT" : "Bible"}
             </dd>
           </>
         )}
@@ -179,8 +198,10 @@ function LexicalSection({ analysis, token }: { analysis: WordAnalysis; token: Co
   );
 }
 
-function NuanceSection({ analysis }: { analysis: WordAnalysis }) {
+function NuanceSection({ analysis, language }: { analysis: WordAnalysis; language: string }) {
   const hasNuance = analysis.neighbours.some((n) => n.overlap || n.distinction);
+  const isHebrew = language === "hebrew" || language === "aramaic";
+  const langFont = isHebrew ? "font-hebrew" : "font-greek";
 
   if (!hasNuance) {
     return (
@@ -195,7 +216,7 @@ function NuanceSection({ analysis }: { analysis: WordAnalysis }) {
               className="rounded-lg border border-border/70 bg-background/40 p-4"
             >
               <div className="flex items-baseline justify-between gap-3">
-                <h5 className="font-greek text-xl text-foreground">{n.lemma}</h5>
+                <h5 className={cn("text-xl text-foreground", langFont)}>{n.lemma}</h5>
                 <span className="font-serif text-xs italic text-muted-foreground">
                   {n.translit}
                 </span>
@@ -225,7 +246,7 @@ function NuanceSection({ analysis }: { analysis: WordAnalysis }) {
         {analysis.neighbours.map((n) => (
           <li key={n.lemma} className="rounded-lg border border-border/70 bg-background/40 p-4">
             <div className="flex items-baseline justify-between gap-3">
-              <h5 className="font-greek text-xl text-foreground">{n.lemma}</h5>
+              <h5 className={cn("text-xl text-foreground", langFont)}>{n.lemma}</h5>
               <span className="font-serif text-xs italic text-muted-foreground">{n.translit}</span>
             </div>
             <NuanceRow label="Overlap">{n.overlap}</NuanceRow>
@@ -251,9 +272,12 @@ function NuanceRow({ label, children }: { label: string; children: React.ReactNo
   );
 }
 
-function ReplaceSection({ analysis }: { analysis: WordAnalysis }) {
+function ReplaceSection({ analysis, language }: { analysis: WordAnalysis; language: string }) {
   const hasReplaceData = analysis.neighbours.some((n) => n.ifReplaced);
   if (!hasReplaceData) return null;
+
+  const isHebrew = language === "hebrew" || language === "aramaic";
+  const langFont = isHebrew ? "font-hebrew" : "font-greek";
 
   return (
     <section>
@@ -269,8 +293,8 @@ function ReplaceSection({ analysis }: { analysis: WordAnalysis }) {
               className="border-l-2 border-accent-scholar/60 bg-accent-scholar/5 px-4 py-3"
             >
               <p className="text-xs uppercase tracking-[0.14em] text-accent-scholar/90">
-                If <span className="font-greek normal-case">{analysis.lemma}</span> →{" "}
-                <span className="font-greek normal-case">{n.lemma}</span>
+                If <span className={cn("normal-case", langFont)}>{analysis.lemma}</span> →{" "}
+                <span className={cn("normal-case", langFont)}>{n.lemma}</span>
               </p>
               <p className="mt-1.5 font-serif text-[15px] leading-relaxed italic text-reader-ink">
                 {n.ifReplaced}
@@ -283,7 +307,10 @@ function ReplaceSection({ analysis }: { analysis: WordAnalysis }) {
   );
 }
 
-function ExamplesSection({ analysis }: { analysis: WordAnalysis }) {
+function ExamplesSection({ analysis, language }: { analysis: WordAnalysis; language: string }) {
+  const isHebrew = language === "hebrew" || language === "aramaic";
+  const langFont = isHebrew ? "font-hebrew" : "font-greek";
+
   return (
     <section>
       <SectionLabel icon={History} letter="E">
@@ -293,7 +320,15 @@ function ExamplesSection({ analysis }: { analysis: WordAnalysis }) {
         {analysis.examples.map((ex) => (
           <li key={ex.ref + ex.originalSnippet}>
             <p className="text-xs uppercase tracking-[0.14em] text-muted-foreground">{ex.ref}</p>
-            <p className="mt-1 font-greek text-lg leading-snug text-greek-ink">{ex.originalSnippet}</p>
+            <p
+              className={cn(
+                "mt-1 text-lg leading-snug",
+                langFont,
+                isHebrew ? "text-hebrew-ink" : "text-greek-ink",
+              )}
+            >
+              {ex.originalSnippet}
+            </p>
             <p className="mt-1 font-serif text-[15px] italic leading-snug text-reader-ink">
               {ex.englishSnippet}
             </p>
@@ -312,7 +347,7 @@ function Disclaimer() {
       <p className="flex items-start gap-2 text-xs italic leading-relaxed text-muted-foreground">
         <Info className="mt-0.5 h-3.5 w-3.5 shrink-0" />
         <span>
-          Comparative notes are interpretive aids, not verdicts. Greek synonyms overlap
+          Comparative notes are interpretive aids, not verdicts. Original language synonyms overlap
           substantially; nuance suggestions are offered as starting points for careful reading, not
           as the author's certain intent.
         </span>
@@ -321,7 +356,10 @@ function Disclaimer() {
   );
 }
 
-function NoAnalysisFallback({ token }: { token: CorpusToken }) {
+function NoAnalysisFallback({ token, language }: { token: CorpusToken; language: string }) {
+  const isHebrew = language === "hebrew" || language === "aramaic";
+  const langFont = isHebrew ? "font-hebrew" : "font-greek";
+
   return (
     <section className="space-y-4">
       <SectionLabel icon={BookOpen} letter="A">
@@ -329,9 +367,9 @@ function NoAnalysisFallback({ token }: { token: CorpusToken }) {
       </SectionLabel>
       <dl className="grid grid-cols-[7rem_1fr] gap-x-4 gap-y-2 text-sm">
         <dt className="text-muted-foreground">Surface</dt>
-        <dd className="font-greek text-base">{token.surface}</dd>
+        <dd className={cn("text-base", langFont)}>{token.surface}</dd>
         <dt className="text-muted-foreground">Lemma</dt>
-        <dd className="font-greek text-base">{token.lemma}</dd>
+        <dd className={cn("text-base", langFont)}>{token.lemma}</dd>
         <dt className="text-muted-foreground">Morphology</dt>
         <dd>{token.morph}</dd>
         <dt className="text-muted-foreground">Glosses</dt>
@@ -340,10 +378,7 @@ function NoAnalysisFallback({ token }: { token: CorpusToken }) {
       <p className="font-serif text-sm italic text-muted-foreground">
         No standard definition or curated comparative-semantics analysis could be found for this
         term. Standard dictionary entries are available for the vast majority of vocabulary in the
-        GNT. Try selecting a word with curated comparative notes (indicated by a dotted underline),
-        such as <span className="font-greek not-italic">λόγος</span>,{" "}
-        <span className="font-greek not-italic">θεός</span>, or{" "}
-        <span className="font-greek not-italic">πρός</span>.
+        Bible. Try selecting a word with curated comparative notes (indicated by a dotted underline).
       </p>
     </section>
   );
@@ -357,7 +392,7 @@ function EmptyState() {
         alt="Why This Word"
         className="h-12 w-12 object-contain opacity-25 dark:opacity-40 mb-4"
       />
-      <h3 className="mt-2 font-serif text-lg text-foreground">Click a Greek word</h3>
+      <h3 className="mt-2 font-serif text-lg text-foreground">Click a word</h3>
       <p className="mt-2 max-w-xs text-sm leading-relaxed text-muted-foreground">
         Select a word in the verse to open its lexical entry, semantic neighbours, and a reflection
         on what shifts if it were swapped for a near-synonym.
