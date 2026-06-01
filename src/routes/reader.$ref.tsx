@@ -103,8 +103,10 @@ function ReaderPage() {
       <SiteHeader />
 
       <div className="mx-auto grid max-w-7xl grid-cols-1 gap-px lg:grid-cols-[14rem_minmax(0,1fr)_24rem]">
-        <aside className="hidden border-r border-border/70 px-6 py-8 lg:block">
-          <PassagePicker />
+        <aside className="hidden border-r border-border/70 lg:block">
+          <div className="sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto px-6 py-8">
+            <PassagePicker />
+          </div>
         </aside>
 
         <main className="min-w-0 px-6 py-10 md:px-10">
