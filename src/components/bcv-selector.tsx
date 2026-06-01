@@ -133,7 +133,7 @@ export function BcvSelector() {
     }
 
     // Single verse
-    if (eV === undefined || (eCh === sCh && eV === sV)) {
+    if ((eCh === undefined || eCh === sCh) && eV === undefined) {
       return `/reader/${selectedBook.id}-${sCh}:${sV}`;
     }
 
@@ -142,8 +142,13 @@ export function BcvSelector() {
       return `/reader/${selectedBook.id}-${sCh}:${sV}-${eV}`;
     }
 
-    // Cross-chapter range
-    return `/reader/${selectedBook.id}-${sCh}:${sV}-${eCh}:${eV}`;
+    // Cross-chapter range with end verse
+    if (eV !== undefined) {
+      return `/reader/${selectedBook.id}-${sCh}:${sV}-${eCh}:${eV}`;
+    }
+
+    // Cross-chapter range without end verse
+    return `/reader/${selectedBook.id}-${sCh}:${sV}-${eCh}:`;
   }, [selectedBook, startChapter, startVerse, endChapter, endVerse]);
 
   const labelText = useMemo(() => {
@@ -162,6 +167,8 @@ export function BcvSelector() {
       } else {
         text += `-${eV}`;
       }
+    } else if (eCh !== undefined && eCh !== sCh) {
+      text += ` - ${eCh}`;
     }
     return text;
   }, [selectedBook, startChapter, startVerse, endChapter, endVerse]);
@@ -169,9 +176,7 @@ export function BcvSelector() {
   const otBooks = books.filter((b) => b.testament === "OT");
   const ntBooks = books.filter((b) => b.testament === "NT");
 
-  const crossChapter =
-    Boolean(endChapter) && parseInt(endChapter, 10) !== parseInt(startChapter, 10);
-  const canGo = Boolean(targetUrl) && !(crossChapter && !endVerse);
+  const canGo = Boolean(targetUrl);
   const startChapterNum = startChapter ? parseInt(startChapter, 10) : null;
   const endChapterNum = endChapter ? parseInt(endChapter, 10) : null;
 

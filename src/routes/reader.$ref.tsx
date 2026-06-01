@@ -5,7 +5,12 @@ import { useEffect, useMemo, useState } from "react";
 import * as VisuallyHidden from "@radix-ui/react-visually-hidden";
 import { cn } from "@/lib/utils";
 import type { Verse, CorpusToken } from "@/lib/corpus";
-import { getPassage, getAdjacentChapters, parsePassageRef } from "@/lib/corpus";
+import {
+  getPassage,
+  getAdjacentChapters,
+  parsePassageRef,
+  PassageRangeTooLargeError,
+} from "@/lib/corpus";
 import { SiteHeader, SiteFooter } from "@/components/site-chrome";
 import { PassagePicker } from "@/components/passage-picker";
 import { VerseReader } from "@/components/verse-reader";
@@ -441,7 +446,7 @@ function NotFound() {
       <div className="mx-auto max-w-xl px-6 py-24 text-center">
         <h1 className="font-serif text-3xl">Passage not found</h1>
         <p className="mt-3 text-muted-foreground">
-          That reference isn't in the prototype dataset yet.
+          That reference isn't in the prototype dataset yet, or the URL format is unrecognised.
         </p>
         <Link
           to="/reader/john-1"
@@ -456,20 +461,43 @@ function NotFound() {
 
 function ErrorView({ error, reset }: { error: Error; reset: () => void }) {
   console.error(error);
+  const isRangeTooLarge = error.name === "PassageRangeTooLargeError";
+
   return (
     <div className="min-h-screen bg-background">
       <SiteHeader />
       <div className="mx-auto max-w-xl px-6 py-24 text-center">
-        <h1 className="font-serif text-2xl">Something went wrong</h1>
+        <h1 className="font-serif text-2xl">
+          {isRangeTooLarge ? "Passage range too large" : "Something went wrong"}
+        </h1>
         <p className="mt-3 text-sm text-muted-foreground">
-          An unexpected error occurred while loading this passage. Please try again.
+          {isRangeTooLarge
+            ? error.message
+            : "An unexpected error occurred while loading this passage. Please try again."}
         </p>
-        <button
-          onClick={() => reset()}
-          className="mt-6 inline-flex h-10 items-center rounded-md bg-primary px-5 text-sm font-medium text-primary-foreground hover:bg-primary/90"
-        >
-          Try again
-        </button>
+        {isRangeTooLarge ? (
+          <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
+            <Link
+              to="/"
+              className="inline-flex h-10 items-center rounded-md border border-border bg-background px-5 text-sm font-medium text-foreground transition-colors hover:bg-accent"
+            >
+              Go home
+            </Link>
+            <Link
+              to={`/reader/${(error as unknown as PassageRangeTooLargeError).bookId}-${(error as unknown as PassageRangeTooLargeError).startChapter}`}
+              className="inline-flex h-10 items-center rounded-md bg-primary px-5 text-sm font-medium text-primary-foreground hover:bg-primary/90"
+            >
+              Read start chapter
+            </Link>
+          </div>
+        ) : (
+          <button
+            onClick={() => reset()}
+            className="mt-6 inline-flex h-10 items-center rounded-md bg-primary px-5 text-sm font-medium text-primary-foreground hover:bg-primary/90"
+          >
+            Try again
+          </button>
+        )}
       </div>
     </div>
   );

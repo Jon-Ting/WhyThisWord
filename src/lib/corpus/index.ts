@@ -102,7 +102,9 @@ export interface ParsedPassageRef {
  *   john-3:16               -> single verse
  *   john-3:16-20            -> same-chapter verse range
  *   john-3:16-4:5           -> cross-chapter range (same book)
+ *   john-3:16-4:            -> cross-chapter range without end verse (to end of ch 4)
  *   john-3:16-john-4:5      -> cross-chapter range with explicit book
+ *   john-3:16-john-4:       -> cross-chapter range with explicit book, no end verse
  */
 export function parsePassageRef(id: string): ParsedPassageRef | null {
   // 1. Cross-chapter with explicit book name: john-3:16-john-4:5
@@ -129,6 +131,31 @@ export function parsePassageRef(id: string): ParsedPassageRef | null {
       startVerse: parseInt(sV, 10),
       endChapter: parseInt(eCh, 10),
       endVerse: parseInt(eV, 10),
+    };
+  }
+
+  // 2.5. Cross-chapter without explicit book and no end verse: john-3:16-4:
+  m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)-(\d+):$/);
+  if (m) {
+    const [, bookId, sCh, sV, eCh] = m;
+    return {
+      bookId,
+      startChapter: parseInt(sCh, 10),
+      startVerse: parseInt(sV, 10),
+      endChapter: parseInt(eCh, 10),
+    };
+  }
+
+  // 2.6. Cross-chapter with explicit book and no end verse: john-3:16-john-4:
+  m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)-([a-z0-9-]+)-(\d+):$/);
+  if (m) {
+    const [, bookId, sCh, sV, endBook, eCh] = m;
+    if (bookId !== endBook) return null;
+    return {
+      bookId,
+      startChapter: parseInt(sCh, 10),
+      startVerse: parseInt(sV, 10),
+      endChapter: parseInt(eCh, 10),
     };
   }
 
@@ -332,6 +359,20 @@ async function loadSingleChapter(
   }
 }
 
+export class PassageRangeTooLargeError extends Error {
+  constructor(
+    public bookId: string,
+    public startChapter: number,
+    public endChapter: number,
+    public maxSpan: number,
+  ) {
+    super(
+      `This passage spans ${endChapter - startChapter + 1} chapters, but the maximum allowed is ${maxSpan}. Please select a smaller range.`,
+    );
+    this.name = "PassageRangeTooLargeError";
+  }
+}
+
 async function loadMultiChapterRange(
   bookId: string,
   startChapter: number,
@@ -344,10 +385,7 @@ async function loadMultiChapterRange(
 
   const maxSpan = 10;
   if (endChapter - startChapter + 1 > maxSpan) {
-    console.error(
-      `Range too large: ${bookId} ${startChapter}-${endChapter} exceeds max span of ${maxSpan} chapters`,
-    );
-    return undefined;
+    throw new PassageRangeTooLargeError(bookId, startChapter, endChapter, maxSpan);
   }
 
   const folder = bookMetadata.testament.toLowerCase();
@@ -390,7 +428,11 @@ async function loadMultiChapterRange(
   if (startVerse !== undefined) id += `:${startVerse}`;
   if (endChapter !== undefined && endChapter !== startChapter) {
     id += `-${endChapter}`;
-    if (endVerse !== undefined) id += `:${endVerse}`;
+    if (endVerse !== undefined) {
+      id += `:${endVerse}`;
+    } else {
+      id += `:`;
+    }
   } else if (endVerse !== undefined && endVerse !== startVerse) {
     id += `-${endVerse}`;
   }
