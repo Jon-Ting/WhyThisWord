@@ -461,6 +461,7 @@ async function main() {
       const token = {
         id: `${book.id}-${chapterNum}-${verseNum}-${tokenCount++}`,
         surface,
+        word,
         lemma,
         translit: transliterateGreek(word),
         morph: expandMorph(posCode, parseCode),
@@ -504,7 +505,7 @@ async function main() {
       verses,
     };
 
-    const outPath = path.join(DATA_DIR, `${book.id}.json`);
+    const outPath = path.join(DATA_DIR, "nt", `${book.id}.json`);
     fs.writeFileSync(outPath, JSON.stringify(bookData, null, 2));
 
     // Compile books.json metadata

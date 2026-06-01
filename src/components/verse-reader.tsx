@@ -57,7 +57,7 @@ export function VerseReader({ verse, selectedTokenId, onSelectToken }: VerseRead
                     isHebrew ? "text-hebrew-ink/90" : "text-greek-ink/90",
                   )}
                 >
-                  {t.surface}
+                  {t.word}
                 </button>
                 {t.punctuationAfter ?? ""}
                 {i < verse.tokens.length - 1 ? " " : ""}

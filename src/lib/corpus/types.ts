@@ -3,6 +3,7 @@ export type Language = "greek" | "hebrew" | "aramaic";
 export interface CorpusToken {
   id: string;
   surface: string; // surface form as it appears in text
+  word: string; // The word without punctuation
   lemma: string;
   translit: string;
   morph: string;

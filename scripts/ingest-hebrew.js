@@ -2,8 +2,21 @@ import fs from "fs";
 import path from "path";
 
 // OT Books mapping for MorphHB
-const booksMetadata = JSON.parse(fs.readFileSync("src/lib/corpus/data/books.json", "utf-8"));
-const otBooks = booksMetadata.filter((b) => b.testament === "OT");
+let booksMetadata = [];
+try {
+  booksMetadata = JSON.parse(fs.readFileSync("src/lib/corpus/data/books.json", "utf-8"));
+} catch (e) {
+  console.warn("Could not read books.json, using fallback metadata.");
+}
+
+const fallbackOtBooks = [
+  { id: "genesis", name: "Genesis", abbr: "Gen", chaptersCount: 50, testament: "OT", language: "hebrew" },
+  { id: "psalms", name: "Psalms", abbr: "Ps", chaptersCount: 150, testament: "OT", language: "hebrew" }
+];
+
+const otBooks = booksMetadata.filter((b) => b.testament === "OT").length > 0 
+  ? booksMetadata.filter((b) => b.testament === "OT")
+  : fallbackOtBooks;
 
 const morphHbFilenames = {
   genesis: "Gen.xml",
@@ -336,6 +349,7 @@ async function main() {
           const token = {
             id: `${bookId}-${chNum}-${vNum}-${tokenId++}`,
             surface,
+            word: surface,
             lemma: lemma || surface,
             translit: transliterateHebrew(surface),
             morph: decodeHebrewMorph(morph),
