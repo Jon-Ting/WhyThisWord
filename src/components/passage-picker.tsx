@@ -2,9 +2,9 @@ import { useMemo, useState } from "react";
 import { Link, useRouterState } from "@tanstack/react-router";
 import { cn } from "@/lib/utils";
 import { Input } from "@/components/ui/input";
-import { Search, Clock } from "lucide-react";
+import { Search, Clock, ArrowRight } from "lucide-react";
 import { useRecentPassages } from "@/hooks/use-recent-passages";
-import { listPassages } from "@/lib/corpus";
+import { listPassages, parseReference } from "@/lib/corpus";
 
 function formatRelative(ts: number) {
   const diff = Date.now() - ts;
@@ -18,24 +18,60 @@ function formatRelative(ts: number) {
 }
 
 export function PassagePicker() {
-  const pathname = useRouterState({ select: (s) => s.location.pathname });
+  const location = useRouterState({ select: (s) => s.location });
   const { recent } = useRecentPassages();
   const [query, setQuery] = useState("");
 
   const all = useMemo(() => listPassages(), []);
 
   const q = query.trim().toLowerCase();
+
+  const parsedDirect = useMemo(() => {
+    if (!q) return null;
+    return parseReference(q);
+  }, [q]);
+
   const results = useMemo(() => {
     if (!q) return [];
-    return all
+    const seen = new Set<string>();
+    const list: typeof all = [];
+
+    // If the query parses as a verse reference, inject a direct-link result first
+    if (parsedDirect) {
+      const id = `${parsedDirect.bookId}-${parsedDirect.chapter}`;
+      let refStr = `${parsedDirect.bookName} ${parsedDirect.chapter}`;
+      let desc = `Chapter ${parsedDirect.chapter}`;
+      if (parsedDirect.startVerse !== undefined) {
+        refStr += `:${parsedDirect.startVerse}`;
+        desc = `Verse ${parsedDirect.startVerse}`;
+        if (
+          parsedDirect.endVerse !== undefined &&
+          parsedDirect.endVerse !== parsedDirect.startVerse
+        ) {
+          refStr += `-${parsedDirect.endVerse}`;
+          desc = `Verses ${parsedDirect.startVerse}-${parsedDirect.endVerse}`;
+        }
+      }
+      list.push({ id, ref: refStr, title: parsedDirect.bookName, description: desc });
+      seen.add(id);
+    }
+
+    all
       .filter(
         (p) =>
           p.ref.toLowerCase().includes(q) ||
           (p.title?.toLowerCase().includes(q) ?? false) ||
           (p.description?.toLowerCase().includes(q) ?? false),
       )
-      .slice(0, 8);
-  }, [all, q]);
+      .forEach((p) => {
+        if (!seen.has(p.id)) {
+          list.push(p);
+          seen.add(p.id);
+        }
+      });
+
+    return list.slice(0, 8);
+  }, [all, q, parsedDirect]);
 
   return (
     <div>
@@ -58,19 +94,34 @@ export function PassagePicker() {
                 No matches in the current corpus.
               </p>
             ) : (
-              results.map((p) => (
-                <Link
-                  key={p.id}
-                  to={`/reader/${p.id}`}
-                  onClick={() => setQuery("")}
-                  className="block rounded-sm px-2 py-1.5 text-sm text-muted-foreground hover:bg-accent hover:text-foreground"
-                >
-                  <span className="font-serif text-[14px] text-foreground">{p.ref}</span>
-                  {p.title ? (
-                    <span className="ml-2 text-xs text-muted-foreground/80">{p.title}</span>
-                  ) : null}
-                </Link>
-              ))
+              results.map((p) => {
+                const isDirect =
+                  parsedDirect && p.id === `${parsedDirect.bookId}-${parsedDirect.chapter}`;
+                const searchParams =
+                  isDirect && parsedDirect?.startVerse !== undefined
+                    ? { start: parsedDirect.startVerse, end: parsedDirect.endVerse }
+                    : undefined;
+                return (
+                  <Link
+                    key={p.id}
+                    to={`/reader/${p.id}`}
+                    search={searchParams}
+                    onClick={() => setQuery("")}
+                    className={cn(
+                      "flex items-center justify-between rounded-sm px-2 py-1.5 text-sm hover:bg-accent hover:text-foreground",
+                      isDirect ? "bg-accent/40 text-foreground" : "text-muted-foreground",
+                    )}
+                  >
+                    <span className="font-serif text-[14px] text-foreground">{p.ref}</span>
+                    <span className="flex items-center gap-1">
+                      {p.title ? (
+                        <span className="text-xs text-muted-foreground/80">{p.title}</span>
+                      ) : null}
+                      {isDirect ? <ArrowRight className="h-3 w-3 text-muted-foreground" /> : null}
+                    </span>
+                  </Link>
+                );
+              })
             )}
           </div>
         ) : null}
@@ -89,11 +140,17 @@ export function PassagePicker() {
         ) : (
           recent.map((r) => {
             const to = `/reader/${r.id}`;
-            const active = pathname === to;
+            const locSearch = location.search as { start?: number; end?: number };
+            const active =
+              location.pathname === to &&
+              ((r.start === undefined && locSearch.start === undefined) ||
+                (r.start !== undefined && locSearch.start === r.start && locSearch.end === r.end));
+            const search = r.start !== undefined ? { start: r.start, end: r.end } : undefined;
             return (
               <Link
-                key={r.id}
+                key={`${r.id}-${r.start ?? "full"}-${r.end ?? "full"}-${r.visitedAt}`}
                 to={to}
+                search={search}
                 className={cn(
                   "block rounded-md border border-transparent px-3 py-2 text-sm transition-colors",
                   active

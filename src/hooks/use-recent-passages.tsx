@@ -4,6 +4,8 @@ export type RecentPassage = {
   id: string;
   ref: string;
   title?: string;
+  start?: number;
+  end?: number;
   visitedAt: number;
 };
 
@@ -53,7 +55,10 @@ export function useRecentPassages() {
 
 export function recordRecentPassage(entry: Omit<RecentPassage, "visitedAt">) {
   if (typeof window === "undefined") return;
-  const current = read().filter((p) => p.id !== entry.id);
+  // Deduplicate by id + start/end so different ranges of the same chapter are kept separately
+  const current = read().filter(
+    (p) => !(p.id === entry.id && p.start === entry.start && p.end === entry.end),
+  );
   const next = [{ ...entry, visitedAt: Date.now() }, ...current].slice(0, MAX_RECENT);
   write(next);
 }
