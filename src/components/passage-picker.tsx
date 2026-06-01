@@ -5,6 +5,7 @@ import { Input } from "@/components/ui/input";
 import { Search, Clock, ArrowRight } from "lucide-react";
 import { useRecentPassages } from "@/hooks/use-recent-passages";
 import { listPassages, parseReference } from "@/lib/corpus";
+import { BcvSelector } from "./bcv-selector";
 
 function formatRelative(ts: number) {
   const diff = Date.now() - ts;
@@ -125,6 +126,10 @@ export function PassagePicker() {
             )}
           </div>
         ) : null}
+      </div>
+
+      <div className="my-6">
+        <BcvSelector />
       </div>
 
       <nav aria-label="Recent passages" className="space-y-1">
