@@ -39,6 +39,9 @@ export function PassagePicker() {
       targetParsed &&
       currentParsed.bookId === targetParsed.bookId &&
       currentParsed.startChapter === targetParsed.startChapter &&
+      !currentParsed.startVerse &&
+      !currentParsed.endChapter &&
+      !targetParsed.startVerse &&
       !targetParsed.endChapter
     ) {
       // Same chapter target — scroll instead of navigating
