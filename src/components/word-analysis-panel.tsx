@@ -1,4 +1,13 @@
-import { X, BookOpen, GitCompare, Sparkles, History, Info, Loader2 } from "lucide-react";
+import {
+  X,
+  BookOpen,
+  GitCompare,
+  Sparkles,
+  History,
+  Info,
+  Loader2,
+  PanelRightClose,
+} from "lucide-react";
 import { useEffect, useState } from "react";
 import type { CorpusToken, WordAnalysis, Verse } from "@/lib/corpus";
 import { getWordAnalysis } from "@/lib/corpus";
@@ -12,9 +21,10 @@ interface WordAnalysisPanelProps {
   token: CorpusToken | null;
   verse?: Verse | null;
   onClose: () => void;
+  onCollapse?: () => void;
 }
 
-export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelProps) {
+export function WordAnalysisPanel({ token, verse, onClose, onCollapse }: WordAnalysisPanelProps) {
   const [analysis, setAnalysis] = useState<WordAnalysis | null>(null);
   const [loading, setLoading] = useState(false);
   const { aiSynthesisEnabled } = useSettings();
@@ -78,14 +88,26 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
             {token.translit} · {token.morph}
           </p>
         </div>
-        <button
-          type="button"
-          onClick={onClose}
-          aria-label="Close analysis"
-          className="rounded-md p-1.5 text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
-        >
-          <X className="h-4 w-4" />
-        </button>
+        <div className="flex items-center gap-0.5">
+          {onCollapse && (
+            <button
+              type="button"
+              onClick={onCollapse}
+              aria-label="Collapse panel"
+              className="rounded-md p-1.5 text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+            >
+              <PanelRightClose className="h-4 w-4" />
+            </button>
+          )}
+          <button
+            type="button"
+            onClick={onClose}
+            aria-label="Close analysis"
+            className="rounded-md p-1.5 text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+          >
+            <X className="h-4 w-4" />
+          </button>
+        </div>
       </header>
 
       <ScrollArea className="flex-1">

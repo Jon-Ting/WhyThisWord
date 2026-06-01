@@ -3,6 +3,7 @@ import { zodValidator } from "@tanstack/zod-adapter";
 import { z } from "zod";
 import { useEffect, useMemo, useState } from "react";
 import * as VisuallyHidden from "@radix-ui/react-visually-hidden";
+import { cn } from "@/lib/utils";
 import type { Verse, CorpusToken } from "@/lib/corpus";
 import { getPassage, getAdjacentChapters } from "@/lib/corpus";
 import { SiteHeader, SiteFooter } from "@/components/site-chrome";
@@ -12,7 +13,15 @@ import { WordAnalysisPanel } from "@/components/word-analysis-panel";
 import { Sheet, SheetContent, SheetTitle, SheetDescription } from "@/components/ui/sheet";
 import { useNavigate } from "@tanstack/react-router";
 import { recordRecentPassage } from "@/hooks/use-recent-passages";
-import { ChevronLeft, ChevronRight, BookOpen } from "lucide-react";
+import {
+  ChevronLeft,
+  ChevronRight,
+  BookOpen,
+  PanelLeftClose,
+  PanelRightClose,
+  PanelLeftOpen,
+  PanelRightOpen,
+} from "lucide-react";
 
 function useIsCompact() {
   const [isCompact, setIsCompact] = useState(false);
@@ -71,6 +80,39 @@ function ReaderPage() {
   const navigate = useNavigate({ from: Route.fullPath });
   const isCompact = useIsCompact();
 
+  const [leftOpen, setLeftOpen] = useState(() => {
+    if (typeof window === "undefined") return true;
+    try {
+      return JSON.parse(localStorage.getItem("reader.leftOpen") ?? "true");
+    } catch {
+      return true;
+    }
+  });
+  const [rightOpen, setRightOpen] = useState(() => {
+    if (typeof window === "undefined") return true;
+    try {
+      return JSON.parse(localStorage.getItem("reader.rightOpen") ?? "true");
+    } catch {
+      return true;
+    }
+  });
+
+  useEffect(() => {
+    try {
+      localStorage.setItem("reader.leftOpen", JSON.stringify(leftOpen));
+    } catch {
+      /* ignore */
+    }
+  }, [leftOpen]);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem("reader.rightOpen", JSON.stringify(rightOpen));
+    } catch {
+      /* ignore */
+    }
+  }, [rightOpen]);
+
   useEffect(() => {
     recordRecentPassage({
       id: passage.id,
@@ -80,6 +122,22 @@ function ReaderPage() {
       end,
     });
   }, [passage.id, passage.ref, passage.title, start, end]);
+
+  // Auto-scroll to the first verse of a range when the page loads
+  useEffect(() => {
+    if (!start) return;
+    const target = passage.verses.find((v) => {
+      const numMatch = v.ref.match(/:(\d+)$/);
+      return numMatch && parseInt(numMatch[1], 10) === start;
+    });
+    if (target) {
+      const el = document.getElementById(target.ref);
+      if (el) {
+        el.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [start, passage.id]);
 
   const selectedTokenAndVerse = useMemo(() => {
     if (!w) return null;
@@ -102,18 +160,63 @@ function ReaderPage() {
     <div className="min-h-screen bg-background">
       <SiteHeader />
 
-      <div className="mx-auto grid max-w-7xl grid-cols-1 gap-px lg:grid-cols-[14rem_minmax(0,1fr)_24rem]">
-        <aside className="hidden border-r border-border/70 lg:block">
-          <div className="sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto px-6 py-8">
-            <PassagePicker />
-          </div>
-        </aside>
+      <div
+        className={cn(
+          "mx-auto grid max-w-7xl grid-cols-1 gap-px",
+          leftOpen && rightOpen && "lg:grid-cols-[14rem_minmax(0,1fr)_24rem]",
+          leftOpen && !rightOpen && "lg:grid-cols-[14rem_minmax(0,1fr)]",
+          !leftOpen && rightOpen && "lg:grid-cols-[minmax(0,1fr)_24rem]",
+          !leftOpen && !rightOpen && "lg:grid-cols-[1fr]",
+        )}
+      >
+        {leftOpen && (
+          <aside className="hidden border-r border-border/70 lg:block">
+            <div className="relative sticky top-14 h-[calc(100vh-3.5rem)] overflow-y-auto px-6 py-8">
+              <button
+                type="button"
+                onClick={() => setLeftOpen(false)}
+                aria-label="Collapse passage picker"
+                className="absolute right-2 top-2 inline-flex h-7 w-7 items-center justify-center rounded-md text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+              >
+                <PanelLeftClose className="h-4 w-4" />
+              </button>
+              <PassagePicker />
+            </div>
+          </aside>
+        )}
 
         <main className="min-w-0 px-6 py-10 md:px-10">
           <div className="lg:hidden">
             <PassagePicker />
             <div className="my-6 h-px bg-border" />
           </div>
+
+          {(!leftOpen || !rightOpen) && (
+            <div className="mb-4 hidden items-center gap-2 lg:flex">
+              {!leftOpen && (
+                <button
+                  type="button"
+                  onClick={() => setLeftOpen(true)}
+                  aria-label="Show passage picker"
+                  className="inline-flex h-8 items-center gap-1.5 rounded-md border border-border bg-background px-2.5 text-xs font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+                >
+                  <PanelLeftOpen className="h-3.5 w-3.5" />
+                  Passages
+                </button>
+              )}
+              {!rightOpen && (
+                <button
+                  type="button"
+                  onClick={() => setRightOpen(true)}
+                  aria-label="Show word analysis"
+                  className="ml-auto inline-flex h-8 items-center gap-1.5 rounded-md border border-border bg-background px-2.5 text-xs font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+                >
+                  Analysis
+                  <PanelRightOpen className="h-3.5 w-3.5" />
+                </button>
+              )}
+            </div>
+          )}
 
           <header className="mb-6">
             <p className="text-xs uppercase tracking-[0.18em] text-muted-foreground">
@@ -179,12 +282,13 @@ function ReaderPage() {
 
           <div className="space-y-14">
             {(passage.verses as Verse[]).map((verse) => (
-              <VerseReader
-                key={verse.ref}
-                verse={verse}
-                selectedTokenId={w ?? null}
-                onSelectToken={selectToken}
-              />
+              <div key={verse.ref} id={verse.ref} className="scroll-mt-20">
+                <VerseReader
+                  verse={verse}
+                  selectedTokenId={w ?? null}
+                  onSelectToken={selectToken}
+                />
+              </div>
             ))}
           </div>
 
@@ -239,15 +343,18 @@ function ReaderPage() {
           </div>
         </main>
 
-        <aside className="hidden border-l border-border/70 lg:block">
-          <div className="sticky top-14 h-[calc(100vh-3.5rem)]">
-            <WordAnalysisPanel
-              token={selectedTokenAndVerse?.token ?? null}
-              verse={selectedTokenAndVerse?.verse ?? null}
-              onClose={closePanel}
-            />
-          </div>
-        </aside>
+        {rightOpen && (
+          <aside className="hidden border-l border-border/70 lg:block">
+            <div className="sticky top-14 h-[calc(100vh-3.5rem)]">
+              <WordAnalysisPanel
+                token={selectedTokenAndVerse?.token ?? null}
+                verse={selectedTokenAndVerse?.verse ?? null}
+                onClose={closePanel}
+                onCollapse={() => setRightOpen(false)}
+              />
+            </div>
+          </aside>
+        )}
       </div>
 
       {/* Mobile/tablet sheet — only mount on compact viewports so the
