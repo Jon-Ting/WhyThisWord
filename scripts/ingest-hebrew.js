@@ -1,6 +1,11 @@
 import fs from "fs";
 import path from "path";
 
+// --- Configuration ---
+const CONCURRENCY_LIMIT = 5; // Max simultaneous network requests
+const MAX_RETRIES = 3;
+const RETRY_DELAY_MS = 1000;
+
 // OT Books mapping for MorphHB
 let booksMetadata = [];
 try {
@@ -9,14 +14,7 @@ try {
   console.warn("Could not read books.json, using fallback metadata.");
 }
 
-const fallbackOtBooks = [
-  { id: "genesis", name: "Genesis", abbr: "Gen", chaptersCount: 50, testament: "OT", language: "hebrew" },
-  { id: "psalms", name: "Psalms", abbr: "Ps", chaptersCount: 150, testament: "OT", language: "hebrew" }
-];
-
-const otBooks = booksMetadata.filter((b) => b.testament === "OT").length > 0 
-  ? booksMetadata.filter((b) => b.testament === "OT")
-  : fallbackOtBooks;
+const otBooks = booksMetadata.filter((b) => b.testament === "OT");
 
 const morphHbFilenames = {
   genesis: "Gen.xml",
@@ -60,7 +58,44 @@ const morphHbFilenames = {
   malachi: "Mal.xml",
 };
 
-const pilotBookIds = ["genesis", "psalms"];
+// --- Helpers ---
+
+async function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function fetchWithRetry(url, options = {}, retries = MAX_RETRIES) {
+  try {
+    const res = await fetch(url, options);
+    if (!res.ok) {
+      if (res.status === 429 && retries > 0) {
+        const delay = RETRY_DELAY_MS * (MAX_RETRIES - retries + 1);
+        console.warn(`      ⚠️ Rate limited (429). Retrying in ${delay}ms...`);
+        await sleep(delay);
+        return fetchWithRetry(url, options, retries - 1);
+      }
+      throw new Error(`Status ${res.status}`);
+    }
+    return res;
+  } catch (err) {
+    if (retries > 0) {
+      const delay = RETRY_DELAY_MS * (MAX_RETRIES - retries + 1);
+      console.warn(`      ⚠️ Fetch failed: ${err.message}. Retrying in ${delay}ms...`);
+      await sleep(delay);
+      return fetchWithRetry(url, options, retries - 1);
+    }
+    throw err;
+  }
+}
+
+async function processInBatches(tasks, limit) {
+  const results = [];
+  for (let i = 0; i < tasks.length; i += limit) {
+    const batch = tasks.slice(i, i + limit);
+    results.push(...(await Promise.all(batch.map((task) => task()))));
+  }
+  return results;
+}
 
 // Morphology Decoder Mappings (OSHM)
 const posMap = {
@@ -76,7 +111,7 @@ const posMap = {
   M: "Number",
 };
 
-const stemMap = {
+const hebrewStemMap = {
   q: "Qal",
   N: "Niphal",
   p: "Piel",
@@ -94,6 +129,24 @@ const stemMap = {
   u: "Qal passive",
   w: "Hishtaphel",
   y: "Hithpalpel",
+};
+
+const aramaicStemMap = {
+  q: "Peal",
+  u: "Peil",
+  t: "Ithpeel",
+  p: "Pael",
+  T: "Ithpaal",
+  h: "Haphel",
+  i: "Ittaphal",
+  a: "Aphel",
+  s: "Shaphel",
+  w: "Ishtaphel",
+  o: "Polel",
+  O: "Polal",
+  r: "Hithpolel",
+  y: "Palpel",
+  Y: "Ithpalpel",
 };
 
 const tenseMap = {
@@ -134,8 +187,13 @@ const stateMap = {
   d: "determined",
 };
 
-function decodeHebrewMorph(morph) {
-  if (!morph || !morph.startsWith("H")) return morph;
+function decodeMorph(morph) {
+  if (!morph) return morph;
+  const isAramaic = morph.startsWith("A");
+  const isHebrew = morph.startsWith("H");
+  if (!isAramaic && !isHebrew) return morph;
+
+  const stemMap = isAramaic ? aramaicStemMap : hebrewStemMap;
 
   const components = morph.slice(1).split("/");
   const decodedComponents = components.map((comp) => {
@@ -157,11 +215,9 @@ function decodeHebrewMorph(morph) {
       if (gender) parts.push(gender);
       if (number) parts.push(number);
     } else if (comp[0] === "N" || comp[0] === "A") {
-      // Type (common, proper, etc. - usually second char but sometimes skipped)
-      // For simplicity, we'll just check standard positions
       let offset = 1;
-      if (comp[1] === "p" || comp[1] === "c") {
-        parts.push(comp[1] === "p" ? "proper" : "common");
+      if (comp[1] === "p" || comp[1] === "c" || comp[1] === "g") {
+        parts.push(comp[1] === "p" ? "proper" : comp[1] === "c" ? "common" : "gentilic");
         offset = 2;
       }
 
@@ -173,7 +229,6 @@ function decodeHebrewMorph(morph) {
       if (number) parts.push(number);
       if (state) parts.push(state);
     } else {
-      // General decoding for other parts
       for (let i = 1; i < comp.length; i++) {
         const char = comp[i];
         const decoded = genderMap[char] || numberMap[char] || personMap[char] || stateMap[char];
@@ -187,9 +242,7 @@ function decodeHebrewMorph(morph) {
   return decodedComponents.filter(Boolean).join(" + ");
 }
 
-// Simple rule-based transliterator for Hebrew (consonants + some vowels)
 function transliterateHebrew(word) {
-  // Mapping for consonants
   const consMap = {
     א: "'",
     ב: "b",
@@ -220,14 +273,12 @@ function transliterateHebrew(word) {
     ץ: "ts",
   };
 
-  // Mapping for vowels (simplified)
   const vowelMap = {
     "\u05B8": "a", // qamets
     "\u05B7": "a", // patach
     "\u05B6": "e", // segol
     "\u05B5": "e", // tsere
     "\u05B4": "i", // hiriq
-    "\u05B8": "o", // qamets hatuf (simplified)
     "\u05BB": "u", // qubuts
     "\u05B9": "o", // holam
     "\u05B0": "e", // sheva
@@ -242,16 +293,17 @@ function transliterateHebrew(word) {
     }
   }
 
-  // Clean up: handle double vowels, dagesh (simplified), etc.
   return result || word;
 }
 
-async function main() {
-  console.log("🚀 Starting Hebrew Ingestion...");
+// --- Main Ingestion Logic ---
 
-  // 1. Fetch Strong's Lexicon (Hebrew)
+async function main() {
+  console.log("🚀 Starting Hebrew/Aramaic Ingestion (Phase 8: Optimized & Per-Chapter)...");
+
+  // 1. Fetch Strong's Lexicon
   console.log("📖 Fetching Strong's Lexicon...");
-  const strongsRes = await fetch(
+  const strongsRes = await fetchWithRetry(
     "https://raw.githubusercontent.com/mormon-documentation-project/strongs/master/strongs.json",
   );
   const strongsDb = await strongsRes.json();
@@ -261,9 +313,8 @@ async function main() {
       strongsMap.set(entry.number, entry);
     }
   }
-  console.log(`✅ Loaded ${strongsMap.size} Hebrew Strong's entries.`);
+  console.log(`✅ Loaded ${strongsMap.size} Hebrew/Aramaic Strong's entries.`);
 
-  // Load existing lexicon to append
   const lexiconPath = "src/lib/corpus/data/lexicon.json";
   let fullLexicon = {};
   if (fs.existsSync(lexiconPath)) {
@@ -271,54 +322,52 @@ async function main() {
   }
 
   // 2. Ingest Books
-  for (const bookId of pilotBookIds) {
-    const bookMeta = otBooks.find((b) => b.id === bookId);
-    if (!bookMeta) continue;
+  const booksToIngest = otBooks;
 
+  for (const bookMeta of booksToIngest) {
+    const bookId = bookMeta.id;
     const xmlFile = morphHbFilenames[bookId];
-    if (!xmlFile) continue;
+    if (!xmlFile) {
+      console.warn(`      ⚠️ No MorphHB XML mapping for ${bookId}. Skipping.`);
+      continue;
+    }
 
-    console.log(`📚 Ingesting ${bookMeta.name}...`);
+    console.log(`📚 Ingesting ${bookMeta.name} (${bookId})...`);
 
     // Fetch MorphHB XML
     const xmlUrl = `https://raw.githubusercontent.com/openscriptures/morphhb/master/wlc/${xmlFile}`;
-    const xmlRes = await fetch(xmlUrl);
+    const xmlRes = await fetchWithRetry(xmlUrl);
     const xmlText = await xmlRes.text();
 
-    // Fetch WEB English chapters
+    // Fetch WEB English chapters in batches
     console.log(`   └─ Fetching WEB English (${bookMeta.chaptersCount} chapters)...`);
     const chaptersMap = new Map();
-
-    // Determine webIdx (Genesis is 0, Exodus 1, etc. in getBible)
-    // Actually OT books start from 0 to 38 in getBible
-    const webIdx = otBooks.indexOf(bookMeta);
+    const webIdx = booksMetadata.indexOf(bookMeta);
 
     const chapterTasks = [];
     for (let ch = 1; ch <= bookMeta.chaptersCount; ch++) {
-      chapterTasks.push(
-        (async () => {
-          const webUrl = `https://api.getbible.net/v2/web/${webIdx + 1}/${ch}.json`;
-          try {
-            const webRes = await fetch(webUrl);
-            if (webRes.ok) {
-              const webData = await webRes.json();
-              chaptersMap.set(ch, webData.verses);
-            }
-          } catch (err) {
-            console.warn(`      ⚠️ Failed to fetch chapter ${ch}:`, err.message);
-          }
-        })(),
-      );
+      chapterTasks.push(async () => {
+        const webUrl = `https://api.getbible.net/v2/web/${webIdx + 1}/${ch}.json`;
+        try {
+          const webRes = await fetchWithRetry(webUrl);
+          const webData = await webRes.json();
+          chaptersMap.set(ch, webData.verses);
+        } catch (err) {
+          console.warn(`      ⚠️ Failed to fetch ${bookMeta.name} ch ${ch}: ${err.message}`);
+        }
+      });
     }
-    await Promise.all(chapterTasks);
 
-    // Parse XML (Regex approach)
-    const verses = [];
+    await processInBatches(chapterTasks, CONCURRENCY_LIMIT);
+
+    // Parse XML
     const chapterRegex = /<chapter osisID="[^"]+\.(\d+)">([\s\S]*?)<\/chapter>/g;
     let chMatch;
     while ((chMatch = chapterRegex.exec(xmlText)) !== null) {
       const chNum = parseInt(chMatch[1], 10);
       const chContent = chMatch[2];
+      const verses = [];
+
       const verseRegex = /<verse osisID="[^"]+\.\d+\.(\d+)">([\s\S]*?)<\/verse>/g;
       let vMatch;
       while ((vMatch = verseRegex.exec(chContent)) !== null) {
@@ -329,9 +378,11 @@ async function main() {
         const wordRegex = /<w\s+([^>]*?)>(.*?)<\/w>/g;
         let wMatch;
         let tokenId = 0;
+        let aramaicWordCount = 0;
+
         while ((wMatch = wordRegex.exec(vContent)) !== null) {
           const attrStr = wMatch[1];
-          const surface = wMatch[2].replace(/\//g, ""); // Remove separators
+          const surface = wMatch[2].replace(/\//g, "");
 
           const lemmaMatch = attrStr.match(/lemma="([^"]+)"/);
           const morphMatch = attrStr.match(/morph="([^"]+)"/);
@@ -339,7 +390,8 @@ async function main() {
           const lemmaRaw = lemmaMatch ? lemmaMatch[1] : "";
           const morph = morphMatch ? morphMatch[1] : "";
 
-          // Extract Strong's number from lemma (e.g., "b/7225" -> "H7225")
+          if (morph.startsWith("A")) aramaicWordCount++;
+
           const strongMatch = lemmaRaw.match(/(\d+)/);
           const strong = strongMatch ? "H" + strongMatch[1] : undefined;
 
@@ -349,16 +401,14 @@ async function main() {
           const token = {
             id: `${bookId}-${chNum}-${vNum}-${tokenId++}`,
             surface,
-            word: surface,
             lemma: lemma || surface,
             translit: transliterateHebrew(surface),
-            morph: decodeHebrewMorph(morph),
+            morph: decodeMorph(morph),
             glosses: strongEntry ? [strongEntry.kjv_def].filter(Boolean) : [],
             strongs: strong,
           };
           tokens.push(token);
 
-          // Update lexicon
           if (lemma && !fullLexicon[lemma]) {
             fullLexicon[lemma] = {
               lemma,
@@ -376,31 +426,35 @@ async function main() {
         }
 
         const englishVerse = (chaptersMap.get(chNum) || []).find((v) => v.verse === vNum);
-
         verses.push({
           ref: `${bookMeta.name} ${chNum}:${vNum}`,
-          englishText: englishVerse ? englishVerse.text : "",
+          englishText: englishVerse ? englishVerse.text : "[English translation missing]",
           tokens,
-          language: "hebrew",
+          language: aramaicWordCount > tokens.length / 2 ? "aramaic" : "hebrew",
         });
       }
-    }
 
-    // Save Book Data
-    const bookOutput = {
-      id: bookId,
-      name: bookMeta.name,
-      verses,
-    };
-    const outputPath = `src/lib/corpus/data/ot/${bookId}.json`;
-    fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-    fs.writeFileSync(outputPath, JSON.stringify(bookOutput, null, 2));
-    console.log(`✅ Saved ${bookMeta.name} to ${outputPath}`);
+      // Save Chapter Data
+      const chapterOutput = {
+        id: `${bookId}-${chNum}`,
+        name: bookMeta.name,
+        chapter: chNum,
+        verses,
+        language: bookMeta.language,
+      };
+      const outputPath = `src/lib/corpus/data/ot/${bookId}/${chNum}.json`;
+      fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+      fs.writeFileSync(outputPath, JSON.stringify(chapterOutput)); // Minified
+    }
+    console.log(`✅ Saved ${bookMeta.name} chapters to src/lib/corpus/data/ot/${bookId}/`);
   }
 
   // Save Lexicon
-  fs.writeFileSync(lexiconPath, JSON.stringify(fullLexicon, null, 2));
+  fs.writeFileSync(lexiconPath, JSON.stringify(fullLexicon)); // Minified
   console.log(`✅ Updated lexicon at ${lexiconPath}`);
 }
 
-main().catch(console.error);
+main().catch((err) => {
+  console.error("❌ Fatal error during ingestion:", err);
+  process.exit(1);
+});

@@ -68,29 +68,21 @@ export async function getPassage(id: string): Promise<Passage | undefined> {
   const folder = bookMetadata.testament.toLowerCase();
 
   try {
-    // Dynamically load the book chunk from its testament folder
-    const bookData = await import(`./data/${folder}/${bookId}.json`).then((m) => m.default || m);
-
-    // Filter verses belonging to this specific chapter
-    const verses = bookData.verses.filter((v: Verse) => {
-      const parts = v.ref.split(" ");
-      const refVerse = parts[parts.length - 1]; // "3:16"
-      const chStr = refVerse.split(":")[0];
-      return parseInt(chStr, 10) === chapterNum;
-    });
-
-    if (verses.length === 0) return undefined;
+    // Dynamically load the specific chapter chunk
+    const chapterData = await import(`./data/${folder}/${bookId}/${chapterNum}.json`).then(
+      (m) => m.default || m,
+    );
 
     return {
       id,
-      ref: `${bookData.name} ${chapterNum}`,
-      title: bookData.name,
-      description: `Original language text of ${bookData.name} Chapter ${chapterNum} with grammatical morphology analysis.`,
-      verses,
+      ref: `${chapterData.name} ${chapterNum}`,
+      title: chapterData.name,
+      description: `Original language text of ${chapterData.name} Chapter ${chapterNum} with grammatical morphology analysis.`,
+      verses: chapterData.verses,
       language: bookMetadata.language,
     };
   } catch (err) {
-    console.error(`Failed to load passage chunk for book ${bookId}:`, err);
+    console.error(`Failed to load passage chunk for ${bookId} chapter ${chapterNum}:`, err);
     return undefined;
   }
 }
