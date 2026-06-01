@@ -135,6 +135,27 @@ export function getAdjacentChapters(id: string): {
 }
 
 // Synchronously export the list of all chapters in the Bible for search indexing
+/** Return the number of verses in a specific chapter by dynamically loading its data. */
+export async function getChapterVerseCount(
+  bookId: string,
+  chapterNum: number,
+): Promise<number | undefined> {
+  const bookMetadata = (booksIndex as BookMetadata[]).find((b) => b.id === bookId);
+  if (!bookMetadata) return undefined;
+
+  const folder = bookMetadata.testament.toLowerCase();
+
+  try {
+    const chapterData = await import(`./data/${folder}/${bookId}/${chapterNum}.json`).then(
+      (m) => m.default || m,
+    );
+    return (chapterData.verses as Verse[]).length;
+  } catch (err) {
+    console.error(`Failed to load chapter data for ${bookId} ${chapterNum}:`, err);
+    return undefined;
+  }
+}
+
 export function listPassages(): PassageSearchResult[] {
   const list: PassageSearchResult[] = [];
   for (const book of booksIndex) {
@@ -181,8 +202,16 @@ export async function getPassage(
 
     // Filter to a verse range if requested
     if (options?.startVerse || options?.endVerse) {
-      let start = options.startVerse ?? 1;
-      let end = options.endVerse ?? Infinity;
+      // Determine actual min/max verses in this chapter
+      const verseNumbers = verses.map((v: Verse) => parseVerseNumber(v.ref));
+      const minVerse = Math.min(...verseNumbers);
+      const maxVerse = Math.max(...verseNumbers);
+
+      let start = options.startVerse ?? minVerse;
+      let end = options.endVerse ?? maxVerse;
+      // Clamp to actual available verses
+      start = Math.max(minVerse, Math.min(start, maxVerse));
+      end = Math.max(minVerse, Math.min(end, maxVerse));
       // Swap if the user typed the range backwards
       if (start > end) [start, end] = [end, start];
       const filtered = verses.filter((v: Verse) => {
@@ -194,7 +223,7 @@ export async function getPassage(
 
       if (filtered.length > 0) {
         ref += `:${start}`;
-        if (end !== Infinity && end !== start) {
+        if (end !== maxVerse && end !== start) {
           ref += `-${end}`;
         }
       }

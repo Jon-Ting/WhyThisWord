@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Link } from "@tanstack/react-router";
 import { BookOpen } from "lucide-react";
 import {
@@ -15,6 +15,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import booksIndex from "@/lib/corpus/data/books.json";
+import { getChapterVerseCount } from "@/lib/corpus";
 
 interface BookMetadata {
   id: string;
@@ -31,6 +32,7 @@ export function BcvSelector() {
   const [chapter, setChapter] = useState<string>("");
   const [startVerse, setStartVerse] = useState("");
   const [endVerse, setEndVerse] = useState("");
+  const [maxVerse, setMaxVerse] = useState<number | null>(null);
 
   const books = booksIndex as BookMetadata[];
 
@@ -40,11 +42,54 @@ export function BcvSelector() {
     : [];
 
   const targetId = selectedBook && chapter ? `${selectedBook.id}-${chapter}` : "";
+
+  useEffect(() => {
+    if (!selectedBook || !chapter) {
+      setMaxVerse(null);
+      return;
+    }
+    let cancelled = false;
+    getChapterVerseCount(selectedBook.id, parseInt(chapter, 10)).then((count) => {
+      if (!cancelled) {
+        const newMax = count ?? null;
+        setMaxVerse(newMax);
+        // Re-clamp existing verse inputs against the newly loaded max
+        setStartVerse((prev) => clamp(prev, newMax));
+        setEndVerse((prev) => {
+          const clamped = clamp(prev, newMax);
+          if (clamped && startVerse) {
+            const startNum = parseInt(startVerse, 10);
+            const endNum = parseInt(clamped, 10);
+            if (!Number.isNaN(startNum) && !Number.isNaN(endNum) && endNum < startNum) {
+              return String(startNum);
+            }
+          }
+          return clamped;
+        });
+      }
+    });
+    return () => {
+      cancelled = true;
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selectedBook, chapter]);
+
+  const clamp = (value: string, max: number | null): string => {
+    const num = parseInt(value, 10);
+    if (Number.isNaN(num)) return value;
+    if (num < 1) return "1";
+    if (max !== null && num > max) return String(max);
+    return value;
+  };
+
+  const clampedStart = clamp(startVerse, maxVerse);
+  const clampedEnd = clamp(endVerse, maxVerse);
+
   const searchParams =
-    startVerse && targetId
+    clampedStart && targetId
       ? {
-          start: parseInt(startVerse, 10) || undefined,
-          ...(endVerse ? { end: parseInt(endVerse, 10) || undefined } : {}),
+          start: parseInt(clampedStart, 10) || undefined,
+          ...(clampedEnd ? { end: parseInt(clampedEnd, 10) || undefined } : {}),
         }
       : undefined;
 
@@ -109,12 +154,16 @@ export function BcvSelector() {
         <Input
           type="number"
           min={1}
+          max={maxVerse ?? undefined}
           placeholder="From verse"
           aria-label="Start verse"
           className="h-9 text-sm"
           value={startVerse}
           onChange={(e) => {
-            const value = e.target.value;
+            let value = e.target.value;
+            if (value) {
+              value = clamp(value, maxVerse);
+            }
             setStartVerse(value);
             if (!value) setEndVerse("");
           }}
@@ -126,14 +175,31 @@ export function BcvSelector() {
         <Input
           type="number"
           min={1}
+          max={maxVerse ?? undefined}
           placeholder="To verse"
           aria-label="End verse"
           className="h-9 text-sm"
           value={endVerse}
-          onChange={(e) => setEndVerse(e.target.value)}
+          onChange={(e) => {
+            let value = e.target.value;
+            if (value) {
+              value = clamp(value, maxVerse);
+              const startNum = parseInt(startVerse, 10);
+              const endNum = parseInt(value, 10);
+              if (!Number.isNaN(startNum) && !Number.isNaN(endNum) && endNum < startNum) {
+                value = String(startNum);
+              }
+            }
+            setEndVerse(value);
+          }}
           disabled={!targetId}
         />
       </div>
+      {maxVerse !== null && (
+        <p className="text-xs text-muted-foreground">
+          {selectedBook?.name} {chapter} has {maxVerse} verses
+        </p>
+      )}
 
       {canGo ? (
         <Button asChild className="w-full">

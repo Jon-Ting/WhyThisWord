@@ -107,8 +107,20 @@ function ReaderPage() {
   });
   const [rightOpen, setRightOpen] = useState(() => {
     if (typeof window === "undefined") return false;
-    return !!w;
+    try {
+      return JSON.parse(localStorage.getItem("reader.rightOpen") ?? "false");
+    } catch {
+      return false;
+    }
   });
+
+  useEffect(() => {
+    try {
+      localStorage.setItem("reader.rightOpen", JSON.stringify(rightOpen));
+    } catch {
+      /* ignore */
+    }
+  }, [rightOpen]);
 
   useEffect(() => {
     try {
@@ -149,22 +161,40 @@ function ReaderPage() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [start, passage.id]);
 
+  const [selectedWordId, setSelectedWordId] = useState<string | null>(() => {
+    if (typeof window === "undefined") return null;
+    return localStorage.getItem("reader.selectedWordId");
+  });
+
+  useEffect(() => {
+    if (w) {
+      setSelectedWordId(w);
+      localStorage.setItem("reader.selectedWordId", w);
+    }
+    // Removed the 'else' block that did nothing,
+    // ensuring we don't clear it on navigation.
+  }, [w]);
+
   const selectedTokenAndVerse = useMemo(() => {
-    if (!w) return null;
+    const tokenId = w ?? selectedWordId;
+    if (!tokenId) return null;
     for (const v of passage.verses as Verse[]) {
-      const found = v.tokens.find((t: CorpusToken) => t.id === w);
+      const found = v.tokens.find((t: CorpusToken) => t.id === tokenId);
       if (found) return { token: found, verse: v };
     }
     return null;
-  }, [w, passage]);
+  }, [w, selectedWordId, passage]);
 
   const adjacent = useMemo(() => getAdjacentChapters(passage.id), [passage.id]);
   const isPartial = start !== undefined || end !== undefined;
 
   const selectToken = (tokenId: string) =>
     navigate({ search: { ...search, w: tokenId }, replace: true, resetScroll: false });
-  const closePanel = () =>
+  const closePanel = () => {
+    setSelectedWordId(null);
+    localStorage.removeItem("reader.selectedWordId");
     navigate({ search: { ...search, w: undefined }, replace: true, resetScroll: false });
+  };
 
   return (
     <div className="min-h-screen bg-background">
