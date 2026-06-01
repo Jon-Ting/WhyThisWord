@@ -231,7 +231,7 @@ export function BcvSelector() {
           onValueChange={(value) => {
             setStartChapter(value);
             setStartVerse("");
-            setEndChapter("");
+            setEndChapter(value);
             setEndVerse("");
           }}
           disabled={!selectedBook}
