@@ -386,7 +386,7 @@ async function loadMultiChapterRange(
   if (!bookMetadata) return undefined;
 
   if (endChapter - startChapter + 1 > MAX_PASSAGE_SPAN) {
-    throw new PassageRangeTooLargeError(bookId, startChapter, endChapter, maxSpan);
+    throw new PassageRangeTooLargeError(bookId, startChapter, endChapter, MAX_PASSAGE_SPAN);
   }
 
   const folder = bookMetadata.testament.toLowerCase();

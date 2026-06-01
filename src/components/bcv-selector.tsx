@@ -112,6 +112,9 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
 
     // Full chapter
     if (sV === undefined) {
+      if (eCh !== undefined && eCh !== sCh) {
+        return `/reader/${selectedBook.id}-${sCh}:1-${eCh}:`;
+      }
       return `/reader/${selectedBook.id}-${sCh}`;
     }
 
@@ -304,9 +307,15 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
             )}
             aria-invalid={startVerseError ? "true" : "false"}
             value={startVerse}
+            onKeyDown={(e) => {
+              if ([".", "-", "+", "e", "E"].includes(e.key)) {
+                e.preventDefault();
+              }
+            }}
             onChange={(e) => {
-              setStartVerse(e.target.value);
-              if (!e.target.value.trim()) setEndVerse("");
+              const val = e.target.value.replace(/[^0-9]/g, "");
+              setStartVerse(val);
+              if (!val.trim()) setEndVerse("");
             }}
             disabled={!startChapter}
           />
@@ -322,8 +331,14 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
             )}
             aria-invalid={endVerseError ? "true" : "false"}
             value={endVerse}
+            onKeyDown={(e) => {
+              if ([".", "-", "+", "e", "E"].includes(e.key)) {
+                e.preventDefault();
+              }
+            }}
             onChange={(e) => {
-              setEndVerse(e.target.value);
+              const val = e.target.value.replace(/[^0-9]/g, "");
+              setEndVerse(val);
             }}
             disabled={!startChapter}
           />
