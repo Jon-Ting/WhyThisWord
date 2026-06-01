@@ -17,6 +17,10 @@ import { Input } from "@/components/ui/input";
 import booksIndex from "@/lib/corpus/data/books.json";
 import { getChapterVerseCount, MAX_PASSAGE_SPAN } from "@/lib/corpus";
 
+interface BcvSelectorProps {
+  onGo?: (url: string) => void;
+}
+
 interface BookMetadata {
   id: string;
   name: string;
@@ -35,7 +39,7 @@ function clampVerse(value: string, max: number | null): string {
   return value;
 }
 
-export function BcvSelector() {
+export function BcvSelector({ onGo }: BcvSelectorProps) {
   const [bookId, setBookId] = useState<string>("");
   const [startChapter, setStartChapter] = useState<string>("");
   const [startVerse, setStartVerse] = useState("");
@@ -342,9 +346,15 @@ export function BcvSelector() {
       )}
 
       {canGo ? (
-        <Button asChild className="w-full">
-          <Link to={targetUrl}>Go to {labelText || `${selectedBook?.name} ${startChapter}`}</Link>
-        </Button>
+        onGo ? (
+          <Button onClick={() => onGo(targetUrl)} className="w-full">
+            Go to {labelText || `${selectedBook?.name} ${startChapter}`}
+          </Button>
+        ) : (
+          <Button asChild className="w-full">
+            <Link to={targetUrl}>Go to {labelText || `${selectedBook?.name} ${startChapter}`}</Link>
+          </Button>
+        )
       ) : (
         <Button disabled className="w-full">
           Go

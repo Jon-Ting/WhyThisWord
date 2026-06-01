@@ -1,8 +1,15 @@
-import { Link, useRouterState } from "@tanstack/react-router";
+import { Link, useRouterState, useNavigate } from "@tanstack/react-router";
 import { cn } from "@/lib/utils";
 import { Clock } from "lucide-react";
 import { useRecentPassages } from "@/hooks/use-recent-passages";
 import { BcvSelector } from "./bcv-selector";
+import { parsePassageRef } from "@/lib/corpus";
+import booksIndex from "@/lib/corpus/data/books.json";
+
+interface BookMetadata {
+  id: string;
+  name: string;
+}
 
 function formatRelative(ts: number) {
   const diff = Date.now() - ts;
@@ -17,12 +24,46 @@ function formatRelative(ts: number) {
 
 export function PassagePicker() {
   const location = useRouterState({ select: (s) => s.location });
+  const navigate = useNavigate();
   const { recent } = useRecentPassages();
+
+  const handleGo = (targetUrl: string) => {
+    const currentRef = location.pathname.replace("/reader/", "");
+    const targetRef = targetUrl.replace("/reader/", "");
+
+    const currentParsed = parsePassageRef(currentRef);
+    const targetParsed = parsePassageRef(targetRef);
+
+    if (
+      currentParsed &&
+      targetParsed &&
+      currentParsed.bookId === targetParsed.bookId &&
+      currentParsed.startChapter === targetParsed.startChapter &&
+      !targetParsed.endChapter
+    ) {
+      // Same chapter target — scroll instead of navigating
+      const book = (booksIndex as BookMetadata[]).find((b) => b.id === targetParsed.bookId);
+      if (book && targetParsed.startVerse) {
+        const verseRef = `${book.name} ${targetParsed.startChapter}:${targetParsed.startVerse}`;
+        const el = document.getElementById(verseRef);
+        if (el) {
+          el.scrollIntoView({ behavior: "smooth", block: "start" });
+          return;
+        }
+      }
+      // No specific verse or element not found — scroll to top
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      return;
+    }
+
+    // Different chapter or cross-chapter — navigate normally
+    navigate({ to: targetUrl as never });
+  };
 
   return (
     <div>
       <div className="my-6">
-        <BcvSelector />
+        <BcvSelector onGo={handleGo} />
       </div>
 
       <nav aria-label="Recent passages" className="space-y-1">
