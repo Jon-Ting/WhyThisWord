@@ -30,7 +30,7 @@ export function VerseReader({ verse, selectedTokenId, onSelectToken }: VerseRead
           dir={direction}
           className={cn(
             "text-2xl leading-loose md:text-[1.9rem]",
-            isHebrew ? "font-hebrew text-hebrew-ink" : "font-greek text-greek-ink",
+            isHebrew ? "font-hebrew text-foreground" : "font-greek text-greek-ink",
           )}
         >
           {verse.tokens.map((t, i) => {
@@ -54,10 +54,10 @@ export function VerseReader({ verse, selectedTokenId, onSelectToken }: VerseRead
                         : isClickable
                           ? "hover:bg-accent hover:text-foreground hover:underline hover:decoration-accent-scholar/30 hover:underline-offset-[6px]"
                           : "opacity-60",
-                    isHebrew ? "text-hebrew-ink/90" : "text-greek-ink/90",
+                    isHebrew ? "text-foreground/90" : "text-greek-ink/90",
                   )}
                 >
-                  {t.word}
+                  {t.word ?? t.surface}
                 </button>
                 {t.punctuationAfter ?? ""}
                 {i < verse.tokens.length - 1 ? " " : ""}

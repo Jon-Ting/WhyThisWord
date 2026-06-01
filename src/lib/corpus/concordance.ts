@@ -2,7 +2,7 @@ import type { UsageExample, Verse } from "./types";
 import booksIndex from "./data/books.json";
 
 /**
- * Searches the entire NT corpus for verses containing a specific lemma.
+ * Searches the entire Bible corpus for verses containing a specific lemma.
  * Returns a set of UsageExample objects.
  */
 export async function findExamplesInCorpus(
@@ -13,36 +13,43 @@ export async function findExamplesInCorpus(
   const normalizedLemma = lemma.normalize("NFC").trim();
   const examples: UsageExample[] = [];
 
-  // Iterate through books in order
+  // Iterate through books and their chapters
   for (const book of booksIndex) {
     if (examples.length >= limit) break;
 
-    try {
-      // Dynamically import the book data
-      const bookData = await import(`./data/${book.id}.json`).then((m) => m.default || m);
+    const folder = book.testament.toLowerCase();
 
-      for (const verse of bookData.verses as Verse[]) {
-        if (examples.length >= limit) break;
-        if (excludeRef && verse.ref === excludeRef) continue;
+    for (let c = 1; c <= book.chaptersCount; c++) {
+      if (examples.length >= limit) break;
 
-        const hasLemma = verse.tokens.some((t) => t.lemma.normalize("NFC") === normalizedLemma);
+      try {
+        const chapterData = await import(`./data/${folder}/${book.id}/${c}.json`).then(
+          (m) => m.default || m,
+        );
 
-        if (hasLemma) {
-          const originalSnippet = verse.tokens
-            .map((t) => t.surface + (t.punctuationAfter ?? ""))
-            .join(" ");
+        for (const verse of chapterData.verses as Verse[]) {
+          if (examples.length >= limit) break;
+          if (excludeRef && verse.ref === excludeRef) continue;
 
-          examples.push({
-            ref: verse.ref,
-            englishSnippet: verse.englishText,
-            originalSnippet: originalSnippet,
-            highlightLemma: normalizedLemma,
-            note: "Corpus example",
-          });
+          const hasLemma = verse.tokens.some((t) => t.lemma.normalize("NFC") === normalizedLemma);
+
+          if (hasLemma) {
+            const originalSnippet = verse.tokens
+              .map((t) => t.surface + (t.punctuationAfter ?? ""))
+              .join(" ");
+
+            examples.push({
+              ref: verse.ref,
+              englishSnippet: verse.englishText,
+              originalSnippet: originalSnippet,
+              highlightLemma: normalizedLemma,
+              note: "Corpus example",
+            });
+          }
         }
+      } catch (err) {
+        console.warn(`Concordance: Failed to search in ${book.name} ${c}`, err);
       }
-    } catch (err) {
-      console.warn(`Concordance: Failed to search in ${book.name}`, err);
     }
   }
 
