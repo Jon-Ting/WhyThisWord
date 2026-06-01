@@ -34,11 +34,11 @@ const searchSchema = z.object({
 
 export const Route = createFileRoute("/reader/$ref")({
   validateSearch: zodValidator(searchSchema),
-  loaderDeps: ({ search }) => ({ start: search.start, end: search.end }),
+  loaderDeps: ({ search }) => ({ start: search?.start, end: search?.end }),
   loader: async ({ params, search }) => {
     const passage = await getPassage(params.ref, {
-      startVerse: search.start,
-      endVerse: search.end,
+      startVerse: search?.start,
+      endVerse: search?.end,
     });
     if (!passage) throw notFound();
     return { passage };
