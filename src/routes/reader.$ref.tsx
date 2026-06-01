@@ -176,8 +176,6 @@ function ReaderPage() {
       setSelectedWordId(w);
       localStorage.setItem("reader.selectedWordId", w);
     }
-    // Removed the 'else' block that did nothing,
-    // ensuring we don't clear it on navigation.
   }, [w]);
 
   const selectedTokenAndVerse = useMemo(() => {
@@ -189,6 +187,18 @@ function ReaderPage() {
     }
     return null;
   }, [w, selectedWordId, passage]);
+
+  // Persist the last valid token/verse so the panel keeps showing content
+  // even when navigating to a passage that doesn't contain the selected word.
+  const [lastToken, setLastToken] = useState<CorpusToken | null>(null);
+  const [lastVerse, setLastVerse] = useState<Verse | null>(null);
+
+  useEffect(() => {
+    if (selectedTokenAndVerse) {
+      setLastToken(selectedTokenAndVerse.token);
+      setLastVerse(selectedTokenAndVerse.verse);
+    }
+  }, [selectedTokenAndVerse]);
 
   const adjacent = useMemo(() => getAdjacentChapters(passage.id), [passage.id]);
   const parsedRef = useMemo(() => parsePassageRef(passage.id), [passage.id]);
@@ -204,6 +214,8 @@ function ReaderPage() {
     navigate({ search: { ...search, w: tokenId }, replace: true, resetScroll: false });
   const closePanel = () => {
     setSelectedWordId(null);
+    setLastToken(null);
+    setLastVerse(null);
     localStorage.removeItem("reader.selectedWordId");
     navigate({ search: { ...search, w: undefined }, replace: true, resetScroll: false });
   };
@@ -399,8 +411,8 @@ function ReaderPage() {
           <aside className="hidden border-l border-border/70 lg:block">
             <div className="sticky top-14 h-[calc(100vh-3.5rem)]">
               <WordAnalysisPanel
-                token={selectedTokenAndVerse?.token ?? null}
-                verse={selectedTokenAndVerse?.verse ?? null}
+                token={lastToken}
+                verse={lastVerse}
                 onClose={closePanel}
                 onCollapse={() => setRightOpen(false)}
               />
@@ -413,7 +425,7 @@ function ReaderPage() {
           overlay doesn't cover the desktop right-column panel. */}
       {isCompact ? (
         <Sheet
-          open={!!selectedTokenAndVerse}
+          open={!!lastToken}
           onOpenChange={(open) => {
             if (!open) closePanel();
           }}
@@ -425,11 +437,7 @@ function ReaderPage() {
                 Lexical and contrastive notes for the selected Greek word.
               </SheetDescription>
             </VisuallyHidden.Root>
-            <WordAnalysisPanel
-              token={selectedTokenAndVerse?.token ?? null}
-              verse={selectedTokenAndVerse?.verse ?? null}
-              onClose={closePanel}
-            />
+            <WordAnalysisPanel token={lastToken} verse={lastVerse} onClose={closePanel} />
           </SheetContent>
         </Sheet>
       ) : null}

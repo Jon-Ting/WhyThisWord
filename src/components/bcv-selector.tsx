@@ -225,7 +225,13 @@ export function BcvSelector() {
         </SelectContent>
       </Select>
 
-      <div className="grid grid-cols-2 gap-2">
+      <div className="grid grid-cols-2 gap-x-2 gap-y-1">
+        <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+          From chapter
+        </span>
+        <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+          To chapter
+        </span>
         <Select
           value={startChapter}
           onValueChange={(value) => {
@@ -237,7 +243,7 @@ export function BcvSelector() {
           disabled={!selectedBook}
         >
           <SelectTrigger className="w-full text-sm">
-            <SelectValue placeholder="Start chapter" />
+            <SelectValue placeholder="Choose…" />
           </SelectTrigger>
           <SelectContent className="max-h-60">
             {chapterOptions.map((c) => (
@@ -257,7 +263,7 @@ export function BcvSelector() {
           disabled={!startChapter}
         >
           <SelectTrigger className="w-full text-sm">
-            <SelectValue placeholder="End chapter" />
+            <SelectValue placeholder="Same" />
           </SelectTrigger>
           <SelectContent className="max-h-60">
             {endChapterOptions.map((c) => (
@@ -269,12 +275,18 @@ export function BcvSelector() {
         </Select>
       </div>
 
-      <div className="grid grid-cols-2 gap-2">
+      <div className="grid grid-cols-2 gap-x-2 gap-y-1">
+        <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+          From verse
+        </span>
+        <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+          To verse
+        </span>
         <Input
           type="number"
           min={1}
           max={startMaxVerse ?? undefined}
-          placeholder="From verse"
+          placeholder="All"
           aria-label="Start verse"
           className="h-9 text-sm"
           value={startVerse}
@@ -290,7 +302,7 @@ export function BcvSelector() {
           type="number"
           min={1}
           max={endMaxVerse ?? undefined}
-          placeholder="To verse"
+          placeholder={endChapter !== startChapter ? "All" : "Same"}
           aria-label="End verse"
           className="h-9 text-sm"
           value={endVerse}
