@@ -14,6 +14,7 @@ import {
 } from "@/components/ui/select";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
+import { cn } from "@/lib/utils";
 import booksIndex from "@/lib/corpus/data/books.json";
 import { getChapterVerseCount, MAX_PASSAGE_SPAN } from "@/lib/corpus";
 
@@ -158,6 +159,36 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
     return text;
   }, [selectedBook, startChapter, startVerse, endChapter, endVerse, startMaxVerse, endMaxVerse]);
 
+  const startVerseError = useMemo(() => {
+    if (!startVerse.trim()) return null;
+    const num = parseInt(startVerse.trim(), 10);
+    if (Number.isNaN(num)) return "Enter a valid number";
+    if (num < 1) return "Must be at least 1";
+    if (startMaxVerse !== null && num > startMaxVerse) {
+      return `Max ${startMaxVerse} verses`;
+    }
+    return null;
+  }, [startVerse, startMaxVerse]);
+
+  const endVerseError = useMemo(() => {
+    if (!endVerse.trim()) return null;
+    if (!startVerse.trim()) return "Start verse required";
+    const num = parseInt(endVerse.trim(), 10);
+    if (Number.isNaN(num)) return "Enter a valid number";
+    if (num < 1) return "Must be at least 1";
+    const max = endChapter ? endMaxVerse : startMaxVerse;
+    if (max !== null && num > max) {
+      return `Max ${max} verses`;
+    }
+    if (endChapter === startChapter && startVerse.trim()) {
+      const sNum = parseInt(startVerse.trim(), 10);
+      if (!Number.isNaN(sNum) && num < sNum) {
+        return "Must be after start";
+      }
+    }
+    return null;
+  }, [endVerse, endChapter, endMaxVerse, startMaxVerse, startVerse, startChapter]);
+
   const otBooks = books.filter((b) => b.testament === "OT");
   const ntBooks = books.filter((b) => b.testament === "NT");
 
@@ -253,40 +284,60 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
         </Select>
       </div>
 
-      <div className="grid grid-cols-2 gap-x-2 gap-y-1">
-        <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
-          From verse
-        </span>
-        <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
-          To verse
-        </span>
-        <Input
-          type="number"
-          min={1}
-          max={startMaxVerse ?? undefined}
-          placeholder="All"
-          aria-label="Start verse"
-          className="h-9 text-sm"
-          value={startVerse}
-          onChange={(e) => {
-            setStartVerse(e.target.value);
-            if (!e.target.value.trim()) setEndVerse("");
-          }}
-          disabled={!startChapter}
-        />
-        <Input
-          type="number"
-          min={1}
-          max={endMaxVerse ?? undefined}
-          placeholder={endChapter !== startChapter ? "All" : "Same"}
-          aria-label="End verse"
-          className="h-9 text-sm"
-          value={endVerse}
-          onChange={(e) => {
-            setEndVerse(e.target.value);
-          }}
-          disabled={!startChapter}
-        />
+      <div>
+        <div className="grid grid-cols-2 gap-x-2 gap-y-1">
+          <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+            From verse
+          </span>
+          <span className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+            To verse
+          </span>
+          <Input
+            type="number"
+            min={1}
+            max={startMaxVerse ?? undefined}
+            placeholder="All"
+            aria-label="Start verse"
+            className={cn(
+              "h-9 text-sm",
+              startVerseError && "border-destructive focus-visible:ring-destructive",
+            )}
+            aria-invalid={startVerseError ? "true" : "false"}
+            value={startVerse}
+            onChange={(e) => {
+              setStartVerse(e.target.value);
+              if (!e.target.value.trim()) setEndVerse("");
+            }}
+            disabled={!startChapter}
+          />
+          <Input
+            type="number"
+            min={1}
+            max={endMaxVerse ?? undefined}
+            placeholder={endChapter !== startChapter ? "All" : "Same"}
+            aria-label="End verse"
+            className={cn(
+              "h-9 text-sm",
+              endVerseError && "border-destructive focus-visible:ring-destructive",
+            )}
+            aria-invalid={endVerseError ? "true" : "false"}
+            value={endVerse}
+            onChange={(e) => {
+              setEndVerse(e.target.value);
+            }}
+            disabled={!startChapter}
+          />
+        </div>
+        {(startVerseError || endVerseError) && (
+          <div className="mt-1 grid grid-cols-2 gap-x-2">
+            {startVerseError && <p className="text-xs text-destructive">{startVerseError}</p>}
+            {endVerseError && (
+              <p className={cn("text-xs text-destructive", !startVerseError && "col-start-2")}>
+                {endVerseError}
+              </p>
+            )}
+          </div>
+        )}
       </div>
 
       {startMaxVerse !== null && (
