@@ -31,12 +31,15 @@ interface BookMetadata {
   language: "greek" | "hebrew";
 }
 
-function clampVerse(value: string, max: number | null): string {
-  const num = parseInt(value, 10);
-  if (Number.isNaN(num)) return value;
-  if (num < 1) return "1";
-  if (max !== null && num > max) return String(max);
-  return value;
+function sanitizeVerse(value: string, max: number | null): number | undefined {
+  const trimmed = value.trim();
+  if (!trimmed) return undefined;
+  const num = parseInt(trimmed, 10);
+  if (Number.isNaN(num)) return undefined;
+  if (max !== null) {
+    return Math.max(1, Math.min(num, max));
+  }
+  return Math.max(1, num);
 }
 
 export function BcvSelector({ onGo }: BcvSelectorProps) {
@@ -98,43 +101,13 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
     };
   }, [selectedBook, endChapter]);
 
-  // Re-clamp existing verses when max changes
-  useEffect(() => {
-    if (startMaxVerse !== null) {
-      setStartVerse((prev) => clampVerse(prev, startMaxVerse));
-    }
-  }, [startMaxVerse]);
-
-  useEffect(() => {
-    const max = endChapter ? endMaxVerse : startMaxVerse;
-    if (max !== null) {
-      setEndVerse((prev) => {
-        let clamped = clampVerse(prev, max);
-        if (
-          clamped &&
-          startChapter &&
-          endChapter &&
-          parseInt(startChapter, 10) === parseInt(endChapter, 10) &&
-          startVerse
-        ) {
-          const s = parseInt(startVerse, 10);
-          const e = parseInt(clamped, 10);
-          if (!Number.isNaN(s) && !Number.isNaN(e) && e < s) {
-            clamped = String(s);
-          }
-        }
-        return clamped;
-      });
-    }
-  }, [endMaxVerse, startMaxVerse, endChapter, startChapter, startVerse]);
-
   const targetUrl = useMemo(() => {
     if (!selectedBook || !startChapter) return "";
 
     const sCh = parseInt(startChapter, 10);
-    const sV = startVerse ? parseInt(startVerse, 10) : undefined;
+    const sV = sanitizeVerse(startVerse, startMaxVerse);
     const eCh = endChapter ? parseInt(endChapter, 10) : undefined;
-    const eV = endVerse ? parseInt(endVerse, 10) : undefined;
+    const eV = sanitizeVerse(endVerse, endChapter ? endMaxVerse : startMaxVerse);
 
     // Full chapter
     if (sV === undefined) {
@@ -148,6 +121,9 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
 
     // Same-chapter range
     if (eCh === undefined || eCh === sCh) {
+      if (eV !== undefined && eV < sV) {
+        return `/reader/${selectedBook.id}-${sCh}:${sV}`;
+      }
       return `/reader/${selectedBook.id}-${sCh}:${sV}-${eV}`;
     }
 
@@ -158,36 +134,34 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
 
     // Cross-chapter range without end verse
     return `/reader/${selectedBook.id}-${sCh}:${sV}-${eCh}:`;
-  }, [selectedBook, startChapter, startVerse, endChapter, endVerse]);
+  }, [selectedBook, startChapter, startVerse, endChapter, endVerse, startMaxVerse, endMaxVerse]);
 
   const labelText = useMemo(() => {
     if (!selectedBook || !startChapter) return "";
     const sCh = parseInt(startChapter, 10);
-    const sV = startVerse ? parseInt(startVerse, 10) : undefined;
+    const sV = sanitizeVerse(startVerse, startMaxVerse);
     const eCh = endChapter ? parseInt(endChapter, 10) : undefined;
-    const eV = endVerse ? parseInt(endVerse, 10) : undefined;
+    const eV = sanitizeVerse(endVerse, endChapter ? endMaxVerse : startMaxVerse);
 
     let text = `${selectedBook.name} ${sCh}`;
     if (sV !== undefined) text += `:${sV}`;
-    if (eV !== undefined && (eCh !== sCh || eV !== sV)) {
+    if (sV !== undefined && eV !== undefined && (eCh !== sCh || eV !== sV)) {
       if (eCh !== undefined && eCh !== sCh) {
         text += ` - ${eCh}`;
         text += `:${eV}`;
-      } else {
+      } else if (eV > sV) {
         text += `-${eV}`;
       }
     } else if (eCh !== undefined && eCh !== sCh) {
       text += ` - ${eCh}`;
     }
     return text;
-  }, [selectedBook, startChapter, startVerse, endChapter, endVerse]);
+  }, [selectedBook, startChapter, startVerse, endChapter, endVerse, startMaxVerse, endMaxVerse]);
 
   const otBooks = books.filter((b) => b.testament === "OT");
   const ntBooks = books.filter((b) => b.testament === "NT");
 
   const canGo = Boolean(targetUrl);
-  const startChapterNum = startChapter ? parseInt(startChapter, 10) : null;
-  const endChapterNum = endChapter ? parseInt(endChapter, 10) : null;
 
   return (
     <div className="space-y-3">
@@ -295,10 +269,8 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
           className="h-9 text-sm"
           value={startVerse}
           onChange={(e) => {
-            let value = e.target.value;
-            if (value) value = clampVerse(value, startMaxVerse);
-            setStartVerse(value);
-            if (!value) setEndVerse("");
+            setStartVerse(e.target.value);
+            if (!e.target.value.trim()) setEndVerse("");
           }}
           disabled={!startChapter}
         />
@@ -311,24 +283,7 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
           className="h-9 text-sm"
           value={endVerse}
           onChange={(e) => {
-            let value = e.target.value;
-            if (value) {
-              const max = endChapter ? endMaxVerse : startMaxVerse;
-              value = clampVerse(value, max);
-              if (
-                startChapterNum !== null &&
-                endChapterNum !== null &&
-                startChapterNum === endChapterNum &&
-                startVerse
-              ) {
-                const s = parseInt(startVerse, 10);
-                const ev = parseInt(value, 10);
-                if (!Number.isNaN(s) && !Number.isNaN(ev) && ev < s) {
-                  value = String(s);
-                }
-              }
-            }
-            setEndVerse(value);
+            setEndVerse(e.target.value);
           }}
           disabled={!startChapter}
         />

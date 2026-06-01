@@ -40,9 +40,8 @@ export function PassagePicker() {
       currentParsed.bookId === targetParsed.bookId &&
       currentParsed.startChapter === targetParsed.startChapter &&
       !currentParsed.startVerse &&
-      !currentParsed.endChapter &&
-      !targetParsed.startVerse &&
-      !targetParsed.endChapter
+      !targetParsed.endChapter &&
+      !targetParsed.endVerse
     ) {
       // Same chapter target — scroll instead of navigating
       const book = (booksIndex as BookMetadata[]).find((b) => b.id === targetParsed.bookId);
