@@ -359,6 +359,8 @@ async function loadSingleChapter(
   }
 }
 
+export const MAX_PASSAGE_SPAN = 10;
+
 export class PassageRangeTooLargeError extends Error {
   constructor(
     public bookId: string,
@@ -383,8 +385,7 @@ async function loadMultiChapterRange(
   const bookMetadata = (booksIndex as BookMetadata[]).find((b) => b.id === bookId);
   if (!bookMetadata) return undefined;
 
-  const maxSpan = 10;
-  if (endChapter - startChapter + 1 > maxSpan) {
+  if (endChapter - startChapter + 1 > MAX_PASSAGE_SPAN) {
     throw new PassageRangeTooLargeError(bookId, startChapter, endChapter, maxSpan);
   }
 

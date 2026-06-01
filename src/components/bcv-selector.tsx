@@ -15,7 +15,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import booksIndex from "@/lib/corpus/data/books.json";
-import { getChapterVerseCount } from "@/lib/corpus";
+import { getChapterVerseCount, MAX_PASSAGE_SPAN } from "@/lib/corpus";
 
 interface BookMetadata {
   id: string;
@@ -54,7 +54,12 @@ export function BcvSelector() {
   const endChapterOptions =
     selectedBook && startChapter
       ? Array.from(
-          { length: selectedBook.chaptersCount - parseInt(startChapter, 10) + 1 },
+          {
+            length: Math.min(
+              selectedBook.chaptersCount - parseInt(startChapter, 10) + 1,
+              MAX_PASSAGE_SPAN,
+            ),
+          },
           (_, i) => parseInt(startChapter, 10) + i,
         )
       : [];
