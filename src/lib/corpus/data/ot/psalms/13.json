@@ -1,1 +1,545 @@
-{"id":"psalms-13","name":"Psalms","chapter":13,"verses":[{"ref":"Psalms 13:1","englishText":"    How long, Yahweh? Will you forget me forever? How long will you hide your face from me? ","tokens":[{"id":"psalms-13-1-0","surface":"לַמְנַצֵּ֗חַ","lemma":"נָצַח","translit":"lamenatsecha","morph":"Preposition dual + Verb Piel Passive Participle","glosses":[],"strongs":"H5329"},{"id":"psalms-13-1-1","surface":"מִזְמ֥וֹר","lemma":"מִזְמוֹר","translit":"mizemvor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4210"},{"id":"psalms-13-1-2","surface":"לְדָוִֽד","lemma":"דָּוִד","translit":"ledavid","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1732"}],"language":"hebrew"},{"ref":"Psalms 13:2","englishText":"How long shall I take counsel in my soul, having sorrow in my heart every day? How long shall my enemy triumph over me? ","tokens":[{"id":"psalms-13-2-0","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"psalms-13-2-1","surface":"אָ֣נָה","lemma":"אָן","translit":"'anah","morph":"Adverb","glosses":[],"strongs":"H575"},{"id":"psalms-13-2-2","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-13-2-3","surface":"תִּשְׁכָּחֵ֣נִי","lemma":"שָׁכַח","translit":"tishekacheniy","morph":"Verb Qal Imperative 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H7911"},{"id":"psalms-13-2-4","surface":"נֶ֑צַח","lemma":"נֶצַח","translit":"netsach","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5331"},{"id":"psalms-13-2-5","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"psalms-13-2-6","surface":"אָ֓נָה","lemma":"אָן","translit":"'anah","morph":"Adverb","glosses":[],"strongs":"H575"},{"id":"psalms-13-2-7","surface":"תַּסְתִּ֖יר","lemma":"סָתַר","translit":"tasetiyr","morph":"Verb Hiphil Imperative 2nd masculine singular","glosses":[],"strongs":"H5641"},{"id":"psalms-13-2-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-13-2-9","surface":"פָּנֶ֣יךָ","lemma":"פָּנִים","translit":"paneyka","morph":"Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6440"},{"id":"psalms-13-2-10","surface":"מִמֶּֽנִּי","lemma":"מִן","translit":"mimeniy","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H4480"}],"language":"hebrew"},{"ref":"Psalms 13:3","englishText":"Behold, and answer me, Yahweh, my God. Give light to my eyes, lest I sleep in death; ","tokens":[{"id":"psalms-13-3-0","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"psalms-13-3-1","surface":"אָ֨נָה","lemma":"אָן","translit":"'anah","morph":"Adverb","glosses":[],"strongs":"H575"},{"id":"psalms-13-3-2","surface":"אָשִׁ֪ית","lemma":"שִׁית","translit":"'ashiyt","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H7896"},{"id":"psalms-13-3-3","surface":"עֵצ֡וֹת","lemma":"עֵצָה","translit":"`etsvot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H6098"},{"id":"psalms-13-3-4","surface":"בְּנַפְשִׁ֗י","lemma":"נֶפֶשׁ","translit":"benapeshiy","morph":"Preposition + Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5315"},{"id":"psalms-13-3-5","surface":"יָג֣וֹן","lemma":"יָגוֹן","translit":"yagvon","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3015"},{"id":"psalms-13-3-6","surface":"בִּלְבָבִ֣י","lemma":"לֵבָב","translit":"bilebabiy","morph":"Preposition + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H3824"},{"id":"psalms-13-3-7","surface":"יוֹמָ֑ם","lemma":"יוֹמָם","translit":"yvomam","morph":"Adverb","glosses":[],"strongs":"H3119"},{"id":"psalms-13-3-8","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"psalms-13-3-9","surface":"אָ֓נָה","lemma":"אָן","translit":"'anah","morph":"Adverb","glosses":[],"strongs":"H575"},{"id":"psalms-13-3-10","surface":"יָר֖וּם","lemma":"רוּם","translit":"yarvm","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7311"},{"id":"psalms-13-3-11","surface":"אֹיְבִ֣י","lemma":"אֹיֵב","translit":"'oyebiy","morph":"Verb Qal Passive Participle + Suffix plural 1st common singular","glosses":[],"strongs":"H341"},{"id":"psalms-13-3-12","surface":"עָלָֽי","lemma":"עַל","translit":"`alay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H5921"}],"language":"hebrew"},{"ref":"Psalms 13:4","englishText":"Lest my enemy say, “I have prevailed against him”; Lest my adversaries rejoice when I fall.   ","tokens":[{"id":"psalms-13-4-0","surface":"הַבִּ֣יטָֽה","lemma":"נָבַט","translit":"habiytah","morph":"Verb Hiphil Weqatal 2nd masculine singular + Suffix","glosses":[],"strongs":"H5027"},{"id":"psalms-13-4-1","surface":"עֲ֭נֵנִי","lemma":"עָנָה","translit":"`neniy","morph":"Verb Qal Weqatal 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H6030"},{"id":"psalms-13-4-2","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-13-4-3","surface":"אֱלֹהָ֑י","lemma":"אֱלֹהִים","translit":"'lohay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H430"},{"id":"psalms-13-4-4","surface":"הָאִ֥ירָה","lemma":"אוֹר","translit":"ha'iyrah","morph":"Verb Hiphil Weqatal 2nd masculine singular + Suffix","glosses":[],"strongs":"H215"},{"id":"psalms-13-4-5","surface":"עֵ֝ינַ֗י","lemma":"עַיִן","translit":"`eynay","morph":"Noun common dual construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5869"},{"id":"psalms-13-4-6","surface":"פֶּן","lemma":"פֵּן","translit":"pen","morph":"Conjunction","glosses":[],"strongs":"H6435"},{"id":"psalms-13-4-7","surface":"אִישַׁ֥ן","lemma":"יָשֵׁן","translit":"'iyshan","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H3462"},{"id":"psalms-13-4-8","surface":"הַמָּֽוֶת","lemma":"מָוֶת","translit":"hamavet","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4194"}],"language":"hebrew"},{"ref":"Psalms 13:5","englishText":"But I trust in your loving kindness. My heart rejoices in your salvation. ","tokens":[{"id":"psalms-13-5-0","surface":"פֶּן","lemma":"פֵּן","translit":"pen","morph":"Conjunction","glosses":[],"strongs":"H6435"},{"id":"psalms-13-5-1","surface":"יֹאמַ֣ר","lemma":"אָמַר","translit":"yo'mar","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"psalms-13-5-2","surface":"אֹיְבִ֣י","lemma":"אֹיֵב","translit":"'oyebiy","morph":"Verb Qal Passive Participle + Suffix plural 1st common singular","glosses":[],"strongs":"H341"},{"id":"psalms-13-5-3","surface":"יְכָלְתִּ֑יו","lemma":"יָכֹל","translit":"yekaletiyv","morph":"Verb Qal Participle 1st common singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3201"},{"id":"psalms-13-5-4","surface":"צָרַ֥י","lemma":"צַר","translit":"tsaray","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6862"},{"id":"psalms-13-5-5","surface":"יָ֝גִ֗ילוּ","lemma":"גִּיל","translit":"yagiylv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H1523"},{"id":"psalms-13-5-6","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-13-5-7","surface":"אֶמּֽוֹט","lemma":"מוֹט","translit":"'emvot","morph":"Verb Niphal Imperative 1st common singular","glosses":[],"strongs":"H4131"}],"language":"hebrew"},{"ref":"Psalms 13:6","englishText":"I will sing to Yahweh, because he has been good to me.   ","tokens":[{"id":"psalms-13-6-0","surface":"וַאֲנִ֤י","lemma":"אֲנִי","translit":"va'niy","morph":"Conjunction + Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"psalms-13-6-1","surface":"בְּחַסְדְּךָ֣","lemma":"חֵסֵד","translit":"bechasedeka","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2617"},{"id":"psalms-13-6-2","surface":"בָטַחְתִּי֮","lemma":"בָּטַח","translit":"batachetiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H982"},{"id":"psalms-13-6-3","surface":"יָ֤גֵ֥ל","lemma":"גִּיל","translit":"yagel","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1523"},{"id":"psalms-13-6-4","surface":"לִבִּ֗י","lemma":"לֵב","translit":"libiy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H3820"},{"id":"psalms-13-6-5","surface":"בִּֽישׁוּעָ֫תֶ֥ךָ","lemma":"יְשׁוּעָה","translit":"biyshv`ateka","morph":"Preposition + Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3444"},{"id":"psalms-13-6-6","surface":"אָשִׁ֥ירָה","lemma":"שִׁיר","translit":"'ashiyrah","morph":"Verb Qal Cohortative 1st common singular","glosses":[],"strongs":"H7891"},{"id":"psalms-13-6-7","surface":"לַיהוָ֑ה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-13-6-8","surface":"כִּ֖י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-13-6-9","surface":"גָמַ֣ל","lemma":"גָּמַל","translit":"gamal","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1580"},{"id":"psalms-13-6-10","surface":"עָלָֽי","lemma":"עַל","translit":"`alay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H5921"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-13",
+  "name": "Psalms",
+  "chapter": 13,
+  "verses": [
+    {
+      "ref": "Psalms 13:1",
+      "englishText": "    How long, Yahweh? Will you forget me forever? How long will you hide your face from me? ",
+      "tokens": [
+        {
+          "id": "psalms-13-1-0",
+          "surface": "לַמְנַצֵּ֗חַ",
+          "lemma": "נָצַח",
+          "translit": "lamenatsecha",
+          "morph": "Preposition dual + Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H5329"
+        },
+        {
+          "id": "psalms-13-1-1",
+          "surface": "מִזְמ֥וֹר",
+          "lemma": "מִזְמוֹר",
+          "translit": "mizemvor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4210"
+        },
+        {
+          "id": "psalms-13-1-2",
+          "surface": "לְדָוִֽד",
+          "lemma": "דָּוִד",
+          "translit": "ledavid",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1732"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 13:2",
+      "englishText": "How long shall I take counsel in my soul, having sorrow in my heart every day? How long shall my enemy triumph over me? ",
+      "tokens": [
+        {
+          "id": "psalms-13-2-0",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "psalms-13-2-1",
+          "surface": "אָ֣נָה",
+          "lemma": "אָן",
+          "translit": "'anah",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H575"
+        },
+        {
+          "id": "psalms-13-2-2",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-13-2-3",
+          "surface": "תִּשְׁכָּחֵ֣נִי",
+          "lemma": "שָׁכַח",
+          "translit": "tishekacheniy",
+          "morph": "Verb Qal Imperative 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H7911"
+        },
+        {
+          "id": "psalms-13-2-4",
+          "surface": "נֶ֑צַח",
+          "lemma": "נֶצַח",
+          "translit": "netsach",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5331"
+        },
+        {
+          "id": "psalms-13-2-5",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "psalms-13-2-6",
+          "surface": "אָ֓נָה",
+          "lemma": "אָן",
+          "translit": "'anah",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H575"
+        },
+        {
+          "id": "psalms-13-2-7",
+          "surface": "תַּסְתִּ֖יר",
+          "lemma": "סָתַר",
+          "translit": "tasetiyr",
+          "morph": "Verb Hiphil Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5641"
+        },
+        {
+          "id": "psalms-13-2-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-13-2-9",
+          "surface": "פָּנֶ֣יךָ",
+          "lemma": "פָּנִים",
+          "translit": "paneyka",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "psalms-13-2-10",
+          "surface": "מִמֶּֽנִּי",
+          "lemma": "מִן",
+          "translit": "mimeniy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H4480"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 13:3",
+      "englishText": "Behold, and answer me, Yahweh, my God. Give light to my eyes, lest I sleep in death; ",
+      "tokens": [
+        {
+          "id": "psalms-13-3-0",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "psalms-13-3-1",
+          "surface": "אָ֨נָה",
+          "lemma": "אָן",
+          "translit": "'anah",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H575"
+        },
+        {
+          "id": "psalms-13-3-2",
+          "surface": "אָשִׁ֪ית",
+          "lemma": "שִׁית",
+          "translit": "'ashiyt",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7896"
+        },
+        {
+          "id": "psalms-13-3-3",
+          "surface": "עֵצ֡וֹת",
+          "lemma": "עֵצָה",
+          "translit": "`etsvot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H6098"
+        },
+        {
+          "id": "psalms-13-3-4",
+          "surface": "בְּנַפְשִׁ֗י",
+          "lemma": "נֶפֶשׁ",
+          "translit": "benapeshiy",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "psalms-13-3-5",
+          "surface": "יָג֣וֹן",
+          "lemma": "יָגוֹן",
+          "translit": "yagvon",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3015"
+        },
+        {
+          "id": "psalms-13-3-6",
+          "surface": "בִּלְבָבִ֣י",
+          "lemma": "לֵבָב",
+          "translit": "bilebabiy",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "psalms-13-3-7",
+          "surface": "יוֹמָ֑ם",
+          "lemma": "יוֹמָם",
+          "translit": "yvomam",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3119"
+        },
+        {
+          "id": "psalms-13-3-8",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "psalms-13-3-9",
+          "surface": "אָ֓נָה",
+          "lemma": "אָן",
+          "translit": "'anah",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H575"
+        },
+        {
+          "id": "psalms-13-3-10",
+          "surface": "יָר֖וּם",
+          "lemma": "רוּם",
+          "translit": "yarvm",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7311"
+        },
+        {
+          "id": "psalms-13-3-11",
+          "surface": "אֹיְבִ֣י",
+          "lemma": "אֹיֵב",
+          "translit": "'oyebiy",
+          "morph": "Verb Qal Passive Participle + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H341"
+        },
+        {
+          "id": "psalms-13-3-12",
+          "surface": "עָלָֽי",
+          "lemma": "עַל",
+          "translit": "`alay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5921"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 13:4",
+      "englishText": "Lest my enemy say, “I have prevailed against him”; Lest my adversaries rejoice when I fall.   ",
+      "tokens": [
+        {
+          "id": "psalms-13-4-0",
+          "surface": "הַבִּ֣יטָֽה",
+          "lemma": "נָבַט",
+          "translit": "habiytah",
+          "morph": "Verb Hiphil Weqatal 2nd masculine singular + Suffix",
+          "glosses": [],
+          "strongs": "H5027"
+        },
+        {
+          "id": "psalms-13-4-1",
+          "surface": "עֲ֭נֵנִי",
+          "lemma": "עָנָה",
+          "translit": "`neniy",
+          "morph": "Verb Qal Weqatal 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "psalms-13-4-2",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-13-4-3",
+          "surface": "אֱלֹהָ֑י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-13-4-4",
+          "surface": "הָאִ֥ירָה",
+          "lemma": "אוֹר",
+          "translit": "ha'iyrah",
+          "morph": "Verb Hiphil Weqatal 2nd masculine singular + Suffix",
+          "glosses": [],
+          "strongs": "H215"
+        },
+        {
+          "id": "psalms-13-4-5",
+          "surface": "עֵ֝ינַ֗י",
+          "lemma": "עַיִן",
+          "translit": "`eynay",
+          "morph": "Noun common dual construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "psalms-13-4-6",
+          "surface": "פֶּן",
+          "lemma": "פֵּן",
+          "translit": "pen",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H6435"
+        },
+        {
+          "id": "psalms-13-4-7",
+          "surface": "אִישַׁ֥ן",
+          "lemma": "יָשֵׁן",
+          "translit": "'iyshan",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H3462"
+        },
+        {
+          "id": "psalms-13-4-8",
+          "surface": "הַמָּֽוֶת",
+          "lemma": "מָוֶת",
+          "translit": "hamavet",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4194"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 13:5",
+      "englishText": "But I trust in your loving kindness. My heart rejoices in your salvation. ",
+      "tokens": [
+        {
+          "id": "psalms-13-5-0",
+          "surface": "פֶּן",
+          "lemma": "פֵּן",
+          "translit": "pen",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H6435"
+        },
+        {
+          "id": "psalms-13-5-1",
+          "surface": "יֹאמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "yo'mar",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "psalms-13-5-2",
+          "surface": "אֹיְבִ֣י",
+          "lemma": "אֹיֵב",
+          "translit": "'oyebiy",
+          "morph": "Verb Qal Passive Participle + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H341"
+        },
+        {
+          "id": "psalms-13-5-3",
+          "surface": "יְכָלְתִּ֑יו",
+          "lemma": "יָכֹל",
+          "translit": "yekaletiyv",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3201"
+        },
+        {
+          "id": "psalms-13-5-4",
+          "surface": "צָרַ֥י",
+          "lemma": "צַר",
+          "translit": "tsaray",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6862"
+        },
+        {
+          "id": "psalms-13-5-5",
+          "surface": "יָ֝גִ֗ילוּ",
+          "lemma": "גִּיל",
+          "translit": "yagiylv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1523"
+        },
+        {
+          "id": "psalms-13-5-6",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-13-5-7",
+          "surface": "אֶמּֽוֹט",
+          "lemma": "מוֹט",
+          "translit": "'emvot",
+          "morph": "Verb Niphal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H4131"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 13:6",
+      "englishText": "I will sing to Yahweh, because he has been good to me.   ",
+      "tokens": [
+        {
+          "id": "psalms-13-6-0",
+          "surface": "וַאֲנִ֤י",
+          "lemma": "אֲנִי",
+          "translit": "va'niy",
+          "morph": "Conjunction + Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "psalms-13-6-1",
+          "surface": "בְּחַסְדְּךָ֣",
+          "lemma": "חֵסֵד",
+          "translit": "bechasedeka",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2617"
+        },
+        {
+          "id": "psalms-13-6-2",
+          "surface": "בָטַחְתִּי֮",
+          "lemma": "בָּטַח",
+          "translit": "batachetiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H982"
+        },
+        {
+          "id": "psalms-13-6-3",
+          "surface": "יָ֤גֵ֥ל",
+          "lemma": "גִּיל",
+          "translit": "yagel",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1523"
+        },
+        {
+          "id": "psalms-13-6-4",
+          "surface": "לִבִּ֗י",
+          "lemma": "לֵב",
+          "translit": "libiy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "psalms-13-6-5",
+          "surface": "בִּֽישׁוּעָ֫תֶ֥ךָ",
+          "lemma": "יְשׁוּעָה",
+          "translit": "biyshv`ateka",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3444"
+        },
+        {
+          "id": "psalms-13-6-6",
+          "surface": "אָשִׁ֥ירָה",
+          "lemma": "שִׁיר",
+          "translit": "'ashiyrah",
+          "morph": "Verb Qal Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H7891"
+        },
+        {
+          "id": "psalms-13-6-7",
+          "surface": "לַיהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-13-6-8",
+          "surface": "כִּ֖י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-13-6-9",
+          "surface": "גָמַ֣ל",
+          "lemma": "גָּמַל",
+          "translit": "gamal",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1580"
+        },
+        {
+          "id": "psalms-13-6-10",
+          "surface": "עָלָֽי",
+          "lemma": "עַל",
+          "translit": "`alay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5921"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

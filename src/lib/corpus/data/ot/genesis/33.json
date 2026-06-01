@@ -1,1 +1,2550 @@
-{"id":"genesis-33","name":"Genesis","chapter":33,"verses":[{"ref":"Genesis 33:1","englishText":"Jacob lifted up his eyes, and looked, and, behold, Esau was coming, and with him four hundred men. He divided the children between Leah, Rachel, and the two handmaids.","tokens":[{"id":"genesis-33-1-0","surface":"וַיִּשָּׂ֨א","lemma":"נָשָׂא","translit":"vayisha'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5375"},{"id":"genesis-33-1-1","surface":"יַעֲקֹ֜ב","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"genesis-33-1-2","surface":"עֵינָ֗יו","lemma":"עַיִן","translit":"`eynayv","morph":"Noun common dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5869"},{"id":"genesis-33-1-3","surface":"וַיַּרְא֙","lemma":"רָאָה","translit":"vayare'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7200"},{"id":"genesis-33-1-4","surface":"וְהִנֵּ֣ה","lemma":"הִנֵּה","translit":"vehineh","morph":"Conjunction + Particle masculine","glosses":[],"strongs":"H2009"},{"id":"genesis-33-1-5","surface":"עֵשָׂ֣ו","lemma":"עֵשָׂו","translit":"`eshav","morph":"Noun proper","glosses":[],"strongs":"H6215"},{"id":"genesis-33-1-6","surface":"בָּ֔א","lemma":"בּוֹא","translit":"ba'","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H935"},{"id":"genesis-33-1-7","surface":"וְעִמּ֕וֹ","lemma":"עִם","translit":"ve`imvo","morph":"Conjunction + Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5973"},{"id":"genesis-33-1-8","surface":"אַרְבַּ֥ע","lemma":"אַרְבַּע","translit":"'areba`","morph":"Adjective common feminine singular absolute","glosses":[],"strongs":"H702"},{"id":"genesis-33-1-9","surface":"מֵא֖וֹת","lemma":"מֵאָה","translit":"me'vot","morph":"Adjective common plural absolute","glosses":[],"strongs":"H3967"},{"id":"genesis-33-1-10","surface":"אִ֑ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"genesis-33-1-11","surface":"וַיַּ֣חַץ","lemma":"חָצָה","translit":"vayachats","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H2673"},{"id":"genesis-33-1-12","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-1-13","surface":"הַיְלָדִ֗ים","lemma":"יֶלֶד","translit":"hayeladiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3206"},{"id":"genesis-33-1-14","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"genesis-33-1-15","surface":"לֵאָה֙","lemma":"לֵאָה","translit":"le'ah","morph":"Noun proper","glosses":[],"strongs":"H3812"},{"id":"genesis-33-1-16","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"genesis-33-1-17","surface":"רָחֵ֔ל","lemma":"רָחֵל","translit":"rachel","morph":"Noun proper","glosses":[],"strongs":"H7354"},{"id":"genesis-33-1-18","surface":"וְעַ֖ל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"genesis-33-1-19","surface":"שְׁתֵּ֥י","lemma":"שְׁנַיִם","translit":"shetey","morph":"Adjective common feminine dual construct","glosses":[],"strongs":"H8147"},{"id":"genesis-33-1-20","surface":"הַשְּׁפָחֽוֹת","lemma":"שִׁפְחָה","translit":"hashepachvot","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H8198"}],"language":"hebrew"},{"ref":"Genesis 33:2","englishText":"He put the handmaids and their children in front, Leah and her children after, and Rachel and Joseph at the rear.","tokens":[{"id":"genesis-33-2-0","surface":"וַיָּ֧שֶׂם","lemma":"שׂוּם","translit":"vayashem","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7760"},{"id":"genesis-33-2-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-2-2","surface":"הַשְּׁפָח֛וֹת","lemma":"שִׁפְחָה","translit":"hashepachvot","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H8198"},{"id":"genesis-33-2-3","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-2-4","surface":"יַלְדֵיהֶ֖ן","lemma":"יֶלֶד","translit":"yaledeyhen","morph":"Noun common masculine plural construct + Suffix plural 3rd feminine","glosses":[],"strongs":"H3206"},{"id":"genesis-33-2-5","surface":"רִֽאשֹׁנָ֑ה","lemma":"רִאשׁוֹן","translit":"ri'shonah","morph":"Adjective","glosses":[],"strongs":"H7223"},{"id":"genesis-33-2-6","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-2-7","surface":"לֵאָ֤ה","lemma":"לֵאָה","translit":"le'ah","morph":"Noun proper","glosses":[],"strongs":"H3812"},{"id":"genesis-33-2-8","surface":"וִֽילָדֶ֨יהָ֙","lemma":"יֶלֶד","translit":"viyladeyha","morph":"Conjunction + Noun common masculine plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3206"},{"id":"genesis-33-2-9","surface":"אַחֲרֹנִ֔ים","lemma":"אַחֲרוֹן","translit":"'achroniym","morph":"Adjective","glosses":[],"strongs":"H314"},{"id":"genesis-33-2-10","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-2-11","surface":"רָחֵ֥ל","lemma":"רָחֵל","translit":"rachel","morph":"Noun proper","glosses":[],"strongs":"H7354"},{"id":"genesis-33-2-12","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-2-13","surface":"יוֹסֵ֖ף","lemma":"יוֹסֵף","translit":"yvosep","morph":"Noun proper","glosses":[],"strongs":"H3130"},{"id":"genesis-33-2-14","surface":"אַחֲרֹנִֽים","lemma":"אַחֲרוֹן","translit":"'achroniym","morph":"Adjective","glosses":[],"strongs":"H314"}],"language":"hebrew"},{"ref":"Genesis 33:3","englishText":"He himself passed over in front of them, and bowed himself to the ground seven times, until he came near to his brother.  ","tokens":[{"id":"genesis-33-3-0","surface":"וְה֖וּא","lemma":"הוּא","translit":"vehv'","morph":"Conjunction + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"genesis-33-3-1","surface":"עָבַ֣ר","lemma":"עָבַר","translit":"`abar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5674"},{"id":"genesis-33-3-2","surface":"לִפְנֵיהֶ֑ם","lemma":"פָּנִים","translit":"lipeneyhem","morph":"Preposition + Noun common plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H6440"},{"id":"genesis-33-3-3","surface":"וַיִּשְׁתַּ֤חוּ","lemma":"שָׁחָה","translit":"vayishetachv","morph":"Conjunction + Verb Hithpael Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7812"},{"id":"genesis-33-3-4","surface":"אַ֨רְצָה֙","lemma":"אֶרֶץ","translit":"'aretsah","morph":"Noun common singular absolute + Suffix dual","glosses":[],"strongs":"H776"},{"id":"genesis-33-3-5","surface":"שֶׁ֣בַע","lemma":"שֶׁבַע","translit":"sheba`","morph":"Adjective common feminine singular absolute","glosses":[],"strongs":"H7651"},{"id":"genesis-33-3-6","surface":"פְּעָמִ֔ים","lemma":"פַּעַם","translit":"pe`amiym","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H6471"},{"id":"genesis-33-3-7","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"genesis-33-3-8","surface":"גִּשְׁתּ֖וֹ","lemma":"נָגַשׁ","translit":"gishetvo","morph":"Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5066"},{"id":"genesis-33-3-9","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"genesis-33-3-10","surface":"אָחִֽיו","lemma":"אָח","translit":"'achiyv","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H251"}],"language":"hebrew"},{"ref":"Genesis 33:4","englishText":"  Esau ran to meet him, embraced him, fell on his neck, kissed him, and they wept.","tokens":[{"id":"genesis-33-4-0","surface":"וַיָּ֨רָץ","lemma":"רוּץ","translit":"vayarats","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7323"},{"id":"genesis-33-4-1","surface":"עֵשָׂ֤ו","lemma":"עֵשָׂו","translit":"`eshav","morph":"Noun proper","glosses":[],"strongs":"H6215"},{"id":"genesis-33-4-2","surface":"לִקְרָאתוֹ֙","lemma":"קִרְאָה","translit":"liqera'tvo","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7125"},{"id":"genesis-33-4-3","surface":"וַֽיְחַבְּקֵ֔הוּ","lemma":"חָבַק","translit":"vayechabeqehv","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2263"},{"id":"genesis-33-4-4","surface":"וַיִּפֹּ֥ל","lemma":"נָפַל","translit":"vayipol","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5307"},{"id":"genesis-33-4-5","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"genesis-33-4-6","surface":"צַוָּארָ֖ו","lemma":"צַוָּאר","translit":"tsava'rav","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6677"},{"id":"genesis-33-4-7","surface":"וַׄיִּׄשָּׁׄקֵ֑ׄהׄוּׄ","lemma":"נָשַׁק","translit":"vayishaqehv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5401"},{"id":"genesis-33-4-8","surface":"וַיִּבְכּֽוּ","lemma":"בָּכָה","translit":"vayibekv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H1058"}],"language":"hebrew"},{"ref":"Genesis 33:5","englishText":"He lifted up his eyes, and saw the women and the children; and said, “Who are these with you?”   He said, “The children whom God has graciously given your servant.”","tokens":[{"id":"genesis-33-5-0","surface":"וַיִּשָּׂ֣א","lemma":"נָשָׂא","translit":"vayisha'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5375"},{"id":"genesis-33-5-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-5-2","surface":"עֵינָ֗יו","lemma":"עַיִן","translit":"`eynayv","morph":"Noun common dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5869"},{"id":"genesis-33-5-3","surface":"וַיַּ֤רְא","lemma":"רָאָה","translit":"vayare'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7200"},{"id":"genesis-33-5-4","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-5-5","surface":"הַנָּשִׁים֙","lemma":"אִשָּׁה","translit":"hanashiym","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H802"},{"id":"genesis-33-5-6","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-5-7","surface":"הַיְלָדִ֔ים","lemma":"יֶלֶד","translit":"hayeladiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3206"},{"id":"genesis-33-5-8","surface":"וַיֹּ֖אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"genesis-33-5-9","surface":"מִי","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"genesis-33-5-10","surface":"אֵ֣לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"genesis-33-5-11","surface":"לָּ֑ךְ","lemma":"לָּ֑ךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]},{"id":"genesis-33-5-12","surface":"וַיֹּאמַ֕ר","lemma":"אָמַר","translit":"vayo'mar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"genesis-33-5-13","surface":"הַיְלָדִ֕ים","lemma":"יֶלֶד","translit":"hayeladiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3206"},{"id":"genesis-33-5-14","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"genesis-33-5-15","surface":"חָנַ֥ן","lemma":"חָנַן","translit":"chanan","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H2603"},{"id":"genesis-33-5-16","surface":"אֱלֹהִ֖ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"genesis-33-5-17","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-5-18","surface":"עַבְדֶּֽךָ","lemma":"עֶבֶד","translit":"`abedeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5650"}],"language":"hebrew"},{"ref":"Genesis 33:6","englishText":"Then the handmaids came near with their children, and they bowed themselves.","tokens":[{"id":"genesis-33-6-0","surface":"וַתִּגַּ֧שְׁןָ","lemma":"נָגַשׁ","translit":"vatigashena","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine plural","glosses":[],"strongs":"H5066"},{"id":"genesis-33-6-1","surface":"הַשְּׁפָח֛וֹת","lemma":"שִׁפְחָה","translit":"hashepachvot","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H8198"},{"id":"genesis-33-6-2","surface":"הֵ֥נָּה","lemma":"הֵנָּה","translit":"henah","morph":"Pronoun plural 3rd feminine","glosses":[],"strongs":"H2007"},{"id":"genesis-33-6-3","surface":"וְיַלְדֵיהֶ֖ן","lemma":"יֶלֶד","translit":"veyaledeyhen","morph":"Conjunction + Noun common masculine plural construct + Suffix plural 3rd feminine","glosses":[],"strongs":"H3206"},{"id":"genesis-33-6-4","surface":"וַתִּֽשְׁתַּחֲוֶֽיןָ","lemma":"שָׁחָה","translit":"vatishetachveyna","morph":"Conjunction + Verb v Wayyiqtol 3rd feminine plural","glosses":[],"strongs":"H7812"}],"language":"hebrew"},{"ref":"Genesis 33:7","englishText":"Leah also and her children came near, and bowed themselves. After them, Joseph came near with Rachel, and they bowed themselves.  ","tokens":[{"id":"genesis-33-7-0","surface":"וַתִּגַּ֧שׁ","lemma":"נָגַשׁ","translit":"vatigash","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H5066"},{"id":"genesis-33-7-1","surface":"גַּם","lemma":"גַּם","translit":"gam","morph":"Particle absolute","glosses":[],"strongs":"H1571"},{"id":"genesis-33-7-2","surface":"לֵאָ֛ה","lemma":"לֵאָה","translit":"le'ah","morph":"Noun proper","glosses":[],"strongs":"H3812"},{"id":"genesis-33-7-3","surface":"וִילָדֶ֖יהָ","lemma":"יֶלֶד","translit":"viyladeyha","morph":"Conjunction + Noun common masculine plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3206"},{"id":"genesis-33-7-4","surface":"וַיִּֽשְׁתַּחֲו֑וּ","lemma":"שָׁחָה","translit":"vayishetachvv","morph":"Conjunction + Verb Hithpael Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H7812"},{"id":"genesis-33-7-5","surface":"וְאַחַ֗ר","lemma":"אַחַר","translit":"ve'achar","morph":"Conjunction + Adverb","glosses":[],"strongs":"H310"},{"id":"genesis-33-7-6","surface":"נִגַּ֥שׁ","lemma":"נָגַשׁ","translit":"nigash","morph":"Verb Niphal Participle 3rd masculine singular","glosses":[],"strongs":"H5066"},{"id":"genesis-33-7-7","surface":"יוֹסֵ֛ף","lemma":"יוֹסֵף","translit":"yvosep","morph":"Noun proper","glosses":[],"strongs":"H3130"},{"id":"genesis-33-7-8","surface":"וְרָחֵ֖ל","lemma":"רָחֵל","translit":"verachel","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H7354"},{"id":"genesis-33-7-9","surface":"וַיִּֽשְׁתַּחֲוֽוּ","lemma":"שָׁחָה","translit":"vayishetachvv","morph":"Conjunction + Verb Hithpael Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H7812"}],"language":"hebrew"},{"ref":"Genesis 33:8","englishText":"  Esau said, “What do you mean by all this company which I met?”   Jacob said, “To find favor in the sight of my lord.”  ","tokens":[{"id":"genesis-33-8-0","surface":"וַיֹּ֕אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"genesis-33-8-1","surface":"מִ֥י","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"genesis-33-8-2","surface":"לְךָ֛","lemma":"לְךָ֛","translit":"leka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[]},{"id":"genesis-33-8-3","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"genesis-33-8-4","surface":"הַמַּחֲנֶ֥ה","lemma":"מַחֲנֶה","translit":"hamachneh","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H4264"},{"id":"genesis-33-8-5","surface":"הַזֶּ֖ה","lemma":"זֶה","translit":"hazeh","morph":"Particle dual + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"genesis-33-8-6","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"genesis-33-8-7","surface":"פָּגָ֑שְׁתִּי","lemma":"פָּגַשׁ","translit":"pagashetiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H6298"},{"id":"genesis-33-8-8","surface":"וַיֹּ֕אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"genesis-33-8-9","surface":"לִמְצֹא","lemma":"מָצָא","translit":"limetso'","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H4672"},{"id":"genesis-33-8-10","surface":"חֵ֖ן","lemma":"חֵן","translit":"chen","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2580"},{"id":"genesis-33-8-11","surface":"בְּעֵינֵ֥י","lemma":"עַיִן","translit":"be`eyney","morph":"Preposition + Noun common dual construct","glosses":[],"strongs":"H5869"},{"id":"genesis-33-8-12","surface":"אֲדֹנִֽי","lemma":"אָדוֹן","translit":"'doniy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H113"}],"language":"hebrew"},{"ref":"Genesis 33:9","englishText":"  Esau said, “I have enough, my brother; let that which you have be yours.”  ","tokens":[{"id":"genesis-33-9-0","surface":"וַיֹּ֥אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"genesis-33-9-1","surface":"עֵשָׂ֖ו","lemma":"עֵשָׂו","translit":"`eshav","morph":"Noun proper","glosses":[],"strongs":"H6215"},{"id":"genesis-33-9-2","surface":"יֶשׁ","lemma":"יֵשׁ","translit":"yesh","morph":"Particle masculine","glosses":[],"strongs":"H3426"},{"id":"genesis-33-9-3","surface":"לִ֣י","lemma":"לִ֣י","translit":"liy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]},{"id":"genesis-33-9-4","surface":"רָ֑ב","lemma":"רַב","translit":"rab","morph":"Adjective","glosses":[],"strongs":"H7227"},{"id":"genesis-33-9-5","surface":"אָחִ֕י","lemma":"אָח","translit":"'achiy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H251"},{"id":"genesis-33-9-6","surface":"יְהִ֥י","lemma":"הָיָה","translit":"yehiy","morph":"Verb Qal Jussive 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"genesis-33-9-7","surface":"לְךָ֖","lemma":"לְךָ֖","translit":"leka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[]},{"id":"genesis-33-9-8","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"genesis-33-9-9","surface":"לָֽךְ","lemma":"לָֽךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Genesis 33:10","englishText":"  Jacob said, “Please, no, if I have now found favor in your sight, then receive my present at my hand, because I have seen your face, as one sees the face of God, and you were pleased with me.","tokens":[{"id":"genesis-33-10-0","surface":"וַיֹּ֣אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"genesis-33-10-1","surface":"יַעֲקֹ֗ב","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"genesis-33-10-2","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"genesis-33-10-3","surface":"נָא֙","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"genesis-33-10-4","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"genesis-33-10-5","surface":"נָ֨א","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"genesis-33-10-6","surface":"מָצָ֤אתִי","lemma":"מָצָא","translit":"matsa'tiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H4672"},{"id":"genesis-33-10-7","surface":"חֵן֙","lemma":"חֵן","translit":"chen","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2580"},{"id":"genesis-33-10-8","surface":"בְּעֵינֶ֔יךָ","lemma":"עַיִן","translit":"be`eyneyka","morph":"Preposition + Noun common dual construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5869"},{"id":"genesis-33-10-9","surface":"וְלָקַחְתָּ֥","lemma":"לָקַח","translit":"velaqacheta","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H3947"},{"id":"genesis-33-10-10","surface":"מִנְחָתִ֖י","lemma":"מִנְחָה","translit":"minechatiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H4503"},{"id":"genesis-33-10-11","surface":"מִיָּדִ֑י","lemma":"יָד","translit":"miyadiy","morph":"Preposition + Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H3027"},{"id":"genesis-33-10-12","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"genesis-33-10-13","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"genesis-33-10-14","surface":"כֵּ֞ן","lemma":"כֵּן","translit":"ken","morph":"Particle masculine","glosses":[],"strongs":"H3651"},{"id":"genesis-33-10-15","surface":"רָאִ֣יתִי","lemma":"רָאָה","translit":"ra'iytiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H7200"},{"id":"genesis-33-10-16","surface":"פָנֶ֗יךָ","lemma":"פָּנִים","translit":"paneyka","morph":"Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6440"},{"id":"genesis-33-10-17","surface":"כִּרְאֹ֛ת","lemma":"רָאָה","translit":"kire'ot","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H7200"},{"id":"genesis-33-10-18","surface":"פְּנֵ֥י","lemma":"פָּנִים","translit":"peney","morph":"Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"genesis-33-10-19","surface":"אֱלֹהִ֖ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"genesis-33-10-20","surface":"וַתִּרְצֵֽנִי","lemma":"רָצָה","translit":"vatiretseniy","morph":"Conjunction + Verb Qal Wayyiqtol 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H7521"}],"language":"hebrew"},{"ref":"Genesis 33:11","englishText":"Please take the gift that I brought to you, because God has dealt graciously with me, and because I have enough.” He urged him, and he took it.  ","tokens":[{"id":"genesis-33-11-0","surface":"קַח","lemma":"לָקַח","translit":"qach","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H3947"},{"id":"genesis-33-11-1","surface":"נָ֤א","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"genesis-33-11-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-11-3","surface":"בִּרְכָתִי֙","lemma":"בְּרָכָה","translit":"birekatiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H1293"},{"id":"genesis-33-11-4","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"genesis-33-11-5","surface":"הֻבָ֣את","lemma":"בּוֹא","translit":"huba't","morph":"Verb Hophal Participle 3rd feminine singular","glosses":[],"strongs":"H935"},{"id":"genesis-33-11-6","surface":"לָ֔ךְ","lemma":"לָ֔ךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]},{"id":"genesis-33-11-7","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"genesis-33-11-8","surface":"חַנַּ֥נִי","lemma":"חָנַן","translit":"chananiy","morph":"Verb Qal Participle 3rd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H2603"},{"id":"genesis-33-11-9","surface":"אֱלֹהִ֖ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"genesis-33-11-10","surface":"וְכִ֣י","lemma":"כִּי","translit":"vekiy","morph":"Conjunction + Conjunction","glosses":[],"strongs":"H3588"},{"id":"genesis-33-11-11","surface":"יֶשׁ","lemma":"יֵשׁ","translit":"yesh","morph":"Particle masculine","glosses":[],"strongs":"H3426"},{"id":"genesis-33-11-12","surface":"לִי","lemma":"לִי","translit":"liy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]},{"id":"genesis-33-11-13","surface":"כֹ֑ל","lemma":"כֹּל","translit":"kol","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3605"},{"id":"genesis-33-11-14","surface":"וַיִּפְצַר","lemma":"פָּצַר","translit":"vayipetsar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6484"},{"id":"genesis-33-11-15","surface":"בּ֖וֹ","lemma":"בּ֖וֹ","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"genesis-33-11-16","surface":"וַיִּקָּֽח","lemma":"לָקַח","translit":"vayiqach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3947"}],"language":"hebrew"},{"ref":"Genesis 33:12","englishText":"  Esau said, “Let us take our journey, and let us go, and I will go before you.”  ","tokens":[{"id":"genesis-33-12-0","surface":"וַיֹּ֖אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"genesis-33-12-1","surface":"נִסְעָ֣ה","lemma":"נָסַע","translit":"nise`ah","morph":"Verb Qal Cohortative 1st common plural","glosses":[],"strongs":"H5265"},{"id":"genesis-33-12-2","surface":"וְנֵלֵ֑כָה","lemma":"יָלַךְ","translit":"venelekah","morph":"Conjunction + Verb Qal Cohortative 1st common plural","glosses":[],"strongs":"H3212"},{"id":"genesis-33-12-3","surface":"וְאֵלְכָ֖ה","lemma":"יָלַךְ","translit":"ve'elekah","morph":"Conjunction + Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H3212"},{"id":"genesis-33-12-4","surface":"לְנֶגְדֶּֽךָ","lemma":"נֶגֶד","translit":"lenegedeka","morph":"Preposition + Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5048"}],"language":"hebrew"},{"ref":"Genesis 33:13","englishText":"  Jacob said to him, “My lord knows that the children are tender, and that the flocks and herds with me have their young, and if they overdrive them one day, all the flocks will die.","tokens":[{"id":"genesis-33-13-0","surface":"וַיֹּ֣אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"genesis-33-13-1","surface":"אֵלָ֗יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"genesis-33-13-2","surface":"אֲדֹנִ֤י","lemma":"אָדוֹן","translit":"'doniy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H113"},{"id":"genesis-33-13-3","surface":"יֹדֵ֨עַ֙","lemma":"יָדַע","translit":"yode`a","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3045"},{"id":"genesis-33-13-4","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"genesis-33-13-5","surface":"הַיְלָדִ֣ים","lemma":"יֶלֶד","translit":"hayeladiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3206"},{"id":"genesis-33-13-6","surface":"רַכִּ֔ים","lemma":"רַךְ","translit":"rakiym","morph":"Adjective","glosses":[],"strongs":"H7390"},{"id":"genesis-33-13-7","surface":"וְהַצֹּ֥אן","lemma":"צֹאן","translit":"vehatso'n","morph":"Conjunction + Particle dual + Noun common singular absolute","glosses":[],"strongs":"H6629"},{"id":"genesis-33-13-8","surface":"וְהַבָּקָ֖ר","lemma":"בָּקָר","translit":"vehabaqar","morph":"Conjunction + Particle dual + Noun common singular absolute","glosses":[],"strongs":"H1241"},{"id":"genesis-33-13-9","surface":"עָל֣וֹת","lemma":"עוּל","translit":"`alvot","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H5763"},{"id":"genesis-33-13-10","surface":"עָלָ֑י","lemma":"עַל","translit":"`alay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H5921"},{"id":"genesis-33-13-11","surface":"וּדְפָקוּם֙","lemma":"דָּפַק","translit":"vdepaqvm","morph":"Conjunction + Verb Qal Perfect 3rd common plural + Suffix plural 3rd masculine","glosses":[],"strongs":"H1849"},{"id":"genesis-33-13-12","surface":"י֣וֹם","lemma":"יוֹם","translit":"yvom","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"genesis-33-13-13","surface":"אֶחָ֔ד","lemma":"אֶחָד","translit":"'echad","morph":"Adjective common masculine singular absolute","glosses":[],"strongs":"H259"},{"id":"genesis-33-13-14","surface":"וָמֵ֖תוּ","lemma":"מוּת","translit":"vametv","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H4191"},{"id":"genesis-33-13-15","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"genesis-33-13-16","surface":"הַצֹּֽאן","lemma":"צֹאן","translit":"hatso'n","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H6629"}],"language":"hebrew"},{"ref":"Genesis 33:14","englishText":"Please let my lord pass over before his servant, and I will lead on gently, according to the pace of the livestock that are before me and according to the pace of the children, until I come to my lord to Seir.”  ","tokens":[{"id":"genesis-33-14-0","surface":"יַעֲבָר","lemma":"עָבַר","translit":"ya`bar","morph":"Verb Qal Jussive 3rd masculine singular","glosses":[],"strongs":"H5674"},{"id":"genesis-33-14-1","surface":"נָ֥א","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"genesis-33-14-2","surface":"אֲדֹנִ֖י","lemma":"אָדוֹן","translit":"'doniy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H113"},{"id":"genesis-33-14-3","surface":"לִפְנֵ֣י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"genesis-33-14-4","surface":"עַבְדּ֑וֹ","lemma":"עֶבֶד","translit":"`abedvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5650"},{"id":"genesis-33-14-5","surface":"וַאֲנִ֞י","lemma":"אֲנִי","translit":"va'niy","morph":"Conjunction + Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"genesis-33-14-6","surface":"אֶֽתְנָהֲלָ֣ה","lemma":"נָהַל","translit":"'etenahlah","morph":"Verb Hithpael Cohortative 1st common singular","glosses":[],"strongs":"H5095"},{"id":"genesis-33-14-7","surface":"לְאִטִּ֗י","lemma":"אַט","translit":"le'itiy","morph":"Preposition + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H328"},{"id":"genesis-33-14-8","surface":"לְרֶ֨גֶל","lemma":"רֶגֶל","translit":"leregel","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H7272"},{"id":"genesis-33-14-9","surface":"הַמְּלָאכָ֤ה","lemma":"מְלָאכָה","translit":"hamela'kah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4399"},{"id":"genesis-33-14-10","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"genesis-33-14-11","surface":"לְפָנַי֙","lemma":"פָּנִים","translit":"lepanay","morph":"Preposition + Noun common plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6440"},{"id":"genesis-33-14-12","surface":"וּלְרֶ֣גֶל","lemma":"רֶגֶל","translit":"vleregel","morph":"Conjunction + Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H7272"},{"id":"genesis-33-14-13","surface":"הַיְלָדִ֔ים","lemma":"יֶלֶד","translit":"hayeladiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3206"},{"id":"genesis-33-14-14","surface":"עַ֛ד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"genesis-33-14-15","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"genesis-33-14-16","surface":"אָבֹ֥א","lemma":"בּוֹא","translit":"'abo'","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H935"},{"id":"genesis-33-14-17","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"genesis-33-14-18","surface":"אֲדֹנִ֖י","lemma":"אָדוֹן","translit":"'doniy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H113"},{"id":"genesis-33-14-19","surface":"שֵׂעִֽירָה","lemma":"שֵׂעִיר","translit":"she`iyrah","morph":"Noun proper + Suffix dual","glosses":[],"strongs":"H8165"}],"language":"hebrew"},{"ref":"Genesis 33:15","englishText":"  Esau said, “Let me now leave with you some of the folk who are with me.”   He said, “Why? Let me find favor in the sight of my lord.”  ","tokens":[{"id":"genesis-33-15-0","surface":"וַיֹּ֣אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"genesis-33-15-1","surface":"עֵשָׂ֔ו","lemma":"עֵשָׂו","translit":"`eshav","morph":"Noun proper","glosses":[],"strongs":"H6215"},{"id":"genesis-33-15-2","surface":"אַצִּֽיגָה","lemma":"יָצַג","translit":"'atsiygah","morph":"Verb Hiphil Cohortative 1st common singular","glosses":[],"strongs":"H3322"},{"id":"genesis-33-15-3","surface":"נָּ֣א","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"genesis-33-15-4","surface":"עִמְּךָ֔","lemma":"עִם","translit":"`imeka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5973"},{"id":"genesis-33-15-5","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"genesis-33-15-6","surface":"הָעָ֖ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"genesis-33-15-7","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"genesis-33-15-8","surface":"אִתִּ֑י","lemma":"אֵת","translit":"'itiy","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H854"},{"id":"genesis-33-15-9","surface":"וַיֹּ֨אמֶר֙","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"genesis-33-15-10","surface":"לָ֣מָּה","lemma":"מָה","translit":"lamah","morph":"Preposition + Particle","glosses":[],"strongs":"H4100"},{"id":"genesis-33-15-11","surface":"זֶּ֔ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"genesis-33-15-12","surface":"אֶמְצָא","lemma":"מָצָא","translit":"'emetsa'","morph":"Verb Qal Cohortative 1st common singular","glosses":[],"strongs":"H4672"},{"id":"genesis-33-15-13","surface":"חֵ֖ן","lemma":"חֵן","translit":"chen","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2580"},{"id":"genesis-33-15-14","surface":"בְּעֵינֵ֥י","lemma":"עַיִן","translit":"be`eyney","morph":"Preposition + Noun common dual construct","glosses":[],"strongs":"H5869"},{"id":"genesis-33-15-15","surface":"אֲדֹנִֽי","lemma":"אָדוֹן","translit":"'doniy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H113"}],"language":"hebrew"},{"ref":"Genesis 33:16","englishText":"  So Esau returned that day on his way to Seir.","tokens":[{"id":"genesis-33-16-0","surface":"וַיָּשָׁב֩","lemma":"שׁוּב","translit":"vayashab","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7725"},{"id":"genesis-33-16-1","surface":"בַּיּ֨וֹם","lemma":"יוֹם","translit":"bayvom","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"genesis-33-16-2","surface":"הַה֥וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"genesis-33-16-3","surface":"עֵשָׂ֛ו","lemma":"עֵשָׂו","translit":"`eshav","morph":"Noun proper","glosses":[],"strongs":"H6215"},{"id":"genesis-33-16-4","surface":"לְדַרְכּ֖וֹ","lemma":"דֶּרֶךְ","translit":"ledarekvo","morph":"Preposition + Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1870"},{"id":"genesis-33-16-5","surface":"שֵׂעִֽירָה","lemma":"שֵׂעִיר","translit":"she`iyrah","morph":"Noun proper + Suffix dual","glosses":[],"strongs":"H8165"}],"language":"hebrew"},{"ref":"Genesis 33:17","englishText":"Jacob traveled to Succoth, built himself a house, and made shelters for his livestock. Therefore the name of the place is called Succoth.  ","tokens":[{"id":"genesis-33-17-0","surface":"וְיַעֲקֹב֙","lemma":"יַעֲקֹב","translit":"veya`qob","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3290"},{"id":"genesis-33-17-1","surface":"נָסַ֣ע","lemma":"נָסַע","translit":"nasa`","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5265"},{"id":"genesis-33-17-2","surface":"סֻכֹּ֔תָה","lemma":"סֻכּוֹת","translit":"sukotah","morph":"Noun proper + Suffix dual","glosses":[],"strongs":"H5523"},{"id":"genesis-33-17-3","surface":"וַיִּ֥בֶן","lemma":"בָּנָה","translit":"vayiben","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1129"},{"id":"genesis-33-17-4","surface":"ל֖וֹ","lemma":"ל֖וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"genesis-33-17-5","surface":"בָּ֑יִת","lemma":"בַּיִת","translit":"bayit","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1004"},{"id":"genesis-33-17-6","surface":"וּלְמִקְנֵ֨הוּ֙","lemma":"מִקְנֶה","translit":"vlemiqenehv","morph":"Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H4735"},{"id":"genesis-33-17-7","surface":"עָשָׂ֣ה","lemma":"עָשָׂה","translit":"`ashah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H6213"},{"id":"genesis-33-17-8","surface":"סֻכֹּ֔ת","lemma":"סֻכָּה","translit":"sukot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H5521"},{"id":"genesis-33-17-9","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"genesis-33-17-10","surface":"כֵּ֛ן","lemma":"כֵּן","translit":"ken","morph":"Particle masculine","glosses":[],"strongs":"H3651"},{"id":"genesis-33-17-11","surface":"קָרָ֥א","lemma":"קָרָא","translit":"qara'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H7121"},{"id":"genesis-33-17-12","surface":"שֵׁם","lemma":"שֵׁם","translit":"shem","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"genesis-33-17-13","surface":"הַמָּק֖וֹם","lemma":"מָקוֹם","translit":"hamaqvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4725"},{"id":"genesis-33-17-14","surface":"סֻכּֽוֹת","lemma":"סֻכּוֹת","translit":"sukvot","morph":"Noun proper","glosses":[],"strongs":"H5523"}],"language":"hebrew"},{"ref":"Genesis 33:18","englishText":"  Jacob came in peace to the city of Shechem, which is in the land of Canaan, when he came from Paddan Aram; and encamped before the city.","tokens":[{"id":"genesis-33-18-0","surface":"וַיָּבֹא֩","lemma":"בּוֹא","translit":"vayabo'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"genesis-33-18-1","surface":"יַעֲקֹ֨ב","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"genesis-33-18-2","surface":"שָׁלֵ֜ם","lemma":"שָׁלֵם","translit":"shalem","morph":"Adjective","glosses":[],"strongs":"H8003"},{"id":"genesis-33-18-3","surface":"עִ֣יר","lemma":"עִיר","translit":"`iyr","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H5892"},{"id":"genesis-33-18-4","surface":"שְׁכֶ֗ם","lemma":"שְׁכֶם","translit":"shekem","morph":"Noun proper","glosses":[],"strongs":"H7927"},{"id":"genesis-33-18-5","surface":"אֲשֶׁר֙","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"genesis-33-18-6","surface":"בְּאֶ֣רֶץ","lemma":"אֶרֶץ","translit":"be'erets","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"genesis-33-18-7","surface":"כְּנַ֔עַן","lemma":"כְּנַעַן","translit":"kena`an","morph":"Noun proper","glosses":[],"strongs":"H3667"},{"id":"genesis-33-18-8","surface":"בְּבֹא֖וֹ","lemma":"בּוֹא","translit":"bebo'vo","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"genesis-33-18-9","surface":"מִפַּדַּ֣ן","lemma":"פַּדָּן","translit":"mipadan","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6307"},{"id":"genesis-33-18-10","surface":"אֲרָ֑ם","lemma":"פַּדָּן","translit":"'ram","morph":"Noun proper","glosses":[],"strongs":"H6307"},{"id":"genesis-33-18-11","surface":"וַיִּ֖חַן","lemma":"חָנָה","translit":"vayichan","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H2583"},{"id":"genesis-33-18-12","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Preposition","glosses":[],"strongs":"H854"},{"id":"genesis-33-18-13","surface":"פְּנֵ֥י","lemma":"פָּנִים","translit":"peney","morph":"Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"genesis-33-18-14","surface":"הָעִֽיר","lemma":"עִיר","translit":"ha`iyr","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H5892"}],"language":"hebrew"},{"ref":"Genesis 33:19","englishText":"He bought the parcel of ground where he had spread his tent, at the hand of the children of Hamor, Shechem’s father, for one hundred pieces of money.","tokens":[{"id":"genesis-33-19-0","surface":"וַיִּ֜קֶן","lemma":"קָנָה","translit":"vayiqen","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7069"},{"id":"genesis-33-19-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"genesis-33-19-2","surface":"חֶלְקַ֣ת","lemma":"חֶלְקָה","translit":"cheleqat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H2513"},{"id":"genesis-33-19-3","surface":"הַשָּׂדֶ֗ה","lemma":"שָׂדֶה","translit":"hashadeh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7704"},{"id":"genesis-33-19-4","surface":"אֲשֶׁ֤ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"genesis-33-19-5","surface":"נָֽטָה","lemma":"נָטָה","translit":"natah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5186"},{"id":"genesis-33-19-6","surface":"שָׁם֙","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"genesis-33-19-7","surface":"אָהֳל֔וֹ","lemma":"אֹהֶל","translit":"'ahlvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H168"},{"id":"genesis-33-19-8","surface":"מִיַּ֥ד","lemma":"יָד","translit":"miyad","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"genesis-33-19-9","surface":"בְּנֵֽי","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"genesis-33-19-10","surface":"חֲמ֖וֹר","lemma":"חֲמוֹר","translit":"chmvor","morph":"Noun proper","glosses":[],"strongs":"H2544"},{"id":"genesis-33-19-11","surface":"אֲבִ֣י","lemma":"אָב","translit":"'biy","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1"},{"id":"genesis-33-19-12","surface":"שְׁכֶ֑ם","lemma":"שְׁכֶם","translit":"shekem","morph":"Noun proper","glosses":[],"strongs":"H7927"},{"id":"genesis-33-19-13","surface":"בְּמֵאָ֖ה","lemma":"מֵאָה","translit":"beme'ah","morph":"Preposition + Adjective common singular absolute","glosses":[],"strongs":"H3967"},{"id":"genesis-33-19-14","surface":"קְשִׂיטָֽה","lemma":"קְשִׂיטָה","translit":"qeshiytah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7192"}],"language":"hebrew"},{"ref":"Genesis 33:20","englishText":"He erected an altar there, and called it El Elohe Israel.   ","tokens":[{"id":"genesis-33-20-0","surface":"וַיַּצֶּב","lemma":"נָצַב","translit":"vayatseb","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5324"},{"id":"genesis-33-20-1","surface":"שָׁ֖ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"genesis-33-20-2","surface":"מִזְבֵּ֑חַ","lemma":"מִזְבֵּחַ","translit":"mizebecha","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4196"},{"id":"genesis-33-20-3","surface":"וַיִּ֨קְרָא","lemma":"קָרָא","translit":"vayiqera'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7121"},{"id":"genesis-33-20-4","surface":"ל֔וֹ","lemma":"ל֔וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"genesis-33-20-5","surface":"אֵ֖ל","lemma":"אֵל","translit":"'el","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H410"},{"id":"genesis-33-20-6","surface":"אֱלֹהֵ֥י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"genesis-33-20-7","surface":"יִשְׂרָאֵֽל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "genesis-33",
+  "name": "Genesis",
+  "chapter": 33,
+  "verses": [
+    {
+      "ref": "Genesis 33:1",
+      "englishText": "Jacob lifted up his eyes, and looked, and, behold, Esau was coming, and with him four hundred men. He divided the children between Leah, Rachel, and the two handmaids.",
+      "tokens": [
+        {
+          "id": "genesis-33-1-0",
+          "surface": "וַיִּשָּׂ֨א",
+          "lemma": "נָשָׂא",
+          "translit": "vayisha'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "genesis-33-1-1",
+          "surface": "יַעֲקֹ֜ב",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "genesis-33-1-2",
+          "surface": "עֵינָ֗יו",
+          "lemma": "עַיִן",
+          "translit": "`eynayv",
+          "morph": "Noun common dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "genesis-33-1-3",
+          "surface": "וַיַּרְא֙",
+          "lemma": "רָאָה",
+          "translit": "vayare'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "genesis-33-1-4",
+          "surface": "וְהִנֵּ֣ה",
+          "lemma": "הִנֵּה",
+          "translit": "vehineh",
+          "morph": "Conjunction + Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "genesis-33-1-5",
+          "surface": "עֵשָׂ֣ו",
+          "lemma": "עֵשָׂו",
+          "translit": "`eshav",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6215"
+        },
+        {
+          "id": "genesis-33-1-6",
+          "surface": "בָּ֔א",
+          "lemma": "בּוֹא",
+          "translit": "ba'",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "genesis-33-1-7",
+          "surface": "וְעִמּ֕וֹ",
+          "lemma": "עִם",
+          "translit": "ve`imvo",
+          "morph": "Conjunction + Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "genesis-33-1-8",
+          "surface": "אַרְבַּ֥ע",
+          "lemma": "אַרְבַּע",
+          "translit": "'areba`",
+          "morph": "Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H702"
+        },
+        {
+          "id": "genesis-33-1-9",
+          "surface": "מֵא֖וֹת",
+          "lemma": "מֵאָה",
+          "translit": "me'vot",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H3967"
+        },
+        {
+          "id": "genesis-33-1-10",
+          "surface": "אִ֑ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "genesis-33-1-11",
+          "surface": "וַיַּ֣חַץ",
+          "lemma": "חָצָה",
+          "translit": "vayachats",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2673"
+        },
+        {
+          "id": "genesis-33-1-12",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-1-13",
+          "surface": "הַיְלָדִ֗ים",
+          "lemma": "יֶלֶד",
+          "translit": "hayeladiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "genesis-33-1-14",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "genesis-33-1-15",
+          "surface": "לֵאָה֙",
+          "lemma": "לֵאָה",
+          "translit": "le'ah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3812"
+        },
+        {
+          "id": "genesis-33-1-16",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "genesis-33-1-17",
+          "surface": "רָחֵ֔ל",
+          "lemma": "רָחֵל",
+          "translit": "rachel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7354"
+        },
+        {
+          "id": "genesis-33-1-18",
+          "surface": "וְעַ֖ל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "genesis-33-1-19",
+          "surface": "שְׁתֵּ֥י",
+          "lemma": "שְׁנַיִם",
+          "translit": "shetey",
+          "morph": "Adjective common feminine dual construct",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "genesis-33-1-20",
+          "surface": "הַשְּׁפָחֽוֹת",
+          "lemma": "שִׁפְחָה",
+          "translit": "hashepachvot",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H8198"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:2",
+      "englishText": "He put the handmaids and their children in front, Leah and her children after, and Rachel and Joseph at the rear.",
+      "tokens": [
+        {
+          "id": "genesis-33-2-0",
+          "surface": "וַיָּ֧שֶׂם",
+          "lemma": "שׂוּם",
+          "translit": "vayashem",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "genesis-33-2-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-2-2",
+          "surface": "הַשְּׁפָח֛וֹת",
+          "lemma": "שִׁפְחָה",
+          "translit": "hashepachvot",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H8198"
+        },
+        {
+          "id": "genesis-33-2-3",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-2-4",
+          "surface": "יַלְדֵיהֶ֖ן",
+          "lemma": "יֶלֶד",
+          "translit": "yaledeyhen",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "genesis-33-2-5",
+          "surface": "רִֽאשֹׁנָ֑ה",
+          "lemma": "רִאשׁוֹן",
+          "translit": "ri'shonah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7223"
+        },
+        {
+          "id": "genesis-33-2-6",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-2-7",
+          "surface": "לֵאָ֤ה",
+          "lemma": "לֵאָה",
+          "translit": "le'ah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3812"
+        },
+        {
+          "id": "genesis-33-2-8",
+          "surface": "וִֽילָדֶ֨יהָ֙",
+          "lemma": "יֶלֶד",
+          "translit": "viyladeyha",
+          "morph": "Conjunction + Noun common masculine plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "genesis-33-2-9",
+          "surface": "אַחֲרֹנִ֔ים",
+          "lemma": "אַחֲרוֹן",
+          "translit": "'achroniym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H314"
+        },
+        {
+          "id": "genesis-33-2-10",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-2-11",
+          "surface": "רָחֵ֥ל",
+          "lemma": "רָחֵל",
+          "translit": "rachel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7354"
+        },
+        {
+          "id": "genesis-33-2-12",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-2-13",
+          "surface": "יוֹסֵ֖ף",
+          "lemma": "יוֹסֵף",
+          "translit": "yvosep",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3130"
+        },
+        {
+          "id": "genesis-33-2-14",
+          "surface": "אַחֲרֹנִֽים",
+          "lemma": "אַחֲרוֹן",
+          "translit": "'achroniym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H314"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:3",
+      "englishText": "He himself passed over in front of them, and bowed himself to the ground seven times, until he came near to his brother.  ",
+      "tokens": [
+        {
+          "id": "genesis-33-3-0",
+          "surface": "וְה֖וּא",
+          "lemma": "הוּא",
+          "translit": "vehv'",
+          "morph": "Conjunction + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "genesis-33-3-1",
+          "surface": "עָבַ֣ר",
+          "lemma": "עָבַר",
+          "translit": "`abar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5674"
+        },
+        {
+          "id": "genesis-33-3-2",
+          "surface": "לִפְנֵיהֶ֑ם",
+          "lemma": "פָּנִים",
+          "translit": "lipeneyhem",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "genesis-33-3-3",
+          "surface": "וַיִּשְׁתַּ֤חוּ",
+          "lemma": "שָׁחָה",
+          "translit": "vayishetachv",
+          "morph": "Conjunction + Verb Hithpael Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7812"
+        },
+        {
+          "id": "genesis-33-3-4",
+          "surface": "אַ֨רְצָה֙",
+          "lemma": "אֶרֶץ",
+          "translit": "'aretsah",
+          "morph": "Noun common singular absolute + Suffix dual",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "genesis-33-3-5",
+          "surface": "שֶׁ֣בַע",
+          "lemma": "שֶׁבַע",
+          "translit": "sheba`",
+          "morph": "Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7651"
+        },
+        {
+          "id": "genesis-33-3-6",
+          "surface": "פְּעָמִ֔ים",
+          "lemma": "פַּעַם",
+          "translit": "pe`amiym",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H6471"
+        },
+        {
+          "id": "genesis-33-3-7",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "genesis-33-3-8",
+          "surface": "גִּשְׁתּ֖וֹ",
+          "lemma": "נָגַשׁ",
+          "translit": "gishetvo",
+          "morph": "Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "genesis-33-3-9",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "genesis-33-3-10",
+          "surface": "אָחִֽיו",
+          "lemma": "אָח",
+          "translit": "'achiyv",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H251"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:4",
+      "englishText": "  Esau ran to meet him, embraced him, fell on his neck, kissed him, and they wept.",
+      "tokens": [
+        {
+          "id": "genesis-33-4-0",
+          "surface": "וַיָּ֨רָץ",
+          "lemma": "רוּץ",
+          "translit": "vayarats",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7323"
+        },
+        {
+          "id": "genesis-33-4-1",
+          "surface": "עֵשָׂ֤ו",
+          "lemma": "עֵשָׂו",
+          "translit": "`eshav",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6215"
+        },
+        {
+          "id": "genesis-33-4-2",
+          "surface": "לִקְרָאתוֹ֙",
+          "lemma": "קִרְאָה",
+          "translit": "liqera'tvo",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7125"
+        },
+        {
+          "id": "genesis-33-4-3",
+          "surface": "וַֽיְחַבְּקֵ֔הוּ",
+          "lemma": "חָבַק",
+          "translit": "vayechabeqehv",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2263"
+        },
+        {
+          "id": "genesis-33-4-4",
+          "surface": "וַיִּפֹּ֥ל",
+          "lemma": "נָפַל",
+          "translit": "vayipol",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "genesis-33-4-5",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "genesis-33-4-6",
+          "surface": "צַוָּארָ֖ו",
+          "lemma": "צַוָּאר",
+          "translit": "tsava'rav",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6677"
+        },
+        {
+          "id": "genesis-33-4-7",
+          "surface": "וַׄיִּׄשָּׁׄקֵ֑ׄהׄוּׄ",
+          "lemma": "נָשַׁק",
+          "translit": "vayishaqehv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5401"
+        },
+        {
+          "id": "genesis-33-4-8",
+          "surface": "וַיִּבְכּֽוּ",
+          "lemma": "בָּכָה",
+          "translit": "vayibekv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1058"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:5",
+      "englishText": "He lifted up his eyes, and saw the women and the children; and said, “Who are these with you?”   He said, “The children whom God has graciously given your servant.”",
+      "tokens": [
+        {
+          "id": "genesis-33-5-0",
+          "surface": "וַיִּשָּׂ֣א",
+          "lemma": "נָשָׂא",
+          "translit": "vayisha'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "genesis-33-5-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-5-2",
+          "surface": "עֵינָ֗יו",
+          "lemma": "עַיִן",
+          "translit": "`eynayv",
+          "morph": "Noun common dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "genesis-33-5-3",
+          "surface": "וַיַּ֤רְא",
+          "lemma": "רָאָה",
+          "translit": "vayare'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "genesis-33-5-4",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-5-5",
+          "surface": "הַנָּשִׁים֙",
+          "lemma": "אִשָּׁה",
+          "translit": "hanashiym",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "genesis-33-5-6",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-5-7",
+          "surface": "הַיְלָדִ֔ים",
+          "lemma": "יֶלֶד",
+          "translit": "hayeladiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "genesis-33-5-8",
+          "surface": "וַיֹּ֖אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "genesis-33-5-9",
+          "surface": "מִי",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "genesis-33-5-10",
+          "surface": "אֵ֣לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "genesis-33-5-11",
+          "surface": "לָּ֑ךְ",
+          "lemma": "לָּ֑ךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "genesis-33-5-12",
+          "surface": "וַיֹּאמַ֕ר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "genesis-33-5-13",
+          "surface": "הַיְלָדִ֕ים",
+          "lemma": "יֶלֶד",
+          "translit": "hayeladiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "genesis-33-5-14",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "genesis-33-5-15",
+          "surface": "חָנַ֥ן",
+          "lemma": "חָנַן",
+          "translit": "chanan",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2603"
+        },
+        {
+          "id": "genesis-33-5-16",
+          "surface": "אֱלֹהִ֖ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "genesis-33-5-17",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-5-18",
+          "surface": "עַבְדֶּֽךָ",
+          "lemma": "עֶבֶד",
+          "translit": "`abedeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5650"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:6",
+      "englishText": "Then the handmaids came near with their children, and they bowed themselves.",
+      "tokens": [
+        {
+          "id": "genesis-33-6-0",
+          "surface": "וַתִּגַּ֧שְׁןָ",
+          "lemma": "נָגַשׁ",
+          "translit": "vatigashena",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine plural",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "genesis-33-6-1",
+          "surface": "הַשְּׁפָח֛וֹת",
+          "lemma": "שִׁפְחָה",
+          "translit": "hashepachvot",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H8198"
+        },
+        {
+          "id": "genesis-33-6-2",
+          "surface": "הֵ֥נָּה",
+          "lemma": "הֵנָּה",
+          "translit": "henah",
+          "morph": "Pronoun plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H2007"
+        },
+        {
+          "id": "genesis-33-6-3",
+          "surface": "וְיַלְדֵיהֶ֖ן",
+          "lemma": "יֶלֶד",
+          "translit": "veyaledeyhen",
+          "morph": "Conjunction + Noun common masculine plural construct + Suffix plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "genesis-33-6-4",
+          "surface": "וַתִּֽשְׁתַּחֲוֶֽיןָ",
+          "lemma": "שָׁחָה",
+          "translit": "vatishetachveyna",
+          "morph": "Conjunction + Verb v Wayyiqtol 3rd feminine plural",
+          "glosses": [],
+          "strongs": "H7812"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:7",
+      "englishText": "Leah also and her children came near, and bowed themselves. After them, Joseph came near with Rachel, and they bowed themselves.  ",
+      "tokens": [
+        {
+          "id": "genesis-33-7-0",
+          "surface": "וַתִּגַּ֧שׁ",
+          "lemma": "נָגַשׁ",
+          "translit": "vatigash",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "genesis-33-7-1",
+          "surface": "גַּם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "genesis-33-7-2",
+          "surface": "לֵאָ֛ה",
+          "lemma": "לֵאָה",
+          "translit": "le'ah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3812"
+        },
+        {
+          "id": "genesis-33-7-3",
+          "surface": "וִילָדֶ֖יהָ",
+          "lemma": "יֶלֶד",
+          "translit": "viyladeyha",
+          "morph": "Conjunction + Noun common masculine plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "genesis-33-7-4",
+          "surface": "וַיִּֽשְׁתַּחֲו֑וּ",
+          "lemma": "שָׁחָה",
+          "translit": "vayishetachvv",
+          "morph": "Conjunction + Verb Hithpael Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7812"
+        },
+        {
+          "id": "genesis-33-7-5",
+          "surface": "וְאַחַ֗ר",
+          "lemma": "אַחַר",
+          "translit": "ve'achar",
+          "morph": "Conjunction + Adverb",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "genesis-33-7-6",
+          "surface": "נִגַּ֥שׁ",
+          "lemma": "נָגַשׁ",
+          "translit": "nigash",
+          "morph": "Verb Niphal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "genesis-33-7-7",
+          "surface": "יוֹסֵ֛ף",
+          "lemma": "יוֹסֵף",
+          "translit": "yvosep",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3130"
+        },
+        {
+          "id": "genesis-33-7-8",
+          "surface": "וְרָחֵ֖ל",
+          "lemma": "רָחֵל",
+          "translit": "verachel",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H7354"
+        },
+        {
+          "id": "genesis-33-7-9",
+          "surface": "וַיִּֽשְׁתַּחֲוֽוּ",
+          "lemma": "שָׁחָה",
+          "translit": "vayishetachvv",
+          "morph": "Conjunction + Verb Hithpael Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7812"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:8",
+      "englishText": "  Esau said, “What do you mean by all this company which I met?”   Jacob said, “To find favor in the sight of my lord.”  ",
+      "tokens": [
+        {
+          "id": "genesis-33-8-0",
+          "surface": "וַיֹּ֕אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "genesis-33-8-1",
+          "surface": "מִ֥י",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "genesis-33-8-2",
+          "surface": "לְךָ֛",
+          "lemma": "לְךָ֛",
+          "translit": "leka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "genesis-33-8-3",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "genesis-33-8-4",
+          "surface": "הַמַּחֲנֶ֥ה",
+          "lemma": "מַחֲנֶה",
+          "translit": "hamachneh",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H4264"
+        },
+        {
+          "id": "genesis-33-8-5",
+          "surface": "הַזֶּ֖ה",
+          "lemma": "זֶה",
+          "translit": "hazeh",
+          "morph": "Particle dual + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "genesis-33-8-6",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "genesis-33-8-7",
+          "surface": "פָּגָ֑שְׁתִּי",
+          "lemma": "פָּגַשׁ",
+          "translit": "pagashetiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H6298"
+        },
+        {
+          "id": "genesis-33-8-8",
+          "surface": "וַיֹּ֕אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "genesis-33-8-9",
+          "surface": "לִמְצֹא",
+          "lemma": "מָצָא",
+          "translit": "limetso'",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H4672"
+        },
+        {
+          "id": "genesis-33-8-10",
+          "surface": "חֵ֖ן",
+          "lemma": "חֵן",
+          "translit": "chen",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2580"
+        },
+        {
+          "id": "genesis-33-8-11",
+          "surface": "בְּעֵינֵ֥י",
+          "lemma": "עַיִן",
+          "translit": "be`eyney",
+          "morph": "Preposition + Noun common dual construct",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "genesis-33-8-12",
+          "surface": "אֲדֹנִֽי",
+          "lemma": "אָדוֹן",
+          "translit": "'doniy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H113"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:9",
+      "englishText": "  Esau said, “I have enough, my brother; let that which you have be yours.”  ",
+      "tokens": [
+        {
+          "id": "genesis-33-9-0",
+          "surface": "וַיֹּ֥אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "genesis-33-9-1",
+          "surface": "עֵשָׂ֖ו",
+          "lemma": "עֵשָׂו",
+          "translit": "`eshav",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6215"
+        },
+        {
+          "id": "genesis-33-9-2",
+          "surface": "יֶשׁ",
+          "lemma": "יֵשׁ",
+          "translit": "yesh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H3426"
+        },
+        {
+          "id": "genesis-33-9-3",
+          "surface": "לִ֣י",
+          "lemma": "לִ֣י",
+          "translit": "liy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        },
+        {
+          "id": "genesis-33-9-4",
+          "surface": "רָ֑ב",
+          "lemma": "רַב",
+          "translit": "rab",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7227"
+        },
+        {
+          "id": "genesis-33-9-5",
+          "surface": "אָחִ֕י",
+          "lemma": "אָח",
+          "translit": "'achiy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H251"
+        },
+        {
+          "id": "genesis-33-9-6",
+          "surface": "יְהִ֥י",
+          "lemma": "הָיָה",
+          "translit": "yehiy",
+          "morph": "Verb Qal Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "genesis-33-9-7",
+          "surface": "לְךָ֖",
+          "lemma": "לְךָ֖",
+          "translit": "leka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "genesis-33-9-8",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "genesis-33-9-9",
+          "surface": "לָֽךְ",
+          "lemma": "לָֽךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:10",
+      "englishText": "  Jacob said, “Please, no, if I have now found favor in your sight, then receive my present at my hand, because I have seen your face, as one sees the face of God, and you were pleased with me.",
+      "tokens": [
+        {
+          "id": "genesis-33-10-0",
+          "surface": "וַיֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "genesis-33-10-1",
+          "surface": "יַעֲקֹ֗ב",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "genesis-33-10-2",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "genesis-33-10-3",
+          "surface": "נָא֙",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "genesis-33-10-4",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "genesis-33-10-5",
+          "surface": "נָ֨א",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "genesis-33-10-6",
+          "surface": "מָצָ֤אתִי",
+          "lemma": "מָצָא",
+          "translit": "matsa'tiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H4672"
+        },
+        {
+          "id": "genesis-33-10-7",
+          "surface": "חֵן֙",
+          "lemma": "חֵן",
+          "translit": "chen",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2580"
+        },
+        {
+          "id": "genesis-33-10-8",
+          "surface": "בְּעֵינֶ֔יךָ",
+          "lemma": "עַיִן",
+          "translit": "be`eyneyka",
+          "morph": "Preposition + Noun common dual construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "genesis-33-10-9",
+          "surface": "וְלָקַחְתָּ֥",
+          "lemma": "לָקַח",
+          "translit": "velaqacheta",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "genesis-33-10-10",
+          "surface": "מִנְחָתִ֖י",
+          "lemma": "מִנְחָה",
+          "translit": "minechatiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H4503"
+        },
+        {
+          "id": "genesis-33-10-11",
+          "surface": "מִיָּדִ֑י",
+          "lemma": "יָד",
+          "translit": "miyadiy",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "genesis-33-10-12",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "genesis-33-10-13",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "genesis-33-10-14",
+          "surface": "כֵּ֞ן",
+          "lemma": "כֵּן",
+          "translit": "ken",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "genesis-33-10-15",
+          "surface": "רָאִ֣יתִי",
+          "lemma": "רָאָה",
+          "translit": "ra'iytiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "genesis-33-10-16",
+          "surface": "פָנֶ֗יךָ",
+          "lemma": "פָּנִים",
+          "translit": "paneyka",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "genesis-33-10-17",
+          "surface": "כִּרְאֹ֛ת",
+          "lemma": "רָאָה",
+          "translit": "kire'ot",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "genesis-33-10-18",
+          "surface": "פְּנֵ֥י",
+          "lemma": "פָּנִים",
+          "translit": "peney",
+          "morph": "Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "genesis-33-10-19",
+          "surface": "אֱלֹהִ֖ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "genesis-33-10-20",
+          "surface": "וַתִּרְצֵֽנִי",
+          "lemma": "רָצָה",
+          "translit": "vatiretseniy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H7521"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:11",
+      "englishText": "Please take the gift that I brought to you, because God has dealt graciously with me, and because I have enough.” He urged him, and he took it.  ",
+      "tokens": [
+        {
+          "id": "genesis-33-11-0",
+          "surface": "קַח",
+          "lemma": "לָקַח",
+          "translit": "qach",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "genesis-33-11-1",
+          "surface": "נָ֤א",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "genesis-33-11-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-11-3",
+          "surface": "בִּרְכָתִי֙",
+          "lemma": "בְּרָכָה",
+          "translit": "birekatiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H1293"
+        },
+        {
+          "id": "genesis-33-11-4",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "genesis-33-11-5",
+          "surface": "הֻבָ֣את",
+          "lemma": "בּוֹא",
+          "translit": "huba't",
+          "morph": "Verb Hophal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "genesis-33-11-6",
+          "surface": "לָ֔ךְ",
+          "lemma": "לָ֔ךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "genesis-33-11-7",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "genesis-33-11-8",
+          "surface": "חַנַּ֥נִי",
+          "lemma": "חָנַן",
+          "translit": "chananiy",
+          "morph": "Verb Qal Participle 3rd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2603"
+        },
+        {
+          "id": "genesis-33-11-9",
+          "surface": "אֱלֹהִ֖ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "genesis-33-11-10",
+          "surface": "וְכִ֣י",
+          "lemma": "כִּי",
+          "translit": "vekiy",
+          "morph": "Conjunction + Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "genesis-33-11-11",
+          "surface": "יֶשׁ",
+          "lemma": "יֵשׁ",
+          "translit": "yesh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H3426"
+        },
+        {
+          "id": "genesis-33-11-12",
+          "surface": "לִי",
+          "lemma": "לִי",
+          "translit": "liy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        },
+        {
+          "id": "genesis-33-11-13",
+          "surface": "כֹ֑ל",
+          "lemma": "כֹּל",
+          "translit": "kol",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "genesis-33-11-14",
+          "surface": "וַיִּפְצַר",
+          "lemma": "פָּצַר",
+          "translit": "vayipetsar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6484"
+        },
+        {
+          "id": "genesis-33-11-15",
+          "surface": "בּ֖וֹ",
+          "lemma": "בּ֖וֹ",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "genesis-33-11-16",
+          "surface": "וַיִּקָּֽח",
+          "lemma": "לָקַח",
+          "translit": "vayiqach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:12",
+      "englishText": "  Esau said, “Let us take our journey, and let us go, and I will go before you.”  ",
+      "tokens": [
+        {
+          "id": "genesis-33-12-0",
+          "surface": "וַיֹּ֖אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "genesis-33-12-1",
+          "surface": "נִסְעָ֣ה",
+          "lemma": "נָסַע",
+          "translit": "nise`ah",
+          "morph": "Verb Qal Cohortative 1st common plural",
+          "glosses": [],
+          "strongs": "H5265"
+        },
+        {
+          "id": "genesis-33-12-2",
+          "surface": "וְנֵלֵ֑כָה",
+          "lemma": "יָלַךְ",
+          "translit": "venelekah",
+          "morph": "Conjunction + Verb Qal Cohortative 1st common plural",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "genesis-33-12-3",
+          "surface": "וְאֵלְכָ֖ה",
+          "lemma": "יָלַךְ",
+          "translit": "ve'elekah",
+          "morph": "Conjunction + Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "genesis-33-12-4",
+          "surface": "לְנֶגְדֶּֽךָ",
+          "lemma": "נֶגֶד",
+          "translit": "lenegedeka",
+          "morph": "Preposition + Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5048"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:13",
+      "englishText": "  Jacob said to him, “My lord knows that the children are tender, and that the flocks and herds with me have their young, and if they overdrive them one day, all the flocks will die.",
+      "tokens": [
+        {
+          "id": "genesis-33-13-0",
+          "surface": "וַיֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "genesis-33-13-1",
+          "surface": "אֵלָ֗יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "genesis-33-13-2",
+          "surface": "אֲדֹנִ֤י",
+          "lemma": "אָדוֹן",
+          "translit": "'doniy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H113"
+        },
+        {
+          "id": "genesis-33-13-3",
+          "surface": "יֹדֵ֨עַ֙",
+          "lemma": "יָדַע",
+          "translit": "yode`a",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "genesis-33-13-4",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "genesis-33-13-5",
+          "surface": "הַיְלָדִ֣ים",
+          "lemma": "יֶלֶד",
+          "translit": "hayeladiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "genesis-33-13-6",
+          "surface": "רַכִּ֔ים",
+          "lemma": "רַךְ",
+          "translit": "rakiym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7390"
+        },
+        {
+          "id": "genesis-33-13-7",
+          "surface": "וְהַצֹּ֥אן",
+          "lemma": "צֹאן",
+          "translit": "vehatso'n",
+          "morph": "Conjunction + Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H6629"
+        },
+        {
+          "id": "genesis-33-13-8",
+          "surface": "וְהַבָּקָ֖ר",
+          "lemma": "בָּקָר",
+          "translit": "vehabaqar",
+          "morph": "Conjunction + Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H1241"
+        },
+        {
+          "id": "genesis-33-13-9",
+          "surface": "עָל֣וֹת",
+          "lemma": "עוּל",
+          "translit": "`alvot",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5763"
+        },
+        {
+          "id": "genesis-33-13-10",
+          "surface": "עָלָ֑י",
+          "lemma": "עַל",
+          "translit": "`alay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "genesis-33-13-11",
+          "surface": "וּדְפָקוּם֙",
+          "lemma": "דָּפַק",
+          "translit": "vdepaqvm",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1849"
+        },
+        {
+          "id": "genesis-33-13-12",
+          "surface": "י֣וֹם",
+          "lemma": "יוֹם",
+          "translit": "yvom",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "genesis-33-13-13",
+          "surface": "אֶחָ֔ד",
+          "lemma": "אֶחָד",
+          "translit": "'echad",
+          "morph": "Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H259"
+        },
+        {
+          "id": "genesis-33-13-14",
+          "surface": "וָמֵ֖תוּ",
+          "lemma": "מוּת",
+          "translit": "vametv",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "genesis-33-13-15",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "genesis-33-13-16",
+          "surface": "הַצֹּֽאן",
+          "lemma": "צֹאן",
+          "translit": "hatso'n",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H6629"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:14",
+      "englishText": "Please let my lord pass over before his servant, and I will lead on gently, according to the pace of the livestock that are before me and according to the pace of the children, until I come to my lord to Seir.”  ",
+      "tokens": [
+        {
+          "id": "genesis-33-14-0",
+          "surface": "יַעֲבָר",
+          "lemma": "עָבַר",
+          "translit": "ya`bar",
+          "morph": "Verb Qal Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5674"
+        },
+        {
+          "id": "genesis-33-14-1",
+          "surface": "נָ֥א",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "genesis-33-14-2",
+          "surface": "אֲדֹנִ֖י",
+          "lemma": "אָדוֹן",
+          "translit": "'doniy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H113"
+        },
+        {
+          "id": "genesis-33-14-3",
+          "surface": "לִפְנֵ֣י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "genesis-33-14-4",
+          "surface": "עַבְדּ֑וֹ",
+          "lemma": "עֶבֶד",
+          "translit": "`abedvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "genesis-33-14-5",
+          "surface": "וַאֲנִ֞י",
+          "lemma": "אֲנִי",
+          "translit": "va'niy",
+          "morph": "Conjunction + Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "genesis-33-14-6",
+          "surface": "אֶֽתְנָהֲלָ֣ה",
+          "lemma": "נָהַל",
+          "translit": "'etenahlah",
+          "morph": "Verb Hithpael Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H5095"
+        },
+        {
+          "id": "genesis-33-14-7",
+          "surface": "לְאִטִּ֗י",
+          "lemma": "אַט",
+          "translit": "le'itiy",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H328"
+        },
+        {
+          "id": "genesis-33-14-8",
+          "surface": "לְרֶ֨גֶל",
+          "lemma": "רֶגֶל",
+          "translit": "leregel",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H7272"
+        },
+        {
+          "id": "genesis-33-14-9",
+          "surface": "הַמְּלָאכָ֤ה",
+          "lemma": "מְלָאכָה",
+          "translit": "hamela'kah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4399"
+        },
+        {
+          "id": "genesis-33-14-10",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "genesis-33-14-11",
+          "surface": "לְפָנַי֙",
+          "lemma": "פָּנִים",
+          "translit": "lepanay",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "genesis-33-14-12",
+          "surface": "וּלְרֶ֣גֶל",
+          "lemma": "רֶגֶל",
+          "translit": "vleregel",
+          "morph": "Conjunction + Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H7272"
+        },
+        {
+          "id": "genesis-33-14-13",
+          "surface": "הַיְלָדִ֔ים",
+          "lemma": "יֶלֶד",
+          "translit": "hayeladiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "genesis-33-14-14",
+          "surface": "עַ֛ד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "genesis-33-14-15",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "genesis-33-14-16",
+          "surface": "אָבֹ֥א",
+          "lemma": "בּוֹא",
+          "translit": "'abo'",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "genesis-33-14-17",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "genesis-33-14-18",
+          "surface": "אֲדֹנִ֖י",
+          "lemma": "אָדוֹן",
+          "translit": "'doniy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H113"
+        },
+        {
+          "id": "genesis-33-14-19",
+          "surface": "שֵׂעִֽירָה",
+          "lemma": "שֵׂעִיר",
+          "translit": "she`iyrah",
+          "morph": "Noun proper + Suffix dual",
+          "glosses": [],
+          "strongs": "H8165"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:15",
+      "englishText": "  Esau said, “Let me now leave with you some of the folk who are with me.”   He said, “Why? Let me find favor in the sight of my lord.”  ",
+      "tokens": [
+        {
+          "id": "genesis-33-15-0",
+          "surface": "וַיֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "genesis-33-15-1",
+          "surface": "עֵשָׂ֔ו",
+          "lemma": "עֵשָׂו",
+          "translit": "`eshav",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6215"
+        },
+        {
+          "id": "genesis-33-15-2",
+          "surface": "אַצִּֽיגָה",
+          "lemma": "יָצַג",
+          "translit": "'atsiygah",
+          "morph": "Verb Hiphil Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H3322"
+        },
+        {
+          "id": "genesis-33-15-3",
+          "surface": "נָּ֣א",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "genesis-33-15-4",
+          "surface": "עִמְּךָ֔",
+          "lemma": "עִם",
+          "translit": "`imeka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "genesis-33-15-5",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "genesis-33-15-6",
+          "surface": "הָעָ֖ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "genesis-33-15-7",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "genesis-33-15-8",
+          "surface": "אִתִּ֑י",
+          "lemma": "אֵת",
+          "translit": "'itiy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "genesis-33-15-9",
+          "surface": "וַיֹּ֨אמֶר֙",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "genesis-33-15-10",
+          "surface": "לָ֣מָּה",
+          "lemma": "מָה",
+          "translit": "lamah",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "genesis-33-15-11",
+          "surface": "זֶּ֔ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "genesis-33-15-12",
+          "surface": "אֶמְצָא",
+          "lemma": "מָצָא",
+          "translit": "'emetsa'",
+          "morph": "Verb Qal Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H4672"
+        },
+        {
+          "id": "genesis-33-15-13",
+          "surface": "חֵ֖ן",
+          "lemma": "חֵן",
+          "translit": "chen",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2580"
+        },
+        {
+          "id": "genesis-33-15-14",
+          "surface": "בְּעֵינֵ֥י",
+          "lemma": "עַיִן",
+          "translit": "be`eyney",
+          "morph": "Preposition + Noun common dual construct",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "genesis-33-15-15",
+          "surface": "אֲדֹנִֽי",
+          "lemma": "אָדוֹן",
+          "translit": "'doniy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H113"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:16",
+      "englishText": "  So Esau returned that day on his way to Seir.",
+      "tokens": [
+        {
+          "id": "genesis-33-16-0",
+          "surface": "וַיָּשָׁב֩",
+          "lemma": "שׁוּב",
+          "translit": "vayashab",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "genesis-33-16-1",
+          "surface": "בַּיּ֨וֹם",
+          "lemma": "יוֹם",
+          "translit": "bayvom",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "genesis-33-16-2",
+          "surface": "הַה֥וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "genesis-33-16-3",
+          "surface": "עֵשָׂ֛ו",
+          "lemma": "עֵשָׂו",
+          "translit": "`eshav",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6215"
+        },
+        {
+          "id": "genesis-33-16-4",
+          "surface": "לְדַרְכּ֖וֹ",
+          "lemma": "דֶּרֶךְ",
+          "translit": "ledarekvo",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1870"
+        },
+        {
+          "id": "genesis-33-16-5",
+          "surface": "שֵׂעִֽירָה",
+          "lemma": "שֵׂעִיר",
+          "translit": "she`iyrah",
+          "morph": "Noun proper + Suffix dual",
+          "glosses": [],
+          "strongs": "H8165"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:17",
+      "englishText": "Jacob traveled to Succoth, built himself a house, and made shelters for his livestock. Therefore the name of the place is called Succoth.  ",
+      "tokens": [
+        {
+          "id": "genesis-33-17-0",
+          "surface": "וְיַעֲקֹב֙",
+          "lemma": "יַעֲקֹב",
+          "translit": "veya`qob",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "genesis-33-17-1",
+          "surface": "נָסַ֣ע",
+          "lemma": "נָסַע",
+          "translit": "nasa`",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5265"
+        },
+        {
+          "id": "genesis-33-17-2",
+          "surface": "סֻכֹּ֔תָה",
+          "lemma": "סֻכּוֹת",
+          "translit": "sukotah",
+          "morph": "Noun proper + Suffix dual",
+          "glosses": [],
+          "strongs": "H5523"
+        },
+        {
+          "id": "genesis-33-17-3",
+          "surface": "וַיִּ֥בֶן",
+          "lemma": "בָּנָה",
+          "translit": "vayiben",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1129"
+        },
+        {
+          "id": "genesis-33-17-4",
+          "surface": "ל֖וֹ",
+          "lemma": "ל֖וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "genesis-33-17-5",
+          "surface": "בָּ֑יִת",
+          "lemma": "בַּיִת",
+          "translit": "bayit",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "genesis-33-17-6",
+          "surface": "וּלְמִקְנֵ֨הוּ֙",
+          "lemma": "מִקְנֶה",
+          "translit": "vlemiqenehv",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4735"
+        },
+        {
+          "id": "genesis-33-17-7",
+          "surface": "עָשָׂ֣ה",
+          "lemma": "עָשָׂה",
+          "translit": "`ashah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "genesis-33-17-8",
+          "surface": "סֻכֹּ֔ת",
+          "lemma": "סֻכָּה",
+          "translit": "sukot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H5521"
+        },
+        {
+          "id": "genesis-33-17-9",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "genesis-33-17-10",
+          "surface": "כֵּ֛ן",
+          "lemma": "כֵּן",
+          "translit": "ken",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "genesis-33-17-11",
+          "surface": "קָרָ֥א",
+          "lemma": "קָרָא",
+          "translit": "qara'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "genesis-33-17-12",
+          "surface": "שֵׁם",
+          "lemma": "שֵׁם",
+          "translit": "shem",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "genesis-33-17-13",
+          "surface": "הַמָּק֖וֹם",
+          "lemma": "מָקוֹם",
+          "translit": "hamaqvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4725"
+        },
+        {
+          "id": "genesis-33-17-14",
+          "surface": "סֻכּֽוֹת",
+          "lemma": "סֻכּוֹת",
+          "translit": "sukvot",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5523"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:18",
+      "englishText": "  Jacob came in peace to the city of Shechem, which is in the land of Canaan, when he came from Paddan Aram; and encamped before the city.",
+      "tokens": [
+        {
+          "id": "genesis-33-18-0",
+          "surface": "וַיָּבֹא֩",
+          "lemma": "בּוֹא",
+          "translit": "vayabo'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "genesis-33-18-1",
+          "surface": "יַעֲקֹ֨ב",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "genesis-33-18-2",
+          "surface": "שָׁלֵ֜ם",
+          "lemma": "שָׁלֵם",
+          "translit": "shalem",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H8003"
+        },
+        {
+          "id": "genesis-33-18-3",
+          "surface": "עִ֣יר",
+          "lemma": "עִיר",
+          "translit": "`iyr",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H5892"
+        },
+        {
+          "id": "genesis-33-18-4",
+          "surface": "שְׁכֶ֗ם",
+          "lemma": "שְׁכֶם",
+          "translit": "shekem",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7927"
+        },
+        {
+          "id": "genesis-33-18-5",
+          "surface": "אֲשֶׁר֙",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "genesis-33-18-6",
+          "surface": "בְּאֶ֣רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "be'erets",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "genesis-33-18-7",
+          "surface": "כְּנַ֔עַן",
+          "lemma": "כְּנַעַן",
+          "translit": "kena`an",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3667"
+        },
+        {
+          "id": "genesis-33-18-8",
+          "surface": "בְּבֹא֖וֹ",
+          "lemma": "בּוֹא",
+          "translit": "bebo'vo",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "genesis-33-18-9",
+          "surface": "מִפַּדַּ֣ן",
+          "lemma": "פַּדָּן",
+          "translit": "mipadan",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6307"
+        },
+        {
+          "id": "genesis-33-18-10",
+          "surface": "אֲרָ֑ם",
+          "lemma": "פַּדָּן",
+          "translit": "'ram",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6307"
+        },
+        {
+          "id": "genesis-33-18-11",
+          "surface": "וַיִּ֖חַן",
+          "lemma": "חָנָה",
+          "translit": "vayichan",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2583"
+        },
+        {
+          "id": "genesis-33-18-12",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "genesis-33-18-13",
+          "surface": "פְּנֵ֥י",
+          "lemma": "פָּנִים",
+          "translit": "peney",
+          "morph": "Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "genesis-33-18-14",
+          "surface": "הָעִֽיר",
+          "lemma": "עִיר",
+          "translit": "ha`iyr",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5892"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:19",
+      "englishText": "He bought the parcel of ground where he had spread his tent, at the hand of the children of Hamor, Shechem’s father, for one hundred pieces of money.",
+      "tokens": [
+        {
+          "id": "genesis-33-19-0",
+          "surface": "וַיִּ֜קֶן",
+          "lemma": "קָנָה",
+          "translit": "vayiqen",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7069"
+        },
+        {
+          "id": "genesis-33-19-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "genesis-33-19-2",
+          "surface": "חֶלְקַ֣ת",
+          "lemma": "חֶלְקָה",
+          "translit": "cheleqat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H2513"
+        },
+        {
+          "id": "genesis-33-19-3",
+          "surface": "הַשָּׂדֶ֗ה",
+          "lemma": "שָׂדֶה",
+          "translit": "hashadeh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "genesis-33-19-4",
+          "surface": "אֲשֶׁ֤ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "genesis-33-19-5",
+          "surface": "נָֽטָה",
+          "lemma": "נָטָה",
+          "translit": "natah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5186"
+        },
+        {
+          "id": "genesis-33-19-6",
+          "surface": "שָׁם֙",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "genesis-33-19-7",
+          "surface": "אָהֳל֔וֹ",
+          "lemma": "אֹהֶל",
+          "translit": "'ahlvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H168"
+        },
+        {
+          "id": "genesis-33-19-8",
+          "surface": "מִיַּ֥ד",
+          "lemma": "יָד",
+          "translit": "miyad",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "genesis-33-19-9",
+          "surface": "בְּנֵֽי",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "genesis-33-19-10",
+          "surface": "חֲמ֖וֹר",
+          "lemma": "חֲמוֹר",
+          "translit": "chmvor",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2544"
+        },
+        {
+          "id": "genesis-33-19-11",
+          "surface": "אֲבִ֣י",
+          "lemma": "אָב",
+          "translit": "'biy",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "genesis-33-19-12",
+          "surface": "שְׁכֶ֑ם",
+          "lemma": "שְׁכֶם",
+          "translit": "shekem",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7927"
+        },
+        {
+          "id": "genesis-33-19-13",
+          "surface": "בְּמֵאָ֖ה",
+          "lemma": "מֵאָה",
+          "translit": "beme'ah",
+          "morph": "Preposition + Adjective common singular absolute",
+          "glosses": [],
+          "strongs": "H3967"
+        },
+        {
+          "id": "genesis-33-19-14",
+          "surface": "קְשִׂיטָֽה",
+          "lemma": "קְשִׂיטָה",
+          "translit": "qeshiytah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7192"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Genesis 33:20",
+      "englishText": "He erected an altar there, and called it El Elohe Israel.   ",
+      "tokens": [
+        {
+          "id": "genesis-33-20-0",
+          "surface": "וַיַּצֶּב",
+          "lemma": "נָצַב",
+          "translit": "vayatseb",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5324"
+        },
+        {
+          "id": "genesis-33-20-1",
+          "surface": "שָׁ֖ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "genesis-33-20-2",
+          "surface": "מִזְבֵּ֑חַ",
+          "lemma": "מִזְבֵּחַ",
+          "translit": "mizebecha",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4196"
+        },
+        {
+          "id": "genesis-33-20-3",
+          "surface": "וַיִּ֨קְרָא",
+          "lemma": "קָרָא",
+          "translit": "vayiqera'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "genesis-33-20-4",
+          "surface": "ל֔וֹ",
+          "lemma": "ל֔וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "genesis-33-20-5",
+          "surface": "אֵ֖ל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H410"
+        },
+        {
+          "id": "genesis-33-20-6",
+          "surface": "אֱלֹהֵ֥י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "genesis-33-20-7",
+          "surface": "יִשְׂרָאֵֽל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

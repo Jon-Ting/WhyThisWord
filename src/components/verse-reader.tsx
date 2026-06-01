@@ -42,7 +42,10 @@ export function VerseReader({ verse, selectedTokenId, onSelectToken }: VerseRead
               <span key={t.id}>
                 <button
                   type="button"
-                  onClick={() => onSelectToken(t.id)}
+                  onClick={() => {
+                    console.log(`[VerseReader] Token clicked: ${t.lemma || t.surface} (${t.id})`);
+                    onSelectToken(t.id);
+                  }}
                   aria-pressed={isSelected}
                   className={cn(
                     "rounded-sm px-0.5 transition-colors cursor-pointer",

@@ -1,1 +1,2871 @@
-{"id":"jeremiah-28","name":"Jeremiah","chapter":28,"verses":[{"ref":"Jeremiah 28:1","englishText":"That same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, in the fifth month, Hananiah the son of Azzur, the prophet, who was of Gibeon, spoke to me in Yahweh’s house, in the presence of the priests and of all the people, saying,","tokens":[{"id":"jeremiah-28-1-0","surface":"וַיְהִ֣י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"jeremiah-28-1-1","surface":"בַּשָּׁנָ֣ה","lemma":"שָׁנֶה","translit":"bashanah","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H8141"},{"id":"jeremiah-28-1-2","surface":"הַהִ֗יא","lemma":"הוּא","translit":"hahiy'","morph":"Particle dual + Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"jeremiah-28-1-3","surface":"בְּרֵאשִׁית֙","lemma":"רֵאשִׁית","translit":"bere'shiyt","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H7225"},{"id":"jeremiah-28-1-4","surface":"מַמְלֶ֨כֶת֙","lemma":"מַמְלָכָה","translit":"mameleket","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H4467"},{"id":"jeremiah-28-1-5","surface":"צִדְקִיָּ֣ה","lemma":"צִדְקִיָּה","translit":"tsideqiyah","morph":"Noun proper","glosses":[],"strongs":"H6667"},{"id":"jeremiah-28-1-6","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-28-1-7","surface":"יְהוּדָ֔ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"jeremiah-28-1-8","surface":"בשנת","lemma":"שָׁנֶה","translit":"bshnt","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H8141"},{"id":"jeremiah-28-1-9","surface":"בַּשָּׁנָה֙","lemma":"שָׁנֶה","translit":"bashanah","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H8141"},{"id":"jeremiah-28-1-10","surface":"הָֽרְבִעִ֔ית","lemma":"רְבִיעִי","translit":"harebi`iyt","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7243"},{"id":"jeremiah-28-1-11","surface":"בַּחֹ֖דֶשׁ","lemma":"חֹדֶשׁ","translit":"bachodesh","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2320"},{"id":"jeremiah-28-1-12","surface":"הַחֲמִישִׁ֑י","lemma":"חֲמִישִׁי","translit":"hachmiyshiy","morph":"Particle dual + Adjective","glosses":[],"strongs":"H2549"},{"id":"jeremiah-28-1-13","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-1-14","surface":"אֵלַ֡י","lemma":"אֵל","translit":"'elay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H413"},{"id":"jeremiah-28-1-15","surface":"חֲנַנְיָה֩","lemma":"חֲנַנְיָה","translit":"chnaneyah","morph":"Noun proper","glosses":[],"strongs":"H2608"},{"id":"jeremiah-28-1-16","surface":"בֶן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"jeremiah-28-1-17","surface":"עַזּ֨וּר","lemma":"עַזּוּר","translit":"`azvr","morph":"Noun proper","glosses":[],"strongs":"H5809"},{"id":"jeremiah-28-1-18","surface":"הַנָּבִ֜יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-1-19","surface":"אֲשֶׁ֤ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-28-1-20","surface":"מִגִּבְעוֹן֙","lemma":"גִּבְעוֹן","translit":"migibe`von","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1391"},{"id":"jeremiah-28-1-21","surface":"בְּבֵ֣ית","lemma":"בַּיִת","translit":"bebeyt","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"jeremiah-28-1-22","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-1-23","surface":"לְעֵינֵ֧י","lemma":"עַיִן","translit":"le`eyney","morph":"Preposition + Noun common dual construct","glosses":[],"strongs":"H5869"},{"id":"jeremiah-28-1-24","surface":"הַכֹּהֲנִ֛ים","lemma":"כֹּהֵן","translit":"hakohniym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3548"},{"id":"jeremiah-28-1-25","surface":"וְכָל","lemma":"כֹּל","translit":"vekal","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"jeremiah-28-1-26","surface":"הָעָ֖ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"jeremiah-28-1-27","surface":"לֵאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Jeremiah 28:2","englishText":"Thus speaks Yahweh of Armies, the God of Israel, saying, I have broken the yoke of the king of Babylon.","tokens":[{"id":"jeremiah-28-2-0","surface":"כֹּֽה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"jeremiah-28-2-1","surface":"אָמַ֞ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-2-2","surface":"יְהוָ֧ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-2-3","surface":"צְבָא֛וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"jeremiah-28-2-4","surface":"אֱלֹהֵ֥י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"jeremiah-28-2-5","surface":"יִשְׂרָאֵ֖ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"jeremiah-28-2-6","surface":"לֵאמֹ֑ר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-2-7","surface":"שָׁבַ֞רְתִּי","lemma":"שָׁבַר","translit":"shabaretiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H7665"},{"id":"jeremiah-28-2-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-2-9","surface":"עֹ֖ל","lemma":"עֹל","translit":"`ol","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5923"},{"id":"jeremiah-28-2-10","surface":"מֶ֥לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-28-2-11","surface":"בָּבֶֽל","lemma":"בָּבֶל","translit":"babel","morph":"Noun proper","glosses":[],"strongs":"H894"}],"language":"hebrew"},{"ref":"Jeremiah 28:3","englishText":"Within two full years will I bring again into this place all the vessels of Yahweh’s house, that Nebuchadnezzar king of Babylon took away from this place, and carried to Babylon:","tokens":[{"id":"jeremiah-28-3-0","surface":"בְּע֣וֹד","lemma":"עוֹד","translit":"be`vod","morph":"Preposition + Adverb","glosses":[],"strongs":"H5750"},{"id":"jeremiah-28-3-1","surface":"שְׁנָתַ֣יִם","lemma":"שָׁנֶה","translit":"shenatayim","morph":"Noun common feminine dual absolute","glosses":[],"strongs":"H8141"},{"id":"jeremiah-28-3-2","surface":"יָמִ֗ים","lemma":"יוֹם","translit":"yamiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H3117"},{"id":"jeremiah-28-3-3","surface":"אֲנִ֤י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"jeremiah-28-3-4","surface":"מֵשִׁיב֙","lemma":"שׁוּב","translit":"meshiyb","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H7725"},{"id":"jeremiah-28-3-5","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-28-3-6","surface":"הַמָּק֣וֹם","lemma":"מָקוֹם","translit":"hamaqvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4725"},{"id":"jeremiah-28-3-7","surface":"הַזֶּ֔ה","lemma":"זֶה","translit":"hazeh","morph":"Particle dual + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"jeremiah-28-3-8","surface":"אֶֽת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-3-9","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"jeremiah-28-3-10","surface":"כְּלֵ֖י","lemma":"כְּלִי","translit":"keley","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H3627"},{"id":"jeremiah-28-3-11","surface":"בֵּ֣ית","lemma":"בַּיִת","translit":"beyt","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"jeremiah-28-3-12","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-3-13","surface":"אֲשֶׁ֨ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-28-3-14","surface":"לָקַ֜ח","lemma":"לָקַח","translit":"laqach","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H3947"},{"id":"jeremiah-28-3-15","surface":"נְבוּכַדנֶאצַּ֤ר","lemma":"נְבוּכַדְנֶאצַּר","translit":"nebvkadne'tsar","morph":"Noun proper","glosses":[],"strongs":"H5019"},{"id":"jeremiah-28-3-16","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-28-3-17","surface":"בָּבֶל֙","lemma":"בָּבֶל","translit":"babel","morph":"Noun proper","glosses":[],"strongs":"H894"},{"id":"jeremiah-28-3-18","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"jeremiah-28-3-19","surface":"הַמָּק֣וֹם","lemma":"מָקוֹם","translit":"hamaqvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4725"},{"id":"jeremiah-28-3-20","surface":"הַזֶּ֔ה","lemma":"זֶה","translit":"hazeh","morph":"Particle dual + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"jeremiah-28-3-21","surface":"וַיְבִיאֵ֖ם","lemma":"בּוֹא","translit":"vayebiy'em","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H935"},{"id":"jeremiah-28-3-22","surface":"בָּבֶֽל","lemma":"בָּבֶל","translit":"babel","morph":"Noun proper","glosses":[],"strongs":"H894"}],"language":"hebrew"},{"ref":"Jeremiah 28:4","englishText":"and I will bring again to this place Jeconiah the son of Jehoiakim, king of Judah, with all the captives of Judah, who went to Babylon, says Yahweh; for I will break the yoke of the king of Babylon.","tokens":[{"id":"jeremiah-28-4-0","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-4-1","surface":"יְכָנְיָ֣ה","lemma":"יְכׇנְיָה","translit":"yekaneyah","morph":"Noun proper","glosses":[],"strongs":"H3204"},{"id":"jeremiah-28-4-2","surface":"בֶן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"jeremiah-28-4-3","surface":"יְהוֹיָקִ֣ים","lemma":"יְהוֹיָקִים","translit":"yehvoyaqiym","morph":"Noun proper","glosses":[],"strongs":"H3079"},{"id":"jeremiah-28-4-4","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-28-4-5","surface":"יְ֠הוּדָה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"jeremiah-28-4-6","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-4-7","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"jeremiah-28-4-8","surface":"גָּל֨וּת","lemma":"גָּלוּת","translit":"galvt","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1546"},{"id":"jeremiah-28-4-9","surface":"יְהוּדָ֜ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"jeremiah-28-4-10","surface":"הַבָּאִ֣ים","lemma":"בּוֹא","translit":"haba'iym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H935"},{"id":"jeremiah-28-4-11","surface":"בָּבֶ֗לָה","lemma":"בָּבֶל","translit":"babelah","morph":"Noun proper + Suffix dual","glosses":[],"strongs":"H894"},{"id":"jeremiah-28-4-12","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"jeremiah-28-4-13","surface":"מֵשִׁ֛יב","lemma":"שׁוּב","translit":"meshiyb","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H7725"},{"id":"jeremiah-28-4-14","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-28-4-15","surface":"הַמָּק֥וֹם","lemma":"מָקוֹם","translit":"hamaqvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4725"},{"id":"jeremiah-28-4-16","surface":"הַזֶּ֖ה","lemma":"זֶה","translit":"hazeh","morph":"Particle dual + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"jeremiah-28-4-17","surface":"נְאֻם","lemma":"נְאֻם","translit":"ne'um","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5002"},{"id":"jeremiah-28-4-18","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-4-19","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-28-4-20","surface":"אֶשְׁבֹּ֔ר","lemma":"שָׁבַר","translit":"'eshebor","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H7665"},{"id":"jeremiah-28-4-21","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-4-22","surface":"עֹ֖ל","lemma":"עֹל","translit":"`ol","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5923"},{"id":"jeremiah-28-4-23","surface":"מֶ֥לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-28-4-24","surface":"בָּבֶֽל","lemma":"בָּבֶל","translit":"babel","morph":"Noun proper","glosses":[],"strongs":"H894"}],"language":"hebrew"},{"ref":"Jeremiah 28:5","englishText":"Then the prophet Jeremiah said to the prophet Hananiah in the presence of the priests, and in the presence of all the people who stood in Yahweh’s house,","tokens":[{"id":"jeremiah-28-5-0","surface":"וַיֹּ֨אמֶר֙","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-5-1","surface":"יִרְמְיָ֣ה","lemma":"יִרְמְיָה","translit":"yiremeyah","morph":"Noun proper","glosses":[],"strongs":"H3414"},{"id":"jeremiah-28-5-2","surface":"הַנָּבִ֔יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-5-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-28-5-4","surface":"חֲנַנְיָ֖ה","lemma":"חֲנַנְיָה","translit":"chnaneyah","morph":"Noun proper","glosses":[],"strongs":"H2608"},{"id":"jeremiah-28-5-5","surface":"הַנָּבִ֑יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-5-6","surface":"לְעֵינֵ֤י","lemma":"עַיִן","translit":"le`eyney","morph":"Preposition + Noun common dual construct","glosses":[],"strongs":"H5869"},{"id":"jeremiah-28-5-7","surface":"הַכֹּֽהֲנִים֙","lemma":"כֹּהֵן","translit":"hakohniym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3548"},{"id":"jeremiah-28-5-8","surface":"וּלְעֵינֵ֣י","lemma":"עַיִן","translit":"vle`eyney","morph":"Conjunction + Preposition + Noun common dual construct","glosses":[],"strongs":"H5869"},{"id":"jeremiah-28-5-9","surface":"כָל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"jeremiah-28-5-10","surface":"הָעָ֔ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"jeremiah-28-5-11","surface":"הָעֹמְדִ֖ים","lemma":"עָמַד","translit":"ha`omediym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H5975"},{"id":"jeremiah-28-5-12","surface":"בְּבֵ֥ית","lemma":"בַּיִת","translit":"bebeyt","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"jeremiah-28-5-13","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Jeremiah 28:6","englishText":"even the prophet Jeremiah said, Amen: Yahweh do so; Yahweh perform your words which you have prophesied, to bring again the vessels of Yahweh’s house, and all them of the captivity, from Babylon to this place.","tokens":[{"id":"jeremiah-28-6-0","surface":"וַיֹּ֨אמֶר֙","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-6-1","surface":"יִרְמְיָ֣ה","lemma":"יִרְמְיָה","translit":"yiremeyah","morph":"Noun proper","glosses":[],"strongs":"H3414"},{"id":"jeremiah-28-6-2","surface":"הַנָּבִ֔יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-6-3","surface":"אָמֵ֕ן","lemma":"אָמֵן","translit":"'amen","morph":"Adverb","glosses":[],"strongs":"H543"},{"id":"jeremiah-28-6-4","surface":"כֵּ֖ן","lemma":"כֵּן","translit":"ken","morph":"Particle masculine","glosses":[],"strongs":"H3651"},{"id":"jeremiah-28-6-5","surface":"יַעֲשֶׂ֣ה","lemma":"עָשָׂה","translit":"ya`sheh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H6213"},{"id":"jeremiah-28-6-6","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-6-7","surface":"יָקֵ֤ם","lemma":"קוּם","translit":"yaqem","morph":"Verb Hiphil Jussive 3rd masculine singular","glosses":[],"strongs":"H6965"},{"id":"jeremiah-28-6-8","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-6-9","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-6-10","surface":"דְּבָרֶ֔יךָ","lemma":"דָּבָר","translit":"debareyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1697"},{"id":"jeremiah-28-6-11","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-28-6-12","surface":"נִבֵּ֗אתָ","lemma":"נָבָא","translit":"nibe'ta","morph":"Verb Niphal Participle 2nd masculine singular","glosses":[],"strongs":"H5012"},{"id":"jeremiah-28-6-13","surface":"לְהָשִׁ֞יב","lemma":"שׁוּב","translit":"lehashiyb","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H7725"},{"id":"jeremiah-28-6-14","surface":"כְּלֵ֤י","lemma":"כְּלִי","translit":"keley","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H3627"},{"id":"jeremiah-28-6-15","surface":"בֵית","lemma":"בַּיִת","translit":"beyt","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"jeremiah-28-6-16","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-6-17","surface":"וְכָל","lemma":"כֹּל","translit":"vekal","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"jeremiah-28-6-18","surface":"הַגּוֹלָ֔ה","lemma":"גּוֹלָה","translit":"hagvolah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H1473"},{"id":"jeremiah-28-6-19","surface":"מִבָּבֶ֖ל","lemma":"בָּבֶל","translit":"mibabel","morph":"Preposition + Noun proper","glosses":[],"strongs":"H894"},{"id":"jeremiah-28-6-20","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-28-6-21","surface":"הַמָּק֥וֹם","lemma":"מָקוֹם","translit":"hamaqvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4725"},{"id":"jeremiah-28-6-22","surface":"הַזֶּֽה","lemma":"זֶה","translit":"hazeh","morph":"Particle dual + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"}],"language":"hebrew"},{"ref":"Jeremiah 28:7","englishText":"Nevertheless hear you now this word that I speak in your ears, and in the ears of all the people:","tokens":[{"id":"jeremiah-28-7-0","surface":"אַךְ","lemma":"אַךְ","translit":"'ake","morph":"Particle absolute","glosses":[],"strongs":"H389"},{"id":"jeremiah-28-7-1","surface":"שְׁמַֽע","lemma":"שָׁמַע","translit":"shema`","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H8085"},{"id":"jeremiah-28-7-2","surface":"נָא֙","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"jeremiah-28-7-3","surface":"הַדָּבָ֣ר","lemma":"דָּבָר","translit":"hadabar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1697"},{"id":"jeremiah-28-7-4","surface":"הַזֶּ֔ה","lemma":"זֶה","translit":"hazeh","morph":"Particle dual + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"jeremiah-28-7-5","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-28-7-6","surface":"אָנֹכִ֖י","lemma":"אָנֹכִי","translit":"'anokiy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H595"},{"id":"jeremiah-28-7-7","surface":"דֹּבֵ֣ר","lemma":"דָבַר","translit":"dober","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H1696"},{"id":"jeremiah-28-7-8","surface":"בְּאָזְנֶ֑יךָ","lemma":"אֹזֶן","translit":"be'azeneyka","morph":"Preposition + Noun common feminine dual construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H241"},{"id":"jeremiah-28-7-9","surface":"וּבְאָזְנֵ֖י","lemma":"אֹזֶן","translit":"vbe'azeney","morph":"Conjunction + Preposition + Noun common feminine dual construct","glosses":[],"strongs":"H241"},{"id":"jeremiah-28-7-10","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"jeremiah-28-7-11","surface":"הָעָֽם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"}],"language":"hebrew"},{"ref":"Jeremiah 28:8","englishText":"The prophets who have been before me and before you of old prophesied against many countries, and against great kingdoms, of war, and of evil, and of pestilence.","tokens":[{"id":"jeremiah-28-8-0","surface":"הַנְּבִיאִ֗ים","lemma":"נָבִיא","translit":"hanebiy'iym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-8-1","surface":"אֲשֶׁ֨ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-28-8-2","surface":"הָי֧וּ","lemma":"הָיָה","translit":"hayv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H1961"},{"id":"jeremiah-28-8-3","surface":"לְפָנַ֛י","lemma":"פָּנִים","translit":"lepanay","morph":"Preposition + Noun common plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6440"},{"id":"jeremiah-28-8-4","surface":"וּלְפָנֶ֖יךָ","lemma":"פָּנִים","translit":"vlepaneyka","morph":"Conjunction + Preposition + Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6440"},{"id":"jeremiah-28-8-5","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"jeremiah-28-8-6","surface":"הָֽעוֹלָ֑ם","lemma":"עוֹלָם","translit":"ha`volam","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5769"},{"id":"jeremiah-28-8-7","surface":"וַיִּנָּ֨בְא֜וּ","lemma":"נָבָא","translit":"vayinabe'v","morph":"Conjunction + Verb Niphal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H5012"},{"id":"jeremiah-28-8-8","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-28-8-9","surface":"אֲרָצ֤וֹת","lemma":"אֶרֶץ","translit":"'ratsvot","morph":"Noun common plural absolute","glosses":[],"strongs":"H776"},{"id":"jeremiah-28-8-10","surface":"רַבּוֹת֙","lemma":"רַב","translit":"rabvot","morph":"Adjective","glosses":[],"strongs":"H7227"},{"id":"jeremiah-28-8-11","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-28-8-12","surface":"מַמְלָכ֣וֹת","lemma":"מַמְלָכָה","translit":"mamelakvot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H4467"},{"id":"jeremiah-28-8-13","surface":"גְּדֹל֔וֹת","lemma":"גָּדוֹל","translit":"gedolvot","morph":"Adjective","glosses":[],"strongs":"H1419"},{"id":"jeremiah-28-8-14","surface":"לְמִלְחָמָ֖ה","lemma":"מִלְחָמָה","translit":"lemilechamah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H4421"},{"id":"jeremiah-28-8-15","surface":"וּלְרָעָ֥ה","lemma":"רַע","translit":"vlera`ah","morph":"Conjunction + Preposition + Adjective","glosses":[],"strongs":"H7451"},{"id":"jeremiah-28-8-16","surface":"וּלְדָֽבֶר","lemma":"דֶּבֶר","translit":"vledaber","morph":"Conjunction + Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H1698"}],"language":"hebrew"},{"ref":"Jeremiah 28:9","englishText":"The prophet who prophesies of peace, when the word of the prophet shall happen, then shall the prophet be known, that Yahweh has truly sent him.","tokens":[{"id":"jeremiah-28-9-0","surface":"הַנָּבִ֕יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-9-1","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-28-9-2","surface":"יִנָּבֵ֖א","lemma":"נָבָא","translit":"yinabe'","morph":"Verb Niphal Imperative 3rd masculine singular","glosses":[],"strongs":"H5012"},{"id":"jeremiah-28-9-3","surface":"לְשָׁל֑וֹם","lemma":"שָׁלוֹם","translit":"leshalvom","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H7965"},{"id":"jeremiah-28-9-4","surface":"בְּבֹא֙","lemma":"בּוֹא","translit":"bebo'","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H935"},{"id":"jeremiah-28-9-5","surface":"דְּבַ֣ר","lemma":"דָּבָר","translit":"debar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"jeremiah-28-9-6","surface":"הַנָּבִ֗יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-9-7","surface":"יִוָּדַע֙","lemma":"יָדַע","translit":"yivada`","morph":"Verb Niphal Imperative 3rd masculine singular","glosses":[],"strongs":"H3045"},{"id":"jeremiah-28-9-8","surface":"הַנָּבִ֔יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-9-9","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-28-9-10","surface":"שְׁלָח֥וֹ","lemma":"שָׁלַח","translit":"shelachvo","morph":"Verb Qal Participle 3rd masculine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7971"},{"id":"jeremiah-28-9-11","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-9-12","surface":"בֶּאֱמֶֽת","lemma":"אֶמֶת","translit":"be'met","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H571"}],"language":"hebrew"},{"ref":"Jeremiah 28:10","englishText":"Then Hananiah the prophet took the bar from off the prophet Jeremiah’s neck, and broke it.","tokens":[{"id":"jeremiah-28-10-0","surface":"וַיִּקַּ֞ח","lemma":"לָקַח","translit":"vayiqach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3947"},{"id":"jeremiah-28-10-1","surface":"חֲנַנְיָ֤ה","lemma":"חֲנַנְיָה","translit":"chnaneyah","morph":"Noun proper","glosses":[],"strongs":"H2608"},{"id":"jeremiah-28-10-2","surface":"הַנָּבִיא֙","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-10-3","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-10-4","surface":"הַמּוֹטָ֔ה","lemma":"מוֹטָה","translit":"hamvotah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4133"},{"id":"jeremiah-28-10-5","surface":"מֵעַ֕ל","lemma":"עַל","translit":"me`al","morph":"Preposition + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-28-10-6","surface":"צַוַּ֖אר","lemma":"צַוָּאר","translit":"tsava'r","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H6677"},{"id":"jeremiah-28-10-7","surface":"יִרְמְיָ֣ה","lemma":"יִרְמְיָה","translit":"yiremeyah","morph":"Noun proper","glosses":[],"strongs":"H3414"},{"id":"jeremiah-28-10-8","surface":"הַנָּבִ֑יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-10-9","surface":"וַֽיִּשְׁבְּרֵֽהוּ","lemma":"שָׁבַר","translit":"vayisheberehv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7665"}],"language":"hebrew"},{"ref":"Jeremiah 28:11","englishText":"Hananiah spoke in the presence of all the people, saying, Thus says Yahweh: Even so will I break the yoke of Nebuchadnezzar king of Babylon within two full years from off the neck of all the nations. The prophet Jeremiah went his way.","tokens":[{"id":"jeremiah-28-11-0","surface":"וַיֹּ֣אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-11-1","surface":"חֲנַנְיָה֩","lemma":"חֲנַנְיָה","translit":"chnaneyah","morph":"Noun proper","glosses":[],"strongs":"H2608"},{"id":"jeremiah-28-11-2","surface":"לְעֵינֵ֨י","lemma":"עַיִן","translit":"le`eyney","morph":"Preposition + Noun common dual construct","glosses":[],"strongs":"H5869"},{"id":"jeremiah-28-11-3","surface":"כָל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"jeremiah-28-11-4","surface":"הָעָ֜ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"jeremiah-28-11-5","surface":"לֵאמֹ֗ר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-11-6","surface":"כֹּה֮","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"jeremiah-28-11-7","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-11-8","surface":"יְהוָה֒","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-11-9","surface":"כָּ֣כָה","lemma":"כָּכָה","translit":"kakah","morph":"Adverb","glosses":[],"strongs":"H3602"},{"id":"jeremiah-28-11-10","surface":"אֶשְׁבֹּ֞ר","lemma":"שָׁבַר","translit":"'eshebor","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H7665"},{"id":"jeremiah-28-11-11","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-11-12","surface":"עֹ֣ל","lemma":"עֹל","translit":"`ol","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5923"},{"id":"jeremiah-28-11-13","surface":"נְבֻֽכַדְנֶאצַּ֣ר","lemma":"נְבוּכַדְנֶאצַּר","translit":"nebukadene'tsar","morph":"Noun proper","glosses":[],"strongs":"H5019"},{"id":"jeremiah-28-11-14","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-28-11-15","surface":"בָּבֶ֗ל","lemma":"בָּבֶל","translit":"babel","morph":"Noun proper","glosses":[],"strongs":"H894"},{"id":"jeremiah-28-11-16","surface":"בְּעוֹד֙","lemma":"עוֹד","translit":"be`vod","morph":"Preposition + Adverb","glosses":[],"strongs":"H5750"},{"id":"jeremiah-28-11-17","surface":"שְׁנָתַ֣יִם","lemma":"שָׁנֶה","translit":"shenatayim","morph":"Noun common feminine dual absolute","glosses":[],"strongs":"H8141"},{"id":"jeremiah-28-11-18","surface":"יָמִ֔ים","lemma":"יוֹם","translit":"yamiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H3117"},{"id":"jeremiah-28-11-19","surface":"מֵעַ֕ל","lemma":"עַל","translit":"me`al","morph":"Preposition + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-28-11-20","surface":"צַוַּ֖אר","lemma":"צַוָּאר","translit":"tsava'r","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H6677"},{"id":"jeremiah-28-11-21","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"jeremiah-28-11-22","surface":"הַגּוֹיִ֑ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"jeremiah-28-11-23","surface":"וַיֵּ֛לֶךְ","lemma":"יָלַךְ","translit":"vayeleke","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3212"},{"id":"jeremiah-28-11-24","surface":"יִרְמְיָ֥ה","lemma":"יִרְמְיָה","translit":"yiremeyah","morph":"Noun proper","glosses":[],"strongs":"H3414"},{"id":"jeremiah-28-11-25","surface":"הַנָּבִ֖יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-11-26","surface":"לְדַרְכּֽוֹ","lemma":"דֶּרֶךְ","translit":"ledarekvo","morph":"Preposition + Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1870"}],"language":"hebrew"},{"ref":"Jeremiah 28:12","englishText":"Then Yahweh’s word came to Jeremiah, after that Hananiah the prophet had broken the bar from off the neck of the prophet Jeremiah, saying,","tokens":[{"id":"jeremiah-28-12-0","surface":"וַיְהִ֥י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"jeremiah-28-12-1","surface":"דְבַר","lemma":"דָּבָר","translit":"debar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"jeremiah-28-12-2","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-12-3","surface":"אֶֽל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-28-12-4","surface":"יִרְמְיָ֑ה","lemma":"יִרְמְיָה","translit":"yiremeyah","morph":"Noun proper","glosses":[],"strongs":"H3414"},{"id":"jeremiah-28-12-5","surface":"אַ֠חֲרֵי","lemma":"אַחַר","translit":"'achrey","morph":"Preposition","glosses":[],"strongs":"H310"},{"id":"jeremiah-28-12-6","surface":"שְׁב֞וֹר","lemma":"שָׁבַר","translit":"shebvor","morph":"Verb Qal Infinitive Construct","glosses":[],"strongs":"H7665"},{"id":"jeremiah-28-12-7","surface":"חֲנַנְיָ֤ה","lemma":"חֲנַנְיָה","translit":"chnaneyah","morph":"Noun proper","glosses":[],"strongs":"H2608"},{"id":"jeremiah-28-12-8","surface":"הַנָּבִיא֙","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-12-9","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-12-10","surface":"הַמּוֹטָ֔ה","lemma":"מוֹטָה","translit":"hamvotah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4133"},{"id":"jeremiah-28-12-11","surface":"מֵעַ֗ל","lemma":"עַל","translit":"me`al","morph":"Preposition + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-28-12-12","surface":"צַוַּ֛אר","lemma":"צַוָּאר","translit":"tsava'r","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H6677"},{"id":"jeremiah-28-12-13","surface":"יִרְמְיָ֥ה","lemma":"יִרְמְיָה","translit":"yiremeyah","morph":"Noun proper","glosses":[],"strongs":"H3414"},{"id":"jeremiah-28-12-14","surface":"הַנָּבִ֖יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-12-15","surface":"לֵאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Jeremiah 28:13","englishText":"Go, and tell Hananiah, saying, Thus says Yahweh: You have broken the bars of wood; but you have made in their place bars of iron.","tokens":[{"id":"jeremiah-28-13-0","surface":"הָלוֹךְ֩","lemma":"הָלַךְ","translit":"halvoke","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H1980"},{"id":"jeremiah-28-13-1","surface":"וְאָמַרְתָּ֨","lemma":"אָמַר","translit":"ve'amareta","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-13-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-28-13-3","surface":"חֲנַנְיָ֜ה","lemma":"חֲנַנְיָה","translit":"chnaneyah","morph":"Noun proper","glosses":[],"strongs":"H2608"},{"id":"jeremiah-28-13-4","surface":"לֵאמֹ֗ר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-13-5","surface":"כֹּ֚ה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"jeremiah-28-13-6","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-13-7","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-13-8","surface":"מוֹטֹ֥ת","lemma":"מוֹטָה","translit":"mvotot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H4133"},{"id":"jeremiah-28-13-9","surface":"עֵ֖ץ","lemma":"עֵץ","translit":"`ets","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6086"},{"id":"jeremiah-28-13-10","surface":"שָׁבָ֑רְתָּ","lemma":"שָׁבַר","translit":"shabareta","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H7665"},{"id":"jeremiah-28-13-11","surface":"וְעָשִׂ֥יתָ","lemma":"עָשָׂה","translit":"ve`ashiyta","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H6213"},{"id":"jeremiah-28-13-12","surface":"תַחְתֵּיהֶ֖ן","lemma":"תַּחַת","translit":"tacheteyhen","morph":"Preposition + Suffix plural 3rd feminine","glosses":[],"strongs":"H8478"},{"id":"jeremiah-28-13-13","surface":"מֹט֥וֹת","lemma":"מוֹטָה","translit":"motvot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H4133"},{"id":"jeremiah-28-13-14","surface":"בַּרְזֶֽל","lemma":"בַּרְזֶל","translit":"barezel","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1270"}],"language":"hebrew"},{"ref":"Jeremiah 28:14","englishText":"For thus says Yahweh of Armies, the God of Israel: I have put a yoke of iron on the neck of all these nations, that they may serve Nebuchadnezzar king of Babylon; and they shall serve him: and I have given him the animals of the field also.","tokens":[{"id":"jeremiah-28-14-0","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-28-14-1","surface":"כֹֽה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"jeremiah-28-14-2","surface":"אָמַר֩","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-14-3","surface":"יְהוָ֨ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-14-4","surface":"צְבָא֜וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"jeremiah-28-14-5","surface":"אֱלֹהֵ֣י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"jeremiah-28-14-6","surface":"יִשְׂרָאֵ֗ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"jeremiah-28-14-7","surface":"עֹ֣ל","lemma":"עֹל","translit":"`ol","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5923"},{"id":"jeremiah-28-14-8","surface":"בַּרְזֶ֡ל","lemma":"בַּרְזֶל","translit":"barezel","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1270"},{"id":"jeremiah-28-14-9","surface":"נָתַ֜תִּי","lemma":"נָתַן","translit":"natatiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H5414"},{"id":"jeremiah-28-14-10","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-28-14-11","surface":"צַוַּ֣אר","lemma":"צַוָּאר","translit":"tsava'r","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H6677"},{"id":"jeremiah-28-14-12","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"jeremiah-28-14-13","surface":"הַגּוֹיִ֣ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"jeremiah-28-14-14","surface":"הָאֵ֗לֶּה","lemma":"אֵלֶּה","translit":"ha'eleh","morph":"Particle dual + Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"jeremiah-28-14-15","surface":"לַעֲבֹ֛ד","lemma":"עָבַד","translit":"la`bod","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H5647"},{"id":"jeremiah-28-14-16","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-14-17","surface":"נְבֻכַדְנֶאצַּ֥ר","lemma":"נְבוּכַדְנֶאצַּר","translit":"nebukadene'tsar","morph":"Noun proper","glosses":[],"strongs":"H5019"},{"id":"jeremiah-28-14-18","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-28-14-19","surface":"בָּבֶ֖ל","lemma":"בָּבֶל","translit":"babel","morph":"Noun proper","glosses":[],"strongs":"H894"},{"id":"jeremiah-28-14-20","surface":"וַעֲבָדֻ֑הוּ","lemma":"עָבַד","translit":"va`baduhv","morph":"Conjunction + Verb Qal Perfect 3rd common plural + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5647"},{"id":"jeremiah-28-14-21","surface":"וְגַ֛ם","lemma":"גַּם","translit":"vegam","morph":"Conjunction + Particle absolute","glosses":[],"strongs":"H1571"},{"id":"jeremiah-28-14-22","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-14-23","surface":"חַיַּ֥ת","lemma":"חַי","translit":"chayat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H2416"},{"id":"jeremiah-28-14-24","surface":"הַשָּׂדֶ֖ה","lemma":"שָׂדֶה","translit":"hashadeh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7704"},{"id":"jeremiah-28-14-25","surface":"נָתַ֥תִּי","lemma":"נָתַן","translit":"natatiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H5414"},{"id":"jeremiah-28-14-26","surface":"לֽוֹ","lemma":"לֽוֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]}],"language":"hebrew"},{"ref":"Jeremiah 28:15","englishText":"Then the prophet Jeremiah said to Hananiah the prophet, Hear now, Hananiah: Yahweh has not sent you; but you make this people to trust in a lie.","tokens":[{"id":"jeremiah-28-15-0","surface":"וַיֹּ֨אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-15-1","surface":"יִרְמְיָ֧ה","lemma":"יִרְמְיָה","translit":"yiremeyah","morph":"Noun proper","glosses":[],"strongs":"H3414"},{"id":"jeremiah-28-15-2","surface":"הַנָּבִ֛יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-15-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-28-15-4","surface":"חֲנַנְיָ֥ה","lemma":"חֲנַנְיָה","translit":"chnaneyah","morph":"Noun proper","glosses":[],"strongs":"H2608"},{"id":"jeremiah-28-15-5","surface":"הַנָּבִ֖יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-15-6","surface":"שְׁמַֽע","lemma":"שָׁמַע","translit":"shema`","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H8085"},{"id":"jeremiah-28-15-7","surface":"נָ֣א","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"jeremiah-28-15-8","surface":"חֲנַנְיָ֑ה","lemma":"חֲנַנְיָה","translit":"chnaneyah","morph":"Noun proper","glosses":[],"strongs":"H2608"},{"id":"jeremiah-28-15-9","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"jeremiah-28-15-10","surface":"שְׁלָחֲךָ֣","lemma":"שָׁלַח","translit":"shelachka","morph":"Verb Qal Participle 3rd masculine singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7971"},{"id":"jeremiah-28-15-11","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-15-12","surface":"וְאַתָּ֗ה","lemma":"אַתָּה","translit":"ve'atah","morph":"Conjunction + Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"jeremiah-28-15-13","surface":"הִבְטַ֛חְתָּ","lemma":"בָּטַח","translit":"hibetacheta","morph":"Verb Hiphil Participle 2nd masculine singular","glosses":[],"strongs":"H982"},{"id":"jeremiah-28-15-14","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-28-15-15","surface":"הָעָ֥ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"jeremiah-28-15-16","surface":"הַזֶּ֖ה","lemma":"זֶה","translit":"hazeh","morph":"Particle dual + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"jeremiah-28-15-17","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-28-15-18","surface":"שָֽׁקֶר","lemma":"שֶׁקֶר","translit":"shaqer","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8267"}],"language":"hebrew"},{"ref":"Jeremiah 28:16","englishText":"Therefore thus says Yahweh, Behold, I will send you away from off the surface of the earth: this year you shall die, because you have spoken rebellion against Yahweh.","tokens":[{"id":"jeremiah-28-16-0","surface":"לָכֵ֗ן","lemma":"כֵּן","translit":"laken","morph":"Preposition + Adverb","glosses":[],"strongs":"H3651"},{"id":"jeremiah-28-16-1","surface":"כֹּ֚ה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"jeremiah-28-16-2","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-28-16-3","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-28-16-4","surface":"הִנְנִי֙","lemma":"הֵן","translit":"hineniy","morph":"Particle masculine + Suffix plural 1st common singular","glosses":[],"strongs":"H2005"},{"id":"jeremiah-28-16-5","surface":"מְשַֽׁלֵּֽחֲךָ֔","lemma":"שָׁלַח","translit":"meshalechka","morph":"Verb Piel Passive Participle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7971"},{"id":"jeremiah-28-16-6","surface":"מֵעַ֖ל","lemma":"עַל","translit":"me`al","morph":"Preposition + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-28-16-7","surface":"פְּנֵ֣י","lemma":"פָּנִים","translit":"peney","morph":"Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"jeremiah-28-16-8","surface":"הָאֲדָמָ֑ה","lemma":"אֲדָמָה","translit":"ha'damah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H127"},{"id":"jeremiah-28-16-9","surface":"הַשָּׁנָה֙","lemma":"שָׁנֶה","translit":"hashanah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H8141"},{"id":"jeremiah-28-16-10","surface":"אַתָּ֣ה","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"jeremiah-28-16-11","surface":"מֵ֔ת","lemma":"מוּת","translit":"met","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H4191"},{"id":"jeremiah-28-16-12","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-28-16-13","surface":"סָרָ֥ה","lemma":"סָרָה","translit":"sarah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H5627"},{"id":"jeremiah-28-16-14","surface":"דִבַּ֖רְתָּ","lemma":"דָבַר","translit":"dibareta","morph":"Verb Piel Participle 2nd masculine singular","glosses":[],"strongs":"H1696"},{"id":"jeremiah-28-16-15","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-28-16-16","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Jeremiah 28:17","englishText":"So Hananiah the prophet died the same year in the seventh month.   ","tokens":[{"id":"jeremiah-28-17-0","surface":"וַיָּ֛מָת","lemma":"מוּת","translit":"vayamat","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H4191"},{"id":"jeremiah-28-17-1","surface":"חֲנַנְיָ֥ה","lemma":"חֲנַנְיָה","translit":"chnaneyah","morph":"Noun proper","glosses":[],"strongs":"H2608"},{"id":"jeremiah-28-17-2","surface":"הַנָּבִ֖יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-28-17-3","surface":"בַּשָּׁנָ֣ה","lemma":"שָׁנֶה","translit":"bashanah","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H8141"},{"id":"jeremiah-28-17-4","surface":"הַהִ֑יא","lemma":"הוּא","translit":"hahiy'","morph":"Particle dual + Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"jeremiah-28-17-5","surface":"בַּחֹ֖דֶשׁ","lemma":"חֹדֶשׁ","translit":"bachodesh","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2320"},{"id":"jeremiah-28-17-6","surface":"הַשְּׁבִיעִֽי","lemma":"שְׁבִיעִי","translit":"hashebiy`iy","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7637"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "jeremiah-28",
+  "name": "Jeremiah",
+  "chapter": 28,
+  "verses": [
+    {
+      "ref": "Jeremiah 28:1",
+      "englishText": "That same year, in the beginning of the reign of Zedekiah king of Judah, in the fourth year, in the fifth month, Hananiah the son of Azzur, the prophet, who was of Gibeon, spoke to me in Yahweh’s house, in the presence of the priests and of all the people, saying,",
+      "tokens": [
+        {
+          "id": "jeremiah-28-1-0",
+          "surface": "וַיְהִ֣י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "jeremiah-28-1-1",
+          "surface": "בַּשָּׁנָ֣ה",
+          "lemma": "שָׁנֶה",
+          "translit": "bashanah",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "jeremiah-28-1-2",
+          "surface": "הַהִ֗יא",
+          "lemma": "הוּא",
+          "translit": "hahiy'",
+          "morph": "Particle dual + Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "jeremiah-28-1-3",
+          "surface": "בְּרֵאשִׁית֙",
+          "lemma": "רֵאשִׁית",
+          "translit": "bere'shiyt",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H7225"
+        },
+        {
+          "id": "jeremiah-28-1-4",
+          "surface": "מַמְלֶ֨כֶת֙",
+          "lemma": "מַמְלָכָה",
+          "translit": "mameleket",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4467"
+        },
+        {
+          "id": "jeremiah-28-1-5",
+          "surface": "צִדְקִיָּ֣ה",
+          "lemma": "צִדְקִיָּה",
+          "translit": "tsideqiyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6667"
+        },
+        {
+          "id": "jeremiah-28-1-6",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-28-1-7",
+          "surface": "יְהוּדָ֔ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "jeremiah-28-1-8",
+          "surface": "בשנת",
+          "lemma": "שָׁנֶה",
+          "translit": "bshnt",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "jeremiah-28-1-9",
+          "surface": "בַּשָּׁנָה֙",
+          "lemma": "שָׁנֶה",
+          "translit": "bashanah",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "jeremiah-28-1-10",
+          "surface": "הָֽרְבִעִ֔ית",
+          "lemma": "רְבִיעִי",
+          "translit": "harebi`iyt",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7243"
+        },
+        {
+          "id": "jeremiah-28-1-11",
+          "surface": "בַּחֹ֖דֶשׁ",
+          "lemma": "חֹדֶשׁ",
+          "translit": "bachodesh",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2320"
+        },
+        {
+          "id": "jeremiah-28-1-12",
+          "surface": "הַחֲמִישִׁ֑י",
+          "lemma": "חֲמִישִׁי",
+          "translit": "hachmiyshiy",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H2549"
+        },
+        {
+          "id": "jeremiah-28-1-13",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-1-14",
+          "surface": "אֵלַ֡י",
+          "lemma": "אֵל",
+          "translit": "'elay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-28-1-15",
+          "surface": "חֲנַנְיָה֩",
+          "lemma": "חֲנַנְיָה",
+          "translit": "chnaneyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2608"
+        },
+        {
+          "id": "jeremiah-28-1-16",
+          "surface": "בֶן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "jeremiah-28-1-17",
+          "surface": "עַזּ֨וּר",
+          "lemma": "עַזּוּר",
+          "translit": "`azvr",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5809"
+        },
+        {
+          "id": "jeremiah-28-1-18",
+          "surface": "הַנָּבִ֜יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-1-19",
+          "surface": "אֲשֶׁ֤ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-28-1-20",
+          "surface": "מִגִּבְעוֹן֙",
+          "lemma": "גִּבְעוֹן",
+          "translit": "migibe`von",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1391"
+        },
+        {
+          "id": "jeremiah-28-1-21",
+          "surface": "בְּבֵ֣ית",
+          "lemma": "בַּיִת",
+          "translit": "bebeyt",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "jeremiah-28-1-22",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-1-23",
+          "surface": "לְעֵינֵ֧י",
+          "lemma": "עַיִן",
+          "translit": "le`eyney",
+          "morph": "Preposition + Noun common dual construct",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "jeremiah-28-1-24",
+          "surface": "הַכֹּהֲנִ֛ים",
+          "lemma": "כֹּהֵן",
+          "translit": "hakohniym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "jeremiah-28-1-25",
+          "surface": "וְכָל",
+          "lemma": "כֹּל",
+          "translit": "vekal",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "jeremiah-28-1-26",
+          "surface": "הָעָ֖ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "jeremiah-28-1-27",
+          "surface": "לֵאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:2",
+      "englishText": "Thus speaks Yahweh of Armies, the God of Israel, saying, I have broken the yoke of the king of Babylon.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-2-0",
+          "surface": "כֹּֽה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "jeremiah-28-2-1",
+          "surface": "אָמַ֞ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-2-2",
+          "surface": "יְהוָ֧ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-2-3",
+          "surface": "צְבָא֛וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "jeremiah-28-2-4",
+          "surface": "אֱלֹהֵ֥י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "jeremiah-28-2-5",
+          "surface": "יִשְׂרָאֵ֖ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "jeremiah-28-2-6",
+          "surface": "לֵאמֹ֑ר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-2-7",
+          "surface": "שָׁבַ֞רְתִּי",
+          "lemma": "שָׁבַר",
+          "translit": "shabaretiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H7665"
+        },
+        {
+          "id": "jeremiah-28-2-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-2-9",
+          "surface": "עֹ֖ל",
+          "lemma": "עֹל",
+          "translit": "`ol",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5923"
+        },
+        {
+          "id": "jeremiah-28-2-10",
+          "surface": "מֶ֥לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-28-2-11",
+          "surface": "בָּבֶֽל",
+          "lemma": "בָּבֶל",
+          "translit": "babel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H894"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:3",
+      "englishText": "Within two full years will I bring again into this place all the vessels of Yahweh’s house, that Nebuchadnezzar king of Babylon took away from this place, and carried to Babylon:",
+      "tokens": [
+        {
+          "id": "jeremiah-28-3-0",
+          "surface": "בְּע֣וֹד",
+          "lemma": "עוֹד",
+          "translit": "be`vod",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H5750"
+        },
+        {
+          "id": "jeremiah-28-3-1",
+          "surface": "שְׁנָתַ֣יִם",
+          "lemma": "שָׁנֶה",
+          "translit": "shenatayim",
+          "morph": "Noun common feminine dual absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "jeremiah-28-3-2",
+          "surface": "יָמִ֗ים",
+          "lemma": "יוֹם",
+          "translit": "yamiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "jeremiah-28-3-3",
+          "surface": "אֲנִ֤י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "jeremiah-28-3-4",
+          "surface": "מֵשִׁיב֙",
+          "lemma": "שׁוּב",
+          "translit": "meshiyb",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "jeremiah-28-3-5",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-28-3-6",
+          "surface": "הַמָּק֣וֹם",
+          "lemma": "מָקוֹם",
+          "translit": "hamaqvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4725"
+        },
+        {
+          "id": "jeremiah-28-3-7",
+          "surface": "הַזֶּ֔ה",
+          "lemma": "זֶה",
+          "translit": "hazeh",
+          "morph": "Particle dual + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "jeremiah-28-3-8",
+          "surface": "אֶֽת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-3-9",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "jeremiah-28-3-10",
+          "surface": "כְּלֵ֖י",
+          "lemma": "כְּלִי",
+          "translit": "keley",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H3627"
+        },
+        {
+          "id": "jeremiah-28-3-11",
+          "surface": "בֵּ֣ית",
+          "lemma": "בַּיִת",
+          "translit": "beyt",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "jeremiah-28-3-12",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-3-13",
+          "surface": "אֲשֶׁ֨ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-28-3-14",
+          "surface": "לָקַ֜ח",
+          "lemma": "לָקַח",
+          "translit": "laqach",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "jeremiah-28-3-15",
+          "surface": "נְבוּכַדנֶאצַּ֤ר",
+          "lemma": "נְבוּכַדְנֶאצַּר",
+          "translit": "nebvkadne'tsar",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5019"
+        },
+        {
+          "id": "jeremiah-28-3-16",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-28-3-17",
+          "surface": "בָּבֶל֙",
+          "lemma": "בָּבֶל",
+          "translit": "babel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H894"
+        },
+        {
+          "id": "jeremiah-28-3-18",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "jeremiah-28-3-19",
+          "surface": "הַמָּק֣וֹם",
+          "lemma": "מָקוֹם",
+          "translit": "hamaqvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4725"
+        },
+        {
+          "id": "jeremiah-28-3-20",
+          "surface": "הַזֶּ֔ה",
+          "lemma": "זֶה",
+          "translit": "hazeh",
+          "morph": "Particle dual + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "jeremiah-28-3-21",
+          "surface": "וַיְבִיאֵ֖ם",
+          "lemma": "בּוֹא",
+          "translit": "vayebiy'em",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "jeremiah-28-3-22",
+          "surface": "בָּבֶֽל",
+          "lemma": "בָּבֶל",
+          "translit": "babel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H894"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:4",
+      "englishText": "and I will bring again to this place Jeconiah the son of Jehoiakim, king of Judah, with all the captives of Judah, who went to Babylon, says Yahweh; for I will break the yoke of the king of Babylon.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-4-0",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-4-1",
+          "surface": "יְכָנְיָ֣ה",
+          "lemma": "יְכׇנְיָה",
+          "translit": "yekaneyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3204"
+        },
+        {
+          "id": "jeremiah-28-4-2",
+          "surface": "בֶן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "jeremiah-28-4-3",
+          "surface": "יְהוֹיָקִ֣ים",
+          "lemma": "יְהוֹיָקִים",
+          "translit": "yehvoyaqiym",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3079"
+        },
+        {
+          "id": "jeremiah-28-4-4",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-28-4-5",
+          "surface": "יְ֠הוּדָה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "jeremiah-28-4-6",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-4-7",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "jeremiah-28-4-8",
+          "surface": "גָּל֨וּת",
+          "lemma": "גָּלוּת",
+          "translit": "galvt",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1546"
+        },
+        {
+          "id": "jeremiah-28-4-9",
+          "surface": "יְהוּדָ֜ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "jeremiah-28-4-10",
+          "surface": "הַבָּאִ֣ים",
+          "lemma": "בּוֹא",
+          "translit": "haba'iym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "jeremiah-28-4-11",
+          "surface": "בָּבֶ֗לָה",
+          "lemma": "בָּבֶל",
+          "translit": "babelah",
+          "morph": "Noun proper + Suffix dual",
+          "glosses": [],
+          "strongs": "H894"
+        },
+        {
+          "id": "jeremiah-28-4-12",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "jeremiah-28-4-13",
+          "surface": "מֵשִׁ֛יב",
+          "lemma": "שׁוּב",
+          "translit": "meshiyb",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "jeremiah-28-4-14",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-28-4-15",
+          "surface": "הַמָּק֥וֹם",
+          "lemma": "מָקוֹם",
+          "translit": "hamaqvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4725"
+        },
+        {
+          "id": "jeremiah-28-4-16",
+          "surface": "הַזֶּ֖ה",
+          "lemma": "זֶה",
+          "translit": "hazeh",
+          "morph": "Particle dual + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "jeremiah-28-4-17",
+          "surface": "נְאֻם",
+          "lemma": "נְאֻם",
+          "translit": "ne'um",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5002"
+        },
+        {
+          "id": "jeremiah-28-4-18",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-4-19",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-28-4-20",
+          "surface": "אֶשְׁבֹּ֔ר",
+          "lemma": "שָׁבַר",
+          "translit": "'eshebor",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7665"
+        },
+        {
+          "id": "jeremiah-28-4-21",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-4-22",
+          "surface": "עֹ֖ל",
+          "lemma": "עֹל",
+          "translit": "`ol",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5923"
+        },
+        {
+          "id": "jeremiah-28-4-23",
+          "surface": "מֶ֥לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-28-4-24",
+          "surface": "בָּבֶֽל",
+          "lemma": "בָּבֶל",
+          "translit": "babel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H894"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:5",
+      "englishText": "Then the prophet Jeremiah said to the prophet Hananiah in the presence of the priests, and in the presence of all the people who stood in Yahweh’s house,",
+      "tokens": [
+        {
+          "id": "jeremiah-28-5-0",
+          "surface": "וַיֹּ֨אמֶר֙",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-5-1",
+          "surface": "יִרְמְיָ֣ה",
+          "lemma": "יִרְמְיָה",
+          "translit": "yiremeyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3414"
+        },
+        {
+          "id": "jeremiah-28-5-2",
+          "surface": "הַנָּבִ֔יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-5-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-28-5-4",
+          "surface": "חֲנַנְיָ֖ה",
+          "lemma": "חֲנַנְיָה",
+          "translit": "chnaneyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2608"
+        },
+        {
+          "id": "jeremiah-28-5-5",
+          "surface": "הַנָּבִ֑יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-5-6",
+          "surface": "לְעֵינֵ֤י",
+          "lemma": "עַיִן",
+          "translit": "le`eyney",
+          "morph": "Preposition + Noun common dual construct",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "jeremiah-28-5-7",
+          "surface": "הַכֹּֽהֲנִים֙",
+          "lemma": "כֹּהֵן",
+          "translit": "hakohniym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "jeremiah-28-5-8",
+          "surface": "וּלְעֵינֵ֣י",
+          "lemma": "עַיִן",
+          "translit": "vle`eyney",
+          "morph": "Conjunction + Preposition + Noun common dual construct",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "jeremiah-28-5-9",
+          "surface": "כָל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "jeremiah-28-5-10",
+          "surface": "הָעָ֔ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "jeremiah-28-5-11",
+          "surface": "הָעֹמְדִ֖ים",
+          "lemma": "עָמַד",
+          "translit": "ha`omediym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5975"
+        },
+        {
+          "id": "jeremiah-28-5-12",
+          "surface": "בְּבֵ֥ית",
+          "lemma": "בַּיִת",
+          "translit": "bebeyt",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "jeremiah-28-5-13",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:6",
+      "englishText": "even the prophet Jeremiah said, Amen: Yahweh do so; Yahweh perform your words which you have prophesied, to bring again the vessels of Yahweh’s house, and all them of the captivity, from Babylon to this place.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-6-0",
+          "surface": "וַיֹּ֨אמֶר֙",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-6-1",
+          "surface": "יִרְמְיָ֣ה",
+          "lemma": "יִרְמְיָה",
+          "translit": "yiremeyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3414"
+        },
+        {
+          "id": "jeremiah-28-6-2",
+          "surface": "הַנָּבִ֔יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-6-3",
+          "surface": "אָמֵ֕ן",
+          "lemma": "אָמֵן",
+          "translit": "'amen",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H543"
+        },
+        {
+          "id": "jeremiah-28-6-4",
+          "surface": "כֵּ֖ן",
+          "lemma": "כֵּן",
+          "translit": "ken",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "jeremiah-28-6-5",
+          "surface": "יַעֲשֶׂ֣ה",
+          "lemma": "עָשָׂה",
+          "translit": "ya`sheh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "jeremiah-28-6-6",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-6-7",
+          "surface": "יָקֵ֤ם",
+          "lemma": "קוּם",
+          "translit": "yaqem",
+          "morph": "Verb Hiphil Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "jeremiah-28-6-8",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-6-9",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-6-10",
+          "surface": "דְּבָרֶ֔יךָ",
+          "lemma": "דָּבָר",
+          "translit": "debareyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "jeremiah-28-6-11",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-28-6-12",
+          "surface": "נִבֵּ֗אתָ",
+          "lemma": "נָבָא",
+          "translit": "nibe'ta",
+          "morph": "Verb Niphal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5012"
+        },
+        {
+          "id": "jeremiah-28-6-13",
+          "surface": "לְהָשִׁ֞יב",
+          "lemma": "שׁוּב",
+          "translit": "lehashiyb",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "jeremiah-28-6-14",
+          "surface": "כְּלֵ֤י",
+          "lemma": "כְּלִי",
+          "translit": "keley",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H3627"
+        },
+        {
+          "id": "jeremiah-28-6-15",
+          "surface": "בֵית",
+          "lemma": "בַּיִת",
+          "translit": "beyt",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "jeremiah-28-6-16",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-6-17",
+          "surface": "וְכָל",
+          "lemma": "כֹּל",
+          "translit": "vekal",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "jeremiah-28-6-18",
+          "surface": "הַגּוֹלָ֔ה",
+          "lemma": "גּוֹלָה",
+          "translit": "hagvolah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1473"
+        },
+        {
+          "id": "jeremiah-28-6-19",
+          "surface": "מִבָּבֶ֖ל",
+          "lemma": "בָּבֶל",
+          "translit": "mibabel",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H894"
+        },
+        {
+          "id": "jeremiah-28-6-20",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-28-6-21",
+          "surface": "הַמָּק֥וֹם",
+          "lemma": "מָקוֹם",
+          "translit": "hamaqvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4725"
+        },
+        {
+          "id": "jeremiah-28-6-22",
+          "surface": "הַזֶּֽה",
+          "lemma": "זֶה",
+          "translit": "hazeh",
+          "morph": "Particle dual + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:7",
+      "englishText": "Nevertheless hear you now this word that I speak in your ears, and in the ears of all the people:",
+      "tokens": [
+        {
+          "id": "jeremiah-28-7-0",
+          "surface": "אַךְ",
+          "lemma": "אַךְ",
+          "translit": "'ake",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H389"
+        },
+        {
+          "id": "jeremiah-28-7-1",
+          "surface": "שְׁמַֽע",
+          "lemma": "שָׁמַע",
+          "translit": "shema`",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "jeremiah-28-7-2",
+          "surface": "נָא֙",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "jeremiah-28-7-3",
+          "surface": "הַדָּבָ֣ר",
+          "lemma": "דָּבָר",
+          "translit": "hadabar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "jeremiah-28-7-4",
+          "surface": "הַזֶּ֔ה",
+          "lemma": "זֶה",
+          "translit": "hazeh",
+          "morph": "Particle dual + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "jeremiah-28-7-5",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-28-7-6",
+          "surface": "אָנֹכִ֖י",
+          "lemma": "אָנֹכִי",
+          "translit": "'anokiy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H595"
+        },
+        {
+          "id": "jeremiah-28-7-7",
+          "surface": "דֹּבֵ֣ר",
+          "lemma": "דָבַר",
+          "translit": "dober",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "jeremiah-28-7-8",
+          "surface": "בְּאָזְנֶ֑יךָ",
+          "lemma": "אֹזֶן",
+          "translit": "be'azeneyka",
+          "morph": "Preposition + Noun common feminine dual construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H241"
+        },
+        {
+          "id": "jeremiah-28-7-9",
+          "surface": "וּבְאָזְנֵ֖י",
+          "lemma": "אֹזֶן",
+          "translit": "vbe'azeney",
+          "morph": "Conjunction + Preposition + Noun common feminine dual construct",
+          "glosses": [],
+          "strongs": "H241"
+        },
+        {
+          "id": "jeremiah-28-7-10",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "jeremiah-28-7-11",
+          "surface": "הָעָֽם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:8",
+      "englishText": "The prophets who have been before me and before you of old prophesied against many countries, and against great kingdoms, of war, and of evil, and of pestilence.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-8-0",
+          "surface": "הַנְּבִיאִ֗ים",
+          "lemma": "נָבִיא",
+          "translit": "hanebiy'iym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-8-1",
+          "surface": "אֲשֶׁ֨ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-28-8-2",
+          "surface": "הָי֧וּ",
+          "lemma": "הָיָה",
+          "translit": "hayv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "jeremiah-28-8-3",
+          "surface": "לְפָנַ֛י",
+          "lemma": "פָּנִים",
+          "translit": "lepanay",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "jeremiah-28-8-4",
+          "surface": "וּלְפָנֶ֖יךָ",
+          "lemma": "פָּנִים",
+          "translit": "vlepaneyka",
+          "morph": "Conjunction + Preposition + Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "jeremiah-28-8-5",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "jeremiah-28-8-6",
+          "surface": "הָֽעוֹלָ֑ם",
+          "lemma": "עוֹלָם",
+          "translit": "ha`volam",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        },
+        {
+          "id": "jeremiah-28-8-7",
+          "surface": "וַיִּנָּ֨בְא֜וּ",
+          "lemma": "נָבָא",
+          "translit": "vayinabe'v",
+          "morph": "Conjunction + Verb Niphal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5012"
+        },
+        {
+          "id": "jeremiah-28-8-8",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-28-8-9",
+          "surface": "אֲרָצ֤וֹת",
+          "lemma": "אֶרֶץ",
+          "translit": "'ratsvot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "jeremiah-28-8-10",
+          "surface": "רַבּוֹת֙",
+          "lemma": "רַב",
+          "translit": "rabvot",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7227"
+        },
+        {
+          "id": "jeremiah-28-8-11",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-28-8-12",
+          "surface": "מַמְלָכ֣וֹת",
+          "lemma": "מַמְלָכָה",
+          "translit": "mamelakvot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H4467"
+        },
+        {
+          "id": "jeremiah-28-8-13",
+          "surface": "גְּדֹל֔וֹת",
+          "lemma": "גָּדוֹל",
+          "translit": "gedolvot",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1419"
+        },
+        {
+          "id": "jeremiah-28-8-14",
+          "surface": "לְמִלְחָמָ֖ה",
+          "lemma": "מִלְחָמָה",
+          "translit": "lemilechamah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4421"
+        },
+        {
+          "id": "jeremiah-28-8-15",
+          "surface": "וּלְרָעָ֥ה",
+          "lemma": "רַע",
+          "translit": "vlera`ah",
+          "morph": "Conjunction + Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H7451"
+        },
+        {
+          "id": "jeremiah-28-8-16",
+          "surface": "וּלְדָֽבֶר",
+          "lemma": "דֶּבֶר",
+          "translit": "vledaber",
+          "morph": "Conjunction + Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1698"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:9",
+      "englishText": "The prophet who prophesies of peace, when the word of the prophet shall happen, then shall the prophet be known, that Yahweh has truly sent him.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-9-0",
+          "surface": "הַנָּבִ֕יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-9-1",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-28-9-2",
+          "surface": "יִנָּבֵ֖א",
+          "lemma": "נָבָא",
+          "translit": "yinabe'",
+          "morph": "Verb Niphal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5012"
+        },
+        {
+          "id": "jeremiah-28-9-3",
+          "surface": "לְשָׁל֑וֹם",
+          "lemma": "שָׁלוֹם",
+          "translit": "leshalvom",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7965"
+        },
+        {
+          "id": "jeremiah-28-9-4",
+          "surface": "בְּבֹא֙",
+          "lemma": "בּוֹא",
+          "translit": "bebo'",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "jeremiah-28-9-5",
+          "surface": "דְּבַ֣ר",
+          "lemma": "דָּבָר",
+          "translit": "debar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "jeremiah-28-9-6",
+          "surface": "הַנָּבִ֗יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-9-7",
+          "surface": "יִוָּדַע֙",
+          "lemma": "יָדַע",
+          "translit": "yivada`",
+          "morph": "Verb Niphal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "jeremiah-28-9-8",
+          "surface": "הַנָּבִ֔יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-9-9",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-28-9-10",
+          "surface": "שְׁלָח֥וֹ",
+          "lemma": "שָׁלַח",
+          "translit": "shelachvo",
+          "morph": "Verb Qal Participle 3rd masculine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "jeremiah-28-9-11",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-9-12",
+          "surface": "בֶּאֱמֶֽת",
+          "lemma": "אֶמֶת",
+          "translit": "be'met",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H571"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:10",
+      "englishText": "Then Hananiah the prophet took the bar from off the prophet Jeremiah’s neck, and broke it.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-10-0",
+          "surface": "וַיִּקַּ֞ח",
+          "lemma": "לָקַח",
+          "translit": "vayiqach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "jeremiah-28-10-1",
+          "surface": "חֲנַנְיָ֤ה",
+          "lemma": "חֲנַנְיָה",
+          "translit": "chnaneyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2608"
+        },
+        {
+          "id": "jeremiah-28-10-2",
+          "surface": "הַנָּבִיא֙",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-10-3",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-10-4",
+          "surface": "הַמּוֹטָ֔ה",
+          "lemma": "מוֹטָה",
+          "translit": "hamvotah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4133"
+        },
+        {
+          "id": "jeremiah-28-10-5",
+          "surface": "מֵעַ֕ל",
+          "lemma": "עַל",
+          "translit": "me`al",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-28-10-6",
+          "surface": "צַוַּ֖אר",
+          "lemma": "צַוָּאר",
+          "translit": "tsava'r",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6677"
+        },
+        {
+          "id": "jeremiah-28-10-7",
+          "surface": "יִרְמְיָ֣ה",
+          "lemma": "יִרְמְיָה",
+          "translit": "yiremeyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3414"
+        },
+        {
+          "id": "jeremiah-28-10-8",
+          "surface": "הַנָּבִ֑יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-10-9",
+          "surface": "וַֽיִּשְׁבְּרֵֽהוּ",
+          "lemma": "שָׁבַר",
+          "translit": "vayisheberehv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7665"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:11",
+      "englishText": "Hananiah spoke in the presence of all the people, saying, Thus says Yahweh: Even so will I break the yoke of Nebuchadnezzar king of Babylon within two full years from off the neck of all the nations. The prophet Jeremiah went his way.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-11-0",
+          "surface": "וַיֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-11-1",
+          "surface": "חֲנַנְיָה֩",
+          "lemma": "חֲנַנְיָה",
+          "translit": "chnaneyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2608"
+        },
+        {
+          "id": "jeremiah-28-11-2",
+          "surface": "לְעֵינֵ֨י",
+          "lemma": "עַיִן",
+          "translit": "le`eyney",
+          "morph": "Preposition + Noun common dual construct",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "jeremiah-28-11-3",
+          "surface": "כָל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "jeremiah-28-11-4",
+          "surface": "הָעָ֜ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "jeremiah-28-11-5",
+          "surface": "לֵאמֹ֗ר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-11-6",
+          "surface": "כֹּה֮",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "jeremiah-28-11-7",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-11-8",
+          "surface": "יְהוָה֒",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-11-9",
+          "surface": "כָּ֣כָה",
+          "lemma": "כָּכָה",
+          "translit": "kakah",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3602"
+        },
+        {
+          "id": "jeremiah-28-11-10",
+          "surface": "אֶשְׁבֹּ֞ר",
+          "lemma": "שָׁבַר",
+          "translit": "'eshebor",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7665"
+        },
+        {
+          "id": "jeremiah-28-11-11",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-11-12",
+          "surface": "עֹ֣ל",
+          "lemma": "עֹל",
+          "translit": "`ol",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5923"
+        },
+        {
+          "id": "jeremiah-28-11-13",
+          "surface": "נְבֻֽכַדְנֶאצַּ֣ר",
+          "lemma": "נְבוּכַדְנֶאצַּר",
+          "translit": "nebukadene'tsar",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5019"
+        },
+        {
+          "id": "jeremiah-28-11-14",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-28-11-15",
+          "surface": "בָּבֶ֗ל",
+          "lemma": "בָּבֶל",
+          "translit": "babel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H894"
+        },
+        {
+          "id": "jeremiah-28-11-16",
+          "surface": "בְּעוֹד֙",
+          "lemma": "עוֹד",
+          "translit": "be`vod",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H5750"
+        },
+        {
+          "id": "jeremiah-28-11-17",
+          "surface": "שְׁנָתַ֣יִם",
+          "lemma": "שָׁנֶה",
+          "translit": "shenatayim",
+          "morph": "Noun common feminine dual absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "jeremiah-28-11-18",
+          "surface": "יָמִ֔ים",
+          "lemma": "יוֹם",
+          "translit": "yamiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "jeremiah-28-11-19",
+          "surface": "מֵעַ֕ל",
+          "lemma": "עַל",
+          "translit": "me`al",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-28-11-20",
+          "surface": "צַוַּ֖אר",
+          "lemma": "צַוָּאר",
+          "translit": "tsava'r",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6677"
+        },
+        {
+          "id": "jeremiah-28-11-21",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "jeremiah-28-11-22",
+          "surface": "הַגּוֹיִ֑ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "jeremiah-28-11-23",
+          "surface": "וַיֵּ֛לֶךְ",
+          "lemma": "יָלַךְ",
+          "translit": "vayeleke",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "jeremiah-28-11-24",
+          "surface": "יִרְמְיָ֥ה",
+          "lemma": "יִרְמְיָה",
+          "translit": "yiremeyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3414"
+        },
+        {
+          "id": "jeremiah-28-11-25",
+          "surface": "הַנָּבִ֖יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-11-26",
+          "surface": "לְדַרְכּֽוֹ",
+          "lemma": "דֶּרֶךְ",
+          "translit": "ledarekvo",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1870"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:12",
+      "englishText": "Then Yahweh’s word came to Jeremiah, after that Hananiah the prophet had broken the bar from off the neck of the prophet Jeremiah, saying,",
+      "tokens": [
+        {
+          "id": "jeremiah-28-12-0",
+          "surface": "וַיְהִ֥י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "jeremiah-28-12-1",
+          "surface": "דְבַר",
+          "lemma": "דָּבָר",
+          "translit": "debar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "jeremiah-28-12-2",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-12-3",
+          "surface": "אֶֽל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-28-12-4",
+          "surface": "יִרְמְיָ֑ה",
+          "lemma": "יִרְמְיָה",
+          "translit": "yiremeyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3414"
+        },
+        {
+          "id": "jeremiah-28-12-5",
+          "surface": "אַ֠חֲרֵי",
+          "lemma": "אַחַר",
+          "translit": "'achrey",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "jeremiah-28-12-6",
+          "surface": "שְׁב֞וֹר",
+          "lemma": "שָׁבַר",
+          "translit": "shebvor",
+          "morph": "Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7665"
+        },
+        {
+          "id": "jeremiah-28-12-7",
+          "surface": "חֲנַנְיָ֤ה",
+          "lemma": "חֲנַנְיָה",
+          "translit": "chnaneyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2608"
+        },
+        {
+          "id": "jeremiah-28-12-8",
+          "surface": "הַנָּבִיא֙",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-12-9",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-12-10",
+          "surface": "הַמּוֹטָ֔ה",
+          "lemma": "מוֹטָה",
+          "translit": "hamvotah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4133"
+        },
+        {
+          "id": "jeremiah-28-12-11",
+          "surface": "מֵעַ֗ל",
+          "lemma": "עַל",
+          "translit": "me`al",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-28-12-12",
+          "surface": "צַוַּ֛אר",
+          "lemma": "צַוָּאר",
+          "translit": "tsava'r",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6677"
+        },
+        {
+          "id": "jeremiah-28-12-13",
+          "surface": "יִרְמְיָ֥ה",
+          "lemma": "יִרְמְיָה",
+          "translit": "yiremeyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3414"
+        },
+        {
+          "id": "jeremiah-28-12-14",
+          "surface": "הַנָּבִ֖יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-12-15",
+          "surface": "לֵאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:13",
+      "englishText": "Go, and tell Hananiah, saying, Thus says Yahweh: You have broken the bars of wood; but you have made in their place bars of iron.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-13-0",
+          "surface": "הָלוֹךְ֩",
+          "lemma": "הָלַךְ",
+          "translit": "halvoke",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "jeremiah-28-13-1",
+          "surface": "וְאָמַרְתָּ֨",
+          "lemma": "אָמַר",
+          "translit": "ve'amareta",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-13-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-28-13-3",
+          "surface": "חֲנַנְיָ֜ה",
+          "lemma": "חֲנַנְיָה",
+          "translit": "chnaneyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2608"
+        },
+        {
+          "id": "jeremiah-28-13-4",
+          "surface": "לֵאמֹ֗ר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-13-5",
+          "surface": "כֹּ֚ה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "jeremiah-28-13-6",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-13-7",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-13-8",
+          "surface": "מוֹטֹ֥ת",
+          "lemma": "מוֹטָה",
+          "translit": "mvotot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H4133"
+        },
+        {
+          "id": "jeremiah-28-13-9",
+          "surface": "עֵ֖ץ",
+          "lemma": "עֵץ",
+          "translit": "`ets",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6086"
+        },
+        {
+          "id": "jeremiah-28-13-10",
+          "surface": "שָׁבָ֑רְתָּ",
+          "lemma": "שָׁבַר",
+          "translit": "shabareta",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7665"
+        },
+        {
+          "id": "jeremiah-28-13-11",
+          "surface": "וְעָשִׂ֥יתָ",
+          "lemma": "עָשָׂה",
+          "translit": "ve`ashiyta",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "jeremiah-28-13-12",
+          "surface": "תַחְתֵּיהֶ֖ן",
+          "lemma": "תַּחַת",
+          "translit": "tacheteyhen",
+          "morph": "Preposition + Suffix plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H8478"
+        },
+        {
+          "id": "jeremiah-28-13-13",
+          "surface": "מֹט֥וֹת",
+          "lemma": "מוֹטָה",
+          "translit": "motvot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H4133"
+        },
+        {
+          "id": "jeremiah-28-13-14",
+          "surface": "בַּרְזֶֽל",
+          "lemma": "בַּרְזֶל",
+          "translit": "barezel",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1270"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:14",
+      "englishText": "For thus says Yahweh of Armies, the God of Israel: I have put a yoke of iron on the neck of all these nations, that they may serve Nebuchadnezzar king of Babylon; and they shall serve him: and I have given him the animals of the field also.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-14-0",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-28-14-1",
+          "surface": "כֹֽה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "jeremiah-28-14-2",
+          "surface": "אָמַר֩",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-14-3",
+          "surface": "יְהוָ֨ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-14-4",
+          "surface": "צְבָא֜וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "jeremiah-28-14-5",
+          "surface": "אֱלֹהֵ֣י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "jeremiah-28-14-6",
+          "surface": "יִשְׂרָאֵ֗ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "jeremiah-28-14-7",
+          "surface": "עֹ֣ל",
+          "lemma": "עֹל",
+          "translit": "`ol",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5923"
+        },
+        {
+          "id": "jeremiah-28-14-8",
+          "surface": "בַּרְזֶ֡ל",
+          "lemma": "בַּרְזֶל",
+          "translit": "barezel",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1270"
+        },
+        {
+          "id": "jeremiah-28-14-9",
+          "surface": "נָתַ֜תִּי",
+          "lemma": "נָתַן",
+          "translit": "natatiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "jeremiah-28-14-10",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-28-14-11",
+          "surface": "צַוַּ֣אר",
+          "lemma": "צַוָּאר",
+          "translit": "tsava'r",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6677"
+        },
+        {
+          "id": "jeremiah-28-14-12",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "jeremiah-28-14-13",
+          "surface": "הַגּוֹיִ֣ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "jeremiah-28-14-14",
+          "surface": "הָאֵ֗לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "ha'eleh",
+          "morph": "Particle dual + Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "jeremiah-28-14-15",
+          "surface": "לַעֲבֹ֛ד",
+          "lemma": "עָבַד",
+          "translit": "la`bod",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5647"
+        },
+        {
+          "id": "jeremiah-28-14-16",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-14-17",
+          "surface": "נְבֻכַדְנֶאצַּ֥ר",
+          "lemma": "נְבוּכַדְנֶאצַּר",
+          "translit": "nebukadene'tsar",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5019"
+        },
+        {
+          "id": "jeremiah-28-14-18",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-28-14-19",
+          "surface": "בָּבֶ֖ל",
+          "lemma": "בָּבֶל",
+          "translit": "babel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H894"
+        },
+        {
+          "id": "jeremiah-28-14-20",
+          "surface": "וַעֲבָדֻ֑הוּ",
+          "lemma": "עָבַד",
+          "translit": "va`baduhv",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5647"
+        },
+        {
+          "id": "jeremiah-28-14-21",
+          "surface": "וְגַ֛ם",
+          "lemma": "גַּם",
+          "translit": "vegam",
+          "morph": "Conjunction + Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "jeremiah-28-14-22",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-14-23",
+          "surface": "חַיַּ֥ת",
+          "lemma": "חַי",
+          "translit": "chayat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H2416"
+        },
+        {
+          "id": "jeremiah-28-14-24",
+          "surface": "הַשָּׂדֶ֖ה",
+          "lemma": "שָׂדֶה",
+          "translit": "hashadeh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "jeremiah-28-14-25",
+          "surface": "נָתַ֥תִּי",
+          "lemma": "נָתַן",
+          "translit": "natatiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "jeremiah-28-14-26",
+          "surface": "לֽוֹ",
+          "lemma": "לֽוֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:15",
+      "englishText": "Then the prophet Jeremiah said to Hananiah the prophet, Hear now, Hananiah: Yahweh has not sent you; but you make this people to trust in a lie.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-15-0",
+          "surface": "וַיֹּ֨אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-15-1",
+          "surface": "יִרְמְיָ֧ה",
+          "lemma": "יִרְמְיָה",
+          "translit": "yiremeyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3414"
+        },
+        {
+          "id": "jeremiah-28-15-2",
+          "surface": "הַנָּבִ֛יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-15-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-28-15-4",
+          "surface": "חֲנַנְיָ֥ה",
+          "lemma": "חֲנַנְיָה",
+          "translit": "chnaneyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2608"
+        },
+        {
+          "id": "jeremiah-28-15-5",
+          "surface": "הַנָּבִ֖יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-15-6",
+          "surface": "שְׁמַֽע",
+          "lemma": "שָׁמַע",
+          "translit": "shema`",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "jeremiah-28-15-7",
+          "surface": "נָ֣א",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "jeremiah-28-15-8",
+          "surface": "חֲנַנְיָ֑ה",
+          "lemma": "חֲנַנְיָה",
+          "translit": "chnaneyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2608"
+        },
+        {
+          "id": "jeremiah-28-15-9",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "jeremiah-28-15-10",
+          "surface": "שְׁלָחֲךָ֣",
+          "lemma": "שָׁלַח",
+          "translit": "shelachka",
+          "morph": "Verb Qal Participle 3rd masculine singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "jeremiah-28-15-11",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-15-12",
+          "surface": "וְאַתָּ֗ה",
+          "lemma": "אַתָּה",
+          "translit": "ve'atah",
+          "morph": "Conjunction + Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "jeremiah-28-15-13",
+          "surface": "הִבְטַ֛חְתָּ",
+          "lemma": "בָּטַח",
+          "translit": "hibetacheta",
+          "morph": "Verb Hiphil Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H982"
+        },
+        {
+          "id": "jeremiah-28-15-14",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-28-15-15",
+          "surface": "הָעָ֥ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "jeremiah-28-15-16",
+          "surface": "הַזֶּ֖ה",
+          "lemma": "זֶה",
+          "translit": "hazeh",
+          "morph": "Particle dual + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "jeremiah-28-15-17",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-28-15-18",
+          "surface": "שָֽׁקֶר",
+          "lemma": "שֶׁקֶר",
+          "translit": "shaqer",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8267"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:16",
+      "englishText": "Therefore thus says Yahweh, Behold, I will send you away from off the surface of the earth: this year you shall die, because you have spoken rebellion against Yahweh.",
+      "tokens": [
+        {
+          "id": "jeremiah-28-16-0",
+          "surface": "לָכֵ֗ן",
+          "lemma": "כֵּן",
+          "translit": "laken",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "jeremiah-28-16-1",
+          "surface": "כֹּ֚ה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "jeremiah-28-16-2",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-28-16-3",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-28-16-4",
+          "surface": "הִנְנִי֙",
+          "lemma": "הֵן",
+          "translit": "hineniy",
+          "morph": "Particle masculine + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "jeremiah-28-16-5",
+          "surface": "מְשַֽׁלֵּֽחֲךָ֔",
+          "lemma": "שָׁלַח",
+          "translit": "meshalechka",
+          "morph": "Verb Piel Passive Participle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "jeremiah-28-16-6",
+          "surface": "מֵעַ֖ל",
+          "lemma": "עַל",
+          "translit": "me`al",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-28-16-7",
+          "surface": "פְּנֵ֣י",
+          "lemma": "פָּנִים",
+          "translit": "peney",
+          "morph": "Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "jeremiah-28-16-8",
+          "surface": "הָאֲדָמָ֑ה",
+          "lemma": "אֲדָמָה",
+          "translit": "ha'damah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H127"
+        },
+        {
+          "id": "jeremiah-28-16-9",
+          "surface": "הַשָּׁנָה֙",
+          "lemma": "שָׁנֶה",
+          "translit": "hashanah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "jeremiah-28-16-10",
+          "surface": "אַתָּ֣ה",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "jeremiah-28-16-11",
+          "surface": "מֵ֔ת",
+          "lemma": "מוּת",
+          "translit": "met",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "jeremiah-28-16-12",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-28-16-13",
+          "surface": "סָרָ֥ה",
+          "lemma": "סָרָה",
+          "translit": "sarah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5627"
+        },
+        {
+          "id": "jeremiah-28-16-14",
+          "surface": "דִבַּ֖רְתָּ",
+          "lemma": "דָבַר",
+          "translit": "dibareta",
+          "morph": "Verb Piel Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "jeremiah-28-16-15",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-28-16-16",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 28:17",
+      "englishText": "So Hananiah the prophet died the same year in the seventh month.   ",
+      "tokens": [
+        {
+          "id": "jeremiah-28-17-0",
+          "surface": "וַיָּ֛מָת",
+          "lemma": "מוּת",
+          "translit": "vayamat",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "jeremiah-28-17-1",
+          "surface": "חֲנַנְיָ֥ה",
+          "lemma": "חֲנַנְיָה",
+          "translit": "chnaneyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2608"
+        },
+        {
+          "id": "jeremiah-28-17-2",
+          "surface": "הַנָּבִ֖יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-28-17-3",
+          "surface": "בַּשָּׁנָ֣ה",
+          "lemma": "שָׁנֶה",
+          "translit": "bashanah",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "jeremiah-28-17-4",
+          "surface": "הַהִ֑יא",
+          "lemma": "הוּא",
+          "translit": "hahiy'",
+          "morph": "Particle dual + Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "jeremiah-28-17-5",
+          "surface": "בַּחֹ֖דֶשׁ",
+          "lemma": "חֹדֶשׁ",
+          "translit": "bachodesh",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2320"
+        },
+        {
+          "id": "jeremiah-28-17-6",
+          "surface": "הַשְּׁבִיעִֽי",
+          "lemma": "שְׁבִיעִי",
+          "translit": "hashebiy`iy",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7637"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

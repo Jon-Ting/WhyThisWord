@@ -1,1 +1,1244 @@
-{"id":"psalms-19","name":"Psalms","chapter":19,"verses":[{"ref":"Psalms 19:1","englishText":"    The heavens declare the glory of God. The expanse shows his handiwork. ","tokens":[{"id":"psalms-19-1-0","surface":"לַמְנַצֵּ֗חַ","lemma":"נָצַח","translit":"lamenatsecha","morph":"Preposition dual + Verb Piel Passive Participle","glosses":[],"strongs":"H5329"},{"id":"psalms-19-1-1","surface":"מִזְמ֥וֹר","lemma":"מִזְמוֹר","translit":"mizemvor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4210"},{"id":"psalms-19-1-2","surface":"לְדָוִֽד","lemma":"דָּוִד","translit":"ledavid","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1732"}],"language":"hebrew"},{"ref":"Psalms 19:2","englishText":"Day after day they pour out speech, and night after night they display knowledge. ","tokens":[{"id":"psalms-19-2-0","surface":"הַשָּׁמַ֗יִם","lemma":"שָׁמַיִם","translit":"hashamayim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"psalms-19-2-1","surface":"מְֽסַפְּרִ֥ים","lemma":"סָפַר","translit":"mesaperiym","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H5608"},{"id":"psalms-19-2-2","surface":"כְּבֽוֹד","lemma":"כָּבוֹד","translit":"kebvod","morph":"Noun common singular construct","glosses":[],"strongs":"H3519"},{"id":"psalms-19-2-3","surface":"אֵ֑ל","lemma":"אֵל","translit":"'el","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H410"},{"id":"psalms-19-2-4","surface":"וּֽמַעֲשֵׂ֥ה","lemma":"מַעֲשֶׂה","translit":"vma`sheh","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H4639"},{"id":"psalms-19-2-5","surface":"יָ֝דָ֗יו","lemma":"יָד","translit":"yadayv","morph":"Noun common dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3027"},{"id":"psalms-19-2-6","surface":"מַגִּ֥יד","lemma":"נָגַד","translit":"magiyd","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H5046"},{"id":"psalms-19-2-7","surface":"הָרָקִֽיעַ","lemma":"רָקִיעַ","translit":"haraqiy`a","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7549"}],"language":"hebrew"},{"ref":"Psalms 19:3","englishText":"There is no speech nor language, where their voice is not heard. ","tokens":[{"id":"psalms-19-3-0","surface":"י֣וֹם","lemma":"יוֹם","translit":"yvom","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"psalms-19-3-1","surface":"לְ֭יוֹם","lemma":"יוֹם","translit":"leyvom","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"psalms-19-3-2","surface":"יַבִּ֣יעַֽ","lemma":"נָבַע","translit":"yabiy`a","morph":"Verb Hiphil Imperative 3rd masculine singular","glosses":[],"strongs":"H5042"},{"id":"psalms-19-3-3","surface":"אֹ֑מֶר","lemma":"אֹמֶר","translit":"'omer","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H562"},{"id":"psalms-19-3-4","surface":"וְלַ֥יְלָה","lemma":"לַיִל","translit":"velayelah","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H3915"},{"id":"psalms-19-3-5","surface":"לְּ֝לַ֗יְלָה","lemma":"לַיִל","translit":"lelayelah","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H3915"},{"id":"psalms-19-3-6","surface":"יְחַוֶּה","lemma":"חָוָה","translit":"yechaveh","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H2331"},{"id":"psalms-19-3-7","surface":"דָּֽעַת","lemma":"דַּעַת","translit":"da`at","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H1847"}],"language":"hebrew"},{"ref":"Psalms 19:4","englishText":"Their voice has gone out through all the earth, their words to the end of the world. In them he has set a tent for the sun, ","tokens":[{"id":"psalms-19-4-0","surface":"אֵֽין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"psalms-19-4-1","surface":"אֹ֭מֶר","lemma":"אֹמֶר","translit":"'omer","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H562"},{"id":"psalms-19-4-2","surface":"וְאֵ֣ין","lemma":"אַיִן","translit":"ve'eyn","morph":"Conjunction + Particle","glosses":[],"strongs":"H369"},{"id":"psalms-19-4-3","surface":"דְּבָרִ֑ים","lemma":"דָּבָר","translit":"debariym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1697"},{"id":"psalms-19-4-4","surface":"בְּ֝לִ֗י","lemma":"בְּלִי","translit":"beliy","morph":"Particle","glosses":[],"strongs":"H1097"},{"id":"psalms-19-4-5","surface":"נִשְׁמָ֥ע","lemma":"שָׁמַע","translit":"nishema`","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H8085"},{"id":"psalms-19-4-6","surface":"קוֹלָֽם","lemma":"קוֹל","translit":"qvolam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H6963"}],"language":"hebrew"},{"ref":"Psalms 19:5","englishText":"which is as a bridegroom coming out of his room, like a strong man rejoicing to run his course. ","tokens":[{"id":"psalms-19-5-0","surface":"בְּכָל","lemma":"כֹּל","translit":"bekal","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-19-5-1","surface":"הָאָ֨רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"psalms-19-5-2","surface":"יָ֘צָ֤א","lemma":"יָצָא","translit":"yatsa'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H3318"},{"id":"psalms-19-5-3","surface":"קַוָּ֗ם","lemma":"קַו","translit":"qavam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H6957"},{"id":"psalms-19-5-4","surface":"וּבִקְצֵ֣ה","lemma":"קָצֶה","translit":"vbiqetseh","morph":"Conjunction + Preposition + Noun common singular construct","glosses":[],"strongs":"H7097"},{"id":"psalms-19-5-5","surface":"תֵ֭בֵל","lemma":"תֵּבֵל","translit":"tebel","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8398"},{"id":"psalms-19-5-6","surface":"מִלֵּיהֶ֑ם","lemma":"מִלָּה","translit":"mileyhem","morph":"Noun common feminine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H4405"},{"id":"psalms-19-5-7","surface":"לַ֝שֶּׁ֗מֶשׁ","lemma":"שֶׁמֶשׁ","translit":"lashemesh","morph":"Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H8121"},{"id":"psalms-19-5-8","surface":"שָֽׂם","lemma":"שׂוּם","translit":"sham","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H7760"},{"id":"psalms-19-5-9","surface":"אֹ֥הֶל","lemma":"אֹהֶל","translit":"'ohel","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H168"},{"id":"psalms-19-5-10","surface":"בָּהֶֽם","lemma":"בָּהֶֽם","translit":"bahem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]}],"language":"hebrew"},{"ref":"Psalms 19:6","englishText":"His going out is from the end of the heavens, his circuit to its ends; There is nothing hidden from its heat. ","tokens":[{"id":"psalms-19-6-0","surface":"וְה֗וּא","lemma":"הוּא","translit":"vehv'","morph":"Conjunction + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"psalms-19-6-1","surface":"כְּ֭חָתָן","lemma":"חָתָן","translit":"kechatan","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H2860"},{"id":"psalms-19-6-2","surface":"יֹצֵ֣א","lemma":"יָצָא","translit":"yotse'","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3318"},{"id":"psalms-19-6-3","surface":"מֵחֻפָּת֑וֹ","lemma":"חֻפָּה","translit":"mechupatvo","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2646"},{"id":"psalms-19-6-4","surface":"יָשִׂ֥ישׂ","lemma":"שׂוּשׂ","translit":"yashiysh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7797"},{"id":"psalms-19-6-5","surface":"כְּ֝גִבּ֗וֹר","lemma":"גִּבּוֹר","translit":"kegibvor","morph":"Preposition + Adjective","glosses":[],"strongs":"H1368"},{"id":"psalms-19-6-6","surface":"לָר֥וּץ","lemma":"רוּץ","translit":"larvts","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H7323"},{"id":"psalms-19-6-7","surface":"אֹֽרַח","lemma":"אֹרַח","translit":"'orach","morph":"Noun common singular absolute","glosses":[],"strongs":"H734"}],"language":"hebrew"},{"ref":"Psalms 19:7","englishText":"Yahweh’s law is perfect, restoring the soul. Yahweh’s testimony is sure, making wise the simple. ","tokens":[{"id":"psalms-19-7-0","surface":"מִקְצֵ֤ה","lemma":"קָצֶה","translit":"miqetseh","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7097"},{"id":"psalms-19-7-1","surface":"הַשָּׁמַ֨יִם","lemma":"שָׁמַיִם","translit":"hashamayim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"psalms-19-7-2","surface":"מֽוֹצָא֗וֹ","lemma":"מוֹצָא","translit":"mvotsa'vo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H4161"},{"id":"psalms-19-7-3","surface":"וּתְקוּפָת֥וֹ","lemma":"תְּקוּפָה","translit":"vteqvpatvo","morph":"Conjunction + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H8622"},{"id":"psalms-19-7-4","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"psalms-19-7-5","surface":"קְצוֹתָ֑ם","lemma":"קָצָה","translit":"qetsvotam","morph":"Noun common plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H7098"},{"id":"psalms-19-7-6","surface":"וְאֵ֥ין","lemma":"אַיִן","translit":"ve'eyn","morph":"Conjunction + Particle","glosses":[],"strongs":"H369"},{"id":"psalms-19-7-7","surface":"נִ֝סְתָּ֗ר","lemma":"סָתַר","translit":"nisetar","morph":"Verb Niphal s","glosses":[],"strongs":"H5641"},{"id":"psalms-19-7-8","surface":"מֵֽחַמָּתוֹ","lemma":"חַמָּה","translit":"mechamatvo","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2535"}],"language":"hebrew"},{"ref":"Psalms 19:8","englishText":"Yahweh’s precepts are right, rejoicing the heart. Yahweh’s commandment is pure, enlightening the eyes. ","tokens":[{"id":"psalms-19-8-0","surface":"תּ֘וֹרַ֤ת","lemma":"תּוֹרָה","translit":"tvorat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H8451"},{"id":"psalms-19-8-1","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-19-8-2","surface":"תְּ֭מִימָה","lemma":"תָּמִים","translit":"temiymah","morph":"Adjective","glosses":[],"strongs":"H8549"},{"id":"psalms-19-8-3","surface":"מְשִׁ֣יבַת","lemma":"שׁוּב","translit":"meshiybat","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H7725"},{"id":"psalms-19-8-4","surface":"נָ֑פֶשׁ","lemma":"נֶפֶשׁ","translit":"napesh","morph":"Noun common singular absolute","glosses":[],"strongs":"H5315"},{"id":"psalms-19-8-5","surface":"עֵד֥וּת","lemma":"עֵדוּת","translit":"`edvt","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H5715"},{"id":"psalms-19-8-6","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-19-8-7","surface":"נֶ֝אֱמָנָ֗ה","lemma":"אָמַן","translit":"ne'manah","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H539"},{"id":"psalms-19-8-8","surface":"מַחְכִּ֥ימַת","lemma":"חָכַם","translit":"machekiymat","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H2449"},{"id":"psalms-19-8-9","surface":"פֶּֽתִי","lemma":"פְּתִי","translit":"petiy","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6612"}],"language":"hebrew"},{"ref":"Psalms 19:9","englishText":"The fear of Yahweh is clean, enduring forever. Yahweh’s ordinances are true, and righteous altogether. ","tokens":[{"id":"psalms-19-9-0","surface":"פִּקּ֘וּדֵ֤י","lemma":"פִּקּוּד","translit":"piqvdey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H6490"},{"id":"psalms-19-9-1","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-19-9-2","surface":"יְ֭שָׁרִים","lemma":"יָשָׁר","translit":"yeshariym","morph":"Adjective","glosses":[],"strongs":"H3477"},{"id":"psalms-19-9-3","surface":"מְשַׂמְּחֵי","lemma":"שָׂמַח","translit":"meshamechey","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H8055"},{"id":"psalms-19-9-4","surface":"לֵ֑ב","lemma":"לֵב","translit":"leb","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3820"},{"id":"psalms-19-9-5","surface":"מִצְוַ֥ת","lemma":"מִצְוָה","translit":"mitsevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H4687"},{"id":"psalms-19-9-6","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-19-9-7","surface":"בָּ֝רָ֗ה","lemma":"בַּר","translit":"barah","morph":"Adjective","glosses":[],"strongs":"H1249"},{"id":"psalms-19-9-8","surface":"מְאִירַ֥ת","lemma":"אוֹר","translit":"me'iyrat","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H215"},{"id":"psalms-19-9-9","surface":"עֵינָֽיִם","lemma":"עַיִן","translit":"`eynayim","morph":"Noun common dual absolute","glosses":[],"strongs":"H5869"}],"language":"hebrew"},{"ref":"Psalms 19:10","englishText":"More to be desired are they than gold, yes, than much fine gold; sweeter also than honey and the extract of the honeycomb. ","tokens":[{"id":"psalms-19-10-0","surface":"יִרְאַ֤ת","lemma":"יִרְאָה","translit":"yire'at","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H3374"},{"id":"psalms-19-10-1","surface":"יְהוָ֨ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-19-10-2","surface":"טְהוֹרָה֮","lemma":"טָהוֹר","translit":"tehvorah","morph":"Adjective","glosses":[],"strongs":"H2889"},{"id":"psalms-19-10-3","surface":"עוֹמֶ֪דֶת","lemma":"עָמַד","translit":"`vomedet","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H5975"},{"id":"psalms-19-10-4","surface":"לָ֫עַ֥ד","lemma":"עַד","translit":"la`ad","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H5703"},{"id":"psalms-19-10-5","surface":"מִֽשְׁפְּטֵי","lemma":"מִשְׁפָּט","translit":"mishepetey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H4941"},{"id":"psalms-19-10-6","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-19-10-7","surface":"אֱמֶ֑ת","lemma":"אֶמֶת","translit":"'met","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H571"},{"id":"psalms-19-10-8","surface":"צָֽדְק֥וּ","lemma":"צָדַק","translit":"tsadeqv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H6663"},{"id":"psalms-19-10-9","surface":"יַחְדָּֽו","lemma":"יַחַד","translit":"yachedav","morph":"Adverb","glosses":[],"strongs":"H3162"}],"language":"hebrew"},{"ref":"Psalms 19:11","englishText":"Moreover by them is your servant warned. In keeping them there is great reward. ","tokens":[{"id":"psalms-19-11-0","surface":"הַֽנֶּחֱמָדִ֗ים","lemma":"חָמַד","translit":"hanechmadiym","morph":"Particle dual + Verb Niphal Passive Participle","glosses":[],"strongs":"H2530"},{"id":"psalms-19-11-1","surface":"מִ֭זָּהָב","lemma":"זָהָב","translit":"mizahab","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H2091"},{"id":"psalms-19-11-2","surface":"וּמִפַּ֣ז","lemma":"פָּז","translit":"vmipaz","morph":"Conjunction + Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H6337"},{"id":"psalms-19-11-3","surface":"רָ֑ב","lemma":"רַב","translit":"rab","morph":"Adjective","glosses":[],"strongs":"H7227"},{"id":"psalms-19-11-4","surface":"וּמְתוּקִ֥ים","lemma":"מָתוֹק","translit":"vmetvqiym","morph":"Conjunction + Adjective","glosses":[],"strongs":"H4966"},{"id":"psalms-19-11-5","surface":"מִ֝דְּבַ֗שׁ","lemma":"דְּבַשׁ","translit":"midebash","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H1706"},{"id":"psalms-19-11-6","surface":"וְנֹ֣פֶת","lemma":"נֹפֶת","translit":"venopet","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H5317"},{"id":"psalms-19-11-7","surface":"צוּפִֽים","lemma":"צוּף","translit":"tsvpiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H6688"}],"language":"hebrew"},{"ref":"Psalms 19:12","englishText":"Who can discern his errors? Forgive me from hidden errors.   ","tokens":[{"id":"psalms-19-12-0","surface":"גַּֽם","lemma":"גַּם","translit":"gam","morph":"Particle absolute","glosses":[],"strongs":"H1571"},{"id":"psalms-19-12-1","surface":"עַ֭בְדְּךָ","lemma":"עֶבֶד","translit":"`abedeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5650"},{"id":"psalms-19-12-2","surface":"נִזְהָ֣ר","lemma":"זָהַר","translit":"nizehar","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H2094"},{"id":"psalms-19-12-3","surface":"בָּהֶ֑ם","lemma":"בָּהֶ֑ם","translit":"bahem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]},{"id":"psalms-19-12-4","surface":"בְּ֝שָׁמְרָ֗ם","lemma":"שָׁמַר","translit":"beshameram","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H8104"},{"id":"psalms-19-12-5","surface":"עֵ֣קֶב","lemma":"עֵקֶב","translit":"`eqeb","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6118"},{"id":"psalms-19-12-6","surface":"רָֽב","lemma":"רַב","translit":"rab","morph":"Adjective","glosses":[],"strongs":"H7227"}],"language":"hebrew"},{"ref":"Psalms 19:13","englishText":"Keep back your servant also from presumptuous sins. Let them not have dominion over me. Then I will be upright. I will be blameless and innocent of great transgression. ","tokens":[{"id":"psalms-19-13-0","surface":"שְׁגִיא֥וֹת","lemma":"שְׁגִיאָה","translit":"shegiy'vot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H7691"},{"id":"psalms-19-13-1","surface":"מִֽי","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"psalms-19-13-2","surface":"יָבִ֑ין","lemma":"בִּין","translit":"yabiyn","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H995"},{"id":"psalms-19-13-3","surface":"מִֽנִּסְתָּר֥וֹת","lemma":"סָתַר","translit":"minisetarvot","morph":"Preposition + Verb Niphal Passive Participle","glosses":[],"strongs":"H5641"},{"id":"psalms-19-13-4","surface":"נַקֵּֽנִי","lemma":"נָקָה","translit":"naqeniy","morph":"Verb Piel Weqatal 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H5352"}],"language":"hebrew"},{"ref":"Psalms 19:14","englishText":"Let the words of my mouth and the meditation of my heart be acceptable in your sight, Yahweh, my rock, and my redeemer.   ","tokens":[{"id":"psalms-19-14-0","surface":"גַּ֤ם","lemma":"גַּם","translit":"gam","morph":"Particle absolute","glosses":[],"strongs":"H1571"},{"id":"psalms-19-14-1","surface":"מִזֵּדִ֨ים","lemma":"זֵד","translit":"mizediym","morph":"Preposition + Adjective","glosses":[],"strongs":"H2086"},{"id":"psalms-19-14-2","surface":"חֲשֹׂ֬ךְ","lemma":"חָשַׂךְ","translit":"chshoke","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H2820"},{"id":"psalms-19-14-3","surface":"עַבְדֶּ֗ךָ","lemma":"עֶבֶד","translit":"`abedeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5650"},{"id":"psalms-19-14-4","surface":"אַֽל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"psalms-19-14-5","surface":"יִמְשְׁלוּ","lemma":"מָשַׁל","translit":"yimeshelv","morph":"Verb Qal Jussive 3rd masculine plural","glosses":[],"strongs":"H4910"},{"id":"psalms-19-14-6","surface":"בִ֣י","lemma":"בִ֣י","translit":"biy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]},{"id":"psalms-19-14-7","surface":"אָ֣ז","lemma":"אָז","translit":"'az","morph":"Adverb","glosses":[],"strongs":"H227"},{"id":"psalms-19-14-8","surface":"אֵיתָ֑ם","lemma":"תָּמַם","translit":"'eytam","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H8552"},{"id":"psalms-19-14-9","surface":"וְ֝נִקֵּ֗יתִי","lemma":"נָקָה","translit":"veniqeytiy","morph":"Conjunction + Verb Piel Perfect 1st common singular","glosses":[],"strongs":"H5352"},{"id":"psalms-19-14-10","surface":"מִפֶּ֥שַֽׁע","lemma":"פֶּשַׁע","translit":"mipesha`","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H6588"},{"id":"psalms-19-14-11","surface":"רָֽב","lemma":"רַב","translit":"rab","morph":"Adjective","glosses":[],"strongs":"H7227"}],"language":"hebrew"},{"ref":"Psalms 19:15","englishText":"[English translation missing]","tokens":[{"id":"psalms-19-15-0","surface":"יִֽהְי֥וּ","lemma":"הָיָה","translit":"yiheyv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H1961"},{"id":"psalms-19-15-1","surface":"לְרָצ֨וֹן","lemma":"רָצוֹן","translit":"leratsvon","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H7522"},{"id":"psalms-19-15-2","surface":"אִמְרֵי","lemma":"אֵמֶר","translit":"'imerey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H561"},{"id":"psalms-19-15-3","surface":"פִ֡י","lemma":"פֶּה","translit":"piy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6310"},{"id":"psalms-19-15-4","surface":"וְהֶגְי֣וֹן","lemma":"הִגָּיוֹן","translit":"vehegeyvon","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H1902"},{"id":"psalms-19-15-5","surface":"לִבִּ֣י","lemma":"לֵב","translit":"libiy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H3820"},{"id":"psalms-19-15-6","surface":"לְפָנֶ֑יךָ","lemma":"פָּנִים","translit":"lepaneyka","morph":"Preposition + Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6440"},{"id":"psalms-19-15-7","surface":"יְ֝הוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-19-15-8","surface":"צוּרִ֥י","lemma":"צוּר","translit":"tsvriy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6697"},{"id":"psalms-19-15-9","surface":"וְגֹאֲלִֽי","lemma":"גָּאַל","translit":"vego'liy","morph":"Conjunction + Verb Qal Passive Participle + Suffix plural 1st common singular","glosses":[],"strongs":"H1350"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-19",
+  "name": "Psalms",
+  "chapter": 19,
+  "verses": [
+    {
+      "ref": "Psalms 19:1",
+      "englishText": "    The heavens declare the glory of God. The expanse shows his handiwork. ",
+      "tokens": [
+        {
+          "id": "psalms-19-1-0",
+          "surface": "לַמְנַצֵּ֗חַ",
+          "lemma": "נָצַח",
+          "translit": "lamenatsecha",
+          "morph": "Preposition dual + Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H5329"
+        },
+        {
+          "id": "psalms-19-1-1",
+          "surface": "מִזְמ֥וֹר",
+          "lemma": "מִזְמוֹר",
+          "translit": "mizemvor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4210"
+        },
+        {
+          "id": "psalms-19-1-2",
+          "surface": "לְדָוִֽד",
+          "lemma": "דָּוִד",
+          "translit": "ledavid",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1732"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:2",
+      "englishText": "Day after day they pour out speech, and night after night they display knowledge. ",
+      "tokens": [
+        {
+          "id": "psalms-19-2-0",
+          "surface": "הַשָּׁמַ֗יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "hashamayim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "psalms-19-2-1",
+          "surface": "מְֽסַפְּרִ֥ים",
+          "lemma": "סָפַר",
+          "translit": "mesaperiym",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H5608"
+        },
+        {
+          "id": "psalms-19-2-2",
+          "surface": "כְּבֽוֹד",
+          "lemma": "כָּבוֹד",
+          "translit": "kebvod",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3519"
+        },
+        {
+          "id": "psalms-19-2-3",
+          "surface": "אֵ֑ל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H410"
+        },
+        {
+          "id": "psalms-19-2-4",
+          "surface": "וּֽמַעֲשֵׂ֥ה",
+          "lemma": "מַעֲשֶׂה",
+          "translit": "vma`sheh",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4639"
+        },
+        {
+          "id": "psalms-19-2-5",
+          "surface": "יָ֝דָ֗יו",
+          "lemma": "יָד",
+          "translit": "yadayv",
+          "morph": "Noun common dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "psalms-19-2-6",
+          "surface": "מַגִּ֥יד",
+          "lemma": "נָגַד",
+          "translit": "magiyd",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "psalms-19-2-7",
+          "surface": "הָרָקִֽיעַ",
+          "lemma": "רָקִיעַ",
+          "translit": "haraqiy`a",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7549"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:3",
+      "englishText": "There is no speech nor language, where their voice is not heard. ",
+      "tokens": [
+        {
+          "id": "psalms-19-3-0",
+          "surface": "י֣וֹם",
+          "lemma": "יוֹם",
+          "translit": "yvom",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "psalms-19-3-1",
+          "surface": "לְ֭יוֹם",
+          "lemma": "יוֹם",
+          "translit": "leyvom",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "psalms-19-3-2",
+          "surface": "יַבִּ֣יעַֽ",
+          "lemma": "נָבַע",
+          "translit": "yabiy`a",
+          "morph": "Verb Hiphil Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5042"
+        },
+        {
+          "id": "psalms-19-3-3",
+          "surface": "אֹ֑מֶר",
+          "lemma": "אֹמֶר",
+          "translit": "'omer",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H562"
+        },
+        {
+          "id": "psalms-19-3-4",
+          "surface": "וְלַ֥יְלָה",
+          "lemma": "לַיִל",
+          "translit": "velayelah",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3915"
+        },
+        {
+          "id": "psalms-19-3-5",
+          "surface": "לְּ֝לַ֗יְלָה",
+          "lemma": "לַיִל",
+          "translit": "lelayelah",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3915"
+        },
+        {
+          "id": "psalms-19-3-6",
+          "surface": "יְחַוֶּה",
+          "lemma": "חָוָה",
+          "translit": "yechaveh",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2331"
+        },
+        {
+          "id": "psalms-19-3-7",
+          "surface": "דָּֽעַת",
+          "lemma": "דַּעַת",
+          "translit": "da`at",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1847"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:4",
+      "englishText": "Their voice has gone out through all the earth, their words to the end of the world. In them he has set a tent for the sun, ",
+      "tokens": [
+        {
+          "id": "psalms-19-4-0",
+          "surface": "אֵֽין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "psalms-19-4-1",
+          "surface": "אֹ֭מֶר",
+          "lemma": "אֹמֶר",
+          "translit": "'omer",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H562"
+        },
+        {
+          "id": "psalms-19-4-2",
+          "surface": "וְאֵ֣ין",
+          "lemma": "אַיִן",
+          "translit": "ve'eyn",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "psalms-19-4-3",
+          "surface": "דְּבָרִ֑ים",
+          "lemma": "דָּבָר",
+          "translit": "debariym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "psalms-19-4-4",
+          "surface": "בְּ֝לִ֗י",
+          "lemma": "בְּלִי",
+          "translit": "beliy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H1097"
+        },
+        {
+          "id": "psalms-19-4-5",
+          "surface": "נִשְׁמָ֥ע",
+          "lemma": "שָׁמַע",
+          "translit": "nishema`",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "psalms-19-4-6",
+          "surface": "קוֹלָֽם",
+          "lemma": "קוֹל",
+          "translit": "qvolam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6963"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:5",
+      "englishText": "which is as a bridegroom coming out of his room, like a strong man rejoicing to run his course. ",
+      "tokens": [
+        {
+          "id": "psalms-19-5-0",
+          "surface": "בְּכָל",
+          "lemma": "כֹּל",
+          "translit": "bekal",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-19-5-1",
+          "surface": "הָאָ֨רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "psalms-19-5-2",
+          "surface": "יָ֘צָ֤א",
+          "lemma": "יָצָא",
+          "translit": "yatsa'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "psalms-19-5-3",
+          "surface": "קַוָּ֗ם",
+          "lemma": "קַו",
+          "translit": "qavam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6957"
+        },
+        {
+          "id": "psalms-19-5-4",
+          "surface": "וּבִקְצֵ֣ה",
+          "lemma": "קָצֶה",
+          "translit": "vbiqetseh",
+          "morph": "Conjunction + Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7097"
+        },
+        {
+          "id": "psalms-19-5-5",
+          "surface": "תֵ֭בֵל",
+          "lemma": "תֵּבֵל",
+          "translit": "tebel",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8398"
+        },
+        {
+          "id": "psalms-19-5-6",
+          "surface": "מִלֵּיהֶ֑ם",
+          "lemma": "מִלָּה",
+          "translit": "mileyhem",
+          "morph": "Noun common feminine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H4405"
+        },
+        {
+          "id": "psalms-19-5-7",
+          "surface": "לַ֝שֶּׁ֗מֶשׁ",
+          "lemma": "שֶׁמֶשׁ",
+          "translit": "lashemesh",
+          "morph": "Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H8121"
+        },
+        {
+          "id": "psalms-19-5-8",
+          "surface": "שָֽׂם",
+          "lemma": "שׂוּם",
+          "translit": "sham",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "psalms-19-5-9",
+          "surface": "אֹ֥הֶל",
+          "lemma": "אֹהֶל",
+          "translit": "'ohel",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H168"
+        },
+        {
+          "id": "psalms-19-5-10",
+          "surface": "בָּהֶֽם",
+          "lemma": "בָּהֶֽם",
+          "translit": "bahem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:6",
+      "englishText": "His going out is from the end of the heavens, his circuit to its ends; There is nothing hidden from its heat. ",
+      "tokens": [
+        {
+          "id": "psalms-19-6-0",
+          "surface": "וְה֗וּא",
+          "lemma": "הוּא",
+          "translit": "vehv'",
+          "morph": "Conjunction + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "psalms-19-6-1",
+          "surface": "כְּ֭חָתָן",
+          "lemma": "חָתָן",
+          "translit": "kechatan",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2860"
+        },
+        {
+          "id": "psalms-19-6-2",
+          "surface": "יֹצֵ֣א",
+          "lemma": "יָצָא",
+          "translit": "yotse'",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "psalms-19-6-3",
+          "surface": "מֵחֻפָּת֑וֹ",
+          "lemma": "חֻפָּה",
+          "translit": "mechupatvo",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2646"
+        },
+        {
+          "id": "psalms-19-6-4",
+          "surface": "יָשִׂ֥ישׂ",
+          "lemma": "שׂוּשׂ",
+          "translit": "yashiysh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7797"
+        },
+        {
+          "id": "psalms-19-6-5",
+          "surface": "כְּ֝גִבּ֗וֹר",
+          "lemma": "גִּבּוֹר",
+          "translit": "kegibvor",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "psalms-19-6-6",
+          "surface": "לָר֥וּץ",
+          "lemma": "רוּץ",
+          "translit": "larvts",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7323"
+        },
+        {
+          "id": "psalms-19-6-7",
+          "surface": "אֹֽרַח",
+          "lemma": "אֹרַח",
+          "translit": "'orach",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H734"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:7",
+      "englishText": "Yahweh’s law is perfect, restoring the soul. Yahweh’s testimony is sure, making wise the simple. ",
+      "tokens": [
+        {
+          "id": "psalms-19-7-0",
+          "surface": "מִקְצֵ֤ה",
+          "lemma": "קָצֶה",
+          "translit": "miqetseh",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7097"
+        },
+        {
+          "id": "psalms-19-7-1",
+          "surface": "הַשָּׁמַ֨יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "hashamayim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "psalms-19-7-2",
+          "surface": "מֽוֹצָא֗וֹ",
+          "lemma": "מוֹצָא",
+          "translit": "mvotsa'vo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4161"
+        },
+        {
+          "id": "psalms-19-7-3",
+          "surface": "וּתְקוּפָת֥וֹ",
+          "lemma": "תְּקוּפָה",
+          "translit": "vteqvpatvo",
+          "morph": "Conjunction + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8622"
+        },
+        {
+          "id": "psalms-19-7-4",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-19-7-5",
+          "surface": "קְצוֹתָ֑ם",
+          "lemma": "קָצָה",
+          "translit": "qetsvotam",
+          "morph": "Noun common plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H7098"
+        },
+        {
+          "id": "psalms-19-7-6",
+          "surface": "וְאֵ֥ין",
+          "lemma": "אַיִן",
+          "translit": "ve'eyn",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "psalms-19-7-7",
+          "surface": "נִ֝סְתָּ֗ר",
+          "lemma": "סָתַר",
+          "translit": "nisetar",
+          "morph": "Verb Niphal s",
+          "glosses": [],
+          "strongs": "H5641"
+        },
+        {
+          "id": "psalms-19-7-8",
+          "surface": "מֵֽחַמָּתוֹ",
+          "lemma": "חַמָּה",
+          "translit": "mechamatvo",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2535"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:8",
+      "englishText": "Yahweh’s precepts are right, rejoicing the heart. Yahweh’s commandment is pure, enlightening the eyes. ",
+      "tokens": [
+        {
+          "id": "psalms-19-8-0",
+          "surface": "תּ֘וֹרַ֤ת",
+          "lemma": "תּוֹרָה",
+          "translit": "tvorat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H8451"
+        },
+        {
+          "id": "psalms-19-8-1",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-19-8-2",
+          "surface": "תְּ֭מִימָה",
+          "lemma": "תָּמִים",
+          "translit": "temiymah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H8549"
+        },
+        {
+          "id": "psalms-19-8-3",
+          "surface": "מְשִׁ֣יבַת",
+          "lemma": "שׁוּב",
+          "translit": "meshiybat",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "psalms-19-8-4",
+          "surface": "נָ֑פֶשׁ",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napesh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "psalms-19-8-5",
+          "surface": "עֵד֥וּת",
+          "lemma": "עֵדוּת",
+          "translit": "`edvt",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H5715"
+        },
+        {
+          "id": "psalms-19-8-6",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-19-8-7",
+          "surface": "נֶ֝אֱמָנָ֗ה",
+          "lemma": "אָמַן",
+          "translit": "ne'manah",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H539"
+        },
+        {
+          "id": "psalms-19-8-8",
+          "surface": "מַחְכִּ֥ימַת",
+          "lemma": "חָכַם",
+          "translit": "machekiymat",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H2449"
+        },
+        {
+          "id": "psalms-19-8-9",
+          "surface": "פֶּֽתִי",
+          "lemma": "פְּתִי",
+          "translit": "petiy",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6612"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:9",
+      "englishText": "The fear of Yahweh is clean, enduring forever. Yahweh’s ordinances are true, and righteous altogether. ",
+      "tokens": [
+        {
+          "id": "psalms-19-9-0",
+          "surface": "פִּקּ֘וּדֵ֤י",
+          "lemma": "פִּקּוּד",
+          "translit": "piqvdey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H6490"
+        },
+        {
+          "id": "psalms-19-9-1",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-19-9-2",
+          "surface": "יְ֭שָׁרִים",
+          "lemma": "יָשָׁר",
+          "translit": "yeshariym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H3477"
+        },
+        {
+          "id": "psalms-19-9-3",
+          "surface": "מְשַׂמְּחֵי",
+          "lemma": "שָׂמַח",
+          "translit": "meshamechey",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H8055"
+        },
+        {
+          "id": "psalms-19-9-4",
+          "surface": "לֵ֑ב",
+          "lemma": "לֵב",
+          "translit": "leb",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "psalms-19-9-5",
+          "surface": "מִצְוַ֥ת",
+          "lemma": "מִצְוָה",
+          "translit": "mitsevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4687"
+        },
+        {
+          "id": "psalms-19-9-6",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-19-9-7",
+          "surface": "בָּ֝רָ֗ה",
+          "lemma": "בַּר",
+          "translit": "barah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1249"
+        },
+        {
+          "id": "psalms-19-9-8",
+          "surface": "מְאִירַ֥ת",
+          "lemma": "אוֹר",
+          "translit": "me'iyrat",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H215"
+        },
+        {
+          "id": "psalms-19-9-9",
+          "surface": "עֵינָֽיִם",
+          "lemma": "עַיִן",
+          "translit": "`eynayim",
+          "morph": "Noun common dual absolute",
+          "glosses": [],
+          "strongs": "H5869"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:10",
+      "englishText": "More to be desired are they than gold, yes, than much fine gold; sweeter also than honey and the extract of the honeycomb. ",
+      "tokens": [
+        {
+          "id": "psalms-19-10-0",
+          "surface": "יִרְאַ֤ת",
+          "lemma": "יִרְאָה",
+          "translit": "yire'at",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H3374"
+        },
+        {
+          "id": "psalms-19-10-1",
+          "surface": "יְהוָ֨ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-19-10-2",
+          "surface": "טְהוֹרָה֮",
+          "lemma": "טָהוֹר",
+          "translit": "tehvorah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2889"
+        },
+        {
+          "id": "psalms-19-10-3",
+          "surface": "עוֹמֶ֪דֶת",
+          "lemma": "עָמַד",
+          "translit": "`vomedet",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5975"
+        },
+        {
+          "id": "psalms-19-10-4",
+          "surface": "לָ֫עַ֥ד",
+          "lemma": "עַד",
+          "translit": "la`ad",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5703"
+        },
+        {
+          "id": "psalms-19-10-5",
+          "surface": "מִֽשְׁפְּטֵי",
+          "lemma": "מִשְׁפָּט",
+          "translit": "mishepetey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "psalms-19-10-6",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-19-10-7",
+          "surface": "אֱמֶ֑ת",
+          "lemma": "אֶמֶת",
+          "translit": "'met",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H571"
+        },
+        {
+          "id": "psalms-19-10-8",
+          "surface": "צָֽדְק֥וּ",
+          "lemma": "צָדַק",
+          "translit": "tsadeqv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6663"
+        },
+        {
+          "id": "psalms-19-10-9",
+          "surface": "יַחְדָּֽו",
+          "lemma": "יַחַד",
+          "translit": "yachedav",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3162"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:11",
+      "englishText": "Moreover by them is your servant warned. In keeping them there is great reward. ",
+      "tokens": [
+        {
+          "id": "psalms-19-11-0",
+          "surface": "הַֽנֶּחֱמָדִ֗ים",
+          "lemma": "חָמַד",
+          "translit": "hanechmadiym",
+          "morph": "Particle dual + Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H2530"
+        },
+        {
+          "id": "psalms-19-11-1",
+          "surface": "מִ֭זָּהָב",
+          "lemma": "זָהָב",
+          "translit": "mizahab",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2091"
+        },
+        {
+          "id": "psalms-19-11-2",
+          "surface": "וּמִפַּ֣ז",
+          "lemma": "פָּז",
+          "translit": "vmipaz",
+          "morph": "Conjunction + Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6337"
+        },
+        {
+          "id": "psalms-19-11-3",
+          "surface": "רָ֑ב",
+          "lemma": "רַב",
+          "translit": "rab",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7227"
+        },
+        {
+          "id": "psalms-19-11-4",
+          "surface": "וּמְתוּקִ֥ים",
+          "lemma": "מָתוֹק",
+          "translit": "vmetvqiym",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H4966"
+        },
+        {
+          "id": "psalms-19-11-5",
+          "surface": "מִ֝דְּבַ֗שׁ",
+          "lemma": "דְּבַשׁ",
+          "translit": "midebash",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1706"
+        },
+        {
+          "id": "psalms-19-11-6",
+          "surface": "וְנֹ֣פֶת",
+          "lemma": "נֹפֶת",
+          "translit": "venopet",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5317"
+        },
+        {
+          "id": "psalms-19-11-7",
+          "surface": "צוּפִֽים",
+          "lemma": "צוּף",
+          "translit": "tsvpiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6688"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:12",
+      "englishText": "Who can discern his errors? Forgive me from hidden errors.   ",
+      "tokens": [
+        {
+          "id": "psalms-19-12-0",
+          "surface": "גַּֽם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "psalms-19-12-1",
+          "surface": "עַ֭בְדְּךָ",
+          "lemma": "עֶבֶד",
+          "translit": "`abedeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "psalms-19-12-2",
+          "surface": "נִזְהָ֣ר",
+          "lemma": "זָהַר",
+          "translit": "nizehar",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H2094"
+        },
+        {
+          "id": "psalms-19-12-3",
+          "surface": "בָּהֶ֑ם",
+          "lemma": "בָּהֶ֑ם",
+          "translit": "bahem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        },
+        {
+          "id": "psalms-19-12-4",
+          "surface": "בְּ֝שָׁמְרָ֗ם",
+          "lemma": "שָׁמַר",
+          "translit": "beshameram",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H8104"
+        },
+        {
+          "id": "psalms-19-12-5",
+          "surface": "עֵ֣קֶב",
+          "lemma": "עֵקֶב",
+          "translit": "`eqeb",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6118"
+        },
+        {
+          "id": "psalms-19-12-6",
+          "surface": "רָֽב",
+          "lemma": "רַב",
+          "translit": "rab",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7227"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:13",
+      "englishText": "Keep back your servant also from presumptuous sins. Let them not have dominion over me. Then I will be upright. I will be blameless and innocent of great transgression. ",
+      "tokens": [
+        {
+          "id": "psalms-19-13-0",
+          "surface": "שְׁגִיא֥וֹת",
+          "lemma": "שְׁגִיאָה",
+          "translit": "shegiy'vot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H7691"
+        },
+        {
+          "id": "psalms-19-13-1",
+          "surface": "מִֽי",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "psalms-19-13-2",
+          "surface": "יָבִ֑ין",
+          "lemma": "בִּין",
+          "translit": "yabiyn",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H995"
+        },
+        {
+          "id": "psalms-19-13-3",
+          "surface": "מִֽנִּסְתָּר֥וֹת",
+          "lemma": "סָתַר",
+          "translit": "minisetarvot",
+          "morph": "Preposition + Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H5641"
+        },
+        {
+          "id": "psalms-19-13-4",
+          "surface": "נַקֵּֽנִי",
+          "lemma": "נָקָה",
+          "translit": "naqeniy",
+          "morph": "Verb Piel Weqatal 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5352"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:14",
+      "englishText": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, Yahweh, my rock, and my redeemer.   ",
+      "tokens": [
+        {
+          "id": "psalms-19-14-0",
+          "surface": "גַּ֤ם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "psalms-19-14-1",
+          "surface": "מִזֵּדִ֨ים",
+          "lemma": "זֵד",
+          "translit": "mizediym",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H2086"
+        },
+        {
+          "id": "psalms-19-14-2",
+          "surface": "חֲשֹׂ֬ךְ",
+          "lemma": "חָשַׂךְ",
+          "translit": "chshoke",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2820"
+        },
+        {
+          "id": "psalms-19-14-3",
+          "surface": "עַבְדֶּ֗ךָ",
+          "lemma": "עֶבֶד",
+          "translit": "`abedeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "psalms-19-14-4",
+          "surface": "אַֽל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "psalms-19-14-5",
+          "surface": "יִמְשְׁלוּ",
+          "lemma": "מָשַׁל",
+          "translit": "yimeshelv",
+          "morph": "Verb Qal Jussive 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H4910"
+        },
+        {
+          "id": "psalms-19-14-6",
+          "surface": "בִ֣י",
+          "lemma": "בִ֣י",
+          "translit": "biy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        },
+        {
+          "id": "psalms-19-14-7",
+          "surface": "אָ֣ז",
+          "lemma": "אָז",
+          "translit": "'az",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H227"
+        },
+        {
+          "id": "psalms-19-14-8",
+          "surface": "אֵיתָ֑ם",
+          "lemma": "תָּמַם",
+          "translit": "'eytam",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H8552"
+        },
+        {
+          "id": "psalms-19-14-9",
+          "surface": "וְ֝נִקֵּ֗יתִי",
+          "lemma": "נָקָה",
+          "translit": "veniqeytiy",
+          "morph": "Conjunction + Verb Piel Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H5352"
+        },
+        {
+          "id": "psalms-19-14-10",
+          "surface": "מִפֶּ֥שַֽׁע",
+          "lemma": "פֶּשַׁע",
+          "translit": "mipesha`",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6588"
+        },
+        {
+          "id": "psalms-19-14-11",
+          "surface": "רָֽב",
+          "lemma": "רַב",
+          "translit": "rab",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7227"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 19:15",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "psalms-19-15-0",
+          "surface": "יִֽהְי֥וּ",
+          "lemma": "הָיָה",
+          "translit": "yiheyv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "psalms-19-15-1",
+          "surface": "לְרָצ֨וֹן",
+          "lemma": "רָצוֹן",
+          "translit": "leratsvon",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7522"
+        },
+        {
+          "id": "psalms-19-15-2",
+          "surface": "אִמְרֵי",
+          "lemma": "אֵמֶר",
+          "translit": "'imerey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H561"
+        },
+        {
+          "id": "psalms-19-15-3",
+          "surface": "פִ֡י",
+          "lemma": "פֶּה",
+          "translit": "piy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6310"
+        },
+        {
+          "id": "psalms-19-15-4",
+          "surface": "וְהֶגְי֣וֹן",
+          "lemma": "הִגָּיוֹן",
+          "translit": "vehegeyvon",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1902"
+        },
+        {
+          "id": "psalms-19-15-5",
+          "surface": "לִבִּ֣י",
+          "lemma": "לֵב",
+          "translit": "libiy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "psalms-19-15-6",
+          "surface": "לְפָנֶ֑יךָ",
+          "lemma": "פָּנִים",
+          "translit": "lepaneyka",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "psalms-19-15-7",
+          "surface": "יְ֝הוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-19-15-8",
+          "surface": "צוּרִ֥י",
+          "lemma": "צוּר",
+          "translit": "tsvriy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6697"
+        },
+        {
+          "id": "psalms-19-15-9",
+          "surface": "וְגֹאֲלִֽי",
+          "lemma": "גָּאַל",
+          "translit": "vego'liy",
+          "morph": "Conjunction + Verb Qal Passive Participle + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H1350"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

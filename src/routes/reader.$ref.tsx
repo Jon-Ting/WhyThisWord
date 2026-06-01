@@ -42,35 +42,18 @@ function useIsCompact() {
 
 const searchSchema = z.object({
   w: z.string().optional().catch(undefined),
-  start: z.coerce.number().int().positive().optional().catch(undefined),
-  end: z.coerce.number().int().positive().optional().catch(undefined),
 });
-
-function parseRangeFromSearch(
-  search: { start?: number; end?: number } | undefined,
-  searchStr: string,
-): { start?: number; end?: number } {
-  const start = search?.start;
-  if (typeof start === "number") return { start, end: search?.end };
-  if (!searchStr) return {};
-  const sp = new URLSearchParams(searchStr);
-  const rawStart = sp.get("start");
-  const rawEnd = sp.get("end");
-  return {
-    start: rawStart ? parseInt(rawStart, 10) || undefined : undefined,
-    end: rawEnd ? parseInt(rawEnd, 10) || undefined : undefined,
-  };
-}
 
 export const Route = createFileRoute("/reader/$ref")({
   validateSearch: zodValidator(searchSchema),
-  loaderDeps: ({ search }) => ({ start: search?.start, end: search?.end }),
-  loader: async ({ params, deps }) => {
-    const passage = await getPassage(params.ref, {
-      startVerse: deps.start,
-      endVerse: deps.end,
-    });
-    if (!passage) throw notFound();
+  loader: async ({ params }) => {
+    console.log(`[Reader] Loading passage for slug: ${params.ref}`);
+    const passage = await getPassage(params.ref);
+    if (!passage) {
+      console.warn(`[Reader] Passage not found for slug: ${params.ref}`);
+      throw notFound();
+    }
+    console.log(`[Reader] Loaded passage: ${passage.ref} (${passage.verses.length} verses)`);
     return { passage };
   },
   head: ({ loaderData }) => ({
@@ -98,9 +81,9 @@ function ReaderPage() {
   const { passage } = Route.useLoaderData();
   const search = Route.useSearch();
   const { w } = search;
-  const { start, end } = Route.useLoaderDeps();
   const navigate = useNavigate({ from: Route.fullPath });
   const isCompact = useIsCompact();
+  const parsedRef = useMemo(() => parsePassageRef(passage.id), [passage.id]);
 
   const [leftOpen, setLeftOpen] = useState(() => {
     if (typeof window === "undefined") return true;
@@ -141,21 +124,20 @@ function ReaderPage() {
   }, [w]);
 
   useEffect(() => {
+    console.log(`[Reader] Recording recent passage: ${passage.ref}`);
     recordRecentPassage({
       id: passage.id,
       ref: passage.ref,
       title: passage.title,
-      start,
-      end,
     });
-  }, [passage.id, passage.ref, passage.title, start, end]);
+  }, [passage.id, passage.ref, passage.title]);
 
   // Auto-scroll to the first verse of a range when the page loads
   useEffect(() => {
-    if (!start) return;
+    if (!parsedRef?.startVerse) return;
     const target = passage.verses.find((v) => {
       const numMatch = v.ref.match(/:(\d+)$/);
-      return numMatch && parseInt(numMatch[1], 10) === start;
+      return numMatch && parseInt(numMatch[1], 10) === parsedRef.startVerse;
     });
     if (target) {
       const el = document.getElementById(target.ref);
@@ -164,7 +146,7 @@ function ReaderPage() {
       }
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [start, passage.id]);
+  }, [parsedRef?.startVerse, passage.id]);
 
   const [selectedWordId, setSelectedWordId] = useState<string | null>(() => {
     if (typeof window === "undefined") return null;
@@ -200,19 +182,23 @@ function ReaderPage() {
     }
   }, [selectedTokenAndVerse]);
 
-  const adjacent = useMemo(() => getAdjacentChapters(passage.id), [passage.id]);
-  const parsedRef = useMemo(() => parsePassageRef(passage.id), [passage.id]);
-  const isPartial = parsedRef
-    ? parsedRef.startVerse !== undefined || parsedRef.endChapter !== undefined
-    : start !== undefined || end !== undefined;
+  const adjacent = useMemo(() => {
+    const adj = getAdjacentChapters(passage.id);
+    console.log(`[Reader] Adjacent chapters for ${passage.id}:`, adj);
+    return adj;
+  }, [passage.id]);
+  const isPartial = parsedRef?.startVerse !== undefined || parsedRef?.endChapter !== undefined;
   const fullChapterId =
     parsedRef?.startVerse !== undefined
       ? `${parsedRef.bookId}-${parsedRef.startChapter}`
       : passage.id;
 
-  const selectToken = (tokenId: string) =>
+  const selectToken = (tokenId: string) => {
+    console.log(`[Reader] Word selected: ${tokenId}`);
     navigate({ search: { ...search, w: tokenId }, replace: true, resetScroll: false });
+  };
   const closePanel = () => {
+    console.log("[Reader] Closing analysis panel");
     setSelectedWordId(null);
     setLastToken(null);
     setLastVerse(null);

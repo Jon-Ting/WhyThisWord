@@ -1,1 +1,3285 @@
-{"id":"job-1","name":"Job","chapter":1,"verses":[{"ref":"Job 1:1","englishText":"There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God, and turned away from evil.","tokens":[{"id":"job-1-1-0","surface":"אִ֛ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"job-1-1-1","surface":"הָיָ֥ה","lemma":"הָיָה","translit":"hayah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"job-1-1-2","surface":"בְאֶֽרֶץ","lemma":"אֶרֶץ","translit":"be'erets","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"job-1-1-3","surface":"ע֖וּץ","lemma":"עוּץ","translit":"`vts","morph":"Noun proper","glosses":[],"strongs":"H5780"},{"id":"job-1-1-4","surface":"אִיּ֣וֹב","lemma":"אִיּוֹב","translit":"'iyvob","morph":"Noun proper","glosses":[],"strongs":"H347"},{"id":"job-1-1-5","surface":"שְׁמ֑וֹ","lemma":"שֵׁם","translit":"shemvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H8034"},{"id":"job-1-1-6","surface":"וְהָיָ֣ה","lemma":"הָיָה","translit":"vehayah","morph":"Conjunction + Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"job-1-1-7","surface":"הָאִ֣ישׁ","lemma":"אִישׁ","translit":"ha'iysh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"job-1-1-8","surface":"הַה֗וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"job-1-1-9","surface":"תָּ֧ם","lemma":"תָּם","translit":"tam","morph":"Adjective","glosses":[],"strongs":"H8535"},{"id":"job-1-1-10","surface":"וְיָשָׁ֛ר","lemma":"יָשָׁר","translit":"veyashar","morph":"Conjunction + Adjective","glosses":[],"strongs":"H3477"},{"id":"job-1-1-11","surface":"וִירֵ֥א","lemma":"יָרֵא","translit":"viyre'","morph":"Conjunction + Adjective","glosses":[],"strongs":"H3373"},{"id":"job-1-1-12","surface":"אֱלֹהִ֖ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"job-1-1-13","surface":"וְסָ֥ר","lemma":"סוּר","translit":"vesar","morph":"Conjunction + Verb Qal Passive Participle","glosses":[],"strongs":"H5493"},{"id":"job-1-1-14","surface":"מֵרָֽע","lemma":"רַע","translit":"mera`","morph":"Preposition + Adjective","glosses":[],"strongs":"H7451"}],"language":"hebrew"},{"ref":"Job 1:2","englishText":"There were born to him seven sons and three daughters.","tokens":[{"id":"job-1-2-0","surface":"וַיִּוָּ֥לְדוּ","lemma":"יָלַד","translit":"vayivaledv","morph":"Conjunction + Verb Niphal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H3205"},{"id":"job-1-2-1","surface":"ל֛וֹ","lemma":"ל֛וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"job-1-2-2","surface":"שִׁבְעָ֥ה","lemma":"שֶׁבַע","translit":"shibe`ah","morph":"Adjective common masculine singular absolute","glosses":[],"strongs":"H7651"},{"id":"job-1-2-3","surface":"בָנִ֖ים","lemma":"בֵּן","translit":"baniym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1121"},{"id":"job-1-2-4","surface":"וְשָׁל֥וֹשׁ","lemma":"שָׁלוֹשׁ","translit":"veshalvosh","morph":"Conjunction + Adjective common feminine singular absolute","glosses":[],"strongs":"H7969"},{"id":"job-1-2-5","surface":"בָּנֽוֹת","lemma":"בַּת","translit":"banvot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H1323"}],"language":"hebrew"},{"ref":"Job 1:3","englishText":"His possessions also were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household; so that this man was the greatest of all the children of the east.","tokens":[{"id":"job-1-3-0","surface":"וַיְהִ֣י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"job-1-3-1","surface":"מִ֠קְנֵהוּ","lemma":"מִקְנֶה","translit":"miqenehv","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H4735"},{"id":"job-1-3-2","surface":"שִֽׁבְעַ֨ת","lemma":"שֶׁבַע","translit":"shibe`at","morph":"Adjective common masculine singular construct","glosses":[],"strongs":"H7651"},{"id":"job-1-3-3","surface":"אַלְפֵי","lemma":"אֶלֶף","translit":"'alepey","morph":"Adjective common plural construct","glosses":[],"strongs":"H505"},{"id":"job-1-3-4","surface":"צֹ֜אן","lemma":"צֹאן","translit":"tso'n","morph":"Noun common singular absolute","glosses":[],"strongs":"H6629"},{"id":"job-1-3-5","surface":"וּשְׁלֹ֧שֶׁת","lemma":"שָׁלוֹשׁ","translit":"vsheloshet","morph":"Conjunction + Adjective common masculine singular construct","glosses":[],"strongs":"H7969"},{"id":"job-1-3-6","surface":"אַלְפֵ֣י","lemma":"אֶלֶף","translit":"'alepey","morph":"Adjective common plural construct","glosses":[],"strongs":"H505"},{"id":"job-1-3-7","surface":"גְמַלִּ֗ים","lemma":"גָּמָל","translit":"gemaliym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1581"},{"id":"job-1-3-8","surface":"וַחֲמֵ֨שׁ","lemma":"חָמֵשׁ","translit":"vachmesh","morph":"Conjunction + Adjective common feminine singular absolute","glosses":[],"strongs":"H2568"},{"id":"job-1-3-9","surface":"מֵא֤וֹת","lemma":"מֵאָה","translit":"me'vot","morph":"Adjective common plural absolute","glosses":[],"strongs":"H3967"},{"id":"job-1-3-10","surface":"צֶֽמֶד","lemma":"צֶמֶד","translit":"tsemed","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H6776"},{"id":"job-1-3-11","surface":"בָּקָר֙","lemma":"בָּקָר","translit":"baqar","morph":"Noun common singular absolute","glosses":[],"strongs":"H1241"},{"id":"job-1-3-12","surface":"וַחֲמֵ֣שׁ","lemma":"חָמֵשׁ","translit":"vachmesh","morph":"Conjunction + Adjective common feminine singular absolute","glosses":[],"strongs":"H2568"},{"id":"job-1-3-13","surface":"מֵא֣וֹת","lemma":"מֵאָה","translit":"me'vot","morph":"Adjective common plural absolute","glosses":[],"strongs":"H3967"},{"id":"job-1-3-14","surface":"אֲתוֹנ֔וֹת","lemma":"אָתוֹן","translit":"'tvonvot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H860"},{"id":"job-1-3-15","surface":"וַעֲבֻדָּ֖ה","lemma":"עֲבֻדָּה","translit":"va`budah","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H5657"},{"id":"job-1-3-16","surface":"רַבָּ֣ה","lemma":"רַב","translit":"rabah","morph":"Adjective","glosses":[],"strongs":"H7227"},{"id":"job-1-3-17","surface":"מְאֹ֑ד","lemma":"מְאֹד","translit":"me'od","morph":"Adverb","glosses":[],"strongs":"H3966"},{"id":"job-1-3-18","surface":"וַיְהִי֙","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"job-1-3-19","surface":"הָאִ֣ישׁ","lemma":"אִישׁ","translit":"ha'iysh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"job-1-3-20","surface":"הַה֔וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"job-1-3-21","surface":"גָּד֖וֹל","lemma":"גָּדוֹל","translit":"gadvol","morph":"Adjective","glosses":[],"strongs":"H1419"},{"id":"job-1-3-22","surface":"מִכָּל","lemma":"כֹּל","translit":"mikal","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"job-1-3-23","surface":"בְּנֵי","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"job-1-3-24","surface":"קֶֽדֶם","lemma":"קֶדֶם","translit":"qedem","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6924"}],"language":"hebrew"},{"ref":"Job 1:4","englishText":"His sons went and held a feast in the house of each one on his birthday; and they sent and called for their three sisters to eat and to drink with them.","tokens":[{"id":"job-1-4-0","surface":"וְהָלְכ֤וּ","lemma":"הָלַךְ","translit":"vehalekv","morph":"Conjunction + Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H1980"},{"id":"job-1-4-1","surface":"בָנָיו֙","lemma":"בֵּן","translit":"banayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1121"},{"id":"job-1-4-2","surface":"וְעָשׂ֣וּ","lemma":"עָשָׂה","translit":"ve`ashv","morph":"Conjunction + Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H6213"},{"id":"job-1-4-3","surface":"מִשְׁתֶּ֔ה","lemma":"מִשְׁתֶּה","translit":"misheteh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4960"},{"id":"job-1-4-4","surface":"בֵּ֖ית","lemma":"בַּיִת","translit":"beyt","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"job-1-4-5","surface":"אִ֣ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"job-1-4-6","surface":"יוֹמ֑וֹ","lemma":"יוֹם","translit":"yvomvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3117"},{"id":"job-1-4-7","surface":"וְשָׁלְח֗וּ","lemma":"שָׁלַח","translit":"veshalechv","morph":"Conjunction + Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H7971"},{"id":"job-1-4-8","surface":"וְקָרְאוּ֙","lemma":"קָרָא","translit":"veqare'v","morph":"Conjunction + Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H7121"},{"id":"job-1-4-9","surface":"לִשְׁלֹ֣שֶׁת","lemma":"שָׁלוֹשׁ","translit":"lisheloshet","morph":"Preposition + Adjective common masculine singular construct","glosses":[],"strongs":"H7969"},{"id":"job-1-4-10","surface":"אחיתיהם","lemma":"אָחוֹת","translit":"'chytyhm","morph":"Noun common feminine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H269"},{"id":"job-1-4-11","surface":"אַחְיֽוֹתֵיהֶ֔ם","lemma":"אָחוֹת","translit":"'acheyvoteyhem","morph":"Noun common feminine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H269"},{"id":"job-1-4-12","surface":"לֶאֱכֹ֥ל","lemma":"אָכַל","translit":"le'kol","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H398"},{"id":"job-1-4-13","surface":"וְלִשְׁתּ֖וֹת","lemma":"שָׁתָה","translit":"velishetvot","morph":"Conjunction + Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H8354"},{"id":"job-1-4-14","surface":"עִמָּהֶֽם","lemma":"עִם","translit":"`imahem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H5973"}],"language":"hebrew"},{"ref":"Job 1:5","englishText":"It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, “It may be that my sons have sinned, and renounced God in their hearts.” Job did so continually.  ","tokens":[{"id":"job-1-5-0","surface":"וַיְהִ֡י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"job-1-5-1","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"job-1-5-2","surface":"הִקִּיפֽוּ֩","lemma":"נָקַף","translit":"hiqiypv","morph":"Verb Hiphil Participle 3rd common plural","glosses":[],"strongs":"H5362"},{"id":"job-1-5-3","surface":"יְמֵ֨י","lemma":"יוֹם","translit":"yemey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H3117"},{"id":"job-1-5-4","surface":"הַמִּשְׁתֶּ֜ה","lemma":"מִשְׁתֶּה","translit":"hamisheteh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4960"},{"id":"job-1-5-5","surface":"וַיִּשְׁלַ֧ח","lemma":"שָׁלַח","translit":"vayishelach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7971"},{"id":"job-1-5-6","surface":"אִיּ֣וֹב","lemma":"אִיּוֹב","translit":"'iyvob","morph":"Noun proper","glosses":[],"strongs":"H347"},{"id":"job-1-5-7","surface":"וַֽיְקַדְּשֵׁ֗ם","lemma":"קָדַשׁ","translit":"vayeqadeshem","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H6942"},{"id":"job-1-5-8","surface":"וְהִשְׁכִּ֣ים","lemma":"שָׁכַם","translit":"vehishekiym","morph":"Conjunction + Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H7925"},{"id":"job-1-5-9","surface":"בַּבֹּקֶר֮","lemma":"בֹּקֶר","translit":"baboqer","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1242"},{"id":"job-1-5-10","surface":"וְהֶעֱלָ֣ה","lemma":"עָלָה","translit":"vehe`lah","morph":"Conjunction + Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"job-1-5-11","surface":"עֹלוֹת֮","lemma":"עֹלָה","translit":"`olvot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H5930"},{"id":"job-1-5-12","surface":"מִסְפַּ֣ר","lemma":"מִסְפָּר","translit":"misepar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4557"},{"id":"job-1-5-13","surface":"כֻּלָּם֒","lemma":"כֹּל","translit":"kulam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H3605"},{"id":"job-1-5-14","surface":"כִּ֚י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"job-1-5-15","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-5-16","surface":"אִיּ֔וֹב","lemma":"אִיּוֹב","translit":"'iyvob","morph":"Noun proper","glosses":[],"strongs":"H347"},{"id":"job-1-5-17","surface":"אוּלַי֙","lemma":"אוּלַי","translit":"'vlay","morph":"Adverb","glosses":[],"strongs":"H194"},{"id":"job-1-5-18","surface":"חָטְא֣וּ","lemma":"חָטָא","translit":"chate'v","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H2398"},{"id":"job-1-5-19","surface":"בָנַ֔י","lemma":"בֵּן","translit":"banay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H1121"},{"id":"job-1-5-20","surface":"וּבֵרֲכ֥וּ","lemma":"בָרַךְ","translit":"vberkv","morph":"Conjunction + Verb Piel Participle 3rd common plural","glosses":[],"strongs":"H1288"},{"id":"job-1-5-21","surface":"אֱלֹהִ֖ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"job-1-5-22","surface":"בִּלְבָבָ֑ם","lemma":"לֵבָב","translit":"bilebabam","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H3824"},{"id":"job-1-5-23","surface":"כָּ֛כָה","lemma":"כָּכָה","translit":"kakah","morph":"Adverb","glosses":[],"strongs":"H3602"},{"id":"job-1-5-24","surface":"יַעֲשֶׂ֥ה","lemma":"עָשָׂה","translit":"ya`sheh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H6213"},{"id":"job-1-5-25","surface":"אִיּ֖וֹב","lemma":"אִיּוֹב","translit":"'iyvob","morph":"Noun proper","glosses":[],"strongs":"H347"},{"id":"job-1-5-26","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"job-1-5-27","surface":"הַיָּמִֽים","lemma":"יוֹם","translit":"hayamiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3117"}],"language":"hebrew"},{"ref":"Job 1:6","englishText":"  Now on the day when God’s sons came to present themselves before Yahweh, Satan also came among them.","tokens":[{"id":"job-1-6-0","surface":"וַיְהִ֣י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"job-1-6-1","surface":"הַיּ֔וֹם","lemma":"יוֹם","translit":"hayvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"job-1-6-2","surface":"וַיָּבֹ֨אוּ֙","lemma":"בּוֹא","translit":"vayabo'v","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H935"},{"id":"job-1-6-3","surface":"בְּנֵ֣י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"job-1-6-4","surface":"הָאֱלֹהִ֔ים","lemma":"אֱלֹהִים","translit":"ha'lohiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"job-1-6-5","surface":"לְהִתְיַצֵּ֖ב","lemma":"יָצַב","translit":"lehiteyatseb","morph":"Preposition + Verb Hithpael Infinitive Construct","glosses":[],"strongs":"H3320"},{"id":"job-1-6-6","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"job-1-6-7","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"job-1-6-8","surface":"וַיָּב֥וֹא","lemma":"בּוֹא","translit":"vayabvo'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"job-1-6-9","surface":"גַֽם","lemma":"גַּם","translit":"gam","morph":"Adverb","glosses":[],"strongs":"H1571"},{"id":"job-1-6-10","surface":"הַשָּׂטָ֖ן","lemma":"שָׂטָן","translit":"hashatan","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7854"},{"id":"job-1-6-11","surface":"בְּתוֹכָֽם","lemma":"תָּוֶךְ","translit":"betvokam","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H8432"}],"language":"hebrew"},{"ref":"Job 1:7","englishText":"Yahweh said to Satan, “Where have you come from?”   Then Satan answered Yahweh, and said, “From going back and forth in the earth, and from walking up and down in it.”  ","tokens":[{"id":"job-1-7-0","surface":"וַיֹּ֧אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-7-1","surface":"יְהוָ֛ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"job-1-7-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"job-1-7-3","surface":"הַשָּׂטָ֖ן","lemma":"שָׂטָן","translit":"hashatan","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7854"},{"id":"job-1-7-4","surface":"מֵאַ֣יִן","lemma":"אַיִן","translit":"me'ayin","morph":"Preposition + Particle","glosses":[],"strongs":"H370"},{"id":"job-1-7-5","surface":"תָּבֹ֑א","lemma":"בּוֹא","translit":"tabo'","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H935"},{"id":"job-1-7-6","surface":"וַיַּ֨עַן","lemma":"עָנָה","translit":"vaya`an","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6030"},{"id":"job-1-7-7","surface":"הַשָּׂטָ֤ן","lemma":"שָׂטָן","translit":"hashatan","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7854"},{"id":"job-1-7-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"job-1-7-9","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"job-1-7-10","surface":"וַיֹּאמַ֔ר","lemma":"אָמַר","translit":"vayo'mar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-7-11","surface":"מִשּׁ֣וּט","lemma":"שׁוּט","translit":"mishvt","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H7751"},{"id":"job-1-7-12","surface":"בָּאָ֔רֶץ","lemma":"אֶרֶץ","translit":"ba'arets","morph":"Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"job-1-7-13","surface":"וּמֵֽהִתְהַלֵּ֖ךְ","lemma":"הָלַךְ","translit":"vmehitehaleke","morph":"Conjunction + Preposition + Verb Hithpael Infinitive Construct","glosses":[],"strongs":"H1980"},{"id":"job-1-7-14","surface":"בָּֽהּ","lemma":"בָּֽהּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Job 1:8","englishText":"  Yahweh said to Satan, “Have you considered my servant, Job? For there is no one like him in the earth, a blameless and an upright man, one who fears God, and turns away from evil.”  ","tokens":[{"id":"job-1-8-0","surface":"וַיֹּ֤אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-8-1","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"job-1-8-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"job-1-8-3","surface":"הַשָּׂטָ֔ן","lemma":"שָׂטָן","translit":"hashatan","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7854"},{"id":"job-1-8-4","surface":"הֲשַׂ֥מְתָּ","lemma":"שׂוּם","translit":"hshameta","morph":"Particle + Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H7760"},{"id":"job-1-8-5","surface":"לִבְּךָ֖","lemma":"לֵב","translit":"libeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3820"},{"id":"job-1-8-6","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"job-1-8-7","surface":"עַבְדִּ֣י","lemma":"עֶבֶד","translit":"`abediy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5650"},{"id":"job-1-8-8","surface":"אִיּ֑וֹב","lemma":"אִיּוֹב","translit":"'iyvob","morph":"Noun proper","glosses":[],"strongs":"H347"},{"id":"job-1-8-9","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"job-1-8-10","surface":"אֵ֤ין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"job-1-8-11","surface":"כָּמֹ֨הוּ֙","lemma":"כְּמוֹ","translit":"kamohv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3644"},{"id":"job-1-8-12","surface":"בָּאָ֔רֶץ","lemma":"אֶרֶץ","translit":"ba'arets","morph":"Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"job-1-8-13","surface":"אִ֣ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"job-1-8-14","surface":"תָּ֧ם","lemma":"תָּם","translit":"tam","morph":"Adjective","glosses":[],"strongs":"H8535"},{"id":"job-1-8-15","surface":"וְיָשָׁ֛ר","lemma":"יָשָׁר","translit":"veyashar","morph":"Conjunction + Adjective","glosses":[],"strongs":"H3477"},{"id":"job-1-8-16","surface":"יְרֵ֥א","lemma":"יָרֵא","translit":"yere'","morph":"Adjective","glosses":[],"strongs":"H3373"},{"id":"job-1-8-17","surface":"אֱלֹהִ֖ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"job-1-8-18","surface":"וְסָ֥ר","lemma":"סוּר","translit":"vesar","morph":"Conjunction + Verb Qal Passive Participle","glosses":[],"strongs":"H5493"},{"id":"job-1-8-19","surface":"מֵרָֽע","lemma":"רַע","translit":"mera`","morph":"Preposition + Adjective","glosses":[],"strongs":"H7451"}],"language":"hebrew"},{"ref":"Job 1:9","englishText":"  Then Satan answered Yahweh, and said, “Does Job fear God for nothing?","tokens":[{"id":"job-1-9-0","surface":"וַיַּ֧עַן","lemma":"עָנָה","translit":"vaya`an","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6030"},{"id":"job-1-9-1","surface":"הַשָּׂטָ֛ן","lemma":"שָׂטָן","translit":"hashatan","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7854"},{"id":"job-1-9-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"job-1-9-3","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"job-1-9-4","surface":"וַיֹּאמַ֑ר","lemma":"אָמַר","translit":"vayo'mar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-9-5","surface":"הַֽחִנָּ֔ם","lemma":"חִנָּם","translit":"hachinam","morph":"Particle + Adverb","glosses":[],"strongs":"H2600"},{"id":"job-1-9-6","surface":"יָרֵ֥א","lemma":"יָרֵא","translit":"yare'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H3372"},{"id":"job-1-9-7","surface":"אִיּ֖וֹב","lemma":"אִיּוֹב","translit":"'iyvob","morph":"Noun proper","glosses":[],"strongs":"H347"},{"id":"job-1-9-8","surface":"אֱלֹהִֽים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"}],"language":"hebrew"},{"ref":"Job 1:10","englishText":"Haven’t you made a hedge around him, and around his house, and around all that he has, on every side? You have blessed the work of his hands, and his substance is increased in the land.","tokens":[{"id":"job-1-10-0","surface":"הֲלֹֽא","lemma":"לֹא","translit":"hlo'","morph":"Particle + Particle","glosses":[],"strongs":"H3808"},{"id":"job-1-10-1","surface":"את","lemma":"אַתָּה","translit":"'t","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"job-1-10-2","surface":"אַ֠תָּה","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"job-1-10-3","surface":"שַׂ֣כְתָּ","lemma":"שׂוּךְ","translit":"shaketa","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H7753"},{"id":"job-1-10-4","surface":"בַעֲד֧וֹ","lemma":"בְּעַד","translit":"ba`dvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1157"},{"id":"job-1-10-5","surface":"וּבְעַד","lemma":"בְּעַד","translit":"vbe`ad","morph":"Conjunction + Preposition","glosses":[],"strongs":"H1157"},{"id":"job-1-10-6","surface":"בֵּית֛וֹ","lemma":"בַּיִת","translit":"beytvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1004"},{"id":"job-1-10-7","surface":"וּבְעַ֥ד","lemma":"בְּעַד","translit":"vbe`ad","morph":"Conjunction + Preposition","glosses":[],"strongs":"H1157"},{"id":"job-1-10-8","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"job-1-10-9","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"job-1-10-10","surface":"ל֖וֹ","lemma":"ל֖וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"job-1-10-11","surface":"מִסָּבִ֑יב","lemma":"סָבִיב","translit":"misabiyb","morph":"Preposition + Noun common singular absolute","glosses":[],"strongs":"H5439"},{"id":"job-1-10-12","surface":"מַעֲשֵׂ֤ה","lemma":"מַעֲשֶׂה","translit":"ma`sheh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4639"},{"id":"job-1-10-13","surface":"יָדָיו֙","lemma":"יָד","translit":"yadayv","morph":"Noun common dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3027"},{"id":"job-1-10-14","surface":"בֵּרַ֔כְתָּ","lemma":"בָרַךְ","translit":"beraketa","morph":"Verb Piel Participle 2nd masculine singular","glosses":[],"strongs":"H1288"},{"id":"job-1-10-15","surface":"וּמִקְנֵ֖הוּ","lemma":"מִקְנֶה","translit":"vmiqenehv","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H4735"},{"id":"job-1-10-16","surface":"פָּרַ֥ץ","lemma":"פָּרַץ","translit":"parats","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H6555"},{"id":"job-1-10-17","surface":"בָּאָֽרֶץ","lemma":"אֶרֶץ","translit":"ba'arets","morph":"Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Job 1:11","englishText":"But stretch out your hand now, and touch all that he has, and he will renounce you to your face.”  ","tokens":[{"id":"job-1-11-0","surface":"וְאוּלָם֙","lemma":"אוּלָם","translit":"ve'vlam","morph":"Conjunction + Adverb","glosses":[],"strongs":"H199"},{"id":"job-1-11-1","surface":"שְֽׁלַֽח","lemma":"שָׁלַח","translit":"shelach","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H7971"},{"id":"job-1-11-2","surface":"נָ֣א","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"job-1-11-3","surface":"יָֽדְךָ֔","lemma":"יָד","translit":"yadeka","morph":"Noun common singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3027"},{"id":"job-1-11-4","surface":"וְגַ֖ע","lemma":"נָגַע","translit":"vega`","morph":"Conjunction + Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H5060"},{"id":"job-1-11-5","surface":"בְּכָל","lemma":"כֹּל","translit":"bekal","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"job-1-11-6","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"job-1-11-7","surface":"ל֑וֹ","lemma":"ל֑וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"job-1-11-8","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"job-1-11-9","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"job-1-11-10","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"job-1-11-11","surface":"פָּנֶ֖יךָ","lemma":"פָּנִים","translit":"paneyka","morph":"Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6440"},{"id":"job-1-11-12","surface":"יְבָרֲכֶֽךָּ","lemma":"בָרַךְ","translit":"yebarkeka","morph":"Verb Piel Imperative 3rd masculine singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1288"}],"language":"hebrew"},{"ref":"Job 1:12","englishText":"  Yahweh said to Satan, “Behold, all that he has is in your power. Only on himself don’t stretch out your hand.”   So Satan went out from the presence of Yahweh.","tokens":[{"id":"job-1-12-0","surface":"וַיֹּ֨אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-12-1","surface":"יְהוָ֜ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"job-1-12-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"job-1-12-3","surface":"הַשָּׂטָ֗ן","lemma":"שָׂטָן","translit":"hashatan","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7854"},{"id":"job-1-12-4","surface":"הִנֵּ֤ה","lemma":"הִנֵּה","translit":"hineh","morph":"Particle masculine","glosses":[],"strongs":"H2009"},{"id":"job-1-12-5","surface":"כָל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"job-1-12-6","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"job-1-12-7","surface":"לוֹ֙","lemma":"לוֹ֙","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"job-1-12-8","surface":"בְּיָדֶ֔ךָ","lemma":"יָד","translit":"beyadeka","morph":"Preposition + Noun common singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3027"},{"id":"job-1-12-9","surface":"רַ֣ק","lemma":"רַק","translit":"raq","morph":"Particle absolute","glosses":[],"strongs":"H7535"},{"id":"job-1-12-10","surface":"אֵלָ֔יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"job-1-12-11","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"job-1-12-12","surface":"תִּשְׁלַ֖ח","lemma":"שָׁלַח","translit":"tishelach","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H7971"},{"id":"job-1-12-13","surface":"יָדֶ֑ךָ","lemma":"יָד","translit":"yadeka","morph":"Noun common singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3027"},{"id":"job-1-12-14","surface":"וַיֵּצֵא֙","lemma":"יָצָא","translit":"vayetse'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3318"},{"id":"job-1-12-15","surface":"הַשָּׂטָ֔ן","lemma":"שָׂטָן","translit":"hashatan","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7854"},{"id":"job-1-12-16","surface":"מֵעִ֖ם","lemma":"עִם","translit":"me`im","morph":"Preposition + Preposition","glosses":[],"strongs":"H5973"},{"id":"job-1-12-17","surface":"פְּנֵ֥י","lemma":"פָּנִים","translit":"peney","morph":"Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"job-1-12-18","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Job 1:13","englishText":"It fell on a day when his sons and his daughters were eating and drinking wine in their eldest brother’s house,","tokens":[{"id":"job-1-13-0","surface":"וַיְהִ֖י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"job-1-13-1","surface":"הַיּ֑וֹם","lemma":"יוֹם","translit":"hayvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"job-1-13-2","surface":"וּבָנָ֨יו","lemma":"בֵּן","translit":"vbanayv","morph":"Conjunction + Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1121"},{"id":"job-1-13-3","surface":"וּבְנֹתָ֤יו","lemma":"בַּת","translit":"vbenotayv","morph":"Conjunction + Noun common feminine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1323"},{"id":"job-1-13-4","surface":"אֹֽכְלִים֙","lemma":"אָכַל","translit":"'okeliym","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H398"},{"id":"job-1-13-5","surface":"וְשֹׁתִ֣ים","lemma":"שָׁתָה","translit":"veshotiym","morph":"Conjunction + Verb Qal Passive Participle","glosses":[],"strongs":"H8354"},{"id":"job-1-13-6","surface":"יַ֔יִן","lemma":"יַיִן","translit":"yayin","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3196"},{"id":"job-1-13-7","surface":"בְּבֵ֖ית","lemma":"בַּיִת","translit":"bebeyt","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"job-1-13-8","surface":"אֲחִיהֶ֥ם","lemma":"אָח","translit":"'chiyhem","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H251"},{"id":"job-1-13-9","surface":"הַבְּכֽוֹר","lemma":"בְּכוֹר","translit":"habekvor","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1060"}],"language":"hebrew"},{"ref":"Job 1:14","englishText":"that there came a messenger to Job, and said, “The oxen were plowing, and the donkeys feeding beside them,","tokens":[{"id":"job-1-14-0","surface":"וּמַלְאָ֛ךְ","lemma":"מֲלְאָךְ","translit":"vmale'ake","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H4397"},{"id":"job-1-14-1","surface":"בָּ֥א","lemma":"בּוֹא","translit":"ba'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"job-1-14-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"job-1-14-3","surface":"אִיּ֖וֹב","lemma":"אִיּוֹב","translit":"'iyvob","morph":"Noun proper","glosses":[],"strongs":"H347"},{"id":"job-1-14-4","surface":"וַיֹּאמַ֑ר","lemma":"אָמַר","translit":"vayo'mar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-14-5","surface":"הַבָּקָר֙","lemma":"בָּקָר","translit":"habaqar","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H1241"},{"id":"job-1-14-6","surface":"הָי֣וּ","lemma":"הָיָה","translit":"hayv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H1961"},{"id":"job-1-14-7","surface":"חֹֽרְשׁ֔וֹת","lemma":"חָרַשׁ","translit":"choreshvot","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H2790"},{"id":"job-1-14-8","surface":"וְהָאֲתֹנ֖וֹת","lemma":"אָתוֹן","translit":"veha'tonvot","morph":"Conjunction + Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H860"},{"id":"job-1-14-9","surface":"רֹע֥וֹת","lemma":"רָעָה","translit":"ro`vot","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H7462"},{"id":"job-1-14-10","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"job-1-14-11","surface":"יְדֵיהֶֽם","lemma":"יָד","translit":"yedeyhem","morph":"Noun common dual construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H3027"}],"language":"hebrew"},{"ref":"Job 1:15","englishText":"and the Sabeans attacked, and took them away. Yes, they have killed the servants with the edge of the sword, and I alone have escaped to tell you.”  ","tokens":[{"id":"job-1-15-0","surface":"וַתִּפֹּ֤ל","lemma":"נָפַל","translit":"vatipol","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H5307"},{"id":"job-1-15-1","surface":"שְׁבָא֙","lemma":"שְׁבָא","translit":"sheba'","morph":"Noun proper","glosses":[],"strongs":"H7614"},{"id":"job-1-15-2","surface":"וַתִּקָּחֵ֔ם","lemma":"לָקַח","translit":"vatiqachem","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H3947"},{"id":"job-1-15-3","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"job-1-15-4","surface":"הַנְּעָרִ֖ים","lemma":"נַעַר","translit":"hane`ariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5288"},{"id":"job-1-15-5","surface":"הִכּ֣וּ","lemma":"נָכָה","translit":"hikv","morph":"Verb Hiphil Participle 3rd common plural","glosses":[],"strongs":"H5221"},{"id":"job-1-15-6","surface":"לְפִי","lemma":"פֶּה","translit":"lepiy","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H6310"},{"id":"job-1-15-7","surface":"חָ֑רֶב","lemma":"חֶרֶב","translit":"chareb","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2719"},{"id":"job-1-15-8","surface":"וָֽאִמָּ֨לְטָ֧ה","lemma":"מָלַט","translit":"va'imaletah","morph":"Conjunction + Verb Niphal Wayyiqtol 1st common singular + Suffix","glosses":[],"strongs":"H4422"},{"id":"job-1-15-9","surface":"רַק","lemma":"רַק","translit":"raq","morph":"Particle absolute","glosses":[],"strongs":"H7535"},{"id":"job-1-15-10","surface":"אֲנִ֛י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"job-1-15-11","surface":"לְבַדִּ֖י","lemma":"בַּד","translit":"lebadiy","morph":"Preposition + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H905"},{"id":"job-1-15-12","surface":"לְהַגִּ֥יד","lemma":"נָגַד","translit":"lehagiyd","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H5046"},{"id":"job-1-15-13","surface":"לָֽךְ","lemma":"לָֽךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Job 1:16","englishText":"  While he was still speaking, there also came another, and said, “The fire of God has fallen from the sky, and has burned up the sheep and the servants, and consumed them, and I alone have escaped to tell you.”  ","tokens":[{"id":"job-1-16-0","surface":"ע֣וֹד","lemma":"עוֹד","translit":"`vod","morph":"Adverb","glosses":[],"strongs":"H5750"},{"id":"job-1-16-1","surface":"זֶ֣ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"job-1-16-2","surface":"מְדַבֵּ֗ר","lemma":"דָבַר","translit":"medaber","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H1696"},{"id":"job-1-16-3","surface":"וְזֶה֮","lemma":"זֶה","translit":"vezeh","morph":"Conjunction + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"job-1-16-4","surface":"בָּ֣א","lemma":"בּוֹא","translit":"ba'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"job-1-16-5","surface":"וַיֹּאמַר֒","lemma":"אָמַר","translit":"vayo'mar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-16-6","surface":"אֵ֣שׁ","lemma":"אֵשׁ","translit":"'esh","morph":"Noun common singular construct","glosses":[],"strongs":"H784"},{"id":"job-1-16-7","surface":"אֱלֹהִ֗ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"job-1-16-8","surface":"נָֽפְלָה֙","lemma":"נָפַל","translit":"napelah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H5307"},{"id":"job-1-16-9","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"job-1-16-10","surface":"הַשָּׁמַ֔יִם","lemma":"שָׁמַיִם","translit":"hashamayim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"job-1-16-11","surface":"וַתִּבְעַ֥ר","lemma":"בָּעַר","translit":"vatibe`ar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H1197"},{"id":"job-1-16-12","surface":"בַּצֹּ֛אן","lemma":"צֹאן","translit":"batso'n","morph":"Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H6629"},{"id":"job-1-16-13","surface":"וּבַנְּעָרִ֖ים","lemma":"נַעַר","translit":"vbane`ariym","morph":"Conjunction + Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5288"},{"id":"job-1-16-14","surface":"וַתֹּאכְלֵ֑ם","lemma":"אָכַל","translit":"vato'kelem","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H398"},{"id":"job-1-16-15","surface":"וָאִמָּ֨לְטָ֧ה","lemma":"מָלַט","translit":"va'imaletah","morph":"Conjunction + Verb Niphal Wayyiqtol 1st common singular + Suffix","glosses":[],"strongs":"H4422"},{"id":"job-1-16-16","surface":"רַק","lemma":"רַק","translit":"raq","morph":"Particle absolute","glosses":[],"strongs":"H7535"},{"id":"job-1-16-17","surface":"אֲנִ֛י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"job-1-16-18","surface":"לְבַדִּ֖י","lemma":"בַּד","translit":"lebadiy","morph":"Preposition + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H905"},{"id":"job-1-16-19","surface":"לְהַגִּ֥יד","lemma":"נָגַד","translit":"lehagiyd","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H5046"},{"id":"job-1-16-20","surface":"לָֽךְ","lemma":"לָֽךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Job 1:17","englishText":"  While he was still speaking, there came also another, and said, “The Chaldeans made three bands, and swept down on the camels, and have taken them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you.”  ","tokens":[{"id":"job-1-17-0","surface":"ע֣וֹד","lemma":"עוֹד","translit":"`vod","morph":"Adverb","glosses":[],"strongs":"H5750"},{"id":"job-1-17-1","surface":"זֶ֣ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"job-1-17-2","surface":"מְדַבֵּ֗ר","lemma":"דָבַר","translit":"medaber","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H1696"},{"id":"job-1-17-3","surface":"וְזֶה֮","lemma":"זֶה","translit":"vezeh","morph":"Conjunction + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"job-1-17-4","surface":"בָּ֣א","lemma":"בּוֹא","translit":"ba'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"job-1-17-5","surface":"וַיֹּאמַר֒","lemma":"אָמַר","translit":"vayo'mar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-17-6","surface":"כַּשְׂדִּ֞ים","lemma":"כַּשְׂדִּי","translit":"kashediym","morph":"Noun proper","glosses":[],"strongs":"H3778"},{"id":"job-1-17-7","surface":"שָׂ֣מוּ","lemma":"שׂוּם","translit":"shamv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H7760"},{"id":"job-1-17-8","surface":"שְׁלֹשָׁ֣ה","lemma":"שָׁלוֹשׁ","translit":"sheloshah","morph":"Adjective common masculine singular absolute","glosses":[],"strongs":"H7969"},{"id":"job-1-17-9","surface":"רָאשִׁ֗ים","lemma":"רֹאשׁ","translit":"ra'shiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H7218"},{"id":"job-1-17-10","surface":"וַֽיִּפְשְׁט֤וּ","lemma":"פָּשַׁט","translit":"vayipeshetv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H6584"},{"id":"job-1-17-11","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"job-1-17-12","surface":"הַגְּמַלִּים֙","lemma":"גָּמָל","translit":"hagemaliym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1581"},{"id":"job-1-17-13","surface":"וַיִּקָּח֔וּם","lemma":"לָקַח","translit":"vayiqachvm","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural + Suffix plural 3rd masculine","glosses":[],"strongs":"H3947"},{"id":"job-1-17-14","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"job-1-17-15","surface":"הַנְּעָרִ֖ים","lemma":"נַעַר","translit":"hane`ariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5288"},{"id":"job-1-17-16","surface":"הִכּ֣וּ","lemma":"נָכָה","translit":"hikv","morph":"Verb Hiphil Participle 3rd common plural","glosses":[],"strongs":"H5221"},{"id":"job-1-17-17","surface":"לְפִי","lemma":"פֶּה","translit":"lepiy","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H6310"},{"id":"job-1-17-18","surface":"חָ֑רֶב","lemma":"חֶרֶב","translit":"chareb","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2719"},{"id":"job-1-17-19","surface":"וָאִמָּ֨לְטָ֧ה","lemma":"מָלַט","translit":"va'imaletah","morph":"Conjunction + Verb Niphal Wayyiqtol 1st common singular + Suffix","glosses":[],"strongs":"H4422"},{"id":"job-1-17-20","surface":"רַק","lemma":"רַק","translit":"raq","morph":"Particle absolute","glosses":[],"strongs":"H7535"},{"id":"job-1-17-21","surface":"אֲנִ֛י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"job-1-17-22","surface":"לְבַדִּ֖י","lemma":"בַּד","translit":"lebadiy","morph":"Preposition + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H905"},{"id":"job-1-17-23","surface":"לְהַגִּ֥יד","lemma":"נָגַד","translit":"lehagiyd","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H5046"},{"id":"job-1-17-24","surface":"לָֽךְ","lemma":"לָֽךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Job 1:18","englishText":"  While he was still speaking, there came also another, and said, “Your sons and your daughters were eating and drinking wine in their eldest brother’s house,","tokens":[{"id":"job-1-18-0","surface":"עַ֚ד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"job-1-18-1","surface":"זֶ֣ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"job-1-18-2","surface":"מְדַבֵּ֔ר","lemma":"דָבַר","translit":"medaber","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H1696"},{"id":"job-1-18-3","surface":"וְזֶ֖ה","lemma":"זֶה","translit":"vezeh","morph":"Conjunction + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"job-1-18-4","surface":"בָּ֣א","lemma":"בּוֹא","translit":"ba'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"job-1-18-5","surface":"וַיֹּאמַ֑ר","lemma":"אָמַר","translit":"vayo'mar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-18-6","surface":"בָּנֶ֨יךָ","lemma":"בֵּן","translit":"baneyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1121"},{"id":"job-1-18-7","surface":"וּבְנוֹתֶ֤יךָ","lemma":"בַּת","translit":"vbenvoteyka","morph":"Conjunction + Noun common feminine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1323"},{"id":"job-1-18-8","surface":"אֹֽכְלִים֙","lemma":"אָכַל","translit":"'okeliym","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H398"},{"id":"job-1-18-9","surface":"וְשֹׁתִ֣ים","lemma":"שָׁתָה","translit":"veshotiym","morph":"Conjunction + Verb Qal Passive Participle","glosses":[],"strongs":"H8354"},{"id":"job-1-18-10","surface":"יַ֔יִן","lemma":"יַיִן","translit":"yayin","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3196"},{"id":"job-1-18-11","surface":"בְּבֵ֖ית","lemma":"בַּיִת","translit":"bebeyt","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"job-1-18-12","surface":"אֲחִיהֶ֥ם","lemma":"אָח","translit":"'chiyhem","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H251"},{"id":"job-1-18-13","surface":"הַבְּכֽוֹר","lemma":"בְּכוֹר","translit":"habekvor","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1060"}],"language":"hebrew"},{"ref":"Job 1:19","englishText":"and behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell on the young men, and they are dead. I alone have escaped to tell you.”  ","tokens":[{"id":"job-1-19-0","surface":"וְהִנֵּה֩","lemma":"הִנֵּה","translit":"vehineh","morph":"Conjunction + Particle masculine","glosses":[],"strongs":"H2009"},{"id":"job-1-19-1","surface":"ר֨וּחַ","lemma":"רוּחַ","translit":"rvcha","morph":"Noun common singular absolute","glosses":[],"strongs":"H7307"},{"id":"job-1-19-2","surface":"גְּדוֹלָ֜ה","lemma":"גָּדוֹל","translit":"gedvolah","morph":"Adjective","glosses":[],"strongs":"H1419"},{"id":"job-1-19-3","surface":"בָּ֣אָה","lemma":"בּוֹא","translit":"ba'ah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H935"},{"id":"job-1-19-4","surface":"מֵעֵ֣בֶר","lemma":"עֵבֶר","translit":"me`eber","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H5676"},{"id":"job-1-19-5","surface":"הַמִּדְבָּ֗ר","lemma":"מִדְבָּר","translit":"hamidebar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4057"},{"id":"job-1-19-6","surface":"וַיִּגַּע֙","lemma":"נָגַע","translit":"vayiga`","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5060"},{"id":"job-1-19-7","surface":"בְּאַרְבַּע֙","lemma":"אַרְבַּע","translit":"be'areba`","morph":"Preposition + Adjective common feminine singular absolute","glosses":[],"strongs":"H702"},{"id":"job-1-19-8","surface":"פִּנּ֣וֹת","lemma":"פִּנָּה","translit":"pinvot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H6438"},{"id":"job-1-19-9","surface":"הַבַּ֔יִת","lemma":"בַּיִת","translit":"habayit","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1004"},{"id":"job-1-19-10","surface":"וַיִּפֹּ֥ל","lemma":"נָפַל","translit":"vayipol","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5307"},{"id":"job-1-19-11","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"job-1-19-12","surface":"הַנְּעָרִ֖ים","lemma":"נַעַר","translit":"hane`ariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5288"},{"id":"job-1-19-13","surface":"וַיָּמ֑וּתוּ","lemma":"מוּת","translit":"vayamvtv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H4191"},{"id":"job-1-19-14","surface":"וָאִמָּ֨לְטָ֧ה","lemma":"מָלַט","translit":"va'imaletah","morph":"Conjunction + Verb Niphal Wayyiqtol 1st common singular + Suffix","glosses":[],"strongs":"H4422"},{"id":"job-1-19-15","surface":"רַק","lemma":"רַק","translit":"raq","morph":"Particle absolute","glosses":[],"strongs":"H7535"},{"id":"job-1-19-16","surface":"אֲנִ֛י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"job-1-19-17","surface":"לְבַדִּ֖י","lemma":"בַּד","translit":"lebadiy","morph":"Preposition + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H905"},{"id":"job-1-19-18","surface":"לְהַגִּ֥יד","lemma":"נָגַד","translit":"lehagiyd","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H5046"},{"id":"job-1-19-19","surface":"לָֽךְ","lemma":"לָֽךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Job 1:20","englishText":"  Then Job arose, and tore his robe, and shaved his head, and fell down on the ground, and worshiped.","tokens":[{"id":"job-1-20-0","surface":"וַיָּ֤קָם","lemma":"קוּם","translit":"vayaqam","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6965"},{"id":"job-1-20-1","surface":"אִיּוֹב֙","lemma":"אִיּוֹב","translit":"'iyvob","morph":"Noun proper","glosses":[],"strongs":"H347"},{"id":"job-1-20-2","surface":"וַיִּקְרַ֣ע","lemma":"קָרַע","translit":"vayiqera`","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7167"},{"id":"job-1-20-3","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"job-1-20-4","surface":"מְעִל֔וֹ","lemma":"מְעִיל","translit":"me`ilvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H4598"},{"id":"job-1-20-5","surface":"וַיָּ֖גָז","lemma":"גַּזָז","translit":"vayagaz","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1494"},{"id":"job-1-20-6","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"job-1-20-7","surface":"רֹאשׁ֑וֹ","lemma":"רֹאשׁ","translit":"ro'shvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7218"},{"id":"job-1-20-8","surface":"וַיִּפֹּ֥ל","lemma":"נָפַל","translit":"vayipol","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5307"},{"id":"job-1-20-9","surface":"אַ֖רְצָה","lemma":"אֶרֶץ","translit":"'aretsah","morph":"Noun common singular absolute + Suffix dual","glosses":[],"strongs":"H776"},{"id":"job-1-20-10","surface":"וַיִּשְׁתָּֽחוּ","lemma":"שָׁחָה","translit":"vayishetachv","morph":"Conjunction + Verb Hithpael Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7812"}],"language":"hebrew"},{"ref":"Job 1:21","englishText":"He said, “Naked I came out of my mother’s womb, and naked shall I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.”","tokens":[{"id":"job-1-21-0","surface":"וַיֹּאמֶר֩","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"job-1-21-1","surface":"עָרֹ֨ם","lemma":"עָרוֹם","translit":"`arom","morph":"Adjective","glosses":[],"strongs":"H6174"},{"id":"job-1-21-2","surface":"יצתי","lemma":"יָצָא","translit":"ytsty","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H3318"},{"id":"job-1-21-3","surface":"יָצָ֜אתִי","lemma":"יָצָא","translit":"yatsa'tiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H3318"},{"id":"job-1-21-4","surface":"מִבֶּ֣טֶן","lemma":"בֶּטֶן","translit":"mibeten","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H990"},{"id":"job-1-21-5","surface":"אִמִּ֗י","lemma":"אֵם","translit":"'imiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H517"},{"id":"job-1-21-6","surface":"וְעָרֹם֙","lemma":"עָרוֹם","translit":"ve`arom","morph":"Conjunction + Adjective","glosses":[],"strongs":"H6174"},{"id":"job-1-21-7","surface":"אָשׁ֣וּב","lemma":"שׁוּב","translit":"'ashvb","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H7725"},{"id":"job-1-21-8","surface":"שָׁ֔מָה","lemma":"שָׁם","translit":"shamah","morph":"Adverb + Suffix dual","glosses":[],"strongs":"H8033"},{"id":"job-1-21-9","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"job-1-21-10","surface":"נָתַ֔ן","lemma":"נָתַן","translit":"natan","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"job-1-21-11","surface":"וַיהוָ֖ה","lemma":"יְהֹוָה","translit":"vayhvah","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3068"},{"id":"job-1-21-12","surface":"לָקָ֑ח","lemma":"לָקַח","translit":"laqach","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H3947"},{"id":"job-1-21-13","surface":"יְהִ֛י","lemma":"הָיָה","translit":"yehiy","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"job-1-21-14","surface":"שֵׁ֥ם","lemma":"שֵׁם","translit":"shem","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"job-1-21-15","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"job-1-21-16","surface":"מְבֹרָֽךְ","lemma":"בָרַךְ","translit":"meborake","morph":"Verb Pual s","glosses":[],"strongs":"H1288"}],"language":"hebrew"},{"ref":"Job 1:22","englishText":"In all this, Job did not sin, nor charge God with wrongdoing.   ","tokens":[{"id":"job-1-22-0","surface":"בְּכָל","lemma":"כֹּל","translit":"bekal","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"job-1-22-1","surface":"זֹ֖את","lemma":"זֹאת","translit":"zo't","morph":"Pronoun dual feminine singular","glosses":[],"strongs":"H2063"},{"id":"job-1-22-2","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"job-1-22-3","surface":"חָטָ֣א","lemma":"חָטָא","translit":"chata'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H2398"},{"id":"job-1-22-4","surface":"אִיּ֑וֹב","lemma":"אִיּוֹב","translit":"'iyvob","morph":"Noun proper","glosses":[],"strongs":"H347"},{"id":"job-1-22-5","surface":"וְלֹא","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"job-1-22-6","surface":"נָתַ֥ן","lemma":"נָתַן","translit":"natan","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"job-1-22-7","surface":"תִּפְלָ֖ה","lemma":"תִּפְלָה","translit":"tipelah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8604"},{"id":"job-1-22-8","surface":"לֵאלֹהִֽים","lemma":"אֱלֹהִים","translit":"le'lohiym","morph":"Preposition + Noun common masculine plural absolute","glosses":[],"strongs":"H430"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "job-1",
+  "name": "Job",
+  "chapter": 1,
+  "verses": [
+    {
+      "ref": "Job 1:1",
+      "englishText": "There was a man in the land of Uz, whose name was Job. That man was blameless and upright, and one who feared God, and turned away from evil.",
+      "tokens": [
+        {
+          "id": "job-1-1-0",
+          "surface": "אִ֛ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "job-1-1-1",
+          "surface": "הָיָ֥ה",
+          "lemma": "הָיָה",
+          "translit": "hayah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "job-1-1-2",
+          "surface": "בְאֶֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "be'erets",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "job-1-1-3",
+          "surface": "ע֖וּץ",
+          "lemma": "עוּץ",
+          "translit": "`vts",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5780"
+        },
+        {
+          "id": "job-1-1-4",
+          "surface": "אִיּ֣וֹב",
+          "lemma": "אִיּוֹב",
+          "translit": "'iyvob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H347"
+        },
+        {
+          "id": "job-1-1-5",
+          "surface": "שְׁמ֑וֹ",
+          "lemma": "שֵׁם",
+          "translit": "shemvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "job-1-1-6",
+          "surface": "וְהָיָ֣ה",
+          "lemma": "הָיָה",
+          "translit": "vehayah",
+          "morph": "Conjunction + Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "job-1-1-7",
+          "surface": "הָאִ֣ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "ha'iysh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "job-1-1-8",
+          "surface": "הַה֗וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "job-1-1-9",
+          "surface": "תָּ֧ם",
+          "lemma": "תָּם",
+          "translit": "tam",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H8535"
+        },
+        {
+          "id": "job-1-1-10",
+          "surface": "וְיָשָׁ֛ר",
+          "lemma": "יָשָׁר",
+          "translit": "veyashar",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H3477"
+        },
+        {
+          "id": "job-1-1-11",
+          "surface": "וִירֵ֥א",
+          "lemma": "יָרֵא",
+          "translit": "viyre'",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H3373"
+        },
+        {
+          "id": "job-1-1-12",
+          "surface": "אֱלֹהִ֖ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "job-1-1-13",
+          "surface": "וְסָ֥ר",
+          "lemma": "סוּר",
+          "translit": "vesar",
+          "morph": "Conjunction + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5493"
+        },
+        {
+          "id": "job-1-1-14",
+          "surface": "מֵרָֽע",
+          "lemma": "רַע",
+          "translit": "mera`",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H7451"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:2",
+      "englishText": "There were born to him seven sons and three daughters.",
+      "tokens": [
+        {
+          "id": "job-1-2-0",
+          "surface": "וַיִּוָּ֥לְדוּ",
+          "lemma": "יָלַד",
+          "translit": "vayivaledv",
+          "morph": "Conjunction + Verb Niphal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3205"
+        },
+        {
+          "id": "job-1-2-1",
+          "surface": "ל֛וֹ",
+          "lemma": "ל֛וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "job-1-2-2",
+          "surface": "שִׁבְעָ֥ה",
+          "lemma": "שֶׁבַע",
+          "translit": "shibe`ah",
+          "morph": "Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7651"
+        },
+        {
+          "id": "job-1-2-3",
+          "surface": "בָנִ֖ים",
+          "lemma": "בֵּן",
+          "translit": "baniym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "job-1-2-4",
+          "surface": "וְשָׁל֥וֹשׁ",
+          "lemma": "שָׁלוֹשׁ",
+          "translit": "veshalvosh",
+          "morph": "Conjunction + Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7969"
+        },
+        {
+          "id": "job-1-2-5",
+          "surface": "בָּנֽוֹת",
+          "lemma": "בַּת",
+          "translit": "banvot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H1323"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:3",
+      "englishText": "His possessions also were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very great household; so that this man was the greatest of all the children of the east.",
+      "tokens": [
+        {
+          "id": "job-1-3-0",
+          "surface": "וַיְהִ֣י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "job-1-3-1",
+          "surface": "מִ֠קְנֵהוּ",
+          "lemma": "מִקְנֶה",
+          "translit": "miqenehv",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4735"
+        },
+        {
+          "id": "job-1-3-2",
+          "surface": "שִֽׁבְעַ֨ת",
+          "lemma": "שֶׁבַע",
+          "translit": "shibe`at",
+          "morph": "Adjective common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7651"
+        },
+        {
+          "id": "job-1-3-3",
+          "surface": "אַלְפֵי",
+          "lemma": "אֶלֶף",
+          "translit": "'alepey",
+          "morph": "Adjective common plural construct",
+          "glosses": [],
+          "strongs": "H505"
+        },
+        {
+          "id": "job-1-3-4",
+          "surface": "צֹ֜אן",
+          "lemma": "צֹאן",
+          "translit": "tso'n",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H6629"
+        },
+        {
+          "id": "job-1-3-5",
+          "surface": "וּשְׁלֹ֧שֶׁת",
+          "lemma": "שָׁלוֹשׁ",
+          "translit": "vsheloshet",
+          "morph": "Conjunction + Adjective common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7969"
+        },
+        {
+          "id": "job-1-3-6",
+          "surface": "אַלְפֵ֣י",
+          "lemma": "אֶלֶף",
+          "translit": "'alepey",
+          "morph": "Adjective common plural construct",
+          "glosses": [],
+          "strongs": "H505"
+        },
+        {
+          "id": "job-1-3-7",
+          "surface": "גְמַלִּ֗ים",
+          "lemma": "גָּמָל",
+          "translit": "gemaliym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1581"
+        },
+        {
+          "id": "job-1-3-8",
+          "surface": "וַחֲמֵ֨שׁ",
+          "lemma": "חָמֵשׁ",
+          "translit": "vachmesh",
+          "morph": "Conjunction + Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2568"
+        },
+        {
+          "id": "job-1-3-9",
+          "surface": "מֵא֤וֹת",
+          "lemma": "מֵאָה",
+          "translit": "me'vot",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H3967"
+        },
+        {
+          "id": "job-1-3-10",
+          "surface": "צֶֽמֶד",
+          "lemma": "צֶמֶד",
+          "translit": "tsemed",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6776"
+        },
+        {
+          "id": "job-1-3-11",
+          "surface": "בָּקָר֙",
+          "lemma": "בָּקָר",
+          "translit": "baqar",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H1241"
+        },
+        {
+          "id": "job-1-3-12",
+          "surface": "וַחֲמֵ֣שׁ",
+          "lemma": "חָמֵשׁ",
+          "translit": "vachmesh",
+          "morph": "Conjunction + Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2568"
+        },
+        {
+          "id": "job-1-3-13",
+          "surface": "מֵא֣וֹת",
+          "lemma": "מֵאָה",
+          "translit": "me'vot",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H3967"
+        },
+        {
+          "id": "job-1-3-14",
+          "surface": "אֲתוֹנ֔וֹת",
+          "lemma": "אָתוֹן",
+          "translit": "'tvonvot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H860"
+        },
+        {
+          "id": "job-1-3-15",
+          "surface": "וַעֲבֻדָּ֖ה",
+          "lemma": "עֲבֻדָּה",
+          "translit": "va`budah",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5657"
+        },
+        {
+          "id": "job-1-3-16",
+          "surface": "רַבָּ֣ה",
+          "lemma": "רַב",
+          "translit": "rabah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7227"
+        },
+        {
+          "id": "job-1-3-17",
+          "surface": "מְאֹ֑ד",
+          "lemma": "מְאֹד",
+          "translit": "me'od",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3966"
+        },
+        {
+          "id": "job-1-3-18",
+          "surface": "וַיְהִי֙",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "job-1-3-19",
+          "surface": "הָאִ֣ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "ha'iysh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "job-1-3-20",
+          "surface": "הַה֔וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "job-1-3-21",
+          "surface": "גָּד֖וֹל",
+          "lemma": "גָּדוֹל",
+          "translit": "gadvol",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1419"
+        },
+        {
+          "id": "job-1-3-22",
+          "surface": "מִכָּל",
+          "lemma": "כֹּל",
+          "translit": "mikal",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "job-1-3-23",
+          "surface": "בְּנֵי",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "job-1-3-24",
+          "surface": "קֶֽדֶם",
+          "lemma": "קֶדֶם",
+          "translit": "qedem",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6924"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:4",
+      "englishText": "His sons went and held a feast in the house of each one on his birthday; and they sent and called for their three sisters to eat and to drink with them.",
+      "tokens": [
+        {
+          "id": "job-1-4-0",
+          "surface": "וְהָלְכ֤וּ",
+          "lemma": "הָלַךְ",
+          "translit": "vehalekv",
+          "morph": "Conjunction + Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "job-1-4-1",
+          "surface": "בָנָיו֙",
+          "lemma": "בֵּן",
+          "translit": "banayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "job-1-4-2",
+          "surface": "וְעָשׂ֣וּ",
+          "lemma": "עָשָׂה",
+          "translit": "ve`ashv",
+          "morph": "Conjunction + Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "job-1-4-3",
+          "surface": "מִשְׁתֶּ֔ה",
+          "lemma": "מִשְׁתֶּה",
+          "translit": "misheteh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4960"
+        },
+        {
+          "id": "job-1-4-4",
+          "surface": "בֵּ֖ית",
+          "lemma": "בַּיִת",
+          "translit": "beyt",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "job-1-4-5",
+          "surface": "אִ֣ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "job-1-4-6",
+          "surface": "יוֹמ֑וֹ",
+          "lemma": "יוֹם",
+          "translit": "yvomvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "job-1-4-7",
+          "surface": "וְשָׁלְח֗וּ",
+          "lemma": "שָׁלַח",
+          "translit": "veshalechv",
+          "morph": "Conjunction + Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "job-1-4-8",
+          "surface": "וְקָרְאוּ֙",
+          "lemma": "קָרָא",
+          "translit": "veqare'v",
+          "morph": "Conjunction + Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "job-1-4-9",
+          "surface": "לִשְׁלֹ֣שֶׁת",
+          "lemma": "שָׁלוֹשׁ",
+          "translit": "lisheloshet",
+          "morph": "Preposition + Adjective common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7969"
+        },
+        {
+          "id": "job-1-4-10",
+          "surface": "אחיתיהם",
+          "lemma": "אָחוֹת",
+          "translit": "'chytyhm",
+          "morph": "Noun common feminine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H269"
+        },
+        {
+          "id": "job-1-4-11",
+          "surface": "אַחְיֽוֹתֵיהֶ֔ם",
+          "lemma": "אָחוֹת",
+          "translit": "'acheyvoteyhem",
+          "morph": "Noun common feminine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H269"
+        },
+        {
+          "id": "job-1-4-12",
+          "surface": "לֶאֱכֹ֥ל",
+          "lemma": "אָכַל",
+          "translit": "le'kol",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "job-1-4-13",
+          "surface": "וְלִשְׁתּ֖וֹת",
+          "lemma": "שָׁתָה",
+          "translit": "velishetvot",
+          "morph": "Conjunction + Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H8354"
+        },
+        {
+          "id": "job-1-4-14",
+          "surface": "עִמָּהֶֽם",
+          "lemma": "עִם",
+          "translit": "`imahem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5973"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:5",
+      "englishText": "It was so, when the days of their feasting had run their course, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all. For Job said, “It may be that my sons have sinned, and renounced God in their hearts.” Job did so continually.  ",
+      "tokens": [
+        {
+          "id": "job-1-5-0",
+          "surface": "וַיְהִ֡י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "job-1-5-1",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "job-1-5-2",
+          "surface": "הִקִּיפֽוּ֩",
+          "lemma": "נָקַף",
+          "translit": "hiqiypv",
+          "morph": "Verb Hiphil Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H5362"
+        },
+        {
+          "id": "job-1-5-3",
+          "surface": "יְמֵ֨י",
+          "lemma": "יוֹם",
+          "translit": "yemey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "job-1-5-4",
+          "surface": "הַמִּשְׁתֶּ֜ה",
+          "lemma": "מִשְׁתֶּה",
+          "translit": "hamisheteh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4960"
+        },
+        {
+          "id": "job-1-5-5",
+          "surface": "וַיִּשְׁלַ֧ח",
+          "lemma": "שָׁלַח",
+          "translit": "vayishelach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "job-1-5-6",
+          "surface": "אִיּ֣וֹב",
+          "lemma": "אִיּוֹב",
+          "translit": "'iyvob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H347"
+        },
+        {
+          "id": "job-1-5-7",
+          "surface": "וַֽיְקַדְּשֵׁ֗ם",
+          "lemma": "קָדַשׁ",
+          "translit": "vayeqadeshem",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6942"
+        },
+        {
+          "id": "job-1-5-8",
+          "surface": "וְהִשְׁכִּ֣ים",
+          "lemma": "שָׁכַם",
+          "translit": "vehishekiym",
+          "morph": "Conjunction + Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7925"
+        },
+        {
+          "id": "job-1-5-9",
+          "surface": "בַּבֹּקֶר֮",
+          "lemma": "בֹּקֶר",
+          "translit": "baboqer",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1242"
+        },
+        {
+          "id": "job-1-5-10",
+          "surface": "וְהֶעֱלָ֣ה",
+          "lemma": "עָלָה",
+          "translit": "vehe`lah",
+          "morph": "Conjunction + Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "job-1-5-11",
+          "surface": "עֹלוֹת֮",
+          "lemma": "עֹלָה",
+          "translit": "`olvot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H5930"
+        },
+        {
+          "id": "job-1-5-12",
+          "surface": "מִסְפַּ֣ר",
+          "lemma": "מִסְפָּר",
+          "translit": "misepar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4557"
+        },
+        {
+          "id": "job-1-5-13",
+          "surface": "כֻּלָּם֒",
+          "lemma": "כֹּל",
+          "translit": "kulam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "job-1-5-14",
+          "surface": "כִּ֚י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "job-1-5-15",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-5-16",
+          "surface": "אִיּ֔וֹב",
+          "lemma": "אִיּוֹב",
+          "translit": "'iyvob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H347"
+        },
+        {
+          "id": "job-1-5-17",
+          "surface": "אוּלַי֙",
+          "lemma": "אוּלַי",
+          "translit": "'vlay",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H194"
+        },
+        {
+          "id": "job-1-5-18",
+          "surface": "חָטְא֣וּ",
+          "lemma": "חָטָא",
+          "translit": "chate'v",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H2398"
+        },
+        {
+          "id": "job-1-5-19",
+          "surface": "בָנַ֔י",
+          "lemma": "בֵּן",
+          "translit": "banay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "job-1-5-20",
+          "surface": "וּבֵרֲכ֥וּ",
+          "lemma": "בָרַךְ",
+          "translit": "vberkv",
+          "morph": "Conjunction + Verb Piel Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H1288"
+        },
+        {
+          "id": "job-1-5-21",
+          "surface": "אֱלֹהִ֖ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "job-1-5-22",
+          "surface": "בִּלְבָבָ֑ם",
+          "lemma": "לֵבָב",
+          "translit": "bilebabam",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "job-1-5-23",
+          "surface": "כָּ֛כָה",
+          "lemma": "כָּכָה",
+          "translit": "kakah",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3602"
+        },
+        {
+          "id": "job-1-5-24",
+          "surface": "יַעֲשֶׂ֥ה",
+          "lemma": "עָשָׂה",
+          "translit": "ya`sheh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "job-1-5-25",
+          "surface": "אִיּ֖וֹב",
+          "lemma": "אִיּוֹב",
+          "translit": "'iyvob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H347"
+        },
+        {
+          "id": "job-1-5-26",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "job-1-5-27",
+          "surface": "הַיָּמִֽים",
+          "lemma": "יוֹם",
+          "translit": "hayamiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:6",
+      "englishText": "  Now on the day when God’s sons came to present themselves before Yahweh, Satan also came among them.",
+      "tokens": [
+        {
+          "id": "job-1-6-0",
+          "surface": "וַיְהִ֣י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "job-1-6-1",
+          "surface": "הַיּ֔וֹם",
+          "lemma": "יוֹם",
+          "translit": "hayvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "job-1-6-2",
+          "surface": "וַיָּבֹ֨אוּ֙",
+          "lemma": "בּוֹא",
+          "translit": "vayabo'v",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "job-1-6-3",
+          "surface": "בְּנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "job-1-6-4",
+          "surface": "הָאֱלֹהִ֔ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "ha'lohiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "job-1-6-5",
+          "surface": "לְהִתְיַצֵּ֖ב",
+          "lemma": "יָצַב",
+          "translit": "lehiteyatseb",
+          "morph": "Preposition + Verb Hithpael Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3320"
+        },
+        {
+          "id": "job-1-6-6",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "job-1-6-7",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "job-1-6-8",
+          "surface": "וַיָּב֥וֹא",
+          "lemma": "בּוֹא",
+          "translit": "vayabvo'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "job-1-6-9",
+          "surface": "גַֽם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "job-1-6-10",
+          "surface": "הַשָּׂטָ֖ן",
+          "lemma": "שָׂטָן",
+          "translit": "hashatan",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7854"
+        },
+        {
+          "id": "job-1-6-11",
+          "surface": "בְּתוֹכָֽם",
+          "lemma": "תָּוֶךְ",
+          "translit": "betvokam",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H8432"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:7",
+      "englishText": "Yahweh said to Satan, “Where have you come from?”   Then Satan answered Yahweh, and said, “From going back and forth in the earth, and from walking up and down in it.”  ",
+      "tokens": [
+        {
+          "id": "job-1-7-0",
+          "surface": "וַיֹּ֧אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-7-1",
+          "surface": "יְהוָ֛ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "job-1-7-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "job-1-7-3",
+          "surface": "הַשָּׂטָ֖ן",
+          "lemma": "שָׂטָן",
+          "translit": "hashatan",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7854"
+        },
+        {
+          "id": "job-1-7-4",
+          "surface": "מֵאַ֣יִן",
+          "lemma": "אַיִן",
+          "translit": "me'ayin",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H370"
+        },
+        {
+          "id": "job-1-7-5",
+          "surface": "תָּבֹ֑א",
+          "lemma": "בּוֹא",
+          "translit": "tabo'",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "job-1-7-6",
+          "surface": "וַיַּ֨עַן",
+          "lemma": "עָנָה",
+          "translit": "vaya`an",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "job-1-7-7",
+          "surface": "הַשָּׂטָ֤ן",
+          "lemma": "שָׂטָן",
+          "translit": "hashatan",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7854"
+        },
+        {
+          "id": "job-1-7-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "job-1-7-9",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "job-1-7-10",
+          "surface": "וַיֹּאמַ֔ר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-7-11",
+          "surface": "מִשּׁ֣וּט",
+          "lemma": "שׁוּט",
+          "translit": "mishvt",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7751"
+        },
+        {
+          "id": "job-1-7-12",
+          "surface": "בָּאָ֔רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ba'arets",
+          "morph": "Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "job-1-7-13",
+          "surface": "וּמֵֽהִתְהַלֵּ֖ךְ",
+          "lemma": "הָלַךְ",
+          "translit": "vmehitehaleke",
+          "morph": "Conjunction + Preposition + Verb Hithpael Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "job-1-7-14",
+          "surface": "בָּֽהּ",
+          "lemma": "בָּֽהּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:8",
+      "englishText": "  Yahweh said to Satan, “Have you considered my servant, Job? For there is no one like him in the earth, a blameless and an upright man, one who fears God, and turns away from evil.”  ",
+      "tokens": [
+        {
+          "id": "job-1-8-0",
+          "surface": "וַיֹּ֤אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-8-1",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "job-1-8-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "job-1-8-3",
+          "surface": "הַשָּׂטָ֔ן",
+          "lemma": "שָׂטָן",
+          "translit": "hashatan",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7854"
+        },
+        {
+          "id": "job-1-8-4",
+          "surface": "הֲשַׂ֥מְתָּ",
+          "lemma": "שׂוּם",
+          "translit": "hshameta",
+          "morph": "Particle + Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "job-1-8-5",
+          "surface": "לִבְּךָ֖",
+          "lemma": "לֵב",
+          "translit": "libeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "job-1-8-6",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "job-1-8-7",
+          "surface": "עַבְדִּ֣י",
+          "lemma": "עֶבֶד",
+          "translit": "`abediy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "job-1-8-8",
+          "surface": "אִיּ֑וֹב",
+          "lemma": "אִיּוֹב",
+          "translit": "'iyvob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H347"
+        },
+        {
+          "id": "job-1-8-9",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "job-1-8-10",
+          "surface": "אֵ֤ין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "job-1-8-11",
+          "surface": "כָּמֹ֨הוּ֙",
+          "lemma": "כְּמוֹ",
+          "translit": "kamohv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3644"
+        },
+        {
+          "id": "job-1-8-12",
+          "surface": "בָּאָ֔רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ba'arets",
+          "morph": "Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "job-1-8-13",
+          "surface": "אִ֣ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "job-1-8-14",
+          "surface": "תָּ֧ם",
+          "lemma": "תָּם",
+          "translit": "tam",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H8535"
+        },
+        {
+          "id": "job-1-8-15",
+          "surface": "וְיָשָׁ֛ר",
+          "lemma": "יָשָׁר",
+          "translit": "veyashar",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H3477"
+        },
+        {
+          "id": "job-1-8-16",
+          "surface": "יְרֵ֥א",
+          "lemma": "יָרֵא",
+          "translit": "yere'",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H3373"
+        },
+        {
+          "id": "job-1-8-17",
+          "surface": "אֱלֹהִ֖ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "job-1-8-18",
+          "surface": "וְסָ֥ר",
+          "lemma": "סוּר",
+          "translit": "vesar",
+          "morph": "Conjunction + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5493"
+        },
+        {
+          "id": "job-1-8-19",
+          "surface": "מֵרָֽע",
+          "lemma": "רַע",
+          "translit": "mera`",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H7451"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:9",
+      "englishText": "  Then Satan answered Yahweh, and said, “Does Job fear God for nothing?",
+      "tokens": [
+        {
+          "id": "job-1-9-0",
+          "surface": "וַיַּ֧עַן",
+          "lemma": "עָנָה",
+          "translit": "vaya`an",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "job-1-9-1",
+          "surface": "הַשָּׂטָ֛ן",
+          "lemma": "שָׂטָן",
+          "translit": "hashatan",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7854"
+        },
+        {
+          "id": "job-1-9-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "job-1-9-3",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "job-1-9-4",
+          "surface": "וַיֹּאמַ֑ר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-9-5",
+          "surface": "הַֽחִנָּ֔ם",
+          "lemma": "חִנָּם",
+          "translit": "hachinam",
+          "morph": "Particle + Adverb",
+          "glosses": [],
+          "strongs": "H2600"
+        },
+        {
+          "id": "job-1-9-6",
+          "surface": "יָרֵ֥א",
+          "lemma": "יָרֵא",
+          "translit": "yare'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "job-1-9-7",
+          "surface": "אִיּ֖וֹב",
+          "lemma": "אִיּוֹב",
+          "translit": "'iyvob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H347"
+        },
+        {
+          "id": "job-1-9-8",
+          "surface": "אֱלֹהִֽים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:10",
+      "englishText": "Haven’t you made a hedge around him, and around his house, and around all that he has, on every side? You have blessed the work of his hands, and his substance is increased in the land.",
+      "tokens": [
+        {
+          "id": "job-1-10-0",
+          "surface": "הֲלֹֽא",
+          "lemma": "לֹא",
+          "translit": "hlo'",
+          "morph": "Particle + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "job-1-10-1",
+          "surface": "את",
+          "lemma": "אַתָּה",
+          "translit": "'t",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "job-1-10-2",
+          "surface": "אַ֠תָּה",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "job-1-10-3",
+          "surface": "שַׂ֣כְתָּ",
+          "lemma": "שׂוּךְ",
+          "translit": "shaketa",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7753"
+        },
+        {
+          "id": "job-1-10-4",
+          "surface": "בַעֲד֧וֹ",
+          "lemma": "בְּעַד",
+          "translit": "ba`dvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1157"
+        },
+        {
+          "id": "job-1-10-5",
+          "surface": "וּבְעַד",
+          "lemma": "בְּעַד",
+          "translit": "vbe`ad",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H1157"
+        },
+        {
+          "id": "job-1-10-6",
+          "surface": "בֵּית֛וֹ",
+          "lemma": "בַּיִת",
+          "translit": "beytvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "job-1-10-7",
+          "surface": "וּבְעַ֥ד",
+          "lemma": "בְּעַד",
+          "translit": "vbe`ad",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H1157"
+        },
+        {
+          "id": "job-1-10-8",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "job-1-10-9",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "job-1-10-10",
+          "surface": "ל֖וֹ",
+          "lemma": "ל֖וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "job-1-10-11",
+          "surface": "מִסָּבִ֑יב",
+          "lemma": "סָבִיב",
+          "translit": "misabiyb",
+          "morph": "Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H5439"
+        },
+        {
+          "id": "job-1-10-12",
+          "surface": "מַעֲשֵׂ֤ה",
+          "lemma": "מַעֲשֶׂה",
+          "translit": "ma`sheh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4639"
+        },
+        {
+          "id": "job-1-10-13",
+          "surface": "יָדָיו֙",
+          "lemma": "יָד",
+          "translit": "yadayv",
+          "morph": "Noun common dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "job-1-10-14",
+          "surface": "בֵּרַ֔כְתָּ",
+          "lemma": "בָרַךְ",
+          "translit": "beraketa",
+          "morph": "Verb Piel Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1288"
+        },
+        {
+          "id": "job-1-10-15",
+          "surface": "וּמִקְנֵ֖הוּ",
+          "lemma": "מִקְנֶה",
+          "translit": "vmiqenehv",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4735"
+        },
+        {
+          "id": "job-1-10-16",
+          "surface": "פָּרַ֥ץ",
+          "lemma": "פָּרַץ",
+          "translit": "parats",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6555"
+        },
+        {
+          "id": "job-1-10-17",
+          "surface": "בָּאָֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ba'arets",
+          "morph": "Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:11",
+      "englishText": "But stretch out your hand now, and touch all that he has, and he will renounce you to your face.”  ",
+      "tokens": [
+        {
+          "id": "job-1-11-0",
+          "surface": "וְאוּלָם֙",
+          "lemma": "אוּלָם",
+          "translit": "ve'vlam",
+          "morph": "Conjunction + Adverb",
+          "glosses": [],
+          "strongs": "H199"
+        },
+        {
+          "id": "job-1-11-1",
+          "surface": "שְֽׁלַֽח",
+          "lemma": "שָׁלַח",
+          "translit": "shelach",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "job-1-11-2",
+          "surface": "נָ֣א",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "job-1-11-3",
+          "surface": "יָֽדְךָ֔",
+          "lemma": "יָד",
+          "translit": "yadeka",
+          "morph": "Noun common singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "job-1-11-4",
+          "surface": "וְגַ֖ע",
+          "lemma": "נָגַע",
+          "translit": "vega`",
+          "morph": "Conjunction + Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5060"
+        },
+        {
+          "id": "job-1-11-5",
+          "surface": "בְּכָל",
+          "lemma": "כֹּל",
+          "translit": "bekal",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "job-1-11-6",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "job-1-11-7",
+          "surface": "ל֑וֹ",
+          "lemma": "ל֑וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "job-1-11-8",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "job-1-11-9",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "job-1-11-10",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "job-1-11-11",
+          "surface": "פָּנֶ֖יךָ",
+          "lemma": "פָּנִים",
+          "translit": "paneyka",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "job-1-11-12",
+          "surface": "יְבָרֲכֶֽךָּ",
+          "lemma": "בָרַךְ",
+          "translit": "yebarkeka",
+          "morph": "Verb Piel Imperative 3rd masculine singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1288"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:12",
+      "englishText": "  Yahweh said to Satan, “Behold, all that he has is in your power. Only on himself don’t stretch out your hand.”   So Satan went out from the presence of Yahweh.",
+      "tokens": [
+        {
+          "id": "job-1-12-0",
+          "surface": "וַיֹּ֨אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-12-1",
+          "surface": "יְהוָ֜ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "job-1-12-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "job-1-12-3",
+          "surface": "הַשָּׂטָ֗ן",
+          "lemma": "שָׂטָן",
+          "translit": "hashatan",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7854"
+        },
+        {
+          "id": "job-1-12-4",
+          "surface": "הִנֵּ֤ה",
+          "lemma": "הִנֵּה",
+          "translit": "hineh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "job-1-12-5",
+          "surface": "כָל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "job-1-12-6",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "job-1-12-7",
+          "surface": "לוֹ֙",
+          "lemma": "לוֹ֙",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "job-1-12-8",
+          "surface": "בְּיָדֶ֔ךָ",
+          "lemma": "יָד",
+          "translit": "beyadeka",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "job-1-12-9",
+          "surface": "רַ֣ק",
+          "lemma": "רַק",
+          "translit": "raq",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H7535"
+        },
+        {
+          "id": "job-1-12-10",
+          "surface": "אֵלָ֔יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "job-1-12-11",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "job-1-12-12",
+          "surface": "תִּשְׁלַ֖ח",
+          "lemma": "שָׁלַח",
+          "translit": "tishelach",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "job-1-12-13",
+          "surface": "יָדֶ֑ךָ",
+          "lemma": "יָד",
+          "translit": "yadeka",
+          "morph": "Noun common singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "job-1-12-14",
+          "surface": "וַיֵּצֵא֙",
+          "lemma": "יָצָא",
+          "translit": "vayetse'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "job-1-12-15",
+          "surface": "הַשָּׂטָ֔ן",
+          "lemma": "שָׂטָן",
+          "translit": "hashatan",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7854"
+        },
+        {
+          "id": "job-1-12-16",
+          "surface": "מֵעִ֖ם",
+          "lemma": "עִם",
+          "translit": "me`im",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "job-1-12-17",
+          "surface": "פְּנֵ֥י",
+          "lemma": "פָּנִים",
+          "translit": "peney",
+          "morph": "Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "job-1-12-18",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:13",
+      "englishText": "It fell on a day when his sons and his daughters were eating and drinking wine in their eldest brother’s house,",
+      "tokens": [
+        {
+          "id": "job-1-13-0",
+          "surface": "וַיְהִ֖י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "job-1-13-1",
+          "surface": "הַיּ֑וֹם",
+          "lemma": "יוֹם",
+          "translit": "hayvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "job-1-13-2",
+          "surface": "וּבָנָ֨יו",
+          "lemma": "בֵּן",
+          "translit": "vbanayv",
+          "morph": "Conjunction + Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "job-1-13-3",
+          "surface": "וּבְנֹתָ֤יו",
+          "lemma": "בַּת",
+          "translit": "vbenotayv",
+          "morph": "Conjunction + Noun common feminine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "job-1-13-4",
+          "surface": "אֹֽכְלִים֙",
+          "lemma": "אָכַל",
+          "translit": "'okeliym",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "job-1-13-5",
+          "surface": "וְשֹׁתִ֣ים",
+          "lemma": "שָׁתָה",
+          "translit": "veshotiym",
+          "morph": "Conjunction + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H8354"
+        },
+        {
+          "id": "job-1-13-6",
+          "surface": "יַ֔יִן",
+          "lemma": "יַיִן",
+          "translit": "yayin",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3196"
+        },
+        {
+          "id": "job-1-13-7",
+          "surface": "בְּבֵ֖ית",
+          "lemma": "בַּיִת",
+          "translit": "bebeyt",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "job-1-13-8",
+          "surface": "אֲחִיהֶ֥ם",
+          "lemma": "אָח",
+          "translit": "'chiyhem",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H251"
+        },
+        {
+          "id": "job-1-13-9",
+          "surface": "הַבְּכֽוֹר",
+          "lemma": "בְּכוֹר",
+          "translit": "habekvor",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1060"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:14",
+      "englishText": "that there came a messenger to Job, and said, “The oxen were plowing, and the donkeys feeding beside them,",
+      "tokens": [
+        {
+          "id": "job-1-14-0",
+          "surface": "וּמַלְאָ֛ךְ",
+          "lemma": "מֲלְאָךְ",
+          "translit": "vmale'ake",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4397"
+        },
+        {
+          "id": "job-1-14-1",
+          "surface": "בָּ֥א",
+          "lemma": "בּוֹא",
+          "translit": "ba'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "job-1-14-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "job-1-14-3",
+          "surface": "אִיּ֖וֹב",
+          "lemma": "אִיּוֹב",
+          "translit": "'iyvob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H347"
+        },
+        {
+          "id": "job-1-14-4",
+          "surface": "וַיֹּאמַ֑ר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-14-5",
+          "surface": "הַבָּקָר֙",
+          "lemma": "בָּקָר",
+          "translit": "habaqar",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H1241"
+        },
+        {
+          "id": "job-1-14-6",
+          "surface": "הָי֣וּ",
+          "lemma": "הָיָה",
+          "translit": "hayv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "job-1-14-7",
+          "surface": "חֹֽרְשׁ֔וֹת",
+          "lemma": "חָרַשׁ",
+          "translit": "choreshvot",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H2790"
+        },
+        {
+          "id": "job-1-14-8",
+          "surface": "וְהָאֲתֹנ֖וֹת",
+          "lemma": "אָתוֹן",
+          "translit": "veha'tonvot",
+          "morph": "Conjunction + Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H860"
+        },
+        {
+          "id": "job-1-14-9",
+          "surface": "רֹע֥וֹת",
+          "lemma": "רָעָה",
+          "translit": "ro`vot",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7462"
+        },
+        {
+          "id": "job-1-14-10",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "job-1-14-11",
+          "surface": "יְדֵיהֶֽם",
+          "lemma": "יָד",
+          "translit": "yedeyhem",
+          "morph": "Noun common dual construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3027"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:15",
+      "englishText": "and the Sabeans attacked, and took them away. Yes, they have killed the servants with the edge of the sword, and I alone have escaped to tell you.”  ",
+      "tokens": [
+        {
+          "id": "job-1-15-0",
+          "surface": "וַתִּפֹּ֤ל",
+          "lemma": "נָפַל",
+          "translit": "vatipol",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "job-1-15-1",
+          "surface": "שְׁבָא֙",
+          "lemma": "שְׁבָא",
+          "translit": "sheba'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7614"
+        },
+        {
+          "id": "job-1-15-2",
+          "surface": "וַתִּקָּחֵ֔ם",
+          "lemma": "לָקַח",
+          "translit": "vatiqachem",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "job-1-15-3",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "job-1-15-4",
+          "surface": "הַנְּעָרִ֖ים",
+          "lemma": "נַעַר",
+          "translit": "hane`ariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "job-1-15-5",
+          "surface": "הִכּ֣וּ",
+          "lemma": "נָכָה",
+          "translit": "hikv",
+          "morph": "Verb Hiphil Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H5221"
+        },
+        {
+          "id": "job-1-15-6",
+          "surface": "לְפִי",
+          "lemma": "פֶּה",
+          "translit": "lepiy",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6310"
+        },
+        {
+          "id": "job-1-15-7",
+          "surface": "חָ֑רֶב",
+          "lemma": "חֶרֶב",
+          "translit": "chareb",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "job-1-15-8",
+          "surface": "וָֽאִמָּ֨לְטָ֧ה",
+          "lemma": "מָלַט",
+          "translit": "va'imaletah",
+          "morph": "Conjunction + Verb Niphal Wayyiqtol 1st common singular + Suffix",
+          "glosses": [],
+          "strongs": "H4422"
+        },
+        {
+          "id": "job-1-15-9",
+          "surface": "רַק",
+          "lemma": "רַק",
+          "translit": "raq",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H7535"
+        },
+        {
+          "id": "job-1-15-10",
+          "surface": "אֲנִ֛י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "job-1-15-11",
+          "surface": "לְבַדִּ֖י",
+          "lemma": "בַּד",
+          "translit": "lebadiy",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H905"
+        },
+        {
+          "id": "job-1-15-12",
+          "surface": "לְהַגִּ֥יד",
+          "lemma": "נָגַד",
+          "translit": "lehagiyd",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "job-1-15-13",
+          "surface": "לָֽךְ",
+          "lemma": "לָֽךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:16",
+      "englishText": "  While he was still speaking, there also came another, and said, “The fire of God has fallen from the sky, and has burned up the sheep and the servants, and consumed them, and I alone have escaped to tell you.”  ",
+      "tokens": [
+        {
+          "id": "job-1-16-0",
+          "surface": "ע֣וֹד",
+          "lemma": "עוֹד",
+          "translit": "`vod",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H5750"
+        },
+        {
+          "id": "job-1-16-1",
+          "surface": "זֶ֣ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "job-1-16-2",
+          "surface": "מְדַבֵּ֗ר",
+          "lemma": "דָבַר",
+          "translit": "medaber",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "job-1-16-3",
+          "surface": "וְזֶה֮",
+          "lemma": "זֶה",
+          "translit": "vezeh",
+          "morph": "Conjunction + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "job-1-16-4",
+          "surface": "בָּ֣א",
+          "lemma": "בּוֹא",
+          "translit": "ba'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "job-1-16-5",
+          "surface": "וַיֹּאמַר֒",
+          "lemma": "אָמַר",
+          "translit": "vayo'mar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-16-6",
+          "surface": "אֵ֣שׁ",
+          "lemma": "אֵשׁ",
+          "translit": "'esh",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H784"
+        },
+        {
+          "id": "job-1-16-7",
+          "surface": "אֱלֹהִ֗ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "job-1-16-8",
+          "surface": "נָֽפְלָה֙",
+          "lemma": "נָפַל",
+          "translit": "napelah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "job-1-16-9",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "job-1-16-10",
+          "surface": "הַשָּׁמַ֔יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "hashamayim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "job-1-16-11",
+          "surface": "וַתִּבְעַ֥ר",
+          "lemma": "בָּעַר",
+          "translit": "vatibe`ar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1197"
+        },
+        {
+          "id": "job-1-16-12",
+          "surface": "בַּצֹּ֛אן",
+          "lemma": "צֹאן",
+          "translit": "batso'n",
+          "morph": "Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H6629"
+        },
+        {
+          "id": "job-1-16-13",
+          "surface": "וּבַנְּעָרִ֖ים",
+          "lemma": "נַעַר",
+          "translit": "vbane`ariym",
+          "morph": "Conjunction + Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "job-1-16-14",
+          "surface": "וַתֹּאכְלֵ֑ם",
+          "lemma": "אָכַל",
+          "translit": "vato'kelem",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "job-1-16-15",
+          "surface": "וָאִמָּ֨לְטָ֧ה",
+          "lemma": "מָלַט",
+          "translit": "va'imaletah",
+          "morph": "Conjunction + Verb Niphal Wayyiqtol 1st common singular + Suffix",
+          "glosses": [],
+          "strongs": "H4422"
+        },
+        {
+          "id": "job-1-16-16",
+          "surface": "רַק",
+          "lemma": "רַק",
+          "translit": "raq",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H7535"
+        },
+        {
+          "id": "job-1-16-17",
+          "surface": "אֲנִ֛י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "job-1-16-18",
+          "surface": "לְבַדִּ֖י",
+          "lemma": "בַּד",
+          "translit": "lebadiy",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H905"
+        },
+        {
+          "id": "job-1-16-19",
+          "surface": "לְהַגִּ֥יד",
+          "lemma": "נָגַד",
+          "translit": "lehagiyd",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "job-1-16-20",
+          "surface": "לָֽךְ",
+          "lemma": "לָֽךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:17",
+      "englishText": "  While he was still speaking, there came also another, and said, “The Chaldeans made three bands, and swept down on the camels, and have taken them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you.”  ",
+      "tokens": [
+        {
+          "id": "job-1-17-0",
+          "surface": "ע֣וֹד",
+          "lemma": "עוֹד",
+          "translit": "`vod",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H5750"
+        },
+        {
+          "id": "job-1-17-1",
+          "surface": "זֶ֣ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "job-1-17-2",
+          "surface": "מְדַבֵּ֗ר",
+          "lemma": "דָבַר",
+          "translit": "medaber",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "job-1-17-3",
+          "surface": "וְזֶה֮",
+          "lemma": "זֶה",
+          "translit": "vezeh",
+          "morph": "Conjunction + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "job-1-17-4",
+          "surface": "בָּ֣א",
+          "lemma": "בּוֹא",
+          "translit": "ba'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "job-1-17-5",
+          "surface": "וַיֹּאמַר֒",
+          "lemma": "אָמַר",
+          "translit": "vayo'mar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-17-6",
+          "surface": "כַּשְׂדִּ֞ים",
+          "lemma": "כַּשְׂדִּי",
+          "translit": "kashediym",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3778"
+        },
+        {
+          "id": "job-1-17-7",
+          "surface": "שָׂ֣מוּ",
+          "lemma": "שׂוּם",
+          "translit": "shamv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "job-1-17-8",
+          "surface": "שְׁלֹשָׁ֣ה",
+          "lemma": "שָׁלוֹשׁ",
+          "translit": "sheloshah",
+          "morph": "Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7969"
+        },
+        {
+          "id": "job-1-17-9",
+          "surface": "רָאשִׁ֗ים",
+          "lemma": "רֹאשׁ",
+          "translit": "ra'shiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "job-1-17-10",
+          "surface": "וַֽיִּפְשְׁט֤וּ",
+          "lemma": "פָּשַׁט",
+          "translit": "vayipeshetv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H6584"
+        },
+        {
+          "id": "job-1-17-11",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "job-1-17-12",
+          "surface": "הַגְּמַלִּים֙",
+          "lemma": "גָּמָל",
+          "translit": "hagemaliym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1581"
+        },
+        {
+          "id": "job-1-17-13",
+          "surface": "וַיִּקָּח֔וּם",
+          "lemma": "לָקַח",
+          "translit": "vayiqachvm",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "job-1-17-14",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "job-1-17-15",
+          "surface": "הַנְּעָרִ֖ים",
+          "lemma": "נַעַר",
+          "translit": "hane`ariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "job-1-17-16",
+          "surface": "הִכּ֣וּ",
+          "lemma": "נָכָה",
+          "translit": "hikv",
+          "morph": "Verb Hiphil Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H5221"
+        },
+        {
+          "id": "job-1-17-17",
+          "surface": "לְפִי",
+          "lemma": "פֶּה",
+          "translit": "lepiy",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6310"
+        },
+        {
+          "id": "job-1-17-18",
+          "surface": "חָ֑רֶב",
+          "lemma": "חֶרֶב",
+          "translit": "chareb",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "job-1-17-19",
+          "surface": "וָאִמָּ֨לְטָ֧ה",
+          "lemma": "מָלַט",
+          "translit": "va'imaletah",
+          "morph": "Conjunction + Verb Niphal Wayyiqtol 1st common singular + Suffix",
+          "glosses": [],
+          "strongs": "H4422"
+        },
+        {
+          "id": "job-1-17-20",
+          "surface": "רַק",
+          "lemma": "רַק",
+          "translit": "raq",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H7535"
+        },
+        {
+          "id": "job-1-17-21",
+          "surface": "אֲנִ֛י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "job-1-17-22",
+          "surface": "לְבַדִּ֖י",
+          "lemma": "בַּד",
+          "translit": "lebadiy",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H905"
+        },
+        {
+          "id": "job-1-17-23",
+          "surface": "לְהַגִּ֥יד",
+          "lemma": "נָגַד",
+          "translit": "lehagiyd",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "job-1-17-24",
+          "surface": "לָֽךְ",
+          "lemma": "לָֽךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:18",
+      "englishText": "  While he was still speaking, there came also another, and said, “Your sons and your daughters were eating and drinking wine in their eldest brother’s house,",
+      "tokens": [
+        {
+          "id": "job-1-18-0",
+          "surface": "עַ֚ד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "job-1-18-1",
+          "surface": "זֶ֣ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "job-1-18-2",
+          "surface": "מְדַבֵּ֔ר",
+          "lemma": "דָבַר",
+          "translit": "medaber",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "job-1-18-3",
+          "surface": "וְזֶ֖ה",
+          "lemma": "זֶה",
+          "translit": "vezeh",
+          "morph": "Conjunction + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "job-1-18-4",
+          "surface": "בָּ֣א",
+          "lemma": "בּוֹא",
+          "translit": "ba'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "job-1-18-5",
+          "surface": "וַיֹּאמַ֑ר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-18-6",
+          "surface": "בָּנֶ֨יךָ",
+          "lemma": "בֵּן",
+          "translit": "baneyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "job-1-18-7",
+          "surface": "וּבְנוֹתֶ֤יךָ",
+          "lemma": "בַּת",
+          "translit": "vbenvoteyka",
+          "morph": "Conjunction + Noun common feminine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "job-1-18-8",
+          "surface": "אֹֽכְלִים֙",
+          "lemma": "אָכַל",
+          "translit": "'okeliym",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "job-1-18-9",
+          "surface": "וְשֹׁתִ֣ים",
+          "lemma": "שָׁתָה",
+          "translit": "veshotiym",
+          "morph": "Conjunction + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H8354"
+        },
+        {
+          "id": "job-1-18-10",
+          "surface": "יַ֔יִן",
+          "lemma": "יַיִן",
+          "translit": "yayin",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3196"
+        },
+        {
+          "id": "job-1-18-11",
+          "surface": "בְּבֵ֖ית",
+          "lemma": "בַּיִת",
+          "translit": "bebeyt",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "job-1-18-12",
+          "surface": "אֲחִיהֶ֥ם",
+          "lemma": "אָח",
+          "translit": "'chiyhem",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H251"
+        },
+        {
+          "id": "job-1-18-13",
+          "surface": "הַבְּכֽוֹר",
+          "lemma": "בְּכוֹר",
+          "translit": "habekvor",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1060"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:19",
+      "englishText": "and behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell on the young men, and they are dead. I alone have escaped to tell you.”  ",
+      "tokens": [
+        {
+          "id": "job-1-19-0",
+          "surface": "וְהִנֵּה֩",
+          "lemma": "הִנֵּה",
+          "translit": "vehineh",
+          "morph": "Conjunction + Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "job-1-19-1",
+          "surface": "ר֨וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "rvcha",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "job-1-19-2",
+          "surface": "גְּדוֹלָ֜ה",
+          "lemma": "גָּדוֹל",
+          "translit": "gedvolah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1419"
+        },
+        {
+          "id": "job-1-19-3",
+          "surface": "בָּ֣אָה",
+          "lemma": "בּוֹא",
+          "translit": "ba'ah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "job-1-19-4",
+          "surface": "מֵעֵ֣בֶר",
+          "lemma": "עֵבֶר",
+          "translit": "me`eber",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5676"
+        },
+        {
+          "id": "job-1-19-5",
+          "surface": "הַמִּדְבָּ֗ר",
+          "lemma": "מִדְבָּר",
+          "translit": "hamidebar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4057"
+        },
+        {
+          "id": "job-1-19-6",
+          "surface": "וַיִּגַּע֙",
+          "lemma": "נָגַע",
+          "translit": "vayiga`",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5060"
+        },
+        {
+          "id": "job-1-19-7",
+          "surface": "בְּאַרְבַּע֙",
+          "lemma": "אַרְבַּע",
+          "translit": "be'areba`",
+          "morph": "Preposition + Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H702"
+        },
+        {
+          "id": "job-1-19-8",
+          "surface": "פִּנּ֣וֹת",
+          "lemma": "פִּנָּה",
+          "translit": "pinvot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H6438"
+        },
+        {
+          "id": "job-1-19-9",
+          "surface": "הַבַּ֔יִת",
+          "lemma": "בַּיִת",
+          "translit": "habayit",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "job-1-19-10",
+          "surface": "וַיִּפֹּ֥ל",
+          "lemma": "נָפַל",
+          "translit": "vayipol",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "job-1-19-11",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "job-1-19-12",
+          "surface": "הַנְּעָרִ֖ים",
+          "lemma": "נַעַר",
+          "translit": "hane`ariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "job-1-19-13",
+          "surface": "וַיָּמ֑וּתוּ",
+          "lemma": "מוּת",
+          "translit": "vayamvtv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "job-1-19-14",
+          "surface": "וָאִמָּ֨לְטָ֧ה",
+          "lemma": "מָלַט",
+          "translit": "va'imaletah",
+          "morph": "Conjunction + Verb Niphal Wayyiqtol 1st common singular + Suffix",
+          "glosses": [],
+          "strongs": "H4422"
+        },
+        {
+          "id": "job-1-19-15",
+          "surface": "רַק",
+          "lemma": "רַק",
+          "translit": "raq",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H7535"
+        },
+        {
+          "id": "job-1-19-16",
+          "surface": "אֲנִ֛י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "job-1-19-17",
+          "surface": "לְבַדִּ֖י",
+          "lemma": "בַּד",
+          "translit": "lebadiy",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H905"
+        },
+        {
+          "id": "job-1-19-18",
+          "surface": "לְהַגִּ֥יד",
+          "lemma": "נָגַד",
+          "translit": "lehagiyd",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "job-1-19-19",
+          "surface": "לָֽךְ",
+          "lemma": "לָֽךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:20",
+      "englishText": "  Then Job arose, and tore his robe, and shaved his head, and fell down on the ground, and worshiped.",
+      "tokens": [
+        {
+          "id": "job-1-20-0",
+          "surface": "וַיָּ֤קָם",
+          "lemma": "קוּם",
+          "translit": "vayaqam",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "job-1-20-1",
+          "surface": "אִיּוֹב֙",
+          "lemma": "אִיּוֹב",
+          "translit": "'iyvob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H347"
+        },
+        {
+          "id": "job-1-20-2",
+          "surface": "וַיִּקְרַ֣ע",
+          "lemma": "קָרַע",
+          "translit": "vayiqera`",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7167"
+        },
+        {
+          "id": "job-1-20-3",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "job-1-20-4",
+          "surface": "מְעִל֔וֹ",
+          "lemma": "מְעִיל",
+          "translit": "me`ilvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4598"
+        },
+        {
+          "id": "job-1-20-5",
+          "surface": "וַיָּ֖גָז",
+          "lemma": "גַּזָז",
+          "translit": "vayagaz",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1494"
+        },
+        {
+          "id": "job-1-20-6",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "job-1-20-7",
+          "surface": "רֹאשׁ֑וֹ",
+          "lemma": "רֹאשׁ",
+          "translit": "ro'shvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "job-1-20-8",
+          "surface": "וַיִּפֹּ֥ל",
+          "lemma": "נָפַל",
+          "translit": "vayipol",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "job-1-20-9",
+          "surface": "אַ֖רְצָה",
+          "lemma": "אֶרֶץ",
+          "translit": "'aretsah",
+          "morph": "Noun common singular absolute + Suffix dual",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "job-1-20-10",
+          "surface": "וַיִּשְׁתָּֽחוּ",
+          "lemma": "שָׁחָה",
+          "translit": "vayishetachv",
+          "morph": "Conjunction + Verb Hithpael Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7812"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:21",
+      "englishText": "He said, “Naked I came out of my mother’s womb, and naked shall I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.”",
+      "tokens": [
+        {
+          "id": "job-1-21-0",
+          "surface": "וַיֹּאמֶר֩",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "job-1-21-1",
+          "surface": "עָרֹ֨ם",
+          "lemma": "עָרוֹם",
+          "translit": "`arom",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6174"
+        },
+        {
+          "id": "job-1-21-2",
+          "surface": "יצתי",
+          "lemma": "יָצָא",
+          "translit": "ytsty",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "job-1-21-3",
+          "surface": "יָצָ֜אתִי",
+          "lemma": "יָצָא",
+          "translit": "yatsa'tiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "job-1-21-4",
+          "surface": "מִבֶּ֣טֶן",
+          "lemma": "בֶּטֶן",
+          "translit": "mibeten",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H990"
+        },
+        {
+          "id": "job-1-21-5",
+          "surface": "אִמִּ֗י",
+          "lemma": "אֵם",
+          "translit": "'imiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H517"
+        },
+        {
+          "id": "job-1-21-6",
+          "surface": "וְעָרֹם֙",
+          "lemma": "עָרוֹם",
+          "translit": "ve`arom",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H6174"
+        },
+        {
+          "id": "job-1-21-7",
+          "surface": "אָשׁ֣וּב",
+          "lemma": "שׁוּב",
+          "translit": "'ashvb",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "job-1-21-8",
+          "surface": "שָׁ֔מָה",
+          "lemma": "שָׁם",
+          "translit": "shamah",
+          "morph": "Adverb + Suffix dual",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "job-1-21-9",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "job-1-21-10",
+          "surface": "נָתַ֔ן",
+          "lemma": "נָתַן",
+          "translit": "natan",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "job-1-21-11",
+          "surface": "וַיהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "vayhvah",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "job-1-21-12",
+          "surface": "לָקָ֑ח",
+          "lemma": "לָקַח",
+          "translit": "laqach",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "job-1-21-13",
+          "surface": "יְהִ֛י",
+          "lemma": "הָיָה",
+          "translit": "yehiy",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "job-1-21-14",
+          "surface": "שֵׁ֥ם",
+          "lemma": "שֵׁם",
+          "translit": "shem",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "job-1-21-15",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "job-1-21-16",
+          "surface": "מְבֹרָֽךְ",
+          "lemma": "בָרַךְ",
+          "translit": "meborake",
+          "morph": "Verb Pual s",
+          "glosses": [],
+          "strongs": "H1288"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Job 1:22",
+      "englishText": "In all this, Job did not sin, nor charge God with wrongdoing.   ",
+      "tokens": [
+        {
+          "id": "job-1-22-0",
+          "surface": "בְּכָל",
+          "lemma": "כֹּל",
+          "translit": "bekal",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "job-1-22-1",
+          "surface": "זֹ֖את",
+          "lemma": "זֹאת",
+          "translit": "zo't",
+          "morph": "Pronoun dual feminine singular",
+          "glosses": [],
+          "strongs": "H2063"
+        },
+        {
+          "id": "job-1-22-2",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "job-1-22-3",
+          "surface": "חָטָ֣א",
+          "lemma": "חָטָא",
+          "translit": "chata'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2398"
+        },
+        {
+          "id": "job-1-22-4",
+          "surface": "אִיּ֑וֹב",
+          "lemma": "אִיּוֹב",
+          "translit": "'iyvob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H347"
+        },
+        {
+          "id": "job-1-22-5",
+          "surface": "וְלֹא",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "job-1-22-6",
+          "surface": "נָתַ֥ן",
+          "lemma": "נָתַן",
+          "translit": "natan",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "job-1-22-7",
+          "surface": "תִּפְלָ֖ה",
+          "lemma": "תִּפְלָה",
+          "translit": "tipelah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8604"
+        },
+        {
+          "id": "job-1-22-8",
+          "surface": "לֵאלֹהִֽים",
+          "lemma": "אֱלֹהִים",
+          "translit": "le'lohiym",
+          "morph": "Preposition + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

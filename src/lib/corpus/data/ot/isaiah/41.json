@@ -1,1 +1,3374 @@
-{"id":"isaiah-41","name":"Isaiah","chapter":41,"verses":[{"ref":"Isaiah 41:1","englishText":"“Keep silent before me, islands, and let the peoples renew their strength. Let them come near, then let them speak. Let’s meet together for judgment. ","tokens":[{"id":"isaiah-41-1-0","surface":"הַחֲרִ֤ישׁוּ","lemma":"חָרַשׁ","translit":"hachriyshv","morph":"Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H2790"},{"id":"isaiah-41-1-1","surface":"אֵלַי֙","lemma":"אֵל","translit":"'elay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H413"},{"id":"isaiah-41-1-2","surface":"אִיִּ֔ים","lemma":"אִי","translit":"'iyiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H339"},{"id":"isaiah-41-1-3","surface":"וּלְאֻמִּ֖ים","lemma":"לְאֹם","translit":"vle'umiym","morph":"Conjunction + Noun common masculine plural absolute","glosses":[],"strongs":"H3816"},{"id":"isaiah-41-1-4","surface":"יַחֲלִ֣יפוּ","lemma":"חָלַף","translit":"yachliypv","morph":"Verb Hiphil Imperative 3rd masculine plural","glosses":[],"strongs":"H2498"},{"id":"isaiah-41-1-5","surface":"כֹ֑חַ","lemma":"כֹּחַ","translit":"kocha","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3581"},{"id":"isaiah-41-1-6","surface":"יִגְּשׁוּ֙","lemma":"נָגַשׁ","translit":"yigeshv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H5066"},{"id":"isaiah-41-1-7","surface":"אָ֣ז","lemma":"אָז","translit":"'az","morph":"Adverb","glosses":[],"strongs":"H227"},{"id":"isaiah-41-1-8","surface":"יְדַבֵּ֔רוּ","lemma":"דָבַר","translit":"yedaberv","morph":"Verb Piel Imperative 3rd masculine plural","glosses":[],"strongs":"H1696"},{"id":"isaiah-41-1-9","surface":"יַחְדָּ֖ו","lemma":"יַחַד","translit":"yachedav","morph":"Adverb","glosses":[],"strongs":"H3162"},{"id":"isaiah-41-1-10","surface":"לַמִּשְׁפָּ֥ט","lemma":"מִשְׁפָּט","translit":"lamishepat","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4941"},{"id":"isaiah-41-1-11","surface":"נִקְרָֽבָה","lemma":"קָרַב","translit":"niqerabah","morph":"Verb Qal Cohortative 1st common plural","glosses":[],"strongs":"H7126"}],"language":"hebrew"},{"ref":"Isaiah 41:2","englishText":"Who has raised up one from the east? Who called him to his foot in righteousness? He hands over nations to him, and makes him rule over kings. He gives them like the dust to his sword, like the driven stubble to his bow. ","tokens":[{"id":"isaiah-41-2-0","surface":"מִ֤י","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"isaiah-41-2-1","surface":"הֵעִיר֙","lemma":"עוּר","translit":"he`iyr","morph":"Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H5782"},{"id":"isaiah-41-2-2","surface":"מִמִּזְרָ֔ח","lemma":"מִזְרָח","translit":"mimizerach","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H4217"},{"id":"isaiah-41-2-3","surface":"צֶ֖דֶק","lemma":"צֶדֶק","translit":"tsedeq","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6664"},{"id":"isaiah-41-2-4","surface":"יִקְרָאֵ֣הוּ","lemma":"קָרָא","translit":"yiqera'ehv","morph":"Verb Qal Imperative 3rd masculine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7121"},{"id":"isaiah-41-2-5","surface":"לְרַגְל֑וֹ","lemma":"רֶגֶל","translit":"leragelvo","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7272"},{"id":"isaiah-41-2-6","surface":"יִתֵּ֨ן","lemma":"נָתַן","translit":"yiten","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"isaiah-41-2-7","surface":"לְפָנָ֤יו","lemma":"פָּנִים","translit":"lepanayv","morph":"Preposition + Noun common plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6440"},{"id":"isaiah-41-2-8","surface":"גּוֹיִם֙","lemma":"גּוֹי","translit":"gvoyim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"isaiah-41-2-9","surface":"וּמְלָכִ֣ים","lemma":"מֶלֶךְ","translit":"vmelakiym","morph":"Conjunction + Noun common masculine plural absolute","glosses":[],"strongs":"H4428"},{"id":"isaiah-41-2-10","surface":"יַ֔רְדְּ","lemma":"רָדָה","translit":"yarede","morph":"Verb Hiphil Imperative 3rd masculine singular","glosses":[],"strongs":"H7287"},{"id":"isaiah-41-2-11","surface":"יִתֵּ֤ן","lemma":"נָתַן","translit":"yiten","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"isaiah-41-2-12","surface":"כֶּֽעָפָר֙","lemma":"עָפָר","translit":"ke`apar","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H6083"},{"id":"isaiah-41-2-13","surface":"חַרְבּ֔וֹ","lemma":"חֶרֶב","translit":"charebvo","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2719"},{"id":"isaiah-41-2-14","surface":"כְּקַ֥שׁ","lemma":"קַשׁ","translit":"keqash","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H7179"},{"id":"isaiah-41-2-15","surface":"נִדָּ֖ף","lemma":"נָדַף","translit":"nidap","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H5086"},{"id":"isaiah-41-2-16","surface":"קַשְׁתּֽוֹ","lemma":"קֶשֶׁת","translit":"qashetvo","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7198"}],"language":"hebrew"},{"ref":"Isaiah 41:3","englishText":"He pursues them, and passes by safely, Even by a way that he had not gone with his feet. ","tokens":[{"id":"isaiah-41-3-0","surface":"יִרְדְּפֵ֖ם","lemma":"רָדַף","translit":"yiredepem","morph":"Verb Qal Imperative 3rd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H7291"},{"id":"isaiah-41-3-1","surface":"יַעֲב֣וֹר","lemma":"עָבַר","translit":"ya`bvor","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5674"},{"id":"isaiah-41-3-2","surface":"שָׁל֑וֹם","lemma":"שָׁלוֹם","translit":"shalvom","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7965"},{"id":"isaiah-41-3-3","surface":"אֹ֥רַח","lemma":"אֹרַח","translit":"'orach","morph":"Noun common singular absolute","glosses":[],"strongs":"H734"},{"id":"isaiah-41-3-4","surface":"בְּרַגְלָ֖יו","lemma":"רֶגֶל","translit":"beragelayv","morph":"Preposition + Noun common feminine dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7272"},{"id":"isaiah-41-3-5","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-41-3-6","surface":"יָבֽוֹא","lemma":"בּוֹא","translit":"yabvo'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H935"}],"language":"hebrew"},{"ref":"Isaiah 41:4","englishText":"Who has worked and done it, calling the generations from the beginning? I, Yahweh, the first, and with the last, I am he.”   ","tokens":[{"id":"isaiah-41-4-0","surface":"מִֽי","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"isaiah-41-4-1","surface":"פָעַ֣ל","lemma":"פָּעַל","translit":"pa`al","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H6466"},{"id":"isaiah-41-4-2","surface":"וְעָשָׂ֔ה","lemma":"עָשָׂה","translit":"ve`ashah","morph":"Conjunction + Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H6213"},{"id":"isaiah-41-4-3","surface":"קֹרֵ֥א","lemma":"קָרָא","translit":"qore'","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H7121"},{"id":"isaiah-41-4-4","surface":"הַדֹּר֖וֹת","lemma":"דּוֹר","translit":"hadorvot","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1755"},{"id":"isaiah-41-4-5","surface":"מֵרֹ֑אשׁ","lemma":"רֹאשׁ","translit":"mero'sh","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H7218"},{"id":"isaiah-41-4-6","surface":"אֲנִ֤י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"isaiah-41-4-7","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-41-4-8","surface":"רִאשׁ֔וֹן","lemma":"רִאשׁוֹן","translit":"ri'shvon","morph":"Adjective","glosses":[],"strongs":"H7223"},{"id":"isaiah-41-4-9","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Preposition","glosses":[],"strongs":"H854"},{"id":"isaiah-41-4-10","surface":"אַחֲרֹנִ֖ים","lemma":"אַחֲרוֹן","translit":"'achroniym","morph":"Adjective","glosses":[],"strongs":"H314"},{"id":"isaiah-41-4-11","surface":"אֲנִי","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"isaiah-41-4-12","surface":"הֽוּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Isaiah 41:5","englishText":"The islands have seen, and fear. The ends of the earth tremble. They approach, and come. ","tokens":[{"id":"isaiah-41-5-0","surface":"רָא֤וּ","lemma":"רָאָה","translit":"ra'v","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H7200"},{"id":"isaiah-41-5-1","surface":"אִיִּים֙","lemma":"אִי","translit":"'iyiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H339"},{"id":"isaiah-41-5-2","surface":"וְיִירָ֔אוּ","lemma":"יָרֵא","translit":"veyiyra'v","morph":"Conjunction + Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H3372"},{"id":"isaiah-41-5-3","surface":"קְצ֥וֹת","lemma":"קָצָה","translit":"qetsvot","morph":"Noun common plural construct","glosses":[],"strongs":"H7098"},{"id":"isaiah-41-5-4","surface":"הָאָ֖רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"isaiah-41-5-5","surface":"יֶחֱרָ֑דוּ","lemma":"חָרַד","translit":"yechradv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H2729"},{"id":"isaiah-41-5-6","surface":"קָרְב֖וּ","lemma":"קָרַב","translit":"qarebv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H7126"},{"id":"isaiah-41-5-7","surface":"וַיֶּאֱתָיֽוּן","lemma":"אָתָה","translit":"vaye'tayvn","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural + Suffix","glosses":[],"strongs":"H857"}],"language":"hebrew"},{"ref":"Isaiah 41:6","englishText":"Everyone helps his neighbor. They say to their brothers, “Be strong!” ","tokens":[{"id":"isaiah-41-6-0","surface":"אִ֥ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"isaiah-41-6-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"isaiah-41-6-2","surface":"רֵעֵ֖הוּ","lemma":"רֵעַ","translit":"re`ehv","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7453"},{"id":"isaiah-41-6-3","surface":"יַעְזֹ֑רוּ","lemma":"עָזַר","translit":"ya`ezorv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H5826"},{"id":"isaiah-41-6-4","surface":"וּלְאָחִ֖יו","lemma":"אָח","translit":"vle'achiyv","morph":"Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H251"},{"id":"isaiah-41-6-5","surface":"יֹאמַ֥ר","lemma":"אָמַר","translit":"yo'mar","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"isaiah-41-6-6","surface":"חֲזָֽק","lemma":"חָזַק","translit":"chzaq","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H2388"}],"language":"hebrew"},{"ref":"Isaiah 41:7","englishText":"So the carpenter encourages the goldsmith. He who smoothes with the hammer encourages him who strikes the anvil, saying of the soldering, “It is good”; and he fastens it with nails, that it might not totter. ","tokens":[{"id":"isaiah-41-7-0","surface":"וַיְחַזֵּ֤ק","lemma":"חָזַק","translit":"vayechazeq","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H2388"},{"id":"isaiah-41-7-1","surface":"חָרָשׁ֙","lemma":"חָרָשׁ","translit":"charash","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2796"},{"id":"isaiah-41-7-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"isaiah-41-7-3","surface":"צֹרֵ֔ף","lemma":"צָרַף","translit":"tsorep","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H6884"},{"id":"isaiah-41-7-4","surface":"מַחֲלִ֥יק","lemma":"חָלַק","translit":"machliyq","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H2505"},{"id":"isaiah-41-7-5","surface":"פַּטִּ֖ישׁ","lemma":"פַּטִּישׁ","translit":"patiysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6360"},{"id":"isaiah-41-7-6","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"isaiah-41-7-7","surface":"ה֣וֹלֶם","lemma":"הָלַם","translit":"hvolem","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H1986"},{"id":"isaiah-41-7-8","surface":"פָּ֑עַם","lemma":"פַּעַם","translit":"pa`am","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H6471"},{"id":"isaiah-41-7-9","surface":"אֹמֵ֤ר","lemma":"אָמַר","translit":"'omer","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H559"},{"id":"isaiah-41-7-10","surface":"לַדֶּ֨בֶק֙","lemma":"דֶּבֶק","translit":"ladebeq","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1694"},{"id":"isaiah-41-7-11","surface":"ט֣וֹב","lemma":"טוֹב","translit":"tvob","morph":"Adjective","glosses":[],"strongs":"H2896"},{"id":"isaiah-41-7-12","surface":"ה֔וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"isaiah-41-7-13","surface":"וַיְחַזְּקֵ֥הוּ","lemma":"חָזַק","translit":"vayechazeqehv","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2388"},{"id":"isaiah-41-7-14","surface":"בְמַסְמְרִ֖ים","lemma":"מַסְמֵר","translit":"bemasemeriym","morph":"Preposition + Noun common plural absolute","glosses":[],"strongs":"H4548"},{"id":"isaiah-41-7-15","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-41-7-16","surface":"יִמּֽוֹט","lemma":"מוֹט","translit":"yimvot","morph":"Verb Niphal Imperative 3rd masculine singular","glosses":[],"strongs":"H4131"}],"language":"hebrew"},{"ref":"Isaiah 41:8","englishText":"“But you, Israel, my servant, Jacob whom I have chosen, the seed of Abraham my friend, ","tokens":[{"id":"isaiah-41-8-0","surface":"וְאַתָּה֙","lemma":"אַתָּה","translit":"ve'atah","morph":"Conjunction + Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"isaiah-41-8-1","surface":"יִשְׂרָאֵ֣ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"isaiah-41-8-2","surface":"עַבְדִּ֔י","lemma":"עֶבֶד","translit":"`abediy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5650"},{"id":"isaiah-41-8-3","surface":"יַעֲקֹ֖ב","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"isaiah-41-8-4","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"isaiah-41-8-5","surface":"בְּחַרְתִּ֑יךָ","lemma":"בָּחַר","translit":"becharetiyka","morph":"Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H977"},{"id":"isaiah-41-8-6","surface":"זֶ֖רַע","lemma":"זֶרַע","translit":"zera`","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H2233"},{"id":"isaiah-41-8-7","surface":"אַבְרָהָ֥ם","lemma":"אַבְרָהָם","translit":"'aberaham","morph":"Noun proper","glosses":[],"strongs":"H85"},{"id":"isaiah-41-8-8","surface":"אֹהֲבִֽי","lemma":"אָהַב","translit":"'ohbiy","morph":"Verb Qal Passive Participle + Suffix plural 1st common singular","glosses":[],"strongs":"H157"}],"language":"hebrew"},{"ref":"Isaiah 41:9","englishText":"You whom I have taken hold of from the ends of the earth, and called from its corners, and said to you, ‘You are my servant, I have chosen you and not cast you away;’ ","tokens":[{"id":"isaiah-41-9-0","surface":"אֲשֶׁ֤ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"isaiah-41-9-1","surface":"הֶחֱזַקְתִּ֨יךָ֙","lemma":"חָזַק","translit":"hechzaqetiyka","morph":"Verb Hiphil Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2388"},{"id":"isaiah-41-9-2","surface":"מִקְצ֣וֹת","lemma":"קָצָה","translit":"miqetsvot","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H7098"},{"id":"isaiah-41-9-3","surface":"הָאָ֔רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"isaiah-41-9-4","surface":"וּמֵאֲצִילֶ֖יהָ","lemma":"אָצִיל","translit":"vme'tsiyleyha","morph":"Conjunction + Preposition + Noun common masculine plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H678"},{"id":"isaiah-41-9-5","surface":"קְרָאתִ֑יךָ","lemma":"קָרָא","translit":"qera'tiyka","morph":"Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7121"},{"id":"isaiah-41-9-6","surface":"וָאֹ֤מַר","lemma":"אָמַר","translit":"va'omar","morph":"Conjunction + Verb Qal Wayyiqtol 1st common singular","glosses":[],"strongs":"H559"},{"id":"isaiah-41-9-7","surface":"לְךָ֙","lemma":"לְךָ֙","translit":"leka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[]},{"id":"isaiah-41-9-8","surface":"עַבְדִּי","lemma":"עֶבֶד","translit":"`abediy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5650"},{"id":"isaiah-41-9-9","surface":"אַ֔תָּה","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"isaiah-41-9-10","surface":"בְּחַרְתִּ֖יךָ","lemma":"בָּחַר","translit":"becharetiyka","morph":"Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H977"},{"id":"isaiah-41-9-11","surface":"וְלֹ֥א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-41-9-12","surface":"מְאַסְתִּֽיךָ","lemma":"מָאַס","translit":"me'asetiyka","morph":"Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3988"}],"language":"hebrew"},{"ref":"Isaiah 41:10","englishText":"Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness. ","tokens":[{"id":"isaiah-41-10-0","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"isaiah-41-10-1","surface":"תִּירָא֙","lemma":"יָרֵא","translit":"tiyra'","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H3372"},{"id":"isaiah-41-10-2","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-41-10-3","surface":"עִמְּךָ","lemma":"עִם","translit":"`imeka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5973"},{"id":"isaiah-41-10-4","surface":"אָ֔נִי","lemma":"אֲנִי","translit":"'aniy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"isaiah-41-10-5","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"isaiah-41-10-6","surface":"תִּשְׁתָּ֖ע","lemma":"שָׁעָה","translit":"tisheta`","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H8159"},{"id":"isaiah-41-10-7","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-41-10-8","surface":"אֲנִ֣י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"isaiah-41-10-9","surface":"אֱלֹהֶ֑יךָ","lemma":"אֱלֹהִים","translit":"'loheyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H430"},{"id":"isaiah-41-10-10","surface":"אִמַּצְתִּ֨יךָ֙","lemma":"אָמַץ","translit":"'imatsetiyka","morph":"Verb Piel Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H553"},{"id":"isaiah-41-10-11","surface":"אַף","lemma":"אַף","translit":"'ap","morph":"Particle absolute","glosses":[],"strongs":"H637"},{"id":"isaiah-41-10-12","surface":"עֲזַרְתִּ֔יךָ","lemma":"עָזַר","translit":"`zaretiyka","morph":"Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5826"},{"id":"isaiah-41-10-13","surface":"אַף","lemma":"אַף","translit":"'ap","morph":"Particle absolute","glosses":[],"strongs":"H637"},{"id":"isaiah-41-10-14","surface":"תְּמַכְתִּ֖יךָ","lemma":"תָּמַךְ","translit":"temaketiyka","morph":"Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8551"},{"id":"isaiah-41-10-15","surface":"בִּימִ֥ין","lemma":"יָמִין","translit":"biymiyn","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H3225"},{"id":"isaiah-41-10-16","surface":"צִדְקִֽי","lemma":"צֶדֶק","translit":"tsideqiy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6664"}],"language":"hebrew"},{"ref":"Isaiah 41:11","englishText":"Behold, all those who are incensed against you will be disappointed and confounded. Those who strive with you will be like nothing, and shall perish. ","tokens":[{"id":"isaiah-41-11-0","surface":"הֵ֤ן","lemma":"הֵן","translit":"hen","morph":"Particle masculine","glosses":[],"strongs":"H2005"},{"id":"isaiah-41-11-1","surface":"יֵבֹ֨שׁוּ֙","lemma":"בּוּשׁ","translit":"yeboshv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H954"},{"id":"isaiah-41-11-2","surface":"וְיִכָּ֣לְמ֔וּ","lemma":"כָּלַם","translit":"veyikalemv","morph":"Conjunction + Verb Niphal Imperative 3rd masculine plural","glosses":[],"strongs":"H3637"},{"id":"isaiah-41-11-3","surface":"כֹּ֖ל","lemma":"כֹּל","translit":"kol","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"isaiah-41-11-4","surface":"הַנֶּחֱרִ֣ים","lemma":"חָרָה","translit":"hanechriym","morph":"Particle dual + Verb Niphal Passive Participle","glosses":[],"strongs":"H2734"},{"id":"isaiah-41-11-5","surface":"בָּ֑ךְ","lemma":"בָּ֑ךְ","translit":"bake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]},{"id":"isaiah-41-11-6","surface":"יִֽהְי֥וּ","lemma":"הָיָה","translit":"yiheyv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H1961"},{"id":"isaiah-41-11-7","surface":"כְאַ֛יִן","lemma":"אַיִן","translit":"ke'ayin","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H369"},{"id":"isaiah-41-11-8","surface":"וְיֹאבְד֖וּ","lemma":"אָבַד","translit":"veyo'bedv","morph":"Conjunction + Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H6"},{"id":"isaiah-41-11-9","surface":"אַנְשֵׁ֥י","lemma":"אִישׁ","translit":"'aneshey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H376"},{"id":"isaiah-41-11-10","surface":"רִיבֶֽךָ","lemma":"רִיב","translit":"riybeka","morph":"Noun common singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7379"}],"language":"hebrew"},{"ref":"Isaiah 41:12","englishText":"You will seek them, and won’t find them, even those who contend with you. Those who war against you will be as nothing, as a non-existent thing. ","tokens":[{"id":"isaiah-41-12-0","surface":"תְּבַקְשֵׁם֙","lemma":"בָּקַשׁ","translit":"tebaqeshem","morph":"Verb Piel Imperative 2nd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H1245"},{"id":"isaiah-41-12-1","surface":"וְלֹ֣א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-41-12-2","surface":"תִמְצָאֵ֔ם","lemma":"מָצָא","translit":"timetsa'em","morph":"Verb Qal Imperative 2nd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H4672"},{"id":"isaiah-41-12-3","surface":"אַנְשֵׁ֖י","lemma":"אִישׁ","translit":"'aneshey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H376"},{"id":"isaiah-41-12-4","surface":"מַצֻּתֶ֑ךָ","lemma":"מַצּוּת","translit":"matsuteka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H4695"},{"id":"isaiah-41-12-5","surface":"יִהְי֥וּ","lemma":"הָיָה","translit":"yiheyv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H1961"},{"id":"isaiah-41-12-6","surface":"כְאַ֛יִן","lemma":"אַיִן","translit":"ke'ayin","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H369"},{"id":"isaiah-41-12-7","surface":"וּכְאֶ֖פֶס","lemma":"אֶפֶס","translit":"vke'epes","morph":"Conjunction + Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H657"},{"id":"isaiah-41-12-8","surface":"אַנְשֵׁ֥י","lemma":"אִישׁ","translit":"'aneshey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H376"},{"id":"isaiah-41-12-9","surface":"מִלְחַמְתֶּֽךָ","lemma":"מִלְחָמָה","translit":"milechameteka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H4421"}],"language":"hebrew"},{"ref":"Isaiah 41:13","englishText":"For I, Yahweh your God, will hold your right hand, saying to you, ‘Don’t be afraid. I will help you.’ ","tokens":[{"id":"isaiah-41-13-0","surface":"כִּ֗י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-41-13-1","surface":"אֲנִ֛י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"isaiah-41-13-2","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-41-13-3","surface":"אֱלֹהֶ֖יךָ","lemma":"אֱלֹהִים","translit":"'loheyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H430"},{"id":"isaiah-41-13-4","surface":"מַחֲזִ֣יק","lemma":"חָזַק","translit":"machziyq","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H2388"},{"id":"isaiah-41-13-5","surface":"יְמִינֶ֑ךָ","lemma":"יָמִין","translit":"yemiyneka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3225"},{"id":"isaiah-41-13-6","surface":"הָאֹמֵ֥ר","lemma":"אָמַר","translit":"ha'omer","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H559"},{"id":"isaiah-41-13-7","surface":"לְךָ֛","lemma":"לְךָ֛","translit":"leka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[]},{"id":"isaiah-41-13-8","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"isaiah-41-13-9","surface":"תִּירָ֖א","lemma":"יָרֵא","translit":"tiyra'","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H3372"},{"id":"isaiah-41-13-10","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"isaiah-41-13-11","surface":"עֲזַרְתִּֽיךָ","lemma":"עָזַר","translit":"`zaretiyka","morph":"Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5826"}],"language":"hebrew"},{"ref":"Isaiah 41:14","englishText":"Don’t be afraid, you worm Jacob, and you men of Israel. I will help you,” says Yahweh, “and your Redeemer is the Holy One of Israel. ","tokens":[{"id":"isaiah-41-14-0","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"isaiah-41-14-1","surface":"תִּֽירְאִי֙","lemma":"יָרֵא","translit":"tiyre'iy","morph":"Verb Qal Jussive 2nd feminine singular","glosses":[],"strongs":"H3372"},{"id":"isaiah-41-14-2","surface":"תּוֹלַ֣עַת","lemma":"תּוֹלָע","translit":"tvola`at","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H8438"},{"id":"isaiah-41-14-3","surface":"יַֽעֲקֹ֔ב","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"isaiah-41-14-4","surface":"מְתֵ֖י","lemma":"מַת","translit":"metey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H4962"},{"id":"isaiah-41-14-5","surface":"יִשְׂרָאֵ֑ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"isaiah-41-14-6","surface":"אֲנִ֤י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"isaiah-41-14-7","surface":"עֲזַרְתִּיךְ֙","lemma":"עָזַר","translit":"`zaretiyke","morph":"Verb Qal Participle 1st common singular + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H5826"},{"id":"isaiah-41-14-8","surface":"נְאֻם","lemma":"נְאֻם","translit":"ne'um","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5002"},{"id":"isaiah-41-14-9","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-41-14-10","surface":"וְגֹאֲלֵ֖ךְ","lemma":"גָּאַל","translit":"vego'leke","morph":"Conjunction + Verb Qal Passive Participle + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H1350"},{"id":"isaiah-41-14-11","surface":"קְד֥וֹשׁ","lemma":"קָדוֹשׁ","translit":"qedvosh","morph":"Adjective","glosses":[],"strongs":"H6918"},{"id":"isaiah-41-14-12","surface":"יִשְׂרָאֵֽל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"}],"language":"hebrew"},{"ref":"Isaiah 41:15","englishText":"Behold, I have made you into a new sharp threshing instrument with teeth. You will thresh the mountains, and beat them small, and will make the hills like chaff. ","tokens":[{"id":"isaiah-41-15-0","surface":"הִנֵּ֣ה","lemma":"הִנֵּה","translit":"hineh","morph":"Particle masculine","glosses":[],"strongs":"H2009"},{"id":"isaiah-41-15-1","surface":"שַׂמְתִּ֗יךְ","lemma":"שׂוּם","translit":"shametiyke","morph":"Verb Qal Participle 1st common singular + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H7760"},{"id":"isaiah-41-15-2","surface":"לְמוֹרַג֙","lemma":"מוֹרַג","translit":"lemvorag","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4173"},{"id":"isaiah-41-15-3","surface":"חָר֣וּץ","lemma":"חֲרוּץ","translit":"charvts","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2742"},{"id":"isaiah-41-15-4","surface":"חָדָ֔שׁ","lemma":"חָדָשׁ","translit":"chadash","morph":"Adjective","glosses":[],"strongs":"H2319"},{"id":"isaiah-41-15-5","surface":"בַּ֖עַל","lemma":"בַּעַל","translit":"ba`al","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1167"},{"id":"isaiah-41-15-6","surface":"פִּֽיפִיּ֑וֹת","lemma":"פִּיפִיָּה","translit":"piypiyvot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6374"},{"id":"isaiah-41-15-7","surface":"תָּד֤וּשׁ","lemma":"דּוּשׁ","translit":"tadvsh","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H1758"},{"id":"isaiah-41-15-8","surface":"הָרִים֙","lemma":"הַר","translit":"hariym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H2022"},{"id":"isaiah-41-15-9","surface":"וְתָדֹ֔ק","lemma":"דָּקַק","translit":"vetadoq","morph":"Conjunction + Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H1854"},{"id":"isaiah-41-15-10","surface":"וּגְבָע֖וֹת","lemma":"גִּבְעָה","translit":"vgeba`vot","morph":"Conjunction + Noun common feminine plural absolute","glosses":[],"strongs":"H1389"},{"id":"isaiah-41-15-11","surface":"כַּמֹּ֥ץ","lemma":"מֹץ","translit":"kamots","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4671"},{"id":"isaiah-41-15-12","surface":"תָּשִֽׂים","lemma":"שׂוּם","translit":"tashiym","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H7760"}],"language":"hebrew"},{"ref":"Isaiah 41:16","englishText":"You will winnow them, and the wind will carry them away, and the whirlwind will scatter them. You will rejoice in Yahweh. You will glory in the Holy One of Israel. ","tokens":[{"id":"isaiah-41-16-0","surface":"תִּזְרֵם֙","lemma":"זָרָה","translit":"tizerem","morph":"Verb Qal Imperative 2nd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H2219"},{"id":"isaiah-41-16-1","surface":"וְר֣וּחַ","lemma":"רוּחַ","translit":"vervcha","morph":"Conjunction + Noun common singular absolute","glosses":[],"strongs":"H7307"},{"id":"isaiah-41-16-2","surface":"תִּשָּׂאֵ֔ם","lemma":"נָשָׂא","translit":"tisha'em","morph":"Verb Qal Imperative 3rd feminine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H5375"},{"id":"isaiah-41-16-3","surface":"וּסְעָרָ֖ה","lemma":"סַעַר","translit":"vse`arah","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H5591"},{"id":"isaiah-41-16-4","surface":"תָּפִ֣יץ","lemma":"פּוּץ","translit":"tapiyts","morph":"Verb Hiphil Imperative 3rd feminine singular","glosses":[],"strongs":"H6327"},{"id":"isaiah-41-16-5","surface":"אוֹתָ֑ם","lemma":"אֵת","translit":"'votam","morph":"Particle + Suffix plural 3rd masculine","glosses":[],"strongs":"H853"},{"id":"isaiah-41-16-6","surface":"וְאַתָּה֙","lemma":"אַתָּה","translit":"ve'atah","morph":"Conjunction + Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"isaiah-41-16-7","surface":"תָּגִ֣יל","lemma":"גִּיל","translit":"tagiyl","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H1523"},{"id":"isaiah-41-16-8","surface":"בַּֽיהוָ֔ה","lemma":"יְהֹוָה","translit":"bayhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-41-16-9","surface":"בִּקְד֥וֹשׁ","lemma":"קָדוֹשׁ","translit":"biqedvosh","morph":"Preposition + Adjective","glosses":[],"strongs":"H6918"},{"id":"isaiah-41-16-10","surface":"יִשְׂרָאֵ֖ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"isaiah-41-16-11","surface":"תִּתְהַלָּֽל","lemma":"הָלַל","translit":"titehalal","morph":"Verb Hithpael Imperative 2nd masculine singular","glosses":[],"strongs":"H1984"}],"language":"hebrew"},{"ref":"Isaiah 41:17","englishText":"The poor and needy seek water, and there is none. Their tongue fails for thirst. I, Yahweh, will answer them. I, the God of Israel, will not forsake them. ","tokens":[{"id":"isaiah-41-17-0","surface":"הָעֲנִיִּ֨ים","lemma":"עָנִי","translit":"ha`niyiym","morph":"Particle dual + Adjective","glosses":[],"strongs":"H6041"},{"id":"isaiah-41-17-1","surface":"וְהָאֶבְיוֹנִ֜ים","lemma":"אֶבְיוֹן","translit":"veha'ebeyvoniym","morph":"Conjunction + Particle dual + Adjective","glosses":[],"strongs":"H34"},{"id":"isaiah-41-17-2","surface":"מְבַקְשִׁ֥ים","lemma":"בָּקַשׁ","translit":"mebaqeshiym","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H1245"},{"id":"isaiah-41-17-3","surface":"מַ֨יִם֙","lemma":"מַיִם","translit":"mayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4325"},{"id":"isaiah-41-17-4","surface":"וָאַ֔יִן","lemma":"אַיִן","translit":"va'ayin","morph":"Conjunction + Particle","glosses":[],"strongs":"H369"},{"id":"isaiah-41-17-5","surface":"לְשׁוֹנָ֖ם","lemma":"לָשׁוֹן","translit":"leshvonam","morph":"Noun common singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H3956"},{"id":"isaiah-41-17-6","surface":"בַּצָּמָ֣א","lemma":"צָמָא","translit":"batsama'","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H6772"},{"id":"isaiah-41-17-7","surface":"נָשָׁ֑תָּה","lemma":"נָשַׁת","translit":"nashatah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H5405"},{"id":"isaiah-41-17-8","surface":"אֲנִ֤י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"isaiah-41-17-9","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-41-17-10","surface":"אֶעֱנֵ֔ם","lemma":"עָנָה","translit":"'e`nem","morph":"Verb Qal Imperative 1st common singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H6030"},{"id":"isaiah-41-17-11","surface":"אֱלֹהֵ֥י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"isaiah-41-17-12","surface":"יִשְׂרָאֵ֖ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"isaiah-41-17-13","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-41-17-14","surface":"אֶעֶזְבֵֽם","lemma":"עָזַב","translit":"'e`ezebem","morph":"Verb Qal Imperative 1st common singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H5800"}],"language":"hebrew"},{"ref":"Isaiah 41:18","englishText":"I will open rivers on the bare heights, and springs in the midst of the valleys. I will make the wilderness a pool of water, and the dry land springs of water. ","tokens":[{"id":"isaiah-41-18-0","surface":"אֶפְתַּ֤ח","lemma":"פָּתַח","translit":"'epetach","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H6605"},{"id":"isaiah-41-18-1","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"isaiah-41-18-2","surface":"שְׁפָיִים֙","lemma":"שְׁפִי","translit":"shepayiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8205"},{"id":"isaiah-41-18-3","surface":"נְהָר֔וֹת","lemma":"נָהָר","translit":"neharvot","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H5104"},{"id":"isaiah-41-18-4","surface":"וּבְת֥וֹךְ","lemma":"תָּוֶךְ","translit":"vbetvoke","morph":"Conjunction + Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H8432"},{"id":"isaiah-41-18-5","surface":"בְּקָע֖וֹת","lemma":"בִּקְעָה","translit":"beqa`vot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H1237"},{"id":"isaiah-41-18-6","surface":"מַעְיָנ֑וֹת","lemma":"מַעְיָן","translit":"ma`eyanvot","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4599"},{"id":"isaiah-41-18-7","surface":"אָשִׂ֤ים","lemma":"שׂוּם","translit":"'ashiym","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H7760"},{"id":"isaiah-41-18-8","surface":"מִדְבָּר֙","lemma":"מִדְבָּר","translit":"midebar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4057"},{"id":"isaiah-41-18-9","surface":"לַאֲגַם","lemma":"אֲגַם","translit":"la'gam","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H98"},{"id":"isaiah-41-18-10","surface":"מַ֔יִם","lemma":"מַיִם","translit":"mayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4325"},{"id":"isaiah-41-18-11","surface":"וְאֶ֥רֶץ","lemma":"אֶרֶץ","translit":"ve'erets","morph":"Conjunction + Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"isaiah-41-18-12","surface":"צִיָּ֖ה","lemma":"צִיָּה","translit":"tsiyah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H6723"},{"id":"isaiah-41-18-13","surface":"לְמוֹצָ֥אֵי","lemma":"מוֹצָא","translit":"lemvotsa'ey","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H4161"},{"id":"isaiah-41-18-14","surface":"מָֽיִם","lemma":"מַיִם","translit":"mayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4325"}],"language":"hebrew"},{"ref":"Isaiah 41:19","englishText":"I will put cedar, acacia, myrtle, and oil trees in the wilderness. I will set fir trees, pine, and box trees together in the desert; ","tokens":[{"id":"isaiah-41-19-0","surface":"אֶתֵּ֤ן","lemma":"נָתַן","translit":"'eten","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H5414"},{"id":"isaiah-41-19-1","surface":"בַּמִּדְבָּר֙","lemma":"מִדְבָּר","translit":"bamidebar","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4057"},{"id":"isaiah-41-19-2","surface":"אֶ֣רֶז","lemma":"אֶרֶז","translit":"'erez","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H730"},{"id":"isaiah-41-19-3","surface":"שִׁטָּ֔ה","lemma":"שִׁטָּה","translit":"shitah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7848"},{"id":"isaiah-41-19-4","surface":"וַהֲדַ֖ס","lemma":"הֲדַס","translit":"vahdas","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H1918"},{"id":"isaiah-41-19-5","surface":"וְעֵ֣ץ","lemma":"עֵץ","translit":"ve`ets","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H6086"},{"id":"isaiah-41-19-6","surface":"שָׁ֑מֶן","lemma":"שֶׁמֶן","translit":"shamen","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8081"},{"id":"isaiah-41-19-7","surface":"אָשִׂ֣ים","lemma":"שׂוּם","translit":"'ashiym","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H7760"},{"id":"isaiah-41-19-8","surface":"בָּעֲרָבָ֗ה","lemma":"עֲרָבָה","translit":"ba`rabah","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H6160"},{"id":"isaiah-41-19-9","surface":"בְּר֛וֹשׁ","lemma":"בְּרוֹשׁ","translit":"bervosh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1265"},{"id":"isaiah-41-19-10","surface":"תִּדְהָ֥ר","lemma":"תִּדְהָר","translit":"tidehar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8410"},{"id":"isaiah-41-19-11","surface":"וּתְאַשּׁ֖וּר","lemma":"תְּאַשּׁוּר","translit":"vte'ashvr","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H8391"},{"id":"isaiah-41-19-12","surface":"יַחְדָּֽו","lemma":"יַחַד","translit":"yachedav","morph":"Adverb","glosses":[],"strongs":"H3162"}],"language":"hebrew"},{"ref":"Isaiah 41:20","englishText":"that they may see, know, consider, and understand together, that the hand of Yahweh has done this, and the Holy One of Israel has created it. ","tokens":[{"id":"isaiah-41-20-0","surface":"לְמַ֧עַן","lemma":"מַעַן","translit":"lema`an","morph":"Preposition","glosses":[],"strongs":"H4616"},{"id":"isaiah-41-20-1","surface":"יִרְא֣וּ","lemma":"רָאָה","translit":"yire'v","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H7200"},{"id":"isaiah-41-20-2","surface":"וְיֵדְע֗וּ","lemma":"יָדַע","translit":"veyede`v","morph":"Conjunction + Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H3045"},{"id":"isaiah-41-20-3","surface":"וְיָשִׂ֤ימוּ","lemma":"שׂוּם","translit":"veyashiymv","morph":"Conjunction + Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H7760"},{"id":"isaiah-41-20-4","surface":"וְיַשְׂכִּ֨ילוּ֙","lemma":"שָׂכַל","translit":"veyashekiylv","morph":"Conjunction + Verb Hiphil Imperative 3rd masculine plural","glosses":[],"strongs":"H7919"},{"id":"isaiah-41-20-5","surface":"יַחְדָּ֔ו","lemma":"יַחַד","translit":"yachedav","morph":"Adverb","glosses":[],"strongs":"H3162"},{"id":"isaiah-41-20-6","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-41-20-7","surface":"יַד","lemma":"יָד","translit":"yad","morph":"Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"isaiah-41-20-8","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-41-20-9","surface":"עָ֣שְׂתָה","lemma":"עָשָׂה","translit":"`ashetah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H6213"},{"id":"isaiah-41-20-10","surface":"זֹּ֑את","lemma":"זֹאת","translit":"zo't","morph":"Pronoun dual feminine singular","glosses":[],"strongs":"H2063"},{"id":"isaiah-41-20-11","surface":"וּקְד֥וֹשׁ","lemma":"קָדוֹשׁ","translit":"vqedvosh","morph":"Conjunction + Adjective","glosses":[],"strongs":"H6918"},{"id":"isaiah-41-20-12","surface":"יִשְׂרָאֵ֖ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"isaiah-41-20-13","surface":"בְּרָאָֽהּ","lemma":"בָּרָא","translit":"bera'ah","morph":"Verb Qal Participle 3rd masculine singular + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1254"}],"language":"hebrew"},{"ref":"Isaiah 41:21","englishText":"Produce your cause,” says Yahweh. “Bring out your strong reasons,” says the King of Jacob. ","tokens":[{"id":"isaiah-41-21-0","surface":"קָרְב֥וּ","lemma":"קָרַב","translit":"qarebv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H7126"},{"id":"isaiah-41-21-1","surface":"רִֽיבְכֶ֖ם","lemma":"רִיב","translit":"riybekem","morph":"Noun common singular construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H7379"},{"id":"isaiah-41-21-2","surface":"יֹאמַ֣ר","lemma":"אָמַר","translit":"yo'mar","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"isaiah-41-21-3","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-41-21-4","surface":"הַגִּ֨ישׁוּ֙","lemma":"נָגַשׁ","translit":"hagiyshv","morph":"Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H5066"},{"id":"isaiah-41-21-5","surface":"עֲצֻמ֣וֹתֵיכֶ֔ם","lemma":"עַצֻּמָה","translit":"`tsumvoteykem","morph":"Noun common feminine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H6110"},{"id":"isaiah-41-21-6","surface":"יֹאמַ֖ר","lemma":"אָמַר","translit":"yo'mar","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"isaiah-41-21-7","surface":"מֶ֥לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"isaiah-41-21-8","surface":"יַעֲקֹֽב","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"}],"language":"hebrew"},{"ref":"Isaiah 41:22","englishText":"“Let them announce, and declare to us what shall happen. Declare the former things, what they are, that we may consider them, and know the latter end of them; or show us things to come. ","tokens":[{"id":"isaiah-41-22-0","surface":"יַגִּ֨ישׁוּ֙","lemma":"נָגַשׁ","translit":"yagiyshv","morph":"Verb Hiphil Imperative 3rd masculine plural","glosses":[],"strongs":"H5066"},{"id":"isaiah-41-22-1","surface":"וְיַגִּ֣ידוּ","lemma":"נָגַד","translit":"veyagiydv","morph":"Conjunction + Verb Hiphil Imperative 3rd masculine plural","glosses":[],"strongs":"H5046"},{"id":"isaiah-41-22-2","surface":"לָ֔נוּ","lemma":"לָ֔נוּ","translit":"lanv","morph":"Preposition + Suffix plural 1st common","glosses":[]},{"id":"isaiah-41-22-3","surface":"אֵ֖ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"isaiah-41-22-4","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"isaiah-41-22-5","surface":"תִּקְרֶ֑ינָה","lemma":"קָרָה","translit":"tiqereynah","morph":"Verb Qal Imperative 3rd feminine plural","glosses":[],"strongs":"H7136"},{"id":"isaiah-41-22-6","surface":"הָרִאשֹׁנ֣וֹת","lemma":"רִאשׁוֹן","translit":"hari'shonvot","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7223"},{"id":"isaiah-41-22-7","surface":"מָ֣ה","lemma":"מָה","translit":"mah","morph":"Particle","glosses":[],"strongs":"H4100"},{"id":"isaiah-41-22-8","surface":"הֵ֗נָּה","lemma":"הֵנָּה","translit":"henah","morph":"Pronoun plural 3rd feminine","glosses":[],"strongs":"H2007"},{"id":"isaiah-41-22-9","surface":"הַגִּ֜ידוּ","lemma":"נָגַד","translit":"hagiydv","morph":"Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H5046"},{"id":"isaiah-41-22-10","surface":"וְנָשִׂ֤ימָה","lemma":"שׂוּם","translit":"venashiymah","morph":"Conjunction + Verb Qal Cohortative 1st common plural","glosses":[],"strongs":"H7760"},{"id":"isaiah-41-22-11","surface":"לִבֵּ֨נוּ֙","lemma":"לֵב","translit":"libenv","morph":"Noun common masculine singular construct + Suffix plural 1st common","glosses":[],"strongs":"H3820"},{"id":"isaiah-41-22-12","surface":"וְנֵדְעָ֣ה","lemma":"יָדַע","translit":"venede`ah","morph":"Conjunction + Verb Qal Cohortative 1st common plural","glosses":[],"strongs":"H3045"},{"id":"isaiah-41-22-13","surface":"אַחֲרִיתָ֔ן","lemma":"אַחֲרִית","translit":"'achriytan","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine","glosses":[],"strongs":"H319"},{"id":"isaiah-41-22-14","surface":"א֥וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"isaiah-41-22-15","surface":"הַבָּא֖וֹת","lemma":"בּוֹא","translit":"haba'vot","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H935"},{"id":"isaiah-41-22-16","surface":"הַשְׁמִיעֻֽנוּ","lemma":"שָׁמַע","translit":"hashemiy`unv","morph":"Verb Hiphil Weqatal 2nd masculine plural + Suffix plural 1st common","glosses":[],"strongs":"H8085"}],"language":"hebrew"},{"ref":"Isaiah 41:23","englishText":"Declare the things that are to come hereafter, that we may know that you are gods. Yes, do good, or do evil, that we may be dismayed, and see it together. ","tokens":[{"id":"isaiah-41-23-0","surface":"הַגִּ֨ידוּ֙","lemma":"נָגַד","translit":"hagiydv","morph":"Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H5046"},{"id":"isaiah-41-23-1","surface":"הָאֹתִיּ֣וֹת","lemma":"אָתָה","translit":"ha'otiyvot","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H857"},{"id":"isaiah-41-23-2","surface":"לְאָח֔וֹר","lemma":"אָחוֹר","translit":"le'achvor","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H268"},{"id":"isaiah-41-23-3","surface":"וְנֵ֣דְעָ֔ה","lemma":"יָדַע","translit":"venede`ah","morph":"Conjunction + Verb Qal Cohortative 1st common plural","glosses":[],"strongs":"H3045"},{"id":"isaiah-41-23-4","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-41-23-5","surface":"אֱלֹהִ֖ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"isaiah-41-23-6","surface":"אַתֶּ֑ם","lemma":"אַתָּה","translit":"'atem","morph":"Pronoun plural 2nd masculine","glosses":[],"strongs":"H859"},{"id":"isaiah-41-23-7","surface":"אַף","lemma":"אַף","translit":"'ap","morph":"Particle absolute","glosses":[],"strongs":"H637"},{"id":"isaiah-41-23-8","surface":"תֵּיטִ֣יבוּ","lemma":"יָטַב","translit":"teytiybv","morph":"Verb Hiphil Imperative 2nd masculine plural","glosses":[],"strongs":"H3190"},{"id":"isaiah-41-23-9","surface":"וְתָרֵ֔עוּ","lemma":"רָעַע","translit":"vetare`v","morph":"Conjunction + Verb Hiphil Imperative 2nd masculine plural","glosses":[],"strongs":"H7489"},{"id":"isaiah-41-23-10","surface":"וְנִשְׁתָּ֖עָה","lemma":"שָׁעָה","translit":"venisheta`ah","morph":"Conjunction + Verb Qal Cohortative 1st common plural","glosses":[],"strongs":"H8159"},{"id":"isaiah-41-23-11","surface":"ונרא","lemma":"רָאָה","translit":"vnr'","morph":"Conjunction + Verb Qal Imperative 1st common plural","glosses":[],"strongs":"H7200"},{"id":"isaiah-41-23-12","surface":"וְנִרְאֶ֥ה","lemma":"רָאָה","translit":"venire'eh","morph":"Conjunction + Verb Qal Cohortative 1st common plural","glosses":[],"strongs":"H7200"},{"id":"isaiah-41-23-13","surface":"יַחְדָּֽו","lemma":"יַחַד","translit":"yachedav","morph":"Adverb","glosses":[],"strongs":"H3162"}],"language":"hebrew"},{"ref":"Isaiah 41:24","englishText":"Behold, you are of nothing, and your work is of nothing. He who chooses you is an abomination.   ","tokens":[{"id":"isaiah-41-24-0","surface":"הֵן","lemma":"הֵן","translit":"hen","morph":"Particle masculine","glosses":[],"strongs":"H2005"},{"id":"isaiah-41-24-1","surface":"אַתֶּ֣ם","lemma":"אַתָּה","translit":"'atem","morph":"Pronoun plural 2nd masculine","glosses":[],"strongs":"H859"},{"id":"isaiah-41-24-2","surface":"מֵאַ֔יִן","lemma":"אַיִן","translit":"me'ayin","morph":"Preposition + Particle","glosses":[],"strongs":"H369"},{"id":"isaiah-41-24-3","surface":"וּפָעָלְכֶ֖ם","lemma":"פֹּעַל","translit":"vpa`alekem","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H6467"},{"id":"isaiah-41-24-4","surface":"מֵאָ֑פַע","lemma":"אֵפַע","translit":"me'apa`","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H659"},{"id":"isaiah-41-24-5","surface":"תּוֹעֵבָ֖ה","lemma":"תּוֹעֵבַה","translit":"tvo`ebah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8441"},{"id":"isaiah-41-24-6","surface":"יִבְחַ֥ר","lemma":"בָּחַר","translit":"yibechar","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H977"},{"id":"isaiah-41-24-7","surface":"בָּכֶֽם","lemma":"בָּכֶֽם","translit":"bakem","morph":"Preposition + Suffix plural 2nd masculine","glosses":[]}],"language":"hebrew"},{"ref":"Isaiah 41:25","englishText":"“I have raised up one from the north, and he has come; from the rising of the sun, one who calls on my name; and he shall come on rulers as on mortar, and as the potter treads clay. ","tokens":[{"id":"isaiah-41-25-0","surface":"הַעִיר֤וֹתִי","lemma":"עוּר","translit":"ha`iyrvotiy","morph":"Verb Hiphil Participle 1st common singular","glosses":[],"strongs":"H5782"},{"id":"isaiah-41-25-1","surface":"מִצָּפוֹן֙","lemma":"צָפוֹן","translit":"mitsapvon","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H6828"},{"id":"isaiah-41-25-2","surface":"וַיַּ֔את","lemma":"אָתָה","translit":"vaya't","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H857"},{"id":"isaiah-41-25-3","surface":"מִמִּזְרַח","lemma":"מִזְרָח","translit":"mimizerach","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4217"},{"id":"isaiah-41-25-4","surface":"שֶׁ֖מֶשׁ","lemma":"שֶׁמֶשׁ","translit":"shemesh","morph":"Noun common singular absolute","glosses":[],"strongs":"H8121"},{"id":"isaiah-41-25-5","surface":"יִקְרָ֣א","lemma":"קָרָא","translit":"yiqera'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7121"},{"id":"isaiah-41-25-6","surface":"בִשְׁמִ֑י","lemma":"שֵׁם","translit":"bishemiy","morph":"Preposition + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H8034"},{"id":"isaiah-41-25-7","surface":"וְיָבֹ֤א","lemma":"בּוֹא","translit":"veyabo'","morph":"Conjunction + Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"isaiah-41-25-8","surface":"סְגָנִים֙","lemma":"סָגָן","translit":"seganiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H5461"},{"id":"isaiah-41-25-9","surface":"כְּמוֹ","lemma":"כְּמוֹ","translit":"kemvo","morph":"Preposition","glosses":[],"strongs":"H3644"},{"id":"isaiah-41-25-10","surface":"חֹ֔מֶר","lemma":"חֹמֶר","translit":"chomer","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2563"},{"id":"isaiah-41-25-11","surface":"וּכְמ֥וֹ","lemma":"כְּמוֹ","translit":"vkemvo","morph":"Conjunction + Preposition","glosses":[],"strongs":"H3644"},{"id":"isaiah-41-25-12","surface":"יוֹצֵ֖ר","lemma":"יָצַר","translit":"yvotser","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3335"},{"id":"isaiah-41-25-13","surface":"יִרְמָס","lemma":"רָמַס","translit":"yiremas","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7429"},{"id":"isaiah-41-25-14","surface":"טִֽיט","lemma":"טִיט","translit":"tiyt","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2916"}],"language":"hebrew"},{"ref":"Isaiah 41:26","englishText":"Who has declared it from the beginning, that we may know? And before, that we may say, ‘He is right?’ Surely, there is no one who declares. Surely, there is no one who shows. Surely, there is no one who hears your words. ","tokens":[{"id":"isaiah-41-26-0","surface":"מִֽי","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"isaiah-41-26-1","surface":"הִגִּ֤יד","lemma":"נָגַד","translit":"higiyd","morph":"Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H5046"},{"id":"isaiah-41-26-2","surface":"מֵרֹאשׁ֙","lemma":"רֹאשׁ","translit":"mero'sh","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H7218"},{"id":"isaiah-41-26-3","surface":"וְנֵדָ֔עָה","lemma":"יָדַע","translit":"veneda`ah","morph":"Conjunction + Verb Qal Cohortative 1st common plural","glosses":[],"strongs":"H3045"},{"id":"isaiah-41-26-4","surface":"וּמִלְּפָנִ֖ים","lemma":"פָּנִים","translit":"vmilepaniym","morph":"Conjunction + Preposition + Preposition + Noun common plural absolute","glosses":[],"strongs":"H6440"},{"id":"isaiah-41-26-5","surface":"וְנֹאמַ֣ר","lemma":"אָמַר","translit":"veno'mar","morph":"Conjunction + Verb Qal Imperative 1st common plural","glosses":[],"strongs":"H559"},{"id":"isaiah-41-26-6","surface":"צַדִּ֑יק","lemma":"צַדִּיק","translit":"tsadiyq","morph":"Adjective","glosses":[],"strongs":"H6662"},{"id":"isaiah-41-26-7","surface":"אַ֣ף","lemma":"אַף","translit":"'ap","morph":"Particle absolute","glosses":[],"strongs":"H637"},{"id":"isaiah-41-26-8","surface":"אֵין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"isaiah-41-26-9","surface":"מַגִּ֗יד","lemma":"נָגַד","translit":"magiyd","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H5046"},{"id":"isaiah-41-26-10","surface":"אַ֚ף","lemma":"אַף","translit":"'ap","morph":"Particle absolute","glosses":[],"strongs":"H637"},{"id":"isaiah-41-26-11","surface":"אֵ֣ין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"isaiah-41-26-12","surface":"מַשְׁמִ֔יעַ","lemma":"שָׁמַע","translit":"mashemiy`a","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H8085"},{"id":"isaiah-41-26-13","surface":"אַ֥ף","lemma":"אַף","translit":"'ap","morph":"Particle absolute","glosses":[],"strongs":"H637"},{"id":"isaiah-41-26-14","surface":"אֵין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"isaiah-41-26-15","surface":"שֹׁמֵ֖עַ","lemma":"שָׁמַע","translit":"shome`a","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H8085"},{"id":"isaiah-41-26-16","surface":"אִמְרֵיכֶֽם","lemma":"אֵמֶר","translit":"'imereykem","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H561"}],"language":"hebrew"},{"ref":"Isaiah 41:27","englishText":"I am the first to say to Zion, ‘Behold, look at them;’ and I will give one who brings good news to Jerusalem. ","tokens":[{"id":"isaiah-41-27-0","surface":"רִאשׁ֥וֹן","lemma":"רִאשׁוֹן","translit":"ri'shvon","morph":"Adjective","glosses":[],"strongs":"H7223"},{"id":"isaiah-41-27-1","surface":"לְצִיּ֖וֹן","lemma":"צִיּוֹן","translit":"letsiyvon","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6726"},{"id":"isaiah-41-27-2","surface":"הִנֵּ֣ה","lemma":"הִנֵּה","translit":"hineh","morph":"Particle masculine","glosses":[],"strongs":"H2009"},{"id":"isaiah-41-27-3","surface":"הִנָּ֑ם","lemma":"הֵן","translit":"hinam","morph":"Particle masculine + Suffix plural 3rd masculine","glosses":[],"strongs":"H2005"},{"id":"isaiah-41-27-4","surface":"וְלִירוּשָׁלִַ֖ם","lemma":"יְרוּשָׁלַ͏ִם","translit":"veliyrvshalaim","morph":"Conjunction + Preposition + Noun proper","glosses":[],"strongs":"H3389"},{"id":"isaiah-41-27-5","surface":"מְבַשֵּׂ֥ר","lemma":"בָּשַׂר","translit":"mebasher","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H1319"},{"id":"isaiah-41-27-6","surface":"אֶתֵּֽן","lemma":"נָתַן","translit":"'eten","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H5414"}],"language":"hebrew"},{"ref":"Isaiah 41:28","englishText":"When I look, there is no man; even among them there is no counselor who, when I ask of them, can answer a word. ","tokens":[{"id":"isaiah-41-28-0","surface":"וְאֵ֨רֶא֙","lemma":"רָאָה","translit":"ve'ere'","morph":"Conjunction + Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H7200"},{"id":"isaiah-41-28-1","surface":"וְאֵ֣ין","lemma":"אַיִן","translit":"ve'eyn","morph":"Conjunction + Particle","glosses":[],"strongs":"H369"},{"id":"isaiah-41-28-2","surface":"אִ֔ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"isaiah-41-28-3","surface":"וּמֵאֵ֖לֶּה","lemma":"אֵלֶּה","translit":"vme'eleh","morph":"Conjunction + Preposition + Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"isaiah-41-28-4","surface":"וְאֵ֣ין","lemma":"אַיִן","translit":"ve'eyn","morph":"Conjunction + Particle","glosses":[],"strongs":"H369"},{"id":"isaiah-41-28-5","surface":"יוֹעֵ֑ץ","lemma":"יָעַץ","translit":"yvo`ets","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3289"},{"id":"isaiah-41-28-6","surface":"וְאֶשְׁאָלֵ֖ם","lemma":"שָׁאַל","translit":"ve'eshe'alem","morph":"Conjunction + Verb Qal Imperative 1st common singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H7592"},{"id":"isaiah-41-28-7","surface":"וְיָשִׁ֥יבוּ","lemma":"שׁוּב","translit":"veyashiybv","morph":"Conjunction + Verb Hiphil Imperative 3rd masculine plural","glosses":[],"strongs":"H7725"},{"id":"isaiah-41-28-8","surface":"דָבָֽר","lemma":"דָּבָר","translit":"dabar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1697"}],"language":"hebrew"},{"ref":"Isaiah 41:29","englishText":"Behold, all of them, their works are vanity and nothing. Their molten images are wind and confusion.   ","tokens":[{"id":"isaiah-41-29-0","surface":"הֵ֣ן","lemma":"הֵן","translit":"hen","morph":"Particle masculine","glosses":[],"strongs":"H2005"},{"id":"isaiah-41-29-1","surface":"כֻּלָּ֔ם","lemma":"כֹּל","translit":"kulam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H3605"},{"id":"isaiah-41-29-2","surface":"אָ֥וֶן","lemma":"אָוֶן","translit":"'aven","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H205"},{"id":"isaiah-41-29-3","surface":"אֶ֖פֶס","lemma":"אֶפֶס","translit":"'epes","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H657"},{"id":"isaiah-41-29-4","surface":"מַעֲשֵׂיהֶ֑ם","lemma":"מַעֲשֶׂה","translit":"ma`sheyhem","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H4639"},{"id":"isaiah-41-29-5","surface":"ר֥וּחַ","lemma":"רוּחַ","translit":"rvcha","morph":"Noun common singular absolute","glosses":[],"strongs":"H7307"},{"id":"isaiah-41-29-6","surface":"וָתֹ֖הוּ","lemma":"תֹּהוּ","translit":"vatohv","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H8414"},{"id":"isaiah-41-29-7","surface":"נִסְכֵּיהֶֽם","lemma":"נֶסֶךְ","translit":"nisekeyhem","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H5262"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "isaiah-41",
+  "name": "Isaiah",
+  "chapter": 41,
+  "verses": [
+    {
+      "ref": "Isaiah 41:1",
+      "englishText": "“Keep silent before me, islands, and let the peoples renew their strength. Let them come near, then let them speak. Let’s meet together for judgment. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-1-0",
+          "surface": "הַחֲרִ֤ישׁוּ",
+          "lemma": "חָרַשׁ",
+          "translit": "hachriyshv",
+          "morph": "Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H2790"
+        },
+        {
+          "id": "isaiah-41-1-1",
+          "surface": "אֵלַי֙",
+          "lemma": "אֵל",
+          "translit": "'elay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "isaiah-41-1-2",
+          "surface": "אִיִּ֔ים",
+          "lemma": "אִי",
+          "translit": "'iyiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H339"
+        },
+        {
+          "id": "isaiah-41-1-3",
+          "surface": "וּלְאֻמִּ֖ים",
+          "lemma": "לְאֹם",
+          "translit": "vle'umiym",
+          "morph": "Conjunction + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3816"
+        },
+        {
+          "id": "isaiah-41-1-4",
+          "surface": "יַחֲלִ֣יפוּ",
+          "lemma": "חָלַף",
+          "translit": "yachliypv",
+          "morph": "Verb Hiphil Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H2498"
+        },
+        {
+          "id": "isaiah-41-1-5",
+          "surface": "כֹ֑חַ",
+          "lemma": "כֹּחַ",
+          "translit": "kocha",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3581"
+        },
+        {
+          "id": "isaiah-41-1-6",
+          "surface": "יִגְּשׁוּ֙",
+          "lemma": "נָגַשׁ",
+          "translit": "yigeshv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "isaiah-41-1-7",
+          "surface": "אָ֣ז",
+          "lemma": "אָז",
+          "translit": "'az",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H227"
+        },
+        {
+          "id": "isaiah-41-1-8",
+          "surface": "יְדַבֵּ֔רוּ",
+          "lemma": "דָבַר",
+          "translit": "yedaberv",
+          "morph": "Verb Piel Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "isaiah-41-1-9",
+          "surface": "יַחְדָּ֖ו",
+          "lemma": "יַחַד",
+          "translit": "yachedav",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3162"
+        },
+        {
+          "id": "isaiah-41-1-10",
+          "surface": "לַמִּשְׁפָּ֥ט",
+          "lemma": "מִשְׁפָּט",
+          "translit": "lamishepat",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "isaiah-41-1-11",
+          "surface": "נִקְרָֽבָה",
+          "lemma": "קָרַב",
+          "translit": "niqerabah",
+          "morph": "Verb Qal Cohortative 1st common plural",
+          "glosses": [],
+          "strongs": "H7126"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:2",
+      "englishText": "Who has raised up one from the east? Who called him to his foot in righteousness? He hands over nations to him, and makes him rule over kings. He gives them like the dust to his sword, like the driven stubble to his bow. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-2-0",
+          "surface": "מִ֤י",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "isaiah-41-2-1",
+          "surface": "הֵעִיר֙",
+          "lemma": "עוּר",
+          "translit": "he`iyr",
+          "morph": "Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5782"
+        },
+        {
+          "id": "isaiah-41-2-2",
+          "surface": "מִמִּזְרָ֔ח",
+          "lemma": "מִזְרָח",
+          "translit": "mimizerach",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4217"
+        },
+        {
+          "id": "isaiah-41-2-3",
+          "surface": "צֶ֖דֶק",
+          "lemma": "צֶדֶק",
+          "translit": "tsedeq",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6664"
+        },
+        {
+          "id": "isaiah-41-2-4",
+          "surface": "יִקְרָאֵ֣הוּ",
+          "lemma": "קָרָא",
+          "translit": "yiqera'ehv",
+          "morph": "Verb Qal Imperative 3rd masculine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "isaiah-41-2-5",
+          "surface": "לְרַגְל֑וֹ",
+          "lemma": "רֶגֶל",
+          "translit": "leragelvo",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7272"
+        },
+        {
+          "id": "isaiah-41-2-6",
+          "surface": "יִתֵּ֨ן",
+          "lemma": "נָתַן",
+          "translit": "yiten",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "isaiah-41-2-7",
+          "surface": "לְפָנָ֤יו",
+          "lemma": "פָּנִים",
+          "translit": "lepanayv",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "isaiah-41-2-8",
+          "surface": "גּוֹיִם֙",
+          "lemma": "גּוֹי",
+          "translit": "gvoyim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "isaiah-41-2-9",
+          "surface": "וּמְלָכִ֣ים",
+          "lemma": "מֶלֶךְ",
+          "translit": "vmelakiym",
+          "morph": "Conjunction + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "isaiah-41-2-10",
+          "surface": "יַ֔רְדְּ",
+          "lemma": "רָדָה",
+          "translit": "yarede",
+          "morph": "Verb Hiphil Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7287"
+        },
+        {
+          "id": "isaiah-41-2-11",
+          "surface": "יִתֵּ֤ן",
+          "lemma": "נָתַן",
+          "translit": "yiten",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "isaiah-41-2-12",
+          "surface": "כֶּֽעָפָר֙",
+          "lemma": "עָפָר",
+          "translit": "ke`apar",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6083"
+        },
+        {
+          "id": "isaiah-41-2-13",
+          "surface": "חַרְבּ֔וֹ",
+          "lemma": "חֶרֶב",
+          "translit": "charebvo",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "isaiah-41-2-14",
+          "surface": "כְּקַ֥שׁ",
+          "lemma": "קַשׁ",
+          "translit": "keqash",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7179"
+        },
+        {
+          "id": "isaiah-41-2-15",
+          "surface": "נִדָּ֖ף",
+          "lemma": "נָדַף",
+          "translit": "nidap",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H5086"
+        },
+        {
+          "id": "isaiah-41-2-16",
+          "surface": "קַשְׁתּֽוֹ",
+          "lemma": "קֶשֶׁת",
+          "translit": "qashetvo",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7198"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:3",
+      "englishText": "He pursues them, and passes by safely, Even by a way that he had not gone with his feet. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-3-0",
+          "surface": "יִרְדְּפֵ֖ם",
+          "lemma": "רָדַף",
+          "translit": "yiredepem",
+          "morph": "Verb Qal Imperative 3rd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H7291"
+        },
+        {
+          "id": "isaiah-41-3-1",
+          "surface": "יַעֲב֣וֹר",
+          "lemma": "עָבַר",
+          "translit": "ya`bvor",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5674"
+        },
+        {
+          "id": "isaiah-41-3-2",
+          "surface": "שָׁל֑וֹם",
+          "lemma": "שָׁלוֹם",
+          "translit": "shalvom",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7965"
+        },
+        {
+          "id": "isaiah-41-3-3",
+          "surface": "אֹ֥רַח",
+          "lemma": "אֹרַח",
+          "translit": "'orach",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H734"
+        },
+        {
+          "id": "isaiah-41-3-4",
+          "surface": "בְּרַגְלָ֖יו",
+          "lemma": "רֶגֶל",
+          "translit": "beragelayv",
+          "morph": "Preposition + Noun common feminine dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7272"
+        },
+        {
+          "id": "isaiah-41-3-5",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-41-3-6",
+          "surface": "יָבֽוֹא",
+          "lemma": "בּוֹא",
+          "translit": "yabvo'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:4",
+      "englishText": "Who has worked and done it, calling the generations from the beginning? I, Yahweh, the first, and with the last, I am he.”   ",
+      "tokens": [
+        {
+          "id": "isaiah-41-4-0",
+          "surface": "מִֽי",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "isaiah-41-4-1",
+          "surface": "פָעַ֣ל",
+          "lemma": "פָּעַל",
+          "translit": "pa`al",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6466"
+        },
+        {
+          "id": "isaiah-41-4-2",
+          "surface": "וְעָשָׂ֔ה",
+          "lemma": "עָשָׂה",
+          "translit": "ve`ashah",
+          "morph": "Conjunction + Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "isaiah-41-4-3",
+          "surface": "קֹרֵ֥א",
+          "lemma": "קָרָא",
+          "translit": "qore'",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "isaiah-41-4-4",
+          "surface": "הַדֹּר֖וֹת",
+          "lemma": "דּוֹר",
+          "translit": "hadorvot",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1755"
+        },
+        {
+          "id": "isaiah-41-4-5",
+          "surface": "מֵרֹ֑אשׁ",
+          "lemma": "רֹאשׁ",
+          "translit": "mero'sh",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "isaiah-41-4-6",
+          "surface": "אֲנִ֤י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "isaiah-41-4-7",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-41-4-8",
+          "surface": "רִאשׁ֔וֹן",
+          "lemma": "רִאשׁוֹן",
+          "translit": "ri'shvon",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7223"
+        },
+        {
+          "id": "isaiah-41-4-9",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "isaiah-41-4-10",
+          "surface": "אַחֲרֹנִ֖ים",
+          "lemma": "אַחֲרוֹן",
+          "translit": "'achroniym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H314"
+        },
+        {
+          "id": "isaiah-41-4-11",
+          "surface": "אֲנִי",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "isaiah-41-4-12",
+          "surface": "הֽוּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:5",
+      "englishText": "The islands have seen, and fear. The ends of the earth tremble. They approach, and come. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-5-0",
+          "surface": "רָא֤וּ",
+          "lemma": "רָאָה",
+          "translit": "ra'v",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "isaiah-41-5-1",
+          "surface": "אִיִּים֙",
+          "lemma": "אִי",
+          "translit": "'iyiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H339"
+        },
+        {
+          "id": "isaiah-41-5-2",
+          "surface": "וְיִירָ֔אוּ",
+          "lemma": "יָרֵא",
+          "translit": "veyiyra'v",
+          "morph": "Conjunction + Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "isaiah-41-5-3",
+          "surface": "קְצ֥וֹת",
+          "lemma": "קָצָה",
+          "translit": "qetsvot",
+          "morph": "Noun common plural construct",
+          "glosses": [],
+          "strongs": "H7098"
+        },
+        {
+          "id": "isaiah-41-5-4",
+          "surface": "הָאָ֖רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "isaiah-41-5-5",
+          "surface": "יֶחֱרָ֑דוּ",
+          "lemma": "חָרַד",
+          "translit": "yechradv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H2729"
+        },
+        {
+          "id": "isaiah-41-5-6",
+          "surface": "קָרְב֖וּ",
+          "lemma": "קָרַב",
+          "translit": "qarebv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "isaiah-41-5-7",
+          "surface": "וַיֶּאֱתָיֽוּן",
+          "lemma": "אָתָה",
+          "translit": "vaye'tayvn",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural + Suffix",
+          "glosses": [],
+          "strongs": "H857"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:6",
+      "englishText": "Everyone helps his neighbor. They say to their brothers, “Be strong!” ",
+      "tokens": [
+        {
+          "id": "isaiah-41-6-0",
+          "surface": "אִ֥ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "isaiah-41-6-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-41-6-2",
+          "surface": "רֵעֵ֖הוּ",
+          "lemma": "רֵעַ",
+          "translit": "re`ehv",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7453"
+        },
+        {
+          "id": "isaiah-41-6-3",
+          "surface": "יַעְזֹ֑רוּ",
+          "lemma": "עָזַר",
+          "translit": "ya`ezorv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5826"
+        },
+        {
+          "id": "isaiah-41-6-4",
+          "surface": "וּלְאָחִ֖יו",
+          "lemma": "אָח",
+          "translit": "vle'achiyv",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H251"
+        },
+        {
+          "id": "isaiah-41-6-5",
+          "surface": "יֹאמַ֥ר",
+          "lemma": "אָמַר",
+          "translit": "yo'mar",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-41-6-6",
+          "surface": "חֲזָֽק",
+          "lemma": "חָזַק",
+          "translit": "chzaq",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2388"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:7",
+      "englishText": "So the carpenter encourages the goldsmith. He who smoothes with the hammer encourages him who strikes the anvil, saying of the soldering, “It is good”; and he fastens it with nails, that it might not totter. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-7-0",
+          "surface": "וַיְחַזֵּ֤ק",
+          "lemma": "חָזַק",
+          "translit": "vayechazeq",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2388"
+        },
+        {
+          "id": "isaiah-41-7-1",
+          "surface": "חָרָשׁ֙",
+          "lemma": "חָרָשׁ",
+          "translit": "charash",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2796"
+        },
+        {
+          "id": "isaiah-41-7-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-41-7-3",
+          "surface": "צֹרֵ֔ף",
+          "lemma": "צָרַף",
+          "translit": "tsorep",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H6884"
+        },
+        {
+          "id": "isaiah-41-7-4",
+          "surface": "מַחֲלִ֥יק",
+          "lemma": "חָלַק",
+          "translit": "machliyq",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H2505"
+        },
+        {
+          "id": "isaiah-41-7-5",
+          "surface": "פַּטִּ֖ישׁ",
+          "lemma": "פַּטִּישׁ",
+          "translit": "patiysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6360"
+        },
+        {
+          "id": "isaiah-41-7-6",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-41-7-7",
+          "surface": "ה֣וֹלֶם",
+          "lemma": "הָלַם",
+          "translit": "hvolem",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H1986"
+        },
+        {
+          "id": "isaiah-41-7-8",
+          "surface": "פָּ֑עַם",
+          "lemma": "פַּעַם",
+          "translit": "pa`am",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6471"
+        },
+        {
+          "id": "isaiah-41-7-9",
+          "surface": "אֹמֵ֤ר",
+          "lemma": "אָמַר",
+          "translit": "'omer",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-41-7-10",
+          "surface": "לַדֶּ֨בֶק֙",
+          "lemma": "דֶּבֶק",
+          "translit": "ladebeq",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1694"
+        },
+        {
+          "id": "isaiah-41-7-11",
+          "surface": "ט֣וֹב",
+          "lemma": "טוֹב",
+          "translit": "tvob",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2896"
+        },
+        {
+          "id": "isaiah-41-7-12",
+          "surface": "ה֔וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "isaiah-41-7-13",
+          "surface": "וַיְחַזְּקֵ֥הוּ",
+          "lemma": "חָזַק",
+          "translit": "vayechazeqehv",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2388"
+        },
+        {
+          "id": "isaiah-41-7-14",
+          "surface": "בְמַסְמְרִ֖ים",
+          "lemma": "מַסְמֵר",
+          "translit": "bemasemeriym",
+          "morph": "Preposition + Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H4548"
+        },
+        {
+          "id": "isaiah-41-7-15",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-41-7-16",
+          "surface": "יִמּֽוֹט",
+          "lemma": "מוֹט",
+          "translit": "yimvot",
+          "morph": "Verb Niphal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4131"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:8",
+      "englishText": "“But you, Israel, my servant, Jacob whom I have chosen, the seed of Abraham my friend, ",
+      "tokens": [
+        {
+          "id": "isaiah-41-8-0",
+          "surface": "וְאַתָּה֙",
+          "lemma": "אַתָּה",
+          "translit": "ve'atah",
+          "morph": "Conjunction + Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "isaiah-41-8-1",
+          "surface": "יִשְׂרָאֵ֣ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "isaiah-41-8-2",
+          "surface": "עַבְדִּ֔י",
+          "lemma": "עֶבֶד",
+          "translit": "`abediy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "isaiah-41-8-3",
+          "surface": "יַעֲקֹ֖ב",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "isaiah-41-8-4",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "isaiah-41-8-5",
+          "surface": "בְּחַרְתִּ֑יךָ",
+          "lemma": "בָּחַר",
+          "translit": "becharetiyka",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H977"
+        },
+        {
+          "id": "isaiah-41-8-6",
+          "surface": "זֶ֖רַע",
+          "lemma": "זֶרַע",
+          "translit": "zera`",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2233"
+        },
+        {
+          "id": "isaiah-41-8-7",
+          "surface": "אַבְרָהָ֥ם",
+          "lemma": "אַבְרָהָם",
+          "translit": "'aberaham",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H85"
+        },
+        {
+          "id": "isaiah-41-8-8",
+          "surface": "אֹהֲבִֽי",
+          "lemma": "אָהַב",
+          "translit": "'ohbiy",
+          "morph": "Verb Qal Passive Participle + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H157"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:9",
+      "englishText": "You whom I have taken hold of from the ends of the earth, and called from its corners, and said to you, ‘You are my servant, I have chosen you and not cast you away;’ ",
+      "tokens": [
+        {
+          "id": "isaiah-41-9-0",
+          "surface": "אֲשֶׁ֤ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "isaiah-41-9-1",
+          "surface": "הֶחֱזַקְתִּ֨יךָ֙",
+          "lemma": "חָזַק",
+          "translit": "hechzaqetiyka",
+          "morph": "Verb Hiphil Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2388"
+        },
+        {
+          "id": "isaiah-41-9-2",
+          "surface": "מִקְצ֣וֹת",
+          "lemma": "קָצָה",
+          "translit": "miqetsvot",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H7098"
+        },
+        {
+          "id": "isaiah-41-9-3",
+          "surface": "הָאָ֔רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "isaiah-41-9-4",
+          "surface": "וּמֵאֲצִילֶ֖יהָ",
+          "lemma": "אָצִיל",
+          "translit": "vme'tsiyleyha",
+          "morph": "Conjunction + Preposition + Noun common masculine plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H678"
+        },
+        {
+          "id": "isaiah-41-9-5",
+          "surface": "קְרָאתִ֑יךָ",
+          "lemma": "קָרָא",
+          "translit": "qera'tiyka",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "isaiah-41-9-6",
+          "surface": "וָאֹ֤מַר",
+          "lemma": "אָמַר",
+          "translit": "va'omar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 1st common singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-41-9-7",
+          "surface": "לְךָ֙",
+          "lemma": "לְךָ֙",
+          "translit": "leka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "isaiah-41-9-8",
+          "surface": "עַבְדִּי",
+          "lemma": "עֶבֶד",
+          "translit": "`abediy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "isaiah-41-9-9",
+          "surface": "אַ֔תָּה",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "isaiah-41-9-10",
+          "surface": "בְּחַרְתִּ֖יךָ",
+          "lemma": "בָּחַר",
+          "translit": "becharetiyka",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H977"
+        },
+        {
+          "id": "isaiah-41-9-11",
+          "surface": "וְלֹ֥א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-41-9-12",
+          "surface": "מְאַסְתִּֽיךָ",
+          "lemma": "מָאַס",
+          "translit": "me'asetiyka",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3988"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:10",
+      "englishText": "Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-10-0",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "isaiah-41-10-1",
+          "surface": "תִּירָא֙",
+          "lemma": "יָרֵא",
+          "translit": "tiyra'",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "isaiah-41-10-2",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-41-10-3",
+          "surface": "עִמְּךָ",
+          "lemma": "עִם",
+          "translit": "`imeka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "isaiah-41-10-4",
+          "surface": "אָ֔נִי",
+          "lemma": "אֲנִי",
+          "translit": "'aniy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "isaiah-41-10-5",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "isaiah-41-10-6",
+          "surface": "תִּשְׁתָּ֖ע",
+          "lemma": "שָׁעָה",
+          "translit": "tisheta`",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8159"
+        },
+        {
+          "id": "isaiah-41-10-7",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-41-10-8",
+          "surface": "אֲנִ֣י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "isaiah-41-10-9",
+          "surface": "אֱלֹהֶ֑יךָ",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "isaiah-41-10-10",
+          "surface": "אִמַּצְתִּ֨יךָ֙",
+          "lemma": "אָמַץ",
+          "translit": "'imatsetiyka",
+          "morph": "Verb Piel Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H553"
+        },
+        {
+          "id": "isaiah-41-10-11",
+          "surface": "אַף",
+          "lemma": "אַף",
+          "translit": "'ap",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H637"
+        },
+        {
+          "id": "isaiah-41-10-12",
+          "surface": "עֲזַרְתִּ֔יךָ",
+          "lemma": "עָזַר",
+          "translit": "`zaretiyka",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5826"
+        },
+        {
+          "id": "isaiah-41-10-13",
+          "surface": "אַף",
+          "lemma": "אַף",
+          "translit": "'ap",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H637"
+        },
+        {
+          "id": "isaiah-41-10-14",
+          "surface": "תְּמַכְתִּ֖יךָ",
+          "lemma": "תָּמַךְ",
+          "translit": "temaketiyka",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8551"
+        },
+        {
+          "id": "isaiah-41-10-15",
+          "surface": "בִּימִ֥ין",
+          "lemma": "יָמִין",
+          "translit": "biymiyn",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H3225"
+        },
+        {
+          "id": "isaiah-41-10-16",
+          "surface": "צִדְקִֽי",
+          "lemma": "צֶדֶק",
+          "translit": "tsideqiy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6664"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:11",
+      "englishText": "Behold, all those who are incensed against you will be disappointed and confounded. Those who strive with you will be like nothing, and shall perish. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-11-0",
+          "surface": "הֵ֤ן",
+          "lemma": "הֵן",
+          "translit": "hen",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "isaiah-41-11-1",
+          "surface": "יֵבֹ֨שׁוּ֙",
+          "lemma": "בּוּשׁ",
+          "translit": "yeboshv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H954"
+        },
+        {
+          "id": "isaiah-41-11-2",
+          "surface": "וְיִכָּ֣לְמ֔וּ",
+          "lemma": "כָּלַם",
+          "translit": "veyikalemv",
+          "morph": "Conjunction + Verb Niphal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3637"
+        },
+        {
+          "id": "isaiah-41-11-3",
+          "surface": "כֹּ֖ל",
+          "lemma": "כֹּל",
+          "translit": "kol",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "isaiah-41-11-4",
+          "surface": "הַנֶּחֱרִ֣ים",
+          "lemma": "חָרָה",
+          "translit": "hanechriym",
+          "morph": "Particle dual + Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H2734"
+        },
+        {
+          "id": "isaiah-41-11-5",
+          "surface": "בָּ֑ךְ",
+          "lemma": "בָּ֑ךְ",
+          "translit": "bake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "isaiah-41-11-6",
+          "surface": "יִֽהְי֥וּ",
+          "lemma": "הָיָה",
+          "translit": "yiheyv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-41-11-7",
+          "surface": "כְאַ֛יִן",
+          "lemma": "אַיִן",
+          "translit": "ke'ayin",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "isaiah-41-11-8",
+          "surface": "וְיֹאבְד֖וּ",
+          "lemma": "אָבַד",
+          "translit": "veyo'bedv",
+          "morph": "Conjunction + Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H6"
+        },
+        {
+          "id": "isaiah-41-11-9",
+          "surface": "אַנְשֵׁ֥י",
+          "lemma": "אִישׁ",
+          "translit": "'aneshey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "isaiah-41-11-10",
+          "surface": "רִיבֶֽךָ",
+          "lemma": "רִיב",
+          "translit": "riybeka",
+          "morph": "Noun common singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7379"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:12",
+      "englishText": "You will seek them, and won’t find them, even those who contend with you. Those who war against you will be as nothing, as a non-existent thing. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-12-0",
+          "surface": "תְּבַקְשֵׁם֙",
+          "lemma": "בָּקַשׁ",
+          "translit": "tebaqeshem",
+          "morph": "Verb Piel Imperative 2nd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1245"
+        },
+        {
+          "id": "isaiah-41-12-1",
+          "surface": "וְלֹ֣א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-41-12-2",
+          "surface": "תִמְצָאֵ֔ם",
+          "lemma": "מָצָא",
+          "translit": "timetsa'em",
+          "morph": "Verb Qal Imperative 2nd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H4672"
+        },
+        {
+          "id": "isaiah-41-12-3",
+          "surface": "אַנְשֵׁ֖י",
+          "lemma": "אִישׁ",
+          "translit": "'aneshey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "isaiah-41-12-4",
+          "surface": "מַצֻּתֶ֑ךָ",
+          "lemma": "מַצּוּת",
+          "translit": "matsuteka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4695"
+        },
+        {
+          "id": "isaiah-41-12-5",
+          "surface": "יִהְי֥וּ",
+          "lemma": "הָיָה",
+          "translit": "yiheyv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-41-12-6",
+          "surface": "כְאַ֛יִן",
+          "lemma": "אַיִן",
+          "translit": "ke'ayin",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "isaiah-41-12-7",
+          "surface": "וּכְאֶ֖פֶס",
+          "lemma": "אֶפֶס",
+          "translit": "vke'epes",
+          "morph": "Conjunction + Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H657"
+        },
+        {
+          "id": "isaiah-41-12-8",
+          "surface": "אַנְשֵׁ֥י",
+          "lemma": "אִישׁ",
+          "translit": "'aneshey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "isaiah-41-12-9",
+          "surface": "מִלְחַמְתֶּֽךָ",
+          "lemma": "מִלְחָמָה",
+          "translit": "milechameteka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4421"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:13",
+      "englishText": "For I, Yahweh your God, will hold your right hand, saying to you, ‘Don’t be afraid. I will help you.’ ",
+      "tokens": [
+        {
+          "id": "isaiah-41-13-0",
+          "surface": "כִּ֗י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-41-13-1",
+          "surface": "אֲנִ֛י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "isaiah-41-13-2",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-41-13-3",
+          "surface": "אֱלֹהֶ֖יךָ",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "isaiah-41-13-4",
+          "surface": "מַחֲזִ֣יק",
+          "lemma": "חָזַק",
+          "translit": "machziyq",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H2388"
+        },
+        {
+          "id": "isaiah-41-13-5",
+          "surface": "יְמִינֶ֑ךָ",
+          "lemma": "יָמִין",
+          "translit": "yemiyneka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3225"
+        },
+        {
+          "id": "isaiah-41-13-6",
+          "surface": "הָאֹמֵ֥ר",
+          "lemma": "אָמַר",
+          "translit": "ha'omer",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-41-13-7",
+          "surface": "לְךָ֛",
+          "lemma": "לְךָ֛",
+          "translit": "leka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "isaiah-41-13-8",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "isaiah-41-13-9",
+          "surface": "תִּירָ֖א",
+          "lemma": "יָרֵא",
+          "translit": "tiyra'",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "isaiah-41-13-10",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "isaiah-41-13-11",
+          "surface": "עֲזַרְתִּֽיךָ",
+          "lemma": "עָזַר",
+          "translit": "`zaretiyka",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5826"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:14",
+      "englishText": "Don’t be afraid, you worm Jacob, and you men of Israel. I will help you,” says Yahweh, “and your Redeemer is the Holy One of Israel. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-14-0",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "isaiah-41-14-1",
+          "surface": "תִּֽירְאִי֙",
+          "lemma": "יָרֵא",
+          "translit": "tiyre'iy",
+          "morph": "Verb Qal Jussive 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "isaiah-41-14-2",
+          "surface": "תּוֹלַ֣עַת",
+          "lemma": "תּוֹלָע",
+          "translit": "tvola`at",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H8438"
+        },
+        {
+          "id": "isaiah-41-14-3",
+          "surface": "יַֽעֲקֹ֔ב",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "isaiah-41-14-4",
+          "surface": "מְתֵ֖י",
+          "lemma": "מַת",
+          "translit": "metey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H4962"
+        },
+        {
+          "id": "isaiah-41-14-5",
+          "surface": "יִשְׂרָאֵ֑ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "isaiah-41-14-6",
+          "surface": "אֲנִ֤י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "isaiah-41-14-7",
+          "surface": "עֲזַרְתִּיךְ֙",
+          "lemma": "עָזַר",
+          "translit": "`zaretiyke",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5826"
+        },
+        {
+          "id": "isaiah-41-14-8",
+          "surface": "נְאֻם",
+          "lemma": "נְאֻם",
+          "translit": "ne'um",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5002"
+        },
+        {
+          "id": "isaiah-41-14-9",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-41-14-10",
+          "surface": "וְגֹאֲלֵ֖ךְ",
+          "lemma": "גָּאַל",
+          "translit": "vego'leke",
+          "morph": "Conjunction + Verb Qal Passive Participle + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1350"
+        },
+        {
+          "id": "isaiah-41-14-11",
+          "surface": "קְד֥וֹשׁ",
+          "lemma": "קָדוֹשׁ",
+          "translit": "qedvosh",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6918"
+        },
+        {
+          "id": "isaiah-41-14-12",
+          "surface": "יִשְׂרָאֵֽל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:15",
+      "englishText": "Behold, I have made you into a new sharp threshing instrument with teeth. You will thresh the mountains, and beat them small, and will make the hills like chaff. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-15-0",
+          "surface": "הִנֵּ֣ה",
+          "lemma": "הִנֵּה",
+          "translit": "hineh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "isaiah-41-15-1",
+          "surface": "שַׂמְתִּ֗יךְ",
+          "lemma": "שׂוּם",
+          "translit": "shametiyke",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "isaiah-41-15-2",
+          "surface": "לְמוֹרַג֙",
+          "lemma": "מוֹרַג",
+          "translit": "lemvorag",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4173"
+        },
+        {
+          "id": "isaiah-41-15-3",
+          "surface": "חָר֣וּץ",
+          "lemma": "חֲרוּץ",
+          "translit": "charvts",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2742"
+        },
+        {
+          "id": "isaiah-41-15-4",
+          "surface": "חָדָ֔שׁ",
+          "lemma": "חָדָשׁ",
+          "translit": "chadash",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2319"
+        },
+        {
+          "id": "isaiah-41-15-5",
+          "surface": "בַּ֖עַל",
+          "lemma": "בַּעַל",
+          "translit": "ba`al",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1167"
+        },
+        {
+          "id": "isaiah-41-15-6",
+          "surface": "פִּֽיפִיּ֑וֹת",
+          "lemma": "פִּיפִיָּה",
+          "translit": "piypiyvot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6374"
+        },
+        {
+          "id": "isaiah-41-15-7",
+          "surface": "תָּד֤וּשׁ",
+          "lemma": "דּוּשׁ",
+          "translit": "tadvsh",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1758"
+        },
+        {
+          "id": "isaiah-41-15-8",
+          "surface": "הָרִים֙",
+          "lemma": "הַר",
+          "translit": "hariym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "isaiah-41-15-9",
+          "surface": "וְתָדֹ֔ק",
+          "lemma": "דָּקַק",
+          "translit": "vetadoq",
+          "morph": "Conjunction + Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1854"
+        },
+        {
+          "id": "isaiah-41-15-10",
+          "surface": "וּגְבָע֖וֹת",
+          "lemma": "גִּבְעָה",
+          "translit": "vgeba`vot",
+          "morph": "Conjunction + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H1389"
+        },
+        {
+          "id": "isaiah-41-15-11",
+          "surface": "כַּמֹּ֥ץ",
+          "lemma": "מֹץ",
+          "translit": "kamots",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4671"
+        },
+        {
+          "id": "isaiah-41-15-12",
+          "surface": "תָּשִֽׂים",
+          "lemma": "שׂוּם",
+          "translit": "tashiym",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7760"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:16",
+      "englishText": "You will winnow them, and the wind will carry them away, and the whirlwind will scatter them. You will rejoice in Yahweh. You will glory in the Holy One of Israel. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-16-0",
+          "surface": "תִּזְרֵם֙",
+          "lemma": "זָרָה",
+          "translit": "tizerem",
+          "morph": "Verb Qal Imperative 2nd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H2219"
+        },
+        {
+          "id": "isaiah-41-16-1",
+          "surface": "וְר֣וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "vervcha",
+          "morph": "Conjunction + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "isaiah-41-16-2",
+          "surface": "תִּשָּׂאֵ֔ם",
+          "lemma": "נָשָׂא",
+          "translit": "tisha'em",
+          "morph": "Verb Qal Imperative 3rd feminine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "isaiah-41-16-3",
+          "surface": "וּסְעָרָ֖ה",
+          "lemma": "סַעַר",
+          "translit": "vse`arah",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5591"
+        },
+        {
+          "id": "isaiah-41-16-4",
+          "surface": "תָּפִ֣יץ",
+          "lemma": "פּוּץ",
+          "translit": "tapiyts",
+          "morph": "Verb Hiphil Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6327"
+        },
+        {
+          "id": "isaiah-41-16-5",
+          "surface": "אוֹתָ֑ם",
+          "lemma": "אֵת",
+          "translit": "'votam",
+          "morph": "Particle + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-41-16-6",
+          "surface": "וְאַתָּה֙",
+          "lemma": "אַתָּה",
+          "translit": "ve'atah",
+          "morph": "Conjunction + Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "isaiah-41-16-7",
+          "surface": "תָּגִ֣יל",
+          "lemma": "גִּיל",
+          "translit": "tagiyl",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1523"
+        },
+        {
+          "id": "isaiah-41-16-8",
+          "surface": "בַּֽיהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "bayhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-41-16-9",
+          "surface": "בִּקְד֥וֹשׁ",
+          "lemma": "קָדוֹשׁ",
+          "translit": "biqedvosh",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H6918"
+        },
+        {
+          "id": "isaiah-41-16-10",
+          "surface": "יִשְׂרָאֵ֖ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "isaiah-41-16-11",
+          "surface": "תִּתְהַלָּֽל",
+          "lemma": "הָלַל",
+          "translit": "titehalal",
+          "morph": "Verb Hithpael Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1984"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:17",
+      "englishText": "The poor and needy seek water, and there is none. Their tongue fails for thirst. I, Yahweh, will answer them. I, the God of Israel, will not forsake them. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-17-0",
+          "surface": "הָעֲנִיִּ֨ים",
+          "lemma": "עָנִי",
+          "translit": "ha`niyiym",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H6041"
+        },
+        {
+          "id": "isaiah-41-17-1",
+          "surface": "וְהָאֶבְיוֹנִ֜ים",
+          "lemma": "אֶבְיוֹן",
+          "translit": "veha'ebeyvoniym",
+          "morph": "Conjunction + Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H34"
+        },
+        {
+          "id": "isaiah-41-17-2",
+          "surface": "מְבַקְשִׁ֥ים",
+          "lemma": "בָּקַשׁ",
+          "translit": "mebaqeshiym",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H1245"
+        },
+        {
+          "id": "isaiah-41-17-3",
+          "surface": "מַ֨יִם֙",
+          "lemma": "מַיִם",
+          "translit": "mayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4325"
+        },
+        {
+          "id": "isaiah-41-17-4",
+          "surface": "וָאַ֔יִן",
+          "lemma": "אַיִן",
+          "translit": "va'ayin",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "isaiah-41-17-5",
+          "surface": "לְשׁוֹנָ֖ם",
+          "lemma": "לָשׁוֹן",
+          "translit": "leshvonam",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3956"
+        },
+        {
+          "id": "isaiah-41-17-6",
+          "surface": "בַּצָּמָ֣א",
+          "lemma": "צָמָא",
+          "translit": "batsama'",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6772"
+        },
+        {
+          "id": "isaiah-41-17-7",
+          "surface": "נָשָׁ֑תָּה",
+          "lemma": "נָשַׁת",
+          "translit": "nashatah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5405"
+        },
+        {
+          "id": "isaiah-41-17-8",
+          "surface": "אֲנִ֤י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "isaiah-41-17-9",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-41-17-10",
+          "surface": "אֶעֱנֵ֔ם",
+          "lemma": "עָנָה",
+          "translit": "'e`nem",
+          "morph": "Verb Qal Imperative 1st common singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "isaiah-41-17-11",
+          "surface": "אֱלֹהֵ֥י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "isaiah-41-17-12",
+          "surface": "יִשְׂרָאֵ֖ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "isaiah-41-17-13",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-41-17-14",
+          "surface": "אֶעֶזְבֵֽם",
+          "lemma": "עָזַב",
+          "translit": "'e`ezebem",
+          "morph": "Verb Qal Imperative 1st common singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5800"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:18",
+      "englishText": "I will open rivers on the bare heights, and springs in the midst of the valleys. I will make the wilderness a pool of water, and the dry land springs of water. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-18-0",
+          "surface": "אֶפְתַּ֤ח",
+          "lemma": "פָּתַח",
+          "translit": "'epetach",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H6605"
+        },
+        {
+          "id": "isaiah-41-18-1",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "isaiah-41-18-2",
+          "surface": "שְׁפָיִים֙",
+          "lemma": "שְׁפִי",
+          "translit": "shepayiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8205"
+        },
+        {
+          "id": "isaiah-41-18-3",
+          "surface": "נְהָר֔וֹת",
+          "lemma": "נָהָר",
+          "translit": "neharvot",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5104"
+        },
+        {
+          "id": "isaiah-41-18-4",
+          "surface": "וּבְת֥וֹךְ",
+          "lemma": "תָּוֶךְ",
+          "translit": "vbetvoke",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8432"
+        },
+        {
+          "id": "isaiah-41-18-5",
+          "surface": "בְּקָע֖וֹת",
+          "lemma": "בִּקְעָה",
+          "translit": "beqa`vot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H1237"
+        },
+        {
+          "id": "isaiah-41-18-6",
+          "surface": "מַעְיָנ֑וֹת",
+          "lemma": "מַעְיָן",
+          "translit": "ma`eyanvot",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4599"
+        },
+        {
+          "id": "isaiah-41-18-7",
+          "surface": "אָשִׂ֤ים",
+          "lemma": "שׂוּם",
+          "translit": "'ashiym",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "isaiah-41-18-8",
+          "surface": "מִדְבָּר֙",
+          "lemma": "מִדְבָּר",
+          "translit": "midebar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4057"
+        },
+        {
+          "id": "isaiah-41-18-9",
+          "surface": "לַאֲגַם",
+          "lemma": "אֲגַם",
+          "translit": "la'gam",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H98"
+        },
+        {
+          "id": "isaiah-41-18-10",
+          "surface": "מַ֔יִם",
+          "lemma": "מַיִם",
+          "translit": "mayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4325"
+        },
+        {
+          "id": "isaiah-41-18-11",
+          "surface": "וְאֶ֥רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ve'erets",
+          "morph": "Conjunction + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "isaiah-41-18-12",
+          "surface": "צִיָּ֖ה",
+          "lemma": "צִיָּה",
+          "translit": "tsiyah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6723"
+        },
+        {
+          "id": "isaiah-41-18-13",
+          "surface": "לְמוֹצָ֥אֵי",
+          "lemma": "מוֹצָא",
+          "translit": "lemvotsa'ey",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H4161"
+        },
+        {
+          "id": "isaiah-41-18-14",
+          "surface": "מָֽיִם",
+          "lemma": "מַיִם",
+          "translit": "mayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4325"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:19",
+      "englishText": "I will put cedar, acacia, myrtle, and oil trees in the wilderness. I will set fir trees, pine, and box trees together in the desert; ",
+      "tokens": [
+        {
+          "id": "isaiah-41-19-0",
+          "surface": "אֶתֵּ֤ן",
+          "lemma": "נָתַן",
+          "translit": "'eten",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "isaiah-41-19-1",
+          "surface": "בַּמִּדְבָּר֙",
+          "lemma": "מִדְבָּר",
+          "translit": "bamidebar",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4057"
+        },
+        {
+          "id": "isaiah-41-19-2",
+          "surface": "אֶ֣רֶז",
+          "lemma": "אֶרֶז",
+          "translit": "'erez",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H730"
+        },
+        {
+          "id": "isaiah-41-19-3",
+          "surface": "שִׁטָּ֔ה",
+          "lemma": "שִׁטָּה",
+          "translit": "shitah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7848"
+        },
+        {
+          "id": "isaiah-41-19-4",
+          "surface": "וַהֲדַ֖ס",
+          "lemma": "הֲדַס",
+          "translit": "vahdas",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1918"
+        },
+        {
+          "id": "isaiah-41-19-5",
+          "surface": "וְעֵ֣ץ",
+          "lemma": "עֵץ",
+          "translit": "ve`ets",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6086"
+        },
+        {
+          "id": "isaiah-41-19-6",
+          "surface": "שָׁ֑מֶן",
+          "lemma": "שֶׁמֶן",
+          "translit": "shamen",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8081"
+        },
+        {
+          "id": "isaiah-41-19-7",
+          "surface": "אָשִׂ֣ים",
+          "lemma": "שׂוּם",
+          "translit": "'ashiym",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "isaiah-41-19-8",
+          "surface": "בָּעֲרָבָ֗ה",
+          "lemma": "עֲרָבָה",
+          "translit": "ba`rabah",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6160"
+        },
+        {
+          "id": "isaiah-41-19-9",
+          "surface": "בְּר֛וֹשׁ",
+          "lemma": "בְּרוֹשׁ",
+          "translit": "bervosh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1265"
+        },
+        {
+          "id": "isaiah-41-19-10",
+          "surface": "תִּדְהָ֥ר",
+          "lemma": "תִּדְהָר",
+          "translit": "tidehar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8410"
+        },
+        {
+          "id": "isaiah-41-19-11",
+          "surface": "וּתְאַשּׁ֖וּר",
+          "lemma": "תְּאַשּׁוּר",
+          "translit": "vte'ashvr",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8391"
+        },
+        {
+          "id": "isaiah-41-19-12",
+          "surface": "יַחְדָּֽו",
+          "lemma": "יַחַד",
+          "translit": "yachedav",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3162"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:20",
+      "englishText": "that they may see, know, consider, and understand together, that the hand of Yahweh has done this, and the Holy One of Israel has created it. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-20-0",
+          "surface": "לְמַ֧עַן",
+          "lemma": "מַעַן",
+          "translit": "lema`an",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4616"
+        },
+        {
+          "id": "isaiah-41-20-1",
+          "surface": "יִרְא֣וּ",
+          "lemma": "רָאָה",
+          "translit": "yire'v",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "isaiah-41-20-2",
+          "surface": "וְיֵדְע֗וּ",
+          "lemma": "יָדַע",
+          "translit": "veyede`v",
+          "morph": "Conjunction + Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "isaiah-41-20-3",
+          "surface": "וְיָשִׂ֤ימוּ",
+          "lemma": "שׂוּם",
+          "translit": "veyashiymv",
+          "morph": "Conjunction + Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "isaiah-41-20-4",
+          "surface": "וְיַשְׂכִּ֨ילוּ֙",
+          "lemma": "שָׂכַל",
+          "translit": "veyashekiylv",
+          "morph": "Conjunction + Verb Hiphil Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7919"
+        },
+        {
+          "id": "isaiah-41-20-5",
+          "surface": "יַחְדָּ֔ו",
+          "lemma": "יַחַד",
+          "translit": "yachedav",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3162"
+        },
+        {
+          "id": "isaiah-41-20-6",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-41-20-7",
+          "surface": "יַד",
+          "lemma": "יָד",
+          "translit": "yad",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "isaiah-41-20-8",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-41-20-9",
+          "surface": "עָ֣שְׂתָה",
+          "lemma": "עָשָׂה",
+          "translit": "`ashetah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "isaiah-41-20-10",
+          "surface": "זֹּ֑את",
+          "lemma": "זֹאת",
+          "translit": "zo't",
+          "morph": "Pronoun dual feminine singular",
+          "glosses": [],
+          "strongs": "H2063"
+        },
+        {
+          "id": "isaiah-41-20-11",
+          "surface": "וּקְד֥וֹשׁ",
+          "lemma": "קָדוֹשׁ",
+          "translit": "vqedvosh",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H6918"
+        },
+        {
+          "id": "isaiah-41-20-12",
+          "surface": "יִשְׂרָאֵ֖ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "isaiah-41-20-13",
+          "surface": "בְּרָאָֽהּ",
+          "lemma": "בָּרָא",
+          "translit": "bera'ah",
+          "morph": "Verb Qal Participle 3rd masculine singular + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1254"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:21",
+      "englishText": "Produce your cause,” says Yahweh. “Bring out your strong reasons,” says the King of Jacob. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-21-0",
+          "surface": "קָרְב֥וּ",
+          "lemma": "קָרַב",
+          "translit": "qarebv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "isaiah-41-21-1",
+          "surface": "רִֽיבְכֶ֖ם",
+          "lemma": "רִיב",
+          "translit": "riybekem",
+          "morph": "Noun common singular construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H7379"
+        },
+        {
+          "id": "isaiah-41-21-2",
+          "surface": "יֹאמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "yo'mar",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-41-21-3",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-41-21-4",
+          "surface": "הַגִּ֨ישׁוּ֙",
+          "lemma": "נָגַשׁ",
+          "translit": "hagiyshv",
+          "morph": "Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "isaiah-41-21-5",
+          "surface": "עֲצֻמ֣וֹתֵיכֶ֔ם",
+          "lemma": "עַצֻּמָה",
+          "translit": "`tsumvoteykem",
+          "morph": "Noun common feminine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H6110"
+        },
+        {
+          "id": "isaiah-41-21-6",
+          "surface": "יֹאמַ֖ר",
+          "lemma": "אָמַר",
+          "translit": "yo'mar",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-41-21-7",
+          "surface": "מֶ֥לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "isaiah-41-21-8",
+          "surface": "יַעֲקֹֽב",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:22",
+      "englishText": "“Let them announce, and declare to us what shall happen. Declare the former things, what they are, that we may consider them, and know the latter end of them; or show us things to come. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-22-0",
+          "surface": "יַגִּ֨ישׁוּ֙",
+          "lemma": "נָגַשׁ",
+          "translit": "yagiyshv",
+          "morph": "Verb Hiphil Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "isaiah-41-22-1",
+          "surface": "וְיַגִּ֣ידוּ",
+          "lemma": "נָגַד",
+          "translit": "veyagiydv",
+          "morph": "Conjunction + Verb Hiphil Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "isaiah-41-22-2",
+          "surface": "לָ֔נוּ",
+          "lemma": "לָ֔נוּ",
+          "translit": "lanv",
+          "morph": "Preposition + Suffix plural 1st common",
+          "glosses": []
+        },
+        {
+          "id": "isaiah-41-22-3",
+          "surface": "אֵ֖ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-41-22-4",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "isaiah-41-22-5",
+          "surface": "תִּקְרֶ֑ינָה",
+          "lemma": "קָרָה",
+          "translit": "tiqereynah",
+          "morph": "Verb Qal Imperative 3rd feminine plural",
+          "glosses": [],
+          "strongs": "H7136"
+        },
+        {
+          "id": "isaiah-41-22-6",
+          "surface": "הָרִאשֹׁנ֣וֹת",
+          "lemma": "רִאשׁוֹן",
+          "translit": "hari'shonvot",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7223"
+        },
+        {
+          "id": "isaiah-41-22-7",
+          "surface": "מָ֣ה",
+          "lemma": "מָה",
+          "translit": "mah",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "isaiah-41-22-8",
+          "surface": "הֵ֗נָּה",
+          "lemma": "הֵנָּה",
+          "translit": "henah",
+          "morph": "Pronoun plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H2007"
+        },
+        {
+          "id": "isaiah-41-22-9",
+          "surface": "הַגִּ֜ידוּ",
+          "lemma": "נָגַד",
+          "translit": "hagiydv",
+          "morph": "Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "isaiah-41-22-10",
+          "surface": "וְנָשִׂ֤ימָה",
+          "lemma": "שׂוּם",
+          "translit": "venashiymah",
+          "morph": "Conjunction + Verb Qal Cohortative 1st common plural",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "isaiah-41-22-11",
+          "surface": "לִבֵּ֨נוּ֙",
+          "lemma": "לֵב",
+          "translit": "libenv",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "isaiah-41-22-12",
+          "surface": "וְנֵדְעָ֣ה",
+          "lemma": "יָדַע",
+          "translit": "venede`ah",
+          "morph": "Conjunction + Verb Qal Cohortative 1st common plural",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "isaiah-41-22-13",
+          "surface": "אַחֲרִיתָ֔ן",
+          "lemma": "אַחֲרִית",
+          "translit": "'achriytan",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H319"
+        },
+        {
+          "id": "isaiah-41-22-14",
+          "surface": "א֥וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "isaiah-41-22-15",
+          "surface": "הַבָּא֖וֹת",
+          "lemma": "בּוֹא",
+          "translit": "haba'vot",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "isaiah-41-22-16",
+          "surface": "הַשְׁמִיעֻֽנוּ",
+          "lemma": "שָׁמַע",
+          "translit": "hashemiy`unv",
+          "morph": "Verb Hiphil Weqatal 2nd masculine plural + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H8085"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:23",
+      "englishText": "Declare the things that are to come hereafter, that we may know that you are gods. Yes, do good, or do evil, that we may be dismayed, and see it together. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-23-0",
+          "surface": "הַגִּ֨ידוּ֙",
+          "lemma": "נָגַד",
+          "translit": "hagiydv",
+          "morph": "Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "isaiah-41-23-1",
+          "surface": "הָאֹתִיּ֣וֹת",
+          "lemma": "אָתָה",
+          "translit": "ha'otiyvot",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H857"
+        },
+        {
+          "id": "isaiah-41-23-2",
+          "surface": "לְאָח֔וֹר",
+          "lemma": "אָחוֹר",
+          "translit": "le'achvor",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H268"
+        },
+        {
+          "id": "isaiah-41-23-3",
+          "surface": "וְנֵ֣דְעָ֔ה",
+          "lemma": "יָדַע",
+          "translit": "venede`ah",
+          "morph": "Conjunction + Verb Qal Cohortative 1st common plural",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "isaiah-41-23-4",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-41-23-5",
+          "surface": "אֱלֹהִ֖ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "isaiah-41-23-6",
+          "surface": "אַתֶּ֑ם",
+          "lemma": "אַתָּה",
+          "translit": "'atem",
+          "morph": "Pronoun plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "isaiah-41-23-7",
+          "surface": "אַף",
+          "lemma": "אַף",
+          "translit": "'ap",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H637"
+        },
+        {
+          "id": "isaiah-41-23-8",
+          "surface": "תֵּיטִ֣יבוּ",
+          "lemma": "יָטַב",
+          "translit": "teytiybv",
+          "morph": "Verb Hiphil Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3190"
+        },
+        {
+          "id": "isaiah-41-23-9",
+          "surface": "וְתָרֵ֔עוּ",
+          "lemma": "רָעַע",
+          "translit": "vetare`v",
+          "morph": "Conjunction + Verb Hiphil Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7489"
+        },
+        {
+          "id": "isaiah-41-23-10",
+          "surface": "וְנִשְׁתָּ֖עָה",
+          "lemma": "שָׁעָה",
+          "translit": "venisheta`ah",
+          "morph": "Conjunction + Verb Qal Cohortative 1st common plural",
+          "glosses": [],
+          "strongs": "H8159"
+        },
+        {
+          "id": "isaiah-41-23-11",
+          "surface": "ונרא",
+          "lemma": "רָאָה",
+          "translit": "vnr'",
+          "morph": "Conjunction + Verb Qal Imperative 1st common plural",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "isaiah-41-23-12",
+          "surface": "וְנִרְאֶ֥ה",
+          "lemma": "רָאָה",
+          "translit": "venire'eh",
+          "morph": "Conjunction + Verb Qal Cohortative 1st common plural",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "isaiah-41-23-13",
+          "surface": "יַחְדָּֽו",
+          "lemma": "יַחַד",
+          "translit": "yachedav",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3162"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:24",
+      "englishText": "Behold, you are of nothing, and your work is of nothing. He who chooses you is an abomination.   ",
+      "tokens": [
+        {
+          "id": "isaiah-41-24-0",
+          "surface": "הֵן",
+          "lemma": "הֵן",
+          "translit": "hen",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "isaiah-41-24-1",
+          "surface": "אַתֶּ֣ם",
+          "lemma": "אַתָּה",
+          "translit": "'atem",
+          "morph": "Pronoun plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "isaiah-41-24-2",
+          "surface": "מֵאַ֔יִן",
+          "lemma": "אַיִן",
+          "translit": "me'ayin",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "isaiah-41-24-3",
+          "surface": "וּפָעָלְכֶ֖ם",
+          "lemma": "פֹּעַל",
+          "translit": "vpa`alekem",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H6467"
+        },
+        {
+          "id": "isaiah-41-24-4",
+          "surface": "מֵאָ֑פַע",
+          "lemma": "אֵפַע",
+          "translit": "me'apa`",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H659"
+        },
+        {
+          "id": "isaiah-41-24-5",
+          "surface": "תּוֹעֵבָ֖ה",
+          "lemma": "תּוֹעֵבַה",
+          "translit": "tvo`ebah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8441"
+        },
+        {
+          "id": "isaiah-41-24-6",
+          "surface": "יִבְחַ֥ר",
+          "lemma": "בָּחַר",
+          "translit": "yibechar",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H977"
+        },
+        {
+          "id": "isaiah-41-24-7",
+          "surface": "בָּכֶֽם",
+          "lemma": "בָּכֶֽם",
+          "translit": "bakem",
+          "morph": "Preposition + Suffix plural 2nd masculine",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:25",
+      "englishText": "“I have raised up one from the north, and he has come; from the rising of the sun, one who calls on my name; and he shall come on rulers as on mortar, and as the potter treads clay. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-25-0",
+          "surface": "הַעִיר֤וֹתִי",
+          "lemma": "עוּר",
+          "translit": "ha`iyrvotiy",
+          "morph": "Verb Hiphil Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H5782"
+        },
+        {
+          "id": "isaiah-41-25-1",
+          "surface": "מִצָּפוֹן֙",
+          "lemma": "צָפוֹן",
+          "translit": "mitsapvon",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6828"
+        },
+        {
+          "id": "isaiah-41-25-2",
+          "surface": "וַיַּ֔את",
+          "lemma": "אָתָה",
+          "translit": "vaya't",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H857"
+        },
+        {
+          "id": "isaiah-41-25-3",
+          "surface": "מִמִּזְרַח",
+          "lemma": "מִזְרָח",
+          "translit": "mimizerach",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4217"
+        },
+        {
+          "id": "isaiah-41-25-4",
+          "surface": "שֶׁ֖מֶשׁ",
+          "lemma": "שֶׁמֶשׁ",
+          "translit": "shemesh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H8121"
+        },
+        {
+          "id": "isaiah-41-25-5",
+          "surface": "יִקְרָ֣א",
+          "lemma": "קָרָא",
+          "translit": "yiqera'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "isaiah-41-25-6",
+          "surface": "בִשְׁמִ֑י",
+          "lemma": "שֵׁם",
+          "translit": "bishemiy",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "isaiah-41-25-7",
+          "surface": "וְיָבֹ֤א",
+          "lemma": "בּוֹא",
+          "translit": "veyabo'",
+          "morph": "Conjunction + Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "isaiah-41-25-8",
+          "surface": "סְגָנִים֙",
+          "lemma": "סָגָן",
+          "translit": "seganiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5461"
+        },
+        {
+          "id": "isaiah-41-25-9",
+          "surface": "כְּמוֹ",
+          "lemma": "כְּמוֹ",
+          "translit": "kemvo",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H3644"
+        },
+        {
+          "id": "isaiah-41-25-10",
+          "surface": "חֹ֔מֶר",
+          "lemma": "חֹמֶר",
+          "translit": "chomer",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2563"
+        },
+        {
+          "id": "isaiah-41-25-11",
+          "surface": "וּכְמ֥וֹ",
+          "lemma": "כְּמוֹ",
+          "translit": "vkemvo",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H3644"
+        },
+        {
+          "id": "isaiah-41-25-12",
+          "surface": "יוֹצֵ֖ר",
+          "lemma": "יָצַר",
+          "translit": "yvotser",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3335"
+        },
+        {
+          "id": "isaiah-41-25-13",
+          "surface": "יִרְמָס",
+          "lemma": "רָמַס",
+          "translit": "yiremas",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7429"
+        },
+        {
+          "id": "isaiah-41-25-14",
+          "surface": "טִֽיט",
+          "lemma": "טִיט",
+          "translit": "tiyt",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2916"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:26",
+      "englishText": "Who has declared it from the beginning, that we may know? And before, that we may say, ‘He is right?’ Surely, there is no one who declares. Surely, there is no one who shows. Surely, there is no one who hears your words. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-26-0",
+          "surface": "מִֽי",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "isaiah-41-26-1",
+          "surface": "הִגִּ֤יד",
+          "lemma": "נָגַד",
+          "translit": "higiyd",
+          "morph": "Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "isaiah-41-26-2",
+          "surface": "מֵרֹאשׁ֙",
+          "lemma": "רֹאשׁ",
+          "translit": "mero'sh",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "isaiah-41-26-3",
+          "surface": "וְנֵדָ֔עָה",
+          "lemma": "יָדַע",
+          "translit": "veneda`ah",
+          "morph": "Conjunction + Verb Qal Cohortative 1st common plural",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "isaiah-41-26-4",
+          "surface": "וּמִלְּפָנִ֖ים",
+          "lemma": "פָּנִים",
+          "translit": "vmilepaniym",
+          "morph": "Conjunction + Preposition + Preposition + Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "isaiah-41-26-5",
+          "surface": "וְנֹאמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "veno'mar",
+          "morph": "Conjunction + Verb Qal Imperative 1st common plural",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-41-26-6",
+          "surface": "צַדִּ֑יק",
+          "lemma": "צַדִּיק",
+          "translit": "tsadiyq",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6662"
+        },
+        {
+          "id": "isaiah-41-26-7",
+          "surface": "אַ֣ף",
+          "lemma": "אַף",
+          "translit": "'ap",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H637"
+        },
+        {
+          "id": "isaiah-41-26-8",
+          "surface": "אֵין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "isaiah-41-26-9",
+          "surface": "מַגִּ֗יד",
+          "lemma": "נָגַד",
+          "translit": "magiyd",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "isaiah-41-26-10",
+          "surface": "אַ֚ף",
+          "lemma": "אַף",
+          "translit": "'ap",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H637"
+        },
+        {
+          "id": "isaiah-41-26-11",
+          "surface": "אֵ֣ין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "isaiah-41-26-12",
+          "surface": "מַשְׁמִ֔יעַ",
+          "lemma": "שָׁמַע",
+          "translit": "mashemiy`a",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "isaiah-41-26-13",
+          "surface": "אַ֥ף",
+          "lemma": "אַף",
+          "translit": "'ap",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H637"
+        },
+        {
+          "id": "isaiah-41-26-14",
+          "surface": "אֵין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "isaiah-41-26-15",
+          "surface": "שֹׁמֵ֖עַ",
+          "lemma": "שָׁמַע",
+          "translit": "shome`a",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "isaiah-41-26-16",
+          "surface": "אִמְרֵיכֶֽם",
+          "lemma": "אֵמֶר",
+          "translit": "'imereykem",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H561"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:27",
+      "englishText": "I am the first to say to Zion, ‘Behold, look at them;’ and I will give one who brings good news to Jerusalem. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-27-0",
+          "surface": "רִאשׁ֥וֹן",
+          "lemma": "רִאשׁוֹן",
+          "translit": "ri'shvon",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7223"
+        },
+        {
+          "id": "isaiah-41-27-1",
+          "surface": "לְצִיּ֖וֹן",
+          "lemma": "צִיּוֹן",
+          "translit": "letsiyvon",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6726"
+        },
+        {
+          "id": "isaiah-41-27-2",
+          "surface": "הִנֵּ֣ה",
+          "lemma": "הִנֵּה",
+          "translit": "hineh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "isaiah-41-27-3",
+          "surface": "הִנָּ֑ם",
+          "lemma": "הֵן",
+          "translit": "hinam",
+          "morph": "Particle masculine + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "isaiah-41-27-4",
+          "surface": "וְלִירוּשָׁלִַ֖ם",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "translit": "veliyrvshalaim",
+          "morph": "Conjunction + Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3389"
+        },
+        {
+          "id": "isaiah-41-27-5",
+          "surface": "מְבַשֵּׂ֥ר",
+          "lemma": "בָּשַׂר",
+          "translit": "mebasher",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H1319"
+        },
+        {
+          "id": "isaiah-41-27-6",
+          "surface": "אֶתֵּֽן",
+          "lemma": "נָתַן",
+          "translit": "'eten",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H5414"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:28",
+      "englishText": "When I look, there is no man; even among them there is no counselor who, when I ask of them, can answer a word. ",
+      "tokens": [
+        {
+          "id": "isaiah-41-28-0",
+          "surface": "וְאֵ֨רֶא֙",
+          "lemma": "רָאָה",
+          "translit": "ve'ere'",
+          "morph": "Conjunction + Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "isaiah-41-28-1",
+          "surface": "וְאֵ֣ין",
+          "lemma": "אַיִן",
+          "translit": "ve'eyn",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "isaiah-41-28-2",
+          "surface": "אִ֔ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "isaiah-41-28-3",
+          "surface": "וּמֵאֵ֖לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "vme'eleh",
+          "morph": "Conjunction + Preposition + Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "isaiah-41-28-4",
+          "surface": "וְאֵ֣ין",
+          "lemma": "אַיִן",
+          "translit": "ve'eyn",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "isaiah-41-28-5",
+          "surface": "יוֹעֵ֑ץ",
+          "lemma": "יָעַץ",
+          "translit": "yvo`ets",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3289"
+        },
+        {
+          "id": "isaiah-41-28-6",
+          "surface": "וְאֶשְׁאָלֵ֖ם",
+          "lemma": "שָׁאַל",
+          "translit": "ve'eshe'alem",
+          "morph": "Conjunction + Verb Qal Imperative 1st common singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H7592"
+        },
+        {
+          "id": "isaiah-41-28-7",
+          "surface": "וְיָשִׁ֥יבוּ",
+          "lemma": "שׁוּב",
+          "translit": "veyashiybv",
+          "morph": "Conjunction + Verb Hiphil Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "isaiah-41-28-8",
+          "surface": "דָבָֽר",
+          "lemma": "דָּבָר",
+          "translit": "dabar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1697"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 41:29",
+      "englishText": "Behold, all of them, their works are vanity and nothing. Their molten images are wind and confusion.   ",
+      "tokens": [
+        {
+          "id": "isaiah-41-29-0",
+          "surface": "הֵ֣ן",
+          "lemma": "הֵן",
+          "translit": "hen",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "isaiah-41-29-1",
+          "surface": "כֻּלָּ֔ם",
+          "lemma": "כֹּל",
+          "translit": "kulam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "isaiah-41-29-2",
+          "surface": "אָ֥וֶן",
+          "lemma": "אָוֶן",
+          "translit": "'aven",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H205"
+        },
+        {
+          "id": "isaiah-41-29-3",
+          "surface": "אֶ֖פֶס",
+          "lemma": "אֶפֶס",
+          "translit": "'epes",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H657"
+        },
+        {
+          "id": "isaiah-41-29-4",
+          "surface": "מַעֲשֵׂיהֶ֑ם",
+          "lemma": "מַעֲשֶׂה",
+          "translit": "ma`sheyhem",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H4639"
+        },
+        {
+          "id": "isaiah-41-29-5",
+          "surface": "ר֥וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "rvcha",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "isaiah-41-29-6",
+          "surface": "וָתֹ֖הוּ",
+          "lemma": "תֹּהוּ",
+          "translit": "vatohv",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8414"
+        },
+        {
+          "id": "isaiah-41-29-7",
+          "surface": "נִסְכֵּיהֶֽם",
+          "lemma": "נֶסֶךְ",
+          "translit": "nisekeyhem",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5262"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

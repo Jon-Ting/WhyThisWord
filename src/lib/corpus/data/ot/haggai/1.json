@@ -1,1 +1,2260 @@
-{"id":"haggai-1","name":"Haggai","chapter":1,"verses":[{"ref":"Haggai 1:1","englishText":"In the second year of Darius the king, in the sixth month, in the first day of the month, Yahweh’s word came by Haggai, the prophet, to Zerubbabel, the son of Shealtiel, governor of Judah, and to Joshua, the son of Jehozadak, the high priest, saying,","tokens":[{"id":"haggai-1-1-0","surface":"בִּשְׁנַ֤ת","lemma":"שָׁנֶה","translit":"bishenat","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H8141"},{"id":"haggai-1-1-1","surface":"שְׁתַּ֨יִם֙","lemma":"שְׁנַיִם","translit":"shetayim","morph":"Adjective common feminine dual absolute","glosses":[],"strongs":"H8147"},{"id":"haggai-1-1-2","surface":"לְדָרְיָ֣וֶשׁ","lemma":"דָּֽרְיָוֵשׁ","translit":"ledareyavesh","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1867"},{"id":"haggai-1-1-3","surface":"הַמֶּ֔לֶךְ","lemma":"מֶלֶךְ","translit":"hameleke","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4428"},{"id":"haggai-1-1-4","surface":"בַּחֹ֨דֶשׁ֙","lemma":"חֹדֶשׁ","translit":"bachodesh","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2320"},{"id":"haggai-1-1-5","surface":"הַשִּׁשִּׁ֔י","lemma":"שִׁשִּׁי","translit":"hashishiy","morph":"Particle dual + Adjective","glosses":[],"strongs":"H8345"},{"id":"haggai-1-1-6","surface":"בְּי֥וֹם","lemma":"יוֹם","translit":"beyvom","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"haggai-1-1-7","surface":"אֶחָ֖ד","lemma":"אֶחָד","translit":"'echad","morph":"Adjective common masculine singular absolute","glosses":[],"strongs":"H259"},{"id":"haggai-1-1-8","surface":"לַחֹ֑דֶשׁ","lemma":"חֹדֶשׁ","translit":"lachodesh","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2320"},{"id":"haggai-1-1-9","surface":"הָיָ֨ה","lemma":"הָיָה","translit":"hayah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"haggai-1-1-10","surface":"דְבַר","lemma":"דָּבָר","translit":"debar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"haggai-1-1-11","surface":"יְהוָ֜ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-1-12","surface":"בְּיַד","lemma":"יָד","translit":"beyad","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"haggai-1-1-13","surface":"חַגַּ֣י","lemma":"חַגַּי","translit":"chagay","morph":"Noun proper","glosses":[],"strongs":"H2292"},{"id":"haggai-1-1-14","surface":"הַנָּבִ֗יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"haggai-1-1-15","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"haggai-1-1-16","surface":"זְרֻבָּבֶ֤ל","lemma":"זְרֻבָּבֶל","translit":"zerubabel","morph":"Noun proper","glosses":[],"strongs":"H2216"},{"id":"haggai-1-1-17","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"haggai-1-1-18","surface":"שְׁאַלְתִּיאֵל֙","lemma":"שְׁאַלְתִּיאֵל","translit":"she'aletiy'el","morph":"Noun proper","glosses":[],"strongs":"H7597"},{"id":"haggai-1-1-19","surface":"פַּחַ֣ת","lemma":"פֶּחָה","translit":"pachat","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H6346"},{"id":"haggai-1-1-20","surface":"יְהוּדָ֔ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"haggai-1-1-21","surface":"וְאֶל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"haggai-1-1-22","surface":"יְהוֹשֻׁ֧עַ","lemma":"יְהוֹשׁוּעַ","translit":"yehvoshu`a","morph":"Noun proper","glosses":[],"strongs":"H3091"},{"id":"haggai-1-1-23","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"haggai-1-1-24","surface":"יְהוֹצָדָ֛ק","lemma":"יְהוֹצָדָק","translit":"yehvotsadaq","morph":"Noun proper","glosses":[],"strongs":"H3087"},{"id":"haggai-1-1-25","surface":"הַכֹּהֵ֥ן","lemma":"כֹּהֵן","translit":"hakohen","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3548"},{"id":"haggai-1-1-26","surface":"הַגָּד֖וֹל","lemma":"גָּדוֹל","translit":"hagadvol","morph":"Particle dual + Adjective","glosses":[],"strongs":"H1419"},{"id":"haggai-1-1-27","surface":"לֵאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Haggai 1:2","englishText":"“This is what Yahweh of Armies says: These people say, ‘The time hasn’t yet come, the time for Yahweh’s house to be built.’”  ","tokens":[{"id":"haggai-1-2-0","surface":"כֹּ֥ה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"haggai-1-2-1","surface":"אָמַ֛ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"haggai-1-2-2","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-2-3","surface":"צְבָא֖וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"haggai-1-2-4","surface":"לֵאמֹ֑ר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"},{"id":"haggai-1-2-5","surface":"הָעָ֤ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"haggai-1-2-6","surface":"הַזֶּה֙","lemma":"זֶה","translit":"hazeh","morph":"Particle dual + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"haggai-1-2-7","surface":"אָֽמְר֔וּ","lemma":"אָמַר","translit":"'amerv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H559"},{"id":"haggai-1-2-8","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"haggai-1-2-9","surface":"עֶת","lemma":"עֵת","translit":"`et","morph":"Noun common singular construct","glosses":[],"strongs":"H6256"},{"id":"haggai-1-2-10","surface":"בֹּ֛א","lemma":"בּוֹא","translit":"bo'","morph":"Verb Qal Infinitive Construct","glosses":[],"strongs":"H935"},{"id":"haggai-1-2-11","surface":"עֶת","lemma":"עֵת","translit":"`et","morph":"Noun common singular construct","glosses":[],"strongs":"H6256"},{"id":"haggai-1-2-12","surface":"בֵּ֥ית","lemma":"בַּיִת","translit":"beyt","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"haggai-1-2-13","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-2-14","surface":"לְהִבָּנֽוֹת","lemma":"בָּנָה","translit":"lehibanvot","morph":"Preposition + Verb Niphal Infinitive Construct","glosses":[],"strongs":"H1129"}],"language":"hebrew"},{"ref":"Haggai 1:3","englishText":"  Then Yahweh’s word came by Haggai, the prophet, saying,","tokens":[{"id":"haggai-1-3-0","surface":"וַֽיְהִי֙","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"haggai-1-3-1","surface":"דְּבַר","lemma":"דָּבָר","translit":"debar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"haggai-1-3-2","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-3-3","surface":"בְּיַד","lemma":"יָד","translit":"beyad","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"haggai-1-3-4","surface":"חַגַּ֥י","lemma":"חַגַּי","translit":"chagay","morph":"Noun proper","glosses":[],"strongs":"H2292"},{"id":"haggai-1-3-5","surface":"הַנָּבִ֖יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"haggai-1-3-6","surface":"לֵאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Haggai 1:4","englishText":"“Is it a time for you yourselves to dwell in your paneled houses, while this house lies waste?","tokens":[{"id":"haggai-1-4-0","surface":"הַעֵ֤ת","lemma":"עֵת","translit":"ha`et","morph":"Particle + Noun common singular absolute","glosses":[],"strongs":"H6256"},{"id":"haggai-1-4-1","surface":"לָכֶם֙","lemma":"לָכֶם֙","translit":"lakem","morph":"Preposition + Suffix plural 2nd masculine","glosses":[]},{"id":"haggai-1-4-2","surface":"אַתֶּ֔ם","lemma":"אַתָּה","translit":"'atem","morph":"Pronoun plural 2nd masculine","glosses":[],"strongs":"H859"},{"id":"haggai-1-4-3","surface":"לָשֶׁ֖בֶת","lemma":"יָשַׁב","translit":"lashebet","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H3427"},{"id":"haggai-1-4-4","surface":"בְּבָתֵּיכֶ֣ם","lemma":"בַּיִת","translit":"bebateykem","morph":"Preposition + Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H1004"},{"id":"haggai-1-4-5","surface":"סְפוּנִ֑ים","lemma":"סָפַן","translit":"sepvniym","morph":"Verb Qal s","glosses":[],"strongs":"H5603"},{"id":"haggai-1-4-6","surface":"וְהַבַּ֥יִת","lemma":"בַּיִת","translit":"vehabayit","morph":"Conjunction + Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1004"},{"id":"haggai-1-4-7","surface":"הַזֶּ֖ה","lemma":"זֶה","translit":"hazeh","morph":"Particle dual + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"haggai-1-4-8","surface":"חָרֵֽב","lemma":"חָרֵב","translit":"chareb","morph":"Adjective","glosses":[],"strongs":"H2720"}],"language":"hebrew"},{"ref":"Haggai 1:5","englishText":"Now therefore this is what Yahweh of Armies says: Consider your ways.","tokens":[{"id":"haggai-1-5-0","surface":"וְעַתָּ֕ה","lemma":"עַתָּה","translit":"ve`atah","morph":"Conjunction + Adverb","glosses":[],"strongs":"H6258"},{"id":"haggai-1-5-1","surface":"כֹּ֥ה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"haggai-1-5-2","surface":"אָמַ֖ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"haggai-1-5-3","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-5-4","surface":"צְבָא֑וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"haggai-1-5-5","surface":"שִׂ֥ימוּ","lemma":"שׂוּם","translit":"shiymv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H7760"},{"id":"haggai-1-5-6","surface":"לְבַבְכֶ֖ם","lemma":"לֵבָב","translit":"lebabekem","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H3824"},{"id":"haggai-1-5-7","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-5-8","surface":"דַּרְכֵיכֶֽם","lemma":"דֶּרֶךְ","translit":"darekeykem","morph":"Noun common plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H1870"}],"language":"hebrew"},{"ref":"Haggai 1:6","englishText":"You have sown much, and bring in little. You eat, but you don’t have enough. You drink, but you aren’t filled with drink. You clothe yourselves, but no one is warm, and he who earns wages earns wages to put them into a bag with holes in it.”  ","tokens":[{"id":"haggai-1-6-0","surface":"זְרַעְתֶּ֨ם","lemma":"זָרַע","translit":"zera`etem","morph":"Verb Qal Participle 2nd masculine plural","glosses":[],"strongs":"H2232"},{"id":"haggai-1-6-1","surface":"הַרְבֵּ֜ה","lemma":"רָבָה","translit":"harebeh","morph":"Verb Hiphil Infinitive Absolute","glosses":[],"strongs":"H7235"},{"id":"haggai-1-6-2","surface":"וְהָבֵ֣א","lemma":"בּוֹא","translit":"vehabe'","morph":"Conjunction + Verb Hiphil Infinitive Absolute","glosses":[],"strongs":"H935"},{"id":"haggai-1-6-3","surface":"מְעָ֗ט","lemma":"מְעַט","translit":"me`at","morph":"Adjective","glosses":[],"strongs":"H4592"},{"id":"haggai-1-6-4","surface":"אָכ֤וֹל","lemma":"אָכַל","translit":"'akvol","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H398"},{"id":"haggai-1-6-5","surface":"וְאֵין","lemma":"אַיִן","translit":"ve'eyn","morph":"Conjunction + Particle","glosses":[],"strongs":"H369"},{"id":"haggai-1-6-6","surface":"לְשָׂבְעָה֙","lemma":"שׇׂבְעָה","translit":"leshabe`ah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H7654"},{"id":"haggai-1-6-7","surface":"שָׁת֣וֹ","lemma":"שָׁתָה","translit":"shatvo","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H8354"},{"id":"haggai-1-6-8","surface":"וְאֵין","lemma":"אַיִן","translit":"ve'eyn","morph":"Conjunction + Particle","glosses":[],"strongs":"H369"},{"id":"haggai-1-6-9","surface":"לְשָׁכְרָ֔ה","lemma":"שָׁכַר","translit":"leshakerah","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H7937"},{"id":"haggai-1-6-10","surface":"לָב֖וֹשׁ","lemma":"לָבַשׁ","translit":"labvosh","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H3847"},{"id":"haggai-1-6-11","surface":"וְאֵין","lemma":"אַיִן","translit":"ve'eyn","morph":"Conjunction + Particle","glosses":[],"strongs":"H369"},{"id":"haggai-1-6-12","surface":"לְחֹ֣ם","lemma":"חֹם","translit":"lechom","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H2527"},{"id":"haggai-1-6-13","surface":"ל֑וֹ","lemma":"ל֑וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"haggai-1-6-14","surface":"וְהַ֨מִּשְׂתַּכֵּ֔ר","lemma":"שָׂכַר","translit":"vehamishetaker","morph":"Conjunction + Particle dual + Verb Hithpael Passive Participle","glosses":[],"strongs":"H7936"},{"id":"haggai-1-6-15","surface":"מִשְׂתַּכֵּ֖ר","lemma":"שָׂכַר","translit":"mishetaker","morph":"Verb Hithpael Passive Participle","glosses":[],"strongs":"H7936"},{"id":"haggai-1-6-16","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"haggai-1-6-17","surface":"צְר֥וֹר","lemma":"צְרוֹר","translit":"tservor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6872"},{"id":"haggai-1-6-18","surface":"נָקֽוּב","lemma":"נָקַב","translit":"naqvb","morph":"Verb Qal s","glosses":[],"strongs":"H5344"}],"language":"hebrew"},{"ref":"Haggai 1:7","englishText":"  This is what Yahweh of Armies says: “Consider your ways.","tokens":[{"id":"haggai-1-7-0","surface":"כֹּ֥ה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"haggai-1-7-1","surface":"אָמַ֖ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"haggai-1-7-2","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-7-3","surface":"צְבָא֑וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"haggai-1-7-4","surface":"שִׂ֥ימוּ","lemma":"שׂוּם","translit":"shiymv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H7760"},{"id":"haggai-1-7-5","surface":"לְבַבְכֶ֖ם","lemma":"לֵבָב","translit":"lebabekem","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H3824"},{"id":"haggai-1-7-6","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-7-7","surface":"דַּרְכֵיכֶֽם","lemma":"דֶּרֶךְ","translit":"darekeykem","morph":"Noun common plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H1870"}],"language":"hebrew"},{"ref":"Haggai 1:8","englishText":"Go up to the mountain, bring wood, and build the house. I will take pleasure in it, and I will be glorified,” says Yahweh.","tokens":[{"id":"haggai-1-8-0","surface":"עֲל֥וּ","lemma":"עָלָה","translit":"`lv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5927"},{"id":"haggai-1-8-1","surface":"הָהָ֛ר","lemma":"הַר","translit":"hahar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2022"},{"id":"haggai-1-8-2","surface":"וַהֲבֵאתֶ֥ם","lemma":"בּוֹא","translit":"vahbe'tem","morph":"Conjunction + Verb Hiphil Perfect 2nd masculine plural","glosses":[],"strongs":"H935"},{"id":"haggai-1-8-3","surface":"עֵ֖ץ","lemma":"עֵץ","translit":"`ets","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6086"},{"id":"haggai-1-8-4","surface":"וּבְנ֣וּ","lemma":"בָּנָה","translit":"vbenv","morph":"Conjunction + Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H1129"},{"id":"haggai-1-8-5","surface":"הַבָּ֑יִת","lemma":"בַּיִת","translit":"habayit","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1004"},{"id":"haggai-1-8-6","surface":"וְאֶרְצֶה","lemma":"רָצָה","translit":"ve'eretseh","morph":"Conjunction + Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H7521"},{"id":"haggai-1-8-7","surface":"בּ֥וֹ","lemma":"בּ֥וֹ","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"haggai-1-8-8","surface":"ואכבד","lemma":"כָּבַד","translit":"v'kbd","morph":"Conjunction + Verb Niphal Imperative 1st common singular","glosses":[],"strongs":"H3513"},{"id":"haggai-1-8-9","surface":"וְאֶכָּבְדָ֖ה","lemma":"כָּבַד","translit":"ve'ekabedah","morph":"Conjunction + Verb Niphal Cohortative 1st common singular","glosses":[],"strongs":"H3513"},{"id":"haggai-1-8-10","surface":"אָמַ֥ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"haggai-1-8-11","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Haggai 1:9","englishText":"“You looked for much, and, behold, it came to little; and when you brought it home, I blew it away. Why?” says Yahweh of Armies, “Because of my house that lies waste, while each of you is busy with his own house.","tokens":[{"id":"haggai-1-9-0","surface":"פָּנֹ֤ה","lemma":"פָּנָה","translit":"panoh","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H6437"},{"id":"haggai-1-9-1","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"haggai-1-9-2","surface":"הַרְבֵּה֙","lemma":"רָבָה","translit":"harebeh","morph":"Verb Hiphil Infinitive Absolute","glosses":[],"strongs":"H7235"},{"id":"haggai-1-9-3","surface":"וְהִנֵּ֣ה","lemma":"הִנֵּה","translit":"vehineh","morph":"Conjunction + Particle masculine","glosses":[],"strongs":"H2009"},{"id":"haggai-1-9-4","surface":"לִמְעָ֔ט","lemma":"מְעַט","translit":"lime`at","morph":"Preposition + Adjective","glosses":[],"strongs":"H4592"},{"id":"haggai-1-9-5","surface":"וַהֲבֵאתֶ֥ם","lemma":"בּוֹא","translit":"vahbe'tem","morph":"Conjunction + Verb Hiphil Participle 2nd masculine plural","glosses":[],"strongs":"H935"},{"id":"haggai-1-9-6","surface":"הַבַּ֖יִת","lemma":"בַּיִת","translit":"habayit","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1004"},{"id":"haggai-1-9-7","surface":"וְנָפַ֣חְתִּי","lemma":"נָפַח","translit":"venapachetiy","morph":"Conjunction + Verb Qal Participle 1st common singular","glosses":[],"strongs":"H5301"},{"id":"haggai-1-9-8","surface":"ב֑וֹ","lemma":"ב֑וֹ","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"haggai-1-9-9","surface":"יַ֣עַן","lemma":"יַעַן","translit":"ya`an","morph":"Conjunction","glosses":[],"strongs":"H3282"},{"id":"haggai-1-9-10","surface":"מֶ֗ה","lemma":"מָה","translit":"meh","morph":"Particle","glosses":[],"strongs":"H4100"},{"id":"haggai-1-9-11","surface":"נְאֻם֙","lemma":"נְאֻם","translit":"ne'um","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5002"},{"id":"haggai-1-9-12","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-9-13","surface":"צְבָא֔וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"haggai-1-9-14","surface":"יַ֗עַן","lemma":"יַעַן","translit":"ya`an","morph":"Conjunction","glosses":[],"strongs":"H3282"},{"id":"haggai-1-9-15","surface":"בֵּיתִי֙","lemma":"בַּיִת","translit":"beytiy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H1004"},{"id":"haggai-1-9-16","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"haggai-1-9-17","surface":"ה֣וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"haggai-1-9-18","surface":"חָרֵ֔ב","lemma":"חָרֵב","translit":"chareb","morph":"Adjective","glosses":[],"strongs":"H2720"},{"id":"haggai-1-9-19","surface":"וְאַתֶּ֥ם","lemma":"אַתָּה","translit":"ve'atem","morph":"Conjunction + Pronoun plural 2nd masculine","glosses":[],"strongs":"H859"},{"id":"haggai-1-9-20","surface":"רָצִ֖ים","lemma":"רוּץ","translit":"ratsiym","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H7323"},{"id":"haggai-1-9-21","surface":"אִ֥ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"haggai-1-9-22","surface":"לְבֵיתֽוֹ","lemma":"בַּיִת","translit":"lebeytvo","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1004"}],"language":"hebrew"},{"ref":"Haggai 1:10","englishText":"Therefore for your sake the heavens withhold the dew, and the earth withholds its fruit.","tokens":[{"id":"haggai-1-10-0","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-10-1","surface":"כֵּ֣ן","lemma":"כֵּן","translit":"ken","morph":"Particle masculine","glosses":[],"strongs":"H3651"},{"id":"haggai-1-10-2","surface":"עֲלֵיכֶ֔ם","lemma":"עַל","translit":"`leykem","morph":"Preposition + Suffix plural 2nd masculine","glosses":[],"strongs":"H5921"},{"id":"haggai-1-10-3","surface":"כָּלְא֥וּ","lemma":"כָּלָא","translit":"kale'v","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H3607"},{"id":"haggai-1-10-4","surface":"שָמַ֖יִם","lemma":"שָׁמַיִם","translit":"shamayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"haggai-1-10-5","surface":"מִטָּ֑ל","lemma":"טַל","translit":"mital","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H2919"},{"id":"haggai-1-10-6","surface":"וְהָאָ֖רֶץ","lemma":"אֶרֶץ","translit":"veha'arets","morph":"Conjunction + Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"haggai-1-10-7","surface":"כָּלְאָ֥ה","lemma":"כָּלָא","translit":"kale'ah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H3607"},{"id":"haggai-1-10-8","surface":"יְבוּלָֽהּ","lemma":"יְבוּל","translit":"yebvlah","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H2981"}],"language":"hebrew"},{"ref":"Haggai 1:11","englishText":"I called for a drought on the land, on the mountains, on the grain, on the new wine, on the oil, on that which the ground produces, on men, on livestock, and on all the labor of the hands.”  ","tokens":[{"id":"haggai-1-11-0","surface":"וָאֶקְרָ֨א","lemma":"קָרָא","translit":"va'eqera'","morph":"Conjunction + Verb Qal Wayyiqtol 1st common singular","glosses":[],"strongs":"H7121"},{"id":"haggai-1-11-1","surface":"חֹ֜רֶב","lemma":"חֹרֶב","translit":"choreb","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2721"},{"id":"haggai-1-11-2","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-11-3","surface":"הָאָ֣רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"haggai-1-11-4","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-11-5","surface":"הֶהָרִ֗ים","lemma":"הַר","translit":"hehariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H2022"},{"id":"haggai-1-11-6","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-11-7","surface":"הַדָּגָן֙","lemma":"דָּגָן","translit":"hadagan","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1715"},{"id":"haggai-1-11-8","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-11-9","surface":"הַתִּיר֣וֹשׁ","lemma":"תִּירוֹשׁ","translit":"hatiyrvosh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H8492"},{"id":"haggai-1-11-10","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-11-11","surface":"הַיִּצְהָ֔ר","lemma":"יִצְהָר","translit":"hayitsehar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3323"},{"id":"haggai-1-11-12","surface":"וְעַ֛ל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-11-13","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"haggai-1-11-14","surface":"תּוֹצִ֖יא","lemma":"יָצָא","translit":"tvotsiy'","morph":"Verb Hiphil Imperative 3rd feminine singular","glosses":[],"strongs":"H3318"},{"id":"haggai-1-11-15","surface":"הָאֲדָמָ֑ה","lemma":"אֲדָמָה","translit":"ha'damah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H127"},{"id":"haggai-1-11-16","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-11-17","surface":"הָֽאָדָם֙","lemma":"אָדָם","translit":"ha'adam","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H120"},{"id":"haggai-1-11-18","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-11-19","surface":"הַבְּהֵמָ֔ה","lemma":"בְּהֵמָה","translit":"habehemah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H929"},{"id":"haggai-1-11-20","surface":"וְעַ֖ל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-11-21","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"haggai-1-11-22","surface":"יְגִ֥יעַ","lemma":"יְגִיעַ","translit":"yegiy`a","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3018"},{"id":"haggai-1-11-23","surface":"כַּפָּֽיִם","lemma":"כַּף","translit":"kapayim","morph":"Noun common feminine dual absolute","glosses":[],"strongs":"H3709"}],"language":"hebrew"},{"ref":"Haggai 1:12","englishText":"  Then Zerubbabel, the son of Shealtiel, and Joshua, the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of Yahweh, their God, and the words of Haggai, the prophet, as Yahweh, their God, had sent him; and the people feared Yahweh.  ","tokens":[{"id":"haggai-1-12-0","surface":"וַיִּשְׁמַ֣ע","lemma":"שָׁמַע","translit":"vayishema`","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H8085"},{"id":"haggai-1-12-1","surface":"זְרֻבָּבֶ֣ל","lemma":"זְרֻבָּבֶל","translit":"zerubabel","morph":"Noun proper","glosses":[],"strongs":"H2216"},{"id":"haggai-1-12-2","surface":"בֶּֽן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"haggai-1-12-3","surface":"שַׁלְתִּיאֵ֡ל","lemma":"שְׁאַלְתִּיאֵל","translit":"shaletiy'el","morph":"Noun proper","glosses":[],"strongs":"H7597"},{"id":"haggai-1-12-4","surface":"וִיהוֹשֻׁ֣עַ","lemma":"יְהוֹשׁוּעַ","translit":"viyhvoshu`a","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3091"},{"id":"haggai-1-12-5","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"haggai-1-12-6","surface":"יְהוֹצָדָק֩","lemma":"יְהוֹצָדָק","translit":"yehvotsadaq","morph":"Noun proper","glosses":[],"strongs":"H3087"},{"id":"haggai-1-12-7","surface":"הַכֹּהֵ֨ן","lemma":"כֹּהֵן","translit":"hakohen","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3548"},{"id":"haggai-1-12-8","surface":"הַגָּד֜וֹל","lemma":"גָּדוֹל","translit":"hagadvol","morph":"Particle dual + Adjective","glosses":[],"strongs":"H1419"},{"id":"haggai-1-12-9","surface":"וְכֹ֣ל","lemma":"כֹּל","translit":"vekol","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"haggai-1-12-10","surface":"שְׁאֵרִ֣ית","lemma":"שְׁאֵרִית","translit":"she'eriyt","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H7611"},{"id":"haggai-1-12-11","surface":"הָעָ֗ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"haggai-1-12-12","surface":"בְּקוֹל֙","lemma":"קוֹל","translit":"beqvol","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H6963"},{"id":"haggai-1-12-13","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-12-14","surface":"אֱלֹֽהֵיהֶ֔ם","lemma":"אֱלֹהִים","translit":"'loheyhem","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H430"},{"id":"haggai-1-12-15","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"haggai-1-12-16","surface":"דִּבְרֵי֙","lemma":"דָּבָר","translit":"diberey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1697"},{"id":"haggai-1-12-17","surface":"חַגַּ֣י","lemma":"חַגַּי","translit":"chagay","morph":"Noun proper","glosses":[],"strongs":"H2292"},{"id":"haggai-1-12-18","surface":"הַנָּבִ֔יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"haggai-1-12-19","surface":"כַּאֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"ka'sher","morph":"Preposition + Particle","glosses":[],"strongs":"H834"},{"id":"haggai-1-12-20","surface":"שְׁלָח֖וֹ","lemma":"שָׁלַח","translit":"shelachvo","morph":"Verb Qal Participle 3rd masculine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7971"},{"id":"haggai-1-12-21","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-12-22","surface":"אֱלֹהֵיהֶ֑ם","lemma":"אֱלֹהִים","translit":"'loheyhem","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H430"},{"id":"haggai-1-12-23","surface":"וַיִּֽירְא֥וּ","lemma":"יָרֵא","translit":"vayiyre'v","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H3372"},{"id":"haggai-1-12-24","surface":"הָעָ֖ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"haggai-1-12-25","surface":"מִפְּנֵ֥י","lemma":"פָּנִים","translit":"mipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"haggai-1-12-26","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Haggai 1:13","englishText":"  Then Haggai, Yahweh’s messenger, spoke Yahweh’s message to the people, saying, “I am with you,” says Yahweh.  ","tokens":[{"id":"haggai-1-13-0","surface":"וַ֠יֹּאמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"haggai-1-13-1","surface":"חַגַּ֞י","lemma":"חַגַּי","translit":"chagay","morph":"Noun proper","glosses":[],"strongs":"H2292"},{"id":"haggai-1-13-2","surface":"מַלְאַ֧ךְ","lemma":"מֲלְאָךְ","translit":"male'ake","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4397"},{"id":"haggai-1-13-3","surface":"יְהוָ֛ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-13-4","surface":"בְּמַלְאֲכ֥וּת","lemma":"מַלְאֲכוּת","translit":"bemale'kvt","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H4400"},{"id":"haggai-1-13-5","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-13-6","surface":"לָעָ֣ם","lemma":"עַם","translit":"la`am","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"haggai-1-13-7","surface":"לֵאמֹ֑ר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"},{"id":"haggai-1-13-8","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"haggai-1-13-9","surface":"אִתְּכֶ֖ם","lemma":"אֵת","translit":"'itekem","morph":"Preposition + Suffix plural 2nd masculine","glosses":[],"strongs":"H854"},{"id":"haggai-1-13-10","surface":"נְאֻם","lemma":"נְאֻם","translit":"ne'um","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5002"},{"id":"haggai-1-13-11","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Haggai 1:14","englishText":"  Yahweh stirred up the spirit of Zerubbabel, the son of Shealtiel, governor of Judah, and the spirit of Joshua, the son of Jehozadak, the high priest, and the spirit of all the remnant of the people; and they came and worked on the house of Yahweh of Armies, their God,","tokens":[{"id":"haggai-1-14-0","surface":"וַיָּ֣עַר","lemma":"עוּר","translit":"vaya`ar","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5782"},{"id":"haggai-1-14-1","surface":"יְהוָ֡ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-14-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"haggai-1-14-3","surface":"רוּחַ֩","lemma":"רוּחַ","translit":"rvcha","morph":"Noun common singular construct","glosses":[],"strongs":"H7307"},{"id":"haggai-1-14-4","surface":"זְרֻבָּבֶ֨ל","lemma":"זְרֻבָּבֶל","translit":"zerubabel","morph":"Noun proper","glosses":[],"strongs":"H2216"},{"id":"haggai-1-14-5","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"haggai-1-14-6","surface":"שַׁלְתִּיאֵ֜ל","lemma":"שְׁאַלְתִּיאֵל","translit":"shaletiy'el","morph":"Noun proper","glosses":[],"strongs":"H7597"},{"id":"haggai-1-14-7","surface":"פַּחַ֣ת","lemma":"פֶּחָה","translit":"pachat","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H6346"},{"id":"haggai-1-14-8","surface":"יְהוּדָ֗ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"haggai-1-14-9","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"haggai-1-14-10","surface":"ר֨וּחַ֙","lemma":"רוּחַ","translit":"rvcha","morph":"Noun common singular construct","glosses":[],"strongs":"H7307"},{"id":"haggai-1-14-11","surface":"יְהוֹשֻׁ֤עַ","lemma":"יְהוֹשׁוּעַ","translit":"yehvoshu`a","morph":"Noun proper","glosses":[],"strongs":"H3091"},{"id":"haggai-1-14-12","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"haggai-1-14-13","surface":"יְהוֹצָדָק֙","lemma":"יְהוֹצָדָק","translit":"yehvotsadaq","morph":"Noun proper","glosses":[],"strongs":"H3087"},{"id":"haggai-1-14-14","surface":"הַכֹּהֵ֣ן","lemma":"כֹּהֵן","translit":"hakohen","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3548"},{"id":"haggai-1-14-15","surface":"הַגָּד֔וֹל","lemma":"גָּדוֹל","translit":"hagadvol","morph":"Particle dual + Adjective","glosses":[],"strongs":"H1419"},{"id":"haggai-1-14-16","surface":"וְֽאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"haggai-1-14-17","surface":"ר֔וּחַ","lemma":"רוּחַ","translit":"rvcha","morph":"Noun common singular construct","glosses":[],"strongs":"H7307"},{"id":"haggai-1-14-18","surface":"כֹּ֖ל","lemma":"כֹּל","translit":"kol","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"haggai-1-14-19","surface":"שְׁאֵרִ֣ית","lemma":"שְׁאֵרִית","translit":"she'eriyt","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H7611"},{"id":"haggai-1-14-20","surface":"הָעָ֑ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"haggai-1-14-21","surface":"וַיָּבֹ֨אוּ֙","lemma":"בּוֹא","translit":"vayabo'v","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H935"},{"id":"haggai-1-14-22","surface":"וַיַּעֲשׂ֣וּ","lemma":"עָשָׂה","translit":"vaya`shv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H6213"},{"id":"haggai-1-14-23","surface":"מְלָאכָ֔ה","lemma":"מְלָאכָה","translit":"mela'kah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H4399"},{"id":"haggai-1-14-24","surface":"בְּבֵית","lemma":"בַּיִת","translit":"bebeyt","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"haggai-1-14-25","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"haggai-1-14-26","surface":"צְבָא֖וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"haggai-1-14-27","surface":"אֱלֹהֵיהֶֽם","lemma":"אֱלֹהִים","translit":"'loheyhem","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H430"}],"language":"hebrew"},{"ref":"Haggai 1:15","englishText":"in the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king.   ","tokens":[{"id":"haggai-1-15-0","surface":"בְּי֨וֹם","lemma":"יוֹם","translit":"beyvom","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3117"},{"id":"haggai-1-15-1","surface":"עֶשְׂרִ֧ים","lemma":"עֶשְׂרִים","translit":"`esheriym","morph":"Adjective common plural absolute","glosses":[],"strongs":"H6242"},{"id":"haggai-1-15-2","surface":"וְאַרְבָּעָ֛ה","lemma":"אַרְבַּע","translit":"ve'areba`ah","morph":"Conjunction + Adjective common masculine singular absolute","glosses":[],"strongs":"H702"},{"id":"haggai-1-15-3","surface":"לַחֹ֖דֶשׁ","lemma":"חֹדֶשׁ","translit":"lachodesh","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2320"},{"id":"haggai-1-15-4","surface":"בַּשִּׁשִּׁ֑י","lemma":"שִׁשִּׁי","translit":"bashishiy","morph":"Preposition dual + Adjective","glosses":[],"strongs":"H8345"},{"id":"haggai-1-15-5","surface":"בִּשְׁנַ֥ת","lemma":"שָׁנֶה","translit":"bishenat","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H8141"},{"id":"haggai-1-15-6","surface":"שְׁתַּ֖יִם","lemma":"שְׁנַיִם","translit":"shetayim","morph":"Adjective common feminine dual absolute","glosses":[],"strongs":"H8147"},{"id":"haggai-1-15-7","surface":"לְדָרְיָ֥וֶשׁ","lemma":"דָּֽרְיָוֵשׁ","translit":"ledareyavesh","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1867"},{"id":"haggai-1-15-8","surface":"הַמֶּֽלֶךְ","lemma":"מֶלֶךְ","translit":"hameleke","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4428"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "haggai-1",
+  "name": "Haggai",
+  "chapter": 1,
+  "verses": [
+    {
+      "ref": "Haggai 1:1",
+      "englishText": "In the second year of Darius the king, in the sixth month, in the first day of the month, Yahweh’s word came by Haggai, the prophet, to Zerubbabel, the son of Shealtiel, governor of Judah, and to Joshua, the son of Jehozadak, the high priest, saying,",
+      "tokens": [
+        {
+          "id": "haggai-1-1-0",
+          "surface": "בִּשְׁנַ֤ת",
+          "lemma": "שָׁנֶה",
+          "translit": "bishenat",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "haggai-1-1-1",
+          "surface": "שְׁתַּ֨יִם֙",
+          "lemma": "שְׁנַיִם",
+          "translit": "shetayim",
+          "morph": "Adjective common feminine dual absolute",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "haggai-1-1-2",
+          "surface": "לְדָרְיָ֣וֶשׁ",
+          "lemma": "דָּֽרְיָוֵשׁ",
+          "translit": "ledareyavesh",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1867"
+        },
+        {
+          "id": "haggai-1-1-3",
+          "surface": "הַמֶּ֔לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "hameleke",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "haggai-1-1-4",
+          "surface": "בַּחֹ֨דֶשׁ֙",
+          "lemma": "חֹדֶשׁ",
+          "translit": "bachodesh",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2320"
+        },
+        {
+          "id": "haggai-1-1-5",
+          "surface": "הַשִּׁשִּׁ֔י",
+          "lemma": "שִׁשִּׁי",
+          "translit": "hashishiy",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H8345"
+        },
+        {
+          "id": "haggai-1-1-6",
+          "surface": "בְּי֥וֹם",
+          "lemma": "יוֹם",
+          "translit": "beyvom",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "haggai-1-1-7",
+          "surface": "אֶחָ֖ד",
+          "lemma": "אֶחָד",
+          "translit": "'echad",
+          "morph": "Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H259"
+        },
+        {
+          "id": "haggai-1-1-8",
+          "surface": "לַחֹ֑דֶשׁ",
+          "lemma": "חֹדֶשׁ",
+          "translit": "lachodesh",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2320"
+        },
+        {
+          "id": "haggai-1-1-9",
+          "surface": "הָיָ֨ה",
+          "lemma": "הָיָה",
+          "translit": "hayah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "haggai-1-1-10",
+          "surface": "דְבַר",
+          "lemma": "דָּבָר",
+          "translit": "debar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "haggai-1-1-11",
+          "surface": "יְהוָ֜ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-1-12",
+          "surface": "בְּיַד",
+          "lemma": "יָד",
+          "translit": "beyad",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "haggai-1-1-13",
+          "surface": "חַגַּ֣י",
+          "lemma": "חַגַּי",
+          "translit": "chagay",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2292"
+        },
+        {
+          "id": "haggai-1-1-14",
+          "surface": "הַנָּבִ֗יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "haggai-1-1-15",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "haggai-1-1-16",
+          "surface": "זְרֻבָּבֶ֤ל",
+          "lemma": "זְרֻבָּבֶל",
+          "translit": "zerubabel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2216"
+        },
+        {
+          "id": "haggai-1-1-17",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "haggai-1-1-18",
+          "surface": "שְׁאַלְתִּיאֵל֙",
+          "lemma": "שְׁאַלְתִּיאֵל",
+          "translit": "she'aletiy'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7597"
+        },
+        {
+          "id": "haggai-1-1-19",
+          "surface": "פַּחַ֣ת",
+          "lemma": "פֶּחָה",
+          "translit": "pachat",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6346"
+        },
+        {
+          "id": "haggai-1-1-20",
+          "surface": "יְהוּדָ֔ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "haggai-1-1-21",
+          "surface": "וְאֶל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "haggai-1-1-22",
+          "surface": "יְהוֹשֻׁ֧עַ",
+          "lemma": "יְהוֹשׁוּעַ",
+          "translit": "yehvoshu`a",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3091"
+        },
+        {
+          "id": "haggai-1-1-23",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "haggai-1-1-24",
+          "surface": "יְהוֹצָדָ֛ק",
+          "lemma": "יְהוֹצָדָק",
+          "translit": "yehvotsadaq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3087"
+        },
+        {
+          "id": "haggai-1-1-25",
+          "surface": "הַכֹּהֵ֥ן",
+          "lemma": "כֹּהֵן",
+          "translit": "hakohen",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "haggai-1-1-26",
+          "surface": "הַגָּד֖וֹל",
+          "lemma": "גָּדוֹל",
+          "translit": "hagadvol",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H1419"
+        },
+        {
+          "id": "haggai-1-1-27",
+          "surface": "לֵאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:2",
+      "englishText": "“This is what Yahweh of Armies says: These people say, ‘The time hasn’t yet come, the time for Yahweh’s house to be built.’”  ",
+      "tokens": [
+        {
+          "id": "haggai-1-2-0",
+          "surface": "כֹּ֥ה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "haggai-1-2-1",
+          "surface": "אָמַ֛ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "haggai-1-2-2",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-2-3",
+          "surface": "צְבָא֖וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "haggai-1-2-4",
+          "surface": "לֵאמֹ֑ר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "haggai-1-2-5",
+          "surface": "הָעָ֤ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "haggai-1-2-6",
+          "surface": "הַזֶּה֙",
+          "lemma": "זֶה",
+          "translit": "hazeh",
+          "morph": "Particle dual + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "haggai-1-2-7",
+          "surface": "אָֽמְר֔וּ",
+          "lemma": "אָמַר",
+          "translit": "'amerv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "haggai-1-2-8",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "haggai-1-2-9",
+          "surface": "עֶת",
+          "lemma": "עֵת",
+          "translit": "`et",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H6256"
+        },
+        {
+          "id": "haggai-1-2-10",
+          "surface": "בֹּ֛א",
+          "lemma": "בּוֹא",
+          "translit": "bo'",
+          "morph": "Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "haggai-1-2-11",
+          "surface": "עֶת",
+          "lemma": "עֵת",
+          "translit": "`et",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H6256"
+        },
+        {
+          "id": "haggai-1-2-12",
+          "surface": "בֵּ֥ית",
+          "lemma": "בַּיִת",
+          "translit": "beyt",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "haggai-1-2-13",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-2-14",
+          "surface": "לְהִבָּנֽוֹת",
+          "lemma": "בָּנָה",
+          "translit": "lehibanvot",
+          "morph": "Preposition + Verb Niphal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1129"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:3",
+      "englishText": "  Then Yahweh’s word came by Haggai, the prophet, saying,",
+      "tokens": [
+        {
+          "id": "haggai-1-3-0",
+          "surface": "וַֽיְהִי֙",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "haggai-1-3-1",
+          "surface": "דְּבַר",
+          "lemma": "דָּבָר",
+          "translit": "debar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "haggai-1-3-2",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-3-3",
+          "surface": "בְּיַד",
+          "lemma": "יָד",
+          "translit": "beyad",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "haggai-1-3-4",
+          "surface": "חַגַּ֥י",
+          "lemma": "חַגַּי",
+          "translit": "chagay",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2292"
+        },
+        {
+          "id": "haggai-1-3-5",
+          "surface": "הַנָּבִ֖יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "haggai-1-3-6",
+          "surface": "לֵאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:4",
+      "englishText": "“Is it a time for you yourselves to dwell in your paneled houses, while this house lies waste?",
+      "tokens": [
+        {
+          "id": "haggai-1-4-0",
+          "surface": "הַעֵ֤ת",
+          "lemma": "עֵת",
+          "translit": "ha`et",
+          "morph": "Particle + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H6256"
+        },
+        {
+          "id": "haggai-1-4-1",
+          "surface": "לָכֶם֙",
+          "lemma": "לָכֶם֙",
+          "translit": "lakem",
+          "morph": "Preposition + Suffix plural 2nd masculine",
+          "glosses": []
+        },
+        {
+          "id": "haggai-1-4-2",
+          "surface": "אַתֶּ֔ם",
+          "lemma": "אַתָּה",
+          "translit": "'atem",
+          "morph": "Pronoun plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "haggai-1-4-3",
+          "surface": "לָשֶׁ֖בֶת",
+          "lemma": "יָשַׁב",
+          "translit": "lashebet",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "haggai-1-4-4",
+          "surface": "בְּבָתֵּיכֶ֣ם",
+          "lemma": "בַּיִת",
+          "translit": "bebateykem",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "haggai-1-4-5",
+          "surface": "סְפוּנִ֑ים",
+          "lemma": "סָפַן",
+          "translit": "sepvniym",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H5603"
+        },
+        {
+          "id": "haggai-1-4-6",
+          "surface": "וְהַבַּ֥יִת",
+          "lemma": "בַּיִת",
+          "translit": "vehabayit",
+          "morph": "Conjunction + Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "haggai-1-4-7",
+          "surface": "הַזֶּ֖ה",
+          "lemma": "זֶה",
+          "translit": "hazeh",
+          "morph": "Particle dual + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "haggai-1-4-8",
+          "surface": "חָרֵֽב",
+          "lemma": "חָרֵב",
+          "translit": "chareb",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2720"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:5",
+      "englishText": "Now therefore this is what Yahweh of Armies says: Consider your ways.",
+      "tokens": [
+        {
+          "id": "haggai-1-5-0",
+          "surface": "וְעַתָּ֕ה",
+          "lemma": "עַתָּה",
+          "translit": "ve`atah",
+          "morph": "Conjunction + Adverb",
+          "glosses": [],
+          "strongs": "H6258"
+        },
+        {
+          "id": "haggai-1-5-1",
+          "surface": "כֹּ֥ה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "haggai-1-5-2",
+          "surface": "אָמַ֖ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "haggai-1-5-3",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-5-4",
+          "surface": "צְבָא֑וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "haggai-1-5-5",
+          "surface": "שִׂ֥ימוּ",
+          "lemma": "שׂוּם",
+          "translit": "shiymv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "haggai-1-5-6",
+          "surface": "לְבַבְכֶ֖ם",
+          "lemma": "לֵבָב",
+          "translit": "lebabekem",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "haggai-1-5-7",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-5-8",
+          "surface": "דַּרְכֵיכֶֽם",
+          "lemma": "דֶּרֶךְ",
+          "translit": "darekeykem",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H1870"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:6",
+      "englishText": "You have sown much, and bring in little. You eat, but you don’t have enough. You drink, but you aren’t filled with drink. You clothe yourselves, but no one is warm, and he who earns wages earns wages to put them into a bag with holes in it.”  ",
+      "tokens": [
+        {
+          "id": "haggai-1-6-0",
+          "surface": "זְרַעְתֶּ֨ם",
+          "lemma": "זָרַע",
+          "translit": "zera`etem",
+          "morph": "Verb Qal Participle 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H2232"
+        },
+        {
+          "id": "haggai-1-6-1",
+          "surface": "הַרְבֵּ֜ה",
+          "lemma": "רָבָה",
+          "translit": "harebeh",
+          "morph": "Verb Hiphil Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "haggai-1-6-2",
+          "surface": "וְהָבֵ֣א",
+          "lemma": "בּוֹא",
+          "translit": "vehabe'",
+          "morph": "Conjunction + Verb Hiphil Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "haggai-1-6-3",
+          "surface": "מְעָ֗ט",
+          "lemma": "מְעַט",
+          "translit": "me`at",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H4592"
+        },
+        {
+          "id": "haggai-1-6-4",
+          "surface": "אָכ֤וֹל",
+          "lemma": "אָכַל",
+          "translit": "'akvol",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "haggai-1-6-5",
+          "surface": "וְאֵין",
+          "lemma": "אַיִן",
+          "translit": "ve'eyn",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "haggai-1-6-6",
+          "surface": "לְשָׂבְעָה֙",
+          "lemma": "שׇׂבְעָה",
+          "translit": "leshabe`ah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7654"
+        },
+        {
+          "id": "haggai-1-6-7",
+          "surface": "שָׁת֣וֹ",
+          "lemma": "שָׁתָה",
+          "translit": "shatvo",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H8354"
+        },
+        {
+          "id": "haggai-1-6-8",
+          "surface": "וְאֵין",
+          "lemma": "אַיִן",
+          "translit": "ve'eyn",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "haggai-1-6-9",
+          "surface": "לְשָׁכְרָ֔ה",
+          "lemma": "שָׁכַר",
+          "translit": "leshakerah",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7937"
+        },
+        {
+          "id": "haggai-1-6-10",
+          "surface": "לָב֖וֹשׁ",
+          "lemma": "לָבַשׁ",
+          "translit": "labvosh",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H3847"
+        },
+        {
+          "id": "haggai-1-6-11",
+          "surface": "וְאֵין",
+          "lemma": "אַיִן",
+          "translit": "ve'eyn",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "haggai-1-6-12",
+          "surface": "לְחֹ֣ם",
+          "lemma": "חֹם",
+          "translit": "lechom",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H2527"
+        },
+        {
+          "id": "haggai-1-6-13",
+          "surface": "ל֑וֹ",
+          "lemma": "ל֑וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "haggai-1-6-14",
+          "surface": "וְהַ֨מִּשְׂתַּכֵּ֔ר",
+          "lemma": "שָׂכַר",
+          "translit": "vehamishetaker",
+          "morph": "Conjunction + Particle dual + Verb Hithpael Passive Participle",
+          "glosses": [],
+          "strongs": "H7936"
+        },
+        {
+          "id": "haggai-1-6-15",
+          "surface": "מִשְׂתַּכֵּ֖ר",
+          "lemma": "שָׂכַר",
+          "translit": "mishetaker",
+          "morph": "Verb Hithpael Passive Participle",
+          "glosses": [],
+          "strongs": "H7936"
+        },
+        {
+          "id": "haggai-1-6-16",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "haggai-1-6-17",
+          "surface": "צְר֥וֹר",
+          "lemma": "צְרוֹר",
+          "translit": "tservor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6872"
+        },
+        {
+          "id": "haggai-1-6-18",
+          "surface": "נָקֽוּב",
+          "lemma": "נָקַב",
+          "translit": "naqvb",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H5344"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:7",
+      "englishText": "  This is what Yahweh of Armies says: “Consider your ways.",
+      "tokens": [
+        {
+          "id": "haggai-1-7-0",
+          "surface": "כֹּ֥ה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "haggai-1-7-1",
+          "surface": "אָמַ֖ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "haggai-1-7-2",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-7-3",
+          "surface": "צְבָא֑וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "haggai-1-7-4",
+          "surface": "שִׂ֥ימוּ",
+          "lemma": "שׂוּם",
+          "translit": "shiymv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "haggai-1-7-5",
+          "surface": "לְבַבְכֶ֖ם",
+          "lemma": "לֵבָב",
+          "translit": "lebabekem",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "haggai-1-7-6",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-7-7",
+          "surface": "דַּרְכֵיכֶֽם",
+          "lemma": "דֶּרֶךְ",
+          "translit": "darekeykem",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H1870"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:8",
+      "englishText": "Go up to the mountain, bring wood, and build the house. I will take pleasure in it, and I will be glorified,” says Yahweh.",
+      "tokens": [
+        {
+          "id": "haggai-1-8-0",
+          "surface": "עֲל֥וּ",
+          "lemma": "עָלָה",
+          "translit": "`lv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "haggai-1-8-1",
+          "surface": "הָהָ֛ר",
+          "lemma": "הַר",
+          "translit": "hahar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "haggai-1-8-2",
+          "surface": "וַהֲבֵאתֶ֥ם",
+          "lemma": "בּוֹא",
+          "translit": "vahbe'tem",
+          "morph": "Conjunction + Verb Hiphil Perfect 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "haggai-1-8-3",
+          "surface": "עֵ֖ץ",
+          "lemma": "עֵץ",
+          "translit": "`ets",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6086"
+        },
+        {
+          "id": "haggai-1-8-4",
+          "surface": "וּבְנ֣וּ",
+          "lemma": "בָּנָה",
+          "translit": "vbenv",
+          "morph": "Conjunction + Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1129"
+        },
+        {
+          "id": "haggai-1-8-5",
+          "surface": "הַבָּ֑יִת",
+          "lemma": "בַּיִת",
+          "translit": "habayit",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "haggai-1-8-6",
+          "surface": "וְאֶרְצֶה",
+          "lemma": "רָצָה",
+          "translit": "ve'eretseh",
+          "morph": "Conjunction + Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7521"
+        },
+        {
+          "id": "haggai-1-8-7",
+          "surface": "בּ֥וֹ",
+          "lemma": "בּ֥וֹ",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "haggai-1-8-8",
+          "surface": "ואכבד",
+          "lemma": "כָּבַד",
+          "translit": "v'kbd",
+          "morph": "Conjunction + Verb Niphal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H3513"
+        },
+        {
+          "id": "haggai-1-8-9",
+          "surface": "וְאֶכָּבְדָ֖ה",
+          "lemma": "כָּבַד",
+          "translit": "ve'ekabedah",
+          "morph": "Conjunction + Verb Niphal Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H3513"
+        },
+        {
+          "id": "haggai-1-8-10",
+          "surface": "אָמַ֥ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "haggai-1-8-11",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:9",
+      "englishText": "“You looked for much, and, behold, it came to little; and when you brought it home, I blew it away. Why?” says Yahweh of Armies, “Because of my house that lies waste, while each of you is busy with his own house.",
+      "tokens": [
+        {
+          "id": "haggai-1-9-0",
+          "surface": "פָּנֹ֤ה",
+          "lemma": "פָּנָה",
+          "translit": "panoh",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H6437"
+        },
+        {
+          "id": "haggai-1-9-1",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "haggai-1-9-2",
+          "surface": "הַרְבֵּה֙",
+          "lemma": "רָבָה",
+          "translit": "harebeh",
+          "morph": "Verb Hiphil Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "haggai-1-9-3",
+          "surface": "וְהִנֵּ֣ה",
+          "lemma": "הִנֵּה",
+          "translit": "vehineh",
+          "morph": "Conjunction + Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "haggai-1-9-4",
+          "surface": "לִמְעָ֔ט",
+          "lemma": "מְעַט",
+          "translit": "lime`at",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H4592"
+        },
+        {
+          "id": "haggai-1-9-5",
+          "surface": "וַהֲבֵאתֶ֥ם",
+          "lemma": "בּוֹא",
+          "translit": "vahbe'tem",
+          "morph": "Conjunction + Verb Hiphil Participle 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "haggai-1-9-6",
+          "surface": "הַבַּ֖יִת",
+          "lemma": "בַּיִת",
+          "translit": "habayit",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "haggai-1-9-7",
+          "surface": "וְנָפַ֣חְתִּי",
+          "lemma": "נָפַח",
+          "translit": "venapachetiy",
+          "morph": "Conjunction + Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H5301"
+        },
+        {
+          "id": "haggai-1-9-8",
+          "surface": "ב֑וֹ",
+          "lemma": "ב֑וֹ",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "haggai-1-9-9",
+          "surface": "יַ֣עַן",
+          "lemma": "יַעַן",
+          "translit": "ya`an",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3282"
+        },
+        {
+          "id": "haggai-1-9-10",
+          "surface": "מֶ֗ה",
+          "lemma": "מָה",
+          "translit": "meh",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "haggai-1-9-11",
+          "surface": "נְאֻם֙",
+          "lemma": "נְאֻם",
+          "translit": "ne'um",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5002"
+        },
+        {
+          "id": "haggai-1-9-12",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-9-13",
+          "surface": "צְבָא֔וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "haggai-1-9-14",
+          "surface": "יַ֗עַן",
+          "lemma": "יַעַן",
+          "translit": "ya`an",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3282"
+        },
+        {
+          "id": "haggai-1-9-15",
+          "surface": "בֵּיתִי֙",
+          "lemma": "בַּיִת",
+          "translit": "beytiy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "haggai-1-9-16",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "haggai-1-9-17",
+          "surface": "ה֣וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "haggai-1-9-18",
+          "surface": "חָרֵ֔ב",
+          "lemma": "חָרֵב",
+          "translit": "chareb",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2720"
+        },
+        {
+          "id": "haggai-1-9-19",
+          "surface": "וְאַתֶּ֥ם",
+          "lemma": "אַתָּה",
+          "translit": "ve'atem",
+          "morph": "Conjunction + Pronoun plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "haggai-1-9-20",
+          "surface": "רָצִ֖ים",
+          "lemma": "רוּץ",
+          "translit": "ratsiym",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7323"
+        },
+        {
+          "id": "haggai-1-9-21",
+          "surface": "אִ֥ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "haggai-1-9-22",
+          "surface": "לְבֵיתֽוֹ",
+          "lemma": "בַּיִת",
+          "translit": "lebeytvo",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1004"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:10",
+      "englishText": "Therefore for your sake the heavens withhold the dew, and the earth withholds its fruit.",
+      "tokens": [
+        {
+          "id": "haggai-1-10-0",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-10-1",
+          "surface": "כֵּ֣ן",
+          "lemma": "כֵּן",
+          "translit": "ken",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "haggai-1-10-2",
+          "surface": "עֲלֵיכֶ֔ם",
+          "lemma": "עַל",
+          "translit": "`leykem",
+          "morph": "Preposition + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-10-3",
+          "surface": "כָּלְא֥וּ",
+          "lemma": "כָּלָא",
+          "translit": "kale'v",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H3607"
+        },
+        {
+          "id": "haggai-1-10-4",
+          "surface": "שָמַ֖יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "shamayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "haggai-1-10-5",
+          "surface": "מִטָּ֑ל",
+          "lemma": "טַל",
+          "translit": "mital",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2919"
+        },
+        {
+          "id": "haggai-1-10-6",
+          "surface": "וְהָאָ֖רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "veha'arets",
+          "morph": "Conjunction + Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "haggai-1-10-7",
+          "surface": "כָּלְאָ֥ה",
+          "lemma": "כָּלָא",
+          "translit": "kale'ah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3607"
+        },
+        {
+          "id": "haggai-1-10-8",
+          "surface": "יְבוּלָֽהּ",
+          "lemma": "יְבוּל",
+          "translit": "yebvlah",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2981"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:11",
+      "englishText": "I called for a drought on the land, on the mountains, on the grain, on the new wine, on the oil, on that which the ground produces, on men, on livestock, and on all the labor of the hands.”  ",
+      "tokens": [
+        {
+          "id": "haggai-1-11-0",
+          "surface": "וָאֶקְרָ֨א",
+          "lemma": "קָרָא",
+          "translit": "va'eqera'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 1st common singular",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "haggai-1-11-1",
+          "surface": "חֹ֜רֶב",
+          "lemma": "חֹרֶב",
+          "translit": "choreb",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2721"
+        },
+        {
+          "id": "haggai-1-11-2",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-11-3",
+          "surface": "הָאָ֣רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "haggai-1-11-4",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-11-5",
+          "surface": "הֶהָרִ֗ים",
+          "lemma": "הַר",
+          "translit": "hehariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "haggai-1-11-6",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-11-7",
+          "surface": "הַדָּגָן֙",
+          "lemma": "דָּגָן",
+          "translit": "hadagan",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1715"
+        },
+        {
+          "id": "haggai-1-11-8",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-11-9",
+          "surface": "הַתִּיר֣וֹשׁ",
+          "lemma": "תִּירוֹשׁ",
+          "translit": "hatiyrvosh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8492"
+        },
+        {
+          "id": "haggai-1-11-10",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-11-11",
+          "surface": "הַיִּצְהָ֔ר",
+          "lemma": "יִצְהָר",
+          "translit": "hayitsehar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3323"
+        },
+        {
+          "id": "haggai-1-11-12",
+          "surface": "וְעַ֛ל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-11-13",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "haggai-1-11-14",
+          "surface": "תּוֹצִ֖יא",
+          "lemma": "יָצָא",
+          "translit": "tvotsiy'",
+          "morph": "Verb Hiphil Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "haggai-1-11-15",
+          "surface": "הָאֲדָמָ֑ה",
+          "lemma": "אֲדָמָה",
+          "translit": "ha'damah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H127"
+        },
+        {
+          "id": "haggai-1-11-16",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-11-17",
+          "surface": "הָֽאָדָם֙",
+          "lemma": "אָדָם",
+          "translit": "ha'adam",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        },
+        {
+          "id": "haggai-1-11-18",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-11-19",
+          "surface": "הַבְּהֵמָ֔ה",
+          "lemma": "בְּהֵמָה",
+          "translit": "habehemah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H929"
+        },
+        {
+          "id": "haggai-1-11-20",
+          "surface": "וְעַ֖ל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-11-21",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "haggai-1-11-22",
+          "surface": "יְגִ֥יעַ",
+          "lemma": "יְגִיעַ",
+          "translit": "yegiy`a",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3018"
+        },
+        {
+          "id": "haggai-1-11-23",
+          "surface": "כַּפָּֽיִם",
+          "lemma": "כַּף",
+          "translit": "kapayim",
+          "morph": "Noun common feminine dual absolute",
+          "glosses": [],
+          "strongs": "H3709"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:12",
+      "englishText": "  Then Zerubbabel, the son of Shealtiel, and Joshua, the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of Yahweh, their God, and the words of Haggai, the prophet, as Yahweh, their God, had sent him; and the people feared Yahweh.  ",
+      "tokens": [
+        {
+          "id": "haggai-1-12-0",
+          "surface": "וַיִּשְׁמַ֣ע",
+          "lemma": "שָׁמַע",
+          "translit": "vayishema`",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "haggai-1-12-1",
+          "surface": "זְרֻבָּבֶ֣ל",
+          "lemma": "זְרֻבָּבֶל",
+          "translit": "zerubabel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2216"
+        },
+        {
+          "id": "haggai-1-12-2",
+          "surface": "בֶּֽן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "haggai-1-12-3",
+          "surface": "שַׁלְתִּיאֵ֡ל",
+          "lemma": "שְׁאַלְתִּיאֵל",
+          "translit": "shaletiy'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7597"
+        },
+        {
+          "id": "haggai-1-12-4",
+          "surface": "וִיהוֹשֻׁ֣עַ",
+          "lemma": "יְהוֹשׁוּעַ",
+          "translit": "viyhvoshu`a",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3091"
+        },
+        {
+          "id": "haggai-1-12-5",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "haggai-1-12-6",
+          "surface": "יְהוֹצָדָק֩",
+          "lemma": "יְהוֹצָדָק",
+          "translit": "yehvotsadaq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3087"
+        },
+        {
+          "id": "haggai-1-12-7",
+          "surface": "הַכֹּהֵ֨ן",
+          "lemma": "כֹּהֵן",
+          "translit": "hakohen",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "haggai-1-12-8",
+          "surface": "הַגָּד֜וֹל",
+          "lemma": "גָּדוֹל",
+          "translit": "hagadvol",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H1419"
+        },
+        {
+          "id": "haggai-1-12-9",
+          "surface": "וְכֹ֣ל",
+          "lemma": "כֹּל",
+          "translit": "vekol",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "haggai-1-12-10",
+          "surface": "שְׁאֵרִ֣ית",
+          "lemma": "שְׁאֵרִית",
+          "translit": "she'eriyt",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H7611"
+        },
+        {
+          "id": "haggai-1-12-11",
+          "surface": "הָעָ֗ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "haggai-1-12-12",
+          "surface": "בְּקוֹל֙",
+          "lemma": "קוֹל",
+          "translit": "beqvol",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6963"
+        },
+        {
+          "id": "haggai-1-12-13",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-12-14",
+          "surface": "אֱלֹֽהֵיהֶ֔ם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyhem",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "haggai-1-12-15",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "haggai-1-12-16",
+          "surface": "דִּבְרֵי֙",
+          "lemma": "דָּבָר",
+          "translit": "diberey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "haggai-1-12-17",
+          "surface": "חַגַּ֣י",
+          "lemma": "חַגַּי",
+          "translit": "chagay",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2292"
+        },
+        {
+          "id": "haggai-1-12-18",
+          "surface": "הַנָּבִ֔יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "haggai-1-12-19",
+          "surface": "כַּאֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "ka'sher",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "haggai-1-12-20",
+          "surface": "שְׁלָח֖וֹ",
+          "lemma": "שָׁלַח",
+          "translit": "shelachvo",
+          "morph": "Verb Qal Participle 3rd masculine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "haggai-1-12-21",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-12-22",
+          "surface": "אֱלֹהֵיהֶ֑ם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyhem",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "haggai-1-12-23",
+          "surface": "וַיִּֽירְא֥וּ",
+          "lemma": "יָרֵא",
+          "translit": "vayiyre'v",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "haggai-1-12-24",
+          "surface": "הָעָ֖ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "haggai-1-12-25",
+          "surface": "מִפְּנֵ֥י",
+          "lemma": "פָּנִים",
+          "translit": "mipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "haggai-1-12-26",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:13",
+      "englishText": "  Then Haggai, Yahweh’s messenger, spoke Yahweh’s message to the people, saying, “I am with you,” says Yahweh.  ",
+      "tokens": [
+        {
+          "id": "haggai-1-13-0",
+          "surface": "וַ֠יֹּאמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "haggai-1-13-1",
+          "surface": "חַגַּ֞י",
+          "lemma": "חַגַּי",
+          "translit": "chagay",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2292"
+        },
+        {
+          "id": "haggai-1-13-2",
+          "surface": "מַלְאַ֧ךְ",
+          "lemma": "מֲלְאָךְ",
+          "translit": "male'ake",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4397"
+        },
+        {
+          "id": "haggai-1-13-3",
+          "surface": "יְהוָ֛ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-13-4",
+          "surface": "בְּמַלְאֲכ֥וּת",
+          "lemma": "מַלְאֲכוּת",
+          "translit": "bemale'kvt",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4400"
+        },
+        {
+          "id": "haggai-1-13-5",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-13-6",
+          "surface": "לָעָ֣ם",
+          "lemma": "עַם",
+          "translit": "la`am",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "haggai-1-13-7",
+          "surface": "לֵאמֹ֑ר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "haggai-1-13-8",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "haggai-1-13-9",
+          "surface": "אִתְּכֶ֖ם",
+          "lemma": "אֵת",
+          "translit": "'itekem",
+          "morph": "Preposition + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "haggai-1-13-10",
+          "surface": "נְאֻם",
+          "lemma": "נְאֻם",
+          "translit": "ne'um",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5002"
+        },
+        {
+          "id": "haggai-1-13-11",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:14",
+      "englishText": "  Yahweh stirred up the spirit of Zerubbabel, the son of Shealtiel, governor of Judah, and the spirit of Joshua, the son of Jehozadak, the high priest, and the spirit of all the remnant of the people; and they came and worked on the house of Yahweh of Armies, their God,",
+      "tokens": [
+        {
+          "id": "haggai-1-14-0",
+          "surface": "וַיָּ֣עַר",
+          "lemma": "עוּר",
+          "translit": "vaya`ar",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5782"
+        },
+        {
+          "id": "haggai-1-14-1",
+          "surface": "יְהוָ֡ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-14-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "haggai-1-14-3",
+          "surface": "רוּחַ֩",
+          "lemma": "רוּחַ",
+          "translit": "rvcha",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "haggai-1-14-4",
+          "surface": "זְרֻבָּבֶ֨ל",
+          "lemma": "זְרֻבָּבֶל",
+          "translit": "zerubabel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2216"
+        },
+        {
+          "id": "haggai-1-14-5",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "haggai-1-14-6",
+          "surface": "שַׁלְתִּיאֵ֜ל",
+          "lemma": "שְׁאַלְתִּיאֵל",
+          "translit": "shaletiy'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7597"
+        },
+        {
+          "id": "haggai-1-14-7",
+          "surface": "פַּחַ֣ת",
+          "lemma": "פֶּחָה",
+          "translit": "pachat",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6346"
+        },
+        {
+          "id": "haggai-1-14-8",
+          "surface": "יְהוּדָ֗ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "haggai-1-14-9",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "haggai-1-14-10",
+          "surface": "ר֨וּחַ֙",
+          "lemma": "רוּחַ",
+          "translit": "rvcha",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "haggai-1-14-11",
+          "surface": "יְהוֹשֻׁ֤עַ",
+          "lemma": "יְהוֹשׁוּעַ",
+          "translit": "yehvoshu`a",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3091"
+        },
+        {
+          "id": "haggai-1-14-12",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "haggai-1-14-13",
+          "surface": "יְהוֹצָדָק֙",
+          "lemma": "יְהוֹצָדָק",
+          "translit": "yehvotsadaq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3087"
+        },
+        {
+          "id": "haggai-1-14-14",
+          "surface": "הַכֹּהֵ֣ן",
+          "lemma": "כֹּהֵן",
+          "translit": "hakohen",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "haggai-1-14-15",
+          "surface": "הַגָּד֔וֹל",
+          "lemma": "גָּדוֹל",
+          "translit": "hagadvol",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H1419"
+        },
+        {
+          "id": "haggai-1-14-16",
+          "surface": "וְֽאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "haggai-1-14-17",
+          "surface": "ר֔וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "rvcha",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "haggai-1-14-18",
+          "surface": "כֹּ֖ל",
+          "lemma": "כֹּל",
+          "translit": "kol",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "haggai-1-14-19",
+          "surface": "שְׁאֵרִ֣ית",
+          "lemma": "שְׁאֵרִית",
+          "translit": "she'eriyt",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H7611"
+        },
+        {
+          "id": "haggai-1-14-20",
+          "surface": "הָעָ֑ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "haggai-1-14-21",
+          "surface": "וַיָּבֹ֨אוּ֙",
+          "lemma": "בּוֹא",
+          "translit": "vayabo'v",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "haggai-1-14-22",
+          "surface": "וַיַּעֲשׂ֣וּ",
+          "lemma": "עָשָׂה",
+          "translit": "vaya`shv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "haggai-1-14-23",
+          "surface": "מְלָאכָ֔ה",
+          "lemma": "מְלָאכָה",
+          "translit": "mela'kah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4399"
+        },
+        {
+          "id": "haggai-1-14-24",
+          "surface": "בְּבֵית",
+          "lemma": "בַּיִת",
+          "translit": "bebeyt",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "haggai-1-14-25",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "haggai-1-14-26",
+          "surface": "צְבָא֖וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "haggai-1-14-27",
+          "surface": "אֱלֹהֵיהֶֽם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyhem",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Haggai 1:15",
+      "englishText": "in the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king.   ",
+      "tokens": [
+        {
+          "id": "haggai-1-15-0",
+          "surface": "בְּי֨וֹם",
+          "lemma": "יוֹם",
+          "translit": "beyvom",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "haggai-1-15-1",
+          "surface": "עֶשְׂרִ֧ים",
+          "lemma": "עֶשְׂרִים",
+          "translit": "`esheriym",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H6242"
+        },
+        {
+          "id": "haggai-1-15-2",
+          "surface": "וְאַרְבָּעָ֛ה",
+          "lemma": "אַרְבַּע",
+          "translit": "ve'areba`ah",
+          "morph": "Conjunction + Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H702"
+        },
+        {
+          "id": "haggai-1-15-3",
+          "surface": "לַחֹ֖דֶשׁ",
+          "lemma": "חֹדֶשׁ",
+          "translit": "lachodesh",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2320"
+        },
+        {
+          "id": "haggai-1-15-4",
+          "surface": "בַּשִּׁשִּׁ֑י",
+          "lemma": "שִׁשִּׁי",
+          "translit": "bashishiy",
+          "morph": "Preposition dual + Adjective",
+          "glosses": [],
+          "strongs": "H8345"
+        },
+        {
+          "id": "haggai-1-15-5",
+          "surface": "בִּשְׁנַ֥ת",
+          "lemma": "שָׁנֶה",
+          "translit": "bishenat",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "haggai-1-15-6",
+          "surface": "שְׁתַּ֖יִם",
+          "lemma": "שְׁנַיִם",
+          "translit": "shetayim",
+          "morph": "Adjective common feminine dual absolute",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "haggai-1-15-7",
+          "surface": "לְדָרְיָ֥וֶשׁ",
+          "lemma": "דָּֽרְיָוֵשׁ",
+          "translit": "ledareyavesh",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1867"
+        },
+        {
+          "id": "haggai-1-15-8",
+          "surface": "הַמֶּֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "hameleke",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

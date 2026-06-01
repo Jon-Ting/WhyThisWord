@@ -1,1 +1,678 @@
-{"id":"psalms-11","name":"Psalms","chapter":11,"verses":[{"ref":"Psalms 11:1","englishText":"    In Yahweh, I take refuge. How can you say to my soul, “Flee as a bird to your mountain!” ","tokens":[{"id":"psalms-11-1-0","surface":"לַמְנַצֵּ֗חַ","lemma":"נָצַח","translit":"lamenatsecha","morph":"Preposition dual + Verb Piel Passive Participle","glosses":[],"strongs":"H5329"},{"id":"psalms-11-1-1","surface":"לְדָ֫וִ֥ד","lemma":"דָּוִד","translit":"ledavid","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1732"},{"id":"psalms-11-1-2","surface":"בַּֽיהוָ֨ה","lemma":"יְהֹוָה","translit":"bayhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-11-1-3","surface":"חָסִ֗יתִי","lemma":"חָסָה","translit":"chasiytiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H2620"},{"id":"psalms-11-1-4","surface":"אֵ֭יךְ","lemma":"אֵיךְ","translit":"'eyke","morph":"Particle","glosses":[],"strongs":"H349"},{"id":"psalms-11-1-5","surface":"תֹּאמְר֣וּ","lemma":"אָמַר","translit":"to'merv","morph":"Verb Qal Imperative 2nd masculine plural","glosses":[],"strongs":"H559"},{"id":"psalms-11-1-6","surface":"לְנַפְשִׁ֑י","lemma":"נֶפֶשׁ","translit":"lenapeshiy","morph":"Preposition + Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5315"},{"id":"psalms-11-1-7","surface":"נודו","lemma":"נוּד","translit":"nvdv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5110"},{"id":"psalms-11-1-8","surface":"נ֝֗וּדִי","lemma":"נוּד","translit":"nvdiy","morph":"Verb Qal Weqatal 2nd feminine singular","glosses":[],"strongs":"H5110"},{"id":"psalms-11-1-9","surface":"הַרְכֶ֥ם","lemma":"הַר","translit":"harekem","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H2022"},{"id":"psalms-11-1-10","surface":"צִפּֽוֹר","lemma":"צִפּוֹר","translit":"tsipvor","morph":"Noun common singular absolute","glosses":[],"strongs":"H6833"}],"language":"hebrew"},{"ref":"Psalms 11:2","englishText":"For, behold, the wicked bend their bows. They set their arrows on the strings, that they may shoot in darkness at the upright in heart. ","tokens":[{"id":"psalms-11-2-0","surface":"כִּ֤י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-11-2-1","surface":"הִנֵּ֪ה","lemma":"הִנֵּה","translit":"hineh","morph":"Particle masculine","glosses":[],"strongs":"H2009"},{"id":"psalms-11-2-2","surface":"הָרְשָׁעִ֡ים","lemma":"רָשָׁע","translit":"haresha`iym","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7563"},{"id":"psalms-11-2-3","surface":"יִדְרְכ֬וּן","lemma":"דָּרַךְ","translit":"yiderekvn","morph":"Verb Qal Imperative 3rd masculine plural + Suffix","glosses":[],"strongs":"H1869"},{"id":"psalms-11-2-4","surface":"קֶ֗שֶׁת","lemma":"קֶשֶׁת","translit":"qeshet","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7198"},{"id":"psalms-11-2-5","surface":"כּוֹנְנ֣וּ","lemma":"כּוּן","translit":"kvonenv","morph":"Verb Polel Participle 3rd common plural","glosses":[],"strongs":"H3559"},{"id":"psalms-11-2-6","surface":"חִצָּ֣ם","lemma":"חֵץ","translit":"chitsam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H2671"},{"id":"psalms-11-2-7","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"psalms-11-2-8","surface":"יֶ֑תֶר","lemma":"יֶתֶר","translit":"yeter","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3499"},{"id":"psalms-11-2-9","surface":"לִיר֥וֹת","lemma":"יָרָה","translit":"liyrvot","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H3384"},{"id":"psalms-11-2-10","surface":"בְּמוֹ","lemma":"בְּמוֹ","translit":"bemvo","morph":"Preposition","glosses":[],"strongs":"H1119"},{"id":"psalms-11-2-11","surface":"אֹ֝֗פֶל","lemma":"אֹפֶל","translit":"'opel","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H652"},{"id":"psalms-11-2-12","surface":"לְיִשְׁרֵי","lemma":"יָשָׁר","translit":"leyisherey","morph":"Preposition + Adjective","glosses":[],"strongs":"H3477"},{"id":"psalms-11-2-13","surface":"לֵֽב","lemma":"לֵב","translit":"leb","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3820"}],"language":"hebrew"},{"ref":"Psalms 11:3","englishText":"If the foundations are destroyed, what can the righteous do? ","tokens":[{"id":"psalms-11-3-0","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-11-3-1","surface":"הַ֭שָּׁתוֹת","lemma":"שָׁתָה","translit":"hashatvot","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8356"},{"id":"psalms-11-3-2","surface":"יֵֽהָרֵס֑וּן","lemma":"הָרַס","translit":"yeharesvn","morph":"Verb Niphal Imperative 3rd masculine plural + Suffix","glosses":[],"strongs":"H2040"},{"id":"psalms-11-3-3","surface":"צַ֝דִּ֗יק","lemma":"צַדִּיק","translit":"tsadiyq","morph":"Adjective","glosses":[],"strongs":"H6662"},{"id":"psalms-11-3-4","surface":"מַה","lemma":"מָה","translit":"mah","morph":"Particle","glosses":[],"strongs":"H4100"},{"id":"psalms-11-3-5","surface":"פָּעָֽל","lemma":"פָּעַל","translit":"pa`al","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H6466"}],"language":"hebrew"},{"ref":"Psalms 11:4","englishText":"Yahweh is in his holy temple. Yahweh is on his throne in heaven. His eyes observe. His eyes examine the children of men. ","tokens":[{"id":"psalms-11-4-0","surface":"יְהוָ֤ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-11-4-1","surface":"בְּֽהֵ֘יכַ֤ל","lemma":"הֵיכָל","translit":"beheykal","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1964"},{"id":"psalms-11-4-2","surface":"קָדְשׁ֗וֹ","lemma":"קֹדֶשׁ","translit":"qadeshvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6944"},{"id":"psalms-11-4-3","surface":"יְהוָה֮","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-11-4-4","surface":"בַּשָּׁמַ֪יִם","lemma":"שָׁמַיִם","translit":"bashamayim","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"psalms-11-4-5","surface":"כִּ֫סְא֥וֹ","lemma":"כִּסֵּא","translit":"kise'vo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3678"},{"id":"psalms-11-4-6","surface":"עֵינָ֥יו","lemma":"עַיִן","translit":"`eynayv","morph":"Noun common dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5869"},{"id":"psalms-11-4-7","surface":"יֶחֱז֑וּ","lemma":"חָזָה","translit":"yechzv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H2372"},{"id":"psalms-11-4-8","surface":"עַפְעַפָּ֥יו","lemma":"עַפְעַף","translit":"`ape`apayv","morph":"Noun common masculine dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6079"},{"id":"psalms-11-4-9","surface":"יִ֝בְחֲנ֗וּ","lemma":"בָּחַן","translit":"yibechnv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H974"},{"id":"psalms-11-4-10","surface":"בְּנֵ֣י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"psalms-11-4-11","surface":"אָדָֽם","lemma":"אָדָם","translit":"'adam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H120"}],"language":"hebrew"},{"ref":"Psalms 11:5","englishText":"Yahweh examines the righteous, but the wicked and him who loves violence his soul hates. ","tokens":[{"id":"psalms-11-5-0","surface":"יְהוָה֮","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-11-5-1","surface":"צַדִּ֪יק","lemma":"צַדִּיק","translit":"tsadiyq","morph":"Adjective","glosses":[],"strongs":"H6662"},{"id":"psalms-11-5-2","surface":"יִ֫בְחָ֥ן","lemma":"בָּחַן","translit":"yibechan","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H974"},{"id":"psalms-11-5-3","surface":"וְ֭רָשָׁע","lemma":"רָשָׁע","translit":"verasha`","morph":"Conjunction + Adjective","glosses":[],"strongs":"H7563"},{"id":"psalms-11-5-4","surface":"וְאֹהֵ֣ב","lemma":"אָהַב","translit":"ve'oheb","morph":"Conjunction + Verb Qal Passive Participle","glosses":[],"strongs":"H157"},{"id":"psalms-11-5-5","surface":"חָמָ֑ס","lemma":"חָמָס","translit":"chamas","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2555"},{"id":"psalms-11-5-6","surface":"שָֽׂנְאָ֥ה","lemma":"שָׂנֵא","translit":"shane'ah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H8130"},{"id":"psalms-11-5-7","surface":"נַפְשֽׁוֹ","lemma":"נֶפֶשׁ","translit":"napeshvo","morph":"Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5315"}],"language":"hebrew"},{"ref":"Psalms 11:6","englishText":"On the wicked he will rain blazing coals; fire, sulfur, and scorching wind shall be the portion of their cup. ","tokens":[{"id":"psalms-11-6-0","surface":"יַמְטֵ֥ר","lemma":"מָטַר","translit":"yameter","morph":"Verb Hiphil Imperative 3rd masculine singular","glosses":[],"strongs":"H4305"},{"id":"psalms-11-6-1","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"psalms-11-6-2","surface":"רְשָׁעִ֗ים","lemma":"רָשָׁע","translit":"resha`iym","morph":"Adjective","glosses":[],"strongs":"H7563"},{"id":"psalms-11-6-3","surface":"פַּ֫חִ֥ים","lemma":"פַּח","translit":"pachiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H6341"},{"id":"psalms-11-6-4","surface":"אֵ֣שׁ","lemma":"אֵשׁ","translit":"'esh","morph":"Noun common singular absolute","glosses":[],"strongs":"H784"},{"id":"psalms-11-6-5","surface":"וְ֭גָפְרִית","lemma":"גׇּפְרִית","translit":"vegaperiyt","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H1614"},{"id":"psalms-11-6-6","surface":"וְר֥וּחַ","lemma":"רוּחַ","translit":"vervcha","morph":"Conjunction + Noun common singular construct","glosses":[],"strongs":"H7307"},{"id":"psalms-11-6-7","surface":"זִלְעָפ֗וֹת","lemma":"זַלְעָפָה","translit":"zile`apvot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H2152"},{"id":"psalms-11-6-8","surface":"מְנָ֣ת","lemma":"מְנָת","translit":"menat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H4521"},{"id":"psalms-11-6-9","surface":"כּוֹסָֽם","lemma":"כּוֹס","translit":"kvosam","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H3563"}],"language":"hebrew"},{"ref":"Psalms 11:7","englishText":"For Yahweh is righteous. He loves righteousness. The upright shall see his face.   ","tokens":[{"id":"psalms-11-7-0","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-11-7-1","surface":"צַדִּ֣יק","lemma":"צַדִּיק","translit":"tsadiyq","morph":"Adjective","glosses":[],"strongs":"H6662"},{"id":"psalms-11-7-2","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-11-7-3","surface":"צְדָק֣וֹת","lemma":"צְדָקָה","translit":"tsedaqvot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H6666"},{"id":"psalms-11-7-4","surface":"אָהֵ֑ב","lemma":"אָהַב","translit":"'aheb","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H157"},{"id":"psalms-11-7-5","surface":"יָ֝שָׁ֗ר","lemma":"יָשָׁר","translit":"yashar","morph":"Adjective","glosses":[],"strongs":"H3477"},{"id":"psalms-11-7-6","surface":"יֶחֱז֥וּ","lemma":"חָזָה","translit":"yechzv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H2372"},{"id":"psalms-11-7-7","surface":"פָנֵֽימוֹ","lemma":"פָּנִים","translit":"paneymvo","morph":"Noun common plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6440"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-11",
+  "name": "Psalms",
+  "chapter": 11,
+  "verses": [
+    {
+      "ref": "Psalms 11:1",
+      "englishText": "    In Yahweh, I take refuge. How can you say to my soul, “Flee as a bird to your mountain!” ",
+      "tokens": [
+        {
+          "id": "psalms-11-1-0",
+          "surface": "לַמְנַצֵּ֗חַ",
+          "lemma": "נָצַח",
+          "translit": "lamenatsecha",
+          "morph": "Preposition dual + Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H5329"
+        },
+        {
+          "id": "psalms-11-1-1",
+          "surface": "לְדָ֫וִ֥ד",
+          "lemma": "דָּוִד",
+          "translit": "ledavid",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1732"
+        },
+        {
+          "id": "psalms-11-1-2",
+          "surface": "בַּֽיהוָ֨ה",
+          "lemma": "יְהֹוָה",
+          "translit": "bayhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-11-1-3",
+          "surface": "חָסִ֗יתִי",
+          "lemma": "חָסָה",
+          "translit": "chasiytiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H2620"
+        },
+        {
+          "id": "psalms-11-1-4",
+          "surface": "אֵ֭יךְ",
+          "lemma": "אֵיךְ",
+          "translit": "'eyke",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H349"
+        },
+        {
+          "id": "psalms-11-1-5",
+          "surface": "תֹּאמְר֣וּ",
+          "lemma": "אָמַר",
+          "translit": "to'merv",
+          "morph": "Verb Qal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "psalms-11-1-6",
+          "surface": "לְנַפְשִׁ֑י",
+          "lemma": "נֶפֶשׁ",
+          "translit": "lenapeshiy",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "psalms-11-1-7",
+          "surface": "נודו",
+          "lemma": "נוּד",
+          "translit": "nvdv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5110"
+        },
+        {
+          "id": "psalms-11-1-8",
+          "surface": "נ֝֗וּדִי",
+          "lemma": "נוּד",
+          "translit": "nvdiy",
+          "morph": "Verb Qal Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5110"
+        },
+        {
+          "id": "psalms-11-1-9",
+          "surface": "הַרְכֶ֥ם",
+          "lemma": "הַר",
+          "translit": "harekem",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "psalms-11-1-10",
+          "surface": "צִפּֽוֹר",
+          "lemma": "צִפּוֹר",
+          "translit": "tsipvor",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H6833"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 11:2",
+      "englishText": "For, behold, the wicked bend their bows. They set their arrows on the strings, that they may shoot in darkness at the upright in heart. ",
+      "tokens": [
+        {
+          "id": "psalms-11-2-0",
+          "surface": "כִּ֤י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-11-2-1",
+          "surface": "הִנֵּ֪ה",
+          "lemma": "הִנֵּה",
+          "translit": "hineh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "psalms-11-2-2",
+          "surface": "הָרְשָׁעִ֡ים",
+          "lemma": "רָשָׁע",
+          "translit": "haresha`iym",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7563"
+        },
+        {
+          "id": "psalms-11-2-3",
+          "surface": "יִדְרְכ֬וּן",
+          "lemma": "דָּרַךְ",
+          "translit": "yiderekvn",
+          "morph": "Verb Qal Imperative 3rd masculine plural + Suffix",
+          "glosses": [],
+          "strongs": "H1869"
+        },
+        {
+          "id": "psalms-11-2-4",
+          "surface": "קֶ֗שֶׁת",
+          "lemma": "קֶשֶׁת",
+          "translit": "qeshet",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7198"
+        },
+        {
+          "id": "psalms-11-2-5",
+          "surface": "כּוֹנְנ֣וּ",
+          "lemma": "כּוּן",
+          "translit": "kvonenv",
+          "morph": "Verb Polel Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H3559"
+        },
+        {
+          "id": "psalms-11-2-6",
+          "surface": "חִצָּ֣ם",
+          "lemma": "חֵץ",
+          "translit": "chitsam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H2671"
+        },
+        {
+          "id": "psalms-11-2-7",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-11-2-8",
+          "surface": "יֶ֑תֶר",
+          "lemma": "יֶתֶר",
+          "translit": "yeter",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3499"
+        },
+        {
+          "id": "psalms-11-2-9",
+          "surface": "לִיר֥וֹת",
+          "lemma": "יָרָה",
+          "translit": "liyrvot",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3384"
+        },
+        {
+          "id": "psalms-11-2-10",
+          "surface": "בְּמוֹ",
+          "lemma": "בְּמוֹ",
+          "translit": "bemvo",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H1119"
+        },
+        {
+          "id": "psalms-11-2-11",
+          "surface": "אֹ֝֗פֶל",
+          "lemma": "אֹפֶל",
+          "translit": "'opel",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H652"
+        },
+        {
+          "id": "psalms-11-2-12",
+          "surface": "לְיִשְׁרֵי",
+          "lemma": "יָשָׁר",
+          "translit": "leyisherey",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H3477"
+        },
+        {
+          "id": "psalms-11-2-13",
+          "surface": "לֵֽב",
+          "lemma": "לֵב",
+          "translit": "leb",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3820"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 11:3",
+      "englishText": "If the foundations are destroyed, what can the righteous do? ",
+      "tokens": [
+        {
+          "id": "psalms-11-3-0",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-11-3-1",
+          "surface": "הַ֭שָּׁתוֹת",
+          "lemma": "שָׁתָה",
+          "translit": "hashatvot",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8356"
+        },
+        {
+          "id": "psalms-11-3-2",
+          "surface": "יֵֽהָרֵס֑וּן",
+          "lemma": "הָרַס",
+          "translit": "yeharesvn",
+          "morph": "Verb Niphal Imperative 3rd masculine plural + Suffix",
+          "glosses": [],
+          "strongs": "H2040"
+        },
+        {
+          "id": "psalms-11-3-3",
+          "surface": "צַ֝דִּ֗יק",
+          "lemma": "צַדִּיק",
+          "translit": "tsadiyq",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6662"
+        },
+        {
+          "id": "psalms-11-3-4",
+          "surface": "מַה",
+          "lemma": "מָה",
+          "translit": "mah",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "psalms-11-3-5",
+          "surface": "פָּעָֽל",
+          "lemma": "פָּעַל",
+          "translit": "pa`al",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6466"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 11:4",
+      "englishText": "Yahweh is in his holy temple. Yahweh is on his throne in heaven. His eyes observe. His eyes examine the children of men. ",
+      "tokens": [
+        {
+          "id": "psalms-11-4-0",
+          "surface": "יְהוָ֤ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-11-4-1",
+          "surface": "בְּֽהֵ֘יכַ֤ל",
+          "lemma": "הֵיכָל",
+          "translit": "beheykal",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1964"
+        },
+        {
+          "id": "psalms-11-4-2",
+          "surface": "קָדְשׁ֗וֹ",
+          "lemma": "קֹדֶשׁ",
+          "translit": "qadeshvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6944"
+        },
+        {
+          "id": "psalms-11-4-3",
+          "surface": "יְהוָה֮",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-11-4-4",
+          "surface": "בַּשָּׁמַ֪יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "bashamayim",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "psalms-11-4-5",
+          "surface": "כִּ֫סְא֥וֹ",
+          "lemma": "כִּסֵּא",
+          "translit": "kise'vo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3678"
+        },
+        {
+          "id": "psalms-11-4-6",
+          "surface": "עֵינָ֥יו",
+          "lemma": "עַיִן",
+          "translit": "`eynayv",
+          "morph": "Noun common dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "psalms-11-4-7",
+          "surface": "יֶחֱז֑וּ",
+          "lemma": "חָזָה",
+          "translit": "yechzv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H2372"
+        },
+        {
+          "id": "psalms-11-4-8",
+          "surface": "עַפְעַפָּ֥יו",
+          "lemma": "עַפְעַף",
+          "translit": "`ape`apayv",
+          "morph": "Noun common masculine dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6079"
+        },
+        {
+          "id": "psalms-11-4-9",
+          "surface": "יִ֝בְחֲנ֗וּ",
+          "lemma": "בָּחַן",
+          "translit": "yibechnv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H974"
+        },
+        {
+          "id": "psalms-11-4-10",
+          "surface": "בְּנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "psalms-11-4-11",
+          "surface": "אָדָֽם",
+          "lemma": "אָדָם",
+          "translit": "'adam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 11:5",
+      "englishText": "Yahweh examines the righteous, but the wicked and him who loves violence his soul hates. ",
+      "tokens": [
+        {
+          "id": "psalms-11-5-0",
+          "surface": "יְהוָה֮",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-11-5-1",
+          "surface": "צַדִּ֪יק",
+          "lemma": "צַדִּיק",
+          "translit": "tsadiyq",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6662"
+        },
+        {
+          "id": "psalms-11-5-2",
+          "surface": "יִ֫בְחָ֥ן",
+          "lemma": "בָּחַן",
+          "translit": "yibechan",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H974"
+        },
+        {
+          "id": "psalms-11-5-3",
+          "surface": "וְ֭רָשָׁע",
+          "lemma": "רָשָׁע",
+          "translit": "verasha`",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H7563"
+        },
+        {
+          "id": "psalms-11-5-4",
+          "surface": "וְאֹהֵ֣ב",
+          "lemma": "אָהַב",
+          "translit": "ve'oheb",
+          "morph": "Conjunction + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H157"
+        },
+        {
+          "id": "psalms-11-5-5",
+          "surface": "חָמָ֑ס",
+          "lemma": "חָמָס",
+          "translit": "chamas",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2555"
+        },
+        {
+          "id": "psalms-11-5-6",
+          "surface": "שָֽׂנְאָ֥ה",
+          "lemma": "שָׂנֵא",
+          "translit": "shane'ah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H8130"
+        },
+        {
+          "id": "psalms-11-5-7",
+          "surface": "נַפְשֽׁוֹ",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napeshvo",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5315"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 11:6",
+      "englishText": "On the wicked he will rain blazing coals; fire, sulfur, and scorching wind shall be the portion of their cup. ",
+      "tokens": [
+        {
+          "id": "psalms-11-6-0",
+          "surface": "יַמְטֵ֥ר",
+          "lemma": "מָטַר",
+          "translit": "yameter",
+          "morph": "Verb Hiphil Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4305"
+        },
+        {
+          "id": "psalms-11-6-1",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-11-6-2",
+          "surface": "רְשָׁעִ֗ים",
+          "lemma": "רָשָׁע",
+          "translit": "resha`iym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7563"
+        },
+        {
+          "id": "psalms-11-6-3",
+          "surface": "פַּ֫חִ֥ים",
+          "lemma": "פַּח",
+          "translit": "pachiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6341"
+        },
+        {
+          "id": "psalms-11-6-4",
+          "surface": "אֵ֣שׁ",
+          "lemma": "אֵשׁ",
+          "translit": "'esh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H784"
+        },
+        {
+          "id": "psalms-11-6-5",
+          "surface": "וְ֭גָפְרִית",
+          "lemma": "גׇּפְרִית",
+          "translit": "vegaperiyt",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1614"
+        },
+        {
+          "id": "psalms-11-6-6",
+          "surface": "וְר֥וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "vervcha",
+          "morph": "Conjunction + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "psalms-11-6-7",
+          "surface": "זִלְעָפ֗וֹת",
+          "lemma": "זַלְעָפָה",
+          "translit": "zile`apvot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H2152"
+        },
+        {
+          "id": "psalms-11-6-8",
+          "surface": "מְנָ֣ת",
+          "lemma": "מְנָת",
+          "translit": "menat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4521"
+        },
+        {
+          "id": "psalms-11-6-9",
+          "surface": "כּוֹסָֽם",
+          "lemma": "כּוֹס",
+          "translit": "kvosam",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3563"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 11:7",
+      "englishText": "For Yahweh is righteous. He loves righteousness. The upright shall see his face.   ",
+      "tokens": [
+        {
+          "id": "psalms-11-7-0",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-11-7-1",
+          "surface": "צַדִּ֣יק",
+          "lemma": "צַדִּיק",
+          "translit": "tsadiyq",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6662"
+        },
+        {
+          "id": "psalms-11-7-2",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-11-7-3",
+          "surface": "צְדָק֣וֹת",
+          "lemma": "צְדָקָה",
+          "translit": "tsedaqvot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H6666"
+        },
+        {
+          "id": "psalms-11-7-4",
+          "surface": "אָהֵ֑ב",
+          "lemma": "אָהַב",
+          "translit": "'aheb",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H157"
+        },
+        {
+          "id": "psalms-11-7-5",
+          "surface": "יָ֝שָׁ֗ר",
+          "lemma": "יָשָׁר",
+          "translit": "yashar",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H3477"
+        },
+        {
+          "id": "psalms-11-7-6",
+          "surface": "יֶחֱז֥וּ",
+          "lemma": "חָזָה",
+          "translit": "yechzv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H2372"
+        },
+        {
+          "id": "psalms-11-7-7",
+          "surface": "פָנֵֽימוֹ",
+          "lemma": "פָּנִים",
+          "translit": "paneymvo",
+          "morph": "Noun common plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

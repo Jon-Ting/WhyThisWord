@@ -1,1 +1,1606 @@
-{"id":"psalms-33","name":"Psalms","chapter":33,"verses":[{"ref":"Psalms 33:1","englishText":"Rejoice in Yahweh, you righteous! Praise is fitting for the upright. ","tokens":[{"id":"psalms-33-1-0","surface":"רַנְּנ֣וּ","lemma":"רָנַן","translit":"ranenv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H7442"},{"id":"psalms-33-1-1","surface":"צַ֭דִּיקִים","lemma":"צַדִּיק","translit":"tsadiyqiym","morph":"Adjective","glosses":[],"strongs":"H6662"},{"id":"psalms-33-1-2","surface":"בַּֽיהוָ֑ה","lemma":"יְהֹוָה","translit":"bayhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-1-3","surface":"לַ֝יְשָׁרִ֗ים","lemma":"יָשָׁר","translit":"layeshariym","morph":"Preposition dual + Adjective","glosses":[],"strongs":"H3477"},{"id":"psalms-33-1-4","surface":"נָאוָ֥ה","lemma":"נָאוֶה","translit":"na'vah","morph":"Adjective","glosses":[],"strongs":"H5000"},{"id":"psalms-33-1-5","surface":"תְהִלָּֽה","lemma":"תְּהִלָּה","translit":"tehilah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8416"}],"language":"hebrew"},{"ref":"Psalms 33:2","englishText":"Give thanks to Yahweh with the lyre. Sing praises to him with the harp of ten strings. ","tokens":[{"id":"psalms-33-2-0","surface":"הוֹד֣וּ","lemma":"יָדָה","translit":"hvodv","morph":"Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H3034"},{"id":"psalms-33-2-1","surface":"לַיהוָ֣ה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-2-2","surface":"בְּכִנּ֑וֹר","lemma":"כִּנּוֹר","translit":"bekinvor","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H3658"},{"id":"psalms-33-2-3","surface":"בְּנֵ֥בֶל","lemma":"נֶבֶל","translit":"benebel","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H5035"},{"id":"psalms-33-2-4","surface":"עָ֝שׂ֗וֹר","lemma":"עָשׂוֹר","translit":"`ashvor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6218"},{"id":"psalms-33-2-5","surface":"זַמְּרוּ","lemma":"זָמַר","translit":"zamerv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H2167"},{"id":"psalms-33-2-6","surface":"לֽוֹ","lemma":"לֽוֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]}],"language":"hebrew"},{"ref":"Psalms 33:3","englishText":"Sing to him a new song. Play skillfully with a shout of joy! ","tokens":[{"id":"psalms-33-3-0","surface":"שִֽׁירוּ","lemma":"שִׁיר","translit":"shiyrv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H7891"},{"id":"psalms-33-3-1","surface":"ל֭וֹ","lemma":"ל֭וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"psalms-33-3-2","surface":"שִׁ֣יר","lemma":"שִׁיר","translit":"shiyr","morph":"Noun common singular absolute","glosses":[],"strongs":"H7892"},{"id":"psalms-33-3-3","surface":"חָדָ֑שׁ","lemma":"חָדָשׁ","translit":"chadash","morph":"Adjective","glosses":[],"strongs":"H2319"},{"id":"psalms-33-3-4","surface":"הֵיטִ֥יבוּ","lemma":"יָטַב","translit":"heytiybv","morph":"Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H3190"},{"id":"psalms-33-3-5","surface":"נַ֝גֵּ֗ן","lemma":"נָגַן","translit":"nagen","morph":"Verb Piel Infinitive Construct","glosses":[],"strongs":"H5059"},{"id":"psalms-33-3-6","surface":"בִּתְרוּעָֽה","lemma":"תְּרוּעָה","translit":"biterv`ah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H8643"}],"language":"hebrew"},{"ref":"Psalms 33:4","englishText":"For Yahweh’s word is right. All his work is done in faithfulness. ","tokens":[{"id":"psalms-33-4-0","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-33-4-1","surface":"יָשָׁ֥ר","lemma":"יָשָׁר","translit":"yashar","morph":"Adjective","glosses":[],"strongs":"H3477"},{"id":"psalms-33-4-2","surface":"דְּבַר","lemma":"דָּבָר","translit":"debar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"psalms-33-4-3","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-4-4","surface":"וְכָל","lemma":"כֹּל","translit":"vekal","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-33-4-5","surface":"מַ֝עֲשֵׂ֗הוּ","lemma":"מַעֲשֶׂה","translit":"ma`shehv","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H4639"},{"id":"psalms-33-4-6","surface":"בֶּאֱמוּנָֽה","lemma":"אֱמוּנָה","translit":"be'mvnah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H530"}],"language":"hebrew"},{"ref":"Psalms 33:5","englishText":"He loves righteousness and justice. The earth is full of the loving kindness of Yahweh. ","tokens":[{"id":"psalms-33-5-0","surface":"אֹ֭הֵב","lemma":"אָהַב","translit":"'oheb","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H157"},{"id":"psalms-33-5-1","surface":"צְדָקָ֣ה","lemma":"צְדָקָה","translit":"tsedaqah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H6666"},{"id":"psalms-33-5-2","surface":"וּמִשְׁפָּ֑ט","lemma":"מִשְׁפָּט","translit":"vmishepat","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H4941"},{"id":"psalms-33-5-3","surface":"חֶ֥סֶד","lemma":"חֵסֵד","translit":"chesed","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H2617"},{"id":"psalms-33-5-4","surface":"יְ֝הוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-5-5","surface":"מָלְאָ֥ה","lemma":"מָלֵא","translit":"male'ah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H4390"},{"id":"psalms-33-5-6","surface":"הָאָֽרֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Psalms 33:6","englishText":"By Yahweh’s word, the heavens were made; all their army by the breath of his mouth. ","tokens":[{"id":"psalms-33-6-0","surface":"בִּדְבַ֣ר","lemma":"דָּבָר","translit":"bidebar","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"psalms-33-6-1","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-6-2","surface":"שָׁמַ֣יִם","lemma":"שָׁמַיִם","translit":"shamayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"psalms-33-6-3","surface":"נַעֲשׂ֑וּ","lemma":"עָשָׂה","translit":"na`shv","morph":"Verb Niphal Participle 3rd common plural","glosses":[],"strongs":"H6213"},{"id":"psalms-33-6-4","surface":"וּבְר֥וּחַ","lemma":"רוּחַ","translit":"vbervcha","morph":"Conjunction + Preposition + Noun common singular construct","glosses":[],"strongs":"H7307"},{"id":"psalms-33-6-5","surface":"פִּ֝֗יו","lemma":"פֶּה","translit":"piyv","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6310"},{"id":"psalms-33-6-6","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-33-6-7","surface":"צְבָאָֽם","lemma":"צָבָא","translit":"tseba'am","morph":"Noun common singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H6635"}],"language":"hebrew"},{"ref":"Psalms 33:7","englishText":"He gathers the waters of the sea together as a heap. He lays up the deeps in storehouses. ","tokens":[{"id":"psalms-33-7-0","surface":"כֹּנֵ֣ס","lemma":"כָּנַס","translit":"kones","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3664"},{"id":"psalms-33-7-1","surface":"כַּ֭נֵּד","lemma":"נֵד","translit":"kaned","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5067"},{"id":"psalms-33-7-2","surface":"מֵ֣י","lemma":"מַיִם","translit":"mey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H4325"},{"id":"psalms-33-7-3","surface":"הַיָּ֑ם","lemma":"יָם","translit":"hayam","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3220"},{"id":"psalms-33-7-4","surface":"נֹתֵ֖ן","lemma":"נָתַן","translit":"noten","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H5414"},{"id":"psalms-33-7-5","surface":"בְּאֹצָר֣וֹת","lemma":"אוֹצָר","translit":"be'otsarvot","morph":"Preposition + Noun common masculine plural absolute","glosses":[],"strongs":"H214"},{"id":"psalms-33-7-6","surface":"תְּהוֹמֽוֹת","lemma":"תְּהוֹם","translit":"tehvomvot","morph":"Noun common plural absolute","glosses":[],"strongs":"H8415"}],"language":"hebrew"},{"ref":"Psalms 33:8","englishText":"Let all the earth fear Yahweh. Let all the inhabitants of the world stand in awe of him. ","tokens":[{"id":"psalms-33-8-0","surface":"יִֽירְא֣וּ","lemma":"יָרֵא","translit":"yiyre'v","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H3372"},{"id":"psalms-33-8-1","surface":"מֵ֭יְהוָה","lemma":"יְהֹוָה","translit":"meyehvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-8-2","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-33-8-3","surface":"הָאָ֑רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"psalms-33-8-4","surface":"מִמֶּ֥נּוּ","lemma":"מִן","translit":"mimenv","morph":"Preposition + Suffix plural 1st common","glosses":[],"strongs":"H4480"},{"id":"psalms-33-8-5","surface":"יָ֝ג֗וּרוּ","lemma":"גּוּר","translit":"yagvrv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H1481"},{"id":"psalms-33-8-6","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-33-8-7","surface":"יֹשְׁבֵ֥י","lemma":"יָשַׁב","translit":"yoshebey","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3427"},{"id":"psalms-33-8-8","surface":"תֵבֵֽל","lemma":"תֵּבֵל","translit":"tebel","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8398"}],"language":"hebrew"},{"ref":"Psalms 33:9","englishText":"For he spoke, and it was done. He commanded, and it stood firm. ","tokens":[{"id":"psalms-33-9-0","surface":"כִּ֤י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-33-9-1","surface":"ה֣וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"psalms-33-9-2","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"psalms-33-9-3","surface":"וַיֶּ֑הִי","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"psalms-33-9-4","surface":"הֽוּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"psalms-33-9-5","surface":"צִ֝וָּ֗ה","lemma":"צָוָה","translit":"tsivah","morph":"Verb Piel Participle 3rd masculine singular","glosses":[],"strongs":"H6680"},{"id":"psalms-33-9-6","surface":"וַֽיַּעֲמֹֽד","lemma":"עָמַד","translit":"vaya`mod","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5975"}],"language":"hebrew"},{"ref":"Psalms 33:10","englishText":"Yahweh brings the counsel of the nations to nothing. He makes the thoughts of the peoples to be of no effect. ","tokens":[{"id":"psalms-33-10-0","surface":"יְֽהוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-10-1","surface":"הֵפִ֥יר","lemma":"פּוּר","translit":"hepiyr","morph":"Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H6331"},{"id":"psalms-33-10-2","surface":"עֲצַת","lemma":"עֵצָה","translit":"`tsat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6098"},{"id":"psalms-33-10-3","surface":"גּוֹיִ֑ם","lemma":"גּוֹי","translit":"gvoyim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"psalms-33-10-4","surface":"הֵ֝נִ֗יא","lemma":"נוּא","translit":"heniy'","morph":"Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H5106"},{"id":"psalms-33-10-5","surface":"מַחְשְׁב֥וֹת","lemma":"מַחֲשָׁבָה","translit":"macheshebvot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H4284"},{"id":"psalms-33-10-6","surface":"עַמִּֽים","lemma":"עַם","translit":"`amiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H5971"}],"language":"hebrew"},{"ref":"Psalms 33:11","englishText":"The counsel of Yahweh stands fast forever, the thoughts of his heart to all generations. ","tokens":[{"id":"psalms-33-11-0","surface":"עֲצַ֣ת","lemma":"עֵצָה","translit":"`tsat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6098"},{"id":"psalms-33-11-1","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-11-2","surface":"לְעוֹלָ֣ם","lemma":"עוֹלָם","translit":"le`volam","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H5769"},{"id":"psalms-33-11-3","surface":"תַּעֲמֹ֑ד","lemma":"עָמַד","translit":"ta`mod","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H5975"},{"id":"psalms-33-11-4","surface":"מַחְשְׁב֥וֹת","lemma":"מַחֲשָׁבָה","translit":"macheshebvot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H4284"},{"id":"psalms-33-11-5","surface":"לִ֝בּ֗וֹ","lemma":"לֵב","translit":"libvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3820"},{"id":"psalms-33-11-6","surface":"לְדֹ֣ר","lemma":"דּוֹר","translit":"ledor","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H1755"},{"id":"psalms-33-11-7","surface":"וָדֹֽר","lemma":"דּוֹר","translit":"vador","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H1755"}],"language":"hebrew"},{"ref":"Psalms 33:12","englishText":"Blessed is the nation whose God is Yahweh, the people whom he has chosen for his own inheritance. ","tokens":[{"id":"psalms-33-12-0","surface":"אַשְׁרֵ֣י","lemma":"אֶשֶׁר","translit":"'asherey","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H835"},{"id":"psalms-33-12-1","surface":"הַ֭גּוֹי","lemma":"גּוֹי","translit":"hagvoy","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1471"},{"id":"psalms-33-12-2","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"psalms-33-12-3","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-12-4","surface":"אֱלֹהָ֑יו","lemma":"אֱלֹהִים","translit":"'lohayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H430"},{"id":"psalms-33-12-5","surface":"הָעָ֓ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"psalms-33-12-6","surface":"בָּחַ֖ר","lemma":"בָּחַר","translit":"bachar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H977"},{"id":"psalms-33-12-7","surface":"לְנַחֲלָ֣ה","lemma":"נַחֲלָה","translit":"lenachlah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H5159"},{"id":"psalms-33-12-8","surface":"לֽוֹ","lemma":"לֽוֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]}],"language":"hebrew"},{"ref":"Psalms 33:13","englishText":"Yahweh looks from heaven. He sees all the sons of men. ","tokens":[{"id":"psalms-33-13-0","surface":"מִ֭שָּׁמַיִם","lemma":"שָׁמַיִם","translit":"mishamayim","morph":"Preposition + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"psalms-33-13-1","surface":"הִבִּ֣יט","lemma":"נָבַט","translit":"hibiyt","morph":"Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H5027"},{"id":"psalms-33-13-2","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-13-3","surface":"רָ֝אָ֗ה","lemma":"רָאָה","translit":"ra'ah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H7200"},{"id":"psalms-33-13-4","surface":"אֶֽת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-33-13-5","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-33-13-6","surface":"בְּנֵ֥י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"psalms-33-13-7","surface":"הָאָדָֽם","lemma":"אָדָם","translit":"ha'adam","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H120"}],"language":"hebrew"},{"ref":"Psalms 33:14","englishText":"From the place of his habitation he looks out on all the inhabitants of the earth, ","tokens":[{"id":"psalms-33-14-0","surface":"מִֽמְּכוֹן","lemma":"מָכוֹן","translit":"mimekvon","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4349"},{"id":"psalms-33-14-1","surface":"שִׁבְתּ֥וֹ","lemma":"יָשַׁב","translit":"shibetvo","morph":"Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3427"},{"id":"psalms-33-14-2","surface":"הִשְׁגִּ֑יחַ","lemma":"שָׁגַח","translit":"hishegiycha","morph":"Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H7688"},{"id":"psalms-33-14-3","surface":"אֶ֖ל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"psalms-33-14-4","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-33-14-5","surface":"יֹשְׁבֵ֣י","lemma":"יָשַׁב","translit":"yoshebey","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3427"},{"id":"psalms-33-14-6","surface":"הָאָֽרֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Psalms 33:15","englishText":"he who fashions all of their hearts; and he considers all of their works. ","tokens":[{"id":"psalms-33-15-0","surface":"הַיֹּצֵ֣ר","lemma":"יָצַר","translit":"hayotser","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H3335"},{"id":"psalms-33-15-1","surface":"יַ֣חַד","lemma":"יַחַד","translit":"yachad","morph":"Adverb","glosses":[],"strongs":"H3162"},{"id":"psalms-33-15-2","surface":"לִבָּ֑ם","lemma":"לֵב","translit":"libam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H3820"},{"id":"psalms-33-15-3","surface":"הַ֝מֵּבִ֗ין","lemma":"בִּין","translit":"hamebiyn","morph":"Particle dual + Verb Hiphil Passive Participle","glosses":[],"strongs":"H995"},{"id":"psalms-33-15-4","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"psalms-33-15-5","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-33-15-6","surface":"מַעֲשֵׂיהֶֽם","lemma":"מַעֲשֶׂה","translit":"ma`sheyhem","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H4639"}],"language":"hebrew"},{"ref":"Psalms 33:16","englishText":"There is no king saved by the multitude of an army. A mighty man is not delivered by great strength. ","tokens":[{"id":"psalms-33-16-0","surface":"אֵֽין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"psalms-33-16-1","surface":"הַ֭מֶּלֶךְ","lemma":"מֶלֶךְ","translit":"hameleke","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4428"},{"id":"psalms-33-16-2","surface":"נוֹשָׁ֣ע","lemma":"יָשַׁע","translit":"nvosha`","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H3467"},{"id":"psalms-33-16-3","surface":"בְּרָב","lemma":"רֹב","translit":"berab","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7230"},{"id":"psalms-33-16-4","surface":"חָ֑יִל","lemma":"חַיִל","translit":"chayil","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2428"},{"id":"psalms-33-16-5","surface":"גִּ֝בּ֗וֹר","lemma":"גִּבּוֹר","translit":"gibvor","morph":"Adjective","glosses":[],"strongs":"H1368"},{"id":"psalms-33-16-6","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"psalms-33-16-7","surface":"יִנָּצֵ֥ל","lemma":"נָצַל","translit":"yinatsel","morph":"Verb Niphal Imperative 3rd masculine singular","glosses":[],"strongs":"H5337"},{"id":"psalms-33-16-8","surface":"בְּרָב","lemma":"רֹב","translit":"berab","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7230"},{"id":"psalms-33-16-9","surface":"כֹּֽחַ","lemma":"כֹּחַ","translit":"kocha","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3581"}],"language":"hebrew"},{"ref":"Psalms 33:17","englishText":"A horse is a vain thing for safety, neither does he deliver any by his great power. ","tokens":[{"id":"psalms-33-17-0","surface":"שֶׁ֣קֶר","lemma":"שֶׁקֶר","translit":"sheqer","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8267"},{"id":"psalms-33-17-1","surface":"הַ֭סּוּס","lemma":"סוּס","translit":"hasvs","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5483"},{"id":"psalms-33-17-2","surface":"לִתְשׁוּעָ֑ה","lemma":"תְּשׁוּעָה","translit":"liteshv`ah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H8668"},{"id":"psalms-33-17-3","surface":"וּבְרֹ֥ב","lemma":"רֹב","translit":"vberob","morph":"Conjunction + Preposition + Noun common singular construct","glosses":[],"strongs":"H7230"},{"id":"psalms-33-17-4","surface":"חֵ֝יל֗וֹ","lemma":"חַיִל","translit":"cheylvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2428"},{"id":"psalms-33-17-5","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"psalms-33-17-6","surface":"יְמַלֵּֽט","lemma":"מָלַט","translit":"yemalet","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H4422"}],"language":"hebrew"},{"ref":"Psalms 33:18","englishText":"Behold, Yahweh’s eye is on those who fear him, on those who hope in his loving kindness; ","tokens":[{"id":"psalms-33-18-0","surface":"הִנֵּ֤ה","lemma":"הִנֵּה","translit":"hineh","morph":"Particle masculine","glosses":[],"strongs":"H2009"},{"id":"psalms-33-18-1","surface":"עֵ֣ין","lemma":"עַיִן","translit":"`eyn","morph":"Noun common singular construct","glosses":[],"strongs":"H5869"},{"id":"psalms-33-18-2","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-18-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"psalms-33-18-4","surface":"יְרֵאָ֑יו","lemma":"יָרֵא","translit":"yere'ayv","morph":"Adjective + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3373"},{"id":"psalms-33-18-5","surface":"לַֽמְיַחֲלִ֥ים","lemma":"יָחַל","translit":"lameyachliym","morph":"Preposition dual + Verb Piel Passive Participle","glosses":[],"strongs":"H3176"},{"id":"psalms-33-18-6","surface":"לְחַסְדּֽוֹ","lemma":"חֵסֵד","translit":"lechasedvo","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2617"}],"language":"hebrew"},{"ref":"Psalms 33:19","englishText":"to deliver their soul from death, to keep them alive in famine. ","tokens":[{"id":"psalms-33-19-0","surface":"לְהַצִּ֣יל","lemma":"נָצַל","translit":"lehatsiyl","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H5337"},{"id":"psalms-33-19-1","surface":"מִמָּ֣וֶת","lemma":"מָוֶת","translit":"mimavet","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H4194"},{"id":"psalms-33-19-2","surface":"נַפְשָׁ֑ם","lemma":"נֶפֶשׁ","translit":"napesham","morph":"Noun common singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H5315"},{"id":"psalms-33-19-3","surface":"וּ֝לְחַיּוֹתָ֗ם","lemma":"חָיָה","translit":"vlechayvotam","morph":"Conjunction + Preposition + Verb Piel Infinitive Construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H2421"},{"id":"psalms-33-19-4","surface":"בָּרָעָֽב","lemma":"רָעָב","translit":"bara`ab","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7458"}],"language":"hebrew"},{"ref":"Psalms 33:20","englishText":"Our soul has waited for Yahweh. He is our help and our shield. ","tokens":[{"id":"psalms-33-20-0","surface":"נַ֭פְשֵׁנוּ","lemma":"נֶפֶשׁ","translit":"napeshenv","morph":"Noun common singular construct + Suffix plural 1st common","glosses":[],"strongs":"H5315"},{"id":"psalms-33-20-1","surface":"חִכְּתָ֣ה","lemma":"חָכָה","translit":"chiketah","morph":"Verb Piel Participle 3rd feminine singular","glosses":[],"strongs":"H2442"},{"id":"psalms-33-20-2","surface":"לַֽיהוָ֑ה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-20-3","surface":"עֶזְרֵ֖נוּ","lemma":"עֵזֶר","translit":"`ezerenv","morph":"Noun common masculine singular construct + Suffix plural 1st common","glosses":[],"strongs":"H5828"},{"id":"psalms-33-20-4","surface":"וּמָגִנֵּ֣נוּ","lemma":"מָגֵן","translit":"vmaginenv","morph":"Conjunction + Noun common singular construct + Suffix plural 1st common","glosses":[],"strongs":"H4043"},{"id":"psalms-33-20-5","surface":"הֽוּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Psalms 33:21","englishText":"For our heart rejoices in him, because we have trusted in his holy name. ","tokens":[{"id":"psalms-33-21-0","surface":"כִּי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-33-21-1","surface":"ב֭וֹ","lemma":"ב֭וֹ","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"psalms-33-21-2","surface":"יִשְׂמַ֣ח","lemma":"שָׂמַח","translit":"yishemach","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H8055"},{"id":"psalms-33-21-3","surface":"לִבֵּ֑נוּ","lemma":"לֵב","translit":"libenv","morph":"Noun common masculine singular construct + Suffix plural 1st common","glosses":[],"strongs":"H3820"},{"id":"psalms-33-21-4","surface":"כִּ֤י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-33-21-5","surface":"בְשֵׁ֖ם","lemma":"שֵׁם","translit":"beshem","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"psalms-33-21-6","surface":"קָדְשׁ֣וֹ","lemma":"קֹדֶשׁ","translit":"qadeshvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6944"},{"id":"psalms-33-21-7","surface":"בָטָֽחְנוּ","lemma":"בָּטַח","translit":"batachenv","morph":"Verb Qal Participle 1st common plural","glosses":[],"strongs":"H982"}],"language":"hebrew"},{"ref":"Psalms 33:22","englishText":"Let your loving kindness be on us, Yahweh, since we have hoped in you.   ","tokens":[{"id":"psalms-33-22-0","surface":"יְהִֽי","lemma":"הָיָה","translit":"yehiy","morph":"Verb Qal Jussive 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"psalms-33-22-1","surface":"חַסְדְּךָ֣","lemma":"חֵסֵד","translit":"chasedeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2617"},{"id":"psalms-33-22-2","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-33-22-3","surface":"עָלֵ֑ינוּ","lemma":"עַל","translit":"`aleynv","morph":"Preposition + Suffix plural 1st common","glosses":[],"strongs":"H5921"},{"id":"psalms-33-22-4","surface":"כַּ֝אֲשֶׁ֗ר","lemma":"אֲשֶׁר","translit":"ka'sher","morph":"Preposition + Particle","glosses":[],"strongs":"H834"},{"id":"psalms-33-22-5","surface":"יִחַ֥לְנוּ","lemma":"יָחַל","translit":"yichalenv","morph":"Verb Piel Participle 1st common plural","glosses":[],"strongs":"H3176"},{"id":"psalms-33-22-6","surface":"לָֽךְ","lemma":"לָֽךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-33",
+  "name": "Psalms",
+  "chapter": 33,
+  "verses": [
+    {
+      "ref": "Psalms 33:1",
+      "englishText": "Rejoice in Yahweh, you righteous! Praise is fitting for the upright. ",
+      "tokens": [
+        {
+          "id": "psalms-33-1-0",
+          "surface": "רַנְּנ֣וּ",
+          "lemma": "רָנַן",
+          "translit": "ranenv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7442"
+        },
+        {
+          "id": "psalms-33-1-1",
+          "surface": "צַ֭דִּיקִים",
+          "lemma": "צַדִּיק",
+          "translit": "tsadiyqiym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6662"
+        },
+        {
+          "id": "psalms-33-1-2",
+          "surface": "בַּֽיהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "bayhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-1-3",
+          "surface": "לַ֝יְשָׁרִ֗ים",
+          "lemma": "יָשָׁר",
+          "translit": "layeshariym",
+          "morph": "Preposition dual + Adjective",
+          "glosses": [],
+          "strongs": "H3477"
+        },
+        {
+          "id": "psalms-33-1-4",
+          "surface": "נָאוָ֥ה",
+          "lemma": "נָאוֶה",
+          "translit": "na'vah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5000"
+        },
+        {
+          "id": "psalms-33-1-5",
+          "surface": "תְהִלָּֽה",
+          "lemma": "תְּהִלָּה",
+          "translit": "tehilah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8416"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:2",
+      "englishText": "Give thanks to Yahweh with the lyre. Sing praises to him with the harp of ten strings. ",
+      "tokens": [
+        {
+          "id": "psalms-33-2-0",
+          "surface": "הוֹד֣וּ",
+          "lemma": "יָדָה",
+          "translit": "hvodv",
+          "morph": "Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3034"
+        },
+        {
+          "id": "psalms-33-2-1",
+          "surface": "לַיהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-2-2",
+          "surface": "בְּכִנּ֑וֹר",
+          "lemma": "כִּנּוֹר",
+          "translit": "bekinvor",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3658"
+        },
+        {
+          "id": "psalms-33-2-3",
+          "surface": "בְּנֵ֥בֶל",
+          "lemma": "נֶבֶל",
+          "translit": "benebel",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5035"
+        },
+        {
+          "id": "psalms-33-2-4",
+          "surface": "עָ֝שׂ֗וֹר",
+          "lemma": "עָשׂוֹר",
+          "translit": "`ashvor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6218"
+        },
+        {
+          "id": "psalms-33-2-5",
+          "surface": "זַמְּרוּ",
+          "lemma": "זָמַר",
+          "translit": "zamerv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H2167"
+        },
+        {
+          "id": "psalms-33-2-6",
+          "surface": "לֽוֹ",
+          "lemma": "לֽוֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:3",
+      "englishText": "Sing to him a new song. Play skillfully with a shout of joy! ",
+      "tokens": [
+        {
+          "id": "psalms-33-3-0",
+          "surface": "שִֽׁירוּ",
+          "lemma": "שִׁיר",
+          "translit": "shiyrv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7891"
+        },
+        {
+          "id": "psalms-33-3-1",
+          "surface": "ל֭וֹ",
+          "lemma": "ל֭וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "psalms-33-3-2",
+          "surface": "שִׁ֣יר",
+          "lemma": "שִׁיר",
+          "translit": "shiyr",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7892"
+        },
+        {
+          "id": "psalms-33-3-3",
+          "surface": "חָדָ֑שׁ",
+          "lemma": "חָדָשׁ",
+          "translit": "chadash",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2319"
+        },
+        {
+          "id": "psalms-33-3-4",
+          "surface": "הֵיטִ֥יבוּ",
+          "lemma": "יָטַב",
+          "translit": "heytiybv",
+          "morph": "Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3190"
+        },
+        {
+          "id": "psalms-33-3-5",
+          "surface": "נַ֝גֵּ֗ן",
+          "lemma": "נָגַן",
+          "translit": "nagen",
+          "morph": "Verb Piel Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5059"
+        },
+        {
+          "id": "psalms-33-3-6",
+          "surface": "בִּתְרוּעָֽה",
+          "lemma": "תְּרוּעָה",
+          "translit": "biterv`ah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8643"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:4",
+      "englishText": "For Yahweh’s word is right. All his work is done in faithfulness. ",
+      "tokens": [
+        {
+          "id": "psalms-33-4-0",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-33-4-1",
+          "surface": "יָשָׁ֥ר",
+          "lemma": "יָשָׁר",
+          "translit": "yashar",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H3477"
+        },
+        {
+          "id": "psalms-33-4-2",
+          "surface": "דְּבַר",
+          "lemma": "דָּבָר",
+          "translit": "debar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "psalms-33-4-3",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-4-4",
+          "surface": "וְכָל",
+          "lemma": "כֹּל",
+          "translit": "vekal",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-33-4-5",
+          "surface": "מַ֝עֲשֵׂ֗הוּ",
+          "lemma": "מַעֲשֶׂה",
+          "translit": "ma`shehv",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4639"
+        },
+        {
+          "id": "psalms-33-4-6",
+          "surface": "בֶּאֱמוּנָֽה",
+          "lemma": "אֱמוּנָה",
+          "translit": "be'mvnah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H530"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:5",
+      "englishText": "He loves righteousness and justice. The earth is full of the loving kindness of Yahweh. ",
+      "tokens": [
+        {
+          "id": "psalms-33-5-0",
+          "surface": "אֹ֭הֵב",
+          "lemma": "אָהַב",
+          "translit": "'oheb",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H157"
+        },
+        {
+          "id": "psalms-33-5-1",
+          "surface": "צְדָקָ֣ה",
+          "lemma": "צְדָקָה",
+          "translit": "tsedaqah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6666"
+        },
+        {
+          "id": "psalms-33-5-2",
+          "surface": "וּמִשְׁפָּ֑ט",
+          "lemma": "מִשְׁפָּט",
+          "translit": "vmishepat",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "psalms-33-5-3",
+          "surface": "חֶ֥סֶד",
+          "lemma": "חֵסֵד",
+          "translit": "chesed",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2617"
+        },
+        {
+          "id": "psalms-33-5-4",
+          "surface": "יְ֝הוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-5-5",
+          "surface": "מָלְאָ֥ה",
+          "lemma": "מָלֵא",
+          "translit": "male'ah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4390"
+        },
+        {
+          "id": "psalms-33-5-6",
+          "surface": "הָאָֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:6",
+      "englishText": "By Yahweh’s word, the heavens were made; all their army by the breath of his mouth. ",
+      "tokens": [
+        {
+          "id": "psalms-33-6-0",
+          "surface": "בִּדְבַ֣ר",
+          "lemma": "דָּבָר",
+          "translit": "bidebar",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "psalms-33-6-1",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-6-2",
+          "surface": "שָׁמַ֣יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "shamayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "psalms-33-6-3",
+          "surface": "נַעֲשׂ֑וּ",
+          "lemma": "עָשָׂה",
+          "translit": "na`shv",
+          "morph": "Verb Niphal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "psalms-33-6-4",
+          "surface": "וּבְר֥וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "vbervcha",
+          "morph": "Conjunction + Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "psalms-33-6-5",
+          "surface": "פִּ֝֗יו",
+          "lemma": "פֶּה",
+          "translit": "piyv",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6310"
+        },
+        {
+          "id": "psalms-33-6-6",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-33-6-7",
+          "surface": "צְבָאָֽם",
+          "lemma": "צָבָא",
+          "translit": "tseba'am",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6635"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:7",
+      "englishText": "He gathers the waters of the sea together as a heap. He lays up the deeps in storehouses. ",
+      "tokens": [
+        {
+          "id": "psalms-33-7-0",
+          "surface": "כֹּנֵ֣ס",
+          "lemma": "כָּנַס",
+          "translit": "kones",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3664"
+        },
+        {
+          "id": "psalms-33-7-1",
+          "surface": "כַּ֭נֵּד",
+          "lemma": "נֵד",
+          "translit": "kaned",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5067"
+        },
+        {
+          "id": "psalms-33-7-2",
+          "surface": "מֵ֣י",
+          "lemma": "מַיִם",
+          "translit": "mey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H4325"
+        },
+        {
+          "id": "psalms-33-7-3",
+          "surface": "הַיָּ֑ם",
+          "lemma": "יָם",
+          "translit": "hayam",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3220"
+        },
+        {
+          "id": "psalms-33-7-4",
+          "surface": "נֹתֵ֖ן",
+          "lemma": "נָתַן",
+          "translit": "noten",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "psalms-33-7-5",
+          "surface": "בְּאֹצָר֣וֹת",
+          "lemma": "אוֹצָר",
+          "translit": "be'otsarvot",
+          "morph": "Preposition + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H214"
+        },
+        {
+          "id": "psalms-33-7-6",
+          "surface": "תְּהוֹמֽוֹת",
+          "lemma": "תְּהוֹם",
+          "translit": "tehvomvot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H8415"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:8",
+      "englishText": "Let all the earth fear Yahweh. Let all the inhabitants of the world stand in awe of him. ",
+      "tokens": [
+        {
+          "id": "psalms-33-8-0",
+          "surface": "יִֽירְא֣וּ",
+          "lemma": "יָרֵא",
+          "translit": "yiyre'v",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "psalms-33-8-1",
+          "surface": "מֵ֭יְהוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "meyehvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-8-2",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-33-8-3",
+          "surface": "הָאָ֑רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "psalms-33-8-4",
+          "surface": "מִמֶּ֥נּוּ",
+          "lemma": "מִן",
+          "translit": "mimenv",
+          "morph": "Preposition + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "psalms-33-8-5",
+          "surface": "יָ֝ג֗וּרוּ",
+          "lemma": "גּוּר",
+          "translit": "yagvrv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1481"
+        },
+        {
+          "id": "psalms-33-8-6",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-33-8-7",
+          "surface": "יֹשְׁבֵ֥י",
+          "lemma": "יָשַׁב",
+          "translit": "yoshebey",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "psalms-33-8-8",
+          "surface": "תֵבֵֽל",
+          "lemma": "תֵּבֵל",
+          "translit": "tebel",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8398"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:9",
+      "englishText": "For he spoke, and it was done. He commanded, and it stood firm. ",
+      "tokens": [
+        {
+          "id": "psalms-33-9-0",
+          "surface": "כִּ֤י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-33-9-1",
+          "surface": "ה֣וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "psalms-33-9-2",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "psalms-33-9-3",
+          "surface": "וַיֶּ֑הִי",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "psalms-33-9-4",
+          "surface": "הֽוּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "psalms-33-9-5",
+          "surface": "צִ֝וָּ֗ה",
+          "lemma": "צָוָה",
+          "translit": "tsivah",
+          "morph": "Verb Piel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6680"
+        },
+        {
+          "id": "psalms-33-9-6",
+          "surface": "וַֽיַּעֲמֹֽד",
+          "lemma": "עָמַד",
+          "translit": "vaya`mod",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5975"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:10",
+      "englishText": "Yahweh brings the counsel of the nations to nothing. He makes the thoughts of the peoples to be of no effect. ",
+      "tokens": [
+        {
+          "id": "psalms-33-10-0",
+          "surface": "יְֽהוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-10-1",
+          "surface": "הֵפִ֥יר",
+          "lemma": "פּוּר",
+          "translit": "hepiyr",
+          "morph": "Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6331"
+        },
+        {
+          "id": "psalms-33-10-2",
+          "surface": "עֲצַת",
+          "lemma": "עֵצָה",
+          "translit": "`tsat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6098"
+        },
+        {
+          "id": "psalms-33-10-3",
+          "surface": "גּוֹיִ֑ם",
+          "lemma": "גּוֹי",
+          "translit": "gvoyim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "psalms-33-10-4",
+          "surface": "הֵ֝נִ֗יא",
+          "lemma": "נוּא",
+          "translit": "heniy'",
+          "morph": "Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5106"
+        },
+        {
+          "id": "psalms-33-10-5",
+          "surface": "מַחְשְׁב֥וֹת",
+          "lemma": "מַחֲשָׁבָה",
+          "translit": "macheshebvot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H4284"
+        },
+        {
+          "id": "psalms-33-10-6",
+          "surface": "עַמִּֽים",
+          "lemma": "עַם",
+          "translit": "`amiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:11",
+      "englishText": "The counsel of Yahweh stands fast forever, the thoughts of his heart to all generations. ",
+      "tokens": [
+        {
+          "id": "psalms-33-11-0",
+          "surface": "עֲצַ֣ת",
+          "lemma": "עֵצָה",
+          "translit": "`tsat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6098"
+        },
+        {
+          "id": "psalms-33-11-1",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-11-2",
+          "surface": "לְעוֹלָ֣ם",
+          "lemma": "עוֹלָם",
+          "translit": "le`volam",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        },
+        {
+          "id": "psalms-33-11-3",
+          "surface": "תַּעֲמֹ֑ד",
+          "lemma": "עָמַד",
+          "translit": "ta`mod",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5975"
+        },
+        {
+          "id": "psalms-33-11-4",
+          "surface": "מַחְשְׁב֥וֹת",
+          "lemma": "מַחֲשָׁבָה",
+          "translit": "macheshebvot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H4284"
+        },
+        {
+          "id": "psalms-33-11-5",
+          "surface": "לִ֝בּ֗וֹ",
+          "lemma": "לֵב",
+          "translit": "libvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "psalms-33-11-6",
+          "surface": "לְדֹ֣ר",
+          "lemma": "דּוֹר",
+          "translit": "ledor",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1755"
+        },
+        {
+          "id": "psalms-33-11-7",
+          "surface": "וָדֹֽר",
+          "lemma": "דּוֹר",
+          "translit": "vador",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1755"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:12",
+      "englishText": "Blessed is the nation whose God is Yahweh, the people whom he has chosen for his own inheritance. ",
+      "tokens": [
+        {
+          "id": "psalms-33-12-0",
+          "surface": "אַשְׁרֵ֣י",
+          "lemma": "אֶשֶׁר",
+          "translit": "'asherey",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H835"
+        },
+        {
+          "id": "psalms-33-12-1",
+          "surface": "הַ֭גּוֹי",
+          "lemma": "גּוֹי",
+          "translit": "hagvoy",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "psalms-33-12-2",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "psalms-33-12-3",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-12-4",
+          "surface": "אֱלֹהָ֑יו",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-33-12-5",
+          "surface": "הָעָ֓ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "psalms-33-12-6",
+          "surface": "בָּחַ֖ר",
+          "lemma": "בָּחַר",
+          "translit": "bachar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H977"
+        },
+        {
+          "id": "psalms-33-12-7",
+          "surface": "לְנַחֲלָ֣ה",
+          "lemma": "נַחֲלָה",
+          "translit": "lenachlah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5159"
+        },
+        {
+          "id": "psalms-33-12-8",
+          "surface": "לֽוֹ",
+          "lemma": "לֽוֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:13",
+      "englishText": "Yahweh looks from heaven. He sees all the sons of men. ",
+      "tokens": [
+        {
+          "id": "psalms-33-13-0",
+          "surface": "מִ֭שָּׁמַיִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "mishamayim",
+          "morph": "Preposition + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "psalms-33-13-1",
+          "surface": "הִבִּ֣יט",
+          "lemma": "נָבַט",
+          "translit": "hibiyt",
+          "morph": "Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5027"
+        },
+        {
+          "id": "psalms-33-13-2",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-13-3",
+          "surface": "רָ֝אָ֗ה",
+          "lemma": "רָאָה",
+          "translit": "ra'ah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "psalms-33-13-4",
+          "surface": "אֶֽת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-33-13-5",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-33-13-6",
+          "surface": "בְּנֵ֥י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "psalms-33-13-7",
+          "surface": "הָאָדָֽם",
+          "lemma": "אָדָם",
+          "translit": "ha'adam",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:14",
+      "englishText": "From the place of his habitation he looks out on all the inhabitants of the earth, ",
+      "tokens": [
+        {
+          "id": "psalms-33-14-0",
+          "surface": "מִֽמְּכוֹן",
+          "lemma": "מָכוֹן",
+          "translit": "mimekvon",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4349"
+        },
+        {
+          "id": "psalms-33-14-1",
+          "surface": "שִׁבְתּ֥וֹ",
+          "lemma": "יָשַׁב",
+          "translit": "shibetvo",
+          "morph": "Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "psalms-33-14-2",
+          "surface": "הִשְׁגִּ֑יחַ",
+          "lemma": "שָׁגַח",
+          "translit": "hishegiycha",
+          "morph": "Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7688"
+        },
+        {
+          "id": "psalms-33-14-3",
+          "surface": "אֶ֖ל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "psalms-33-14-4",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-33-14-5",
+          "surface": "יֹשְׁבֵ֣י",
+          "lemma": "יָשַׁב",
+          "translit": "yoshebey",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "psalms-33-14-6",
+          "surface": "הָאָֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:15",
+      "englishText": "he who fashions all of their hearts; and he considers all of their works. ",
+      "tokens": [
+        {
+          "id": "psalms-33-15-0",
+          "surface": "הַיֹּצֵ֣ר",
+          "lemma": "יָצַר",
+          "translit": "hayotser",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3335"
+        },
+        {
+          "id": "psalms-33-15-1",
+          "surface": "יַ֣חַד",
+          "lemma": "יַחַד",
+          "translit": "yachad",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3162"
+        },
+        {
+          "id": "psalms-33-15-2",
+          "surface": "לִבָּ֑ם",
+          "lemma": "לֵב",
+          "translit": "libam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "psalms-33-15-3",
+          "surface": "הַ֝מֵּבִ֗ין",
+          "lemma": "בִּין",
+          "translit": "hamebiyn",
+          "morph": "Particle dual + Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H995"
+        },
+        {
+          "id": "psalms-33-15-4",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "psalms-33-15-5",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-33-15-6",
+          "surface": "מַעֲשֵׂיהֶֽם",
+          "lemma": "מַעֲשֶׂה",
+          "translit": "ma`sheyhem",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H4639"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:16",
+      "englishText": "There is no king saved by the multitude of an army. A mighty man is not delivered by great strength. ",
+      "tokens": [
+        {
+          "id": "psalms-33-16-0",
+          "surface": "אֵֽין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "psalms-33-16-1",
+          "surface": "הַ֭מֶּלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "hameleke",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "psalms-33-16-2",
+          "surface": "נוֹשָׁ֣ע",
+          "lemma": "יָשַׁע",
+          "translit": "nvosha`",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H3467"
+        },
+        {
+          "id": "psalms-33-16-3",
+          "surface": "בְּרָב",
+          "lemma": "רֹב",
+          "translit": "berab",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7230"
+        },
+        {
+          "id": "psalms-33-16-4",
+          "surface": "חָ֑יִל",
+          "lemma": "חַיִל",
+          "translit": "chayil",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2428"
+        },
+        {
+          "id": "psalms-33-16-5",
+          "surface": "גִּ֝בּ֗וֹר",
+          "lemma": "גִּבּוֹר",
+          "translit": "gibvor",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "psalms-33-16-6",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "psalms-33-16-7",
+          "surface": "יִנָּצֵ֥ל",
+          "lemma": "נָצַל",
+          "translit": "yinatsel",
+          "morph": "Verb Niphal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5337"
+        },
+        {
+          "id": "psalms-33-16-8",
+          "surface": "בְּרָב",
+          "lemma": "רֹב",
+          "translit": "berab",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7230"
+        },
+        {
+          "id": "psalms-33-16-9",
+          "surface": "כֹּֽחַ",
+          "lemma": "כֹּחַ",
+          "translit": "kocha",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3581"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:17",
+      "englishText": "A horse is a vain thing for safety, neither does he deliver any by his great power. ",
+      "tokens": [
+        {
+          "id": "psalms-33-17-0",
+          "surface": "שֶׁ֣קֶר",
+          "lemma": "שֶׁקֶר",
+          "translit": "sheqer",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8267"
+        },
+        {
+          "id": "psalms-33-17-1",
+          "surface": "הַ֭סּוּס",
+          "lemma": "סוּס",
+          "translit": "hasvs",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5483"
+        },
+        {
+          "id": "psalms-33-17-2",
+          "surface": "לִתְשׁוּעָ֑ה",
+          "lemma": "תְּשׁוּעָה",
+          "translit": "liteshv`ah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8668"
+        },
+        {
+          "id": "psalms-33-17-3",
+          "surface": "וּבְרֹ֥ב",
+          "lemma": "רֹב",
+          "translit": "vberob",
+          "morph": "Conjunction + Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7230"
+        },
+        {
+          "id": "psalms-33-17-4",
+          "surface": "חֵ֝יל֗וֹ",
+          "lemma": "חַיִל",
+          "translit": "cheylvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2428"
+        },
+        {
+          "id": "psalms-33-17-5",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "psalms-33-17-6",
+          "surface": "יְמַלֵּֽט",
+          "lemma": "מָלַט",
+          "translit": "yemalet",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4422"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:18",
+      "englishText": "Behold, Yahweh’s eye is on those who fear him, on those who hope in his loving kindness; ",
+      "tokens": [
+        {
+          "id": "psalms-33-18-0",
+          "surface": "הִנֵּ֤ה",
+          "lemma": "הִנֵּה",
+          "translit": "hineh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "psalms-33-18-1",
+          "surface": "עֵ֣ין",
+          "lemma": "עַיִן",
+          "translit": "`eyn",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "psalms-33-18-2",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-18-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "psalms-33-18-4",
+          "surface": "יְרֵאָ֑יו",
+          "lemma": "יָרֵא",
+          "translit": "yere'ayv",
+          "morph": "Adjective + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3373"
+        },
+        {
+          "id": "psalms-33-18-5",
+          "surface": "לַֽמְיַחֲלִ֥ים",
+          "lemma": "יָחַל",
+          "translit": "lameyachliym",
+          "morph": "Preposition dual + Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H3176"
+        },
+        {
+          "id": "psalms-33-18-6",
+          "surface": "לְחַסְדּֽוֹ",
+          "lemma": "חֵסֵד",
+          "translit": "lechasedvo",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2617"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:19",
+      "englishText": "to deliver their soul from death, to keep them alive in famine. ",
+      "tokens": [
+        {
+          "id": "psalms-33-19-0",
+          "surface": "לְהַצִּ֣יל",
+          "lemma": "נָצַל",
+          "translit": "lehatsiyl",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5337"
+        },
+        {
+          "id": "psalms-33-19-1",
+          "surface": "מִמָּ֣וֶת",
+          "lemma": "מָוֶת",
+          "translit": "mimavet",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4194"
+        },
+        {
+          "id": "psalms-33-19-2",
+          "surface": "נַפְשָׁ֑ם",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napesham",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "psalms-33-19-3",
+          "surface": "וּ֝לְחַיּוֹתָ֗ם",
+          "lemma": "חָיָה",
+          "translit": "vlechayvotam",
+          "morph": "Conjunction + Preposition + Verb Piel Infinitive Construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H2421"
+        },
+        {
+          "id": "psalms-33-19-4",
+          "surface": "בָּרָעָֽב",
+          "lemma": "רָעָב",
+          "translit": "bara`ab",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7458"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:20",
+      "englishText": "Our soul has waited for Yahweh. He is our help and our shield. ",
+      "tokens": [
+        {
+          "id": "psalms-33-20-0",
+          "surface": "נַ֭פְשֵׁנוּ",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napeshenv",
+          "morph": "Noun common singular construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "psalms-33-20-1",
+          "surface": "חִכְּתָ֣ה",
+          "lemma": "חָכָה",
+          "translit": "chiketah",
+          "morph": "Verb Piel Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2442"
+        },
+        {
+          "id": "psalms-33-20-2",
+          "surface": "לַֽיהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-20-3",
+          "surface": "עֶזְרֵ֖נוּ",
+          "lemma": "עֵזֶר",
+          "translit": "`ezerenv",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H5828"
+        },
+        {
+          "id": "psalms-33-20-4",
+          "surface": "וּמָגִנֵּ֣נוּ",
+          "lemma": "מָגֵן",
+          "translit": "vmaginenv",
+          "morph": "Conjunction + Noun common singular construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H4043"
+        },
+        {
+          "id": "psalms-33-20-5",
+          "surface": "הֽוּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:21",
+      "englishText": "For our heart rejoices in him, because we have trusted in his holy name. ",
+      "tokens": [
+        {
+          "id": "psalms-33-21-0",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-33-21-1",
+          "surface": "ב֭וֹ",
+          "lemma": "ב֭וֹ",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "psalms-33-21-2",
+          "surface": "יִשְׂמַ֣ח",
+          "lemma": "שָׂמַח",
+          "translit": "yishemach",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8055"
+        },
+        {
+          "id": "psalms-33-21-3",
+          "surface": "לִבֵּ֑נוּ",
+          "lemma": "לֵב",
+          "translit": "libenv",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "psalms-33-21-4",
+          "surface": "כִּ֤י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-33-21-5",
+          "surface": "בְשֵׁ֖ם",
+          "lemma": "שֵׁם",
+          "translit": "beshem",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "psalms-33-21-6",
+          "surface": "קָדְשׁ֣וֹ",
+          "lemma": "קֹדֶשׁ",
+          "translit": "qadeshvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6944"
+        },
+        {
+          "id": "psalms-33-21-7",
+          "surface": "בָטָֽחְנוּ",
+          "lemma": "בָּטַח",
+          "translit": "batachenv",
+          "morph": "Verb Qal Participle 1st common plural",
+          "glosses": [],
+          "strongs": "H982"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 33:22",
+      "englishText": "Let your loving kindness be on us, Yahweh, since we have hoped in you.   ",
+      "tokens": [
+        {
+          "id": "psalms-33-22-0",
+          "surface": "יְהִֽי",
+          "lemma": "הָיָה",
+          "translit": "yehiy",
+          "morph": "Verb Qal Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "psalms-33-22-1",
+          "surface": "חַסְדְּךָ֣",
+          "lemma": "חֵסֵד",
+          "translit": "chasedeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2617"
+        },
+        {
+          "id": "psalms-33-22-2",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-33-22-3",
+          "surface": "עָלֵ֑ינוּ",
+          "lemma": "עַל",
+          "translit": "`aleynv",
+          "morph": "Preposition + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-33-22-4",
+          "surface": "כַּ֝אֲשֶׁ֗ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "ka'sher",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "psalms-33-22-5",
+          "surface": "יִחַ֥לְנוּ",
+          "lemma": "יָחַל",
+          "translit": "yichalenv",
+          "morph": "Verb Piel Participle 1st common plural",
+          "glosses": [],
+          "strongs": "H3176"
+        },
+        {
+          "id": "psalms-33-22-6",
+          "surface": "לָֽךְ",
+          "lemma": "לָֽךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

@@ -1,1 +1,3824 @@
-{"id":"jeremiah-46","name":"Jeremiah","chapter":46,"verses":[{"ref":"Jeremiah 46:1","englishText":"Yahweh’s word which came to Jeremiah the prophet concerning the nations.","tokens":[{"id":"jeremiah-46-1-0","surface":"אֲשֶׁ֨ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-46-1-1","surface":"הָיָ֧ה","lemma":"הָיָה","translit":"hayah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"jeremiah-46-1-2","surface":"דְבַר","lemma":"דָּבָר","translit":"debar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"jeremiah-46-1-3","surface":"יְהוָ֛ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-46-1-4","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-46-1-5","surface":"יִרְמְיָ֥הוּ","lemma":"יִרְמְיָה","translit":"yiremeyahv","morph":"Noun proper","glosses":[],"strongs":"H3414"},{"id":"jeremiah-46-1-6","surface":"הַנָּבִ֖יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-46-1-7","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-1-8","surface":"הַגּוֹיִֽם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"}],"language":"hebrew"},{"ref":"Jeremiah 46:2","englishText":"Of Egypt: concerning the army of Pharaoh Necoh king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim the son of Josiah, king of Judah.","tokens":[{"id":"jeremiah-46-2-0","surface":"לְמִצְרַ֗יִם","lemma":"מִצְרַיִם","translit":"lemitserayim","morph":"Preposition + Noun proper","glosses":[],"strongs":"H4714"},{"id":"jeremiah-46-2-1","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-2-2","surface":"חֵ֨יל","lemma":"חַיִל","translit":"cheyl","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H2428"},{"id":"jeremiah-46-2-3","surface":"פַּרְעֹ֤ה","lemma":"פַּרְעֹה נְכֹה","translit":"pare`oh","morph":"Noun proper","glosses":[],"strongs":"H6549"},{"id":"jeremiah-46-2-4","surface":"נְכוֹ֙","lemma":"פַּרְעֹה נְכֹה","translit":"nekvo","morph":"Noun proper","glosses":[],"strongs":"H6549"},{"id":"jeremiah-46-2-5","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-46-2-6","surface":"מִצְרַ֔יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"jeremiah-46-2-7","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-46-2-8","surface":"הָיָ֥ה","lemma":"הָיָה","translit":"hayah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"jeremiah-46-2-9","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-2-10","surface":"נְהַר","lemma":"נָהָר","translit":"nehar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5104"},{"id":"jeremiah-46-2-11","surface":"פְּרָ֖ת","lemma":"פְּרָת","translit":"perat","morph":"Noun proper","glosses":[],"strongs":"H6578"},{"id":"jeremiah-46-2-12","surface":"בְּכַרְכְּמִ֑שׁ","lemma":"כַּרְכְּמִישׁ","translit":"bekarekemish","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3751"},{"id":"jeremiah-46-2-13","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-46-2-14","surface":"הִכָּ֗ה","lemma":"נָכָה","translit":"hikah","morph":"Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H5221"},{"id":"jeremiah-46-2-15","surface":"נְבֽוּכַדְרֶאצַּר֙","lemma":"נְבוּכַדְנֶאצַּר","translit":"nebvkadere'tsar","morph":"Noun proper","glosses":[],"strongs":"H5019"},{"id":"jeremiah-46-2-16","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-46-2-17","surface":"בָּבֶ֔ל","lemma":"בָּבֶל","translit":"babel","morph":"Noun proper","glosses":[],"strongs":"H894"},{"id":"jeremiah-46-2-18","surface":"בִּשְׁנַת֙","lemma":"שָׁנֶה","translit":"bishenat","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H8141"},{"id":"jeremiah-46-2-19","surface":"הָֽרְבִיעִ֔ית","lemma":"רְבִיעִי","translit":"harebiy`iyt","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7243"},{"id":"jeremiah-46-2-20","surface":"לִיהוֹיָקִ֥ים","lemma":"יְהוֹיָקִים","translit":"liyhvoyaqiym","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3079"},{"id":"jeremiah-46-2-21","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"jeremiah-46-2-22","surface":"יֹאשִׁיָּ֖הוּ","lemma":"יֹאשִׁיָּה","translit":"yo'shiyahv","morph":"Noun proper","glosses":[],"strongs":"H2977"},{"id":"jeremiah-46-2-23","surface":"מֶ֥לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-46-2-24","surface":"יְהוּדָֽה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"}],"language":"hebrew"},{"ref":"Jeremiah 46:3","englishText":"Prepare the buckler and shield, and draw near to battle!","tokens":[{"id":"jeremiah-46-3-0","surface":"עִרְכ֤וּ","lemma":"עָרַךְ","translit":"`irekv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H6186"},{"id":"jeremiah-46-3-1","surface":"מָגֵן֙","lemma":"מָגֵן","translit":"magen","morph":"Noun common singular absolute","glosses":[],"strongs":"H4043"},{"id":"jeremiah-46-3-2","surface":"וְצִנָּ֔ה","lemma":"צִנָּה","translit":"vetsinah","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H6793"},{"id":"jeremiah-46-3-3","surface":"וּגְשׁ֖וּ","lemma":"נָגַשׁ","translit":"vgeshv","morph":"Conjunction + Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5066"},{"id":"jeremiah-46-3-4","surface":"לַמִּלְחָמָֽה","lemma":"מִלְחָמָה","translit":"lamilechamah","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4421"}],"language":"hebrew"},{"ref":"Jeremiah 46:4","englishText":"Harness the horses, and get up, you horsemen, and stand up with your helmets; furbish the spears, put on the coats of mail.","tokens":[{"id":"jeremiah-46-4-0","surface":"אִסְר֣וּ","lemma":"אָסַר","translit":"'iserv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H631"},{"id":"jeremiah-46-4-1","surface":"הַסּוּסִ֗ים","lemma":"סוּס","translit":"hasvsiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5483"},{"id":"jeremiah-46-4-2","surface":"וַֽעֲלוּ֙","lemma":"עָלָה","translit":"va`lv","morph":"Conjunction + Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5927"},{"id":"jeremiah-46-4-3","surface":"הַפָּ֣רָשִׁ֔ים","lemma":"פָּרָשׁ","translit":"haparashiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H6571"},{"id":"jeremiah-46-4-4","surface":"וְהִֽתְיַצְּב֖וּ","lemma":"יָצַב","translit":"vehiteyatsebv","morph":"Conjunction + Verb Hithpael Weqatal 2nd masculine plural","glosses":[],"strongs":"H3320"},{"id":"jeremiah-46-4-5","surface":"בְּכ֥וֹבָעִ֑ים","lemma":"כּוֹבַע","translit":"bekvoba`iym","morph":"Preposition + Noun common masculine plural absolute","glosses":[],"strongs":"H3553"},{"id":"jeremiah-46-4-6","surface":"מִרְקוּ֙","lemma":"מָרַק","translit":"mireqv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H4838"},{"id":"jeremiah-46-4-7","surface":"הָֽרְמָחִ֔ים","lemma":"רֹמַח","translit":"haremachiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H7420"},{"id":"jeremiah-46-4-8","surface":"לִבְשׁ֖וּ","lemma":"לָבַשׁ","translit":"libeshv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H3847"},{"id":"jeremiah-46-4-9","surface":"הַסִּרְיֹנֹֽת","lemma":"סִרְיֹן","translit":"hasireyonot","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5630"}],"language":"hebrew"},{"ref":"Jeremiah 46:5","englishText":"Why have I seen it? they are dismayed and are turned backward; and their mighty ones are beaten down, and have fled apace, and don’t look back: terror is on every side, says Yahweh.","tokens":[{"id":"jeremiah-46-5-0","surface":"מַדּ֣וּעַ","lemma":"מַדּוּעַ","translit":"madv`a","morph":"Particle","glosses":[],"strongs":"H4069"},{"id":"jeremiah-46-5-1","surface":"רָאִ֗יתִי","lemma":"רָאָה","translit":"ra'iytiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H7200"},{"id":"jeremiah-46-5-2","surface":"הֵ֣מָּה","lemma":"הֵם","translit":"hemah","morph":"Pronoun plural 3rd masculine","glosses":[],"strongs":"H1992"},{"id":"jeremiah-46-5-3","surface":"חַתִּים֮","lemma":"חַת","translit":"chatiym","morph":"Adjective","glosses":[],"strongs":"H2844"},{"id":"jeremiah-46-5-4","surface":"נְסֹגִ֣ים","lemma":"סוּג","translit":"nesogiym","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H5472"},{"id":"jeremiah-46-5-5","surface":"אָחוֹר֒","lemma":"אָחוֹר","translit":"'achvor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H268"},{"id":"jeremiah-46-5-6","surface":"וְגִבּוֹרֵיהֶ֣ם","lemma":"גִּבּוֹר","translit":"vegibvoreyhem","morph":"Conjunction + Adjective + Suffix plural 3rd masculine","glosses":[],"strongs":"H1368"},{"id":"jeremiah-46-5-7","surface":"יֻכַּ֔תּוּ","lemma":"כָּתַת","translit":"yukatv","morph":"Verb Hophal Imperative 3rd masculine plural","glosses":[],"strongs":"H3807"},{"id":"jeremiah-46-5-8","surface":"וּמָנ֥וֹס","lemma":"מָנוֹס","translit":"vmanvos","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H4498"},{"id":"jeremiah-46-5-9","surface":"נָ֖סוּ","lemma":"נוּס","translit":"nasv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H5127"},{"id":"jeremiah-46-5-10","surface":"וְלֹ֣א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"jeremiah-46-5-11","surface":"הִפְנ֑וּ","lemma":"פָּנָה","translit":"hipenv","morph":"Verb Hiphil Participle 3rd common plural","glosses":[],"strongs":"H6437"},{"id":"jeremiah-46-5-12","surface":"מָג֥וֹר","lemma":"מָגוֹר","translit":"magvor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4032"},{"id":"jeremiah-46-5-13","surface":"מִסָּבִ֖יב","lemma":"סָבִיב","translit":"misabiyb","morph":"Preposition + Noun common singular absolute","glosses":[],"strongs":"H5439"},{"id":"jeremiah-46-5-14","surface":"נְאֻם","lemma":"נְאֻם","translit":"ne'um","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5002"},{"id":"jeremiah-46-5-15","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Jeremiah 46:6","englishText":"Don’t let the swift flee away, nor the mighty man escape; in the north by the river Euphrates have they stumbled and fallen.","tokens":[{"id":"jeremiah-46-6-0","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"jeremiah-46-6-1","surface":"יָנ֣וּס","lemma":"נוּס","translit":"yanvs","morph":"Verb Qal Jussive 3rd masculine singular","glosses":[],"strongs":"H5127"},{"id":"jeremiah-46-6-2","surface":"הַקַּ֔ל","lemma":"קַל","translit":"haqal","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7031"},{"id":"jeremiah-46-6-3","surface":"וְאַל","lemma":"אַל","translit":"ve'al","morph":"Conjunction + Particle","glosses":[],"strongs":"H408"},{"id":"jeremiah-46-6-4","surface":"יִמָּלֵ֖ט","lemma":"מָלַט","translit":"yimalet","morph":"Verb Niphal Jussive 3rd masculine singular","glosses":[],"strongs":"H4422"},{"id":"jeremiah-46-6-5","surface":"הַגִּבּ֑וֹר","lemma":"גִּבּוֹר","translit":"hagibvor","morph":"Particle dual + Adjective","glosses":[],"strongs":"H1368"},{"id":"jeremiah-46-6-6","surface":"צָפ֨וֹנָה֙","lemma":"צָפוֹן","translit":"tsapvonah","morph":"Noun common feminine singular absolute + Suffix dual","glosses":[],"strongs":"H6828"},{"id":"jeremiah-46-6-7","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-6-8","surface":"יַ֣ד","lemma":"יָד","translit":"yad","morph":"Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"jeremiah-46-6-9","surface":"נְהַר","lemma":"נָהָר","translit":"nehar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5104"},{"id":"jeremiah-46-6-10","surface":"פְּרָ֔ת","lemma":"פְּרָת","translit":"perat","morph":"Noun proper","glosses":[],"strongs":"H6578"},{"id":"jeremiah-46-6-11","surface":"כָּשְׁל֖וּ","lemma":"כָּשַׁל","translit":"kashelv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H3782"},{"id":"jeremiah-46-6-12","surface":"וְנָפָֽלוּ","lemma":"נָפַל","translit":"venapalv","morph":"Conjunction + Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H5307"}],"language":"hebrew"},{"ref":"Jeremiah 46:7","englishText":"Who is this who rises up like the Nile, whose waters toss themselves like the rivers?","tokens":[{"id":"jeremiah-46-7-0","surface":"מִי","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"jeremiah-46-7-1","surface":"זֶ֖ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"jeremiah-46-7-2","surface":"כַּיְאֹ֣ר","lemma":"יְאֹר","translit":"kaye'or","morph":"Preposition dual + Noun proper","glosses":[],"strongs":"H2975"},{"id":"jeremiah-46-7-3","surface":"יַֽעֲלֶ֑ה","lemma":"עָלָה","translit":"ya`leh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"jeremiah-46-7-4","surface":"כַּנְּהָר֕וֹת","lemma":"נָהָר","translit":"kaneharvot","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5104"},{"id":"jeremiah-46-7-5","surface":"יִֽתְגָּעֲשׁ֖וּ","lemma":"גָּעַשׁ","translit":"yitega`shv","morph":"Verb Hithpael Imperative 3rd masculine plural","glosses":[],"strongs":"H1607"},{"id":"jeremiah-46-7-6","surface":"מֵימָֽיו","lemma":"מַיִם","translit":"meymayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H4325"}],"language":"hebrew"},{"ref":"Jeremiah 46:8","englishText":"Egypt rises up like the Nile, and his waters toss themselves like the rivers: and he says, I will rise up, I will cover the earth; I will destroy cities and its inhabitants.","tokens":[{"id":"jeremiah-46-8-0","surface":"מִצְרַ֨יִם֙","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"jeremiah-46-8-1","surface":"כַּיְאֹ֣ר","lemma":"יְאֹר","translit":"kaye'or","morph":"Preposition dual + Noun proper","glosses":[],"strongs":"H2975"},{"id":"jeremiah-46-8-2","surface":"יַֽעֲלֶ֔ה","lemma":"עָלָה","translit":"ya`leh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"jeremiah-46-8-3","surface":"וְכַנְּהָר֖וֹת","lemma":"נָהָר","translit":"vekaneharvot","morph":"Conjunction + Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5104"},{"id":"jeremiah-46-8-4","surface":"יִתְגֹּ֣עֲשׁוּ","lemma":"גָּעַשׁ","translit":"yitego`shv","morph":"Verb Hithpolel Imperative 3rd masculine plural","glosses":[],"strongs":"H1607"},{"id":"jeremiah-46-8-5","surface":"מָ֑יִם","lemma":"מַיִם","translit":"mayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4325"},{"id":"jeremiah-46-8-6","surface":"וַיֹּ֗אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-46-8-7","surface":"אַֽעֲלֶה֙","lemma":"עָלָה","translit":"'a`leh","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H5927"},{"id":"jeremiah-46-8-8","surface":"אֲכַסֶּה","lemma":"כָּסָה","translit":"'kaseh","morph":"Verb Piel Imperative 1st common singular","glosses":[],"strongs":"H3680"},{"id":"jeremiah-46-8-9","surface":"אֶ֔רֶץ","lemma":"אֶרֶץ","translit":"'erets","morph":"Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"jeremiah-46-8-10","surface":"אֹבִ֥ידָה","lemma":"אָבַד","translit":"'obiydah","morph":"Verb Hiphil Cohortative 1st common singular","glosses":[],"strongs":"H6"},{"id":"jeremiah-46-8-11","surface":"עִ֖יר","lemma":"עִיר","translit":"`iyr","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H5892"},{"id":"jeremiah-46-8-12","surface":"וְיֹ֥שְׁבֵי","lemma":"יָשַׁב","translit":"veyoshebey","morph":"Conjunction + Verb Qal Passive Participle","glosses":[],"strongs":"H3427"},{"id":"jeremiah-46-8-13","surface":"בָֽהּ","lemma":"בָֽהּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Jeremiah 46:9","englishText":"Go up, you horses; and rage, you chariots; and let the mighty men go out: Cush and Put, who handle the shield; and the Ludim, who handle and bend the bow.","tokens":[{"id":"jeremiah-46-9-0","surface":"עֲל֤וּ","lemma":"עָלָה","translit":"`lv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5927"},{"id":"jeremiah-46-9-1","surface":"הַסּוּסִים֙","lemma":"סוּס","translit":"hasvsiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5483"},{"id":"jeremiah-46-9-2","surface":"וְהִתְהֹלְל֣וּ","lemma":"הָלַל","translit":"vehiteholelv","morph":"Conjunction + Verb Hithpolel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"jeremiah-46-9-3","surface":"הָרֶ֔כֶב","lemma":"רֶכֶב","translit":"harekeb","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7393"},{"id":"jeremiah-46-9-4","surface":"וְיֵצְא֖וּ","lemma":"יָצָא","translit":"veyetse'v","morph":"Conjunction + Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H3318"},{"id":"jeremiah-46-9-5","surface":"הַגִּבּוֹרִ֑ים","lemma":"גִּבּוֹר","translit":"hagibvoriym","morph":"Particle dual + Adjective","glosses":[],"strongs":"H1368"},{"id":"jeremiah-46-9-6","surface":"כּ֤וּשׁ","lemma":"כּוּשׁ","translit":"kvsh","morph":"Noun proper","glosses":[],"strongs":"H3568"},{"id":"jeremiah-46-9-7","surface":"וּפוּט֙","lemma":"פּוּט","translit":"vpvt","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H6316"},{"id":"jeremiah-46-9-8","surface":"תֹּפְשֵׂ֣י","lemma":"תָּפַשׂ","translit":"topeshey","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H8610"},{"id":"jeremiah-46-9-9","surface":"מָגֵ֔ן","lemma":"מָגֵן","translit":"magen","morph":"Noun common singular absolute","glosses":[],"strongs":"H4043"},{"id":"jeremiah-46-9-10","surface":"וְלוּדִ֕ים","lemma":"לוּדִי","translit":"velvdiym","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3866"},{"id":"jeremiah-46-9-11","surface":"תֹּפְשֵׂ֖י","lemma":"תָּפַשׂ","translit":"topeshey","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H8610"},{"id":"jeremiah-46-9-12","surface":"דֹּ֥רְכֵי","lemma":"דָּרַךְ","translit":"dorekey","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H1869"},{"id":"jeremiah-46-9-13","surface":"קָֽשֶׁת","lemma":"קֶשֶׁת","translit":"qashet","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7198"}],"language":"hebrew"},{"ref":"Jeremiah 46:10","englishText":"For that day is of the Lord, Yahweh of Armies, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour and be satiate, and shall drink its fill of their blood; for the Lord, Yahweh of Armies, has a sacrifice in the north country by the river Euphrates.","tokens":[{"id":"jeremiah-46-10-0","surface":"וְֽהַיּ֨וֹם","lemma":"יוֹם","translit":"vehayvom","morph":"Conjunction + Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"jeremiah-46-10-1","surface":"הַה֜וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"jeremiah-46-10-2","surface":"לַאדֹנָ֧י","lemma":"אֲדֹנָי","translit":"la'donay","morph":"Preposition + Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"jeremiah-46-10-3","surface":"יְהוִ֣ה","lemma":"יְהֹוִה","translit":"yehvih","morph":"Noun proper","glosses":[],"strongs":"H3069"},{"id":"jeremiah-46-10-4","surface":"צְבָא֗וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"jeremiah-46-10-5","surface":"י֤וֹם","lemma":"יוֹם","translit":"yvom","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3117"},{"id":"jeremiah-46-10-6","surface":"נְקָמָה֙","lemma":"נְקָמָה","translit":"neqamah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H5360"},{"id":"jeremiah-46-10-7","surface":"לְהִנָּקֵ֣ם","lemma":"נָקַם","translit":"lehinaqem","morph":"Preposition + Verb Niphal Infinitive Construct","glosses":[],"strongs":"H5358"},{"id":"jeremiah-46-10-8","surface":"מִצָּרָ֔יו","lemma":"צַר","translit":"mitsarayv","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6862"},{"id":"jeremiah-46-10-9","surface":"וְאָכְלָ֥ה","lemma":"אָכַל","translit":"ve'akelah","morph":"Conjunction + Verb Qal Perfect 3rd feminine singular","glosses":[],"strongs":"H398"},{"id":"jeremiah-46-10-10","surface":"חֶ֨רֶב֙","lemma":"חֶרֶב","translit":"chereb","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2719"},{"id":"jeremiah-46-10-11","surface":"וְשָׂ֣בְעָ֔ה","lemma":"שָׂבַע","translit":"veshabe`ah","morph":"Conjunction + Verb Qal Perfect 3rd feminine singular","glosses":[],"strongs":"H7646"},{"id":"jeremiah-46-10-12","surface":"וְרָוְתָ֖ה","lemma":"רָוָה","translit":"veravetah","morph":"Conjunction + Verb Qal Perfect 3rd feminine singular","glosses":[],"strongs":"H7301"},{"id":"jeremiah-46-10-13","surface":"מִדָּמָ֑ם","lemma":"דָּם","translit":"midamam","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H1818"},{"id":"jeremiah-46-10-14","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-10-15","surface":"זֶ֠בַח","lemma":"זֶבַח","translit":"zebach","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2077"},{"id":"jeremiah-46-10-16","surface":"לַאדֹנָ֨י","lemma":"אֲדֹנָי","translit":"la'donay","morph":"Preposition + Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"jeremiah-46-10-17","surface":"יְהוִ֧ה","lemma":"יְהֹוִה","translit":"yehvih","morph":"Noun proper","glosses":[],"strongs":"H3069"},{"id":"jeremiah-46-10-18","surface":"צְבָא֛וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"jeremiah-46-10-19","surface":"בְּאֶ֥רֶץ","lemma":"אֶרֶץ","translit":"be'erets","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"jeremiah-46-10-20","surface":"צָפ֖וֹן","lemma":"צָפוֹן","translit":"tsapvon","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H6828"},{"id":"jeremiah-46-10-21","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-46-10-22","surface":"נְהַר","lemma":"נָהָר","translit":"nehar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5104"},{"id":"jeremiah-46-10-23","surface":"פְּרָֽת","lemma":"פְּרָת","translit":"perat","morph":"Noun proper","glosses":[],"strongs":"H6578"}],"language":"hebrew"},{"ref":"Jeremiah 46:11","englishText":"Go up into Gilead, and take balm, virgin daughter of Egypt: in vain do you use many medicines; there is no healing for you.","tokens":[{"id":"jeremiah-46-11-0","surface":"עֲלִ֤י","lemma":"עָלָה","translit":"`liy","morph":"Verb Qal Weqatal 2nd feminine singular","glosses":[],"strongs":"H5927"},{"id":"jeremiah-46-11-1","surface":"גִלְעָד֙","lemma":"גִּלְעָד","translit":"gile`ad","morph":"Noun proper","glosses":[],"strongs":"H1568"},{"id":"jeremiah-46-11-2","surface":"וּקְחִ֣י","lemma":"לָקַח","translit":"vqechiy","morph":"Conjunction + Verb Qal Weqatal 2nd feminine singular","glosses":[],"strongs":"H3947"},{"id":"jeremiah-46-11-3","surface":"צֳרִ֔י","lemma":"צְרִי","translit":"tsriy","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6875"},{"id":"jeremiah-46-11-4","surface":"בְּתוּלַ֖ת","lemma":"בְּתוּלָה","translit":"betvlat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1330"},{"id":"jeremiah-46-11-5","surface":"בַּת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"jeremiah-46-11-6","surface":"מִצְרָ֑יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"jeremiah-46-11-7","surface":"לַשָּׁוְא֙","lemma":"שָׁוְא","translit":"lashave'","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7723"},{"id":"jeremiah-46-11-8","surface":"הרביתי","lemma":"רָבָה","translit":"hrbyty","morph":"Verb Hiphil Participle 1st common singular","glosses":[],"strongs":"H7235"},{"id":"jeremiah-46-11-9","surface":"הִרְבֵּ֣ית","lemma":"רָבָה","translit":"hirebeyt","morph":"Verb Hiphil Participle 2nd feminine singular","glosses":[],"strongs":"H7235"},{"id":"jeremiah-46-11-10","surface":"רְפֻא֔וֹת","lemma":"רְפֻאָה","translit":"repu'vot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H7499"},{"id":"jeremiah-46-11-11","surface":"תְּעָלָ֖ה","lemma":"תְּעָלָה","translit":"te`alah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8585"},{"id":"jeremiah-46-11-12","surface":"אֵ֥ין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"jeremiah-46-11-13","surface":"לָֽךְ","lemma":"לָֽךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Jeremiah 46:12","englishText":"The nations have heard of your shame, and the earth is full of your cry; for the mighty man has stumbled against the mighty, they are fallen both of them together.","tokens":[{"id":"jeremiah-46-12-0","surface":"שָׁמְע֤וּ","lemma":"שָׁמַע","translit":"shame`v","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H8085"},{"id":"jeremiah-46-12-1","surface":"גוֹיִם֙","lemma":"גּוֹי","translit":"gvoyim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"jeremiah-46-12-2","surface":"קְלוֹנֵ֔ךְ","lemma":"קָלוֹן","translit":"qelvoneke","morph":"Noun common masculine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H7036"},{"id":"jeremiah-46-12-3","surface":"וְצִוְחָתֵ֖ךְ","lemma":"צְוָחָה","translit":"vetsivechateke","morph":"Conjunction + Noun common feminine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H6682"},{"id":"jeremiah-46-12-4","surface":"מָלְאָ֣ה","lemma":"מָלֵא","translit":"male'ah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H4390"},{"id":"jeremiah-46-12-5","surface":"הָאָ֑רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"jeremiah-46-12-6","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-12-7","surface":"גִבּ֤וֹר","lemma":"גִּבּוֹר","translit":"gibvor","morph":"Adjective","glosses":[],"strongs":"H1368"},{"id":"jeremiah-46-12-8","surface":"בְּגִבּוֹר֙","lemma":"גִּבּוֹר","translit":"begibvor","morph":"Preposition + Adjective","glosses":[],"strongs":"H1368"},{"id":"jeremiah-46-12-9","surface":"כָּשָׁ֔לוּ","lemma":"כָּשַׁל","translit":"kashalv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H3782"},{"id":"jeremiah-46-12-10","surface":"יַחְדָּ֖יו","lemma":"יַחַד","translit":"yachedayv","morph":"Adverb","glosses":[],"strongs":"H3162"},{"id":"jeremiah-46-12-11","surface":"נָפְל֥וּ","lemma":"נָפַל","translit":"napelv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H5307"},{"id":"jeremiah-46-12-12","surface":"שְׁנֵיהֶֽם","lemma":"שְׁנַיִם","translit":"sheneyhem","morph":"Adjective common masculine dual construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H8147"}],"language":"hebrew"},{"ref":"Jeremiah 46:13","englishText":"The word that Yahweh spoke to Jeremiah the prophet, how that Nebuchadnezzar king of Babylon should come and strike the land of Egypt.","tokens":[{"id":"jeremiah-46-13-0","surface":"הַדָּבָר֙","lemma":"דָּבָר","translit":"hadabar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1697"},{"id":"jeremiah-46-13-1","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-46-13-2","surface":"דִּבֶּ֣ר","lemma":"דָבַר","translit":"diber","morph":"Verb Piel Participle 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"jeremiah-46-13-3","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-46-13-4","surface":"אֶֽל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-46-13-5","surface":"יִרְמְיָ֖הוּ","lemma":"יִרְמְיָה","translit":"yiremeyahv","morph":"Noun proper","glosses":[],"strongs":"H3414"},{"id":"jeremiah-46-13-6","surface":"הַנָּבִ֑יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"jeremiah-46-13-7","surface":"לָב֗וֹא","lemma":"בּוֹא","translit":"labvo'","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H935"},{"id":"jeremiah-46-13-8","surface":"נְבֽוּכַדְרֶאצַּר֙","lemma":"נְבוּכַדְנֶאצַּר","translit":"nebvkadere'tsar","morph":"Noun proper","glosses":[],"strongs":"H5019"},{"id":"jeremiah-46-13-9","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-46-13-10","surface":"בָּבֶ֔ל","lemma":"בָּבֶל","translit":"babel","morph":"Noun proper","glosses":[],"strongs":"H894"},{"id":"jeremiah-46-13-11","surface":"לְהַכּ֖וֹת","lemma":"נָכָה","translit":"lehakvot","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H5221"},{"id":"jeremiah-46-13-12","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-46-13-13","surface":"אֶ֥רֶץ","lemma":"אֶרֶץ","translit":"'erets","morph":"Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"jeremiah-46-13-14","surface":"מִצְרָֽיִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"}],"language":"hebrew"},{"ref":"Jeremiah 46:14","englishText":"Declare in Egypt, and publish in Migdol, and publish in Memphis and in Tahpanhes: say, Stand up, and prepare; for the sword has devoured around you.","tokens":[{"id":"jeremiah-46-14-0","surface":"הַגִּ֤ידוּ","lemma":"נָגַד","translit":"hagiydv","morph":"Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H5046"},{"id":"jeremiah-46-14-1","surface":"בְמִצְרַ֨יִם֙","lemma":"מִצְרַיִם","translit":"bemitserayim","morph":"Preposition + Noun proper","glosses":[],"strongs":"H4714"},{"id":"jeremiah-46-14-2","surface":"וְהַשְׁמִ֣יעוּ","lemma":"שָׁמַע","translit":"vehashemiy`v","morph":"Conjunction + Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H8085"},{"id":"jeremiah-46-14-3","surface":"בְמִגְדּ֔וֹל","lemma":"מִגְדּוֹל","translit":"bemigedvol","morph":"Preposition + Noun proper","glosses":[],"strongs":"H4024"},{"id":"jeremiah-46-14-4","surface":"וְהַשְׁמִ֥יעוּ","lemma":"שָׁמַע","translit":"vehashemiy`v","morph":"Conjunction + Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H8085"},{"id":"jeremiah-46-14-5","surface":"בְנֹ֖ף","lemma":"נֹף","translit":"benop","morph":"Preposition + Noun proper","glosses":[],"strongs":"H5297"},{"id":"jeremiah-46-14-6","surface":"וּבְתַחְפַּנְחֵ֑ס","lemma":"תַּחְפַּנְחֵס","translit":"vbetachepaneches","morph":"Conjunction + Preposition + Noun proper","glosses":[],"strongs":"H8471"},{"id":"jeremiah-46-14-7","surface":"אִמְר֗וּ","lemma":"אָמַר","translit":"'imerv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H559"},{"id":"jeremiah-46-14-8","surface":"הִתְיַצֵּב֙","lemma":"יָצַב","translit":"hiteyatseb","morph":"Verb Hithpael Weqatal 2nd masculine singular","glosses":[],"strongs":"H3320"},{"id":"jeremiah-46-14-9","surface":"וְהָכֵ֣ן","lemma":"כּוּן","translit":"vehaken","morph":"Conjunction + Verb Hiphil Weqatal 2nd masculine singular","glosses":[],"strongs":"H3559"},{"id":"jeremiah-46-14-10","surface":"לָ֔ךְ","lemma":"לָ֔ךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]},{"id":"jeremiah-46-14-11","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-14-12","surface":"אָכְלָ֥ה","lemma":"אָכַל","translit":"'akelah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H398"},{"id":"jeremiah-46-14-13","surface":"חֶ֖רֶב","lemma":"חֶרֶב","translit":"chereb","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2719"},{"id":"jeremiah-46-14-14","surface":"סְבִיבֶֽיךָ","lemma":"סָבִיב","translit":"sebiybeyka","morph":"Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5439"}],"language":"hebrew"},{"ref":"Jeremiah 46:15","englishText":"Why are your strong ones swept away? they didn’t stand, because Yahweh pushed them.","tokens":[{"id":"jeremiah-46-15-0","surface":"מַדּ֖וּעַ","lemma":"מַדּוּעַ","translit":"madv`a","morph":"Particle","glosses":[],"strongs":"H4069"},{"id":"jeremiah-46-15-1","surface":"נִסְחַ֣ף","lemma":"סָחַף","translit":"nisechap","morph":"Verb Niphal Participle 3rd masculine singular","glosses":[],"strongs":"H5502"},{"id":"jeremiah-46-15-2","surface":"אַבִּירֶ֑יךָ","lemma":"אַבִּיר","translit":"'abiyreyka","morph":"Adjective + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H47"},{"id":"jeremiah-46-15-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"jeremiah-46-15-4","surface":"עָמַ֔ד","lemma":"עָמַד","translit":"`amad","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5975"},{"id":"jeremiah-46-15-5","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-15-6","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-46-15-7","surface":"הֲדָפֽוֹ","lemma":"הָדַף","translit":"hdapvo","morph":"Verb Qal Participle 3rd masculine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1920"}],"language":"hebrew"},{"ref":"Jeremiah 46:16","englishText":"He made many to stumble, yes, they fell one on another: and they said, Arise, and let us go again to our own people, and to the land of our birth, from the oppressing sword.","tokens":[{"id":"jeremiah-46-16-0","surface":"הִרְבָּ֖ה","lemma":"רָבָה","translit":"hirebah","morph":"Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H7235"},{"id":"jeremiah-46-16-1","surface":"כּוֹשֵׁ֑ל","lemma":"כָּשַׁל","translit":"kvoshel","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3782"},{"id":"jeremiah-46-16-2","surface":"גַּם","lemma":"גַּם","translit":"gam","morph":"Particle absolute","glosses":[],"strongs":"H1571"},{"id":"jeremiah-46-16-3","surface":"נָפַ֞ל","lemma":"נָפַל","translit":"napal","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5307"},{"id":"jeremiah-46-16-4","surface":"אִ֣ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"jeremiah-46-16-5","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-46-16-6","surface":"רֵעֵ֗הוּ","lemma":"רֵעַ","translit":"re`ehv","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7453"},{"id":"jeremiah-46-16-7","surface":"וַיֹּֽאמְרוּ֙","lemma":"אָמַר","translit":"vayo'merv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H559"},{"id":"jeremiah-46-16-8","surface":"ק֣וּמָה","lemma":"קוּם","translit":"qvmah","morph":"Verb Qal Weqatal 2nd masculine singular + Suffix","glosses":[],"strongs":"H6965"},{"id":"jeremiah-46-16-9","surface":"וְנָשֻׁ֣בָה","lemma":"שׁוּב","translit":"venashubah","morph":"Conjunction + Verb Qal Cohortative 1st common plural","glosses":[],"strongs":"H7725"},{"id":"jeremiah-46-16-10","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-46-16-11","surface":"עַמֵּ֗נוּ","lemma":"עַם","translit":"`amenv","morph":"Noun common masculine singular construct + Suffix plural 1st common","glosses":[],"strongs":"H5971"},{"id":"jeremiah-46-16-12","surface":"וְאֶל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-46-16-13","surface":"אֶ֨רֶץ֙","lemma":"אֶרֶץ","translit":"'erets","morph":"Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"jeremiah-46-16-14","surface":"מֽוֹלַדְתֵּ֔נוּ","lemma":"מוֹלֶדֶת","translit":"mvoladetenv","morph":"Noun common feminine singular construct + Suffix plural 1st common","glosses":[],"strongs":"H4138"},{"id":"jeremiah-46-16-15","surface":"מִפְּנֵ֖י","lemma":"פָּנִים","translit":"mipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"jeremiah-46-16-16","surface":"חֶ֥רֶב","lemma":"חֶרֶב","translit":"chereb","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H2719"},{"id":"jeremiah-46-16-17","surface":"הַיּוֹנָֽה","lemma":"יָנָה","translit":"hayvonah","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H3238"}],"language":"hebrew"},{"ref":"Jeremiah 46:17","englishText":"They cried there, Pharaoh king of Egypt is but a noise; he has let the appointed time pass by.","tokens":[{"id":"jeremiah-46-17-0","surface":"קָרְא֖וּ","lemma":"קָרָא","translit":"qare'v","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H7121"},{"id":"jeremiah-46-17-1","surface":"שָׁ֑ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"jeremiah-46-17-2","surface":"פַּרְעֹ֤ה","lemma":"פַּרְעֹה","translit":"pare`oh","morph":"Noun proper","glosses":[],"strongs":"H6547"},{"id":"jeremiah-46-17-3","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-46-17-4","surface":"מִצְרַ֨יִם֙","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"jeremiah-46-17-5","surface":"שָׁא֔וֹן","lemma":"שָׁאוֹן","translit":"sha'von","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7588"},{"id":"jeremiah-46-17-6","surface":"הֶעֱבִ֖יר","lemma":"עָבַר","translit":"he`biyr","morph":"Verb Hiphil Participle 3rd masculine singular","glosses":[],"strongs":"H5674"},{"id":"jeremiah-46-17-7","surface":"הַמּוֹעֵֽד","lemma":"מוֹעֵד","translit":"hamvo`ed","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4150"}],"language":"hebrew"},{"ref":"Jeremiah 46:18","englishText":"As I live, says the King, whose name is Yahweh of Armies, surely like Tabor among the mountains, and like Carmel by the sea, so shall he come.","tokens":[{"id":"jeremiah-46-18-0","surface":"חַי","lemma":"חַי","translit":"chay","morph":"Adjective","glosses":[],"strongs":"H2416"},{"id":"jeremiah-46-18-1","surface":"אָ֨נִי֙","lemma":"אֲנִי","translit":"'aniy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"jeremiah-46-18-2","surface":"נְאֻם","lemma":"נְאֻם","translit":"ne'um","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5002"},{"id":"jeremiah-46-18-3","surface":"הַמֶּ֔לֶךְ","lemma":"מֶלֶךְ","translit":"hameleke","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4428"},{"id":"jeremiah-46-18-4","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-46-18-5","surface":"צְבָא֖וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"jeremiah-46-18-6","surface":"שְׁמ֑וֹ","lemma":"שֵׁם","translit":"shemvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H8034"},{"id":"jeremiah-46-18-7","surface":"כִּ֚י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-18-8","surface":"כְּתָב֣וֹר","lemma":"תָּבוֹר","translit":"ketabvor","morph":"Preposition + Noun proper","glosses":[],"strongs":"H8396"},{"id":"jeremiah-46-18-9","surface":"בֶּֽהָרִ֔ים","lemma":"הַר","translit":"behariym","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H2022"},{"id":"jeremiah-46-18-10","surface":"וּכְכַרְמֶ֖ל","lemma":"כַּרְמֶל","translit":"vkekaremel","morph":"Conjunction + Preposition + Noun proper","glosses":[],"strongs":"H3760"},{"id":"jeremiah-46-18-11","surface":"בַּיָּ֥ם","lemma":"יָם","translit":"bayam","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3220"},{"id":"jeremiah-46-18-12","surface":"יָבֽוֹא","lemma":"בּוֹא","translit":"yabvo'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H935"}],"language":"hebrew"},{"ref":"Jeremiah 46:19","englishText":"You daughter who dwells in Egypt, furnish yourself to go into captivity; for Memphis shall become a desolation, and shall be burnt up, without inhabitant.","tokens":[{"id":"jeremiah-46-19-0","surface":"כְּלֵ֤י","lemma":"כְּלִי","translit":"keley","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H3627"},{"id":"jeremiah-46-19-1","surface":"גוֹלָה֙","lemma":"גּוֹלָה","translit":"gvolah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H1473"},{"id":"jeremiah-46-19-2","surface":"עֲשִׂ֣י","lemma":"עָשָׂה","translit":"`shiy","morph":"Verb Qal Weqatal 2nd feminine singular","glosses":[],"strongs":"H6213"},{"id":"jeremiah-46-19-3","surface":"לָ֔ךְ","lemma":"לָ֔ךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]},{"id":"jeremiah-46-19-4","surface":"יוֹשֶׁ֖בֶת","lemma":"יָשַׁב","translit":"yvoshebet","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3427"},{"id":"jeremiah-46-19-5","surface":"בַּת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"jeremiah-46-19-6","surface":"מִצְרָ֑יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"jeremiah-46-19-7","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-19-8","surface":"נֹף֙","lemma":"נֹף","translit":"nop","morph":"Noun proper","glosses":[],"strongs":"H5297"},{"id":"jeremiah-46-19-9","surface":"לְשַׁמָּ֣ה","lemma":"שַׁמָּה","translit":"leshamah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H8047"},{"id":"jeremiah-46-19-10","surface":"תִֽהְיֶ֔ה","lemma":"הָיָה","translit":"tiheyeh","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H1961"},{"id":"jeremiah-46-19-11","surface":"וְנִצְּתָ֖ה","lemma":"יָצַת","translit":"venitsetah","morph":"Conjunction + Verb Niphal Perfect 3rd feminine singular","glosses":[],"strongs":"H3341"},{"id":"jeremiah-46-19-12","surface":"מֵאֵ֥ין","lemma":"אַיִן","translit":"me'eyn","morph":"Preposition + Particle","glosses":[],"strongs":"H369"},{"id":"jeremiah-46-19-13","surface":"יוֹשֵֽׁב","lemma":"יָשַׁב","translit":"yvosheb","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3427"}],"language":"hebrew"},{"ref":"Jeremiah 46:20","englishText":"Egypt is a very beautiful heifer; but destruction out of the north has come, it has come.","tokens":[{"id":"jeremiah-46-20-0","surface":"עֶגְלָ֥ה","lemma":"עֶגְלָה","translit":"`egelah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H5697"},{"id":"jeremiah-46-20-1","surface":"יְפֵֽה","lemma":"יְפֵה־פִיָּה","translit":"yepeh","morph":"Adjective","glosses":[],"strongs":"H3304"},{"id":"jeremiah-46-20-2","surface":"פִיָּ֖ה","lemma":"יְפֵה־פִיָּה","translit":"piyah","morph":"Adjective","glosses":[],"strongs":"H3304"},{"id":"jeremiah-46-20-3","surface":"מִצְרָ֑יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"jeremiah-46-20-4","surface":"קֶ֥רֶץ","lemma":"קֶרֶץ","translit":"qerets","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7171"},{"id":"jeremiah-46-20-5","surface":"מִצָּפ֖וֹן","lemma":"צָפוֹן","translit":"mitsapvon","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H6828"},{"id":"jeremiah-46-20-6","surface":"בָּ֥א","lemma":"בּוֹא","translit":"ba'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"jeremiah-46-20-7","surface":"בָֽא","lemma":"בּוֹא","translit":"ba'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H935"}],"language":"hebrew"},{"ref":"Jeremiah 46:21","englishText":"Also her hired men in the midst of her are like calves of the stall; for they also are turned back, they are fled away together, they didn’t stand: for the day of their calamity has come on them, the time of their visitation.","tokens":[{"id":"jeremiah-46-21-0","surface":"גַּם","lemma":"גַּם","translit":"gam","morph":"Particle absolute","glosses":[],"strongs":"H1571"},{"id":"jeremiah-46-21-1","surface":"שְׂכִרֶ֤יהָ","lemma":"שָׂכִיר","translit":"shekireyha","morph":"Adjective + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H7916"},{"id":"jeremiah-46-21-2","surface":"בְקִרְבָּהּ֙","lemma":"קֶרֶב","translit":"beqirebah","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H7130"},{"id":"jeremiah-46-21-3","surface":"כְּעֶגְלֵ֣י","lemma":"עֵגֶל","translit":"ke`egeley","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H5695"},{"id":"jeremiah-46-21-4","surface":"מַרְבֵּ֔ק","lemma":"מַרְבֵּק","translit":"marebeq","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4770"},{"id":"jeremiah-46-21-5","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-21-6","surface":"גַם","lemma":"גַּם","translit":"gam","morph":"Adverb","glosses":[],"strongs":"H1571"},{"id":"jeremiah-46-21-7","surface":"הֵ֧מָּה","lemma":"הֵם","translit":"hemah","morph":"Pronoun plural 3rd masculine","glosses":[],"strongs":"H1992"},{"id":"jeremiah-46-21-8","surface":"הִפְנ֛וּ","lemma":"פָּנָה","translit":"hipenv","morph":"Verb Hiphil Participle 3rd common plural","glosses":[],"strongs":"H6437"},{"id":"jeremiah-46-21-9","surface":"נָ֥סוּ","lemma":"נוּס","translit":"nasv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H5127"},{"id":"jeremiah-46-21-10","surface":"יַחְדָּ֖יו","lemma":"יַחַד","translit":"yachedayv","morph":"Adverb","glosses":[],"strongs":"H3162"},{"id":"jeremiah-46-21-11","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"jeremiah-46-21-12","surface":"עָמָ֑דוּ","lemma":"עָמַד","translit":"`amadv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H5975"},{"id":"jeremiah-46-21-13","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-21-14","surface":"י֥וֹם","lemma":"יוֹם","translit":"yvom","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3117"},{"id":"jeremiah-46-21-15","surface":"אֵידָ֛ם","lemma":"אֵיד","translit":"'eydam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H343"},{"id":"jeremiah-46-21-16","surface":"בָּ֥א","lemma":"בּוֹא","translit":"ba'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"jeremiah-46-21-17","surface":"עֲלֵיהֶ֖ם","lemma":"עַל","translit":"`leyhem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-21-18","surface":"עֵ֥ת","lemma":"עֵת","translit":"`et","morph":"Noun common singular construct","glosses":[],"strongs":"H6256"},{"id":"jeremiah-46-21-19","surface":"פְּקֻדָּתָֽם","lemma":"פְּקֻדָּה","translit":"pequdatam","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H6486"}],"language":"hebrew"},{"ref":"Jeremiah 46:22","englishText":"The sound of it shall go like the serpent; for they shall march with an army, and come against her with axes, as wood cutters.","tokens":[{"id":"jeremiah-46-22-0","surface":"קוֹלָ֖הּ","lemma":"קוֹל","translit":"qvolah","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6963"},{"id":"jeremiah-46-22-1","surface":"כַּנָּחָ֣שׁ","lemma":"נָחָשׁ","translit":"kanachash","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5175"},{"id":"jeremiah-46-22-2","surface":"יֵלֵ֑ךְ","lemma":"יָלַךְ","translit":"yeleke","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H3212"},{"id":"jeremiah-46-22-3","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-22-4","surface":"בְחַ֣יִל","lemma":"חַיִל","translit":"bechayil","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H2428"},{"id":"jeremiah-46-22-5","surface":"יֵלֵ֔כוּ","lemma":"יָלַךְ","translit":"yelekv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H3212"},{"id":"jeremiah-46-22-6","surface":"וּבְקַרְדֻּמּוֹת֙","lemma":"קַרְדֹּם","translit":"vbeqaredumvot","morph":"Conjunction + Preposition + Noun common plural absolute","glosses":[],"strongs":"H7134"},{"id":"jeremiah-46-22-7","surface":"בָּ֣אוּ","lemma":"בּוֹא","translit":"ba'v","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H935"},{"id":"jeremiah-46-22-8","surface":"לָ֔הּ","lemma":"לָ֔הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"jeremiah-46-22-9","surface":"כְּחֹטְבֵ֖י","lemma":"חָטַב","translit":"kechotebey","morph":"Preposition + Verb Qal Passive Participle","glosses":[],"strongs":"H2404"},{"id":"jeremiah-46-22-10","surface":"עֵצִֽים","lemma":"עֵץ","translit":"`etsiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H6086"}],"language":"hebrew"},{"ref":"Jeremiah 46:23","englishText":"They shall cut down her forest, says Yahweh, though it can’t be searched; because they are more than the locusts, and are innumerable.","tokens":[{"id":"jeremiah-46-23-0","surface":"כָּרְת֤וּ","lemma":"כָּרַת","translit":"karetv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H3772"},{"id":"jeremiah-46-23-1","surface":"יַעְרָהּ֙","lemma":"יַעַר","translit":"ya`erah","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3293"},{"id":"jeremiah-46-23-2","surface":"נְאֻם","lemma":"נְאֻם","translit":"ne'um","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5002"},{"id":"jeremiah-46-23-3","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-46-23-4","surface":"כִּ֖י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-23-5","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"jeremiah-46-23-6","surface":"יֵֽחָקֵ֑ר","lemma":"חָקַר","translit":"yechaqer","morph":"Verb Niphal Imperative 3rd masculine singular","glosses":[],"strongs":"H2713"},{"id":"jeremiah-46-23-7","surface":"כִּ֤י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-23-8","surface":"רַבּוּ֙","lemma":"רָבַב","translit":"rabv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H7231"},{"id":"jeremiah-46-23-9","surface":"מֵֽאַרְבֶּ֔ה","lemma":"אַרְבֶּה","translit":"me'arebeh","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H697"},{"id":"jeremiah-46-23-10","surface":"וְאֵ֥ין","lemma":"אַיִן","translit":"ve'eyn","morph":"Conjunction + Particle","glosses":[],"strongs":"H369"},{"id":"jeremiah-46-23-11","surface":"לָהֶ֖ם","lemma":"לָהֶ֖ם","translit":"lahem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]},{"id":"jeremiah-46-23-12","surface":"מִסְפָּֽר","lemma":"מִסְפָּר","translit":"misepar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4557"}],"language":"hebrew"},{"ref":"Jeremiah 46:24","englishText":"The daughter of Egypt shall be disappointed; she shall be delivered into the hand of the people of the north.","tokens":[{"id":"jeremiah-46-24-0","surface":"הֹבִ֖ישָׁה","lemma":"יָבֵשׁ","translit":"hobiyshah","morph":"Verb Hiphil Participle 3rd feminine singular","glosses":[],"strongs":"H3001"},{"id":"jeremiah-46-24-1","surface":"בַּת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"jeremiah-46-24-2","surface":"מִצְרָ֑יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"jeremiah-46-24-3","surface":"נִתְּנָ֖ה","lemma":"נָתַן","translit":"nitenah","morph":"Verb Niphal Participle 3rd feminine singular","glosses":[],"strongs":"H5414"},{"id":"jeremiah-46-24-4","surface":"בְּיַ֥ד","lemma":"יָד","translit":"beyad","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"jeremiah-46-24-5","surface":"עַם","lemma":"עַם","translit":"`am","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"jeremiah-46-24-6","surface":"צָפֽוֹן","lemma":"צָפוֹן","translit":"tsapvon","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H6828"}],"language":"hebrew"},{"ref":"Jeremiah 46:25","englishText":"Yahweh of Armies, the God of Israel, says: Behold, I will punish Amon of No, and Pharaoh, and Egypt, with her gods, and her kings; even Pharaoh, and those who trust in him:","tokens":[{"id":"jeremiah-46-25-0","surface":"אָמַר֩","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"jeremiah-46-25-1","surface":"יְהוָ֨ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-46-25-2","surface":"צְבָא֜וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"jeremiah-46-25-3","surface":"אֱלֹהֵ֣י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"jeremiah-46-25-4","surface":"יִשְׂרָאֵ֗ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"jeremiah-46-25-5","surface":"הִנְנִ֤י","lemma":"הֵן","translit":"hineniy","morph":"Particle masculine + Suffix plural 1st common singular","glosses":[],"strongs":"H2005"},{"id":"jeremiah-46-25-6","surface":"פוֹקֵד֙","lemma":"פָּקַד","translit":"pvoqed","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H6485"},{"id":"jeremiah-46-25-7","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"jeremiah-46-25-8","surface":"אָמ֣וֹן","lemma":"אָמוֹן","translit":"'amvon","morph":"Noun proper","glosses":[],"strongs":"H528"},{"id":"jeremiah-46-25-9","surface":"מִנֹּ֔א","lemma":"נֹא","translit":"mino'","morph":"Preposition + Noun proper","glosses":[],"strongs":"H4996"},{"id":"jeremiah-46-25-10","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-25-11","surface":"פַּרְעֹה֙","lemma":"פַּרְעֹה","translit":"pare`oh","morph":"Noun proper","glosses":[],"strongs":"H6547"},{"id":"jeremiah-46-25-12","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-25-13","surface":"מִצְרַ֔יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"jeremiah-46-25-14","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-25-15","surface":"אֱלֹהֶ֖יהָ","lemma":"אֱלֹהִים","translit":"'loheyha","morph":"Noun common masculine plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H430"},{"id":"jeremiah-46-25-16","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-25-17","surface":"מְלָכֶ֑יהָ","lemma":"מֶלֶךְ","translit":"melakeyha","morph":"Noun common masculine plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H4428"},{"id":"jeremiah-46-25-18","surface":"וְעַ֨ל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-25-19","surface":"פַּרְעֹ֔ה","lemma":"פַּרְעֹה","translit":"pare`oh","morph":"Noun proper","glosses":[],"strongs":"H6547"},{"id":"jeremiah-46-25-20","surface":"וְעַ֥ל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"jeremiah-46-25-21","surface":"הַבֹּטְחִ֖ים","lemma":"בָּטַח","translit":"habotechiym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H982"},{"id":"jeremiah-46-25-22","surface":"בּֽוֹ","lemma":"בּֽוֹ","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]}],"language":"hebrew"},{"ref":"Jeremiah 46:26","englishText":"and I will deliver them into the hand of those who seek their lives, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants; and afterwards it shall be inhabited, as in the days of old, says Yahweh.","tokens":[{"id":"jeremiah-46-26-0","surface":"וּנְתַתִּ֗ים","lemma":"נָתַן","translit":"vnetatiym","morph":"Conjunction + Verb Qal Perfect 1st common singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H5414"},{"id":"jeremiah-46-26-1","surface":"בְּיַד֙","lemma":"יָד","translit":"beyad","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"jeremiah-46-26-2","surface":"מְבַקְשֵׁ֣י","lemma":"בָּקַשׁ","translit":"mebaqeshey","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H1245"},{"id":"jeremiah-46-26-3","surface":"נַפְשָׁ֔ם","lemma":"נֶפֶשׁ","translit":"napesham","morph":"Noun common singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H5315"},{"id":"jeremiah-46-26-4","surface":"וּבְיַ֛ד","lemma":"יָד","translit":"vbeyad","morph":"Conjunction + Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"jeremiah-46-26-5","surface":"נְבֽוּכַדְרֶאצַּ֥ר","lemma":"נְבוּכַדְנֶאצַּר","translit":"nebvkadere'tsar","morph":"Noun proper","glosses":[],"strongs":"H5019"},{"id":"jeremiah-46-26-6","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"jeremiah-46-26-7","surface":"בָּבֶ֖ל","lemma":"בָּבֶל","translit":"babel","morph":"Noun proper","glosses":[],"strongs":"H894"},{"id":"jeremiah-46-26-8","surface":"וּבְיַד","lemma":"יָד","translit":"vbeyad","morph":"Conjunction + Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"jeremiah-46-26-9","surface":"עֲבָדָ֑יו","lemma":"עֶבֶד","translit":"`badayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5650"},{"id":"jeremiah-46-26-10","surface":"וְאַחֲרֵי","lemma":"אַחַר","translit":"ve'achrey","morph":"Conjunction + Preposition","glosses":[],"strongs":"H310"},{"id":"jeremiah-46-26-11","surface":"כֵ֛ן","lemma":"כֵּן","translit":"ken","morph":"Adverb","glosses":[],"strongs":"H3651"},{"id":"jeremiah-46-26-12","surface":"תִּשְׁכֹּ֥ן","lemma":"שָׁכַן","translit":"tishekon","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H7931"},{"id":"jeremiah-46-26-13","surface":"כִּֽימֵי","lemma":"יוֹם","translit":"kiymey","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H3117"},{"id":"jeremiah-46-26-14","surface":"קֶ֖דֶם","lemma":"קֶדֶם","translit":"qedem","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6924"},{"id":"jeremiah-46-26-15","surface":"נְאֻם","lemma":"נְאֻם","translit":"ne'um","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5002"},{"id":"jeremiah-46-26-16","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Jeremiah 46:27","englishText":"But don’t you be afraid, Jacob my servant, neither be dismayed, Israel: for, behold, I will save you from afar, and your seed from the land of their captivity; and Jacob shall return, and shall be quiet and at ease, and no one shall make him afraid.","tokens":[{"id":"jeremiah-46-27-0","surface":"וְ֠אַתָּה","lemma":"אַתָּה","translit":"ve'atah","morph":"Conjunction + Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"jeremiah-46-27-1","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"jeremiah-46-27-2","surface":"תִּירָ֞א","lemma":"יָרֵא","translit":"tiyra'","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H3372"},{"id":"jeremiah-46-27-3","surface":"עַבְדִּ֤י","lemma":"עֶבֶד","translit":"`abediy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5650"},{"id":"jeremiah-46-27-4","surface":"יַֽעֲקֹב֙","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"jeremiah-46-27-5","surface":"וְאַל","lemma":"אַל","translit":"ve'al","morph":"Conjunction + Particle","glosses":[],"strongs":"H408"},{"id":"jeremiah-46-27-6","surface":"תֵּחַ֣ת","lemma":"חָתַת","translit":"techat","morph":"Verb Niphal Jussive 2nd masculine singular","glosses":[],"strongs":"H2865"},{"id":"jeremiah-46-27-7","surface":"יִשְׂרָאֵ֔ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"jeremiah-46-27-8","surface":"כִּ֠י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-27-9","surface":"הִנְנִ֤י","lemma":"הֵן","translit":"hineniy","morph":"Particle masculine + Suffix plural 1st common singular","glosses":[],"strongs":"H2005"},{"id":"jeremiah-46-27-10","surface":"מוֹשִֽׁעֲךָ֙","lemma":"יָשַׁע","translit":"mvoshi`ka","morph":"Verb Hiphil Passive Participle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3467"},{"id":"jeremiah-46-27-11","surface":"מֵֽרָח֔וֹק","lemma":"רָחוֹק","translit":"merachvoq","morph":"Preposition + Adjective","glosses":[],"strongs":"H7350"},{"id":"jeremiah-46-27-12","surface":"וְאֶֽת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"jeremiah-46-27-13","surface":"זַרְעֲךָ֖","lemma":"זֶרַע","translit":"zare`ka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2233"},{"id":"jeremiah-46-27-14","surface":"מֵאֶ֣רֶץ","lemma":"אֶרֶץ","translit":"me'erets","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"jeremiah-46-27-15","surface":"שִׁבְיָ֑ם","lemma":"שְׁבִי","translit":"shibeyam","morph":"Noun common singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H7628"},{"id":"jeremiah-46-27-16","surface":"וְשָׁ֧ב","lemma":"שׁוּב","translit":"veshab","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H7725"},{"id":"jeremiah-46-27-17","surface":"יַעֲק֛וֹב","lemma":"יַעֲקֹב","translit":"ya`qvob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"jeremiah-46-27-18","surface":"וְשָׁקַ֥ט","lemma":"שָׁקַט","translit":"veshaqat","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H8252"},{"id":"jeremiah-46-27-19","surface":"וְשַׁאֲנַ֖ן","lemma":"שָׁאַן","translit":"vesha'nan","morph":"Conjunction + Verb Palel Participle 3rd masculine singular","glosses":[],"strongs":"H7599"},{"id":"jeremiah-46-27-20","surface":"וְאֵ֥ין","lemma":"אַיִן","translit":"ve'eyn","morph":"Conjunction + Particle","glosses":[],"strongs":"H369"},{"id":"jeremiah-46-27-21","surface":"מַחֲרִֽיד","lemma":"חָרַד","translit":"machriyd","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H2729"}],"language":"hebrew"},{"ref":"Jeremiah 46:28","englishText":"Don’t you be afraid, O Jacob my servant, says Yahweh; for I am with you: for I will make a full end of all the nations where I have driven you; but I will not make a full end of you, but I will correct you in measure, and will in no way leave you unpunished.   ","tokens":[{"id":"jeremiah-46-28-0","surface":"אַ֠תָּה","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"jeremiah-46-28-1","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"jeremiah-46-28-2","surface":"תִּירָ֞א","lemma":"יָרֵא","translit":"tiyra'","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H3372"},{"id":"jeremiah-46-28-3","surface":"עַבְדִּ֤י","lemma":"עֶבֶד","translit":"`abediy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5650"},{"id":"jeremiah-46-28-4","surface":"יַֽעֲקֹב֙","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"jeremiah-46-28-5","surface":"נְאֻם","lemma":"נְאֻם","translit":"ne'um","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5002"},{"id":"jeremiah-46-28-6","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"jeremiah-46-28-7","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-28-8","surface":"אִתְּךָ֖","lemma":"אֵת","translit":"'iteka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H854"},{"id":"jeremiah-46-28-9","surface":"אָ֑נִי","lemma":"אֲנִי","translit":"'aniy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"jeremiah-46-28-10","surface":"כִּי֩","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"jeremiah-46-28-11","surface":"אֶעֱשֶׂ֨ה","lemma":"עָשָׂה","translit":"'e`sheh","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H6213"},{"id":"jeremiah-46-28-12","surface":"כָלָ֜ה","lemma":"כָּלָה","translit":"kalah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H3617"},{"id":"jeremiah-46-28-13","surface":"בְּכָֽל","lemma":"כֹּל","translit":"bekal","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"jeremiah-46-28-14","surface":"הַגּוֹיִ֣ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"jeremiah-46-28-15","surface":"אֲשֶׁ֧ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"jeremiah-46-28-16","surface":"הִדַּחְתִּ֣יךָ","lemma":"נָדַח","translit":"hidachetiyka","morph":"Verb Hiphil Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5080"},{"id":"jeremiah-46-28-17","surface":"שָׁ֗מָּה","lemma":"שָׁם","translit":"shamah","morph":"Adverb + Suffix dual","glosses":[],"strongs":"H8033"},{"id":"jeremiah-46-28-18","surface":"וְאֹֽתְךָ֙","lemma":"אֵת","translit":"ve'oteka","morph":"Conjunction + Particle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H853"},{"id":"jeremiah-46-28-19","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"jeremiah-46-28-20","surface":"אֶעֱשֶׂ֣ה","lemma":"עָשָׂה","translit":"'e`sheh","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H6213"},{"id":"jeremiah-46-28-21","surface":"כָלָ֔ה","lemma":"כָּלָה","translit":"kalah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H3617"},{"id":"jeremiah-46-28-22","surface":"וְיִסַּרְתִּ֨יךָ֙","lemma":"יָסַר","translit":"veyisaretiyka","morph":"Conjunction + Verb Piel Perfect 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3256"},{"id":"jeremiah-46-28-23","surface":"לַמִּשְׁפָּ֔ט","lemma":"מִשְׁפָּט","translit":"lamishepat","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4941"},{"id":"jeremiah-46-28-24","surface":"וְנַקֵּ֖ה","lemma":"נָקָה","translit":"venaqeh","morph":"Conjunction + Verb Piel Infinitive Absolute","glosses":[],"strongs":"H5352"},{"id":"jeremiah-46-28-25","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"jeremiah-46-28-26","surface":"אֲנַקֶּֽךָּ","lemma":"נָקָה","translit":"'naqeka","morph":"Verb Piel Imperative 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5352"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "jeremiah-46",
+  "name": "Jeremiah",
+  "chapter": 46,
+  "verses": [
+    {
+      "ref": "Jeremiah 46:1",
+      "englishText": "Yahweh’s word which came to Jeremiah the prophet concerning the nations.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-1-0",
+          "surface": "אֲשֶׁ֨ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-46-1-1",
+          "surface": "הָיָ֧ה",
+          "lemma": "הָיָה",
+          "translit": "hayah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "jeremiah-46-1-2",
+          "surface": "דְבַר",
+          "lemma": "דָּבָר",
+          "translit": "debar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "jeremiah-46-1-3",
+          "surface": "יְהוָ֛ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-46-1-4",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-46-1-5",
+          "surface": "יִרְמְיָ֥הוּ",
+          "lemma": "יִרְמְיָה",
+          "translit": "yiremeyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3414"
+        },
+        {
+          "id": "jeremiah-46-1-6",
+          "surface": "הַנָּבִ֖יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-46-1-7",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-1-8",
+          "surface": "הַגּוֹיִֽם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:2",
+      "englishText": "Of Egypt: concerning the army of Pharaoh Necoh king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadnezzar king of Babylon struck in the fourth year of Jehoiakim the son of Josiah, king of Judah.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-2-0",
+          "surface": "לְמִצְרַ֗יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "lemitserayim",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "jeremiah-46-2-1",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-2-2",
+          "surface": "חֵ֨יל",
+          "lemma": "חַיִל",
+          "translit": "cheyl",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2428"
+        },
+        {
+          "id": "jeremiah-46-2-3",
+          "surface": "פַּרְעֹ֤ה",
+          "lemma": "פַּרְעֹה נְכֹה",
+          "translit": "pare`oh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6549"
+        },
+        {
+          "id": "jeremiah-46-2-4",
+          "surface": "נְכוֹ֙",
+          "lemma": "פַּרְעֹה נְכֹה",
+          "translit": "nekvo",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6549"
+        },
+        {
+          "id": "jeremiah-46-2-5",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-46-2-6",
+          "surface": "מִצְרַ֔יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "jeremiah-46-2-7",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-46-2-8",
+          "surface": "הָיָ֥ה",
+          "lemma": "הָיָה",
+          "translit": "hayah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "jeremiah-46-2-9",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-2-10",
+          "surface": "נְהַר",
+          "lemma": "נָהָר",
+          "translit": "nehar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5104"
+        },
+        {
+          "id": "jeremiah-46-2-11",
+          "surface": "פְּרָ֖ת",
+          "lemma": "פְּרָת",
+          "translit": "perat",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6578"
+        },
+        {
+          "id": "jeremiah-46-2-12",
+          "surface": "בְּכַרְכְּמִ֑שׁ",
+          "lemma": "כַּרְכְּמִישׁ",
+          "translit": "bekarekemish",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3751"
+        },
+        {
+          "id": "jeremiah-46-2-13",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-46-2-14",
+          "surface": "הִכָּ֗ה",
+          "lemma": "נָכָה",
+          "translit": "hikah",
+          "morph": "Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5221"
+        },
+        {
+          "id": "jeremiah-46-2-15",
+          "surface": "נְבֽוּכַדְרֶאצַּר֙",
+          "lemma": "נְבוּכַדְנֶאצַּר",
+          "translit": "nebvkadere'tsar",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5019"
+        },
+        {
+          "id": "jeremiah-46-2-16",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-46-2-17",
+          "surface": "בָּבֶ֔ל",
+          "lemma": "בָּבֶל",
+          "translit": "babel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H894"
+        },
+        {
+          "id": "jeremiah-46-2-18",
+          "surface": "בִּשְׁנַת֙",
+          "lemma": "שָׁנֶה",
+          "translit": "bishenat",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "jeremiah-46-2-19",
+          "surface": "הָֽרְבִיעִ֔ית",
+          "lemma": "רְבִיעִי",
+          "translit": "harebiy`iyt",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7243"
+        },
+        {
+          "id": "jeremiah-46-2-20",
+          "surface": "לִיהוֹיָקִ֥ים",
+          "lemma": "יְהוֹיָקִים",
+          "translit": "liyhvoyaqiym",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3079"
+        },
+        {
+          "id": "jeremiah-46-2-21",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "jeremiah-46-2-22",
+          "surface": "יֹאשִׁיָּ֖הוּ",
+          "lemma": "יֹאשִׁיָּה",
+          "translit": "yo'shiyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2977"
+        },
+        {
+          "id": "jeremiah-46-2-23",
+          "surface": "מֶ֥לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-46-2-24",
+          "surface": "יְהוּדָֽה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:3",
+      "englishText": "Prepare the buckler and shield, and draw near to battle!",
+      "tokens": [
+        {
+          "id": "jeremiah-46-3-0",
+          "surface": "עִרְכ֤וּ",
+          "lemma": "עָרַךְ",
+          "translit": "`irekv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H6186"
+        },
+        {
+          "id": "jeremiah-46-3-1",
+          "surface": "מָגֵן֙",
+          "lemma": "מָגֵן",
+          "translit": "magen",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H4043"
+        },
+        {
+          "id": "jeremiah-46-3-2",
+          "surface": "וְצִנָּ֔ה",
+          "lemma": "צִנָּה",
+          "translit": "vetsinah",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6793"
+        },
+        {
+          "id": "jeremiah-46-3-3",
+          "surface": "וּגְשׁ֖וּ",
+          "lemma": "נָגַשׁ",
+          "translit": "vgeshv",
+          "morph": "Conjunction + Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "jeremiah-46-3-4",
+          "surface": "לַמִּלְחָמָֽה",
+          "lemma": "מִלְחָמָה",
+          "translit": "lamilechamah",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4421"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:4",
+      "englishText": "Harness the horses, and get up, you horsemen, and stand up with your helmets; furbish the spears, put on the coats of mail.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-4-0",
+          "surface": "אִסְר֣וּ",
+          "lemma": "אָסַר",
+          "translit": "'iserv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H631"
+        },
+        {
+          "id": "jeremiah-46-4-1",
+          "surface": "הַסּוּסִ֗ים",
+          "lemma": "סוּס",
+          "translit": "hasvsiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5483"
+        },
+        {
+          "id": "jeremiah-46-4-2",
+          "surface": "וַֽעֲלוּ֙",
+          "lemma": "עָלָה",
+          "translit": "va`lv",
+          "morph": "Conjunction + Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "jeremiah-46-4-3",
+          "surface": "הַפָּ֣רָשִׁ֔ים",
+          "lemma": "פָּרָשׁ",
+          "translit": "haparashiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6571"
+        },
+        {
+          "id": "jeremiah-46-4-4",
+          "surface": "וְהִֽתְיַצְּב֖וּ",
+          "lemma": "יָצַב",
+          "translit": "vehiteyatsebv",
+          "morph": "Conjunction + Verb Hithpael Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3320"
+        },
+        {
+          "id": "jeremiah-46-4-5",
+          "surface": "בְּכ֥וֹבָעִ֑ים",
+          "lemma": "כּוֹבַע",
+          "translit": "bekvoba`iym",
+          "morph": "Preposition + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3553"
+        },
+        {
+          "id": "jeremiah-46-4-6",
+          "surface": "מִרְקוּ֙",
+          "lemma": "מָרַק",
+          "translit": "mireqv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H4838"
+        },
+        {
+          "id": "jeremiah-46-4-7",
+          "surface": "הָֽרְמָחִ֔ים",
+          "lemma": "רֹמַח",
+          "translit": "haremachiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H7420"
+        },
+        {
+          "id": "jeremiah-46-4-8",
+          "surface": "לִבְשׁ֖וּ",
+          "lemma": "לָבַשׁ",
+          "translit": "libeshv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3847"
+        },
+        {
+          "id": "jeremiah-46-4-9",
+          "surface": "הַסִּרְיֹנֹֽת",
+          "lemma": "סִרְיֹן",
+          "translit": "hasireyonot",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5630"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:5",
+      "englishText": "Why have I seen it? they are dismayed and are turned backward; and their mighty ones are beaten down, and have fled apace, and don’t look back: terror is on every side, says Yahweh.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-5-0",
+          "surface": "מַדּ֣וּעַ",
+          "lemma": "מַדּוּעַ",
+          "translit": "madv`a",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4069"
+        },
+        {
+          "id": "jeremiah-46-5-1",
+          "surface": "רָאִ֗יתִי",
+          "lemma": "רָאָה",
+          "translit": "ra'iytiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "jeremiah-46-5-2",
+          "surface": "הֵ֣מָּה",
+          "lemma": "הֵם",
+          "translit": "hemah",
+          "morph": "Pronoun plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1992"
+        },
+        {
+          "id": "jeremiah-46-5-3",
+          "surface": "חַתִּים֮",
+          "lemma": "חַת",
+          "translit": "chatiym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2844"
+        },
+        {
+          "id": "jeremiah-46-5-4",
+          "surface": "נְסֹגִ֣ים",
+          "lemma": "סוּג",
+          "translit": "nesogiym",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H5472"
+        },
+        {
+          "id": "jeremiah-46-5-5",
+          "surface": "אָחוֹר֒",
+          "lemma": "אָחוֹר",
+          "translit": "'achvor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H268"
+        },
+        {
+          "id": "jeremiah-46-5-6",
+          "surface": "וְגִבּוֹרֵיהֶ֣ם",
+          "lemma": "גִּבּוֹר",
+          "translit": "vegibvoreyhem",
+          "morph": "Conjunction + Adjective + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "jeremiah-46-5-7",
+          "surface": "יֻכַּ֔תּוּ",
+          "lemma": "כָּתַת",
+          "translit": "yukatv",
+          "morph": "Verb Hophal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3807"
+        },
+        {
+          "id": "jeremiah-46-5-8",
+          "surface": "וּמָנ֥וֹס",
+          "lemma": "מָנוֹס",
+          "translit": "vmanvos",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4498"
+        },
+        {
+          "id": "jeremiah-46-5-9",
+          "surface": "נָ֖סוּ",
+          "lemma": "נוּס",
+          "translit": "nasv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H5127"
+        },
+        {
+          "id": "jeremiah-46-5-10",
+          "surface": "וְלֹ֣א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "jeremiah-46-5-11",
+          "surface": "הִפְנ֑וּ",
+          "lemma": "פָּנָה",
+          "translit": "hipenv",
+          "morph": "Verb Hiphil Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6437"
+        },
+        {
+          "id": "jeremiah-46-5-12",
+          "surface": "מָג֥וֹר",
+          "lemma": "מָגוֹר",
+          "translit": "magvor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4032"
+        },
+        {
+          "id": "jeremiah-46-5-13",
+          "surface": "מִסָּבִ֖יב",
+          "lemma": "סָבִיב",
+          "translit": "misabiyb",
+          "morph": "Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H5439"
+        },
+        {
+          "id": "jeremiah-46-5-14",
+          "surface": "נְאֻם",
+          "lemma": "נְאֻם",
+          "translit": "ne'um",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5002"
+        },
+        {
+          "id": "jeremiah-46-5-15",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:6",
+      "englishText": "Don’t let the swift flee away, nor the mighty man escape; in the north by the river Euphrates have they stumbled and fallen.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-6-0",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "jeremiah-46-6-1",
+          "surface": "יָנ֣וּס",
+          "lemma": "נוּס",
+          "translit": "yanvs",
+          "morph": "Verb Qal Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5127"
+        },
+        {
+          "id": "jeremiah-46-6-2",
+          "surface": "הַקַּ֔ל",
+          "lemma": "קַל",
+          "translit": "haqal",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7031"
+        },
+        {
+          "id": "jeremiah-46-6-3",
+          "surface": "וְאַל",
+          "lemma": "אַל",
+          "translit": "ve'al",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "jeremiah-46-6-4",
+          "surface": "יִמָּלֵ֖ט",
+          "lemma": "מָלַט",
+          "translit": "yimalet",
+          "morph": "Verb Niphal Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4422"
+        },
+        {
+          "id": "jeremiah-46-6-5",
+          "surface": "הַגִּבּ֑וֹר",
+          "lemma": "גִּבּוֹר",
+          "translit": "hagibvor",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "jeremiah-46-6-6",
+          "surface": "צָפ֨וֹנָה֙",
+          "lemma": "צָפוֹן",
+          "translit": "tsapvonah",
+          "morph": "Noun common feminine singular absolute + Suffix dual",
+          "glosses": [],
+          "strongs": "H6828"
+        },
+        {
+          "id": "jeremiah-46-6-7",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-6-8",
+          "surface": "יַ֣ד",
+          "lemma": "יָד",
+          "translit": "yad",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "jeremiah-46-6-9",
+          "surface": "נְהַר",
+          "lemma": "נָהָר",
+          "translit": "nehar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5104"
+        },
+        {
+          "id": "jeremiah-46-6-10",
+          "surface": "פְּרָ֔ת",
+          "lemma": "פְּרָת",
+          "translit": "perat",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6578"
+        },
+        {
+          "id": "jeremiah-46-6-11",
+          "surface": "כָּשְׁל֖וּ",
+          "lemma": "כָּשַׁל",
+          "translit": "kashelv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H3782"
+        },
+        {
+          "id": "jeremiah-46-6-12",
+          "surface": "וְנָפָֽלוּ",
+          "lemma": "נָפַל",
+          "translit": "venapalv",
+          "morph": "Conjunction + Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H5307"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:7",
+      "englishText": "Who is this who rises up like the Nile, whose waters toss themselves like the rivers?",
+      "tokens": [
+        {
+          "id": "jeremiah-46-7-0",
+          "surface": "מִי",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "jeremiah-46-7-1",
+          "surface": "זֶ֖ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "jeremiah-46-7-2",
+          "surface": "כַּיְאֹ֣ר",
+          "lemma": "יְאֹר",
+          "translit": "kaye'or",
+          "morph": "Preposition dual + Noun proper",
+          "glosses": [],
+          "strongs": "H2975"
+        },
+        {
+          "id": "jeremiah-46-7-3",
+          "surface": "יַֽעֲלֶ֑ה",
+          "lemma": "עָלָה",
+          "translit": "ya`leh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "jeremiah-46-7-4",
+          "surface": "כַּנְּהָר֕וֹת",
+          "lemma": "נָהָר",
+          "translit": "kaneharvot",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5104"
+        },
+        {
+          "id": "jeremiah-46-7-5",
+          "surface": "יִֽתְגָּעֲשׁ֖וּ",
+          "lemma": "גָּעַשׁ",
+          "translit": "yitega`shv",
+          "morph": "Verb Hithpael Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1607"
+        },
+        {
+          "id": "jeremiah-46-7-6",
+          "surface": "מֵימָֽיו",
+          "lemma": "מַיִם",
+          "translit": "meymayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4325"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:8",
+      "englishText": "Egypt rises up like the Nile, and his waters toss themselves like the rivers: and he says, I will rise up, I will cover the earth; I will destroy cities and its inhabitants.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-8-0",
+          "surface": "מִצְרַ֨יִם֙",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "jeremiah-46-8-1",
+          "surface": "כַּיְאֹ֣ר",
+          "lemma": "יְאֹר",
+          "translit": "kaye'or",
+          "morph": "Preposition dual + Noun proper",
+          "glosses": [],
+          "strongs": "H2975"
+        },
+        {
+          "id": "jeremiah-46-8-2",
+          "surface": "יַֽעֲלֶ֔ה",
+          "lemma": "עָלָה",
+          "translit": "ya`leh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "jeremiah-46-8-3",
+          "surface": "וְכַנְּהָר֖וֹת",
+          "lemma": "נָהָר",
+          "translit": "vekaneharvot",
+          "morph": "Conjunction + Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5104"
+        },
+        {
+          "id": "jeremiah-46-8-4",
+          "surface": "יִתְגֹּ֣עֲשׁוּ",
+          "lemma": "גָּעַשׁ",
+          "translit": "yitego`shv",
+          "morph": "Verb Hithpolel Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1607"
+        },
+        {
+          "id": "jeremiah-46-8-5",
+          "surface": "מָ֑יִם",
+          "lemma": "מַיִם",
+          "translit": "mayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4325"
+        },
+        {
+          "id": "jeremiah-46-8-6",
+          "surface": "וַיֹּ֗אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-46-8-7",
+          "surface": "אַֽעֲלֶה֙",
+          "lemma": "עָלָה",
+          "translit": "'a`leh",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "jeremiah-46-8-8",
+          "surface": "אֲכַסֶּה",
+          "lemma": "כָּסָה",
+          "translit": "'kaseh",
+          "morph": "Verb Piel Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H3680"
+        },
+        {
+          "id": "jeremiah-46-8-9",
+          "surface": "אֶ֔רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "'erets",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "jeremiah-46-8-10",
+          "surface": "אֹבִ֥ידָה",
+          "lemma": "אָבַד",
+          "translit": "'obiydah",
+          "morph": "Verb Hiphil Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H6"
+        },
+        {
+          "id": "jeremiah-46-8-11",
+          "surface": "עִ֖יר",
+          "lemma": "עִיר",
+          "translit": "`iyr",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5892"
+        },
+        {
+          "id": "jeremiah-46-8-12",
+          "surface": "וְיֹ֥שְׁבֵי",
+          "lemma": "יָשַׁב",
+          "translit": "veyoshebey",
+          "morph": "Conjunction + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "jeremiah-46-8-13",
+          "surface": "בָֽהּ",
+          "lemma": "בָֽהּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:9",
+      "englishText": "Go up, you horses; and rage, you chariots; and let the mighty men go out: Cush and Put, who handle the shield; and the Ludim, who handle and bend the bow.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-9-0",
+          "surface": "עֲל֤וּ",
+          "lemma": "עָלָה",
+          "translit": "`lv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "jeremiah-46-9-1",
+          "surface": "הַסּוּסִים֙",
+          "lemma": "סוּס",
+          "translit": "hasvsiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5483"
+        },
+        {
+          "id": "jeremiah-46-9-2",
+          "surface": "וְהִתְהֹלְל֣וּ",
+          "lemma": "הָלַל",
+          "translit": "vehiteholelv",
+          "morph": "Conjunction + Verb Hithpolel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "jeremiah-46-9-3",
+          "surface": "הָרֶ֔כֶב",
+          "lemma": "רֶכֶב",
+          "translit": "harekeb",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7393"
+        },
+        {
+          "id": "jeremiah-46-9-4",
+          "surface": "וְיֵצְא֖וּ",
+          "lemma": "יָצָא",
+          "translit": "veyetse'v",
+          "morph": "Conjunction + Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "jeremiah-46-9-5",
+          "surface": "הַגִּבּוֹרִ֑ים",
+          "lemma": "גִּבּוֹר",
+          "translit": "hagibvoriym",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "jeremiah-46-9-6",
+          "surface": "כּ֤וּשׁ",
+          "lemma": "כּוּשׁ",
+          "translit": "kvsh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3568"
+        },
+        {
+          "id": "jeremiah-46-9-7",
+          "surface": "וּפוּט֙",
+          "lemma": "פּוּט",
+          "translit": "vpvt",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H6316"
+        },
+        {
+          "id": "jeremiah-46-9-8",
+          "surface": "תֹּפְשֵׂ֣י",
+          "lemma": "תָּפַשׂ",
+          "translit": "topeshey",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H8610"
+        },
+        {
+          "id": "jeremiah-46-9-9",
+          "surface": "מָגֵ֔ן",
+          "lemma": "מָגֵן",
+          "translit": "magen",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H4043"
+        },
+        {
+          "id": "jeremiah-46-9-10",
+          "surface": "וְלוּדִ֕ים",
+          "lemma": "לוּדִי",
+          "translit": "velvdiym",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3866"
+        },
+        {
+          "id": "jeremiah-46-9-11",
+          "surface": "תֹּפְשֵׂ֖י",
+          "lemma": "תָּפַשׂ",
+          "translit": "topeshey",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H8610"
+        },
+        {
+          "id": "jeremiah-46-9-12",
+          "surface": "דֹּ֥רְכֵי",
+          "lemma": "דָּרַךְ",
+          "translit": "dorekey",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H1869"
+        },
+        {
+          "id": "jeremiah-46-9-13",
+          "surface": "קָֽשֶׁת",
+          "lemma": "קֶשֶׁת",
+          "translit": "qashet",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7198"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:10",
+      "englishText": "For that day is of the Lord, Yahweh of Armies, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour and be satiate, and shall drink its fill of their blood; for the Lord, Yahweh of Armies, has a sacrifice in the north country by the river Euphrates.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-10-0",
+          "surface": "וְֽהַיּ֨וֹם",
+          "lemma": "יוֹם",
+          "translit": "vehayvom",
+          "morph": "Conjunction + Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "jeremiah-46-10-1",
+          "surface": "הַה֜וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "jeremiah-46-10-2",
+          "surface": "לַאדֹנָ֧י",
+          "lemma": "אֲדֹנָי",
+          "translit": "la'donay",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "jeremiah-46-10-3",
+          "surface": "יְהוִ֣ה",
+          "lemma": "יְהֹוִה",
+          "translit": "yehvih",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3069"
+        },
+        {
+          "id": "jeremiah-46-10-4",
+          "surface": "צְבָא֗וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "jeremiah-46-10-5",
+          "surface": "י֤וֹם",
+          "lemma": "יוֹם",
+          "translit": "yvom",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "jeremiah-46-10-6",
+          "surface": "נְקָמָה֙",
+          "lemma": "נְקָמָה",
+          "translit": "neqamah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5360"
+        },
+        {
+          "id": "jeremiah-46-10-7",
+          "surface": "לְהִנָּקֵ֣ם",
+          "lemma": "נָקַם",
+          "translit": "lehinaqem",
+          "morph": "Preposition + Verb Niphal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5358"
+        },
+        {
+          "id": "jeremiah-46-10-8",
+          "surface": "מִצָּרָ֔יו",
+          "lemma": "צַר",
+          "translit": "mitsarayv",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6862"
+        },
+        {
+          "id": "jeremiah-46-10-9",
+          "surface": "וְאָכְלָ֥ה",
+          "lemma": "אָכַל",
+          "translit": "ve'akelah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "jeremiah-46-10-10",
+          "surface": "חֶ֨רֶב֙",
+          "lemma": "חֶרֶב",
+          "translit": "chereb",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "jeremiah-46-10-11",
+          "surface": "וְשָׂ֣בְעָ֔ה",
+          "lemma": "שָׂבַע",
+          "translit": "veshabe`ah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7646"
+        },
+        {
+          "id": "jeremiah-46-10-12",
+          "surface": "וְרָוְתָ֖ה",
+          "lemma": "רָוָה",
+          "translit": "veravetah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7301"
+        },
+        {
+          "id": "jeremiah-46-10-13",
+          "surface": "מִדָּמָ֑ם",
+          "lemma": "דָּם",
+          "translit": "midamam",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1818"
+        },
+        {
+          "id": "jeremiah-46-10-14",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-10-15",
+          "surface": "זֶ֠בַח",
+          "lemma": "זֶבַח",
+          "translit": "zebach",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2077"
+        },
+        {
+          "id": "jeremiah-46-10-16",
+          "surface": "לַאדֹנָ֨י",
+          "lemma": "אֲדֹנָי",
+          "translit": "la'donay",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "jeremiah-46-10-17",
+          "surface": "יְהוִ֧ה",
+          "lemma": "יְהֹוִה",
+          "translit": "yehvih",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3069"
+        },
+        {
+          "id": "jeremiah-46-10-18",
+          "surface": "צְבָא֛וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "jeremiah-46-10-19",
+          "surface": "בְּאֶ֥רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "be'erets",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "jeremiah-46-10-20",
+          "surface": "צָפ֖וֹן",
+          "lemma": "צָפוֹן",
+          "translit": "tsapvon",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6828"
+        },
+        {
+          "id": "jeremiah-46-10-21",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-46-10-22",
+          "surface": "נְהַר",
+          "lemma": "נָהָר",
+          "translit": "nehar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5104"
+        },
+        {
+          "id": "jeremiah-46-10-23",
+          "surface": "פְּרָֽת",
+          "lemma": "פְּרָת",
+          "translit": "perat",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6578"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:11",
+      "englishText": "Go up into Gilead, and take balm, virgin daughter of Egypt: in vain do you use many medicines; there is no healing for you.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-11-0",
+          "surface": "עֲלִ֤י",
+          "lemma": "עָלָה",
+          "translit": "`liy",
+          "morph": "Verb Qal Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "jeremiah-46-11-1",
+          "surface": "גִלְעָד֙",
+          "lemma": "גִּלְעָד",
+          "translit": "gile`ad",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1568"
+        },
+        {
+          "id": "jeremiah-46-11-2",
+          "surface": "וּקְחִ֣י",
+          "lemma": "לָקַח",
+          "translit": "vqechiy",
+          "morph": "Conjunction + Verb Qal Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "jeremiah-46-11-3",
+          "surface": "צֳרִ֔י",
+          "lemma": "צְרִי",
+          "translit": "tsriy",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6875"
+        },
+        {
+          "id": "jeremiah-46-11-4",
+          "surface": "בְּתוּלַ֖ת",
+          "lemma": "בְּתוּלָה",
+          "translit": "betvlat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1330"
+        },
+        {
+          "id": "jeremiah-46-11-5",
+          "surface": "בַּת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "jeremiah-46-11-6",
+          "surface": "מִצְרָ֑יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "jeremiah-46-11-7",
+          "surface": "לַשָּׁוְא֙",
+          "lemma": "שָׁוְא",
+          "translit": "lashave'",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7723"
+        },
+        {
+          "id": "jeremiah-46-11-8",
+          "surface": "הרביתי",
+          "lemma": "רָבָה",
+          "translit": "hrbyty",
+          "morph": "Verb Hiphil Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "jeremiah-46-11-9",
+          "surface": "הִרְבֵּ֣ית",
+          "lemma": "רָבָה",
+          "translit": "hirebeyt",
+          "morph": "Verb Hiphil Participle 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "jeremiah-46-11-10",
+          "surface": "רְפֻא֔וֹת",
+          "lemma": "רְפֻאָה",
+          "translit": "repu'vot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H7499"
+        },
+        {
+          "id": "jeremiah-46-11-11",
+          "surface": "תְּעָלָ֖ה",
+          "lemma": "תְּעָלָה",
+          "translit": "te`alah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8585"
+        },
+        {
+          "id": "jeremiah-46-11-12",
+          "surface": "אֵ֥ין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "jeremiah-46-11-13",
+          "surface": "לָֽךְ",
+          "lemma": "לָֽךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:12",
+      "englishText": "The nations have heard of your shame, and the earth is full of your cry; for the mighty man has stumbled against the mighty, they are fallen both of them together.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-12-0",
+          "surface": "שָׁמְע֤וּ",
+          "lemma": "שָׁמַע",
+          "translit": "shame`v",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "jeremiah-46-12-1",
+          "surface": "גוֹיִם֙",
+          "lemma": "גּוֹי",
+          "translit": "gvoyim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "jeremiah-46-12-2",
+          "surface": "קְלוֹנֵ֔ךְ",
+          "lemma": "קָלוֹן",
+          "translit": "qelvoneke",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H7036"
+        },
+        {
+          "id": "jeremiah-46-12-3",
+          "surface": "וְצִוְחָתֵ֖ךְ",
+          "lemma": "צְוָחָה",
+          "translit": "vetsivechateke",
+          "morph": "Conjunction + Noun common feminine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H6682"
+        },
+        {
+          "id": "jeremiah-46-12-4",
+          "surface": "מָלְאָ֣ה",
+          "lemma": "מָלֵא",
+          "translit": "male'ah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4390"
+        },
+        {
+          "id": "jeremiah-46-12-5",
+          "surface": "הָאָ֑רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "jeremiah-46-12-6",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-12-7",
+          "surface": "גִבּ֤וֹר",
+          "lemma": "גִּבּוֹר",
+          "translit": "gibvor",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "jeremiah-46-12-8",
+          "surface": "בְּגִבּוֹר֙",
+          "lemma": "גִּבּוֹר",
+          "translit": "begibvor",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "jeremiah-46-12-9",
+          "surface": "כָּשָׁ֔לוּ",
+          "lemma": "כָּשַׁל",
+          "translit": "kashalv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H3782"
+        },
+        {
+          "id": "jeremiah-46-12-10",
+          "surface": "יַחְדָּ֖יו",
+          "lemma": "יַחַד",
+          "translit": "yachedayv",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3162"
+        },
+        {
+          "id": "jeremiah-46-12-11",
+          "surface": "נָפְל֥וּ",
+          "lemma": "נָפַל",
+          "translit": "napelv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "jeremiah-46-12-12",
+          "surface": "שְׁנֵיהֶֽם",
+          "lemma": "שְׁנַיִם",
+          "translit": "sheneyhem",
+          "morph": "Adjective common masculine dual construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H8147"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:13",
+      "englishText": "The word that Yahweh spoke to Jeremiah the prophet, how that Nebuchadnezzar king of Babylon should come and strike the land of Egypt.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-13-0",
+          "surface": "הַדָּבָר֙",
+          "lemma": "דָּבָר",
+          "translit": "hadabar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "jeremiah-46-13-1",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-46-13-2",
+          "surface": "דִּבֶּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "diber",
+          "morph": "Verb Piel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "jeremiah-46-13-3",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-46-13-4",
+          "surface": "אֶֽל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-46-13-5",
+          "surface": "יִרְמְיָ֖הוּ",
+          "lemma": "יִרְמְיָה",
+          "translit": "yiremeyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3414"
+        },
+        {
+          "id": "jeremiah-46-13-6",
+          "surface": "הַנָּבִ֑יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "jeremiah-46-13-7",
+          "surface": "לָב֗וֹא",
+          "lemma": "בּוֹא",
+          "translit": "labvo'",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "jeremiah-46-13-8",
+          "surface": "נְבֽוּכַדְרֶאצַּר֙",
+          "lemma": "נְבוּכַדְנֶאצַּר",
+          "translit": "nebvkadere'tsar",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5019"
+        },
+        {
+          "id": "jeremiah-46-13-9",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-46-13-10",
+          "surface": "בָּבֶ֔ל",
+          "lemma": "בָּבֶל",
+          "translit": "babel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H894"
+        },
+        {
+          "id": "jeremiah-46-13-11",
+          "surface": "לְהַכּ֖וֹת",
+          "lemma": "נָכָה",
+          "translit": "lehakvot",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5221"
+        },
+        {
+          "id": "jeremiah-46-13-12",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-46-13-13",
+          "surface": "אֶ֥רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "'erets",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "jeremiah-46-13-14",
+          "surface": "מִצְרָֽיִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:14",
+      "englishText": "Declare in Egypt, and publish in Migdol, and publish in Memphis and in Tahpanhes: say, Stand up, and prepare; for the sword has devoured around you.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-14-0",
+          "surface": "הַגִּ֤ידוּ",
+          "lemma": "נָגַד",
+          "translit": "hagiydv",
+          "morph": "Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "jeremiah-46-14-1",
+          "surface": "בְמִצְרַ֨יִם֙",
+          "lemma": "מִצְרַיִם",
+          "translit": "bemitserayim",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "jeremiah-46-14-2",
+          "surface": "וְהַשְׁמִ֣יעוּ",
+          "lemma": "שָׁמַע",
+          "translit": "vehashemiy`v",
+          "morph": "Conjunction + Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "jeremiah-46-14-3",
+          "surface": "בְמִגְדּ֔וֹל",
+          "lemma": "מִגְדּוֹל",
+          "translit": "bemigedvol",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H4024"
+        },
+        {
+          "id": "jeremiah-46-14-4",
+          "surface": "וְהַשְׁמִ֥יעוּ",
+          "lemma": "שָׁמַע",
+          "translit": "vehashemiy`v",
+          "morph": "Conjunction + Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "jeremiah-46-14-5",
+          "surface": "בְנֹ֖ף",
+          "lemma": "נֹף",
+          "translit": "benop",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H5297"
+        },
+        {
+          "id": "jeremiah-46-14-6",
+          "surface": "וּבְתַחְפַּנְחֵ֑ס",
+          "lemma": "תַּחְפַּנְחֵס",
+          "translit": "vbetachepaneches",
+          "morph": "Conjunction + Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H8471"
+        },
+        {
+          "id": "jeremiah-46-14-7",
+          "surface": "אִמְר֗וּ",
+          "lemma": "אָמַר",
+          "translit": "'imerv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-46-14-8",
+          "surface": "הִתְיַצֵּב֙",
+          "lemma": "יָצַב",
+          "translit": "hiteyatseb",
+          "morph": "Verb Hithpael Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3320"
+        },
+        {
+          "id": "jeremiah-46-14-9",
+          "surface": "וְהָכֵ֣ן",
+          "lemma": "כּוּן",
+          "translit": "vehaken",
+          "morph": "Conjunction + Verb Hiphil Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3559"
+        },
+        {
+          "id": "jeremiah-46-14-10",
+          "surface": "לָ֔ךְ",
+          "lemma": "לָ֔ךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "jeremiah-46-14-11",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-14-12",
+          "surface": "אָכְלָ֥ה",
+          "lemma": "אָכַל",
+          "translit": "'akelah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "jeremiah-46-14-13",
+          "surface": "חֶ֖רֶב",
+          "lemma": "חֶרֶב",
+          "translit": "chereb",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "jeremiah-46-14-14",
+          "surface": "סְבִיבֶֽיךָ",
+          "lemma": "סָבִיב",
+          "translit": "sebiybeyka",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5439"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:15",
+      "englishText": "Why are your strong ones swept away? they didn’t stand, because Yahweh pushed them.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-15-0",
+          "surface": "מַדּ֖וּעַ",
+          "lemma": "מַדּוּעַ",
+          "translit": "madv`a",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4069"
+        },
+        {
+          "id": "jeremiah-46-15-1",
+          "surface": "נִסְחַ֣ף",
+          "lemma": "סָחַף",
+          "translit": "nisechap",
+          "morph": "Verb Niphal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5502"
+        },
+        {
+          "id": "jeremiah-46-15-2",
+          "surface": "אַבִּירֶ֑יךָ",
+          "lemma": "אַבִּיר",
+          "translit": "'abiyreyka",
+          "morph": "Adjective + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H47"
+        },
+        {
+          "id": "jeremiah-46-15-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "jeremiah-46-15-4",
+          "surface": "עָמַ֔ד",
+          "lemma": "עָמַד",
+          "translit": "`amad",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5975"
+        },
+        {
+          "id": "jeremiah-46-15-5",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-15-6",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-46-15-7",
+          "surface": "הֲדָפֽוֹ",
+          "lemma": "הָדַף",
+          "translit": "hdapvo",
+          "morph": "Verb Qal Participle 3rd masculine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1920"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:16",
+      "englishText": "He made many to stumble, yes, they fell one on another: and they said, Arise, and let us go again to our own people, and to the land of our birth, from the oppressing sword.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-16-0",
+          "surface": "הִרְבָּ֖ה",
+          "lemma": "רָבָה",
+          "translit": "hirebah",
+          "morph": "Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "jeremiah-46-16-1",
+          "surface": "כּוֹשֵׁ֑ל",
+          "lemma": "כָּשַׁל",
+          "translit": "kvoshel",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3782"
+        },
+        {
+          "id": "jeremiah-46-16-2",
+          "surface": "גַּם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "jeremiah-46-16-3",
+          "surface": "נָפַ֞ל",
+          "lemma": "נָפַל",
+          "translit": "napal",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "jeremiah-46-16-4",
+          "surface": "אִ֣ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "jeremiah-46-16-5",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-46-16-6",
+          "surface": "רֵעֵ֗הוּ",
+          "lemma": "רֵעַ",
+          "translit": "re`ehv",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7453"
+        },
+        {
+          "id": "jeremiah-46-16-7",
+          "surface": "וַיֹּֽאמְרוּ֙",
+          "lemma": "אָמַר",
+          "translit": "vayo'merv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-46-16-8",
+          "surface": "ק֣וּמָה",
+          "lemma": "קוּם",
+          "translit": "qvmah",
+          "morph": "Verb Qal Weqatal 2nd masculine singular + Suffix",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "jeremiah-46-16-9",
+          "surface": "וְנָשֻׁ֣בָה",
+          "lemma": "שׁוּב",
+          "translit": "venashubah",
+          "morph": "Conjunction + Verb Qal Cohortative 1st common plural",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "jeremiah-46-16-10",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-46-16-11",
+          "surface": "עַמֵּ֗נוּ",
+          "lemma": "עַם",
+          "translit": "`amenv",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "jeremiah-46-16-12",
+          "surface": "וְאֶל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-46-16-13",
+          "surface": "אֶ֨רֶץ֙",
+          "lemma": "אֶרֶץ",
+          "translit": "'erets",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "jeremiah-46-16-14",
+          "surface": "מֽוֹלַדְתֵּ֔נוּ",
+          "lemma": "מוֹלֶדֶת",
+          "translit": "mvoladetenv",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H4138"
+        },
+        {
+          "id": "jeremiah-46-16-15",
+          "surface": "מִפְּנֵ֖י",
+          "lemma": "פָּנִים",
+          "translit": "mipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "jeremiah-46-16-16",
+          "surface": "חֶ֥רֶב",
+          "lemma": "חֶרֶב",
+          "translit": "chereb",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "jeremiah-46-16-17",
+          "surface": "הַיּוֹנָֽה",
+          "lemma": "יָנָה",
+          "translit": "hayvonah",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3238"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:17",
+      "englishText": "They cried there, Pharaoh king of Egypt is but a noise; he has let the appointed time pass by.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-17-0",
+          "surface": "קָרְא֖וּ",
+          "lemma": "קָרָא",
+          "translit": "qare'v",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "jeremiah-46-17-1",
+          "surface": "שָׁ֑ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "jeremiah-46-17-2",
+          "surface": "פַּרְעֹ֤ה",
+          "lemma": "פַּרְעֹה",
+          "translit": "pare`oh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6547"
+        },
+        {
+          "id": "jeremiah-46-17-3",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-46-17-4",
+          "surface": "מִצְרַ֨יִם֙",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "jeremiah-46-17-5",
+          "surface": "שָׁא֔וֹן",
+          "lemma": "שָׁאוֹן",
+          "translit": "sha'von",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7588"
+        },
+        {
+          "id": "jeremiah-46-17-6",
+          "surface": "הֶעֱבִ֖יר",
+          "lemma": "עָבַר",
+          "translit": "he`biyr",
+          "morph": "Verb Hiphil Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5674"
+        },
+        {
+          "id": "jeremiah-46-17-7",
+          "surface": "הַמּוֹעֵֽד",
+          "lemma": "מוֹעֵד",
+          "translit": "hamvo`ed",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4150"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:18",
+      "englishText": "As I live, says the King, whose name is Yahweh of Armies, surely like Tabor among the mountains, and like Carmel by the sea, so shall he come.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-18-0",
+          "surface": "חַי",
+          "lemma": "חַי",
+          "translit": "chay",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2416"
+        },
+        {
+          "id": "jeremiah-46-18-1",
+          "surface": "אָ֨נִי֙",
+          "lemma": "אֲנִי",
+          "translit": "'aniy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "jeremiah-46-18-2",
+          "surface": "נְאֻם",
+          "lemma": "נְאֻם",
+          "translit": "ne'um",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5002"
+        },
+        {
+          "id": "jeremiah-46-18-3",
+          "surface": "הַמֶּ֔לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "hameleke",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-46-18-4",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-46-18-5",
+          "surface": "צְבָא֖וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "jeremiah-46-18-6",
+          "surface": "שְׁמ֑וֹ",
+          "lemma": "שֵׁם",
+          "translit": "shemvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "jeremiah-46-18-7",
+          "surface": "כִּ֚י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-18-8",
+          "surface": "כְּתָב֣וֹר",
+          "lemma": "תָּבוֹר",
+          "translit": "ketabvor",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H8396"
+        },
+        {
+          "id": "jeremiah-46-18-9",
+          "surface": "בֶּֽהָרִ֔ים",
+          "lemma": "הַר",
+          "translit": "behariym",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "jeremiah-46-18-10",
+          "surface": "וּכְכַרְמֶ֖ל",
+          "lemma": "כַּרְמֶל",
+          "translit": "vkekaremel",
+          "morph": "Conjunction + Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3760"
+        },
+        {
+          "id": "jeremiah-46-18-11",
+          "surface": "בַּיָּ֥ם",
+          "lemma": "יָם",
+          "translit": "bayam",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3220"
+        },
+        {
+          "id": "jeremiah-46-18-12",
+          "surface": "יָבֽוֹא",
+          "lemma": "בּוֹא",
+          "translit": "yabvo'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:19",
+      "englishText": "You daughter who dwells in Egypt, furnish yourself to go into captivity; for Memphis shall become a desolation, and shall be burnt up, without inhabitant.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-19-0",
+          "surface": "כְּלֵ֤י",
+          "lemma": "כְּלִי",
+          "translit": "keley",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H3627"
+        },
+        {
+          "id": "jeremiah-46-19-1",
+          "surface": "גוֹלָה֙",
+          "lemma": "גּוֹלָה",
+          "translit": "gvolah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1473"
+        },
+        {
+          "id": "jeremiah-46-19-2",
+          "surface": "עֲשִׂ֣י",
+          "lemma": "עָשָׂה",
+          "translit": "`shiy",
+          "morph": "Verb Qal Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "jeremiah-46-19-3",
+          "surface": "לָ֔ךְ",
+          "lemma": "לָ֔ךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "jeremiah-46-19-4",
+          "surface": "יוֹשֶׁ֖בֶת",
+          "lemma": "יָשַׁב",
+          "translit": "yvoshebet",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "jeremiah-46-19-5",
+          "surface": "בַּת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "jeremiah-46-19-6",
+          "surface": "מִצְרָ֑יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "jeremiah-46-19-7",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-19-8",
+          "surface": "נֹף֙",
+          "lemma": "נֹף",
+          "translit": "nop",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5297"
+        },
+        {
+          "id": "jeremiah-46-19-9",
+          "surface": "לְשַׁמָּ֣ה",
+          "lemma": "שַׁמָּה",
+          "translit": "leshamah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8047"
+        },
+        {
+          "id": "jeremiah-46-19-10",
+          "surface": "תִֽהְיֶ֔ה",
+          "lemma": "הָיָה",
+          "translit": "tiheyeh",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "jeremiah-46-19-11",
+          "surface": "וְנִצְּתָ֖ה",
+          "lemma": "יָצַת",
+          "translit": "venitsetah",
+          "morph": "Conjunction + Verb Niphal Perfect 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3341"
+        },
+        {
+          "id": "jeremiah-46-19-12",
+          "surface": "מֵאֵ֥ין",
+          "lemma": "אַיִן",
+          "translit": "me'eyn",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "jeremiah-46-19-13",
+          "surface": "יוֹשֵֽׁב",
+          "lemma": "יָשַׁב",
+          "translit": "yvosheb",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:20",
+      "englishText": "Egypt is a very beautiful heifer; but destruction out of the north has come, it has come.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-20-0",
+          "surface": "עֶגְלָ֥ה",
+          "lemma": "עֶגְלָה",
+          "translit": "`egelah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5697"
+        },
+        {
+          "id": "jeremiah-46-20-1",
+          "surface": "יְפֵֽה",
+          "lemma": "יְפֵה־פִיָּה",
+          "translit": "yepeh",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H3304"
+        },
+        {
+          "id": "jeremiah-46-20-2",
+          "surface": "פִיָּ֖ה",
+          "lemma": "יְפֵה־פִיָּה",
+          "translit": "piyah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H3304"
+        },
+        {
+          "id": "jeremiah-46-20-3",
+          "surface": "מִצְרָ֑יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "jeremiah-46-20-4",
+          "surface": "קֶ֥רֶץ",
+          "lemma": "קֶרֶץ",
+          "translit": "qerets",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7171"
+        },
+        {
+          "id": "jeremiah-46-20-5",
+          "surface": "מִצָּפ֖וֹן",
+          "lemma": "צָפוֹן",
+          "translit": "mitsapvon",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6828"
+        },
+        {
+          "id": "jeremiah-46-20-6",
+          "surface": "בָּ֥א",
+          "lemma": "בּוֹא",
+          "translit": "ba'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "jeremiah-46-20-7",
+          "surface": "בָֽא",
+          "lemma": "בּוֹא",
+          "translit": "ba'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:21",
+      "englishText": "Also her hired men in the midst of her are like calves of the stall; for they also are turned back, they are fled away together, they didn’t stand: for the day of their calamity has come on them, the time of their visitation.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-21-0",
+          "surface": "גַּם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "jeremiah-46-21-1",
+          "surface": "שְׂכִרֶ֤יהָ",
+          "lemma": "שָׂכִיר",
+          "translit": "shekireyha",
+          "morph": "Adjective + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7916"
+        },
+        {
+          "id": "jeremiah-46-21-2",
+          "surface": "בְקִרְבָּהּ֙",
+          "lemma": "קֶרֶב",
+          "translit": "beqirebah",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7130"
+        },
+        {
+          "id": "jeremiah-46-21-3",
+          "surface": "כְּעֶגְלֵ֣י",
+          "lemma": "עֵגֶל",
+          "translit": "ke`egeley",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H5695"
+        },
+        {
+          "id": "jeremiah-46-21-4",
+          "surface": "מַרְבֵּ֔ק",
+          "lemma": "מַרְבֵּק",
+          "translit": "marebeq",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4770"
+        },
+        {
+          "id": "jeremiah-46-21-5",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-21-6",
+          "surface": "גַם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "jeremiah-46-21-7",
+          "surface": "הֵ֧מָּה",
+          "lemma": "הֵם",
+          "translit": "hemah",
+          "morph": "Pronoun plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1992"
+        },
+        {
+          "id": "jeremiah-46-21-8",
+          "surface": "הִפְנ֛וּ",
+          "lemma": "פָּנָה",
+          "translit": "hipenv",
+          "morph": "Verb Hiphil Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6437"
+        },
+        {
+          "id": "jeremiah-46-21-9",
+          "surface": "נָ֥סוּ",
+          "lemma": "נוּס",
+          "translit": "nasv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H5127"
+        },
+        {
+          "id": "jeremiah-46-21-10",
+          "surface": "יַחְדָּ֖יו",
+          "lemma": "יַחַד",
+          "translit": "yachedayv",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3162"
+        },
+        {
+          "id": "jeremiah-46-21-11",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "jeremiah-46-21-12",
+          "surface": "עָמָ֑דוּ",
+          "lemma": "עָמַד",
+          "translit": "`amadv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H5975"
+        },
+        {
+          "id": "jeremiah-46-21-13",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-21-14",
+          "surface": "י֥וֹם",
+          "lemma": "יוֹם",
+          "translit": "yvom",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "jeremiah-46-21-15",
+          "surface": "אֵידָ֛ם",
+          "lemma": "אֵיד",
+          "translit": "'eydam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H343"
+        },
+        {
+          "id": "jeremiah-46-21-16",
+          "surface": "בָּ֥א",
+          "lemma": "בּוֹא",
+          "translit": "ba'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "jeremiah-46-21-17",
+          "surface": "עֲלֵיהֶ֖ם",
+          "lemma": "עַל",
+          "translit": "`leyhem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-21-18",
+          "surface": "עֵ֥ת",
+          "lemma": "עֵת",
+          "translit": "`et",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H6256"
+        },
+        {
+          "id": "jeremiah-46-21-19",
+          "surface": "פְּקֻדָּתָֽם",
+          "lemma": "פְּקֻדָּה",
+          "translit": "pequdatam",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6486"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:22",
+      "englishText": "The sound of it shall go like the serpent; for they shall march with an army, and come against her with axes, as wood cutters.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-22-0",
+          "surface": "קוֹלָ֖הּ",
+          "lemma": "קוֹל",
+          "translit": "qvolah",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6963"
+        },
+        {
+          "id": "jeremiah-46-22-1",
+          "surface": "כַּנָּחָ֣שׁ",
+          "lemma": "נָחָשׁ",
+          "translit": "kanachash",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5175"
+        },
+        {
+          "id": "jeremiah-46-22-2",
+          "surface": "יֵלֵ֑ךְ",
+          "lemma": "יָלַךְ",
+          "translit": "yeleke",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "jeremiah-46-22-3",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-22-4",
+          "surface": "בְחַ֣יִל",
+          "lemma": "חַיִל",
+          "translit": "bechayil",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2428"
+        },
+        {
+          "id": "jeremiah-46-22-5",
+          "surface": "יֵלֵ֔כוּ",
+          "lemma": "יָלַךְ",
+          "translit": "yelekv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "jeremiah-46-22-6",
+          "surface": "וּבְקַרְדֻּמּוֹת֙",
+          "lemma": "קַרְדֹּם",
+          "translit": "vbeqaredumvot",
+          "morph": "Conjunction + Preposition + Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H7134"
+        },
+        {
+          "id": "jeremiah-46-22-7",
+          "surface": "בָּ֣אוּ",
+          "lemma": "בּוֹא",
+          "translit": "ba'v",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "jeremiah-46-22-8",
+          "surface": "לָ֔הּ",
+          "lemma": "לָ֔הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "jeremiah-46-22-9",
+          "surface": "כְּחֹטְבֵ֖י",
+          "lemma": "חָטַב",
+          "translit": "kechotebey",
+          "morph": "Preposition + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H2404"
+        },
+        {
+          "id": "jeremiah-46-22-10",
+          "surface": "עֵצִֽים",
+          "lemma": "עֵץ",
+          "translit": "`etsiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6086"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:23",
+      "englishText": "They shall cut down her forest, says Yahweh, though it can’t be searched; because they are more than the locusts, and are innumerable.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-23-0",
+          "surface": "כָּרְת֤וּ",
+          "lemma": "כָּרַת",
+          "translit": "karetv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H3772"
+        },
+        {
+          "id": "jeremiah-46-23-1",
+          "surface": "יַעְרָהּ֙",
+          "lemma": "יַעַר",
+          "translit": "ya`erah",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3293"
+        },
+        {
+          "id": "jeremiah-46-23-2",
+          "surface": "נְאֻם",
+          "lemma": "נְאֻם",
+          "translit": "ne'um",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5002"
+        },
+        {
+          "id": "jeremiah-46-23-3",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-46-23-4",
+          "surface": "כִּ֖י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-23-5",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "jeremiah-46-23-6",
+          "surface": "יֵֽחָקֵ֑ר",
+          "lemma": "חָקַר",
+          "translit": "yechaqer",
+          "morph": "Verb Niphal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2713"
+        },
+        {
+          "id": "jeremiah-46-23-7",
+          "surface": "כִּ֤י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-23-8",
+          "surface": "רַבּוּ֙",
+          "lemma": "רָבַב",
+          "translit": "rabv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H7231"
+        },
+        {
+          "id": "jeremiah-46-23-9",
+          "surface": "מֵֽאַרְבֶּ֔ה",
+          "lemma": "אַרְבֶּה",
+          "translit": "me'arebeh",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H697"
+        },
+        {
+          "id": "jeremiah-46-23-10",
+          "surface": "וְאֵ֥ין",
+          "lemma": "אַיִן",
+          "translit": "ve'eyn",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "jeremiah-46-23-11",
+          "surface": "לָהֶ֖ם",
+          "lemma": "לָהֶ֖ם",
+          "translit": "lahem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        },
+        {
+          "id": "jeremiah-46-23-12",
+          "surface": "מִסְפָּֽר",
+          "lemma": "מִסְפָּר",
+          "translit": "misepar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4557"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:24",
+      "englishText": "The daughter of Egypt shall be disappointed; she shall be delivered into the hand of the people of the north.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-24-0",
+          "surface": "הֹבִ֖ישָׁה",
+          "lemma": "יָבֵשׁ",
+          "translit": "hobiyshah",
+          "morph": "Verb Hiphil Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3001"
+        },
+        {
+          "id": "jeremiah-46-24-1",
+          "surface": "בַּת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "jeremiah-46-24-2",
+          "surface": "מִצְרָ֑יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "jeremiah-46-24-3",
+          "surface": "נִתְּנָ֖ה",
+          "lemma": "נָתַן",
+          "translit": "nitenah",
+          "morph": "Verb Niphal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "jeremiah-46-24-4",
+          "surface": "בְּיַ֥ד",
+          "lemma": "יָד",
+          "translit": "beyad",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "jeremiah-46-24-5",
+          "surface": "עַם",
+          "lemma": "עַם",
+          "translit": "`am",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "jeremiah-46-24-6",
+          "surface": "צָפֽוֹן",
+          "lemma": "צָפוֹן",
+          "translit": "tsapvon",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6828"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:25",
+      "englishText": "Yahweh of Armies, the God of Israel, says: Behold, I will punish Amon of No, and Pharaoh, and Egypt, with her gods, and her kings; even Pharaoh, and those who trust in him:",
+      "tokens": [
+        {
+          "id": "jeremiah-46-25-0",
+          "surface": "אָמַר֩",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "jeremiah-46-25-1",
+          "surface": "יְהוָ֨ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-46-25-2",
+          "surface": "צְבָא֜וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "jeremiah-46-25-3",
+          "surface": "אֱלֹהֵ֣י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "jeremiah-46-25-4",
+          "surface": "יִשְׂרָאֵ֗ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "jeremiah-46-25-5",
+          "surface": "הִנְנִ֤י",
+          "lemma": "הֵן",
+          "translit": "hineniy",
+          "morph": "Particle masculine + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "jeremiah-46-25-6",
+          "surface": "פוֹקֵד֙",
+          "lemma": "פָּקַד",
+          "translit": "pvoqed",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H6485"
+        },
+        {
+          "id": "jeremiah-46-25-7",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "jeremiah-46-25-8",
+          "surface": "אָמ֣וֹן",
+          "lemma": "אָמוֹן",
+          "translit": "'amvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H528"
+        },
+        {
+          "id": "jeremiah-46-25-9",
+          "surface": "מִנֹּ֔א",
+          "lemma": "נֹא",
+          "translit": "mino'",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H4996"
+        },
+        {
+          "id": "jeremiah-46-25-10",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-25-11",
+          "surface": "פַּרְעֹה֙",
+          "lemma": "פַּרְעֹה",
+          "translit": "pare`oh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6547"
+        },
+        {
+          "id": "jeremiah-46-25-12",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-25-13",
+          "surface": "מִצְרַ֔יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "jeremiah-46-25-14",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-25-15",
+          "surface": "אֱלֹהֶ֖יהָ",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyha",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "jeremiah-46-25-16",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-25-17",
+          "surface": "מְלָכֶ֑יהָ",
+          "lemma": "מֶלֶךְ",
+          "translit": "melakeyha",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-46-25-18",
+          "surface": "וְעַ֨ל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-25-19",
+          "surface": "פַּרְעֹ֔ה",
+          "lemma": "פַּרְעֹה",
+          "translit": "pare`oh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6547"
+        },
+        {
+          "id": "jeremiah-46-25-20",
+          "surface": "וְעַ֥ל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "jeremiah-46-25-21",
+          "surface": "הַבֹּטְחִ֖ים",
+          "lemma": "בָּטַח",
+          "translit": "habotechiym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H982"
+        },
+        {
+          "id": "jeremiah-46-25-22",
+          "surface": "בּֽוֹ",
+          "lemma": "בּֽוֹ",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:26",
+      "englishText": "and I will deliver them into the hand of those who seek their lives, and into the hand of Nebuchadnezzar king of Babylon, and into the hand of his servants; and afterwards it shall be inhabited, as in the days of old, says Yahweh.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-26-0",
+          "surface": "וּנְתַתִּ֗ים",
+          "lemma": "נָתַן",
+          "translit": "vnetatiym",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "jeremiah-46-26-1",
+          "surface": "בְּיַד֙",
+          "lemma": "יָד",
+          "translit": "beyad",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "jeremiah-46-26-2",
+          "surface": "מְבַקְשֵׁ֣י",
+          "lemma": "בָּקַשׁ",
+          "translit": "mebaqeshey",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H1245"
+        },
+        {
+          "id": "jeremiah-46-26-3",
+          "surface": "נַפְשָׁ֔ם",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napesham",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "jeremiah-46-26-4",
+          "surface": "וּבְיַ֛ד",
+          "lemma": "יָד",
+          "translit": "vbeyad",
+          "morph": "Conjunction + Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "jeremiah-46-26-5",
+          "surface": "נְבֽוּכַדְרֶאצַּ֥ר",
+          "lemma": "נְבוּכַדְנֶאצַּר",
+          "translit": "nebvkadere'tsar",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5019"
+        },
+        {
+          "id": "jeremiah-46-26-6",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "jeremiah-46-26-7",
+          "surface": "בָּבֶ֖ל",
+          "lemma": "בָּבֶל",
+          "translit": "babel",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H894"
+        },
+        {
+          "id": "jeremiah-46-26-8",
+          "surface": "וּבְיַד",
+          "lemma": "יָד",
+          "translit": "vbeyad",
+          "morph": "Conjunction + Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "jeremiah-46-26-9",
+          "surface": "עֲבָדָ֑יו",
+          "lemma": "עֶבֶד",
+          "translit": "`badayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "jeremiah-46-26-10",
+          "surface": "וְאַחֲרֵי",
+          "lemma": "אַחַר",
+          "translit": "ve'achrey",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "jeremiah-46-26-11",
+          "surface": "כֵ֛ן",
+          "lemma": "כֵּן",
+          "translit": "ken",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "jeremiah-46-26-12",
+          "surface": "תִּשְׁכֹּ֥ן",
+          "lemma": "שָׁכַן",
+          "translit": "tishekon",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7931"
+        },
+        {
+          "id": "jeremiah-46-26-13",
+          "surface": "כִּֽימֵי",
+          "lemma": "יוֹם",
+          "translit": "kiymey",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "jeremiah-46-26-14",
+          "surface": "קֶ֖דֶם",
+          "lemma": "קֶדֶם",
+          "translit": "qedem",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6924"
+        },
+        {
+          "id": "jeremiah-46-26-15",
+          "surface": "נְאֻם",
+          "lemma": "נְאֻם",
+          "translit": "ne'um",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5002"
+        },
+        {
+          "id": "jeremiah-46-26-16",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:27",
+      "englishText": "But don’t you be afraid, Jacob my servant, neither be dismayed, Israel: for, behold, I will save you from afar, and your seed from the land of their captivity; and Jacob shall return, and shall be quiet and at ease, and no one shall make him afraid.",
+      "tokens": [
+        {
+          "id": "jeremiah-46-27-0",
+          "surface": "וְ֠אַתָּה",
+          "lemma": "אַתָּה",
+          "translit": "ve'atah",
+          "morph": "Conjunction + Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "jeremiah-46-27-1",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "jeremiah-46-27-2",
+          "surface": "תִּירָ֞א",
+          "lemma": "יָרֵא",
+          "translit": "tiyra'",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "jeremiah-46-27-3",
+          "surface": "עַבְדִּ֤י",
+          "lemma": "עֶבֶד",
+          "translit": "`abediy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "jeremiah-46-27-4",
+          "surface": "יַֽעֲקֹב֙",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "jeremiah-46-27-5",
+          "surface": "וְאַל",
+          "lemma": "אַל",
+          "translit": "ve'al",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "jeremiah-46-27-6",
+          "surface": "תֵּחַ֣ת",
+          "lemma": "חָתַת",
+          "translit": "techat",
+          "morph": "Verb Niphal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2865"
+        },
+        {
+          "id": "jeremiah-46-27-7",
+          "surface": "יִשְׂרָאֵ֔ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "jeremiah-46-27-8",
+          "surface": "כִּ֠י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-27-9",
+          "surface": "הִנְנִ֤י",
+          "lemma": "הֵן",
+          "translit": "hineniy",
+          "morph": "Particle masculine + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "jeremiah-46-27-10",
+          "surface": "מוֹשִֽׁעֲךָ֙",
+          "lemma": "יָשַׁע",
+          "translit": "mvoshi`ka",
+          "morph": "Verb Hiphil Passive Participle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3467"
+        },
+        {
+          "id": "jeremiah-46-27-11",
+          "surface": "מֵֽרָח֔וֹק",
+          "lemma": "רָחוֹק",
+          "translit": "merachvoq",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H7350"
+        },
+        {
+          "id": "jeremiah-46-27-12",
+          "surface": "וְאֶֽת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-46-27-13",
+          "surface": "זַרְעֲךָ֖",
+          "lemma": "זֶרַע",
+          "translit": "zare`ka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2233"
+        },
+        {
+          "id": "jeremiah-46-27-14",
+          "surface": "מֵאֶ֣רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "me'erets",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "jeremiah-46-27-15",
+          "surface": "שִׁבְיָ֑ם",
+          "lemma": "שְׁבִי",
+          "translit": "shibeyam",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H7628"
+        },
+        {
+          "id": "jeremiah-46-27-16",
+          "surface": "וְשָׁ֧ב",
+          "lemma": "שׁוּב",
+          "translit": "veshab",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "jeremiah-46-27-17",
+          "surface": "יַעֲק֛וֹב",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qvob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "jeremiah-46-27-18",
+          "surface": "וְשָׁקַ֥ט",
+          "lemma": "שָׁקַט",
+          "translit": "veshaqat",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8252"
+        },
+        {
+          "id": "jeremiah-46-27-19",
+          "surface": "וְשַׁאֲנַ֖ן",
+          "lemma": "שָׁאַן",
+          "translit": "vesha'nan",
+          "morph": "Conjunction + Verb Palel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7599"
+        },
+        {
+          "id": "jeremiah-46-27-20",
+          "surface": "וְאֵ֥ין",
+          "lemma": "אַיִן",
+          "translit": "ve'eyn",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "jeremiah-46-27-21",
+          "surface": "מַחֲרִֽיד",
+          "lemma": "חָרַד",
+          "translit": "machriyd",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H2729"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Jeremiah 46:28",
+      "englishText": "Don’t you be afraid, O Jacob my servant, says Yahweh; for I am with you: for I will make a full end of all the nations where I have driven you; but I will not make a full end of you, but I will correct you in measure, and will in no way leave you unpunished.   ",
+      "tokens": [
+        {
+          "id": "jeremiah-46-28-0",
+          "surface": "אַ֠תָּה",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "jeremiah-46-28-1",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "jeremiah-46-28-2",
+          "surface": "תִּירָ֞א",
+          "lemma": "יָרֵא",
+          "translit": "tiyra'",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "jeremiah-46-28-3",
+          "surface": "עַבְדִּ֤י",
+          "lemma": "עֶבֶד",
+          "translit": "`abediy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "jeremiah-46-28-4",
+          "surface": "יַֽעֲקֹב֙",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "jeremiah-46-28-5",
+          "surface": "נְאֻם",
+          "lemma": "נְאֻם",
+          "translit": "ne'um",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5002"
+        },
+        {
+          "id": "jeremiah-46-28-6",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "jeremiah-46-28-7",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-28-8",
+          "surface": "אִתְּךָ֖",
+          "lemma": "אֵת",
+          "translit": "'iteka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "jeremiah-46-28-9",
+          "surface": "אָ֑נִי",
+          "lemma": "אֲנִי",
+          "translit": "'aniy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "jeremiah-46-28-10",
+          "surface": "כִּי֩",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "jeremiah-46-28-11",
+          "surface": "אֶעֱשֶׂ֨ה",
+          "lemma": "עָשָׂה",
+          "translit": "'e`sheh",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "jeremiah-46-28-12",
+          "surface": "כָלָ֜ה",
+          "lemma": "כָּלָה",
+          "translit": "kalah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H3617"
+        },
+        {
+          "id": "jeremiah-46-28-13",
+          "surface": "בְּכָֽל",
+          "lemma": "כֹּל",
+          "translit": "bekal",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "jeremiah-46-28-14",
+          "surface": "הַגּוֹיִ֣ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "jeremiah-46-28-15",
+          "surface": "אֲשֶׁ֧ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "jeremiah-46-28-16",
+          "surface": "הִדַּחְתִּ֣יךָ",
+          "lemma": "נָדַח",
+          "translit": "hidachetiyka",
+          "morph": "Verb Hiphil Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5080"
+        },
+        {
+          "id": "jeremiah-46-28-17",
+          "surface": "שָׁ֗מָּה",
+          "lemma": "שָׁם",
+          "translit": "shamah",
+          "morph": "Adverb + Suffix dual",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "jeremiah-46-28-18",
+          "surface": "וְאֹֽתְךָ֙",
+          "lemma": "אֵת",
+          "translit": "ve'oteka",
+          "morph": "Conjunction + Particle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "jeremiah-46-28-19",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "jeremiah-46-28-20",
+          "surface": "אֶעֱשֶׂ֣ה",
+          "lemma": "עָשָׂה",
+          "translit": "'e`sheh",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "jeremiah-46-28-21",
+          "surface": "כָלָ֔ה",
+          "lemma": "כָּלָה",
+          "translit": "kalah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H3617"
+        },
+        {
+          "id": "jeremiah-46-28-22",
+          "surface": "וְיִסַּרְתִּ֨יךָ֙",
+          "lemma": "יָסַר",
+          "translit": "veyisaretiyka",
+          "morph": "Conjunction + Verb Piel Perfect 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3256"
+        },
+        {
+          "id": "jeremiah-46-28-23",
+          "surface": "לַמִּשְׁפָּ֔ט",
+          "lemma": "מִשְׁפָּט",
+          "translit": "lamishepat",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "jeremiah-46-28-24",
+          "surface": "וְנַקֵּ֖ה",
+          "lemma": "נָקָה",
+          "translit": "venaqeh",
+          "morph": "Conjunction + Verb Piel Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H5352"
+        },
+        {
+          "id": "jeremiah-46-28-25",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "jeremiah-46-28-26",
+          "surface": "אֲנַקֶּֽךָּ",
+          "lemma": "נָקָה",
+          "translit": "'naqeka",
+          "morph": "Verb Piel Imperative 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5352"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

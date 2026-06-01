@@ -1,1 +1,3840 @@
-{"id":"exodus-6","name":"Exodus","chapter":6,"verses":[{"ref":"Exodus 6:1","englishText":"Yahweh said to Moses, “Now you shall see what I will do to Pharaoh, for by a strong hand he shall let them go, and by a strong hand he shall drive them out of his land.”  ","tokens":[{"id":"exodus-6-1-0","surface":"וַיֹּ֤אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"exodus-6-1-1","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-1-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-1-3","surface":"מֹשֶׁ֔ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-1-4","surface":"עַתָּ֣ה","lemma":"עַתָּה","translit":"`atah","morph":"Adverb","glosses":[],"strongs":"H6258"},{"id":"exodus-6-1-5","surface":"תִרְאֶ֔ה","lemma":"רָאָה","translit":"tire'eh","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H7200"},{"id":"exodus-6-1-6","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"exodus-6-1-7","surface":"אֶֽעֱשֶׂ֖ה","lemma":"עָשָׂה","translit":"'e`sheh","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H6213"},{"id":"exodus-6-1-8","surface":"לְפַרְעֹ֑ה","lemma":"פַּרְעֹה","translit":"lepare`oh","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6547"},{"id":"exodus-6-1-9","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"exodus-6-1-10","surface":"בְיָ֤ד","lemma":"יָד","translit":"beyad","morph":"Preposition + Noun common singular absolute","glosses":[],"strongs":"H3027"},{"id":"exodus-6-1-11","surface":"חֲזָקָה֙","lemma":"חָזָק","translit":"chzaqah","morph":"Adjective","glosses":[],"strongs":"H2389"},{"id":"exodus-6-1-12","surface":"יְשַׁלְּחֵ֔ם","lemma":"שָׁלַח","translit":"yeshalechem","morph":"Verb Piel Imperative 3rd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H7971"},{"id":"exodus-6-1-13","surface":"וּבְיָ֣ד","lemma":"יָד","translit":"vbeyad","morph":"Conjunction + Preposition + Noun common singular absolute","glosses":[],"strongs":"H3027"},{"id":"exodus-6-1-14","surface":"חֲזָקָ֔ה","lemma":"חָזָק","translit":"chzaqah","morph":"Adjective","glosses":[],"strongs":"H2389"},{"id":"exodus-6-1-15","surface":"יְגָרְשֵׁ֖ם","lemma":"גָּרַשׁ","translit":"yegareshem","morph":"Verb Piel Imperative 3rd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H1644"},{"id":"exodus-6-1-16","surface":"מֵאַרְצֽוֹ","lemma":"אֶרֶץ","translit":"me'aretsvo","morph":"Preposition + Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Exodus 6:2","englishText":"  God spoke to Moses, and said to him, “I am Yahweh;","tokens":[{"id":"exodus-6-2-0","surface":"וַיְדַבֵּ֥ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"exodus-6-2-1","surface":"אֱלֹהִ֖ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"exodus-6-2-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-2-3","surface":"מֹשֶׁ֑ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-2-4","surface":"וַיֹּ֥אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"exodus-6-2-5","surface":"אֵלָ֖יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"exodus-6-2-6","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"exodus-6-2-7","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Exodus 6:3","englishText":"and I appeared to Abraham, to Isaac, and to Jacob, as God Almighty; but by my name Yahweh I was not known to them.","tokens":[{"id":"exodus-6-3-0","surface":"וָאֵרָ֗א","lemma":"רָאָה","translit":"va'era'","morph":"Conjunction + Verb Niphal Wayyiqtol 1st common singular","glosses":[],"strongs":"H7200"},{"id":"exodus-6-3-1","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-3-2","surface":"אַבְרָהָ֛ם","lemma":"אַבְרָהָם","translit":"'aberaham","morph":"Noun proper","glosses":[],"strongs":"H85"},{"id":"exodus-6-3-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-3-4","surface":"יִצְחָ֥ק","lemma":"יִצְחָק","translit":"yitsechaq","morph":"Noun proper","glosses":[],"strongs":"H3327"},{"id":"exodus-6-3-5","surface":"וְאֶֽל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-3-6","surface":"יַעֲקֹ֖ב","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"exodus-6-3-7","surface":"בְּאֵ֣ל","lemma":"אֵל","translit":"be'el","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H410"},{"id":"exodus-6-3-8","surface":"שַׁדָּ֑י","lemma":"שַׁדַּי","translit":"shaday","morph":"Noun proper","glosses":[],"strongs":"H7706"},{"id":"exodus-6-3-9","surface":"וּשְׁמִ֣י","lemma":"שֵׁם","translit":"vshemiy","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H8034"},{"id":"exodus-6-3-10","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-3-11","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"exodus-6-3-12","surface":"נוֹדַ֖עְתִּי","lemma":"יָדַע","translit":"nvoda`etiy","morph":"Verb Niphal Participle 1st common singular","glosses":[],"strongs":"H3045"},{"id":"exodus-6-3-13","surface":"לָהֶֽם","lemma":"לָהֶֽם","translit":"lahem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]}],"language":"hebrew"},{"ref":"Exodus 6:4","englishText":"I have also established my covenant with them, to give them the land of Canaan, the land of their travels, in which they lived as aliens.","tokens":[{"id":"exodus-6-4-0","surface":"וְגַ֨ם","lemma":"גַּם","translit":"vegam","morph":"Conjunction + Particle absolute","glosses":[],"strongs":"H1571"},{"id":"exodus-6-4-1","surface":"הֲקִמֹ֤תִי","lemma":"קוּם","translit":"hqimotiy","morph":"Verb Hiphil Participle 1st common singular","glosses":[],"strongs":"H6965"},{"id":"exodus-6-4-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-4-3","surface":"בְּרִיתִי֙","lemma":"בְּרִית","translit":"beriytiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H1285"},{"id":"exodus-6-4-4","surface":"אִתָּ֔ם","lemma":"אֵת","translit":"'itam","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H854"},{"id":"exodus-6-4-5","surface":"לָתֵ֥ת","lemma":"נָתַן","translit":"latet","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H5414"},{"id":"exodus-6-4-6","surface":"לָהֶ֖ם","lemma":"לָהֶ֖ם","translit":"lahem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]},{"id":"exodus-6-4-7","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-4-8","surface":"אֶ֣רֶץ","lemma":"אֶרֶץ","translit":"'erets","morph":"Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"exodus-6-4-9","surface":"כְּנָ֑עַן","lemma":"כְּנַעַן","translit":"kena`an","morph":"Noun proper","glosses":[],"strongs":"H3667"},{"id":"exodus-6-4-10","surface":"אֵ֛ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-4-11","surface":"אֶ֥רֶץ","lemma":"אֶרֶץ","translit":"'erets","morph":"Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"exodus-6-4-12","surface":"מְגֻרֵיהֶ֖ם","lemma":"מָגוּר","translit":"megureyhem","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H4033"},{"id":"exodus-6-4-13","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"exodus-6-4-14","surface":"גָּ֥רוּ","lemma":"גּוּר","translit":"garv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H1481"},{"id":"exodus-6-4-15","surface":"בָֽהּ","lemma":"בָֽהּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Exodus 6:5","englishText":"Moreover I have heard the groaning of the children of Israel, whom the Egyptians keep in bondage, and I have remembered my covenant.","tokens":[{"id":"exodus-6-5-0","surface":"וְגַ֣ם","lemma":"גַּם","translit":"vegam","morph":"Conjunction + Particle absolute","glosses":[],"strongs":"H1571"},{"id":"exodus-6-5-1","surface":"אֲנִ֣י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"exodus-6-5-2","surface":"שָׁמַ֗עְתִּי","lemma":"שָׁמַע","translit":"shama`etiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H8085"},{"id":"exodus-6-5-3","surface":"אֶֽת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-5-4","surface":"נַאֲקַת֙","lemma":"נְאָקָה","translit":"na'qat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H5009"},{"id":"exodus-6-5-5","surface":"בְּנֵ֣י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-5-6","surface":"יִשְׂרָאֵ֔ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"exodus-6-5-7","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"exodus-6-5-8","surface":"מִצְרַ֖יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"exodus-6-5-9","surface":"מַעֲבִדִ֣ים","lemma":"עָבַד","translit":"ma`bidiym","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H5647"},{"id":"exodus-6-5-10","surface":"אֹתָ֑ם","lemma":"אֵת","translit":"'otam","morph":"Particle + Suffix plural 3rd masculine","glosses":[],"strongs":"H853"},{"id":"exodus-6-5-11","surface":"וָאֶזְכֹּ֖ר","lemma":"זָכַר","translit":"va'ezekor","morph":"Conjunction + Verb Qal Wayyiqtol 1st common singular","glosses":[],"strongs":"H2142"},{"id":"exodus-6-5-12","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-5-13","surface":"בְּרִיתִֽי","lemma":"בְּרִית","translit":"beriytiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H1285"}],"language":"hebrew"},{"ref":"Exodus 6:6","englishText":"Therefore tell the children of Israel, ‘I am Yahweh, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with an outstretched arm, and with great judgments:","tokens":[{"id":"exodus-6-6-0","surface":"לָכֵ֞ן","lemma":"כֵּן","translit":"laken","morph":"Preposition + Adverb","glosses":[],"strongs":"H3651"},{"id":"exodus-6-6-1","surface":"אֱמֹ֥ר","lemma":"אָמַר","translit":"'mor","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"exodus-6-6-2","surface":"לִבְנֵֽי","lemma":"בֵּן","translit":"libeney","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-6-3","surface":"יִשְׂרָאֵ֘ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"exodus-6-6-4","surface":"אֲנִ֣י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"exodus-6-6-5","surface":"יְהוָה֒","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-6-6","surface":"וְהוֹצֵאתִ֣י","lemma":"יָצָא","translit":"vehvotse'tiy","morph":"Conjunction + Verb Hiphil Perfect 1st common singular","glosses":[],"strongs":"H3318"},{"id":"exodus-6-6-7","surface":"אֶתְכֶ֗ם","lemma":"אֵת","translit":"'etekem","morph":"Particle + Suffix plural 2nd masculine","glosses":[],"strongs":"H853"},{"id":"exodus-6-6-8","surface":"מִתַּ֨חַת֙","lemma":"תַּחַת","translit":"mitachat","morph":"Preposition + Preposition","glosses":[],"strongs":"H8478"},{"id":"exodus-6-6-9","surface":"סִבְלֹ֣ת","lemma":"סְבָלָה","translit":"sibelot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H5450"},{"id":"exodus-6-6-10","surface":"מִצְרַ֔יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"exodus-6-6-11","surface":"וְהִצַּלְתִּ֥י","lemma":"נָצַל","translit":"vehitsaletiy","morph":"Conjunction + Verb Hiphil Perfect 1st common singular","glosses":[],"strongs":"H5337"},{"id":"exodus-6-6-12","surface":"אֶתְכֶ֖ם","lemma":"אֵת","translit":"'etekem","morph":"Particle + Suffix plural 2nd masculine","glosses":[],"strongs":"H853"},{"id":"exodus-6-6-13","surface":"מֵעֲבֹדָתָ֑ם","lemma":"עֲבֹדָה","translit":"me`bodatam","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H5656"},{"id":"exodus-6-6-14","surface":"וְגָאַלְתִּ֤י","lemma":"גָּאַל","translit":"vega'aletiy","morph":"Conjunction + Verb Qal Perfect 1st common singular","glosses":[],"strongs":"H1350"},{"id":"exodus-6-6-15","surface":"אֶתְכֶם֙","lemma":"אֵת","translit":"'etekem","morph":"Particle + Suffix plural 2nd masculine","glosses":[],"strongs":"H853"},{"id":"exodus-6-6-16","surface":"בִּזְר֣וֹעַ","lemma":"זְרוֹעַ","translit":"bizervo`a","morph":"Preposition + Noun common singular absolute","glosses":[],"strongs":"H2220"},{"id":"exodus-6-6-17","surface":"נְטוּיָ֔ה","lemma":"נָטָה","translit":"netvyah","morph":"Verb Qal s","glosses":[],"strongs":"H5186"},{"id":"exodus-6-6-18","surface":"וּבִשְׁפָטִ֖ים","lemma":"שֶׁפֶט","translit":"vbishepatiym","morph":"Conjunction + Preposition + Noun common masculine plural absolute","glosses":[],"strongs":"H8201"},{"id":"exodus-6-6-19","surface":"גְּדֹלִֽים","lemma":"גָּדוֹל","translit":"gedoliym","morph":"Adjective","glosses":[],"strongs":"H1419"}],"language":"hebrew"},{"ref":"Exodus 6:7","englishText":"and I will take you to me for a people, and I will be to you a God; and you shall know that I am Yahweh your God, who brings you out from under the burdens of the Egyptians.","tokens":[{"id":"exodus-6-7-0","surface":"וְלָקַחְתִּ֨י","lemma":"לָקַח","translit":"velaqachetiy","morph":"Conjunction + Verb Qal Perfect 1st common singular","glosses":[],"strongs":"H3947"},{"id":"exodus-6-7-1","surface":"אֶתְכֶ֥ם","lemma":"אֵת","translit":"'etekem","morph":"Particle + Suffix plural 2nd masculine","glosses":[],"strongs":"H853"},{"id":"exodus-6-7-2","surface":"לִי֙","lemma":"לִי֙","translit":"liy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]},{"id":"exodus-6-7-3","surface":"לְעָ֔ם","lemma":"עַם","translit":"le`am","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"exodus-6-7-4","surface":"וְהָיִ֥יתִי","lemma":"הָיָה","translit":"vehayiytiy","morph":"Conjunction + Verb Qal Perfect 1st common singular","glosses":[],"strongs":"H1961"},{"id":"exodus-6-7-5","surface":"לָכֶ֖ם","lemma":"לָכֶ֖ם","translit":"lakem","morph":"Preposition + Suffix plural 2nd masculine","glosses":[]},{"id":"exodus-6-7-6","surface":"לֵֽאלֹהִ֑ים","lemma":"אֱלֹהִים","translit":"le'lohiym","morph":"Preposition + Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"exodus-6-7-7","surface":"וִֽידַעְתֶּ֗ם","lemma":"יָדַע","translit":"viyda`etem","morph":"Conjunction + Verb Qal Perfect 2nd masculine plural","glosses":[],"strongs":"H3045"},{"id":"exodus-6-7-8","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"exodus-6-7-9","surface":"אֲנִ֤י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"exodus-6-7-10","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-7-11","surface":"אֱלֹ֣הֵיכֶ֔ם","lemma":"אֱלֹהִים","translit":"'loheykem","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H430"},{"id":"exodus-6-7-12","surface":"הַמּוֹצִ֣יא","lemma":"יָצָא","translit":"hamvotsiy'","morph":"Particle dual + Verb Hiphil Passive Participle","glosses":[],"strongs":"H3318"},{"id":"exodus-6-7-13","surface":"אֶתְכֶ֔ם","lemma":"אֵת","translit":"'etekem","morph":"Particle + Suffix plural 2nd masculine","glosses":[],"strongs":"H853"},{"id":"exodus-6-7-14","surface":"מִתַּ֖חַת","lemma":"תַּחַת","translit":"mitachat","morph":"Preposition + Preposition","glosses":[],"strongs":"H8478"},{"id":"exodus-6-7-15","surface":"סִבְל֥וֹת","lemma":"סְבָלָה","translit":"sibelvot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H5450"},{"id":"exodus-6-7-16","surface":"מִצְרָֽיִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"}],"language":"hebrew"},{"ref":"Exodus 6:8","englishText":"I will bring you into the land which I swore to give to Abraham, to Isaac, and to Jacob; and I will give it to you for a heritage: I am Yahweh.’”  ","tokens":[{"id":"exodus-6-8-0","surface":"וְהֵבֵאתִ֤י","lemma":"בּוֹא","translit":"vehebe'tiy","morph":"Conjunction + Verb Hiphil Perfect 1st common singular","glosses":[],"strongs":"H935"},{"id":"exodus-6-8-1","surface":"אֶתְכֶם֙","lemma":"אֵת","translit":"'etekem","morph":"Particle + Suffix plural 2nd masculine","glosses":[],"strongs":"H853"},{"id":"exodus-6-8-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-8-3","surface":"הָאָ֔רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"exodus-6-8-4","surface":"אֲשֶׁ֤ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"exodus-6-8-5","surface":"נָשָׂ֨אתִי֙","lemma":"נָשָׂא","translit":"nasha'tiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H5375"},{"id":"exodus-6-8-6","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-8-7","surface":"יָדִ֔י","lemma":"יָד","translit":"yadiy","morph":"Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H3027"},{"id":"exodus-6-8-8","surface":"לָתֵ֣ת","lemma":"נָתַן","translit":"latet","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H5414"},{"id":"exodus-6-8-9","surface":"אֹתָ֔הּ","lemma":"אֵת","translit":"'otah","morph":"Particle + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H853"},{"id":"exodus-6-8-10","surface":"לְאַבְרָהָ֥ם","lemma":"אַבְרָהָם","translit":"le'aberaham","morph":"Preposition + Noun proper","glosses":[],"strongs":"H85"},{"id":"exodus-6-8-11","surface":"לְיִצְחָ֖ק","lemma":"יִצְחָק","translit":"leyitsechaq","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3327"},{"id":"exodus-6-8-12","surface":"וּֽלְיַעֲקֹ֑ב","lemma":"יַעֲקֹב","translit":"vleya`qob","morph":"Conjunction + Preposition + Noun proper","glosses":[],"strongs":"H3290"},{"id":"exodus-6-8-13","surface":"וְנָתַתִּ֨י","lemma":"נָתַן","translit":"venatatiy","morph":"Conjunction + Verb Qal Perfect 1st common singular","glosses":[],"strongs":"H5414"},{"id":"exodus-6-8-14","surface":"אֹתָ֥הּ","lemma":"אֵת","translit":"'otah","morph":"Particle + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H853"},{"id":"exodus-6-8-15","surface":"לָכֶ֛ם","lemma":"לָכֶ֛ם","translit":"lakem","morph":"Preposition + Suffix plural 2nd masculine","glosses":[]},{"id":"exodus-6-8-16","surface":"מוֹרָשָׁ֖ה","lemma":"מוֹרָשָׁה","translit":"mvorashah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H4181"},{"id":"exodus-6-8-17","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"exodus-6-8-18","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Exodus 6:9","englishText":"  Moses spoke so to the children of Israel, but they didn’t listen to Moses for anguish of spirit, and for cruel bondage.  ","tokens":[{"id":"exodus-6-9-0","surface":"וַיְדַבֵּ֥ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"exodus-6-9-1","surface":"מֹשֶׁ֛ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-9-2","surface":"כֵּ֖ן","lemma":"כֵּן","translit":"ken","morph":"Particle masculine","glosses":[],"strongs":"H3651"},{"id":"exodus-6-9-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-9-4","surface":"בְּנֵ֣י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-9-5","surface":"יִשְׂרָאֵ֑ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"exodus-6-9-6","surface":"וְלֹ֤א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"exodus-6-9-7","surface":"שָֽׁמְעוּ֙","lemma":"שָׁמַע","translit":"shame`v","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H8085"},{"id":"exodus-6-9-8","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-9-9","surface":"מֹשֶׁ֔ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-9-10","surface":"מִקֹּ֣צֶר","lemma":"קֹצֶר","translit":"miqotser","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H7115"},{"id":"exodus-6-9-11","surface":"ר֔וּחַ","lemma":"רוּחַ","translit":"rvcha","morph":"Noun common singular absolute","glosses":[],"strongs":"H7307"},{"id":"exodus-6-9-12","surface":"וּמֵעֲבֹדָ֖ה","lemma":"עֲבֹדָה","translit":"vme`bodah","morph":"Conjunction + Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H5656"},{"id":"exodus-6-9-13","surface":"קָשָֽׁה","lemma":"קָשֶׁה","translit":"qashah","morph":"Adjective","glosses":[],"strongs":"H7186"}],"language":"hebrew"},{"ref":"Exodus 6:10","englishText":"  Yahweh spoke to Moses, saying,","tokens":[{"id":"exodus-6-10-0","surface":"וַיְדַבֵּ֥ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"exodus-6-10-1","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-10-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-10-3","surface":"מֹשֶׁ֥ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-10-4","surface":"לֵּאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Exodus 6:11","englishText":"“Go in, speak to Pharaoh king of Egypt, that he let the children of Israel go out of his land.”  ","tokens":[{"id":"exodus-6-11-0","surface":"בֹּ֣א","lemma":"בּוֹא","translit":"bo'","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H935"},{"id":"exodus-6-11-1","surface":"דַבֵּ֔ר","lemma":"דָבַר","translit":"daber","morph":"Verb Piel Weqatal 2nd masculine singular","glosses":[],"strongs":"H1696"},{"id":"exodus-6-11-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-11-3","surface":"פַּרְעֹ֖ה","lemma":"פַּרְעֹה","translit":"pare`oh","morph":"Noun proper","glosses":[],"strongs":"H6547"},{"id":"exodus-6-11-4","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"exodus-6-11-5","surface":"מִצְרָ֑יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"exodus-6-11-6","surface":"וִֽישַׁלַּ֥ח","lemma":"שָׁלַח","translit":"viyshalach","morph":"Conjunction + Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H7971"},{"id":"exodus-6-11-7","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-11-8","surface":"בְּנֵֽי","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-11-9","surface":"יִשְׂרָאֵ֖ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"exodus-6-11-10","surface":"מֵאַרְצֽוֹ","lemma":"אֶרֶץ","translit":"me'aretsvo","morph":"Preposition + Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Exodus 6:12","englishText":"  Moses spoke before Yahweh, saying, “Behold, the children of Israel haven’t listened to me. How then shall Pharaoh listen to me, who am of uncircumcised lips?”","tokens":[{"id":"exodus-6-12-0","surface":"וַיְדַבֵּ֣ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"exodus-6-12-1","surface":"מֹשֶׁ֔ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-12-2","surface":"לִפְנֵ֥י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"exodus-6-12-3","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-12-4","surface":"לֵאמֹ֑ר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"},{"id":"exodus-6-12-5","surface":"הֵ֤ן","lemma":"הֵן","translit":"hen","morph":"Particle masculine","glosses":[],"strongs":"H2005"},{"id":"exodus-6-12-6","surface":"בְּנֵֽי","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-12-7","surface":"יִשְׂרָאֵל֙","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"exodus-6-12-8","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"exodus-6-12-9","surface":"שָׁמְע֣וּ","lemma":"שָׁמַע","translit":"shame`v","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H8085"},{"id":"exodus-6-12-10","surface":"אֵלַ֔י","lemma":"אֵל","translit":"'elay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H413"},{"id":"exodus-6-12-11","surface":"וְאֵיךְ֙","lemma":"אֵיךְ","translit":"ve'eyke","morph":"Conjunction + Particle","glosses":[],"strongs":"H349"},{"id":"exodus-6-12-12","surface":"יִשְׁמָעֵ֣נִי","lemma":"שָׁמַע","translit":"yishema`eniy","morph":"Verb Qal Imperative 3rd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H8085"},{"id":"exodus-6-12-13","surface":"פַרְעֹ֔ה","lemma":"פַּרְעֹה","translit":"pare`oh","morph":"Noun proper","glosses":[],"strongs":"H6547"},{"id":"exodus-6-12-14","surface":"וַאֲנִ֖י","lemma":"אֲנִי","translit":"va'niy","morph":"Conjunction + Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"exodus-6-12-15","surface":"עֲרַ֥ל","lemma":"עָרֵל","translit":"`ral","morph":"Adjective","glosses":[],"strongs":"H6189"},{"id":"exodus-6-12-16","surface":"שְׂפָתָֽיִם","lemma":"שָׂפָה","translit":"shepatayim","morph":"Noun common feminine dual absolute","glosses":[],"strongs":"H8193"}],"language":"hebrew"},{"ref":"Exodus 6:13","englishText":"Yahweh spoke to Moses and to Aaron, and gave them a command to the children of Israel, and to Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.  ","tokens":[{"id":"exodus-6-13-0","surface":"וַיְדַבֵּ֣ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"exodus-6-13-1","surface":"יְהוָה֮","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-13-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-13-3","surface":"מֹשֶׁ֣ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-13-4","surface":"וְאֶֽל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-13-5","surface":"אַהֲרֹן֒","lemma":"אַהֲרוֹן","translit":"'ahron","morph":"Noun proper","glosses":[],"strongs":"H175"},{"id":"exodus-6-13-6","surface":"וַיְצַוֵּם֙","lemma":"צָוָה","translit":"vayetsavem","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H6680"},{"id":"exodus-6-13-7","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-13-8","surface":"בְּנֵ֣י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-13-9","surface":"יִשְׂרָאֵ֔ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"exodus-6-13-10","surface":"וְאֶל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-13-11","surface":"פַּרְעֹ֖ה","lemma":"פַּרְעֹה","translit":"pare`oh","morph":"Noun proper","glosses":[],"strongs":"H6547"},{"id":"exodus-6-13-12","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"exodus-6-13-13","surface":"מִצְרָ֑יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"exodus-6-13-14","surface":"לְהוֹצִ֥יא","lemma":"יָצָא","translit":"lehvotsiy'","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H3318"},{"id":"exodus-6-13-15","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-13-16","surface":"בְּנֵֽי","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-13-17","surface":"יִשְׂרָאֵ֖ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"exodus-6-13-18","surface":"מֵאֶ֥רֶץ","lemma":"אֶרֶץ","translit":"me'erets","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"exodus-6-13-19","surface":"מִצְרָֽיִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"}],"language":"hebrew"},{"ref":"Exodus 6:14","englishText":"  These are the heads of their fathers’ houses. The sons of Reuben the firstborn of Israel: Hanoch, and Pallu, Hezron, and Carmi; these are the families of Reuben.","tokens":[{"id":"exodus-6-14-0","surface":"אֵ֖לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"exodus-6-14-1","surface":"רָאשֵׁ֣י","lemma":"רֹאשׁ","translit":"ra'shey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H7218"},{"id":"exodus-6-14-2","surface":"בֵית","lemma":"בַּיִת","translit":"beyt","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"exodus-6-14-3","surface":"אֲבֹתָ֑ם","lemma":"אָב","translit":"'botam","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H1"},{"id":"exodus-6-14-4","surface":"בְּנֵ֨י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-14-5","surface":"רְאוּבֵ֜ן","lemma":"רְאוּבֵן","translit":"re'vben","morph":"Noun proper","glosses":[],"strongs":"H7205"},{"id":"exodus-6-14-6","surface":"בְּכֹ֣ר","lemma":"בְּכוֹר","translit":"bekor","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1060"},{"id":"exodus-6-14-7","surface":"יִשְׂרָאֵ֗ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"exodus-6-14-8","surface":"חֲנ֤וֹךְ","lemma":"חֲנוֹךְ","translit":"chnvoke","morph":"Noun proper","glosses":[],"strongs":"H2585"},{"id":"exodus-6-14-9","surface":"וּפַלּוּא֙","lemma":"פַּלּוּא","translit":"vpalv'","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H6396"},{"id":"exodus-6-14-10","surface":"חֶצְר֣וֹן","lemma":"חֶצְרוֹן","translit":"chetservon","morph":"Noun proper","glosses":[],"strongs":"H2696"},{"id":"exodus-6-14-11","surface":"וְכַרְמִ֔י","lemma":"כַּרְמִי","translit":"vekaremiy","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3756"},{"id":"exodus-6-14-12","surface":"אֵ֖לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"exodus-6-14-13","surface":"מִשְׁפְּחֹ֥ת","lemma":"מִשְׁפָּחָה","translit":"mishepechot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H4940"},{"id":"exodus-6-14-14","surface":"רְאוּבֵֽן","lemma":"רְאוּבֵן","translit":"re'vben","morph":"Noun proper","glosses":[],"strongs":"H7205"}],"language":"hebrew"},{"ref":"Exodus 6:15","englishText":"The sons of Simeon: Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanite woman; these are the families of Simeon.","tokens":[{"id":"exodus-6-15-0","surface":"וּבְנֵ֣י","lemma":"בֵּן","translit":"vbeney","morph":"Conjunction + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-15-1","surface":"שִׁמְע֗וֹן","lemma":"שִׁמְעוֹן","translit":"shime`von","morph":"Noun proper","glosses":[],"strongs":"H8095"},{"id":"exodus-6-15-2","surface":"יְמוּאֵ֨ל","lemma":"יְמוּאֵל","translit":"yemv'el","morph":"Noun proper","glosses":[],"strongs":"H3223"},{"id":"exodus-6-15-3","surface":"וְיָמִ֤ין","lemma":"יָמִין","translit":"veyamiyn","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3226"},{"id":"exodus-6-15-4","surface":"וְאֹ֨הַד֙","lemma":"אֹהַד","translit":"ve'ohad","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H161"},{"id":"exodus-6-15-5","surface":"וְיָכִ֣ין","lemma":"יָכִין","translit":"veyakiyn","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3199"},{"id":"exodus-6-15-6","surface":"וְצֹ֔חַר","lemma":"צֹחַר","translit":"vetsochar","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H6714"},{"id":"exodus-6-15-7","surface":"וְשָׁא֖וּל","lemma":"שָׁאוּל","translit":"vesha'vl","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H7586"},{"id":"exodus-6-15-8","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-15-9","surface":"הַֽכְּנַעֲנִ֑ית","lemma":"כְּנַעַנִי","translit":"hakena`niyt","morph":"Particle dual + Noun gentilic feminine singular absolute","glosses":[],"strongs":"H3669"},{"id":"exodus-6-15-10","surface":"אֵ֖לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"exodus-6-15-11","surface":"מִשְׁפְּחֹ֥ת","lemma":"מִשְׁפָּחָה","translit":"mishepechot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H4940"},{"id":"exodus-6-15-12","surface":"שִׁמְעֽוֹן","lemma":"שִׁמְעוֹן","translit":"shime`von","morph":"Noun proper","glosses":[],"strongs":"H8095"}],"language":"hebrew"},{"ref":"Exodus 6:16","englishText":"These are the names of the sons of Levi according to their generations: Gershon, and Kohath, and Merari; and the years of the life of Levi were one hundred thirty-seven years.","tokens":[{"id":"exodus-6-16-0","surface":"וְאֵ֨לֶּה","lemma":"אֵלֶּה","translit":"ve'eleh","morph":"Conjunction + Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"exodus-6-16-1","surface":"שְׁמ֤וֹת","lemma":"שֵׁם","translit":"shemvot","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H8034"},{"id":"exodus-6-16-2","surface":"בְּנֵֽי","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-16-3","surface":"לֵוִי֙","lemma":"לֵוִי","translit":"leviy","morph":"Noun proper","glosses":[],"strongs":"H3878"},{"id":"exodus-6-16-4","surface":"לְתֹ֣לְדֹתָ֔ם","lemma":"תּוֹלְדָה","translit":"letoledotam","morph":"Preposition + Noun common feminine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H8435"},{"id":"exodus-6-16-5","surface":"גֵּרְשׁ֕וֹן","lemma":"גֵּרְשׁוֹן","translit":"gereshvon","morph":"Noun proper","glosses":[],"strongs":"H1648"},{"id":"exodus-6-16-6","surface":"וּקְהָ֖ת","lemma":"קְהָת","translit":"vqehat","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H6955"},{"id":"exodus-6-16-7","surface":"וּמְרָרִ֑י","lemma":"מְרָרִי","translit":"vmerariy","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H4847"},{"id":"exodus-6-16-8","surface":"וּשְׁנֵי֙","lemma":"שָׁנֶה","translit":"vsheney","morph":"Conjunction + Adjective common masculine dual construct","glosses":[],"strongs":"H8141"},{"id":"exodus-6-16-9","surface":"חַיֵּ֣י","lemma":"חַי","translit":"chayey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H2416"},{"id":"exodus-6-16-10","surface":"לֵוִ֔י","lemma":"לֵוִי","translit":"leviy","morph":"Noun proper","glosses":[],"strongs":"H3878"},{"id":"exodus-6-16-11","surface":"שֶׁ֧בַע","lemma":"שֶׁבַע","translit":"sheba`","morph":"Adjective common feminine singular absolute","glosses":[],"strongs":"H7651"},{"id":"exodus-6-16-12","surface":"וּשְׁלֹשִׁ֛ים","lemma":"שְׁלוֹשִׁים","translit":"vsheloshiym","morph":"Conjunction + Adjective common plural absolute","glosses":[],"strongs":"H7970"},{"id":"exodus-6-16-13","surface":"וּמְאַ֖ת","lemma":"מֵאָה","translit":"vme'at","morph":"Conjunction + Adjective common singular construct","glosses":[],"strongs":"H3967"},{"id":"exodus-6-16-14","surface":"שָׁנָֽה","lemma":"שָׁנֶה","translit":"shanah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8141"}],"language":"hebrew"},{"ref":"Exodus 6:17","englishText":"The sons of Gershon: Libni and Shimei, according to their families.","tokens":[{"id":"exodus-6-17-0","surface":"בְּנֵ֥י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-17-1","surface":"גֵרְשׁ֛וֹן","lemma":"גֵּרְשׁוֹן","translit":"gereshvon","morph":"Noun proper","glosses":[],"strongs":"H1648"},{"id":"exodus-6-17-2","surface":"לִבְנִ֥י","lemma":"לִבְנִי","translit":"libeniy","morph":"Noun proper","glosses":[],"strongs":"H3845"},{"id":"exodus-6-17-3","surface":"וְשִׁמְעִ֖י","lemma":"שִׁמְעִי","translit":"veshime`iy","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H8096"},{"id":"exodus-6-17-4","surface":"לְמִשְׁפְּחֹתָֽם","lemma":"מִשְׁפָּחָה","translit":"lemishepechotam","morph":"Preposition + Noun common feminine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H4940"}],"language":"hebrew"},{"ref":"Exodus 6:18","englishText":"The sons of Kohath: Amram, and Izhar, and Hebron, and Uzziel; and the years of the life of Kohath were one hundred thirty-three years.","tokens":[{"id":"exodus-6-18-0","surface":"וּבְנֵ֣י","lemma":"בֵּן","translit":"vbeney","morph":"Conjunction + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-18-1","surface":"קְהָ֔ת","lemma":"קְהָת","translit":"qehat","morph":"Noun proper","glosses":[],"strongs":"H6955"},{"id":"exodus-6-18-2","surface":"עַמְרָ֣ם","lemma":"עַמְרָם","translit":"`ameram","morph":"Noun proper","glosses":[],"strongs":"H6019"},{"id":"exodus-6-18-3","surface":"וְיִצְהָ֔ר","lemma":"יִצְהָר","translit":"veyitsehar","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3324"},{"id":"exodus-6-18-4","surface":"וְחֶבְר֖וֹן","lemma":"חֶבְרוֹן","translit":"vechebervon","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H2275"},{"id":"exodus-6-18-5","surface":"וְעֻזִּיאֵ֑ל","lemma":"עֻזִּיאֵל","translit":"ve`uziy'el","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H5816"},{"id":"exodus-6-18-6","surface":"וּשְׁנֵי֙","lemma":"שָׁנֶה","translit":"vsheney","morph":"Conjunction + Adjective common masculine dual construct","glosses":[],"strongs":"H8141"},{"id":"exodus-6-18-7","surface":"חַיֵּ֣י","lemma":"חַי","translit":"chayey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H2416"},{"id":"exodus-6-18-8","surface":"קְהָ֔ת","lemma":"קְהָת","translit":"qehat","morph":"Noun proper","glosses":[],"strongs":"H6955"},{"id":"exodus-6-18-9","surface":"שָׁלֹ֧שׁ","lemma":"שָׁלוֹשׁ","translit":"shalosh","morph":"Adjective common feminine singular absolute","glosses":[],"strongs":"H7969"},{"id":"exodus-6-18-10","surface":"וּשְׁלֹשִׁ֛ים","lemma":"שְׁלוֹשִׁים","translit":"vsheloshiym","morph":"Conjunction + Adjective common plural absolute","glosses":[],"strongs":"H7970"},{"id":"exodus-6-18-11","surface":"וּמְאַ֖ת","lemma":"מֵאָה","translit":"vme'at","morph":"Conjunction + Adjective common singular construct","glosses":[],"strongs":"H3967"},{"id":"exodus-6-18-12","surface":"שָׁנָֽה","lemma":"שָׁנֶה","translit":"shanah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8141"}],"language":"hebrew"},{"ref":"Exodus 6:19","englishText":"The sons of Merari: Mahli and Mushi. These are the families of the Levites according to their generations.","tokens":[{"id":"exodus-6-19-0","surface":"וּבְנֵ֥י","lemma":"בֵּן","translit":"vbeney","morph":"Conjunction + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-19-1","surface":"מְרָרִ֖י","lemma":"מְרָרִי","translit":"merariy","morph":"Noun proper","glosses":[],"strongs":"H4847"},{"id":"exodus-6-19-2","surface":"מַחְלִ֣י","lemma":"מַחְלִי","translit":"macheliy","morph":"Noun proper","glosses":[],"strongs":"H4249"},{"id":"exodus-6-19-3","surface":"וּמוּשִׁ֑י","lemma":"מוּשִׁי","translit":"vmvshiy","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H4187"},{"id":"exodus-6-19-4","surface":"אֵ֛לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"exodus-6-19-5","surface":"מִשְׁפְּחֹ֥ת","lemma":"מִשְׁפָּחָה","translit":"mishepechot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H4940"},{"id":"exodus-6-19-6","surface":"הַלֵּוִ֖י","lemma":"לֵוִי","translit":"haleviy","morph":"Particle dual + Noun gentilic masculine singular absolute","glosses":[],"strongs":"H3878"},{"id":"exodus-6-19-7","surface":"לְתֹלְדֹתָֽם","lemma":"תּוֹלְדָה","translit":"letoledotam","morph":"Preposition + Noun common feminine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H8435"}],"language":"hebrew"},{"ref":"Exodus 6:20","englishText":"Amram took Jochebed his father’s sister to himself as wife; and she bore him Aaron and Moses: and the years of the life of Amram were a hundred and thirty-seven years.","tokens":[{"id":"exodus-6-20-0","surface":"וַיִּקַּ֨ח","lemma":"לָקַח","translit":"vayiqach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3947"},{"id":"exodus-6-20-1","surface":"עַמְרָ֜ם","lemma":"עַמְרָם","translit":"`ameram","morph":"Noun proper","glosses":[],"strongs":"H6019"},{"id":"exodus-6-20-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-20-3","surface":"יוֹכֶ֤בֶד","lemma":"יוֹכֶבֶד","translit":"yvokebed","morph":"Noun proper","glosses":[],"strongs":"H3115"},{"id":"exodus-6-20-4","surface":"דֹּֽדָתוֹ֙","lemma":"דּוֹדָה","translit":"dodatvo","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1733"},{"id":"exodus-6-20-5","surface":"ל֣וֹ","lemma":"ל֣וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"exodus-6-20-6","surface":"לְאִשָּׁ֔ה","lemma":"אִשָּׁה","translit":"le'ishah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"exodus-6-20-7","surface":"וַתֵּ֣לֶד","lemma":"יָלַד","translit":"vateled","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3205"},{"id":"exodus-6-20-8","surface":"ל֔וֹ","lemma":"ל֔וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"exodus-6-20-9","surface":"אֶֽת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-20-10","surface":"אַהֲרֹ֖ן","lemma":"אַהֲרוֹן","translit":"'ahron","morph":"Noun proper","glosses":[],"strongs":"H175"},{"id":"exodus-6-20-11","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-20-12","surface":"מֹשֶׁ֑ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-20-13","surface":"וּשְׁנֵי֙","lemma":"שָׁנֶה","translit":"vsheney","morph":"Conjunction + Adjective common masculine dual construct","glosses":[],"strongs":"H8141"},{"id":"exodus-6-20-14","surface":"חַיֵּ֣י","lemma":"חַי","translit":"chayey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H2416"},{"id":"exodus-6-20-15","surface":"עַמְרָ֔ם","lemma":"עַמְרָם","translit":"`ameram","morph":"Noun proper","glosses":[],"strongs":"H6019"},{"id":"exodus-6-20-16","surface":"שֶׁ֧בַע","lemma":"שֶׁבַע","translit":"sheba`","morph":"Adjective common feminine singular absolute","glosses":[],"strongs":"H7651"},{"id":"exodus-6-20-17","surface":"וּשְׁלֹשִׁ֛ים","lemma":"שְׁלוֹשִׁים","translit":"vsheloshiym","morph":"Conjunction + Adjective common plural absolute","glosses":[],"strongs":"H7970"},{"id":"exodus-6-20-18","surface":"וּמְאַ֖ת","lemma":"מֵאָה","translit":"vme'at","morph":"Conjunction + Adjective common singular construct","glosses":[],"strongs":"H3967"},{"id":"exodus-6-20-19","surface":"שָׁנָֽה","lemma":"שָׁנֶה","translit":"shanah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8141"}],"language":"hebrew"},{"ref":"Exodus 6:21","englishText":"The sons of Izhar: Korah, and Nepheg, and Zichri.","tokens":[{"id":"exodus-6-21-0","surface":"וּבְנֵ֖י","lemma":"בֵּן","translit":"vbeney","morph":"Conjunction + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-21-1","surface":"יִצְהָ֑ר","lemma":"יִצְהָר","translit":"yitsehar","morph":"Noun proper","glosses":[],"strongs":"H3324"},{"id":"exodus-6-21-2","surface":"קֹ֥רַח","lemma":"קֹרַח","translit":"qorach","morph":"Noun proper","glosses":[],"strongs":"H7141"},{"id":"exodus-6-21-3","surface":"וָנֶ֖פֶג","lemma":"נֶפֶג","translit":"vanepeg","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H5298"},{"id":"exodus-6-21-4","surface":"וְזִכְרִֽי","lemma":"זִכְרִי","translit":"vezikeriy","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H2147"}],"language":"hebrew"},{"ref":"Exodus 6:22","englishText":"The sons of Uzziel: Mishael, and Elzaphan, and Sithri.","tokens":[{"id":"exodus-6-22-0","surface":"וּבְנֵ֖י","lemma":"בֵּן","translit":"vbeney","morph":"Conjunction + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-22-1","surface":"עֻזִּיאֵ֑ל","lemma":"עֻזִּיאֵל","translit":"`uziy'el","morph":"Noun proper","glosses":[],"strongs":"H5816"},{"id":"exodus-6-22-2","surface":"מִֽישָׁאֵ֥ל","lemma":"מִישָׁאֵל","translit":"miysha'el","morph":"Noun proper","glosses":[],"strongs":"H4332"},{"id":"exodus-6-22-3","surface":"וְאֶלְצָפָ֖ן","lemma":"אֱלִיצָפָן","translit":"ve'eletsapan","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H469"},{"id":"exodus-6-22-4","surface":"וְסִתְרִֽי","lemma":"סִתְרִי","translit":"vesiteriy","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H5644"}],"language":"hebrew"},{"ref":"Exodus 6:23","englishText":"Aaron took Elisheba, the daughter of Amminadab, the sister of Nahshon, as his wife; and she bore him Nadab and Abihu, Eleazar and Ithamar.","tokens":[{"id":"exodus-6-23-0","surface":"וַיִּקַּ֨ח","lemma":"לָקַח","translit":"vayiqach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3947"},{"id":"exodus-6-23-1","surface":"אַהֲרֹ֜ן","lemma":"אַהֲרוֹן","translit":"'ahron","morph":"Noun proper","glosses":[],"strongs":"H175"},{"id":"exodus-6-23-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-23-3","surface":"אֱלִישֶׁ֧בַע","lemma":"אֱלִישֶׁבַע","translit":"'liysheba`","morph":"Noun proper","glosses":[],"strongs":"H472"},{"id":"exodus-6-23-4","surface":"בַּת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"exodus-6-23-5","surface":"עַמִּינָדָ֛ב","lemma":"עַמִּינָדָב","translit":"`amiynadab","morph":"Noun proper","glosses":[],"strongs":"H5992"},{"id":"exodus-6-23-6","surface":"אֲח֥וֹת","lemma":"אָחוֹת","translit":"'chvot","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H269"},{"id":"exodus-6-23-7","surface":"נַחְשׁ֖וֹן","lemma":"נַחְשׁוֹן","translit":"nacheshvon","morph":"Noun proper","glosses":[],"strongs":"H5177"},{"id":"exodus-6-23-8","surface":"ל֣וֹ","lemma":"ל֣וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"exodus-6-23-9","surface":"לְאִשָּׁ֑ה","lemma":"אִשָּׁה","translit":"le'ishah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"exodus-6-23-10","surface":"וַתֵּ֣לֶד","lemma":"יָלַד","translit":"vateled","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3205"},{"id":"exodus-6-23-11","surface":"ל֗וֹ","lemma":"ל֗וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"exodus-6-23-12","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-23-13","surface":"נָדָב֙","lemma":"נָדָב","translit":"nadab","morph":"Noun proper","glosses":[],"strongs":"H5070"},{"id":"exodus-6-23-14","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-23-15","surface":"אֲבִיה֔וּא","lemma":"אֲבִיהוּא","translit":"'biyhv'","morph":"Noun proper","glosses":[],"strongs":"H30"},{"id":"exodus-6-23-16","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-23-17","surface":"אֶלְעָזָ֖ר","lemma":"אֶלְעָזָר","translit":"'ele`azar","morph":"Noun proper","glosses":[],"strongs":"H499"},{"id":"exodus-6-23-18","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-23-19","surface":"אִֽיתָמָֽר","lemma":"אִיתָמָר","translit":"'iytamar","morph":"Noun proper","glosses":[],"strongs":"H385"}],"language":"hebrew"},{"ref":"Exodus 6:24","englishText":"The sons of Korah: Assir, and Elkanah, and Abiasaph; these are the families of the Korahites.","tokens":[{"id":"exodus-6-24-0","surface":"וּבְנֵ֣י","lemma":"בֵּן","translit":"vbeney","morph":"Conjunction + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-24-1","surface":"קֹ֔רַח","lemma":"קֹרַח","translit":"qorach","morph":"Noun proper","glosses":[],"strongs":"H7141"},{"id":"exodus-6-24-2","surface":"אַסִּ֥יר","lemma":"אַסִּיר","translit":"'asiyr","morph":"Noun proper","glosses":[],"strongs":"H617"},{"id":"exodus-6-24-3","surface":"וְאֶלְקָנָ֖ה","lemma":"אֶלְקָנָה","translit":"ve'eleqanah","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H511"},{"id":"exodus-6-24-4","surface":"וַאֲבִיאָסָ֑ף","lemma":"אֲבִיאָסָף","translit":"va'biy'asap","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H23"},{"id":"exodus-6-24-5","surface":"אֵ֖לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"exodus-6-24-6","surface":"מִשְׁפְּחֹ֥ת","lemma":"מִשְׁפָּחָה","translit":"mishepechot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H4940"},{"id":"exodus-6-24-7","surface":"הַקָּרְחִֽי","lemma":"קׇרְחִי","translit":"haqarechiy","morph":"Particle dual + Noun gentilic masculine singular absolute","glosses":[],"strongs":"H7145"}],"language":"hebrew"},{"ref":"Exodus 6:25","englishText":"Eleazar Aaron’s son took one of the daughters of Putiel as his wife; and she bore him Phinehas. These are the heads of the fathers’ houses of the Levites according to their families.","tokens":[{"id":"exodus-6-25-0","surface":"וְאֶלְעָזָ֨ר","lemma":"אֶלְעָזָר","translit":"ve'ele`azar","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H499"},{"id":"exodus-6-25-1","surface":"בֶּֽן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-25-2","surface":"אַהֲרֹ֜ן","lemma":"אַהֲרוֹן","translit":"'ahron","morph":"Noun proper","glosses":[],"strongs":"H175"},{"id":"exodus-6-25-3","surface":"לָקַֽח","lemma":"לָקַח","translit":"laqach","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H3947"},{"id":"exodus-6-25-4","surface":"ל֨וֹ","lemma":"ל֨וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"exodus-6-25-5","surface":"מִבְּנ֤וֹת","lemma":"בַּת","translit":"mibenvot","morph":"Preposition + Noun common feminine plural construct","glosses":[],"strongs":"H1323"},{"id":"exodus-6-25-6","surface":"פּֽוּטִיאֵל֙","lemma":"פּוּטִיאֵל","translit":"pvtiy'el","morph":"Noun proper","glosses":[],"strongs":"H6317"},{"id":"exodus-6-25-7","surface":"ל֣וֹ","lemma":"ל֣וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"exodus-6-25-8","surface":"לְאִשָּׁ֔ה","lemma":"אִשָּׁה","translit":"le'ishah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"exodus-6-25-9","surface":"וַתֵּ֥לֶד","lemma":"יָלַד","translit":"vateled","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3205"},{"id":"exodus-6-25-10","surface":"ל֖וֹ","lemma":"ל֖וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"exodus-6-25-11","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-25-12","surface":"פִּֽינְחָ֑ס","lemma":"פִּינְחָס","translit":"piynechas","morph":"Noun proper","glosses":[],"strongs":"H6372"},{"id":"exodus-6-25-13","surface":"אֵ֗לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"exodus-6-25-14","surface":"רָאשֵׁ֛י","lemma":"רֹאשׁ","translit":"ra'shey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H7218"},{"id":"exodus-6-25-15","surface":"אֲב֥וֹת","lemma":"אָב","translit":"'bvot","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1"},{"id":"exodus-6-25-16","surface":"הַלְוִיִּ֖ם","lemma":"לֵוִיִּי","translit":"haleviyim","morph":"Particle dual + Noun gentilic masculine plural absolute","glosses":[],"strongs":"H3881"},{"id":"exodus-6-25-17","surface":"לְמִשְׁפְּחֹתָֽם","lemma":"מִשְׁפָּחָה","translit":"lemishepechotam","morph":"Preposition + Noun common feminine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H4940"}],"language":"hebrew"},{"ref":"Exodus 6:26","englishText":"These are that Aaron and Moses, to whom Yahweh said, “Bring out the children of Israel from the land of Egypt according to their armies.”","tokens":[{"id":"exodus-6-26-0","surface":"ה֥וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"exodus-6-26-1","surface":"אַהֲרֹ֖ן","lemma":"אַהֲרוֹן","translit":"'ahron","morph":"Noun proper","glosses":[],"strongs":"H175"},{"id":"exodus-6-26-2","surface":"וּמֹשֶׁ֑ה","lemma":"מֹשֶׁה","translit":"vmosheh","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-26-3","surface":"אֲשֶׁ֨ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"exodus-6-26-4","surface":"אָמַ֤ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"exodus-6-26-5","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-26-6","surface":"לָהֶ֔ם","lemma":"לָהֶ֔ם","translit":"lahem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]},{"id":"exodus-6-26-7","surface":"הוֹצִ֜יאוּ","lemma":"יָצָא","translit":"hvotsiy'v","morph":"Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H3318"},{"id":"exodus-6-26-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-26-9","surface":"בְּנֵ֧י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-26-10","surface":"יִשְׂרָאֵ֛ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"exodus-6-26-11","surface":"מֵאֶ֥רֶץ","lemma":"אֶרֶץ","translit":"me'erets","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"exodus-6-26-12","surface":"מִצְרַ֖יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"exodus-6-26-13","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"exodus-6-26-14","surface":"צִבְאֹתָֽם","lemma":"צָבָא","translit":"tsibe'otam","morph":"Noun common plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H6635"}],"language":"hebrew"},{"ref":"Exodus 6:27","englishText":"These are those who spoke to Pharaoh king of Egypt, to bring out the children of Israel from Egypt. These are that Moses and Aaron.  ","tokens":[{"id":"exodus-6-27-0","surface":"הֵ֗ם","lemma":"הֵם","translit":"hem","morph":"Pronoun plural 3rd masculine","glosses":[],"strongs":"H1992"},{"id":"exodus-6-27-1","surface":"הַֽמְדַבְּרִים֙","lemma":"דָבַר","translit":"hamedaberiym","morph":"Particle dual + Verb Piel Passive Participle","glosses":[],"strongs":"H1696"},{"id":"exodus-6-27-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-27-3","surface":"פַּרְעֹ֣ה","lemma":"פַּרְעֹה","translit":"pare`oh","morph":"Noun proper","glosses":[],"strongs":"H6547"},{"id":"exodus-6-27-4","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"exodus-6-27-5","surface":"מִצְרַ֔יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"exodus-6-27-6","surface":"לְהוֹצִ֥יא","lemma":"יָצָא","translit":"lehvotsiy'","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H3318"},{"id":"exodus-6-27-7","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-27-8","surface":"בְּנֵֽי","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"exodus-6-27-9","surface":"יִשְׂרָאֵ֖ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"exodus-6-27-10","surface":"מִמִּצְרָ֑יִם","lemma":"מִצְרַיִם","translit":"mimitserayim","morph":"Preposition + Noun proper","glosses":[],"strongs":"H4714"},{"id":"exodus-6-27-11","surface":"ה֥וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"exodus-6-27-12","surface":"מֹשֶׁ֖ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-27-13","surface":"וְאַהֲרֹֽן","lemma":"אַהֲרוֹן","translit":"ve'ahron","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H175"}],"language":"hebrew"},{"ref":"Exodus 6:28","englishText":"  On the day when Yahweh spoke to Moses in the land of Egypt,","tokens":[{"id":"exodus-6-28-0","surface":"וַיְהִ֗י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"exodus-6-28-1","surface":"בְּי֨וֹם","lemma":"יוֹם","translit":"beyvom","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"exodus-6-28-2","surface":"דִּבֶּ֧ר","lemma":"דָבַר","translit":"diber","morph":"Verb Piel Participle 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"exodus-6-28-3","surface":"יְהוָ֛ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-28-4","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-28-5","surface":"מֹשֶׁ֖ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-28-6","surface":"בְּאֶ֥רֶץ","lemma":"אֶרֶץ","translit":"be'erets","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"exodus-6-28-7","surface":"מִצְרָֽיִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"}],"language":"hebrew"},{"ref":"Exodus 6:29","englishText":"Yahweh spoke to Moses, saying, “I am Yahweh. Speak to Pharaoh king of Egypt all that I speak to you.”  ","tokens":[{"id":"exodus-6-29-0","surface":"וַיְדַבֵּ֧ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"exodus-6-29-1","surface":"יְהוָ֛ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-29-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-29-3","surface":"מֹשֶׁ֥ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-29-4","surface":"לֵּאמֹ֖ר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"},{"id":"exodus-6-29-5","surface":"אֲנִ֣י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"exodus-6-29-6","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-29-7","surface":"דַּבֵּ֗ר","lemma":"דָבַר","translit":"daber","morph":"Verb Piel Weqatal 2nd masculine singular","glosses":[],"strongs":"H1696"},{"id":"exodus-6-29-8","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"exodus-6-29-9","surface":"פַּרְעֹה֙","lemma":"פַּרְעֹה","translit":"pare`oh","morph":"Noun proper","glosses":[],"strongs":"H6547"},{"id":"exodus-6-29-10","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"exodus-6-29-11","surface":"מִצְרַ֔יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"exodus-6-29-12","surface":"אֵ֛ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"exodus-6-29-13","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"exodus-6-29-14","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"exodus-6-29-15","surface":"אֲנִ֖י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"exodus-6-29-16","surface":"דֹּבֵ֥ר","lemma":"דָבַר","translit":"dober","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H1696"},{"id":"exodus-6-29-17","surface":"אֵלֶֽיךָ","lemma":"אֵל","translit":"'eleyka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H413"}],"language":"hebrew"},{"ref":"Exodus 6:30","englishText":"  Moses said before Yahweh, “Behold, I am of uncircumcised lips, and how shall Pharaoh listen to me?”   ","tokens":[{"id":"exodus-6-30-0","surface":"וַיֹּ֥אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"exodus-6-30-1","surface":"מֹשֶׁ֖ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"exodus-6-30-2","surface":"לִפְנֵ֣י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"exodus-6-30-3","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"exodus-6-30-4","surface":"הֵ֤ן","lemma":"הֵן","translit":"hen","morph":"Particle masculine","glosses":[],"strongs":"H2005"},{"id":"exodus-6-30-5","surface":"אֲנִי֙","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"exodus-6-30-6","surface":"עֲרַ֣ל","lemma":"עָרֵל","translit":"`ral","morph":"Adjective","glosses":[],"strongs":"H6189"},{"id":"exodus-6-30-7","surface":"שְׂפָתַ֔יִם","lemma":"שָׂפָה","translit":"shepatayim","morph":"Noun common feminine dual absolute","glosses":[],"strongs":"H8193"},{"id":"exodus-6-30-8","surface":"וְאֵ֕יךְ","lemma":"אֵיךְ","translit":"ve'eyke","morph":"Conjunction + Particle","glosses":[],"strongs":"H349"},{"id":"exodus-6-30-9","surface":"יִשְׁמַ֥ע","lemma":"שָׁמַע","translit":"yishema`","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H8085"},{"id":"exodus-6-30-10","surface":"אֵלַ֖י","lemma":"אֵל","translit":"'elay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H413"},{"id":"exodus-6-30-11","surface":"פַּרְעֹֽה","lemma":"פַּרְעֹה","translit":"pare`oh","morph":"Noun proper","glosses":[],"strongs":"H6547"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "exodus-6",
+  "name": "Exodus",
+  "chapter": 6,
+  "verses": [
+    {
+      "ref": "Exodus 6:1",
+      "englishText": "Yahweh said to Moses, “Now you shall see what I will do to Pharaoh, for by a strong hand he shall let them go, and by a strong hand he shall drive them out of his land.”  ",
+      "tokens": [
+        {
+          "id": "exodus-6-1-0",
+          "surface": "וַיֹּ֤אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "exodus-6-1-1",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-1-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-1-3",
+          "surface": "מֹשֶׁ֔ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-1-4",
+          "surface": "עַתָּ֣ה",
+          "lemma": "עַתָּה",
+          "translit": "`atah",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H6258"
+        },
+        {
+          "id": "exodus-6-1-5",
+          "surface": "תִרְאֶ֔ה",
+          "lemma": "רָאָה",
+          "translit": "tire'eh",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "exodus-6-1-6",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "exodus-6-1-7",
+          "surface": "אֶֽעֱשֶׂ֖ה",
+          "lemma": "עָשָׂה",
+          "translit": "'e`sheh",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "exodus-6-1-8",
+          "surface": "לְפַרְעֹ֑ה",
+          "lemma": "פַּרְעֹה",
+          "translit": "lepare`oh",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6547"
+        },
+        {
+          "id": "exodus-6-1-9",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "exodus-6-1-10",
+          "surface": "בְיָ֤ד",
+          "lemma": "יָד",
+          "translit": "beyad",
+          "morph": "Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "exodus-6-1-11",
+          "surface": "חֲזָקָה֙",
+          "lemma": "חָזָק",
+          "translit": "chzaqah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2389"
+        },
+        {
+          "id": "exodus-6-1-12",
+          "surface": "יְשַׁלְּחֵ֔ם",
+          "lemma": "שָׁלַח",
+          "translit": "yeshalechem",
+          "morph": "Verb Piel Imperative 3rd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "exodus-6-1-13",
+          "surface": "וּבְיָ֣ד",
+          "lemma": "יָד",
+          "translit": "vbeyad",
+          "morph": "Conjunction + Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "exodus-6-1-14",
+          "surface": "חֲזָקָ֔ה",
+          "lemma": "חָזָק",
+          "translit": "chzaqah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2389"
+        },
+        {
+          "id": "exodus-6-1-15",
+          "surface": "יְגָרְשֵׁ֖ם",
+          "lemma": "גָּרַשׁ",
+          "translit": "yegareshem",
+          "morph": "Verb Piel Imperative 3rd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1644"
+        },
+        {
+          "id": "exodus-6-1-16",
+          "surface": "מֵאַרְצֽוֹ",
+          "lemma": "אֶרֶץ",
+          "translit": "me'aretsvo",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:2",
+      "englishText": "  God spoke to Moses, and said to him, “I am Yahweh;",
+      "tokens": [
+        {
+          "id": "exodus-6-2-0",
+          "surface": "וַיְדַבֵּ֥ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-2-1",
+          "surface": "אֱלֹהִ֖ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "exodus-6-2-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-2-3",
+          "surface": "מֹשֶׁ֑ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-2-4",
+          "surface": "וַיֹּ֥אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "exodus-6-2-5",
+          "surface": "אֵלָ֖יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-2-6",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "exodus-6-2-7",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:3",
+      "englishText": "and I appeared to Abraham, to Isaac, and to Jacob, as God Almighty; but by my name Yahweh I was not known to them.",
+      "tokens": [
+        {
+          "id": "exodus-6-3-0",
+          "surface": "וָאֵרָ֗א",
+          "lemma": "רָאָה",
+          "translit": "va'era'",
+          "morph": "Conjunction + Verb Niphal Wayyiqtol 1st common singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "exodus-6-3-1",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-3-2",
+          "surface": "אַבְרָהָ֛ם",
+          "lemma": "אַבְרָהָם",
+          "translit": "'aberaham",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H85"
+        },
+        {
+          "id": "exodus-6-3-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-3-4",
+          "surface": "יִצְחָ֥ק",
+          "lemma": "יִצְחָק",
+          "translit": "yitsechaq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3327"
+        },
+        {
+          "id": "exodus-6-3-5",
+          "surface": "וְאֶֽל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-3-6",
+          "surface": "יַעֲקֹ֖ב",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "exodus-6-3-7",
+          "surface": "בְּאֵ֣ל",
+          "lemma": "אֵל",
+          "translit": "be'el",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H410"
+        },
+        {
+          "id": "exodus-6-3-8",
+          "surface": "שַׁדָּ֑י",
+          "lemma": "שַׁדַּי",
+          "translit": "shaday",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7706"
+        },
+        {
+          "id": "exodus-6-3-9",
+          "surface": "וּשְׁמִ֣י",
+          "lemma": "שֵׁם",
+          "translit": "vshemiy",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "exodus-6-3-10",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-3-11",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "exodus-6-3-12",
+          "surface": "נוֹדַ֖עְתִּי",
+          "lemma": "יָדַע",
+          "translit": "nvoda`etiy",
+          "morph": "Verb Niphal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "exodus-6-3-13",
+          "surface": "לָהֶֽם",
+          "lemma": "לָהֶֽם",
+          "translit": "lahem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:4",
+      "englishText": "I have also established my covenant with them, to give them the land of Canaan, the land of their travels, in which they lived as aliens.",
+      "tokens": [
+        {
+          "id": "exodus-6-4-0",
+          "surface": "וְגַ֨ם",
+          "lemma": "גַּם",
+          "translit": "vegam",
+          "morph": "Conjunction + Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "exodus-6-4-1",
+          "surface": "הֲקִמֹ֤תִי",
+          "lemma": "קוּם",
+          "translit": "hqimotiy",
+          "morph": "Verb Hiphil Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "exodus-6-4-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-4-3",
+          "surface": "בְּרִיתִי֙",
+          "lemma": "בְּרִית",
+          "translit": "beriytiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H1285"
+        },
+        {
+          "id": "exodus-6-4-4",
+          "surface": "אִתָּ֔ם",
+          "lemma": "אֵת",
+          "translit": "'itam",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "exodus-6-4-5",
+          "surface": "לָתֵ֥ת",
+          "lemma": "נָתַן",
+          "translit": "latet",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "exodus-6-4-6",
+          "surface": "לָהֶ֖ם",
+          "lemma": "לָהֶ֖ם",
+          "translit": "lahem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-4-7",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-4-8",
+          "surface": "אֶ֣רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "'erets",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "exodus-6-4-9",
+          "surface": "כְּנָ֑עַן",
+          "lemma": "כְּנַעַן",
+          "translit": "kena`an",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3667"
+        },
+        {
+          "id": "exodus-6-4-10",
+          "surface": "אֵ֛ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-4-11",
+          "surface": "אֶ֥רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "'erets",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "exodus-6-4-12",
+          "surface": "מְגֻרֵיהֶ֖ם",
+          "lemma": "מָגוּר",
+          "translit": "megureyhem",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H4033"
+        },
+        {
+          "id": "exodus-6-4-13",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "exodus-6-4-14",
+          "surface": "גָּ֥רוּ",
+          "lemma": "גּוּר",
+          "translit": "garv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H1481"
+        },
+        {
+          "id": "exodus-6-4-15",
+          "surface": "בָֽהּ",
+          "lemma": "בָֽהּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:5",
+      "englishText": "Moreover I have heard the groaning of the children of Israel, whom the Egyptians keep in bondage, and I have remembered my covenant.",
+      "tokens": [
+        {
+          "id": "exodus-6-5-0",
+          "surface": "וְגַ֣ם",
+          "lemma": "גַּם",
+          "translit": "vegam",
+          "morph": "Conjunction + Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "exodus-6-5-1",
+          "surface": "אֲנִ֣י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "exodus-6-5-2",
+          "surface": "שָׁמַ֗עְתִּי",
+          "lemma": "שָׁמַע",
+          "translit": "shama`etiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "exodus-6-5-3",
+          "surface": "אֶֽת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-5-4",
+          "surface": "נַאֲקַת֙",
+          "lemma": "נְאָקָה",
+          "translit": "na'qat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H5009"
+        },
+        {
+          "id": "exodus-6-5-5",
+          "surface": "בְּנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-5-6",
+          "surface": "יִשְׂרָאֵ֔ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "exodus-6-5-7",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "exodus-6-5-8",
+          "surface": "מִצְרַ֖יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "exodus-6-5-9",
+          "surface": "מַעֲבִדִ֣ים",
+          "lemma": "עָבַד",
+          "translit": "ma`bidiym",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H5647"
+        },
+        {
+          "id": "exodus-6-5-10",
+          "surface": "אֹתָ֑ם",
+          "lemma": "אֵת",
+          "translit": "'otam",
+          "morph": "Particle + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-5-11",
+          "surface": "וָאֶזְכֹּ֖ר",
+          "lemma": "זָכַר",
+          "translit": "va'ezekor",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 1st common singular",
+          "glosses": [],
+          "strongs": "H2142"
+        },
+        {
+          "id": "exodus-6-5-12",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-5-13",
+          "surface": "בְּרִיתִֽי",
+          "lemma": "בְּרִית",
+          "translit": "beriytiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H1285"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:6",
+      "englishText": "Therefore tell the children of Israel, ‘I am Yahweh, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with an outstretched arm, and with great judgments:",
+      "tokens": [
+        {
+          "id": "exodus-6-6-0",
+          "surface": "לָכֵ֞ן",
+          "lemma": "כֵּן",
+          "translit": "laken",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "exodus-6-6-1",
+          "surface": "אֱמֹ֥ר",
+          "lemma": "אָמַר",
+          "translit": "'mor",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "exodus-6-6-2",
+          "surface": "לִבְנֵֽי",
+          "lemma": "בֵּן",
+          "translit": "libeney",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-6-3",
+          "surface": "יִשְׂרָאֵ֘ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "exodus-6-6-4",
+          "surface": "אֲנִ֣י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "exodus-6-6-5",
+          "surface": "יְהוָה֒",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-6-6",
+          "surface": "וְהוֹצֵאתִ֣י",
+          "lemma": "יָצָא",
+          "translit": "vehvotse'tiy",
+          "morph": "Conjunction + Verb Hiphil Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "exodus-6-6-7",
+          "surface": "אֶתְכֶ֗ם",
+          "lemma": "אֵת",
+          "translit": "'etekem",
+          "morph": "Particle + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-6-8",
+          "surface": "מִתַּ֨חַת֙",
+          "lemma": "תַּחַת",
+          "translit": "mitachat",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H8478"
+        },
+        {
+          "id": "exodus-6-6-9",
+          "surface": "סִבְלֹ֣ת",
+          "lemma": "סְבָלָה",
+          "translit": "sibelot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H5450"
+        },
+        {
+          "id": "exodus-6-6-10",
+          "surface": "מִצְרַ֔יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "exodus-6-6-11",
+          "surface": "וְהִצַּלְתִּ֥י",
+          "lemma": "נָצַל",
+          "translit": "vehitsaletiy",
+          "morph": "Conjunction + Verb Hiphil Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H5337"
+        },
+        {
+          "id": "exodus-6-6-12",
+          "surface": "אֶתְכֶ֖ם",
+          "lemma": "אֵת",
+          "translit": "'etekem",
+          "morph": "Particle + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-6-13",
+          "surface": "מֵעֲבֹדָתָ֑ם",
+          "lemma": "עֲבֹדָה",
+          "translit": "me`bodatam",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5656"
+        },
+        {
+          "id": "exodus-6-6-14",
+          "surface": "וְגָאַלְתִּ֤י",
+          "lemma": "גָּאַל",
+          "translit": "vega'aletiy",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H1350"
+        },
+        {
+          "id": "exodus-6-6-15",
+          "surface": "אֶתְכֶם֙",
+          "lemma": "אֵת",
+          "translit": "'etekem",
+          "morph": "Particle + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-6-16",
+          "surface": "בִּזְר֣וֹעַ",
+          "lemma": "זְרוֹעַ",
+          "translit": "bizervo`a",
+          "morph": "Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H2220"
+        },
+        {
+          "id": "exodus-6-6-17",
+          "surface": "נְטוּיָ֔ה",
+          "lemma": "נָטָה",
+          "translit": "netvyah",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H5186"
+        },
+        {
+          "id": "exodus-6-6-18",
+          "surface": "וּבִשְׁפָטִ֖ים",
+          "lemma": "שֶׁפֶט",
+          "translit": "vbishepatiym",
+          "morph": "Conjunction + Preposition + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8201"
+        },
+        {
+          "id": "exodus-6-6-19",
+          "surface": "גְּדֹלִֽים",
+          "lemma": "גָּדוֹל",
+          "translit": "gedoliym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1419"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:7",
+      "englishText": "and I will take you to me for a people, and I will be to you a God; and you shall know that I am Yahweh your God, who brings you out from under the burdens of the Egyptians.",
+      "tokens": [
+        {
+          "id": "exodus-6-7-0",
+          "surface": "וְלָקַחְתִּ֨י",
+          "lemma": "לָקַח",
+          "translit": "velaqachetiy",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "exodus-6-7-1",
+          "surface": "אֶתְכֶ֥ם",
+          "lemma": "אֵת",
+          "translit": "'etekem",
+          "morph": "Particle + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-7-2",
+          "surface": "לִי֙",
+          "lemma": "לִי֙",
+          "translit": "liy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-7-3",
+          "surface": "לְעָ֔ם",
+          "lemma": "עַם",
+          "translit": "le`am",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "exodus-6-7-4",
+          "surface": "וְהָיִ֥יתִי",
+          "lemma": "הָיָה",
+          "translit": "vehayiytiy",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "exodus-6-7-5",
+          "surface": "לָכֶ֖ם",
+          "lemma": "לָכֶ֖ם",
+          "translit": "lakem",
+          "morph": "Preposition + Suffix plural 2nd masculine",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-7-6",
+          "surface": "לֵֽאלֹהִ֑ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "le'lohiym",
+          "morph": "Preposition + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "exodus-6-7-7",
+          "surface": "וִֽידַעְתֶּ֗ם",
+          "lemma": "יָדַע",
+          "translit": "viyda`etem",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "exodus-6-7-8",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "exodus-6-7-9",
+          "surface": "אֲנִ֤י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "exodus-6-7-10",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-7-11",
+          "surface": "אֱלֹ֣הֵיכֶ֔ם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheykem",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "exodus-6-7-12",
+          "surface": "הַמּוֹצִ֣יא",
+          "lemma": "יָצָא",
+          "translit": "hamvotsiy'",
+          "morph": "Particle dual + Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "exodus-6-7-13",
+          "surface": "אֶתְכֶ֔ם",
+          "lemma": "אֵת",
+          "translit": "'etekem",
+          "morph": "Particle + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-7-14",
+          "surface": "מִתַּ֖חַת",
+          "lemma": "תַּחַת",
+          "translit": "mitachat",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H8478"
+        },
+        {
+          "id": "exodus-6-7-15",
+          "surface": "סִבְל֥וֹת",
+          "lemma": "סְבָלָה",
+          "translit": "sibelvot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H5450"
+        },
+        {
+          "id": "exodus-6-7-16",
+          "surface": "מִצְרָֽיִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:8",
+      "englishText": "I will bring you into the land which I swore to give to Abraham, to Isaac, and to Jacob; and I will give it to you for a heritage: I am Yahweh.’”  ",
+      "tokens": [
+        {
+          "id": "exodus-6-8-0",
+          "surface": "וְהֵבֵאתִ֤י",
+          "lemma": "בּוֹא",
+          "translit": "vehebe'tiy",
+          "morph": "Conjunction + Verb Hiphil Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "exodus-6-8-1",
+          "surface": "אֶתְכֶם֙",
+          "lemma": "אֵת",
+          "translit": "'etekem",
+          "morph": "Particle + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-8-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-8-3",
+          "surface": "הָאָ֔רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "exodus-6-8-4",
+          "surface": "אֲשֶׁ֤ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "exodus-6-8-5",
+          "surface": "נָשָׂ֨אתִי֙",
+          "lemma": "נָשָׂא",
+          "translit": "nasha'tiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "exodus-6-8-6",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-8-7",
+          "surface": "יָדִ֔י",
+          "lemma": "יָד",
+          "translit": "yadiy",
+          "morph": "Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "exodus-6-8-8",
+          "surface": "לָתֵ֣ת",
+          "lemma": "נָתַן",
+          "translit": "latet",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "exodus-6-8-9",
+          "surface": "אֹתָ֔הּ",
+          "lemma": "אֵת",
+          "translit": "'otah",
+          "morph": "Particle + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-8-10",
+          "surface": "לְאַבְרָהָ֥ם",
+          "lemma": "אַבְרָהָם",
+          "translit": "le'aberaham",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H85"
+        },
+        {
+          "id": "exodus-6-8-11",
+          "surface": "לְיִצְחָ֖ק",
+          "lemma": "יִצְחָק",
+          "translit": "leyitsechaq",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3327"
+        },
+        {
+          "id": "exodus-6-8-12",
+          "surface": "וּֽלְיַעֲקֹ֑ב",
+          "lemma": "יַעֲקֹב",
+          "translit": "vleya`qob",
+          "morph": "Conjunction + Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "exodus-6-8-13",
+          "surface": "וְנָתַתִּ֨י",
+          "lemma": "נָתַן",
+          "translit": "venatatiy",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "exodus-6-8-14",
+          "surface": "אֹתָ֥הּ",
+          "lemma": "אֵת",
+          "translit": "'otah",
+          "morph": "Particle + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-8-15",
+          "surface": "לָכֶ֛ם",
+          "lemma": "לָכֶ֛ם",
+          "translit": "lakem",
+          "morph": "Preposition + Suffix plural 2nd masculine",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-8-16",
+          "surface": "מוֹרָשָׁ֖ה",
+          "lemma": "מוֹרָשָׁה",
+          "translit": "mvorashah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4181"
+        },
+        {
+          "id": "exodus-6-8-17",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "exodus-6-8-18",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:9",
+      "englishText": "  Moses spoke so to the children of Israel, but they didn’t listen to Moses for anguish of spirit, and for cruel bondage.  ",
+      "tokens": [
+        {
+          "id": "exodus-6-9-0",
+          "surface": "וַיְדַבֵּ֥ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-9-1",
+          "surface": "מֹשֶׁ֛ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-9-2",
+          "surface": "כֵּ֖ן",
+          "lemma": "כֵּן",
+          "translit": "ken",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "exodus-6-9-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-9-4",
+          "surface": "בְּנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-9-5",
+          "surface": "יִשְׂרָאֵ֑ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "exodus-6-9-6",
+          "surface": "וְלֹ֤א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "exodus-6-9-7",
+          "surface": "שָֽׁמְעוּ֙",
+          "lemma": "שָׁמַע",
+          "translit": "shame`v",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "exodus-6-9-8",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-9-9",
+          "surface": "מֹשֶׁ֔ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-9-10",
+          "surface": "מִקֹּ֣צֶר",
+          "lemma": "קֹצֶר",
+          "translit": "miqotser",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7115"
+        },
+        {
+          "id": "exodus-6-9-11",
+          "surface": "ר֔וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "rvcha",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "exodus-6-9-12",
+          "surface": "וּמֵעֲבֹדָ֖ה",
+          "lemma": "עֲבֹדָה",
+          "translit": "vme`bodah",
+          "morph": "Conjunction + Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5656"
+        },
+        {
+          "id": "exodus-6-9-13",
+          "surface": "קָשָֽׁה",
+          "lemma": "קָשֶׁה",
+          "translit": "qashah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7186"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:10",
+      "englishText": "  Yahweh spoke to Moses, saying,",
+      "tokens": [
+        {
+          "id": "exodus-6-10-0",
+          "surface": "וַיְדַבֵּ֥ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-10-1",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-10-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-10-3",
+          "surface": "מֹשֶׁ֥ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-10-4",
+          "surface": "לֵּאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:11",
+      "englishText": "“Go in, speak to Pharaoh king of Egypt, that he let the children of Israel go out of his land.”  ",
+      "tokens": [
+        {
+          "id": "exodus-6-11-0",
+          "surface": "בֹּ֣א",
+          "lemma": "בּוֹא",
+          "translit": "bo'",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "exodus-6-11-1",
+          "surface": "דַבֵּ֔ר",
+          "lemma": "דָבַר",
+          "translit": "daber",
+          "morph": "Verb Piel Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-11-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-11-3",
+          "surface": "פַּרְעֹ֖ה",
+          "lemma": "פַּרְעֹה",
+          "translit": "pare`oh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6547"
+        },
+        {
+          "id": "exodus-6-11-4",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "exodus-6-11-5",
+          "surface": "מִצְרָ֑יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "exodus-6-11-6",
+          "surface": "וִֽישַׁלַּ֥ח",
+          "lemma": "שָׁלַח",
+          "translit": "viyshalach",
+          "morph": "Conjunction + Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "exodus-6-11-7",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-11-8",
+          "surface": "בְּנֵֽי",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-11-9",
+          "surface": "יִשְׂרָאֵ֖ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "exodus-6-11-10",
+          "surface": "מֵאַרְצֽוֹ",
+          "lemma": "אֶרֶץ",
+          "translit": "me'aretsvo",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:12",
+      "englishText": "  Moses spoke before Yahweh, saying, “Behold, the children of Israel haven’t listened to me. How then shall Pharaoh listen to me, who am of uncircumcised lips?”",
+      "tokens": [
+        {
+          "id": "exodus-6-12-0",
+          "surface": "וַיְדַבֵּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-12-1",
+          "surface": "מֹשֶׁ֔ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-12-2",
+          "surface": "לִפְנֵ֥י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "exodus-6-12-3",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-12-4",
+          "surface": "לֵאמֹ֑ר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "exodus-6-12-5",
+          "surface": "הֵ֤ן",
+          "lemma": "הֵן",
+          "translit": "hen",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "exodus-6-12-6",
+          "surface": "בְּנֵֽי",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-12-7",
+          "surface": "יִשְׂרָאֵל֙",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "exodus-6-12-8",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "exodus-6-12-9",
+          "surface": "שָׁמְע֣וּ",
+          "lemma": "שָׁמַע",
+          "translit": "shame`v",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "exodus-6-12-10",
+          "surface": "אֵלַ֔י",
+          "lemma": "אֵל",
+          "translit": "'elay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-12-11",
+          "surface": "וְאֵיךְ֙",
+          "lemma": "אֵיךְ",
+          "translit": "ve'eyke",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H349"
+        },
+        {
+          "id": "exodus-6-12-12",
+          "surface": "יִשְׁמָעֵ֣נִי",
+          "lemma": "שָׁמַע",
+          "translit": "yishema`eniy",
+          "morph": "Verb Qal Imperative 3rd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "exodus-6-12-13",
+          "surface": "פַרְעֹ֔ה",
+          "lemma": "פַּרְעֹה",
+          "translit": "pare`oh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6547"
+        },
+        {
+          "id": "exodus-6-12-14",
+          "surface": "וַאֲנִ֖י",
+          "lemma": "אֲנִי",
+          "translit": "va'niy",
+          "morph": "Conjunction + Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "exodus-6-12-15",
+          "surface": "עֲרַ֥ל",
+          "lemma": "עָרֵל",
+          "translit": "`ral",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6189"
+        },
+        {
+          "id": "exodus-6-12-16",
+          "surface": "שְׂפָתָֽיִם",
+          "lemma": "שָׂפָה",
+          "translit": "shepatayim",
+          "morph": "Noun common feminine dual absolute",
+          "glosses": [],
+          "strongs": "H8193"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:13",
+      "englishText": "Yahweh spoke to Moses and to Aaron, and gave them a command to the children of Israel, and to Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.  ",
+      "tokens": [
+        {
+          "id": "exodus-6-13-0",
+          "surface": "וַיְדַבֵּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-13-1",
+          "surface": "יְהוָה֮",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-13-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-13-3",
+          "surface": "מֹשֶׁ֣ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-13-4",
+          "surface": "וְאֶֽל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-13-5",
+          "surface": "אַהֲרֹן֒",
+          "lemma": "אַהֲרוֹן",
+          "translit": "'ahron",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H175"
+        },
+        {
+          "id": "exodus-6-13-6",
+          "surface": "וַיְצַוֵּם֙",
+          "lemma": "צָוָה",
+          "translit": "vayetsavem",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6680"
+        },
+        {
+          "id": "exodus-6-13-7",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-13-8",
+          "surface": "בְּנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-13-9",
+          "surface": "יִשְׂרָאֵ֔ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "exodus-6-13-10",
+          "surface": "וְאֶל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-13-11",
+          "surface": "פַּרְעֹ֖ה",
+          "lemma": "פַּרְעֹה",
+          "translit": "pare`oh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6547"
+        },
+        {
+          "id": "exodus-6-13-12",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "exodus-6-13-13",
+          "surface": "מִצְרָ֑יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "exodus-6-13-14",
+          "surface": "לְהוֹצִ֥יא",
+          "lemma": "יָצָא",
+          "translit": "lehvotsiy'",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "exodus-6-13-15",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-13-16",
+          "surface": "בְּנֵֽי",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-13-17",
+          "surface": "יִשְׂרָאֵ֖ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "exodus-6-13-18",
+          "surface": "מֵאֶ֥רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "me'erets",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "exodus-6-13-19",
+          "surface": "מִצְרָֽיִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:14",
+      "englishText": "  These are the heads of their fathers’ houses. The sons of Reuben the firstborn of Israel: Hanoch, and Pallu, Hezron, and Carmi; these are the families of Reuben.",
+      "tokens": [
+        {
+          "id": "exodus-6-14-0",
+          "surface": "אֵ֖לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "exodus-6-14-1",
+          "surface": "רָאשֵׁ֣י",
+          "lemma": "רֹאשׁ",
+          "translit": "ra'shey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "exodus-6-14-2",
+          "surface": "בֵית",
+          "lemma": "בַּיִת",
+          "translit": "beyt",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "exodus-6-14-3",
+          "surface": "אֲבֹתָ֑ם",
+          "lemma": "אָב",
+          "translit": "'botam",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "exodus-6-14-4",
+          "surface": "בְּנֵ֨י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-14-5",
+          "surface": "רְאוּבֵ֜ן",
+          "lemma": "רְאוּבֵן",
+          "translit": "re'vben",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7205"
+        },
+        {
+          "id": "exodus-6-14-6",
+          "surface": "בְּכֹ֣ר",
+          "lemma": "בְּכוֹר",
+          "translit": "bekor",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1060"
+        },
+        {
+          "id": "exodus-6-14-7",
+          "surface": "יִשְׂרָאֵ֗ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "exodus-6-14-8",
+          "surface": "חֲנ֤וֹךְ",
+          "lemma": "חֲנוֹךְ",
+          "translit": "chnvoke",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2585"
+        },
+        {
+          "id": "exodus-6-14-9",
+          "surface": "וּפַלּוּא֙",
+          "lemma": "פַּלּוּא",
+          "translit": "vpalv'",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H6396"
+        },
+        {
+          "id": "exodus-6-14-10",
+          "surface": "חֶצְר֣וֹן",
+          "lemma": "חֶצְרוֹן",
+          "translit": "chetservon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2696"
+        },
+        {
+          "id": "exodus-6-14-11",
+          "surface": "וְכַרְמִ֔י",
+          "lemma": "כַּרְמִי",
+          "translit": "vekaremiy",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3756"
+        },
+        {
+          "id": "exodus-6-14-12",
+          "surface": "אֵ֖לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "exodus-6-14-13",
+          "surface": "מִשְׁפְּחֹ֥ת",
+          "lemma": "מִשְׁפָּחָה",
+          "translit": "mishepechot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H4940"
+        },
+        {
+          "id": "exodus-6-14-14",
+          "surface": "רְאוּבֵֽן",
+          "lemma": "רְאוּבֵן",
+          "translit": "re'vben",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7205"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:15",
+      "englishText": "The sons of Simeon: Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanite woman; these are the families of Simeon.",
+      "tokens": [
+        {
+          "id": "exodus-6-15-0",
+          "surface": "וּבְנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "vbeney",
+          "morph": "Conjunction + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-15-1",
+          "surface": "שִׁמְע֗וֹן",
+          "lemma": "שִׁמְעוֹן",
+          "translit": "shime`von",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H8095"
+        },
+        {
+          "id": "exodus-6-15-2",
+          "surface": "יְמוּאֵ֨ל",
+          "lemma": "יְמוּאֵל",
+          "translit": "yemv'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3223"
+        },
+        {
+          "id": "exodus-6-15-3",
+          "surface": "וְיָמִ֤ין",
+          "lemma": "יָמִין",
+          "translit": "veyamiyn",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3226"
+        },
+        {
+          "id": "exodus-6-15-4",
+          "surface": "וְאֹ֨הַד֙",
+          "lemma": "אֹהַד",
+          "translit": "ve'ohad",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H161"
+        },
+        {
+          "id": "exodus-6-15-5",
+          "surface": "וְיָכִ֣ין",
+          "lemma": "יָכִין",
+          "translit": "veyakiyn",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3199"
+        },
+        {
+          "id": "exodus-6-15-6",
+          "surface": "וְצֹ֔חַר",
+          "lemma": "צֹחַר",
+          "translit": "vetsochar",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H6714"
+        },
+        {
+          "id": "exodus-6-15-7",
+          "surface": "וְשָׁא֖וּל",
+          "lemma": "שָׁאוּל",
+          "translit": "vesha'vl",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H7586"
+        },
+        {
+          "id": "exodus-6-15-8",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-15-9",
+          "surface": "הַֽכְּנַעֲנִ֑ית",
+          "lemma": "כְּנַעַנִי",
+          "translit": "hakena`niyt",
+          "morph": "Particle dual + Noun gentilic feminine singular absolute",
+          "glosses": [],
+          "strongs": "H3669"
+        },
+        {
+          "id": "exodus-6-15-10",
+          "surface": "אֵ֖לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "exodus-6-15-11",
+          "surface": "מִשְׁפְּחֹ֥ת",
+          "lemma": "מִשְׁפָּחָה",
+          "translit": "mishepechot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H4940"
+        },
+        {
+          "id": "exodus-6-15-12",
+          "surface": "שִׁמְעֽוֹן",
+          "lemma": "שִׁמְעוֹן",
+          "translit": "shime`von",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H8095"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:16",
+      "englishText": "These are the names of the sons of Levi according to their generations: Gershon, and Kohath, and Merari; and the years of the life of Levi were one hundred thirty-seven years.",
+      "tokens": [
+        {
+          "id": "exodus-6-16-0",
+          "surface": "וְאֵ֨לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "ve'eleh",
+          "morph": "Conjunction + Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "exodus-6-16-1",
+          "surface": "שְׁמ֤וֹת",
+          "lemma": "שֵׁם",
+          "translit": "shemvot",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "exodus-6-16-2",
+          "surface": "בְּנֵֽי",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-16-3",
+          "surface": "לֵוִי֙",
+          "lemma": "לֵוִי",
+          "translit": "leviy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3878"
+        },
+        {
+          "id": "exodus-6-16-4",
+          "surface": "לְתֹ֣לְדֹתָ֔ם",
+          "lemma": "תּוֹלְדָה",
+          "translit": "letoledotam",
+          "morph": "Preposition + Noun common feminine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H8435"
+        },
+        {
+          "id": "exodus-6-16-5",
+          "surface": "גֵּרְשׁ֕וֹן",
+          "lemma": "גֵּרְשׁוֹן",
+          "translit": "gereshvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1648"
+        },
+        {
+          "id": "exodus-6-16-6",
+          "surface": "וּקְהָ֖ת",
+          "lemma": "קְהָת",
+          "translit": "vqehat",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H6955"
+        },
+        {
+          "id": "exodus-6-16-7",
+          "surface": "וּמְרָרִ֑י",
+          "lemma": "מְרָרִי",
+          "translit": "vmerariy",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H4847"
+        },
+        {
+          "id": "exodus-6-16-8",
+          "surface": "וּשְׁנֵי֙",
+          "lemma": "שָׁנֶה",
+          "translit": "vsheney",
+          "morph": "Conjunction + Adjective common masculine dual construct",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "exodus-6-16-9",
+          "surface": "חַיֵּ֣י",
+          "lemma": "חַי",
+          "translit": "chayey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H2416"
+        },
+        {
+          "id": "exodus-6-16-10",
+          "surface": "לֵוִ֔י",
+          "lemma": "לֵוִי",
+          "translit": "leviy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3878"
+        },
+        {
+          "id": "exodus-6-16-11",
+          "surface": "שֶׁ֧בַע",
+          "lemma": "שֶׁבַע",
+          "translit": "sheba`",
+          "morph": "Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7651"
+        },
+        {
+          "id": "exodus-6-16-12",
+          "surface": "וּשְׁלֹשִׁ֛ים",
+          "lemma": "שְׁלוֹשִׁים",
+          "translit": "vsheloshiym",
+          "morph": "Conjunction + Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H7970"
+        },
+        {
+          "id": "exodus-6-16-13",
+          "surface": "וּמְאַ֖ת",
+          "lemma": "מֵאָה",
+          "translit": "vme'at",
+          "morph": "Conjunction + Adjective common singular construct",
+          "glosses": [],
+          "strongs": "H3967"
+        },
+        {
+          "id": "exodus-6-16-14",
+          "surface": "שָׁנָֽה",
+          "lemma": "שָׁנֶה",
+          "translit": "shanah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:17",
+      "englishText": "The sons of Gershon: Libni and Shimei, according to their families.",
+      "tokens": [
+        {
+          "id": "exodus-6-17-0",
+          "surface": "בְּנֵ֥י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-17-1",
+          "surface": "גֵרְשׁ֛וֹן",
+          "lemma": "גֵּרְשׁוֹן",
+          "translit": "gereshvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1648"
+        },
+        {
+          "id": "exodus-6-17-2",
+          "surface": "לִבְנִ֥י",
+          "lemma": "לִבְנִי",
+          "translit": "libeniy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3845"
+        },
+        {
+          "id": "exodus-6-17-3",
+          "surface": "וְשִׁמְעִ֖י",
+          "lemma": "שִׁמְעִי",
+          "translit": "veshime`iy",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H8096"
+        },
+        {
+          "id": "exodus-6-17-4",
+          "surface": "לְמִשְׁפְּחֹתָֽם",
+          "lemma": "מִשְׁפָּחָה",
+          "translit": "lemishepechotam",
+          "morph": "Preposition + Noun common feminine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H4940"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:18",
+      "englishText": "The sons of Kohath: Amram, and Izhar, and Hebron, and Uzziel; and the years of the life of Kohath were one hundred thirty-three years.",
+      "tokens": [
+        {
+          "id": "exodus-6-18-0",
+          "surface": "וּבְנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "vbeney",
+          "morph": "Conjunction + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-18-1",
+          "surface": "קְהָ֔ת",
+          "lemma": "קְהָת",
+          "translit": "qehat",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6955"
+        },
+        {
+          "id": "exodus-6-18-2",
+          "surface": "עַמְרָ֣ם",
+          "lemma": "עַמְרָם",
+          "translit": "`ameram",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6019"
+        },
+        {
+          "id": "exodus-6-18-3",
+          "surface": "וְיִצְהָ֔ר",
+          "lemma": "יִצְהָר",
+          "translit": "veyitsehar",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3324"
+        },
+        {
+          "id": "exodus-6-18-4",
+          "surface": "וְחֶבְר֖וֹן",
+          "lemma": "חֶבְרוֹן",
+          "translit": "vechebervon",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H2275"
+        },
+        {
+          "id": "exodus-6-18-5",
+          "surface": "וְעֻזִּיאֵ֑ל",
+          "lemma": "עֻזִּיאֵל",
+          "translit": "ve`uziy'el",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H5816"
+        },
+        {
+          "id": "exodus-6-18-6",
+          "surface": "וּשְׁנֵי֙",
+          "lemma": "שָׁנֶה",
+          "translit": "vsheney",
+          "morph": "Conjunction + Adjective common masculine dual construct",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "exodus-6-18-7",
+          "surface": "חַיֵּ֣י",
+          "lemma": "חַי",
+          "translit": "chayey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H2416"
+        },
+        {
+          "id": "exodus-6-18-8",
+          "surface": "קְהָ֔ת",
+          "lemma": "קְהָת",
+          "translit": "qehat",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6955"
+        },
+        {
+          "id": "exodus-6-18-9",
+          "surface": "שָׁלֹ֧שׁ",
+          "lemma": "שָׁלוֹשׁ",
+          "translit": "shalosh",
+          "morph": "Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7969"
+        },
+        {
+          "id": "exodus-6-18-10",
+          "surface": "וּשְׁלֹשִׁ֛ים",
+          "lemma": "שְׁלוֹשִׁים",
+          "translit": "vsheloshiym",
+          "morph": "Conjunction + Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H7970"
+        },
+        {
+          "id": "exodus-6-18-11",
+          "surface": "וּמְאַ֖ת",
+          "lemma": "מֵאָה",
+          "translit": "vme'at",
+          "morph": "Conjunction + Adjective common singular construct",
+          "glosses": [],
+          "strongs": "H3967"
+        },
+        {
+          "id": "exodus-6-18-12",
+          "surface": "שָׁנָֽה",
+          "lemma": "שָׁנֶה",
+          "translit": "shanah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:19",
+      "englishText": "The sons of Merari: Mahli and Mushi. These are the families of the Levites according to their generations.",
+      "tokens": [
+        {
+          "id": "exodus-6-19-0",
+          "surface": "וּבְנֵ֥י",
+          "lemma": "בֵּן",
+          "translit": "vbeney",
+          "morph": "Conjunction + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-19-1",
+          "surface": "מְרָרִ֖י",
+          "lemma": "מְרָרִי",
+          "translit": "merariy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4847"
+        },
+        {
+          "id": "exodus-6-19-2",
+          "surface": "מַחְלִ֣י",
+          "lemma": "מַחְלִי",
+          "translit": "macheliy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4249"
+        },
+        {
+          "id": "exodus-6-19-3",
+          "surface": "וּמוּשִׁ֑י",
+          "lemma": "מוּשִׁי",
+          "translit": "vmvshiy",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H4187"
+        },
+        {
+          "id": "exodus-6-19-4",
+          "surface": "אֵ֛לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "exodus-6-19-5",
+          "surface": "מִשְׁפְּחֹ֥ת",
+          "lemma": "מִשְׁפָּחָה",
+          "translit": "mishepechot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H4940"
+        },
+        {
+          "id": "exodus-6-19-6",
+          "surface": "הַלֵּוִ֖י",
+          "lemma": "לֵוִי",
+          "translit": "haleviy",
+          "morph": "Particle dual + Noun gentilic masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3878"
+        },
+        {
+          "id": "exodus-6-19-7",
+          "surface": "לְתֹלְדֹתָֽם",
+          "lemma": "תּוֹלְדָה",
+          "translit": "letoledotam",
+          "morph": "Preposition + Noun common feminine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H8435"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:20",
+      "englishText": "Amram took Jochebed his father’s sister to himself as wife; and she bore him Aaron and Moses: and the years of the life of Amram were a hundred and thirty-seven years.",
+      "tokens": [
+        {
+          "id": "exodus-6-20-0",
+          "surface": "וַיִּקַּ֨ח",
+          "lemma": "לָקַח",
+          "translit": "vayiqach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "exodus-6-20-1",
+          "surface": "עַמְרָ֜ם",
+          "lemma": "עַמְרָם",
+          "translit": "`ameram",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6019"
+        },
+        {
+          "id": "exodus-6-20-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-20-3",
+          "surface": "יוֹכֶ֤בֶד",
+          "lemma": "יוֹכֶבֶד",
+          "translit": "yvokebed",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3115"
+        },
+        {
+          "id": "exodus-6-20-4",
+          "surface": "דֹּֽדָתוֹ֙",
+          "lemma": "דּוֹדָה",
+          "translit": "dodatvo",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1733"
+        },
+        {
+          "id": "exodus-6-20-5",
+          "surface": "ל֣וֹ",
+          "lemma": "ל֣וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-20-6",
+          "surface": "לְאִשָּׁ֔ה",
+          "lemma": "אִשָּׁה",
+          "translit": "le'ishah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "exodus-6-20-7",
+          "surface": "וַתֵּ֣לֶד",
+          "lemma": "יָלַד",
+          "translit": "vateled",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3205"
+        },
+        {
+          "id": "exodus-6-20-8",
+          "surface": "ל֔וֹ",
+          "lemma": "ל֔וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-20-9",
+          "surface": "אֶֽת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-20-10",
+          "surface": "אַהֲרֹ֖ן",
+          "lemma": "אַהֲרוֹן",
+          "translit": "'ahron",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H175"
+        },
+        {
+          "id": "exodus-6-20-11",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-20-12",
+          "surface": "מֹשֶׁ֑ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-20-13",
+          "surface": "וּשְׁנֵי֙",
+          "lemma": "שָׁנֶה",
+          "translit": "vsheney",
+          "morph": "Conjunction + Adjective common masculine dual construct",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "exodus-6-20-14",
+          "surface": "חַיֵּ֣י",
+          "lemma": "חַי",
+          "translit": "chayey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H2416"
+        },
+        {
+          "id": "exodus-6-20-15",
+          "surface": "עַמְרָ֔ם",
+          "lemma": "עַמְרָם",
+          "translit": "`ameram",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6019"
+        },
+        {
+          "id": "exodus-6-20-16",
+          "surface": "שֶׁ֧בַע",
+          "lemma": "שֶׁבַע",
+          "translit": "sheba`",
+          "morph": "Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7651"
+        },
+        {
+          "id": "exodus-6-20-17",
+          "surface": "וּשְׁלֹשִׁ֛ים",
+          "lemma": "שְׁלוֹשִׁים",
+          "translit": "vsheloshiym",
+          "morph": "Conjunction + Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H7970"
+        },
+        {
+          "id": "exodus-6-20-18",
+          "surface": "וּמְאַ֖ת",
+          "lemma": "מֵאָה",
+          "translit": "vme'at",
+          "morph": "Conjunction + Adjective common singular construct",
+          "glosses": [],
+          "strongs": "H3967"
+        },
+        {
+          "id": "exodus-6-20-19",
+          "surface": "שָׁנָֽה",
+          "lemma": "שָׁנֶה",
+          "translit": "shanah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:21",
+      "englishText": "The sons of Izhar: Korah, and Nepheg, and Zichri.",
+      "tokens": [
+        {
+          "id": "exodus-6-21-0",
+          "surface": "וּבְנֵ֖י",
+          "lemma": "בֵּן",
+          "translit": "vbeney",
+          "morph": "Conjunction + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-21-1",
+          "surface": "יִצְהָ֑ר",
+          "lemma": "יִצְהָר",
+          "translit": "yitsehar",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3324"
+        },
+        {
+          "id": "exodus-6-21-2",
+          "surface": "קֹ֥רַח",
+          "lemma": "קֹרַח",
+          "translit": "qorach",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7141"
+        },
+        {
+          "id": "exodus-6-21-3",
+          "surface": "וָנֶ֖פֶג",
+          "lemma": "נֶפֶג",
+          "translit": "vanepeg",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H5298"
+        },
+        {
+          "id": "exodus-6-21-4",
+          "surface": "וְזִכְרִֽי",
+          "lemma": "זִכְרִי",
+          "translit": "vezikeriy",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H2147"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:22",
+      "englishText": "The sons of Uzziel: Mishael, and Elzaphan, and Sithri.",
+      "tokens": [
+        {
+          "id": "exodus-6-22-0",
+          "surface": "וּבְנֵ֖י",
+          "lemma": "בֵּן",
+          "translit": "vbeney",
+          "morph": "Conjunction + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-22-1",
+          "surface": "עֻזִּיאֵ֑ל",
+          "lemma": "עֻזִּיאֵל",
+          "translit": "`uziy'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5816"
+        },
+        {
+          "id": "exodus-6-22-2",
+          "surface": "מִֽישָׁאֵ֥ל",
+          "lemma": "מִישָׁאֵל",
+          "translit": "miysha'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4332"
+        },
+        {
+          "id": "exodus-6-22-3",
+          "surface": "וְאֶלְצָפָ֖ן",
+          "lemma": "אֱלִיצָפָן",
+          "translit": "ve'eletsapan",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H469"
+        },
+        {
+          "id": "exodus-6-22-4",
+          "surface": "וְסִתְרִֽי",
+          "lemma": "סִתְרִי",
+          "translit": "vesiteriy",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H5644"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:23",
+      "englishText": "Aaron took Elisheba, the daughter of Amminadab, the sister of Nahshon, as his wife; and she bore him Nadab and Abihu, Eleazar and Ithamar.",
+      "tokens": [
+        {
+          "id": "exodus-6-23-0",
+          "surface": "וַיִּקַּ֨ח",
+          "lemma": "לָקַח",
+          "translit": "vayiqach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "exodus-6-23-1",
+          "surface": "אַהֲרֹ֜ן",
+          "lemma": "אַהֲרוֹן",
+          "translit": "'ahron",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H175"
+        },
+        {
+          "id": "exodus-6-23-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-23-3",
+          "surface": "אֱלִישֶׁ֧בַע",
+          "lemma": "אֱלִישֶׁבַע",
+          "translit": "'liysheba`",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H472"
+        },
+        {
+          "id": "exodus-6-23-4",
+          "surface": "בַּת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "exodus-6-23-5",
+          "surface": "עַמִּינָדָ֛ב",
+          "lemma": "עַמִּינָדָב",
+          "translit": "`amiynadab",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5992"
+        },
+        {
+          "id": "exodus-6-23-6",
+          "surface": "אֲח֥וֹת",
+          "lemma": "אָחוֹת",
+          "translit": "'chvot",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H269"
+        },
+        {
+          "id": "exodus-6-23-7",
+          "surface": "נַחְשׁ֖וֹן",
+          "lemma": "נַחְשׁוֹן",
+          "translit": "nacheshvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5177"
+        },
+        {
+          "id": "exodus-6-23-8",
+          "surface": "ל֣וֹ",
+          "lemma": "ל֣וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-23-9",
+          "surface": "לְאִשָּׁ֑ה",
+          "lemma": "אִשָּׁה",
+          "translit": "le'ishah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "exodus-6-23-10",
+          "surface": "וַתֵּ֣לֶד",
+          "lemma": "יָלַד",
+          "translit": "vateled",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3205"
+        },
+        {
+          "id": "exodus-6-23-11",
+          "surface": "ל֗וֹ",
+          "lemma": "ל֗וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-23-12",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-23-13",
+          "surface": "נָדָב֙",
+          "lemma": "נָדָב",
+          "translit": "nadab",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5070"
+        },
+        {
+          "id": "exodus-6-23-14",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-23-15",
+          "surface": "אֲבִיה֔וּא",
+          "lemma": "אֲבִיהוּא",
+          "translit": "'biyhv'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H30"
+        },
+        {
+          "id": "exodus-6-23-16",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-23-17",
+          "surface": "אֶלְעָזָ֖ר",
+          "lemma": "אֶלְעָזָר",
+          "translit": "'ele`azar",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H499"
+        },
+        {
+          "id": "exodus-6-23-18",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-23-19",
+          "surface": "אִֽיתָמָֽר",
+          "lemma": "אִיתָמָר",
+          "translit": "'iytamar",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H385"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:24",
+      "englishText": "The sons of Korah: Assir, and Elkanah, and Abiasaph; these are the families of the Korahites.",
+      "tokens": [
+        {
+          "id": "exodus-6-24-0",
+          "surface": "וּבְנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "vbeney",
+          "morph": "Conjunction + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-24-1",
+          "surface": "קֹ֔רַח",
+          "lemma": "קֹרַח",
+          "translit": "qorach",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7141"
+        },
+        {
+          "id": "exodus-6-24-2",
+          "surface": "אַסִּ֥יר",
+          "lemma": "אַסִּיר",
+          "translit": "'asiyr",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H617"
+        },
+        {
+          "id": "exodus-6-24-3",
+          "surface": "וְאֶלְקָנָ֖ה",
+          "lemma": "אֶלְקָנָה",
+          "translit": "ve'eleqanah",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H511"
+        },
+        {
+          "id": "exodus-6-24-4",
+          "surface": "וַאֲבִיאָסָ֑ף",
+          "lemma": "אֲבִיאָסָף",
+          "translit": "va'biy'asap",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H23"
+        },
+        {
+          "id": "exodus-6-24-5",
+          "surface": "אֵ֖לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "exodus-6-24-6",
+          "surface": "מִשְׁפְּחֹ֥ת",
+          "lemma": "מִשְׁפָּחָה",
+          "translit": "mishepechot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H4940"
+        },
+        {
+          "id": "exodus-6-24-7",
+          "surface": "הַקָּרְחִֽי",
+          "lemma": "קׇרְחִי",
+          "translit": "haqarechiy",
+          "morph": "Particle dual + Noun gentilic masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7145"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:25",
+      "englishText": "Eleazar Aaron’s son took one of the daughters of Putiel as his wife; and she bore him Phinehas. These are the heads of the fathers’ houses of the Levites according to their families.",
+      "tokens": [
+        {
+          "id": "exodus-6-25-0",
+          "surface": "וְאֶלְעָזָ֨ר",
+          "lemma": "אֶלְעָזָר",
+          "translit": "ve'ele`azar",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H499"
+        },
+        {
+          "id": "exodus-6-25-1",
+          "surface": "בֶּֽן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-25-2",
+          "surface": "אַהֲרֹ֜ן",
+          "lemma": "אַהֲרוֹן",
+          "translit": "'ahron",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H175"
+        },
+        {
+          "id": "exodus-6-25-3",
+          "surface": "לָקַֽח",
+          "lemma": "לָקַח",
+          "translit": "laqach",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "exodus-6-25-4",
+          "surface": "ל֨וֹ",
+          "lemma": "ל֨וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-25-5",
+          "surface": "מִבְּנ֤וֹת",
+          "lemma": "בַּת",
+          "translit": "mibenvot",
+          "morph": "Preposition + Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "exodus-6-25-6",
+          "surface": "פּֽוּטִיאֵל֙",
+          "lemma": "פּוּטִיאֵל",
+          "translit": "pvtiy'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6317"
+        },
+        {
+          "id": "exodus-6-25-7",
+          "surface": "ל֣וֹ",
+          "lemma": "ל֣וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-25-8",
+          "surface": "לְאִשָּׁ֔ה",
+          "lemma": "אִשָּׁה",
+          "translit": "le'ishah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "exodus-6-25-9",
+          "surface": "וַתֵּ֥לֶד",
+          "lemma": "יָלַד",
+          "translit": "vateled",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3205"
+        },
+        {
+          "id": "exodus-6-25-10",
+          "surface": "ל֖וֹ",
+          "lemma": "ל֖וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-25-11",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-25-12",
+          "surface": "פִּֽינְחָ֑ס",
+          "lemma": "פִּינְחָס",
+          "translit": "piynechas",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6372"
+        },
+        {
+          "id": "exodus-6-25-13",
+          "surface": "אֵ֗לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "exodus-6-25-14",
+          "surface": "רָאשֵׁ֛י",
+          "lemma": "רֹאשׁ",
+          "translit": "ra'shey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "exodus-6-25-15",
+          "surface": "אֲב֥וֹת",
+          "lemma": "אָב",
+          "translit": "'bvot",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "exodus-6-25-16",
+          "surface": "הַלְוִיִּ֖ם",
+          "lemma": "לֵוִיִּי",
+          "translit": "haleviyim",
+          "morph": "Particle dual + Noun gentilic masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3881"
+        },
+        {
+          "id": "exodus-6-25-17",
+          "surface": "לְמִשְׁפְּחֹתָֽם",
+          "lemma": "מִשְׁפָּחָה",
+          "translit": "lemishepechotam",
+          "morph": "Preposition + Noun common feminine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H4940"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:26",
+      "englishText": "These are that Aaron and Moses, to whom Yahweh said, “Bring out the children of Israel from the land of Egypt according to their armies.”",
+      "tokens": [
+        {
+          "id": "exodus-6-26-0",
+          "surface": "ה֥וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "exodus-6-26-1",
+          "surface": "אַהֲרֹ֖ן",
+          "lemma": "אַהֲרוֹן",
+          "translit": "'ahron",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H175"
+        },
+        {
+          "id": "exodus-6-26-2",
+          "surface": "וּמֹשֶׁ֑ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "vmosheh",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-26-3",
+          "surface": "אֲשֶׁ֨ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "exodus-6-26-4",
+          "surface": "אָמַ֤ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "exodus-6-26-5",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-26-6",
+          "surface": "לָהֶ֔ם",
+          "lemma": "לָהֶ֔ם",
+          "translit": "lahem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        },
+        {
+          "id": "exodus-6-26-7",
+          "surface": "הוֹצִ֜יאוּ",
+          "lemma": "יָצָא",
+          "translit": "hvotsiy'v",
+          "morph": "Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "exodus-6-26-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-26-9",
+          "surface": "בְּנֵ֧י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-26-10",
+          "surface": "יִשְׂרָאֵ֛ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "exodus-6-26-11",
+          "surface": "מֵאֶ֥רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "me'erets",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "exodus-6-26-12",
+          "surface": "מִצְרַ֖יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "exodus-6-26-13",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "exodus-6-26-14",
+          "surface": "צִבְאֹתָֽם",
+          "lemma": "צָבָא",
+          "translit": "tsibe'otam",
+          "morph": "Noun common plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6635"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:27",
+      "englishText": "These are those who spoke to Pharaoh king of Egypt, to bring out the children of Israel from Egypt. These are that Moses and Aaron.  ",
+      "tokens": [
+        {
+          "id": "exodus-6-27-0",
+          "surface": "הֵ֗ם",
+          "lemma": "הֵם",
+          "translit": "hem",
+          "morph": "Pronoun plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1992"
+        },
+        {
+          "id": "exodus-6-27-1",
+          "surface": "הַֽמְדַבְּרִים֙",
+          "lemma": "דָבַר",
+          "translit": "hamedaberiym",
+          "morph": "Particle dual + Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-27-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-27-3",
+          "surface": "פַּרְעֹ֣ה",
+          "lemma": "פַּרְעֹה",
+          "translit": "pare`oh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6547"
+        },
+        {
+          "id": "exodus-6-27-4",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "exodus-6-27-5",
+          "surface": "מִצְרַ֔יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "exodus-6-27-6",
+          "surface": "לְהוֹצִ֥יא",
+          "lemma": "יָצָא",
+          "translit": "lehvotsiy'",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "exodus-6-27-7",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-27-8",
+          "surface": "בְּנֵֽי",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "exodus-6-27-9",
+          "surface": "יִשְׂרָאֵ֖ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "exodus-6-27-10",
+          "surface": "מִמִּצְרָ֑יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mimitserayim",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "exodus-6-27-11",
+          "surface": "ה֥וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "exodus-6-27-12",
+          "surface": "מֹשֶׁ֖ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-27-13",
+          "surface": "וְאַהֲרֹֽן",
+          "lemma": "אַהֲרוֹן",
+          "translit": "ve'ahron",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H175"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:28",
+      "englishText": "  On the day when Yahweh spoke to Moses in the land of Egypt,",
+      "tokens": [
+        {
+          "id": "exodus-6-28-0",
+          "surface": "וַיְהִ֗י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "exodus-6-28-1",
+          "surface": "בְּי֨וֹם",
+          "lemma": "יוֹם",
+          "translit": "beyvom",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "exodus-6-28-2",
+          "surface": "דִּבֶּ֧ר",
+          "lemma": "דָבַר",
+          "translit": "diber",
+          "morph": "Verb Piel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-28-3",
+          "surface": "יְהוָ֛ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-28-4",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-28-5",
+          "surface": "מֹשֶׁ֖ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-28-6",
+          "surface": "בְּאֶ֥רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "be'erets",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "exodus-6-28-7",
+          "surface": "מִצְרָֽיִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:29",
+      "englishText": "Yahweh spoke to Moses, saying, “I am Yahweh. Speak to Pharaoh king of Egypt all that I speak to you.”  ",
+      "tokens": [
+        {
+          "id": "exodus-6-29-0",
+          "surface": "וַיְדַבֵּ֧ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-29-1",
+          "surface": "יְהוָ֛ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-29-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-29-3",
+          "surface": "מֹשֶׁ֥ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-29-4",
+          "surface": "לֵּאמֹ֖ר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "exodus-6-29-5",
+          "surface": "אֲנִ֣י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "exodus-6-29-6",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-29-7",
+          "surface": "דַּבֵּ֗ר",
+          "lemma": "דָבַר",
+          "translit": "daber",
+          "morph": "Verb Piel Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-29-8",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-29-9",
+          "surface": "פַּרְעֹה֙",
+          "lemma": "פַּרְעֹה",
+          "translit": "pare`oh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6547"
+        },
+        {
+          "id": "exodus-6-29-10",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "exodus-6-29-11",
+          "surface": "מִצְרַ֔יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "exodus-6-29-12",
+          "surface": "אֵ֛ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "exodus-6-29-13",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "exodus-6-29-14",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "exodus-6-29-15",
+          "surface": "אֲנִ֖י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "exodus-6-29-16",
+          "surface": "דֹּבֵ֥ר",
+          "lemma": "דָבַר",
+          "translit": "dober",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "exodus-6-29-17",
+          "surface": "אֵלֶֽיךָ",
+          "lemma": "אֵל",
+          "translit": "'eleyka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Exodus 6:30",
+      "englishText": "  Moses said before Yahweh, “Behold, I am of uncircumcised lips, and how shall Pharaoh listen to me?”   ",
+      "tokens": [
+        {
+          "id": "exodus-6-30-0",
+          "surface": "וַיֹּ֥אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "exodus-6-30-1",
+          "surface": "מֹשֶׁ֖ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "exodus-6-30-2",
+          "surface": "לִפְנֵ֣י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "exodus-6-30-3",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "exodus-6-30-4",
+          "surface": "הֵ֤ן",
+          "lemma": "הֵן",
+          "translit": "hen",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "exodus-6-30-5",
+          "surface": "אֲנִי֙",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "exodus-6-30-6",
+          "surface": "עֲרַ֣ל",
+          "lemma": "עָרֵל",
+          "translit": "`ral",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6189"
+        },
+        {
+          "id": "exodus-6-30-7",
+          "surface": "שְׂפָתַ֔יִם",
+          "lemma": "שָׂפָה",
+          "translit": "shepatayim",
+          "morph": "Noun common feminine dual absolute",
+          "glosses": [],
+          "strongs": "H8193"
+        },
+        {
+          "id": "exodus-6-30-8",
+          "surface": "וְאֵ֕יךְ",
+          "lemma": "אֵיךְ",
+          "translit": "ve'eyke",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H349"
+        },
+        {
+          "id": "exodus-6-30-9",
+          "surface": "יִשְׁמַ֥ע",
+          "lemma": "שָׁמַע",
+          "translit": "yishema`",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "exodus-6-30-10",
+          "surface": "אֵלַ֖י",
+          "lemma": "אֵל",
+          "translit": "'elay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "exodus-6-30-11",
+          "surface": "פַּרְעֹֽה",
+          "lemma": "פַּרְעֹה",
+          "translit": "pare`oh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6547"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

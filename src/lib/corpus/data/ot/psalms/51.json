@@ -1,1 +1,1538 @@
-{"id":"psalms-51","name":"Psalms","chapter":51,"verses":[{"ref":"Psalms 51:1","englishText":"    Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions. ","tokens":[{"id":"psalms-51-1-0","surface":"לַמְנַצֵּ֗חַ","lemma":"נָצַח","translit":"lamenatsecha","morph":"Preposition dual + Verb Piel Passive Participle","glosses":[],"strongs":"H5329"},{"id":"psalms-51-1-1","surface":"מִזְמ֥וֹר","lemma":"מִזְמוֹר","translit":"mizemvor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4210"},{"id":"psalms-51-1-2","surface":"לְדָוִֽד","lemma":"דָּוִד","translit":"ledavid","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1732"}],"language":"hebrew"},{"ref":"Psalms 51:2","englishText":"Wash me thoroughly from my iniquity. Cleanse me from my sin. ","tokens":[{"id":"psalms-51-2-0","surface":"בְּֽבוֹא","lemma":"בּוֹא","translit":"bebvo'","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H935"},{"id":"psalms-51-2-1","surface":"אֵ֭לָיו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"psalms-51-2-2","surface":"נָתָ֣ן","lemma":"נָתָן","translit":"natan","morph":"Noun proper","glosses":[],"strongs":"H5416"},{"id":"psalms-51-2-3","surface":"הַנָּבִ֑יא","lemma":"נָבִיא","translit":"hanabiy'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5030"},{"id":"psalms-51-2-4","surface":"כַּֽאֲשֶׁר","lemma":"אֲשֶׁר","translit":"ka'sher","morph":"Preposition + Particle","glosses":[],"strongs":"H834"},{"id":"psalms-51-2-5","surface":"בָּ֝֗א","lemma":"בּוֹא","translit":"ba'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"psalms-51-2-6","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"psalms-51-2-7","surface":"בַּת","lemma":"בַּת־שֶׁבַע","translit":"bat","morph":"Noun proper","glosses":[],"strongs":"H1339"},{"id":"psalms-51-2-8","surface":"שָֽׁבַע","lemma":"בַּת־שֶׁבַע","translit":"shaba`","morph":"Noun proper","glosses":[],"strongs":"H1339"}],"language":"hebrew"},{"ref":"Psalms 51:3","englishText":"For I know my transgressions. My sin is constantly before me. ","tokens":[{"id":"psalms-51-3-0","surface":"חָנֵּ֣נִי","lemma":"חָנַן","translit":"chaneniy","morph":"Verb Qal Weqatal 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H2603"},{"id":"psalms-51-3-1","surface":"אֱלֹהִ֣ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"psalms-51-3-2","surface":"כְּחַסְדֶּ֑ךָ","lemma":"חֵסֵד","translit":"kechasedeka","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2617"},{"id":"psalms-51-3-3","surface":"כְּרֹ֥ב","lemma":"רֹב","translit":"kerob","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7230"},{"id":"psalms-51-3-4","surface":"רַ֝חֲמֶ֗יךָ","lemma":"רַחַם","translit":"rachmeyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7356"},{"id":"psalms-51-3-5","surface":"מְחֵ֣ה","lemma":"מָחָה","translit":"mecheh","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H4229"},{"id":"psalms-51-3-6","surface":"פְשָׁעָֽי","lemma":"פֶּשַׁע","translit":"pesha`ay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6588"}],"language":"hebrew"},{"ref":"Psalms 51:4","englishText":"Against you, and you only, have I sinned, and done that which is evil in your sight; that you may be proved right when you speak, and justified when you judge. ","tokens":[{"id":"psalms-51-4-0","surface":"הרבה","lemma":"רָבָה","translit":"hrbh","morph":"Verb Hiphil Infinitive Absolute","glosses":[],"strongs":"H7235"},{"id":"psalms-51-4-1","surface":"הֶ֭רֶב","lemma":"רָבָה","translit":"hereb","morph":"Verb Hiphil Weqatal 2nd masculine singular","glosses":[],"strongs":"H7235"},{"id":"psalms-51-4-2","surface":"כַּבְּסֵ֣נִי","lemma":"כָּבַס","translit":"kabeseniy","morph":"Verb Piel Weqatal 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H3526"},{"id":"psalms-51-4-3","surface":"מֵעֲוֺנִ֑י","lemma":"עָוֺן","translit":"me`vniy","morph":"Preposition + Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5771"},{"id":"psalms-51-4-4","surface":"וּֽמֵחַטָּאתִ֥י","lemma":"חַטָּאָה","translit":"vmechata'tiy","morph":"Conjunction + Preposition + Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H2403"},{"id":"psalms-51-4-5","surface":"טַהֲרֵֽנִי","lemma":"טָהֵר","translit":"tahreniy","morph":"Verb Piel Weqatal 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H2891"}],"language":"hebrew"},{"ref":"Psalms 51:5","englishText":"Behold, I was born in iniquity. In sin my mother conceived me. ","tokens":[{"id":"psalms-51-5-0","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-51-5-1","surface":"פְ֭שָׁעַי","lemma":"פֶּשַׁע","translit":"pesha`ay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6588"},{"id":"psalms-51-5-2","surface":"אֲנִ֣י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"psalms-51-5-3","surface":"אֵדָ֑ע","lemma":"יָדַע","translit":"'eda`","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H3045"},{"id":"psalms-51-5-4","surface":"וְחַטָּאתִ֖י","lemma":"חַטָּאָה","translit":"vechata'tiy","morph":"Conjunction + Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H2403"},{"id":"psalms-51-5-5","surface":"נֶגְדִּ֣י","lemma":"נֶגֶד","translit":"negediy","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H5048"},{"id":"psalms-51-5-6","surface":"תָמִֽיד","lemma":"תָּמִיד","translit":"tamiyd","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8548"}],"language":"hebrew"},{"ref":"Psalms 51:6","englishText":"Behold, you desire truth in the inward parts. You teach me wisdom in the inmost place. ","tokens":[{"id":"psalms-51-6-0","surface":"לְךָ֤","lemma":"לְךָ֤","translit":"leka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[]},{"id":"psalms-51-6-1","surface":"לְבַדְּךָ֨","lemma":"בַּד","translit":"lebadeka","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H905"},{"id":"psalms-51-6-2","surface":"חָטָאתִי֮","lemma":"חָטָא","translit":"chata'tiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H2398"},{"id":"psalms-51-6-3","surface":"וְהָרַ֥ע","lemma":"רַע","translit":"vehara`","morph":"Conjunction + Particle dual + Adjective","glosses":[],"strongs":"H7451"},{"id":"psalms-51-6-4","surface":"בְּעֵינֶ֗יךָ","lemma":"עַיִן","translit":"be`eyneyka","morph":"Preposition + Noun common dual construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5869"},{"id":"psalms-51-6-5","surface":"עָ֫שִׂ֥יתִי","lemma":"עָשָׂה","translit":"`ashiytiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H6213"},{"id":"psalms-51-6-6","surface":"לְ֭מַעַן","lemma":"מַעַן","translit":"lema`an","morph":"Preposition","glosses":[],"strongs":"H4616"},{"id":"psalms-51-6-7","surface":"תִּצְדַּ֥ק","lemma":"צָדַק","translit":"titsedaq","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H6663"},{"id":"psalms-51-6-8","surface":"בְּדָבְרֶ֗ךָ","lemma":"דָבַר","translit":"bedabereka","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1696"},{"id":"psalms-51-6-9","surface":"תִּזְכֶּ֥ה","lemma":"זָכָה","translit":"tizekeh","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H2135"},{"id":"psalms-51-6-10","surface":"בְשָׁפְטֶֽךָ","lemma":"שָׁפַט","translit":"beshapeteka","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8199"}],"language":"hebrew"},{"ref":"Psalms 51:7","englishText":"Purify me with hyssop, and I will be clean. Wash me, and I will be whiter than snow. ","tokens":[{"id":"psalms-51-7-0","surface":"הֵן","lemma":"הֵן","translit":"hen","morph":"Particle masculine","glosses":[],"strongs":"H2005"},{"id":"psalms-51-7-1","surface":"בְּעָו֥וֹן","lemma":"עָוֺן","translit":"be`avvon","morph":"Preposition + Noun common singular absolute","glosses":[],"strongs":"H5771"},{"id":"psalms-51-7-2","surface":"חוֹלָ֑לְתִּי","lemma":"חוּל","translit":"chvolaletiy","morph":"Verb Polal Participle 1st common singular","glosses":[],"strongs":"H2342"},{"id":"psalms-51-7-3","surface":"וּ֝בְחֵ֗טְא","lemma":"חֵטְא","translit":"vbechete'","morph":"Conjunction + Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H2399"},{"id":"psalms-51-7-4","surface":"יֶֽחֱמַ֥תְנִי","lemma":"יָחַם","translit":"yechmateniy","morph":"Verb Piel Participle 3rd feminine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H3179"},{"id":"psalms-51-7-5","surface":"אִמִּֽי","lemma":"אֵם","translit":"'imiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H517"}],"language":"hebrew"},{"ref":"Psalms 51:8","englishText":"Let me hear joy and gladness, That the bones which you have broken may rejoice. ","tokens":[{"id":"psalms-51-8-0","surface":"הֵן","lemma":"הֵן","translit":"hen","morph":"Particle masculine","glosses":[],"strongs":"H2005"},{"id":"psalms-51-8-1","surface":"אֱ֭מֶת","lemma":"אֶמֶת","translit":"'met","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H571"},{"id":"psalms-51-8-2","surface":"חָפַ֣צְתָּ","lemma":"חָפֵץ","translit":"chapatseta","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H2654"},{"id":"psalms-51-8-3","surface":"בַטֻּח֑וֹת","lemma":"טֻחָה","translit":"batuchvot","morph":"Preposition dual + Noun common feminine plural absolute","glosses":[],"strongs":"H2910"},{"id":"psalms-51-8-4","surface":"וּ֝בְסָתֻ֗ם","lemma":"סָתַם","translit":"vbesatum","morph":"Conjunction + Preposition + Verb Qal s","glosses":[],"strongs":"H5640"},{"id":"psalms-51-8-5","surface":"חָכְמָ֥ה","lemma":"חׇכְמָה","translit":"chakemah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2451"},{"id":"psalms-51-8-6","surface":"תוֹדִיעֵֽנִי","lemma":"יָדַע","translit":"tvodiy`eniy","morph":"Verb Hiphil Imperative 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H3045"}],"language":"hebrew"},{"ref":"Psalms 51:9","englishText":"Hide your face from my sins, and blot out all of my iniquities. ","tokens":[{"id":"psalms-51-9-0","surface":"תְּחַטְּאֵ֣נִי","lemma":"חָטָא","translit":"techate'eniy","morph":"Verb Piel Imperative 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H2398"},{"id":"psalms-51-9-1","surface":"בְאֵז֣וֹב","lemma":"אֵזוֹב","translit":"be'ezvob","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H231"},{"id":"psalms-51-9-2","surface":"וְאֶטְהָ֑ר","lemma":"טָהֵר","translit":"ve'etehar","morph":"Conjunction + Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H2891"},{"id":"psalms-51-9-3","surface":"תְּ֝כַבְּסֵ֗נִי","lemma":"כָּבַס","translit":"tekabeseniy","morph":"Verb Piel Imperative 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H3526"},{"id":"psalms-51-9-4","surface":"וּמִשֶּׁ֥לֶג","lemma":"שֶׁלֶג","translit":"vmisheleg","morph":"Conjunction + Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H7950"},{"id":"psalms-51-9-5","surface":"אַלְבִּֽין","lemma":"לָבַן","translit":"'alebiyn","morph":"Verb Hiphil Imperative 1st common singular","glosses":[],"strongs":"H3835"}],"language":"hebrew"},{"ref":"Psalms 51:10","englishText":"Create in me a clean heart, O God. Renew a right spirit within me. ","tokens":[{"id":"psalms-51-10-0","surface":"תַּ֭שְׁמִיעֵנִי","lemma":"שָׁמַע","translit":"tashemiy`eniy","morph":"Verb Hiphil Imperative 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H8085"},{"id":"psalms-51-10-1","surface":"שָׂשׂ֣וֹן","lemma":"שָׂשׂוֹן","translit":"shashvon","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8342"},{"id":"psalms-51-10-2","surface":"וְשִׂמְחָ֑ה","lemma":"שִׂמְחָה","translit":"veshimechah","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H8057"},{"id":"psalms-51-10-3","surface":"תָּ֝גֵ֗לְנָה","lemma":"גִּיל","translit":"tagelenah","morph":"Verb Qal Imperative 3rd feminine plural","glosses":[],"strongs":"H1523"},{"id":"psalms-51-10-4","surface":"עֲצָמ֥וֹת","lemma":"עֶצֶם","translit":"`tsamvot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H6106"},{"id":"psalms-51-10-5","surface":"דִּכִּֽיתָ","lemma":"דָּכָה","translit":"dikiyta","morph":"Verb Piel Participle 2nd masculine singular","glosses":[],"strongs":"H1794"}],"language":"hebrew"},{"ref":"Psalms 51:11","englishText":"Don’t throw me from your presence, and don’t take your holy Spirit from me. ","tokens":[{"id":"psalms-51-11-0","surface":"הַסְתֵּ֣ר","lemma":"סָתַר","translit":"haseter","morph":"Verb Hiphil Weqatal 2nd masculine singular","glosses":[],"strongs":"H5641"},{"id":"psalms-51-11-1","surface":"פָּ֭נֶיךָ","lemma":"פָּנִים","translit":"paneyka","morph":"Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6440"},{"id":"psalms-51-11-2","surface":"מֵחֲטָאָ֑י","lemma":"חֵטְא","translit":"mechta'ay","morph":"Preposition + Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H2399"},{"id":"psalms-51-11-3","surface":"וְֽכָל","lemma":"כֹּל","translit":"vekal","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-51-11-4","surface":"עֲוֺ֖נֹתַ֣י","lemma":"עָוֺן","translit":"`vnotay","morph":"Noun common plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5771"},{"id":"psalms-51-11-5","surface":"מְחֵֽה","lemma":"מָחָה","translit":"mecheh","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H4229"}],"language":"hebrew"},{"ref":"Psalms 51:12","englishText":"Restore to me the joy of your salvation. Uphold me with a willing spirit. ","tokens":[{"id":"psalms-51-12-0","surface":"לֵ֣ב","lemma":"לֵב","translit":"leb","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3820"},{"id":"psalms-51-12-1","surface":"טָ֭הוֹר","lemma":"טָהוֹר","translit":"tahvor","morph":"Adjective","glosses":[],"strongs":"H2889"},{"id":"psalms-51-12-2","surface":"בְּרָא","lemma":"בָּרָא","translit":"bera'","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H1254"},{"id":"psalms-51-12-3","surface":"לִ֣י","lemma":"לִ֣י","translit":"liy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]},{"id":"psalms-51-12-4","surface":"אֱלֹהִ֑ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"psalms-51-12-5","surface":"וְר֥וּחַ","lemma":"רוּחַ","translit":"vervcha","morph":"Conjunction + Noun common singular absolute","glosses":[],"strongs":"H7307"},{"id":"psalms-51-12-6","surface":"נָ֝כ֗וֹן","lemma":"כּוּן","translit":"nakvon","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H3559"},{"id":"psalms-51-12-7","surface":"חַדֵּ֥שׁ","lemma":"חָדַשׁ","translit":"chadesh","morph":"Verb Piel Weqatal 2nd masculine singular","glosses":[],"strongs":"H2318"},{"id":"psalms-51-12-8","surface":"בְּקִרְבִּֽי","lemma":"קֶרֶב","translit":"beqirebiy","morph":"Preposition + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H7130"}],"language":"hebrew"},{"ref":"Psalms 51:13","englishText":"Then I will teach transgressors your ways. Sinners shall be converted to you. ","tokens":[{"id":"psalms-51-13-0","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"psalms-51-13-1","surface":"תַּשְׁלִיכֵ֥נִי","lemma":"שָׁלַךְ","translit":"tasheliykeniy","morph":"Verb Hiphil Jussive 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H7993"},{"id":"psalms-51-13-2","surface":"מִלְּפָנֶ֑יךָ","lemma":"פָּנִים","translit":"milepaneyka","morph":"Preposition + Preposition + Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6440"},{"id":"psalms-51-13-3","surface":"וְר֥וּחַ","lemma":"רוּחַ","translit":"vervcha","morph":"Conjunction + Noun common singular construct","glosses":[],"strongs":"H7307"},{"id":"psalms-51-13-4","surface":"קָ֝דְשְׁךָ֗","lemma":"קֹדֶשׁ","translit":"qadesheka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6944"},{"id":"psalms-51-13-5","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"psalms-51-13-6","surface":"תִּקַּ֥ח","lemma":"לָקַח","translit":"tiqach","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H3947"},{"id":"psalms-51-13-7","surface":"מִמֶּֽנִּי","lemma":"מִן","translit":"mimeniy","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H4480"}],"language":"hebrew"},{"ref":"Psalms 51:14","englishText":"Deliver me from the guilt of bloodshed, O God, the God of my salvation. My tongue shall sing aloud of your righteousness. ","tokens":[{"id":"psalms-51-14-0","surface":"הָשִׁ֣יבָה","lemma":"שׁוּב","translit":"hashiybah","morph":"Verb Hiphil Weqatal 2nd masculine singular + Suffix","glosses":[],"strongs":"H7725"},{"id":"psalms-51-14-1","surface":"לִּ֭י","lemma":"לִּ֭י","translit":"liy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]},{"id":"psalms-51-14-2","surface":"שְׂשׂ֣וֹן","lemma":"שָׂשׂוֹן","translit":"sheshvon","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8342"},{"id":"psalms-51-14-3","surface":"יִשְׁעֶ֑ךָ","lemma":"יֶשַׁע","translit":"yishe`eka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3468"},{"id":"psalms-51-14-4","surface":"וְר֖וּחַ","lemma":"רוּחַ","translit":"vervcha","morph":"Conjunction + Noun common singular absolute","glosses":[],"strongs":"H7307"},{"id":"psalms-51-14-5","surface":"נְדִיבָ֣ה","lemma":"נָדִיב","translit":"nediybah","morph":"Adjective","glosses":[],"strongs":"H5081"},{"id":"psalms-51-14-6","surface":"תִסְמְכֵֽנִי","lemma":"סָמַךְ","translit":"tisemekeniy","morph":"Verb Qal Imperative 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H5564"}],"language":"hebrew"},{"ref":"Psalms 51:15","englishText":"Lord, open my lips. My mouth shall declare your praise. ","tokens":[{"id":"psalms-51-15-0","surface":"אֲלַמְּדָ֣ה","lemma":"לָמַד","translit":"'lamedah","morph":"Verb Piel Cohortative 1st common singular","glosses":[],"strongs":"H3925"},{"id":"psalms-51-15-1","surface":"פֹשְׁעִ֣ים","lemma":"פָּשַׁע","translit":"poshe`iym","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H6586"},{"id":"psalms-51-15-2","surface":"דְּרָכֶ֑יךָ","lemma":"דֶּרֶךְ","translit":"derakeyka","morph":"Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1870"},{"id":"psalms-51-15-3","surface":"וְ֝חַטָּאִ֗ים","lemma":"חַטָּא","translit":"vechata'iym","morph":"Conjunction + Adjective","glosses":[],"strongs":"H2400"},{"id":"psalms-51-15-4","surface":"אֵלֶ֥יךָ","lemma":"אֵל","translit":"'eleyka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H413"},{"id":"psalms-51-15-5","surface":"יָשֽׁוּבוּ","lemma":"שׁוּב","translit":"yashvbv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H7725"}],"language":"hebrew"},{"ref":"Psalms 51:16","englishText":"For you don’t delight in sacrifice, or else I would give it. You have no pleasure in burnt offering. ","tokens":[{"id":"psalms-51-16-0","surface":"הַצִּ֘ילֵ֤נִי","lemma":"נָצַל","translit":"hatsiyleniy","morph":"Verb Hiphil Weqatal 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H5337"},{"id":"psalms-51-16-1","surface":"מִדָּמִ֨ים","lemma":"דָּם","translit":"midamiym","morph":"Preposition + Noun common masculine plural absolute","glosses":[],"strongs":"H1818"},{"id":"psalms-51-16-2","surface":"אֱֽלֹהִ֗ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"psalms-51-16-3","surface":"אֱלֹהֵ֥י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"psalms-51-16-4","surface":"תְּשׁוּעָתִ֑י","lemma":"תְּשׁוּעָה","translit":"teshv`atiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H8668"},{"id":"psalms-51-16-5","surface":"תְּרַנֵּ֥ן","lemma":"רָנַן","translit":"teranen","morph":"Verb Piel Imperative 3rd feminine singular","glosses":[],"strongs":"H7442"},{"id":"psalms-51-16-6","surface":"לְ֝שׁוֹנִ֗י","lemma":"לָשׁוֹן","translit":"leshvoniy","morph":"Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H3956"},{"id":"psalms-51-16-7","surface":"צִדְקָתֶֽךָ","lemma":"צְדָקָה","translit":"tsideqateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6666"}],"language":"hebrew"},{"ref":"Psalms 51:17","englishText":"The sacrifices of God are a broken spirit. A broken and contrite heart, O God, you will not despise. ","tokens":[{"id":"psalms-51-17-0","surface":"אֲ֭דֹנָי","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"psalms-51-17-1","surface":"שְׂפָתַ֣י","lemma":"שָׂפָה","translit":"shepatay","morph":"Noun common feminine dual construct + Suffix plural 1st common singular","glosses":[],"strongs":"H8193"},{"id":"psalms-51-17-2","surface":"תִּפְתָּ֑ח","lemma":"פָּתַח","translit":"tipetach","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H6605"},{"id":"psalms-51-17-3","surface":"וּ֝פִ֗י","lemma":"פֶּה","translit":"vpiy","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6310"},{"id":"psalms-51-17-4","surface":"יַגִּ֥יד","lemma":"נָגַד","translit":"yagiyd","morph":"Verb Hiphil Imperative 3rd masculine singular","glosses":[],"strongs":"H5046"},{"id":"psalms-51-17-5","surface":"תְּהִלָּתֶֽךָ","lemma":"תְּהִלָּה","translit":"tehilateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8416"}],"language":"hebrew"},{"ref":"Psalms 51:18","englishText":"Do well in your good pleasure to Zion. Build the walls of Jerusalem. ","tokens":[{"id":"psalms-51-18-0","surface":"כִּ֤י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-51-18-1","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"psalms-51-18-2","surface":"תַחְפֹּ֣ץ","lemma":"חָפֵץ","translit":"tachepots","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H2654"},{"id":"psalms-51-18-3","surface":"זֶ֣בַח","lemma":"זֶבַח","translit":"zebach","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2077"},{"id":"psalms-51-18-4","surface":"וְאֶתֵּ֑נָה","lemma":"נָתַן","translit":"ve'etenah","morph":"Conjunction + Verb Qal Cohortative 1st common singular","glosses":[],"strongs":"H5414"},{"id":"psalms-51-18-5","surface":"ע֝וֹלָ֗ה","lemma":"עֹלָה","translit":"`volah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H5930"},{"id":"psalms-51-18-6","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"psalms-51-18-7","surface":"תִרְצֶֽה","lemma":"רָצָה","translit":"tiretseh","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H7521"}],"language":"hebrew"},{"ref":"Psalms 51:19","englishText":"Then you will delight in the sacrifices of righteousness, in burnt offerings and in whole burnt offerings. Then they will offer bulls on your altar.   ","tokens":[{"id":"psalms-51-19-0","surface":"זִֽבְחֵ֣י","lemma":"זֶבַח","translit":"zibechey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H2077"},{"id":"psalms-51-19-1","surface":"אֱלֹהִים֮","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"psalms-51-19-2","surface":"ר֪וּחַ","lemma":"רוּחַ","translit":"rvcha","morph":"Noun common singular construct","glosses":[],"strongs":"H7307"},{"id":"psalms-51-19-3","surface":"נִשְׁבָּ֫רָ֥ה","lemma":"שָׁבַר","translit":"nishebarah","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H7665"},{"id":"psalms-51-19-4","surface":"לֵב","lemma":"לֵב","translit":"leb","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3820"},{"id":"psalms-51-19-5","surface":"נִשְׁבָּ֥ר","lemma":"שָׁבַר","translit":"nishebar","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H7665"},{"id":"psalms-51-19-6","surface":"וְנִדְכֶּ֑ה","lemma":"דָּכָה","translit":"venidekeh","morph":"Conjunction + Verb Niphal Passive Participle","glosses":[],"strongs":"H1794"},{"id":"psalms-51-19-7","surface":"אֱ֝לֹהִ֗ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"psalms-51-19-8","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"psalms-51-19-9","surface":"תִבְזֶֽה","lemma":"בָּזָה","translit":"tibezeh","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H959"}],"language":"hebrew"},{"ref":"Psalms 51:20","englishText":"[English translation missing]","tokens":[{"id":"psalms-51-20-0","surface":"הֵיטִ֣יבָה","lemma":"יָטַב","translit":"heytiybah","morph":"Verb Hiphil Weqatal 2nd masculine singular + Suffix","glosses":[],"strongs":"H3190"},{"id":"psalms-51-20-1","surface":"בִ֭רְצוֹנְךָ","lemma":"רָצוֹן","translit":"biretsvoneka","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7522"},{"id":"psalms-51-20-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-51-20-3","surface":"צִיּ֑וֹן","lemma":"צִיּוֹן","translit":"tsiyvon","morph":"Noun proper","glosses":[],"strongs":"H6726"},{"id":"psalms-51-20-4","surface":"תִּ֝בְנֶ֗ה","lemma":"בָּנָה","translit":"tibeneh","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H1129"},{"id":"psalms-51-20-5","surface":"חוֹמ֥וֹת","lemma":"חוֹמָה","translit":"chvomvot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H2346"},{"id":"psalms-51-20-6","surface":"יְרוּשָׁלִָֽם","lemma":"יְרוּשָׁלַ͏ִם","translit":"yervshalaim","morph":"Noun proper","glosses":[],"strongs":"H3389"}],"language":"hebrew"},{"ref":"Psalms 51:21","englishText":"[English translation missing]","tokens":[{"id":"psalms-51-21-0","surface":"אָ֤ז","lemma":"אָז","translit":"'az","morph":"Adverb","glosses":[],"strongs":"H227"},{"id":"psalms-51-21-1","surface":"תַּחְפֹּ֣ץ","lemma":"חָפֵץ","translit":"tachepots","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H2654"},{"id":"psalms-51-21-2","surface":"זִבְחֵי","lemma":"זֶבַח","translit":"zibechey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H2077"},{"id":"psalms-51-21-3","surface":"צֶ֭דֶק","lemma":"צֶדֶק","translit":"tsedeq","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6664"},{"id":"psalms-51-21-4","surface":"עוֹלָ֣ה","lemma":"עֹלָה","translit":"`volah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H5930"},{"id":"psalms-51-21-5","surface":"וְכָלִ֑יל","lemma":"כָּלִיל","translit":"vekaliyl","morph":"Conjunction + Adjective","glosses":[],"strongs":"H3632"},{"id":"psalms-51-21-6","surface":"אָ֤ז","lemma":"אָז","translit":"'az","morph":"Adverb","glosses":[],"strongs":"H227"},{"id":"psalms-51-21-7","surface":"יַעֲל֖וּ","lemma":"עָלָה","translit":"ya`lv","morph":"Verb Hiphil Imperative 3rd masculine plural","glosses":[],"strongs":"H5927"},{"id":"psalms-51-21-8","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"psalms-51-21-9","surface":"מִזְבַּחֲךָ֣","lemma":"מִזְבֵּחַ","translit":"mizebachka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H4196"},{"id":"psalms-51-21-10","surface":"פָרִֽים","lemma":"פַּר","translit":"pariym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H6499"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-51",
+  "name": "Psalms",
+  "chapter": 51,
+  "verses": [
+    {
+      "ref": "Psalms 51:1",
+      "englishText": "    Have mercy on me, God, according to your loving kindness. According to the multitude of your tender mercies, blot out my transgressions. ",
+      "tokens": [
+        {
+          "id": "psalms-51-1-0",
+          "surface": "לַמְנַצֵּ֗חַ",
+          "lemma": "נָצַח",
+          "translit": "lamenatsecha",
+          "morph": "Preposition dual + Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H5329"
+        },
+        {
+          "id": "psalms-51-1-1",
+          "surface": "מִזְמ֥וֹר",
+          "lemma": "מִזְמוֹר",
+          "translit": "mizemvor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4210"
+        },
+        {
+          "id": "psalms-51-1-2",
+          "surface": "לְדָוִֽד",
+          "lemma": "דָּוִד",
+          "translit": "ledavid",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1732"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:2",
+      "englishText": "Wash me thoroughly from my iniquity. Cleanse me from my sin. ",
+      "tokens": [
+        {
+          "id": "psalms-51-2-0",
+          "surface": "בְּֽבוֹא",
+          "lemma": "בּוֹא",
+          "translit": "bebvo'",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "psalms-51-2-1",
+          "surface": "אֵ֭לָיו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "psalms-51-2-2",
+          "surface": "נָתָ֣ן",
+          "lemma": "נָתָן",
+          "translit": "natan",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5416"
+        },
+        {
+          "id": "psalms-51-2-3",
+          "surface": "הַנָּבִ֑יא",
+          "lemma": "נָבִיא",
+          "translit": "hanabiy'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5030"
+        },
+        {
+          "id": "psalms-51-2-4",
+          "surface": "כַּֽאֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "ka'sher",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "psalms-51-2-5",
+          "surface": "בָּ֝֗א",
+          "lemma": "בּוֹא",
+          "translit": "ba'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "psalms-51-2-6",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "psalms-51-2-7",
+          "surface": "בַּת",
+          "lemma": "בַּת־שֶׁבַע",
+          "translit": "bat",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1339"
+        },
+        {
+          "id": "psalms-51-2-8",
+          "surface": "שָֽׁבַע",
+          "lemma": "בַּת־שֶׁבַע",
+          "translit": "shaba`",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1339"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:3",
+      "englishText": "For I know my transgressions. My sin is constantly before me. ",
+      "tokens": [
+        {
+          "id": "psalms-51-3-0",
+          "surface": "חָנֵּ֣נִי",
+          "lemma": "חָנַן",
+          "translit": "chaneniy",
+          "morph": "Verb Qal Weqatal 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2603"
+        },
+        {
+          "id": "psalms-51-3-1",
+          "surface": "אֱלֹהִ֣ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-51-3-2",
+          "surface": "כְּחַסְדֶּ֑ךָ",
+          "lemma": "חֵסֵד",
+          "translit": "kechasedeka",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2617"
+        },
+        {
+          "id": "psalms-51-3-3",
+          "surface": "כְּרֹ֥ב",
+          "lemma": "רֹב",
+          "translit": "kerob",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7230"
+        },
+        {
+          "id": "psalms-51-3-4",
+          "surface": "רַ֝חֲמֶ֗יךָ",
+          "lemma": "רַחַם",
+          "translit": "rachmeyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7356"
+        },
+        {
+          "id": "psalms-51-3-5",
+          "surface": "מְחֵ֣ה",
+          "lemma": "מָחָה",
+          "translit": "mecheh",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4229"
+        },
+        {
+          "id": "psalms-51-3-6",
+          "surface": "פְשָׁעָֽי",
+          "lemma": "פֶּשַׁע",
+          "translit": "pesha`ay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6588"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:4",
+      "englishText": "Against you, and you only, have I sinned, and done that which is evil in your sight; that you may be proved right when you speak, and justified when you judge. ",
+      "tokens": [
+        {
+          "id": "psalms-51-4-0",
+          "surface": "הרבה",
+          "lemma": "רָבָה",
+          "translit": "hrbh",
+          "morph": "Verb Hiphil Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "psalms-51-4-1",
+          "surface": "הֶ֭רֶב",
+          "lemma": "רָבָה",
+          "translit": "hereb",
+          "morph": "Verb Hiphil Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "psalms-51-4-2",
+          "surface": "כַּבְּסֵ֣נִי",
+          "lemma": "כָּבַס",
+          "translit": "kabeseniy",
+          "morph": "Verb Piel Weqatal 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3526"
+        },
+        {
+          "id": "psalms-51-4-3",
+          "surface": "מֵעֲוֺנִ֑י",
+          "lemma": "עָוֺן",
+          "translit": "me`vniy",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5771"
+        },
+        {
+          "id": "psalms-51-4-4",
+          "surface": "וּֽמֵחַטָּאתִ֥י",
+          "lemma": "חַטָּאָה",
+          "translit": "vmechata'tiy",
+          "morph": "Conjunction + Preposition + Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2403"
+        },
+        {
+          "id": "psalms-51-4-5",
+          "surface": "טַהֲרֵֽנִי",
+          "lemma": "טָהֵר",
+          "translit": "tahreniy",
+          "morph": "Verb Piel Weqatal 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2891"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:5",
+      "englishText": "Behold, I was born in iniquity. In sin my mother conceived me. ",
+      "tokens": [
+        {
+          "id": "psalms-51-5-0",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-51-5-1",
+          "surface": "פְ֭שָׁעַי",
+          "lemma": "פֶּשַׁע",
+          "translit": "pesha`ay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6588"
+        },
+        {
+          "id": "psalms-51-5-2",
+          "surface": "אֲנִ֣י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "psalms-51-5-3",
+          "surface": "אֵדָ֑ע",
+          "lemma": "יָדַע",
+          "translit": "'eda`",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "psalms-51-5-4",
+          "surface": "וְחַטָּאתִ֖י",
+          "lemma": "חַטָּאָה",
+          "translit": "vechata'tiy",
+          "morph": "Conjunction + Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2403"
+        },
+        {
+          "id": "psalms-51-5-5",
+          "surface": "נֶגְדִּ֣י",
+          "lemma": "נֶגֶד",
+          "translit": "negediy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5048"
+        },
+        {
+          "id": "psalms-51-5-6",
+          "surface": "תָמִֽיד",
+          "lemma": "תָּמִיד",
+          "translit": "tamiyd",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8548"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:6",
+      "englishText": "Behold, you desire truth in the inward parts. You teach me wisdom in the inmost place. ",
+      "tokens": [
+        {
+          "id": "psalms-51-6-0",
+          "surface": "לְךָ֤",
+          "lemma": "לְךָ֤",
+          "translit": "leka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "psalms-51-6-1",
+          "surface": "לְבַדְּךָ֨",
+          "lemma": "בַּד",
+          "translit": "lebadeka",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H905"
+        },
+        {
+          "id": "psalms-51-6-2",
+          "surface": "חָטָאתִי֮",
+          "lemma": "חָטָא",
+          "translit": "chata'tiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H2398"
+        },
+        {
+          "id": "psalms-51-6-3",
+          "surface": "וְהָרַ֥ע",
+          "lemma": "רַע",
+          "translit": "vehara`",
+          "morph": "Conjunction + Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7451"
+        },
+        {
+          "id": "psalms-51-6-4",
+          "surface": "בְּעֵינֶ֗יךָ",
+          "lemma": "עַיִן",
+          "translit": "be`eyneyka",
+          "morph": "Preposition + Noun common dual construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "psalms-51-6-5",
+          "surface": "עָ֫שִׂ֥יתִי",
+          "lemma": "עָשָׂה",
+          "translit": "`ashiytiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "psalms-51-6-6",
+          "surface": "לְ֭מַעַן",
+          "lemma": "מַעַן",
+          "translit": "lema`an",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4616"
+        },
+        {
+          "id": "psalms-51-6-7",
+          "surface": "תִּצְדַּ֥ק",
+          "lemma": "צָדַק",
+          "translit": "titsedaq",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6663"
+        },
+        {
+          "id": "psalms-51-6-8",
+          "surface": "בְּדָבְרֶ֗ךָ",
+          "lemma": "דָבַר",
+          "translit": "bedabereka",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "psalms-51-6-9",
+          "surface": "תִּזְכֶּ֥ה",
+          "lemma": "זָכָה",
+          "translit": "tizekeh",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2135"
+        },
+        {
+          "id": "psalms-51-6-10",
+          "surface": "בְשָׁפְטֶֽךָ",
+          "lemma": "שָׁפַט",
+          "translit": "beshapeteka",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8199"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:7",
+      "englishText": "Purify me with hyssop, and I will be clean. Wash me, and I will be whiter than snow. ",
+      "tokens": [
+        {
+          "id": "psalms-51-7-0",
+          "surface": "הֵן",
+          "lemma": "הֵן",
+          "translit": "hen",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "psalms-51-7-1",
+          "surface": "בְּעָו֥וֹן",
+          "lemma": "עָוֺן",
+          "translit": "be`avvon",
+          "morph": "Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H5771"
+        },
+        {
+          "id": "psalms-51-7-2",
+          "surface": "חוֹלָ֑לְתִּי",
+          "lemma": "חוּל",
+          "translit": "chvolaletiy",
+          "morph": "Verb Polal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H2342"
+        },
+        {
+          "id": "psalms-51-7-3",
+          "surface": "וּ֝בְחֵ֗טְא",
+          "lemma": "חֵטְא",
+          "translit": "vbechete'",
+          "morph": "Conjunction + Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2399"
+        },
+        {
+          "id": "psalms-51-7-4",
+          "surface": "יֶֽחֱמַ֥תְנִי",
+          "lemma": "יָחַם",
+          "translit": "yechmateniy",
+          "morph": "Verb Piel Participle 3rd feminine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3179"
+        },
+        {
+          "id": "psalms-51-7-5",
+          "surface": "אִמִּֽי",
+          "lemma": "אֵם",
+          "translit": "'imiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H517"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:8",
+      "englishText": "Let me hear joy and gladness, That the bones which you have broken may rejoice. ",
+      "tokens": [
+        {
+          "id": "psalms-51-8-0",
+          "surface": "הֵן",
+          "lemma": "הֵן",
+          "translit": "hen",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "psalms-51-8-1",
+          "surface": "אֱ֭מֶת",
+          "lemma": "אֶמֶת",
+          "translit": "'met",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H571"
+        },
+        {
+          "id": "psalms-51-8-2",
+          "surface": "חָפַ֣צְתָּ",
+          "lemma": "חָפֵץ",
+          "translit": "chapatseta",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2654"
+        },
+        {
+          "id": "psalms-51-8-3",
+          "surface": "בַטֻּח֑וֹת",
+          "lemma": "טֻחָה",
+          "translit": "batuchvot",
+          "morph": "Preposition dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H2910"
+        },
+        {
+          "id": "psalms-51-8-4",
+          "surface": "וּ֝בְסָתֻ֗ם",
+          "lemma": "סָתַם",
+          "translit": "vbesatum",
+          "morph": "Conjunction + Preposition + Verb Qal s",
+          "glosses": [],
+          "strongs": "H5640"
+        },
+        {
+          "id": "psalms-51-8-5",
+          "surface": "חָכְמָ֥ה",
+          "lemma": "חׇכְמָה",
+          "translit": "chakemah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2451"
+        },
+        {
+          "id": "psalms-51-8-6",
+          "surface": "תוֹדִיעֵֽנִי",
+          "lemma": "יָדַע",
+          "translit": "tvodiy`eniy",
+          "morph": "Verb Hiphil Imperative 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3045"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:9",
+      "englishText": "Hide your face from my sins, and blot out all of my iniquities. ",
+      "tokens": [
+        {
+          "id": "psalms-51-9-0",
+          "surface": "תְּחַטְּאֵ֣נִי",
+          "lemma": "חָטָא",
+          "translit": "techate'eniy",
+          "morph": "Verb Piel Imperative 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2398"
+        },
+        {
+          "id": "psalms-51-9-1",
+          "surface": "בְאֵז֣וֹב",
+          "lemma": "אֵזוֹב",
+          "translit": "be'ezvob",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H231"
+        },
+        {
+          "id": "psalms-51-9-2",
+          "surface": "וְאֶטְהָ֑ר",
+          "lemma": "טָהֵר",
+          "translit": "ve'etehar",
+          "morph": "Conjunction + Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H2891"
+        },
+        {
+          "id": "psalms-51-9-3",
+          "surface": "תְּ֝כַבְּסֵ֗נִי",
+          "lemma": "כָּבַס",
+          "translit": "tekabeseniy",
+          "morph": "Verb Piel Imperative 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3526"
+        },
+        {
+          "id": "psalms-51-9-4",
+          "surface": "וּמִשֶּׁ֥לֶג",
+          "lemma": "שֶׁלֶג",
+          "translit": "vmisheleg",
+          "morph": "Conjunction + Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7950"
+        },
+        {
+          "id": "psalms-51-9-5",
+          "surface": "אַלְבִּֽין",
+          "lemma": "לָבַן",
+          "translit": "'alebiyn",
+          "morph": "Verb Hiphil Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H3835"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:10",
+      "englishText": "Create in me a clean heart, O God. Renew a right spirit within me. ",
+      "tokens": [
+        {
+          "id": "psalms-51-10-0",
+          "surface": "תַּ֭שְׁמִיעֵנִי",
+          "lemma": "שָׁמַע",
+          "translit": "tashemiy`eniy",
+          "morph": "Verb Hiphil Imperative 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "psalms-51-10-1",
+          "surface": "שָׂשׂ֣וֹן",
+          "lemma": "שָׂשׂוֹן",
+          "translit": "shashvon",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8342"
+        },
+        {
+          "id": "psalms-51-10-2",
+          "surface": "וְשִׂמְחָ֑ה",
+          "lemma": "שִׂמְחָה",
+          "translit": "veshimechah",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8057"
+        },
+        {
+          "id": "psalms-51-10-3",
+          "surface": "תָּ֝גֵ֗לְנָה",
+          "lemma": "גִּיל",
+          "translit": "tagelenah",
+          "morph": "Verb Qal Imperative 3rd feminine plural",
+          "glosses": [],
+          "strongs": "H1523"
+        },
+        {
+          "id": "psalms-51-10-4",
+          "surface": "עֲצָמ֥וֹת",
+          "lemma": "עֶצֶם",
+          "translit": "`tsamvot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H6106"
+        },
+        {
+          "id": "psalms-51-10-5",
+          "surface": "דִּכִּֽיתָ",
+          "lemma": "דָּכָה",
+          "translit": "dikiyta",
+          "morph": "Verb Piel Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1794"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:11",
+      "englishText": "Don’t throw me from your presence, and don’t take your holy Spirit from me. ",
+      "tokens": [
+        {
+          "id": "psalms-51-11-0",
+          "surface": "הַסְתֵּ֣ר",
+          "lemma": "סָתַר",
+          "translit": "haseter",
+          "morph": "Verb Hiphil Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5641"
+        },
+        {
+          "id": "psalms-51-11-1",
+          "surface": "פָּ֭נֶיךָ",
+          "lemma": "פָּנִים",
+          "translit": "paneyka",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "psalms-51-11-2",
+          "surface": "מֵחֲטָאָ֑י",
+          "lemma": "חֵטְא",
+          "translit": "mechta'ay",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2399"
+        },
+        {
+          "id": "psalms-51-11-3",
+          "surface": "וְֽכָל",
+          "lemma": "כֹּל",
+          "translit": "vekal",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-51-11-4",
+          "surface": "עֲוֺ֖נֹתַ֣י",
+          "lemma": "עָוֺן",
+          "translit": "`vnotay",
+          "morph": "Noun common plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5771"
+        },
+        {
+          "id": "psalms-51-11-5",
+          "surface": "מְחֵֽה",
+          "lemma": "מָחָה",
+          "translit": "mecheh",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4229"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:12",
+      "englishText": "Restore to me the joy of your salvation. Uphold me with a willing spirit. ",
+      "tokens": [
+        {
+          "id": "psalms-51-12-0",
+          "surface": "לֵ֣ב",
+          "lemma": "לֵב",
+          "translit": "leb",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "psalms-51-12-1",
+          "surface": "טָ֭הוֹר",
+          "lemma": "טָהוֹר",
+          "translit": "tahvor",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2889"
+        },
+        {
+          "id": "psalms-51-12-2",
+          "surface": "בְּרָא",
+          "lemma": "בָּרָא",
+          "translit": "bera'",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1254"
+        },
+        {
+          "id": "psalms-51-12-3",
+          "surface": "לִ֣י",
+          "lemma": "לִ֣י",
+          "translit": "liy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        },
+        {
+          "id": "psalms-51-12-4",
+          "surface": "אֱלֹהִ֑ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-51-12-5",
+          "surface": "וְר֥וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "vervcha",
+          "morph": "Conjunction + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "psalms-51-12-6",
+          "surface": "נָ֝כ֗וֹן",
+          "lemma": "כּוּן",
+          "translit": "nakvon",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H3559"
+        },
+        {
+          "id": "psalms-51-12-7",
+          "surface": "חַדֵּ֥שׁ",
+          "lemma": "חָדַשׁ",
+          "translit": "chadesh",
+          "morph": "Verb Piel Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2318"
+        },
+        {
+          "id": "psalms-51-12-8",
+          "surface": "בְּקִרְבִּֽי",
+          "lemma": "קֶרֶב",
+          "translit": "beqirebiy",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H7130"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:13",
+      "englishText": "Then I will teach transgressors your ways. Sinners shall be converted to you. ",
+      "tokens": [
+        {
+          "id": "psalms-51-13-0",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "psalms-51-13-1",
+          "surface": "תַּשְׁלִיכֵ֥נִי",
+          "lemma": "שָׁלַךְ",
+          "translit": "tasheliykeniy",
+          "morph": "Verb Hiphil Jussive 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H7993"
+        },
+        {
+          "id": "psalms-51-13-2",
+          "surface": "מִלְּפָנֶ֑יךָ",
+          "lemma": "פָּנִים",
+          "translit": "milepaneyka",
+          "morph": "Preposition + Preposition + Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "psalms-51-13-3",
+          "surface": "וְר֥וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "vervcha",
+          "morph": "Conjunction + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "psalms-51-13-4",
+          "surface": "קָ֝דְשְׁךָ֗",
+          "lemma": "קֹדֶשׁ",
+          "translit": "qadesheka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6944"
+        },
+        {
+          "id": "psalms-51-13-5",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "psalms-51-13-6",
+          "surface": "תִּקַּ֥ח",
+          "lemma": "לָקַח",
+          "translit": "tiqach",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "psalms-51-13-7",
+          "surface": "מִמֶּֽנִּי",
+          "lemma": "מִן",
+          "translit": "mimeniy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H4480"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:14",
+      "englishText": "Deliver me from the guilt of bloodshed, O God, the God of my salvation. My tongue shall sing aloud of your righteousness. ",
+      "tokens": [
+        {
+          "id": "psalms-51-14-0",
+          "surface": "הָשִׁ֣יבָה",
+          "lemma": "שׁוּב",
+          "translit": "hashiybah",
+          "morph": "Verb Hiphil Weqatal 2nd masculine singular + Suffix",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "psalms-51-14-1",
+          "surface": "לִּ֭י",
+          "lemma": "לִּ֭י",
+          "translit": "liy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        },
+        {
+          "id": "psalms-51-14-2",
+          "surface": "שְׂשׂ֣וֹן",
+          "lemma": "שָׂשׂוֹן",
+          "translit": "sheshvon",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8342"
+        },
+        {
+          "id": "psalms-51-14-3",
+          "surface": "יִשְׁעֶ֑ךָ",
+          "lemma": "יֶשַׁע",
+          "translit": "yishe`eka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3468"
+        },
+        {
+          "id": "psalms-51-14-4",
+          "surface": "וְר֖וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "vervcha",
+          "morph": "Conjunction + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "psalms-51-14-5",
+          "surface": "נְדִיבָ֣ה",
+          "lemma": "נָדִיב",
+          "translit": "nediybah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5081"
+        },
+        {
+          "id": "psalms-51-14-6",
+          "surface": "תִסְמְכֵֽנִי",
+          "lemma": "סָמַךְ",
+          "translit": "tisemekeniy",
+          "morph": "Verb Qal Imperative 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5564"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:15",
+      "englishText": "Lord, open my lips. My mouth shall declare your praise. ",
+      "tokens": [
+        {
+          "id": "psalms-51-15-0",
+          "surface": "אֲלַמְּדָ֣ה",
+          "lemma": "לָמַד",
+          "translit": "'lamedah",
+          "morph": "Verb Piel Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H3925"
+        },
+        {
+          "id": "psalms-51-15-1",
+          "surface": "פֹשְׁעִ֣ים",
+          "lemma": "פָּשַׁע",
+          "translit": "poshe`iym",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H6586"
+        },
+        {
+          "id": "psalms-51-15-2",
+          "surface": "דְּרָכֶ֑יךָ",
+          "lemma": "דֶּרֶךְ",
+          "translit": "derakeyka",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1870"
+        },
+        {
+          "id": "psalms-51-15-3",
+          "surface": "וְ֝חַטָּאִ֗ים",
+          "lemma": "חַטָּא",
+          "translit": "vechata'iym",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H2400"
+        },
+        {
+          "id": "psalms-51-15-4",
+          "surface": "אֵלֶ֥יךָ",
+          "lemma": "אֵל",
+          "translit": "'eleyka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "psalms-51-15-5",
+          "surface": "יָשֽׁוּבוּ",
+          "lemma": "שׁוּב",
+          "translit": "yashvbv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7725"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:16",
+      "englishText": "For you don’t delight in sacrifice, or else I would give it. You have no pleasure in burnt offering. ",
+      "tokens": [
+        {
+          "id": "psalms-51-16-0",
+          "surface": "הַצִּ֘ילֵ֤נִי",
+          "lemma": "נָצַל",
+          "translit": "hatsiyleniy",
+          "morph": "Verb Hiphil Weqatal 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5337"
+        },
+        {
+          "id": "psalms-51-16-1",
+          "surface": "מִדָּמִ֨ים",
+          "lemma": "דָּם",
+          "translit": "midamiym",
+          "morph": "Preposition + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1818"
+        },
+        {
+          "id": "psalms-51-16-2",
+          "surface": "אֱֽלֹהִ֗ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-51-16-3",
+          "surface": "אֱלֹהֵ֥י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-51-16-4",
+          "surface": "תְּשׁוּעָתִ֑י",
+          "lemma": "תְּשׁוּעָה",
+          "translit": "teshv`atiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H8668"
+        },
+        {
+          "id": "psalms-51-16-5",
+          "surface": "תְּרַנֵּ֥ן",
+          "lemma": "רָנַן",
+          "translit": "teranen",
+          "morph": "Verb Piel Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7442"
+        },
+        {
+          "id": "psalms-51-16-6",
+          "surface": "לְ֝שׁוֹנִ֗י",
+          "lemma": "לָשׁוֹן",
+          "translit": "leshvoniy",
+          "morph": "Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3956"
+        },
+        {
+          "id": "psalms-51-16-7",
+          "surface": "צִדְקָתֶֽךָ",
+          "lemma": "צְדָקָה",
+          "translit": "tsideqateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6666"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:17",
+      "englishText": "The sacrifices of God are a broken spirit. A broken and contrite heart, O God, you will not despise. ",
+      "tokens": [
+        {
+          "id": "psalms-51-17-0",
+          "surface": "אֲ֭דֹנָי",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "psalms-51-17-1",
+          "surface": "שְׂפָתַ֣י",
+          "lemma": "שָׂפָה",
+          "translit": "shepatay",
+          "morph": "Noun common feminine dual construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H8193"
+        },
+        {
+          "id": "psalms-51-17-2",
+          "surface": "תִּפְתָּ֑ח",
+          "lemma": "פָּתַח",
+          "translit": "tipetach",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6605"
+        },
+        {
+          "id": "psalms-51-17-3",
+          "surface": "וּ֝פִ֗י",
+          "lemma": "פֶּה",
+          "translit": "vpiy",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6310"
+        },
+        {
+          "id": "psalms-51-17-4",
+          "surface": "יַגִּ֥יד",
+          "lemma": "נָגַד",
+          "translit": "yagiyd",
+          "morph": "Verb Hiphil Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "psalms-51-17-5",
+          "surface": "תְּהִלָּתֶֽךָ",
+          "lemma": "תְּהִלָּה",
+          "translit": "tehilateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8416"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:18",
+      "englishText": "Do well in your good pleasure to Zion. Build the walls of Jerusalem. ",
+      "tokens": [
+        {
+          "id": "psalms-51-18-0",
+          "surface": "כִּ֤י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-51-18-1",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "psalms-51-18-2",
+          "surface": "תַחְפֹּ֣ץ",
+          "lemma": "חָפֵץ",
+          "translit": "tachepots",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2654"
+        },
+        {
+          "id": "psalms-51-18-3",
+          "surface": "זֶ֣בַח",
+          "lemma": "זֶבַח",
+          "translit": "zebach",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2077"
+        },
+        {
+          "id": "psalms-51-18-4",
+          "surface": "וְאֶתֵּ֑נָה",
+          "lemma": "נָתַן",
+          "translit": "ve'etenah",
+          "morph": "Conjunction + Verb Qal Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "psalms-51-18-5",
+          "surface": "ע֝וֹלָ֗ה",
+          "lemma": "עֹלָה",
+          "translit": "`volah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5930"
+        },
+        {
+          "id": "psalms-51-18-6",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "psalms-51-18-7",
+          "surface": "תִרְצֶֽה",
+          "lemma": "רָצָה",
+          "translit": "tiretseh",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7521"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:19",
+      "englishText": "Then you will delight in the sacrifices of righteousness, in burnt offerings and in whole burnt offerings. Then they will offer bulls on your altar.   ",
+      "tokens": [
+        {
+          "id": "psalms-51-19-0",
+          "surface": "זִֽבְחֵ֣י",
+          "lemma": "זֶבַח",
+          "translit": "zibechey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H2077"
+        },
+        {
+          "id": "psalms-51-19-1",
+          "surface": "אֱלֹהִים֮",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-51-19-2",
+          "surface": "ר֪וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "rvcha",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "psalms-51-19-3",
+          "surface": "נִשְׁבָּ֫רָ֥ה",
+          "lemma": "שָׁבַר",
+          "translit": "nishebarah",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H7665"
+        },
+        {
+          "id": "psalms-51-19-4",
+          "surface": "לֵב",
+          "lemma": "לֵב",
+          "translit": "leb",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "psalms-51-19-5",
+          "surface": "נִשְׁבָּ֥ר",
+          "lemma": "שָׁבַר",
+          "translit": "nishebar",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H7665"
+        },
+        {
+          "id": "psalms-51-19-6",
+          "surface": "וְנִדְכֶּ֑ה",
+          "lemma": "דָּכָה",
+          "translit": "venidekeh",
+          "morph": "Conjunction + Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H1794"
+        },
+        {
+          "id": "psalms-51-19-7",
+          "surface": "אֱ֝לֹהִ֗ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-51-19-8",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "psalms-51-19-9",
+          "surface": "תִבְזֶֽה",
+          "lemma": "בָּזָה",
+          "translit": "tibezeh",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H959"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:20",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "psalms-51-20-0",
+          "surface": "הֵיטִ֣יבָה",
+          "lemma": "יָטַב",
+          "translit": "heytiybah",
+          "morph": "Verb Hiphil Weqatal 2nd masculine singular + Suffix",
+          "glosses": [],
+          "strongs": "H3190"
+        },
+        {
+          "id": "psalms-51-20-1",
+          "surface": "בִ֭רְצוֹנְךָ",
+          "lemma": "רָצוֹן",
+          "translit": "biretsvoneka",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7522"
+        },
+        {
+          "id": "psalms-51-20-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-51-20-3",
+          "surface": "צִיּ֑וֹן",
+          "lemma": "צִיּוֹן",
+          "translit": "tsiyvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6726"
+        },
+        {
+          "id": "psalms-51-20-4",
+          "surface": "תִּ֝בְנֶ֗ה",
+          "lemma": "בָּנָה",
+          "translit": "tibeneh",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1129"
+        },
+        {
+          "id": "psalms-51-20-5",
+          "surface": "חוֹמ֥וֹת",
+          "lemma": "חוֹמָה",
+          "translit": "chvomvot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H2346"
+        },
+        {
+          "id": "psalms-51-20-6",
+          "surface": "יְרוּשָׁלִָֽם",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "translit": "yervshalaim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3389"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 51:21",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "psalms-51-21-0",
+          "surface": "אָ֤ז",
+          "lemma": "אָז",
+          "translit": "'az",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H227"
+        },
+        {
+          "id": "psalms-51-21-1",
+          "surface": "תַּחְפֹּ֣ץ",
+          "lemma": "חָפֵץ",
+          "translit": "tachepots",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2654"
+        },
+        {
+          "id": "psalms-51-21-2",
+          "surface": "זִבְחֵי",
+          "lemma": "זֶבַח",
+          "translit": "zibechey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H2077"
+        },
+        {
+          "id": "psalms-51-21-3",
+          "surface": "צֶ֭דֶק",
+          "lemma": "צֶדֶק",
+          "translit": "tsedeq",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6664"
+        },
+        {
+          "id": "psalms-51-21-4",
+          "surface": "עוֹלָ֣ה",
+          "lemma": "עֹלָה",
+          "translit": "`volah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5930"
+        },
+        {
+          "id": "psalms-51-21-5",
+          "surface": "וְכָלִ֑יל",
+          "lemma": "כָּלִיל",
+          "translit": "vekaliyl",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H3632"
+        },
+        {
+          "id": "psalms-51-21-6",
+          "surface": "אָ֤ז",
+          "lemma": "אָז",
+          "translit": "'az",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H227"
+        },
+        {
+          "id": "psalms-51-21-7",
+          "surface": "יַעֲל֖וּ",
+          "lemma": "עָלָה",
+          "translit": "ya`lv",
+          "morph": "Verb Hiphil Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "psalms-51-21-8",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-51-21-9",
+          "surface": "מִזְבַּחֲךָ֣",
+          "lemma": "מִזְבֵּחַ",
+          "translit": "mizebachka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4196"
+        },
+        {
+          "id": "psalms-51-21-10",
+          "surface": "פָרִֽים",
+          "lemma": "פַּר",
+          "translit": "pariym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6499"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

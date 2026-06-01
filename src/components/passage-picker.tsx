@@ -31,6 +31,8 @@ export function PassagePicker() {
     const currentRef = location.pathname.replace("/reader/", "");
     const targetRef = targetUrl.replace("/reader/", "");
 
+    console.log(`[PassagePicker] handleGo: current="${currentRef}" target="${targetRef}"`);
+
     const currentParsed = parsePassageRef(currentRef);
     const targetParsed = parsePassageRef(targetRef);
 
@@ -43,21 +45,24 @@ export function PassagePicker() {
       !targetParsed.endChapter &&
       !targetParsed.endVerse
     ) {
-      // Same chapter target — scroll instead of navigating
+      console.log(`[PassagePicker] Same chapter — smooth scrolling`);
       const book = (booksIndex as BookMetadata[]).find((b) => b.id === targetParsed.bookId);
       if (book && targetParsed.startVerse) {
         const verseRef = `${book.name} ${targetParsed.startChapter}:${targetParsed.startVerse}`;
         const el = document.getElementById(verseRef);
         if (el) {
+          console.log(`[PassagePicker] Scrolling to verse element: ${verseRef}`);
           el.scrollIntoView({ behavior: "smooth", block: "start" });
           return;
         }
+        console.warn(`[PassagePicker] Verse element not found: ${verseRef}`);
       }
       // No specific verse or element not found — scroll to top
       window.scrollTo({ top: 0, behavior: "smooth" });
       return;
     }
 
+    console.log(`[PassagePicker] Navigating to: ${targetUrl}`);
     // Different chapter or cross-chapter — navigate normally
     navigate({ to: targetUrl as never });
   };
@@ -81,17 +86,11 @@ export function PassagePicker() {
         ) : (
           recent.map((r) => {
             const to = `/reader/${r.id}`;
-            const locSearch = location.search as { start?: number; end?: number };
-            const active =
-              location.pathname === to &&
-              ((r.start === undefined && locSearch.start === undefined) ||
-                (r.start !== undefined && locSearch.start === r.start && locSearch.end === r.end));
-            const search = r.start !== undefined ? { start: r.start, end: r.end } : undefined;
+            const active = location.pathname === to;
             return (
               <Link
-                key={`${r.id}-${r.start ?? "full"}-${r.end ?? "full"}-${r.visitedAt}`}
+                key={`${r.id}-${r.visitedAt}`}
                 to={to}
-                search={search}
                 className={cn(
                   "block rounded-md border border-transparent px-3 py-2 text-sm transition-colors",
                   active

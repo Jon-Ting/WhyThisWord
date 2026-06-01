@@ -207,6 +207,7 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
       <Select
         value={bookId}
         onValueChange={(value) => {
+          console.log(`[BCV] Book selected: ${value}`);
           setBookId(value);
           setStartChapter("");
           setStartVerse("");
@@ -247,6 +248,7 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
         <Select
           value={startChapter}
           onValueChange={(value) => {
+            console.log(`[BCV] Start chapter selected: ${value}`);
             setStartChapter(value);
             setStartVerse("");
             setEndChapter(value);
@@ -269,6 +271,7 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
         <Select
           value={endChapter}
           onValueChange={(value) => {
+            console.log(`[BCV] End chapter selected: ${value}`);
             setEndChapter(value);
             setEndVerse("");
           }}
@@ -314,6 +317,7 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
             }}
             onChange={(e) => {
               const val = e.target.value.replace(/[^0-9]/g, "");
+              console.log(`[BCV] Start verse input: "${val}"`);
               setStartVerse(val);
               if (!val.trim()) setEndVerse("");
             }}
@@ -338,6 +342,7 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
             }}
             onChange={(e) => {
               const val = e.target.value.replace(/[^0-9]/g, "");
+              console.log(`[BCV] End verse input: "${val}"`);
               setEndVerse(val);
             }}
             disabled={!startChapter}
@@ -368,7 +373,13 @@ export function BcvSelector({ onGo }: BcvSelectorProps) {
 
       {canGo ? (
         onGo ? (
-          <Button onClick={() => onGo(targetUrl)} className="w-full">
+          <Button
+            onClick={() => {
+              console.log(`[BCV] Navigate to: ${targetUrl}`);
+              onGo(targetUrl);
+            }}
+            className="w-full"
+          >
             Go to {labelText || `${selectedBook?.name} ${startChapter}`}
           </Button>
         ) : (

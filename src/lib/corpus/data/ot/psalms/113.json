@@ -1,1 +1,611 @@
-{"id":"psalms-113","name":"Psalms","chapter":113,"verses":[{"ref":"Psalms 113:1","englishText":"Praise Yah! Praise, you servants of Yahweh, praise Yahweh’s name. ","tokens":[{"id":"psalms-113-1-0","surface":"הַ֥לְלוּ","lemma":"הָלַל","translit":"halelv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"psalms-113-1-1","surface":"יָ֨הּ","lemma":"יָהּ","translit":"yah","morph":"Noun proper","glosses":[],"strongs":"H3050"},{"id":"psalms-113-1-2","surface":"הַ֭לְלוּ","lemma":"הָלַל","translit":"halelv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"psalms-113-1-3","surface":"עַבְדֵ֣י","lemma":"עֶבֶד","translit":"`abedey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H5650"},{"id":"psalms-113-1-4","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-113-1-5","surface":"הַֽ֝לְלוּ","lemma":"הָלַל","translit":"halelv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"psalms-113-1-6","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-113-1-7","surface":"שֵׁ֥ם","lemma":"שֵׁם","translit":"shem","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"psalms-113-1-8","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Psalms 113:2","englishText":"Blessed be Yahweh’s name, from this time forward and forever more. ","tokens":[{"id":"psalms-113-2-0","surface":"יְהִ֤י","lemma":"הָיָה","translit":"yehiy","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"psalms-113-2-1","surface":"שֵׁ֣ם","lemma":"שֵׁם","translit":"shem","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"psalms-113-2-2","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-113-2-3","surface":"מְבֹרָ֑ךְ","lemma":"בָרַךְ","translit":"meborake","morph":"Verb Pual s","glosses":[],"strongs":"H1288"},{"id":"psalms-113-2-4","surface":"מֵֽ֝עַתָּ֗ה","lemma":"עַתָּה","translit":"me`atah","morph":"Preposition + Adverb","glosses":[],"strongs":"H6258"},{"id":"psalms-113-2-5","surface":"וְעַד","lemma":"עַד","translit":"ve`ad","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5704"},{"id":"psalms-113-2-6","surface":"עוֹלָֽם","lemma":"עוֹלָם","translit":"`volam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5769"}],"language":"hebrew"},{"ref":"Psalms 113:3","englishText":"From the rising of the sun to the going down of the same, Yahweh’s name is to be praised. ","tokens":[{"id":"psalms-113-3-0","surface":"מִמִּזְרַח","lemma":"מִזְרָח","translit":"mimizerach","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4217"},{"id":"psalms-113-3-1","surface":"שֶׁ֥מֶשׁ","lemma":"שֶׁמֶשׁ","translit":"shemesh","morph":"Noun common singular absolute","glosses":[],"strongs":"H8121"},{"id":"psalms-113-3-2","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"psalms-113-3-3","surface":"מְבוֹא֑וֹ","lemma":"מָבוֹא","translit":"mebvo'vo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3996"},{"id":"psalms-113-3-4","surface":"מְ֝הֻלָּ֗ל","lemma":"הָלַל","translit":"mehulal","morph":"Verb Pual s","glosses":[],"strongs":"H1984"},{"id":"psalms-113-3-5","surface":"שֵׁ֣ם","lemma":"שֵׁם","translit":"shem","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"psalms-113-3-6","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Psalms 113:4","englishText":"Yahweh is high above all nations, his glory above the heavens. ","tokens":[{"id":"psalms-113-4-0","surface":"רָ֖ם","lemma":"רוּם","translit":"ram","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H7311"},{"id":"psalms-113-4-1","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"psalms-113-4-2","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-113-4-3","surface":"גּוֹיִ֥ם","lemma":"גּוֹי","translit":"gvoyim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"psalms-113-4-4","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-113-4-5","surface":"עַ֖ל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"psalms-113-4-6","surface":"הַשָּׁמַ֣יִם","lemma":"שָׁמַיִם","translit":"hashamayim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"psalms-113-4-7","surface":"כְּבוֹדֽוֹ","lemma":"כָּבוֹד","translit":"kebvodvo","morph":"Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3519"}],"language":"hebrew"},{"ref":"Psalms 113:5","englishText":"Who is like Yahweh, our God, who has his seat on high, ","tokens":[{"id":"psalms-113-5-0","surface":"מִ֭י","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"psalms-113-5-1","surface":"כַּיהוָ֣ה","lemma":"יְהֹוָה","translit":"kayhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-113-5-2","surface":"אֱלֹהֵ֑ינוּ","lemma":"אֱלֹהִים","translit":"'loheynv","morph":"Noun common masculine plural construct + Suffix plural 1st common","glosses":[],"strongs":"H430"},{"id":"psalms-113-5-3","surface":"הַֽמַּגְבִּיהִ֥י","lemma":"גָּבַהּ","translit":"hamagebiyhiy","morph":"Particle dual + Verb Hiphil Passive Participle","glosses":[],"strongs":"H1361"},{"id":"psalms-113-5-4","surface":"לָשָֽׁבֶת","lemma":"יָשַׁב","translit":"lashabet","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H3427"}],"language":"hebrew"},{"ref":"Psalms 113:6","englishText":"Who stoops down to see in heaven and in the earth? ","tokens":[{"id":"psalms-113-6-0","surface":"הַֽמַּשְׁפִּילִ֥י","lemma":"שָׁפֵל","translit":"hamashepiyliy","morph":"Particle dual + Verb Hiphil Passive Participle","glosses":[],"strongs":"H8213"},{"id":"psalms-113-6-1","surface":"לִרְא֑וֹת","lemma":"רָאָה","translit":"lire'vot","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H7200"},{"id":"psalms-113-6-2","surface":"בַּשָּׁמַ֥יִם","lemma":"שָׁמַיִם","translit":"bashamayim","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"psalms-113-6-3","surface":"וּבָאָֽרֶץ","lemma":"אֶרֶץ","translit":"vba'arets","morph":"Conjunction + Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Psalms 113:7","englishText":"He raises up the poor out of the dust. Lifts up the needy from the ash heap; ","tokens":[{"id":"psalms-113-7-0","surface":"מְקִֽימִ֣י","lemma":"קוּם","translit":"meqiymiy","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H6965"},{"id":"psalms-113-7-1","surface":"מֵעָפָ֣ר","lemma":"עָפָר","translit":"me`apar","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H6083"},{"id":"psalms-113-7-2","surface":"דָּ֑ל","lemma":"דַּל","translit":"dal","morph":"Adjective","glosses":[],"strongs":"H1800"},{"id":"psalms-113-7-3","surface":"מֵֽ֝אַשְׁפֹּ֗ת","lemma":"אַשְׁפֹּת","translit":"me'ashepot","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H830"},{"id":"psalms-113-7-4","surface":"יָרִ֥ים","lemma":"רוּם","translit":"yariym","morph":"Verb Hiphil Imperative 3rd masculine singular","glosses":[],"strongs":"H7311"},{"id":"psalms-113-7-5","surface":"אֶבְיֽוֹן","lemma":"אֶבְיוֹן","translit":"'ebeyvon","morph":"Adjective","glosses":[],"strongs":"H34"}],"language":"hebrew"},{"ref":"Psalms 113:8","englishText":"that he may set him with princes, even with the princes of his people. ","tokens":[{"id":"psalms-113-8-0","surface":"לְהוֹשִׁיבִ֥י","lemma":"יָשַׁב","translit":"lehvoshiybiy","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H3427"},{"id":"psalms-113-8-1","surface":"עִם","lemma":"עִם","translit":"`im","morph":"Preposition","glosses":[],"strongs":"H5973"},{"id":"psalms-113-8-2","surface":"נְדִיבִ֑ים","lemma":"נָדִיב","translit":"nediybiym","morph":"Adjective","glosses":[],"strongs":"H5081"},{"id":"psalms-113-8-3","surface":"עִ֝֗ם","lemma":"עִם","translit":"`im","morph":"Preposition","glosses":[],"strongs":"H5973"},{"id":"psalms-113-8-4","surface":"נְדִיבֵ֥י","lemma":"נָדִיב","translit":"nediybey","morph":"Adjective","glosses":[],"strongs":"H5081"},{"id":"psalms-113-8-5","surface":"עַמּֽוֹ","lemma":"עַם","translit":"`amvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5971"}],"language":"hebrew"},{"ref":"Psalms 113:9","englishText":"He settles the barren woman in her home, as a joyful mother of children. Praise Yah!   ","tokens":[{"id":"psalms-113-9-0","surface":"מֽוֹשִׁיבִ֨י","lemma":"יָשַׁב","translit":"mvoshiybiy","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H3427"},{"id":"psalms-113-9-1","surface":"עֲקֶ֬רֶת","lemma":"עָקָר","translit":"`qeret","morph":"Adjective","glosses":[],"strongs":"H6135"},{"id":"psalms-113-9-2","surface":"הַבַּ֗יִת","lemma":"בַּיִת","translit":"habayit","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1004"},{"id":"psalms-113-9-3","surface":"אֵֽם","lemma":"אֵם","translit":"'em","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H517"},{"id":"psalms-113-9-4","surface":"הַבָּנִ֥ים","lemma":"בֵּן","translit":"habaniym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1121"},{"id":"psalms-113-9-5","surface":"שְׂמֵחָ֗ה","lemma":"שָׂמֵחַ","translit":"shemechah","morph":"Adjective","glosses":[],"strongs":"H8056"},{"id":"psalms-113-9-6","surface":"הַֽלְלוּ","lemma":"הָלַל","translit":"halelv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"psalms-113-9-7","surface":"יָֽהּ","lemma":"יָהּ","translit":"yah","morph":"Noun proper","glosses":[],"strongs":"H3050"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-113",
+  "name": "Psalms",
+  "chapter": 113,
+  "verses": [
+    {
+      "ref": "Psalms 113:1",
+      "englishText": "Praise Yah! Praise, you servants of Yahweh, praise Yahweh’s name. ",
+      "tokens": [
+        {
+          "id": "psalms-113-1-0",
+          "surface": "הַ֥לְלוּ",
+          "lemma": "הָלַל",
+          "translit": "halelv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-113-1-1",
+          "surface": "יָ֨הּ",
+          "lemma": "יָהּ",
+          "translit": "yah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3050"
+        },
+        {
+          "id": "psalms-113-1-2",
+          "surface": "הַ֭לְלוּ",
+          "lemma": "הָלַל",
+          "translit": "halelv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-113-1-3",
+          "surface": "עַבְדֵ֣י",
+          "lemma": "עֶבֶד",
+          "translit": "`abedey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "psalms-113-1-4",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-113-1-5",
+          "surface": "הַֽ֝לְלוּ",
+          "lemma": "הָלַל",
+          "translit": "halelv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-113-1-6",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-113-1-7",
+          "surface": "שֵׁ֥ם",
+          "lemma": "שֵׁם",
+          "translit": "shem",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "psalms-113-1-8",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 113:2",
+      "englishText": "Blessed be Yahweh’s name, from this time forward and forever more. ",
+      "tokens": [
+        {
+          "id": "psalms-113-2-0",
+          "surface": "יְהִ֤י",
+          "lemma": "הָיָה",
+          "translit": "yehiy",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "psalms-113-2-1",
+          "surface": "שֵׁ֣ם",
+          "lemma": "שֵׁם",
+          "translit": "shem",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "psalms-113-2-2",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-113-2-3",
+          "surface": "מְבֹרָ֑ךְ",
+          "lemma": "בָרַךְ",
+          "translit": "meborake",
+          "morph": "Verb Pual s",
+          "glosses": [],
+          "strongs": "H1288"
+        },
+        {
+          "id": "psalms-113-2-4",
+          "surface": "מֵֽ֝עַתָּ֗ה",
+          "lemma": "עַתָּה",
+          "translit": "me`atah",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H6258"
+        },
+        {
+          "id": "psalms-113-2-5",
+          "surface": "וְעַד",
+          "lemma": "עַד",
+          "translit": "ve`ad",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "psalms-113-2-6",
+          "surface": "עוֹלָֽם",
+          "lemma": "עוֹלָם",
+          "translit": "`volam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 113:3",
+      "englishText": "From the rising of the sun to the going down of the same, Yahweh’s name is to be praised. ",
+      "tokens": [
+        {
+          "id": "psalms-113-3-0",
+          "surface": "מִמִּזְרַח",
+          "lemma": "מִזְרָח",
+          "translit": "mimizerach",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4217"
+        },
+        {
+          "id": "psalms-113-3-1",
+          "surface": "שֶׁ֥מֶשׁ",
+          "lemma": "שֶׁמֶשׁ",
+          "translit": "shemesh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H8121"
+        },
+        {
+          "id": "psalms-113-3-2",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "psalms-113-3-3",
+          "surface": "מְבוֹא֑וֹ",
+          "lemma": "מָבוֹא",
+          "translit": "mebvo'vo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3996"
+        },
+        {
+          "id": "psalms-113-3-4",
+          "surface": "מְ֝הֻלָּ֗ל",
+          "lemma": "הָלַל",
+          "translit": "mehulal",
+          "morph": "Verb Pual s",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-113-3-5",
+          "surface": "שֵׁ֣ם",
+          "lemma": "שֵׁם",
+          "translit": "shem",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "psalms-113-3-6",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 113:4",
+      "englishText": "Yahweh is high above all nations, his glory above the heavens. ",
+      "tokens": [
+        {
+          "id": "psalms-113-4-0",
+          "surface": "רָ֖ם",
+          "lemma": "רוּם",
+          "translit": "ram",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7311"
+        },
+        {
+          "id": "psalms-113-4-1",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-113-4-2",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-113-4-3",
+          "surface": "גּוֹיִ֥ם",
+          "lemma": "גּוֹי",
+          "translit": "gvoyim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "psalms-113-4-4",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-113-4-5",
+          "surface": "עַ֖ל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-113-4-6",
+          "surface": "הַשָּׁמַ֣יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "hashamayim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "psalms-113-4-7",
+          "surface": "כְּבוֹדֽוֹ",
+          "lemma": "כָּבוֹד",
+          "translit": "kebvodvo",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3519"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 113:5",
+      "englishText": "Who is like Yahweh, our God, who has his seat on high, ",
+      "tokens": [
+        {
+          "id": "psalms-113-5-0",
+          "surface": "מִ֭י",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "psalms-113-5-1",
+          "surface": "כַּיהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "kayhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-113-5-2",
+          "surface": "אֱלֹהֵ֑ינוּ",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheynv",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-113-5-3",
+          "surface": "הַֽמַּגְבִּיהִ֥י",
+          "lemma": "גָּבַהּ",
+          "translit": "hamagebiyhiy",
+          "morph": "Particle dual + Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H1361"
+        },
+        {
+          "id": "psalms-113-5-4",
+          "surface": "לָשָֽׁבֶת",
+          "lemma": "יָשַׁב",
+          "translit": "lashabet",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3427"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 113:6",
+      "englishText": "Who stoops down to see in heaven and in the earth? ",
+      "tokens": [
+        {
+          "id": "psalms-113-6-0",
+          "surface": "הַֽמַּשְׁפִּילִ֥י",
+          "lemma": "שָׁפֵל",
+          "translit": "hamashepiyliy",
+          "morph": "Particle dual + Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H8213"
+        },
+        {
+          "id": "psalms-113-6-1",
+          "surface": "לִרְא֑וֹת",
+          "lemma": "רָאָה",
+          "translit": "lire'vot",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "psalms-113-6-2",
+          "surface": "בַּשָּׁמַ֥יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "bashamayim",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "psalms-113-6-3",
+          "surface": "וּבָאָֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "vba'arets",
+          "morph": "Conjunction + Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 113:7",
+      "englishText": "He raises up the poor out of the dust. Lifts up the needy from the ash heap; ",
+      "tokens": [
+        {
+          "id": "psalms-113-7-0",
+          "surface": "מְקִֽימִ֣י",
+          "lemma": "קוּם",
+          "translit": "meqiymiy",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "psalms-113-7-1",
+          "surface": "מֵעָפָ֣ר",
+          "lemma": "עָפָר",
+          "translit": "me`apar",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6083"
+        },
+        {
+          "id": "psalms-113-7-2",
+          "surface": "דָּ֑ל",
+          "lemma": "דַּל",
+          "translit": "dal",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1800"
+        },
+        {
+          "id": "psalms-113-7-3",
+          "surface": "מֵֽ֝אַשְׁפֹּ֗ת",
+          "lemma": "אַשְׁפֹּת",
+          "translit": "me'ashepot",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H830"
+        },
+        {
+          "id": "psalms-113-7-4",
+          "surface": "יָרִ֥ים",
+          "lemma": "רוּם",
+          "translit": "yariym",
+          "morph": "Verb Hiphil Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7311"
+        },
+        {
+          "id": "psalms-113-7-5",
+          "surface": "אֶבְיֽוֹן",
+          "lemma": "אֶבְיוֹן",
+          "translit": "'ebeyvon",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H34"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 113:8",
+      "englishText": "that he may set him with princes, even with the princes of his people. ",
+      "tokens": [
+        {
+          "id": "psalms-113-8-0",
+          "surface": "לְהוֹשִׁיבִ֥י",
+          "lemma": "יָשַׁב",
+          "translit": "lehvoshiybiy",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "psalms-113-8-1",
+          "surface": "עִם",
+          "lemma": "עִם",
+          "translit": "`im",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "psalms-113-8-2",
+          "surface": "נְדִיבִ֑ים",
+          "lemma": "נָדִיב",
+          "translit": "nediybiym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5081"
+        },
+        {
+          "id": "psalms-113-8-3",
+          "surface": "עִ֝֗ם",
+          "lemma": "עִם",
+          "translit": "`im",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "psalms-113-8-4",
+          "surface": "נְדִיבֵ֥י",
+          "lemma": "נָדִיב",
+          "translit": "nediybey",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5081"
+        },
+        {
+          "id": "psalms-113-8-5",
+          "surface": "עַמּֽוֹ",
+          "lemma": "עַם",
+          "translit": "`amvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5971"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 113:9",
+      "englishText": "He settles the barren woman in her home, as a joyful mother of children. Praise Yah!   ",
+      "tokens": [
+        {
+          "id": "psalms-113-9-0",
+          "surface": "מֽוֹשִׁיבִ֨י",
+          "lemma": "יָשַׁב",
+          "translit": "mvoshiybiy",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "psalms-113-9-1",
+          "surface": "עֲקֶ֬רֶת",
+          "lemma": "עָקָר",
+          "translit": "`qeret",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6135"
+        },
+        {
+          "id": "psalms-113-9-2",
+          "surface": "הַבַּ֗יִת",
+          "lemma": "בַּיִת",
+          "translit": "habayit",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "psalms-113-9-3",
+          "surface": "אֵֽם",
+          "lemma": "אֵם",
+          "translit": "'em",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H517"
+        },
+        {
+          "id": "psalms-113-9-4",
+          "surface": "הַבָּנִ֥ים",
+          "lemma": "בֵּן",
+          "translit": "habaniym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "psalms-113-9-5",
+          "surface": "שְׂמֵחָ֗ה",
+          "lemma": "שָׂמֵחַ",
+          "translit": "shemechah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H8056"
+        },
+        {
+          "id": "psalms-113-9-6",
+          "surface": "הַֽלְלוּ",
+          "lemma": "הָלַל",
+          "translit": "halelv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-113-9-7",
+          "surface": "יָֽהּ",
+          "lemma": "יָהּ",
+          "translit": "yah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3050"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

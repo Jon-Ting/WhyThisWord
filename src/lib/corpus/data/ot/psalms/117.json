@@ -1,1 +1,175 @@
-{"id":"psalms-117","name":"Psalms","chapter":117,"verses":[{"ref":"Psalms 117:1","englishText":"Praise Yahweh, all you nations! Extol him, all you peoples! ","tokens":[{"id":"psalms-117-1-0","surface":"הַֽלְל֣וּ","lemma":"הָלַל","translit":"halelv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"psalms-117-1-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-117-1-2","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-117-1-3","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-117-1-4","surface":"גּוֹיִ֑ם","lemma":"גּוֹי","translit":"gvoyim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"psalms-117-1-5","surface":"שַׁ֝בְּח֗וּהוּ","lemma":"שָׁבַח","translit":"shabechvhv","morph":"Verb Piel Weqatal 2nd masculine plural + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7623"},{"id":"psalms-117-1-6","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-117-1-7","surface":"הָאֻמִּֽים","lemma":"אֻמַּה","translit":"ha'umiym","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H523"}],"language":"hebrew"},{"ref":"Psalms 117:2","englishText":"For his loving kindness is great toward us. Yahweh’s faithfulness endures forever. Praise Yah!   ","tokens":[{"id":"psalms-117-2-0","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-117-2-1","surface":"גָ֘בַ֤ר","lemma":"גָּבַר","translit":"gabar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1396"},{"id":"psalms-117-2-2","surface":"עָלֵ֨ינוּ","lemma":"עַל","translit":"`aleynv","morph":"Preposition + Suffix plural 1st common","glosses":[],"strongs":"H5921"},{"id":"psalms-117-2-3","surface":"חַסְדּ֗וֹ","lemma":"חֵסֵד","translit":"chasedvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2617"},{"id":"psalms-117-2-4","surface":"וֶֽאֱמֶת","lemma":"אֶמֶת","translit":"ve'met","morph":"Conjunction + Noun common feminine singular construct","glosses":[],"strongs":"H571"},{"id":"psalms-117-2-5","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-117-2-6","surface":"לְעוֹלָ֗ם","lemma":"עוֹלָם","translit":"le`volam","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H5769"},{"id":"psalms-117-2-7","surface":"הַֽלְלוּ","lemma":"הָלַל","translit":"halelv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"psalms-117-2-8","surface":"יָֽהּ","lemma":"יָהּ","translit":"yah","morph":"Noun proper","glosses":[],"strongs":"H3050"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-117",
+  "name": "Psalms",
+  "chapter": 117,
+  "verses": [
+    {
+      "ref": "Psalms 117:1",
+      "englishText": "Praise Yahweh, all you nations! Extol him, all you peoples! ",
+      "tokens": [
+        {
+          "id": "psalms-117-1-0",
+          "surface": "הַֽלְל֣וּ",
+          "lemma": "הָלַל",
+          "translit": "halelv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-117-1-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-117-1-2",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-117-1-3",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-117-1-4",
+          "surface": "גּוֹיִ֑ם",
+          "lemma": "גּוֹי",
+          "translit": "gvoyim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "psalms-117-1-5",
+          "surface": "שַׁ֝בְּח֗וּהוּ",
+          "lemma": "שָׁבַח",
+          "translit": "shabechvhv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7623"
+        },
+        {
+          "id": "psalms-117-1-6",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-117-1-7",
+          "surface": "הָאֻמִּֽים",
+          "lemma": "אֻמַּה",
+          "translit": "ha'umiym",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H523"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 117:2",
+      "englishText": "For his loving kindness is great toward us. Yahweh’s faithfulness endures forever. Praise Yah!   ",
+      "tokens": [
+        {
+          "id": "psalms-117-2-0",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-117-2-1",
+          "surface": "גָ֘בַ֤ר",
+          "lemma": "גָּבַר",
+          "translit": "gabar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1396"
+        },
+        {
+          "id": "psalms-117-2-2",
+          "surface": "עָלֵ֨ינוּ",
+          "lemma": "עַל",
+          "translit": "`aleynv",
+          "morph": "Preposition + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-117-2-3",
+          "surface": "חַסְדּ֗וֹ",
+          "lemma": "חֵסֵד",
+          "translit": "chasedvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2617"
+        },
+        {
+          "id": "psalms-117-2-4",
+          "surface": "וֶֽאֱמֶת",
+          "lemma": "אֶמֶת",
+          "translit": "ve'met",
+          "morph": "Conjunction + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H571"
+        },
+        {
+          "id": "psalms-117-2-5",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-117-2-6",
+          "surface": "לְעוֹלָ֗ם",
+          "lemma": "עוֹלָם",
+          "translit": "le`volam",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        },
+        {
+          "id": "psalms-117-2-7",
+          "surface": "הַֽלְלוּ",
+          "lemma": "הָלַל",
+          "translit": "halelv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-117-2-8",
+          "surface": "יָֽהּ",
+          "lemma": "יָהּ",
+          "translit": "yah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3050"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

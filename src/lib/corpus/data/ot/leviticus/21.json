@@ -1,1 +1,2922 @@
-{"id":"leviticus-21","name":"Leviticus","chapter":21,"verses":[{"ref":"Leviticus 21:1","englishText":"Yahweh said to Moses, “Speak to the priests, the sons of Aaron, and say to them, ‘A priest shall not defile himself for the dead among his people;","tokens":[{"id":"leviticus-21-1-0","surface":"וַיֹּ֤אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"leviticus-21-1-1","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-21-1-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-21-1-3","surface":"מֹשֶׁ֔ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"leviticus-21-1-4","surface":"אֱמֹ֥ר","lemma":"אָמַר","translit":"'mor","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"leviticus-21-1-5","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-21-1-6","surface":"הַכֹּהֲנִ֖ים","lemma":"כֹּהֵן","translit":"hakohniym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3548"},{"id":"leviticus-21-1-7","surface":"בְּנֵ֣י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"leviticus-21-1-8","surface":"אַהֲרֹ֑ן","lemma":"אַהֲרוֹן","translit":"'ahron","morph":"Noun proper","glosses":[],"strongs":"H175"},{"id":"leviticus-21-1-9","surface":"וְאָמַרְתָּ֣","lemma":"אָמַר","translit":"ve'amareta","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"leviticus-21-1-10","surface":"אֲלֵהֶ֔ם","lemma":"אֵל","translit":"'lehem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H413"},{"id":"leviticus-21-1-11","surface":"לְנֶ֥פֶשׁ","lemma":"נֶפֶשׁ","translit":"lenepesh","morph":"Preposition + Noun common singular absolute","glosses":[],"strongs":"H5315"},{"id":"leviticus-21-1-12","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-1-13","surface":"יִטַּמָּ֖א","lemma":"טָמֵא","translit":"yitama'","morph":"Verb Hithpael Imperative 3rd masculine singular","glosses":[],"strongs":"H2930"},{"id":"leviticus-21-1-14","surface":"בְּעַמָּֽיו","lemma":"עַם","translit":"be`amayv","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5971"}],"language":"hebrew"},{"ref":"Leviticus 21:2","englishText":"except for his relatives that are near to him: for his mother, for his father, for his son, for his daughter, for his brother,","tokens":[{"id":"leviticus-21-2-0","surface":"כִּ֚י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-2-1","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"leviticus-21-2-2","surface":"לִשְׁאֵר֔וֹ","lemma":"שְׁאֵר","translit":"lishe'ervo","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7607"},{"id":"leviticus-21-2-3","surface":"הַקָּרֹ֖ב","lemma":"קָרוֹב","translit":"haqarob","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7138"},{"id":"leviticus-21-2-4","surface":"אֵלָ֑יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"leviticus-21-2-5","surface":"לְאִמּ֣וֹ","lemma":"אֵם","translit":"le'imvo","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H517"},{"id":"leviticus-21-2-6","surface":"וּלְאָבִ֔יו","lemma":"אָב","translit":"vle'abiyv","morph":"Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-21-2-7","surface":"וְלִבְנ֥וֹ","lemma":"בֵּן","translit":"velibenvo","morph":"Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1121"},{"id":"leviticus-21-2-8","surface":"וּלְבִתּ֖וֹ","lemma":"בַּת","translit":"vlebitvo","morph":"Conjunction + Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1323"},{"id":"leviticus-21-2-9","surface":"וּלְאָחִֽיו","lemma":"אָח","translit":"vle'achiyv","morph":"Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H251"}],"language":"hebrew"},{"ref":"Leviticus 21:3","englishText":"and for his virgin sister who is near to him, who has had no husband; for her he may defile himself.","tokens":[{"id":"leviticus-21-3-0","surface":"וְלַאֲחֹת֤וֹ","lemma":"אָחוֹת","translit":"vela'chotvo","morph":"Conjunction + Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H269"},{"id":"leviticus-21-3-1","surface":"הַבְּתוּלָה֙","lemma":"בְּתוּלָה","translit":"habetvlah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H1330"},{"id":"leviticus-21-3-2","surface":"הַקְּרוֹבָ֣ה","lemma":"קָרוֹב","translit":"haqervobah","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7138"},{"id":"leviticus-21-3-3","surface":"אֵלָ֔יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"leviticus-21-3-4","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-21-3-5","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-3-6","surface":"הָיְתָ֖ה","lemma":"הָיָה","translit":"hayetah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H1961"},{"id":"leviticus-21-3-7","surface":"לְאִ֑ישׁ","lemma":"אִישׁ","translit":"le'iysh","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"leviticus-21-3-8","surface":"לָ֖הּ","lemma":"לָ֖הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"leviticus-21-3-9","surface":"יִטַּמָּֽא","lemma":"טָמֵא","translit":"yitama'","morph":"Verb Hithpael Imperative 3rd masculine singular","glosses":[],"strongs":"H2930"}],"language":"hebrew"},{"ref":"Leviticus 21:4","englishText":"He shall not defile himself, being a chief man among his people, to profane himself.  ","tokens":[{"id":"leviticus-21-4-0","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-4-1","surface":"יִטַּמָּ֖א","lemma":"טָמֵא","translit":"yitama'","morph":"Verb Hithpael Imperative 3rd masculine singular","glosses":[],"strongs":"H2930"},{"id":"leviticus-21-4-2","surface":"בַּ֣עַל","lemma":"בַּעַל","translit":"ba`al","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1167"},{"id":"leviticus-21-4-3","surface":"בְּעַמָּ֑יו","lemma":"עַם","translit":"be`amayv","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5971"},{"id":"leviticus-21-4-4","surface":"לְהֵ֖חַלּֽוֹ","lemma":"חָלַל","translit":"lehechalvo","morph":"Preposition + Verb Niphal Infinitive Construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2490"}],"language":"hebrew"},{"ref":"Leviticus 21:5","englishText":"  “‘They shall not shave their heads, neither shall they shave off the corners of their beards, nor make any cuttings in their flesh.","tokens":[{"id":"leviticus-21-5-0","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-5-1","surface":"יקרחה","lemma":"קָרַח","translit":"yqrchh","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H7139"},{"id":"leviticus-21-5-2","surface":"יִקְרְח֤וּ","lemma":"קָרַח","translit":"yiqerechv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H7139"},{"id":"leviticus-21-5-3","surface":"קָרְחָה֙","lemma":"קׇרְחָה","translit":"qarechah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7144"},{"id":"leviticus-21-5-4","surface":"בְּרֹאשָׁ֔ם","lemma":"רֹאשׁ","translit":"bero'sham","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H7218"},{"id":"leviticus-21-5-5","surface":"וּפְאַ֥ת","lemma":"פֵּאָה","translit":"vpe'at","morph":"Conjunction + Noun common feminine singular construct","glosses":[],"strongs":"H6285"},{"id":"leviticus-21-5-6","surface":"זְקָנָ֖ם","lemma":"זָקָן","translit":"zeqanam","morph":"Noun common singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H2206"},{"id":"leviticus-21-5-7","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-5-8","surface":"יְגַלֵּ֑חוּ","lemma":"גָּלַח","translit":"yegalechv","morph":"Verb Piel Imperative 3rd masculine plural","glosses":[],"strongs":"H1548"},{"id":"leviticus-21-5-9","surface":"וּבִ֨בְשָׂרָ֔ם","lemma":"בָּשָׂר","translit":"vbibesharam","morph":"Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H1320"},{"id":"leviticus-21-5-10","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-5-11","surface":"יִשְׂרְט֖וּ","lemma":"שָׂרַט","translit":"yisheretv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H8295"},{"id":"leviticus-21-5-12","surface":"שָׂרָֽטֶת","lemma":"שֶׂרֶט","translit":"sharatet","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8296"}],"language":"hebrew"},{"ref":"Leviticus 21:6","englishText":"They shall be holy to their God, and not profane the name of their God; for they offer the offerings of Yahweh made by fire, the bread of their God; therefore they shall be holy.  ","tokens":[{"id":"leviticus-21-6-0","surface":"קְדֹשִׁ֤ים","lemma":"קָדוֹשׁ","translit":"qedoshiym","morph":"Adjective","glosses":[],"strongs":"H6918"},{"id":"leviticus-21-6-1","surface":"יִהְיוּ֙","lemma":"הָיָה","translit":"yiheyv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H1961"},{"id":"leviticus-21-6-2","surface":"לֵאלֹ֣הֵיהֶ֔ם","lemma":"אֱלֹהִים","translit":"le'loheyhem","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H430"},{"id":"leviticus-21-6-3","surface":"וְלֹ֣א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-6-4","surface":"יְחַלְּל֔וּ","lemma":"חָלַל","translit":"yechalelv","morph":"Verb Piel Imperative 3rd masculine plural","glosses":[],"strongs":"H2490"},{"id":"leviticus-21-6-5","surface":"שֵׁ֖ם","lemma":"שֵׁם","translit":"shem","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"leviticus-21-6-6","surface":"אֱלֹהֵיהֶ֑ם","lemma":"אֱלֹהִים","translit":"'loheyhem","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H430"},{"id":"leviticus-21-6-7","surface":"כִּי֩","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-6-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-6-9","surface":"אִשֵּׁ֨י","lemma":"אִשָּׁה","translit":"'ishey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H801"},{"id":"leviticus-21-6-10","surface":"יְהוָ֜ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-21-6-11","surface":"לֶ֧חֶם","lemma":"לֶחֶם","translit":"lechem","morph":"Noun common singular construct","glosses":[],"strongs":"H3899"},{"id":"leviticus-21-6-12","surface":"אֱלֹהֵיהֶ֛ם","lemma":"אֱלֹהִים","translit":"'loheyhem","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H430"},{"id":"leviticus-21-6-13","surface":"הֵ֥ם","lemma":"הֵם","translit":"hem","morph":"Pronoun plural 3rd masculine","glosses":[],"strongs":"H1992"},{"id":"leviticus-21-6-14","surface":"מַקְרִיבִ֖ם","lemma":"קָרַב","translit":"maqeriybim","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H7126"},{"id":"leviticus-21-6-15","surface":"וְהָ֥יוּ","lemma":"הָיָה","translit":"vehayv","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H1961"},{"id":"leviticus-21-6-16","surface":"קֹֽדֶשׁ","lemma":"קֹדֶשׁ","translit":"qodesh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6944"}],"language":"hebrew"},{"ref":"Leviticus 21:7","englishText":"  “‘They shall not marry a woman who is a prostitute, or profane; neither shall they marry a woman divorced from her husband; for he is holy to his God.","tokens":[{"id":"leviticus-21-7-0","surface":"אִשָּׁ֨ה","lemma":"אִשָּׁה","translit":"'ishah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"leviticus-21-7-1","surface":"זֹנָ֤ה","lemma":"זָנָה","translit":"zonah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2181"},{"id":"leviticus-21-7-2","surface":"וַחֲלָלָה֙","lemma":"חָלָל","translit":"vachlalah","morph":"Conjunction + Adjective","glosses":[],"strongs":"H2491"},{"id":"leviticus-21-7-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-7-4","surface":"יִקָּ֔חוּ","lemma":"לָקַח","translit":"yiqachv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H3947"},{"id":"leviticus-21-7-5","surface":"וְאִשָּׁ֛ה","lemma":"אִשָּׁה","translit":"ve'ishah","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"leviticus-21-7-6","surface":"גְּרוּשָׁ֥ה","lemma":"גָּרַשׁ","translit":"gervshah","morph":"Verb Qal s","glosses":[],"strongs":"H1644"},{"id":"leviticus-21-7-7","surface":"מֵאִישָׁ֖הּ","lemma":"אִישׁ","translit":"me'iyshah","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H376"},{"id":"leviticus-21-7-8","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-7-9","surface":"יִקָּ֑חוּ","lemma":"לָקַח","translit":"yiqachv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H3947"},{"id":"leviticus-21-7-10","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-7-11","surface":"קָדֹ֥שׁ","lemma":"קָדוֹשׁ","translit":"qadosh","morph":"Adjective","glosses":[],"strongs":"H6918"},{"id":"leviticus-21-7-12","surface":"ה֖וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"leviticus-21-7-13","surface":"לֵאלֹהָֽיו","lemma":"אֱלֹהִים","translit":"le'lohayv","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H430"}],"language":"hebrew"},{"ref":"Leviticus 21:8","englishText":"You shall sanctify him therefore; for he offers the bread of your God. He shall be holy to you; for I Yahweh, who sanctify you, am holy.  ","tokens":[{"id":"leviticus-21-8-0","surface":"וְקִדַּשְׁתּ֔וֹ","lemma":"קָדַשׁ","translit":"veqidashetvo","morph":"Conjunction + Verb Piel Perfect 2nd masculine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6942"},{"id":"leviticus-21-8-1","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-8-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-8-3","surface":"לֶ֥חֶם","lemma":"לֶחֶם","translit":"lechem","morph":"Noun common singular construct","glosses":[],"strongs":"H3899"},{"id":"leviticus-21-8-4","surface":"אֱלֹהֶ֖יךָ","lemma":"אֱלֹהִים","translit":"'loheyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H430"},{"id":"leviticus-21-8-5","surface":"ה֣וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"leviticus-21-8-6","surface":"מַקְרִ֑יב","lemma":"קָרַב","translit":"maqeriyb","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H7126"},{"id":"leviticus-21-8-7","surface":"קָדֹשׁ֙","lemma":"קָדוֹשׁ","translit":"qadosh","morph":"Adjective","glosses":[],"strongs":"H6918"},{"id":"leviticus-21-8-8","surface":"יִֽהְיֶה","lemma":"הָיָה","translit":"yiheyeh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"leviticus-21-8-9","surface":"לָּ֔ךְ","lemma":"לָּ֔ךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]},{"id":"leviticus-21-8-10","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-8-11","surface":"קָד֔וֹשׁ","lemma":"קָדוֹשׁ","translit":"qadvosh","morph":"Adjective","glosses":[],"strongs":"H6918"},{"id":"leviticus-21-8-12","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-21-8-13","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-21-8-14","surface":"מְקַדִּשְׁכֶֽם","lemma":"קָדַשׁ","translit":"meqadishekem","morph":"Verb Piel Passive Participle + Suffix plural 2nd masculine","glosses":[],"strongs":"H6942"}],"language":"hebrew"},{"ref":"Leviticus 21:9","englishText":"  “‘The daughter of any priest, if she profanes herself by playing the prostitute, she profanes her father. She shall be burned with fire.  ","tokens":[{"id":"leviticus-21-9-0","surface":"וּבַת֙","lemma":"בַּת","translit":"vbat","morph":"Conjunction + Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"leviticus-21-9-1","surface":"אִ֣ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H376"},{"id":"leviticus-21-9-2","surface":"כֹּהֵ֔ן","lemma":"כֹּהֵן","translit":"kohen","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3548"},{"id":"leviticus-21-9-3","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-9-4","surface":"תֵחֵ֖ל","lemma":"חָלַל","translit":"techel","morph":"Verb Niphal Imperative 3rd feminine singular","glosses":[],"strongs":"H2490"},{"id":"leviticus-21-9-5","surface":"לִזְנ֑וֹת","lemma":"זָנָה","translit":"lizenvot","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H2181"},{"id":"leviticus-21-9-6","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-9-7","surface":"אָבִ֨יהָ֙","lemma":"אָב","translit":"'abiyha","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-21-9-8","surface":"הִ֣יא","lemma":"הוּא","translit":"hiy'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"leviticus-21-9-9","surface":"מְחַלֶּ֔לֶת","lemma":"חָלַל","translit":"mechalelet","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H2490"},{"id":"leviticus-21-9-10","surface":"בָּאֵ֖שׁ","lemma":"אֵשׁ","translit":"ba'esh","morph":"Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H784"},{"id":"leviticus-21-9-11","surface":"תִּשָּׂרֵֽף","lemma":"שָׂרַף","translit":"tisharep","morph":"Verb Niphal Imperative 3rd feminine singular","glosses":[],"strongs":"H8313"}],"language":"hebrew"},{"ref":"Leviticus 21:10","englishText":"  “‘He who is the high priest among his brothers, upon whose head the anointing oil is poured, and that is consecrated to put on the garments, shall not let the hair of his head hang loose, nor tear his clothes;","tokens":[{"id":"leviticus-21-10-0","surface":"וְהַכֹּהֵן֩","lemma":"כֹּהֵן","translit":"vehakohen","morph":"Conjunction + Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3548"},{"id":"leviticus-21-10-1","surface":"הַגָּד֨וֹל","lemma":"גָּדוֹל","translit":"hagadvol","morph":"Particle dual + Adjective","glosses":[],"strongs":"H1419"},{"id":"leviticus-21-10-2","surface":"מֵאֶחָ֜יו","lemma":"אָח","translit":"me'echayv","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H251"},{"id":"leviticus-21-10-3","surface":"אֲֽשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-21-10-4","surface":"יוּצַ֥ק","lemma":"יָצַק","translit":"yvtsaq","morph":"Verb Hophal Imperative 3rd masculine singular","glosses":[],"strongs":"H3332"},{"id":"leviticus-21-10-5","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"leviticus-21-10-6","surface":"רֹאשׁ֣וֹ","lemma":"רֹאשׁ","translit":"ro'shvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7218"},{"id":"leviticus-21-10-7","surface":"שֶׁ֤מֶן","lemma":"שֶׁמֶן","translit":"shemen","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8081"},{"id":"leviticus-21-10-8","surface":"הַמִּשְׁחָה֙","lemma":"מִשְׁחָה","translit":"hamishechah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4888"},{"id":"leviticus-21-10-9","surface":"וּמִלֵּ֣א","lemma":"מָלֵא","translit":"vmile'","morph":"Conjunction + Verb Piel Perfect 3rd masculine singular","glosses":[],"strongs":"H4390"},{"id":"leviticus-21-10-10","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-10-11","surface":"יָד֔וֹ","lemma":"יָד","translit":"yadvo","morph":"Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3027"},{"id":"leviticus-21-10-12","surface":"לִלְבֹּ֖שׁ","lemma":"לָבַשׁ","translit":"lilebosh","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H3847"},{"id":"leviticus-21-10-13","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-10-14","surface":"הַבְּגָדִ֑ים","lemma":"בֶּגֶד","translit":"habegadiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H899"},{"id":"leviticus-21-10-15","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-10-16","surface":"רֹאשׁוֹ֙","lemma":"רֹאשׁ","translit":"ro'shvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7218"},{"id":"leviticus-21-10-17","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-10-18","surface":"יִפְרָ֔ע","lemma":"פָּרַע","translit":"yipera`","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H6544"},{"id":"leviticus-21-10-19","surface":"וּבְגָדָ֖יו","lemma":"בֶּגֶד","translit":"vbegadayv","morph":"Conjunction + Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H899"},{"id":"leviticus-21-10-20","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-10-21","surface":"יִפְרֹֽם","lemma":"פָּרַם","translit":"yiperom","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H6533"}],"language":"hebrew"},{"ref":"Leviticus 21:11","englishText":"neither shall he go in to any dead body, nor defile himself for his father, or for his mother;","tokens":[{"id":"leviticus-21-11-0","surface":"וְעַ֛ל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"leviticus-21-11-1","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-21-11-2","surface":"נַפְשֹׁ֥ת","lemma":"נֶפֶשׁ","translit":"napeshot","morph":"Noun common plural construct","glosses":[],"strongs":"H5315"},{"id":"leviticus-21-11-3","surface":"מֵ֖ת","lemma":"מוּת","translit":"met","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H4191"},{"id":"leviticus-21-11-4","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-11-5","surface":"יָבֹ֑א","lemma":"בּוֹא","translit":"yabo'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"leviticus-21-11-6","surface":"לְאָבִ֥יו","lemma":"אָב","translit":"le'abiyv","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-21-11-7","surface":"וּלְאִמּ֖וֹ","lemma":"אֵם","translit":"vle'imvo","morph":"Conjunction + Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H517"},{"id":"leviticus-21-11-8","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-11-9","surface":"יִטַּמָּֽא","lemma":"טָמֵא","translit":"yitama'","morph":"Verb Hithpael Imperative 3rd masculine singular","glosses":[],"strongs":"H2930"}],"language":"hebrew"},{"ref":"Leviticus 21:12","englishText":"neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him. I am Yahweh.  ","tokens":[{"id":"leviticus-21-12-0","surface":"וּמִן","lemma":"מִן","translit":"vmin","morph":"Conjunction + Preposition","glosses":[],"strongs":"H4480"},{"id":"leviticus-21-12-1","surface":"הַמִּקְדָּשׁ֙","lemma":"מִקְדָּשׁ","translit":"hamiqedash","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4720"},{"id":"leviticus-21-12-2","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-12-3","surface":"יֵצֵ֔א","lemma":"יָצָא","translit":"yetse'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H3318"},{"id":"leviticus-21-12-4","surface":"וְלֹ֣א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-12-5","surface":"יְחַלֵּ֔ל","lemma":"חָלַל","translit":"yechalel","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H2490"},{"id":"leviticus-21-12-6","surface":"אֵ֖ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-12-7","surface":"מִקְדַּ֣שׁ","lemma":"מִקְדָּשׁ","translit":"miqedash","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4720"},{"id":"leviticus-21-12-8","surface":"אֱלֹהָ֑יו","lemma":"אֱלֹהִים","translit":"'lohayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H430"},{"id":"leviticus-21-12-9","surface":"כִּ֡י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-12-10","surface":"נֵ֠זֶר","lemma":"נֶזֶר","translit":"nezer","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5145"},{"id":"leviticus-21-12-11","surface":"שֶׁ֣מֶן","lemma":"שֶׁמֶן","translit":"shemen","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8081"},{"id":"leviticus-21-12-12","surface":"מִשְׁחַ֧ת","lemma":"מִשְׁחָה","translit":"mishechat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H4888"},{"id":"leviticus-21-12-13","surface":"אֱלֹהָ֛יו","lemma":"אֱלֹהִים","translit":"'lohayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H430"},{"id":"leviticus-21-12-14","surface":"עָלָ֖יו","lemma":"עַל","translit":"`alayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5921"},{"id":"leviticus-21-12-15","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-21-12-16","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Leviticus 21:13","englishText":"  “‘He shall take a wife in her virginity.","tokens":[{"id":"leviticus-21-13-0","surface":"וְה֕וּא","lemma":"הוּא","translit":"vehv'","morph":"Conjunction + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"leviticus-21-13-1","surface":"אִשָּׁ֥ה","lemma":"אִשָּׁה","translit":"'ishah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"leviticus-21-13-2","surface":"בִבְתוּלֶ֖יהָ","lemma":"בְּתוּלִים","translit":"bibetvleyha","morph":"Preposition + Noun common plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1331"},{"id":"leviticus-21-13-3","surface":"יִקָּֽח","lemma":"לָקַח","translit":"yiqach","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H3947"}],"language":"hebrew"},{"ref":"Leviticus 21:14","englishText":"A widow, or one divorced, or a woman who has been defiled, or a prostitute, these he shall not marry: but a virgin of his own people shall he take as a wife.","tokens":[{"id":"leviticus-21-14-0","surface":"אַלְמָנָ֤ה","lemma":"אַלְמָנָה","translit":"'alemanah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H490"},{"id":"leviticus-21-14-1","surface":"וּגְרוּשָׁה֙","lemma":"גָּרַשׁ","translit":"vgervshah","morph":"Conjunction + Verb Qal s","glosses":[],"strongs":"H1644"},{"id":"leviticus-21-14-2","surface":"וַחֲלָלָ֣ה","lemma":"חָלָל","translit":"vachlalah","morph":"Conjunction + Adjective","glosses":[],"strongs":"H2491"},{"id":"leviticus-21-14-3","surface":"זֹנָ֔ה","lemma":"זָנָה","translit":"zonah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2181"},{"id":"leviticus-21-14-4","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-14-5","surface":"אֵ֖לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"leviticus-21-14-6","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-14-7","surface":"יִקָּ֑ח","lemma":"לָקַח","translit":"yiqach","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H3947"},{"id":"leviticus-21-14-8","surface":"כִּ֛י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-14-9","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"leviticus-21-14-10","surface":"בְּתוּלָ֥ה","lemma":"בְּתוּלָה","translit":"betvlah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H1330"},{"id":"leviticus-21-14-11","surface":"מֵעַמָּ֖יו","lemma":"עַם","translit":"me`amayv","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5971"},{"id":"leviticus-21-14-12","surface":"יִקַּ֥ח","lemma":"לָקַח","translit":"yiqach","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H3947"},{"id":"leviticus-21-14-13","surface":"אִשָּֽׁה","lemma":"אִשָּׁה","translit":"'ishah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H802"}],"language":"hebrew"},{"ref":"Leviticus 21:15","englishText":"He shall not profane his seed among his people, for I am Yahweh who sanctifies him.’”  ","tokens":[{"id":"leviticus-21-15-0","surface":"וְלֹֽא","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-15-1","surface":"יְחַלֵּ֥ל","lemma":"חָלַל","translit":"yechalel","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H2490"},{"id":"leviticus-21-15-2","surface":"זַרְע֖וֹ","lemma":"זֶרַע","translit":"zare`vo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2233"},{"id":"leviticus-21-15-3","surface":"בְּעַמָּ֑יו","lemma":"עַם","translit":"be`amayv","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5971"},{"id":"leviticus-21-15-4","surface":"כִּ֛י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-15-5","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-21-15-6","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-21-15-7","surface":"מְקַדְּשֽׁוֹ","lemma":"קָדַשׁ","translit":"meqadeshvo","morph":"Verb Piel Passive Participle + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6942"}],"language":"hebrew"},{"ref":"Leviticus 21:16","englishText":"  Yahweh spoke to Moses, saying,","tokens":[{"id":"leviticus-21-16-0","surface":"וַיְדַבֵּ֥ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"leviticus-21-16-1","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-21-16-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-21-16-3","surface":"מֹשֶׁ֥ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"leviticus-21-16-4","surface":"לֵּאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Leviticus 21:17","englishText":"“Say to Aaron, ‘None of your seed throughout their generations who has a defect may approach to offer the bread of his God.","tokens":[{"id":"leviticus-21-17-0","surface":"דַּבֵּ֥ר","lemma":"דָבַר","translit":"daber","morph":"Verb Piel Weqatal 2nd masculine singular","glosses":[],"strongs":"H1696"},{"id":"leviticus-21-17-1","surface":"אֶֽל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-21-17-2","surface":"אַהֲרֹ֖ן","lemma":"אַהֲרוֹן","translit":"'ahron","morph":"Noun proper","glosses":[],"strongs":"H175"},{"id":"leviticus-21-17-3","surface":"לֵאמֹ֑ר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"},{"id":"leviticus-21-17-4","surface":"אִ֣ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"leviticus-21-17-5","surface":"מִֽזַּרְעֲךָ֞","lemma":"זֶרַע","translit":"mizare`ka","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2233"},{"id":"leviticus-21-17-6","surface":"לְדֹרֹתָ֗ם","lemma":"דּוֹר","translit":"ledorotam","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H1755"},{"id":"leviticus-21-17-7","surface":"אֲשֶׁ֨ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-21-17-8","surface":"יִהְיֶ֥ה","lemma":"הָיָה","translit":"yiheyeh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"leviticus-21-17-9","surface":"בוֹ֙","lemma":"בוֹ֙","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"leviticus-21-17-10","surface":"מ֔וּם","lemma":"מאוּם","translit":"mvm","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3971"},{"id":"leviticus-21-17-11","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-17-12","surface":"יִקְרַ֔ב","lemma":"קָרַב","translit":"yiqerab","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7126"},{"id":"leviticus-21-17-13","surface":"לְהַקְרִ֖יב","lemma":"קָרַב","translit":"lehaqeriyb","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H7126"},{"id":"leviticus-21-17-14","surface":"לֶ֥חֶם","lemma":"לֶחֶם","translit":"lechem","morph":"Noun common singular construct","glosses":[],"strongs":"H3899"},{"id":"leviticus-21-17-15","surface":"אֱלֹהָֽיו","lemma":"אֱלֹהִים","translit":"'lohayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H430"}],"language":"hebrew"},{"ref":"Leviticus 21:18","englishText":"For whatever man he is that has a defect, he shall not draw near: a blind man, or a lame, or he who has a flat nose, or any deformity,","tokens":[{"id":"leviticus-21-18-0","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-18-1","surface":"כָל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-21-18-2","surface":"אִ֛ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"leviticus-21-18-3","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-21-18-4","surface":"בּ֥וֹ","lemma":"בּ֥וֹ","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"leviticus-21-18-5","surface":"מ֖וּם","lemma":"מאוּם","translit":"mvm","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3971"},{"id":"leviticus-21-18-6","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-18-7","surface":"יִקְרָ֑ב","lemma":"קָרַב","translit":"yiqerab","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7126"},{"id":"leviticus-21-18-8","surface":"אִ֤ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"leviticus-21-18-9","surface":"עִוֵּר֙","lemma":"עִוֵּר","translit":"`iver","morph":"Adjective","glosses":[],"strongs":"H5787"},{"id":"leviticus-21-18-10","surface":"א֣וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-18-11","surface":"פִסֵּ֔חַ","lemma":"פִּסֵּחַ","translit":"pisecha","morph":"Adjective","glosses":[],"strongs":"H6455"},{"id":"leviticus-21-18-12","surface":"א֥וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-18-13","surface":"חָרֻ֖ם","lemma":"חָרַם","translit":"charum","morph":"Verb Qal s","glosses":[],"strongs":"H2763"},{"id":"leviticus-21-18-14","surface":"א֥וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-18-15","surface":"שָׂרֽוּעַ","lemma":"שָׂרַע","translit":"sharv`a","morph":"Verb Qal s","glosses":[],"strongs":"H8311"}],"language":"hebrew"},{"ref":"Leviticus 21:19","englishText":"or a man who has an injured foot, or an injured hand,","tokens":[{"id":"leviticus-21-19-0","surface":"א֣וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-19-1","surface":"אִ֔ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"leviticus-21-19-2","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-21-19-3","surface":"יִהְיֶ֥ה","lemma":"הָיָה","translit":"yiheyeh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"leviticus-21-19-4","surface":"ב֖וֹ","lemma":"ב֖וֹ","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"leviticus-21-19-5","surface":"שֶׁ֣בֶר","lemma":"שֶׁבֶר","translit":"sheber","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7667"},{"id":"leviticus-21-19-6","surface":"רָ֑גֶל","lemma":"רֶגֶל","translit":"ragel","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7272"},{"id":"leviticus-21-19-7","surface":"א֖וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-19-8","surface":"שֶׁ֥בֶר","lemma":"שֶׁבֶר","translit":"sheber","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7667"},{"id":"leviticus-21-19-9","surface":"יָֽד","lemma":"יָד","translit":"yad","morph":"Noun common singular absolute","glosses":[],"strongs":"H3027"}],"language":"hebrew"},{"ref":"Leviticus 21:20","englishText":"or hunchbacked, or a dwarf, or one who has a defect in his eye, or an itching disease, or scabs, or who has damaged testicles.","tokens":[{"id":"leviticus-21-20-0","surface":"אֽוֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-20-1","surface":"גִבֵּ֣ן","lemma":"גִּבֵּן","translit":"giben","morph":"Adjective","glosses":[],"strongs":"H1384"},{"id":"leviticus-21-20-2","surface":"אוֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-20-3","surface":"דַ֔ק","lemma":"דַּק","translit":"daq","morph":"Adjective","glosses":[],"strongs":"H1851"},{"id":"leviticus-21-20-4","surface":"א֖וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-20-5","surface":"תְּבַלֻּ֣ל","lemma":"תְּבַּלֻּל","translit":"tebalul","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8400"},{"id":"leviticus-21-20-6","surface":"בְּעֵינ֑וֹ","lemma":"עַיִן","translit":"be`eynvo","morph":"Preposition + Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5869"},{"id":"leviticus-21-20-7","surface":"א֤וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-20-8","surface":"גָרָב֙","lemma":"גָּרָב","translit":"garab","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1618"},{"id":"leviticus-21-20-9","surface":"א֣וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-20-10","surface":"יַלֶּ֔פֶת","lemma":"יַלֶּפֶת","translit":"yalepet","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H3217"},{"id":"leviticus-21-20-11","surface":"א֖וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-21-20-12","surface":"מְר֥וֹחַ","lemma":"מְרוֹחַ","translit":"mervocha","morph":"Adjective","glosses":[],"strongs":"H4790"},{"id":"leviticus-21-20-13","surface":"אָֽשֶׁךְ","lemma":"אֶשֶׁךְ","translit":"'asheke","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H810"}],"language":"hebrew"},{"ref":"Leviticus 21:21","englishText":"No man of the seed of Aaron the priest who has a defect shall come near to offer the offerings of Yahweh made by fire. Since he has a defect, he shall not come near to offer the bread of his God.","tokens":[{"id":"leviticus-21-21-0","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-21-21-1","surface":"אִ֞ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"leviticus-21-21-2","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-21-21-3","surface":"בּ֣וֹ","lemma":"בּ֣וֹ","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"leviticus-21-21-4","surface":"מ֗וּם","lemma":"מאוּם","translit":"mvm","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3971"},{"id":"leviticus-21-21-5","surface":"מִזֶּ֨רַע֙","lemma":"זֶרַע","translit":"mizera`","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H2233"},{"id":"leviticus-21-21-6","surface":"אַהֲרֹ֣ן","lemma":"אַהֲרוֹן","translit":"'ahron","morph":"Noun proper","glosses":[],"strongs":"H175"},{"id":"leviticus-21-21-7","surface":"הַכֹּהֵ֔ן","lemma":"כֹּהֵן","translit":"hakohen","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3548"},{"id":"leviticus-21-21-8","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-21-9","surface":"יִגַּ֔שׁ","lemma":"נָגַשׁ","translit":"yigash","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5066"},{"id":"leviticus-21-21-10","surface":"לְהַקְרִ֖יב","lemma":"קָרַב","translit":"lehaqeriyb","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H7126"},{"id":"leviticus-21-21-11","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-21-12","surface":"אִשֵּׁ֣י","lemma":"אִשָּׁה","translit":"'ishey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H801"},{"id":"leviticus-21-21-13","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-21-21-14","surface":"מ֣וּם","lemma":"מאוּם","translit":"mvm","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3971"},{"id":"leviticus-21-21-15","surface":"בּ֔וֹ","lemma":"בּ֔וֹ","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"leviticus-21-21-16","surface":"אֵ֚ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-21-17","surface":"לֶ֣חֶם","lemma":"לֶחֶם","translit":"lechem","morph":"Noun common singular construct","glosses":[],"strongs":"H3899"},{"id":"leviticus-21-21-18","surface":"אֱלֹהָ֔יו","lemma":"אֱלֹהִים","translit":"'lohayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H430"},{"id":"leviticus-21-21-19","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-21-20","surface":"יִגַּ֖שׁ","lemma":"נָגַשׁ","translit":"yigash","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5066"},{"id":"leviticus-21-21-21","surface":"לְהַקְרִֽיב","lemma":"קָרַב","translit":"lehaqeriyb","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H7126"}],"language":"hebrew"},{"ref":"Leviticus 21:22","englishText":"He shall eat the bread of his God, both of the most holy, and of the holy.","tokens":[{"id":"leviticus-21-22-0","surface":"לֶ֣חֶם","lemma":"לֶחֶם","translit":"lechem","morph":"Noun common singular construct","glosses":[],"strongs":"H3899"},{"id":"leviticus-21-22-1","surface":"אֱלֹהָ֔יו","lemma":"אֱלֹהִים","translit":"'lohayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H430"},{"id":"leviticus-21-22-2","surface":"מִקָּדְשֵׁ֖י","lemma":"קֹדֶשׁ","translit":"miqadeshey","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H6944"},{"id":"leviticus-21-22-3","surface":"הַקֳּדָשִׁ֑ים","lemma":"קֹדֶשׁ","translit":"haqdashiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H6944"},{"id":"leviticus-21-22-4","surface":"וּמִן","lemma":"מִן","translit":"vmin","morph":"Conjunction + Preposition","glosses":[],"strongs":"H4480"},{"id":"leviticus-21-22-5","surface":"הַקֳּדָשִׁ֖ים","lemma":"קֹדֶשׁ","translit":"haqdashiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H6944"},{"id":"leviticus-21-22-6","surface":"יֹאכֵֽל","lemma":"אָכַל","translit":"yo'kel","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H398"}],"language":"hebrew"},{"ref":"Leviticus 21:23","englishText":"He shall not come near to the veil, nor come near to the altar, because he has a defect; that he may not profane my sanctuaries, for I am Yahweh who sanctifies them.’”  ","tokens":[{"id":"leviticus-21-23-0","surface":"אַ֣ךְ","lemma":"אַךְ","translit":"'ake","morph":"Particle absolute","glosses":[],"strongs":"H389"},{"id":"leviticus-21-23-1","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-21-23-2","surface":"הַפָּרֹ֜כֶת","lemma":"פֹּרֶכֶת","translit":"haparoket","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H6532"},{"id":"leviticus-21-23-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-23-4","surface":"יָבֹ֗א","lemma":"בּוֹא","translit":"yabo'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"leviticus-21-23-5","surface":"וְאֶל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-21-23-6","surface":"הַמִּזְבֵּ֛חַ","lemma":"מִזְבֵּחַ","translit":"hamizebecha","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4196"},{"id":"leviticus-21-23-7","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-23-8","surface":"יִגַּ֖שׁ","lemma":"נָגַשׁ","translit":"yigash","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5066"},{"id":"leviticus-21-23-9","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-23-10","surface":"מ֣וּם","lemma":"מאוּם","translit":"mvm","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3971"},{"id":"leviticus-21-23-11","surface":"בּ֑וֹ","lemma":"בּ֑וֹ","translit":"bvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"leviticus-21-23-12","surface":"וְלֹ֤א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-21-23-13","surface":"יְחַלֵּל֙","lemma":"חָלַל","translit":"yechalel","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H2490"},{"id":"leviticus-21-23-14","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-21-23-15","surface":"מִקְדָּשַׁ֔י","lemma":"מִקְדָּשׁ","translit":"miqedashay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H4720"},{"id":"leviticus-21-23-16","surface":"כִּ֛י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-21-23-17","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-21-23-18","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-21-23-19","surface":"מְקַדְּשָֽׁם","lemma":"קָדַשׁ","translit":"meqadesham","morph":"Verb Piel Passive Participle + Suffix plural 3rd masculine","glosses":[],"strongs":"H6942"}],"language":"hebrew"},{"ref":"Leviticus 21:24","englishText":"  So Moses spoke to Aaron, and to his sons, and to all the children of Israel.   ","tokens":[{"id":"leviticus-21-24-0","surface":"וַיְדַבֵּ֣ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"leviticus-21-24-1","surface":"מֹשֶׁ֔ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"leviticus-21-24-2","surface":"אֶֽל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-21-24-3","surface":"אַהֲרֹ֖ן","lemma":"אַהֲרוֹן","translit":"'ahron","morph":"Noun proper","glosses":[],"strongs":"H175"},{"id":"leviticus-21-24-4","surface":"וְאֶל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-21-24-5","surface":"בָּנָ֑יו","lemma":"בֵּן","translit":"banayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1121"},{"id":"leviticus-21-24-6","surface":"וְאֶֽל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-21-24-7","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-21-24-8","surface":"בְּנֵ֖י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"leviticus-21-24-9","surface":"יִשְׂרָאֵֽל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "leviticus-21",
+  "name": "Leviticus",
+  "chapter": 21,
+  "verses": [
+    {
+      "ref": "Leviticus 21:1",
+      "englishText": "Yahweh said to Moses, “Speak to the priests, the sons of Aaron, and say to them, ‘A priest shall not defile himself for the dead among his people;",
+      "tokens": [
+        {
+          "id": "leviticus-21-1-0",
+          "surface": "וַיֹּ֤אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "leviticus-21-1-1",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-21-1-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-1-3",
+          "surface": "מֹשֶׁ֔ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "leviticus-21-1-4",
+          "surface": "אֱמֹ֥ר",
+          "lemma": "אָמַר",
+          "translit": "'mor",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "leviticus-21-1-5",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-1-6",
+          "surface": "הַכֹּהֲנִ֖ים",
+          "lemma": "כֹּהֵן",
+          "translit": "hakohniym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "leviticus-21-1-7",
+          "surface": "בְּנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "leviticus-21-1-8",
+          "surface": "אַהֲרֹ֑ן",
+          "lemma": "אַהֲרוֹן",
+          "translit": "'ahron",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H175"
+        },
+        {
+          "id": "leviticus-21-1-9",
+          "surface": "וְאָמַרְתָּ֣",
+          "lemma": "אָמַר",
+          "translit": "ve'amareta",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "leviticus-21-1-10",
+          "surface": "אֲלֵהֶ֔ם",
+          "lemma": "אֵל",
+          "translit": "'lehem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-1-11",
+          "surface": "לְנֶ֥פֶשׁ",
+          "lemma": "נֶפֶשׁ",
+          "translit": "lenepesh",
+          "morph": "Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "leviticus-21-1-12",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-1-13",
+          "surface": "יִטַּמָּ֖א",
+          "lemma": "טָמֵא",
+          "translit": "yitama'",
+          "morph": "Verb Hithpael Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2930"
+        },
+        {
+          "id": "leviticus-21-1-14",
+          "surface": "בְּעַמָּֽיו",
+          "lemma": "עַם",
+          "translit": "be`amayv",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5971"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:2",
+      "englishText": "except for his relatives that are near to him: for his mother, for his father, for his son, for his daughter, for his brother,",
+      "tokens": [
+        {
+          "id": "leviticus-21-2-0",
+          "surface": "כִּ֚י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-2-1",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "leviticus-21-2-2",
+          "surface": "לִשְׁאֵר֔וֹ",
+          "lemma": "שְׁאֵר",
+          "translit": "lishe'ervo",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7607"
+        },
+        {
+          "id": "leviticus-21-2-3",
+          "surface": "הַקָּרֹ֖ב",
+          "lemma": "קָרוֹב",
+          "translit": "haqarob",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7138"
+        },
+        {
+          "id": "leviticus-21-2-4",
+          "surface": "אֵלָ֑יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-2-5",
+          "surface": "לְאִמּ֣וֹ",
+          "lemma": "אֵם",
+          "translit": "le'imvo",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H517"
+        },
+        {
+          "id": "leviticus-21-2-6",
+          "surface": "וּלְאָבִ֔יו",
+          "lemma": "אָב",
+          "translit": "vle'abiyv",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-21-2-7",
+          "surface": "וְלִבְנ֥וֹ",
+          "lemma": "בֵּן",
+          "translit": "velibenvo",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "leviticus-21-2-8",
+          "surface": "וּלְבִתּ֖וֹ",
+          "lemma": "בַּת",
+          "translit": "vlebitvo",
+          "morph": "Conjunction + Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-21-2-9",
+          "surface": "וּלְאָחִֽיו",
+          "lemma": "אָח",
+          "translit": "vle'achiyv",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H251"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:3",
+      "englishText": "and for his virgin sister who is near to him, who has had no husband; for her he may defile himself.",
+      "tokens": [
+        {
+          "id": "leviticus-21-3-0",
+          "surface": "וְלַאֲחֹת֤וֹ",
+          "lemma": "אָחוֹת",
+          "translit": "vela'chotvo",
+          "morph": "Conjunction + Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H269"
+        },
+        {
+          "id": "leviticus-21-3-1",
+          "surface": "הַבְּתוּלָה֙",
+          "lemma": "בְּתוּלָה",
+          "translit": "habetvlah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1330"
+        },
+        {
+          "id": "leviticus-21-3-2",
+          "surface": "הַקְּרוֹבָ֣ה",
+          "lemma": "קָרוֹב",
+          "translit": "haqervobah",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7138"
+        },
+        {
+          "id": "leviticus-21-3-3",
+          "surface": "אֵלָ֔יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-3-4",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-21-3-5",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-3-6",
+          "surface": "הָיְתָ֖ה",
+          "lemma": "הָיָה",
+          "translit": "hayetah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "leviticus-21-3-7",
+          "surface": "לְאִ֑ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "le'iysh",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-21-3-8",
+          "surface": "לָ֖הּ",
+          "lemma": "לָ֖הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-21-3-9",
+          "surface": "יִטַּמָּֽא",
+          "lemma": "טָמֵא",
+          "translit": "yitama'",
+          "morph": "Verb Hithpael Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2930"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:4",
+      "englishText": "He shall not defile himself, being a chief man among his people, to profane himself.  ",
+      "tokens": [
+        {
+          "id": "leviticus-21-4-0",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-4-1",
+          "surface": "יִטַּמָּ֖א",
+          "lemma": "טָמֵא",
+          "translit": "yitama'",
+          "morph": "Verb Hithpael Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2930"
+        },
+        {
+          "id": "leviticus-21-4-2",
+          "surface": "בַּ֣עַל",
+          "lemma": "בַּעַל",
+          "translit": "ba`al",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1167"
+        },
+        {
+          "id": "leviticus-21-4-3",
+          "surface": "בְּעַמָּ֑יו",
+          "lemma": "עַם",
+          "translit": "be`amayv",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "leviticus-21-4-4",
+          "surface": "לְהֵ֖חַלּֽוֹ",
+          "lemma": "חָלַל",
+          "translit": "lehechalvo",
+          "morph": "Preposition + Verb Niphal Infinitive Construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2490"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:5",
+      "englishText": "  “‘They shall not shave their heads, neither shall they shave off the corners of their beards, nor make any cuttings in their flesh.",
+      "tokens": [
+        {
+          "id": "leviticus-21-5-0",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-5-1",
+          "surface": "יקרחה",
+          "lemma": "קָרַח",
+          "translit": "yqrchh",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7139"
+        },
+        {
+          "id": "leviticus-21-5-2",
+          "surface": "יִקְרְח֤וּ",
+          "lemma": "קָרַח",
+          "translit": "yiqerechv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7139"
+        },
+        {
+          "id": "leviticus-21-5-3",
+          "surface": "קָרְחָה֙",
+          "lemma": "קׇרְחָה",
+          "translit": "qarechah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7144"
+        },
+        {
+          "id": "leviticus-21-5-4",
+          "surface": "בְּרֹאשָׁ֔ם",
+          "lemma": "רֹאשׁ",
+          "translit": "bero'sham",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "leviticus-21-5-5",
+          "surface": "וּפְאַ֥ת",
+          "lemma": "פֵּאָה",
+          "translit": "vpe'at",
+          "morph": "Conjunction + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6285"
+        },
+        {
+          "id": "leviticus-21-5-6",
+          "surface": "זְקָנָ֖ם",
+          "lemma": "זָקָן",
+          "translit": "zeqanam",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H2206"
+        },
+        {
+          "id": "leviticus-21-5-7",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-5-8",
+          "surface": "יְגַלֵּ֑חוּ",
+          "lemma": "גָּלַח",
+          "translit": "yegalechv",
+          "morph": "Verb Piel Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1548"
+        },
+        {
+          "id": "leviticus-21-5-9",
+          "surface": "וּבִ֨בְשָׂרָ֔ם",
+          "lemma": "בָּשָׂר",
+          "translit": "vbibesharam",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1320"
+        },
+        {
+          "id": "leviticus-21-5-10",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-5-11",
+          "surface": "יִשְׂרְט֖וּ",
+          "lemma": "שָׂרַט",
+          "translit": "yisheretv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H8295"
+        },
+        {
+          "id": "leviticus-21-5-12",
+          "surface": "שָׂרָֽטֶת",
+          "lemma": "שֶׂרֶט",
+          "translit": "sharatet",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8296"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:6",
+      "englishText": "They shall be holy to their God, and not profane the name of their God; for they offer the offerings of Yahweh made by fire, the bread of their God; therefore they shall be holy.  ",
+      "tokens": [
+        {
+          "id": "leviticus-21-6-0",
+          "surface": "קְדֹשִׁ֤ים",
+          "lemma": "קָדוֹשׁ",
+          "translit": "qedoshiym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6918"
+        },
+        {
+          "id": "leviticus-21-6-1",
+          "surface": "יִהְיוּ֙",
+          "lemma": "הָיָה",
+          "translit": "yiheyv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "leviticus-21-6-2",
+          "surface": "לֵאלֹ֣הֵיהֶ֔ם",
+          "lemma": "אֱלֹהִים",
+          "translit": "le'loheyhem",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "leviticus-21-6-3",
+          "surface": "וְלֹ֣א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-6-4",
+          "surface": "יְחַלְּל֔וּ",
+          "lemma": "חָלַל",
+          "translit": "yechalelv",
+          "morph": "Verb Piel Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H2490"
+        },
+        {
+          "id": "leviticus-21-6-5",
+          "surface": "שֵׁ֖ם",
+          "lemma": "שֵׁם",
+          "translit": "shem",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "leviticus-21-6-6",
+          "surface": "אֱלֹהֵיהֶ֑ם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyhem",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "leviticus-21-6-7",
+          "surface": "כִּי֩",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-6-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-6-9",
+          "surface": "אִשֵּׁ֨י",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H801"
+        },
+        {
+          "id": "leviticus-21-6-10",
+          "surface": "יְהוָ֜ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-21-6-11",
+          "surface": "לֶ֧חֶם",
+          "lemma": "לֶחֶם",
+          "translit": "lechem",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3899"
+        },
+        {
+          "id": "leviticus-21-6-12",
+          "surface": "אֱלֹהֵיהֶ֛ם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyhem",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "leviticus-21-6-13",
+          "surface": "הֵ֥ם",
+          "lemma": "הֵם",
+          "translit": "hem",
+          "morph": "Pronoun plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1992"
+        },
+        {
+          "id": "leviticus-21-6-14",
+          "surface": "מַקְרִיבִ֖ם",
+          "lemma": "קָרַב",
+          "translit": "maqeriybim",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "leviticus-21-6-15",
+          "surface": "וְהָ֥יוּ",
+          "lemma": "הָיָה",
+          "translit": "vehayv",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "leviticus-21-6-16",
+          "surface": "קֹֽדֶשׁ",
+          "lemma": "קֹדֶשׁ",
+          "translit": "qodesh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6944"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:7",
+      "englishText": "  “‘They shall not marry a woman who is a prostitute, or profane; neither shall they marry a woman divorced from her husband; for he is holy to his God.",
+      "tokens": [
+        {
+          "id": "leviticus-21-7-0",
+          "surface": "אִשָּׁ֨ה",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-21-7-1",
+          "surface": "זֹנָ֤ה",
+          "lemma": "זָנָה",
+          "translit": "zonah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2181"
+        },
+        {
+          "id": "leviticus-21-7-2",
+          "surface": "וַחֲלָלָה֙",
+          "lemma": "חָלָל",
+          "translit": "vachlalah",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H2491"
+        },
+        {
+          "id": "leviticus-21-7-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-7-4",
+          "surface": "יִקָּ֔חוּ",
+          "lemma": "לָקַח",
+          "translit": "yiqachv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "leviticus-21-7-5",
+          "surface": "וְאִשָּׁ֛ה",
+          "lemma": "אִשָּׁה",
+          "translit": "ve'ishah",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-21-7-6",
+          "surface": "גְּרוּשָׁ֥ה",
+          "lemma": "גָּרַשׁ",
+          "translit": "gervshah",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H1644"
+        },
+        {
+          "id": "leviticus-21-7-7",
+          "surface": "מֵאִישָׁ֖הּ",
+          "lemma": "אִישׁ",
+          "translit": "me'iyshah",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-21-7-8",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-7-9",
+          "surface": "יִקָּ֑חוּ",
+          "lemma": "לָקַח",
+          "translit": "yiqachv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "leviticus-21-7-10",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-7-11",
+          "surface": "קָדֹ֥שׁ",
+          "lemma": "קָדוֹשׁ",
+          "translit": "qadosh",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6918"
+        },
+        {
+          "id": "leviticus-21-7-12",
+          "surface": "ה֖וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "leviticus-21-7-13",
+          "surface": "לֵאלֹהָֽיו",
+          "lemma": "אֱלֹהִים",
+          "translit": "le'lohayv",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:8",
+      "englishText": "You shall sanctify him therefore; for he offers the bread of your God. He shall be holy to you; for I Yahweh, who sanctify you, am holy.  ",
+      "tokens": [
+        {
+          "id": "leviticus-21-8-0",
+          "surface": "וְקִדַּשְׁתּ֔וֹ",
+          "lemma": "קָדַשׁ",
+          "translit": "veqidashetvo",
+          "morph": "Conjunction + Verb Piel Perfect 2nd masculine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6942"
+        },
+        {
+          "id": "leviticus-21-8-1",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-8-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-8-3",
+          "surface": "לֶ֥חֶם",
+          "lemma": "לֶחֶם",
+          "translit": "lechem",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3899"
+        },
+        {
+          "id": "leviticus-21-8-4",
+          "surface": "אֱלֹהֶ֖יךָ",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "leviticus-21-8-5",
+          "surface": "ה֣וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "leviticus-21-8-6",
+          "surface": "מַקְרִ֑יב",
+          "lemma": "קָרַב",
+          "translit": "maqeriyb",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "leviticus-21-8-7",
+          "surface": "קָדֹשׁ֙",
+          "lemma": "קָדוֹשׁ",
+          "translit": "qadosh",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6918"
+        },
+        {
+          "id": "leviticus-21-8-8",
+          "surface": "יִֽהְיֶה",
+          "lemma": "הָיָה",
+          "translit": "yiheyeh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "leviticus-21-8-9",
+          "surface": "לָּ֔ךְ",
+          "lemma": "לָּ֔ךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-21-8-10",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-8-11",
+          "surface": "קָד֔וֹשׁ",
+          "lemma": "קָדוֹשׁ",
+          "translit": "qadvosh",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6918"
+        },
+        {
+          "id": "leviticus-21-8-12",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-21-8-13",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-21-8-14",
+          "surface": "מְקַדִּשְׁכֶֽם",
+          "lemma": "קָדַשׁ",
+          "translit": "meqadishekem",
+          "morph": "Verb Piel Passive Participle + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H6942"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:9",
+      "englishText": "  “‘The daughter of any priest, if she profanes herself by playing the prostitute, she profanes her father. She shall be burned with fire.  ",
+      "tokens": [
+        {
+          "id": "leviticus-21-9-0",
+          "surface": "וּבַת֙",
+          "lemma": "בַּת",
+          "translit": "vbat",
+          "morph": "Conjunction + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-21-9-1",
+          "surface": "אִ֣ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-21-9-2",
+          "surface": "כֹּהֵ֔ן",
+          "lemma": "כֹּהֵן",
+          "translit": "kohen",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "leviticus-21-9-3",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-9-4",
+          "surface": "תֵחֵ֖ל",
+          "lemma": "חָלַל",
+          "translit": "techel",
+          "morph": "Verb Niphal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2490"
+        },
+        {
+          "id": "leviticus-21-9-5",
+          "surface": "לִזְנ֑וֹת",
+          "lemma": "זָנָה",
+          "translit": "lizenvot",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H2181"
+        },
+        {
+          "id": "leviticus-21-9-6",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-9-7",
+          "surface": "אָבִ֨יהָ֙",
+          "lemma": "אָב",
+          "translit": "'abiyha",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-21-9-8",
+          "surface": "הִ֣יא",
+          "lemma": "הוּא",
+          "translit": "hiy'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "leviticus-21-9-9",
+          "surface": "מְחַלֶּ֔לֶת",
+          "lemma": "חָלַל",
+          "translit": "mechalelet",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H2490"
+        },
+        {
+          "id": "leviticus-21-9-10",
+          "surface": "בָּאֵ֖שׁ",
+          "lemma": "אֵשׁ",
+          "translit": "ba'esh",
+          "morph": "Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H784"
+        },
+        {
+          "id": "leviticus-21-9-11",
+          "surface": "תִּשָּׂרֵֽף",
+          "lemma": "שָׂרַף",
+          "translit": "tisharep",
+          "morph": "Verb Niphal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H8313"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:10",
+      "englishText": "  “‘He who is the high priest among his brothers, upon whose head the anointing oil is poured, and that is consecrated to put on the garments, shall not let the hair of his head hang loose, nor tear his clothes;",
+      "tokens": [
+        {
+          "id": "leviticus-21-10-0",
+          "surface": "וְהַכֹּהֵן֩",
+          "lemma": "כֹּהֵן",
+          "translit": "vehakohen",
+          "morph": "Conjunction + Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "leviticus-21-10-1",
+          "surface": "הַגָּד֨וֹל",
+          "lemma": "גָּדוֹל",
+          "translit": "hagadvol",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H1419"
+        },
+        {
+          "id": "leviticus-21-10-2",
+          "surface": "מֵאֶחָ֜יו",
+          "lemma": "אָח",
+          "translit": "me'echayv",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H251"
+        },
+        {
+          "id": "leviticus-21-10-3",
+          "surface": "אֲֽשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-21-10-4",
+          "surface": "יוּצַ֥ק",
+          "lemma": "יָצַק",
+          "translit": "yvtsaq",
+          "morph": "Verb Hophal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3332"
+        },
+        {
+          "id": "leviticus-21-10-5",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "leviticus-21-10-6",
+          "surface": "רֹאשׁ֣וֹ",
+          "lemma": "רֹאשׁ",
+          "translit": "ro'shvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "leviticus-21-10-7",
+          "surface": "שֶׁ֤מֶן",
+          "lemma": "שֶׁמֶן",
+          "translit": "shemen",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8081"
+        },
+        {
+          "id": "leviticus-21-10-8",
+          "surface": "הַמִּשְׁחָה֙",
+          "lemma": "מִשְׁחָה",
+          "translit": "hamishechah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4888"
+        },
+        {
+          "id": "leviticus-21-10-9",
+          "surface": "וּמִלֵּ֣א",
+          "lemma": "מָלֵא",
+          "translit": "vmile'",
+          "morph": "Conjunction + Verb Piel Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4390"
+        },
+        {
+          "id": "leviticus-21-10-10",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-10-11",
+          "surface": "יָד֔וֹ",
+          "lemma": "יָד",
+          "translit": "yadvo",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "leviticus-21-10-12",
+          "surface": "לִלְבֹּ֖שׁ",
+          "lemma": "לָבַשׁ",
+          "translit": "lilebosh",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3847"
+        },
+        {
+          "id": "leviticus-21-10-13",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-10-14",
+          "surface": "הַבְּגָדִ֑ים",
+          "lemma": "בֶּגֶד",
+          "translit": "habegadiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H899"
+        },
+        {
+          "id": "leviticus-21-10-15",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-10-16",
+          "surface": "רֹאשׁוֹ֙",
+          "lemma": "רֹאשׁ",
+          "translit": "ro'shvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "leviticus-21-10-17",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-10-18",
+          "surface": "יִפְרָ֔ע",
+          "lemma": "פָּרַע",
+          "translit": "yipera`",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6544"
+        },
+        {
+          "id": "leviticus-21-10-19",
+          "surface": "וּבְגָדָ֖יו",
+          "lemma": "בֶּגֶד",
+          "translit": "vbegadayv",
+          "morph": "Conjunction + Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H899"
+        },
+        {
+          "id": "leviticus-21-10-20",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-10-21",
+          "surface": "יִפְרֹֽם",
+          "lemma": "פָּרַם",
+          "translit": "yiperom",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6533"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:11",
+      "englishText": "neither shall he go in to any dead body, nor defile himself for his father, or for his mother;",
+      "tokens": [
+        {
+          "id": "leviticus-21-11-0",
+          "surface": "וְעַ֛ל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "leviticus-21-11-1",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-21-11-2",
+          "surface": "נַפְשֹׁ֥ת",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napeshot",
+          "morph": "Noun common plural construct",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "leviticus-21-11-3",
+          "surface": "מֵ֖ת",
+          "lemma": "מוּת",
+          "translit": "met",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "leviticus-21-11-4",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-11-5",
+          "surface": "יָבֹ֑א",
+          "lemma": "בּוֹא",
+          "translit": "yabo'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "leviticus-21-11-6",
+          "surface": "לְאָבִ֥יו",
+          "lemma": "אָב",
+          "translit": "le'abiyv",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-21-11-7",
+          "surface": "וּלְאִמּ֖וֹ",
+          "lemma": "אֵם",
+          "translit": "vle'imvo",
+          "morph": "Conjunction + Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H517"
+        },
+        {
+          "id": "leviticus-21-11-8",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-11-9",
+          "surface": "יִטַּמָּֽא",
+          "lemma": "טָמֵא",
+          "translit": "yitama'",
+          "morph": "Verb Hithpael Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2930"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:12",
+      "englishText": "neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him. I am Yahweh.  ",
+      "tokens": [
+        {
+          "id": "leviticus-21-12-0",
+          "surface": "וּמִן",
+          "lemma": "מִן",
+          "translit": "vmin",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "leviticus-21-12-1",
+          "surface": "הַמִּקְדָּשׁ֙",
+          "lemma": "מִקְדָּשׁ",
+          "translit": "hamiqedash",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4720"
+        },
+        {
+          "id": "leviticus-21-12-2",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-12-3",
+          "surface": "יֵצֵ֔א",
+          "lemma": "יָצָא",
+          "translit": "yetse'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "leviticus-21-12-4",
+          "surface": "וְלֹ֣א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-12-5",
+          "surface": "יְחַלֵּ֔ל",
+          "lemma": "חָלַל",
+          "translit": "yechalel",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2490"
+        },
+        {
+          "id": "leviticus-21-12-6",
+          "surface": "אֵ֖ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-12-7",
+          "surface": "מִקְדַּ֣שׁ",
+          "lemma": "מִקְדָּשׁ",
+          "translit": "miqedash",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4720"
+        },
+        {
+          "id": "leviticus-21-12-8",
+          "surface": "אֱלֹהָ֑יו",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "leviticus-21-12-9",
+          "surface": "כִּ֡י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-12-10",
+          "surface": "נֵ֠זֶר",
+          "lemma": "נֶזֶר",
+          "translit": "nezer",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5145"
+        },
+        {
+          "id": "leviticus-21-12-11",
+          "surface": "שֶׁ֣מֶן",
+          "lemma": "שֶׁמֶן",
+          "translit": "shemen",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8081"
+        },
+        {
+          "id": "leviticus-21-12-12",
+          "surface": "מִשְׁחַ֧ת",
+          "lemma": "מִשְׁחָה",
+          "translit": "mishechat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4888"
+        },
+        {
+          "id": "leviticus-21-12-13",
+          "surface": "אֱלֹהָ֛יו",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "leviticus-21-12-14",
+          "surface": "עָלָ֖יו",
+          "lemma": "עַל",
+          "translit": "`alayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "leviticus-21-12-15",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-21-12-16",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:13",
+      "englishText": "  “‘He shall take a wife in her virginity.",
+      "tokens": [
+        {
+          "id": "leviticus-21-13-0",
+          "surface": "וְה֕וּא",
+          "lemma": "הוּא",
+          "translit": "vehv'",
+          "morph": "Conjunction + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "leviticus-21-13-1",
+          "surface": "אִשָּׁ֥ה",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-21-13-2",
+          "surface": "בִבְתוּלֶ֖יהָ",
+          "lemma": "בְּתוּלִים",
+          "translit": "bibetvleyha",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1331"
+        },
+        {
+          "id": "leviticus-21-13-3",
+          "surface": "יִקָּֽח",
+          "lemma": "לָקַח",
+          "translit": "yiqach",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:14",
+      "englishText": "A widow, or one divorced, or a woman who has been defiled, or a prostitute, these he shall not marry: but a virgin of his own people shall he take as a wife.",
+      "tokens": [
+        {
+          "id": "leviticus-21-14-0",
+          "surface": "אַלְמָנָ֤ה",
+          "lemma": "אַלְמָנָה",
+          "translit": "'alemanah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H490"
+        },
+        {
+          "id": "leviticus-21-14-1",
+          "surface": "וּגְרוּשָׁה֙",
+          "lemma": "גָּרַשׁ",
+          "translit": "vgervshah",
+          "morph": "Conjunction + Verb Qal s",
+          "glosses": [],
+          "strongs": "H1644"
+        },
+        {
+          "id": "leviticus-21-14-2",
+          "surface": "וַחֲלָלָ֣ה",
+          "lemma": "חָלָל",
+          "translit": "vachlalah",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H2491"
+        },
+        {
+          "id": "leviticus-21-14-3",
+          "surface": "זֹנָ֔ה",
+          "lemma": "זָנָה",
+          "translit": "zonah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2181"
+        },
+        {
+          "id": "leviticus-21-14-4",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-14-5",
+          "surface": "אֵ֖לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "leviticus-21-14-6",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-14-7",
+          "surface": "יִקָּ֑ח",
+          "lemma": "לָקַח",
+          "translit": "yiqach",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "leviticus-21-14-8",
+          "surface": "כִּ֛י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-14-9",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "leviticus-21-14-10",
+          "surface": "בְּתוּלָ֥ה",
+          "lemma": "בְּתוּלָה",
+          "translit": "betvlah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1330"
+        },
+        {
+          "id": "leviticus-21-14-11",
+          "surface": "מֵעַמָּ֖יו",
+          "lemma": "עַם",
+          "translit": "me`amayv",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "leviticus-21-14-12",
+          "surface": "יִקַּ֥ח",
+          "lemma": "לָקַח",
+          "translit": "yiqach",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "leviticus-21-14-13",
+          "surface": "אִשָּֽׁה",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:15",
+      "englishText": "He shall not profane his seed among his people, for I am Yahweh who sanctifies him.’”  ",
+      "tokens": [
+        {
+          "id": "leviticus-21-15-0",
+          "surface": "וְלֹֽא",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-15-1",
+          "surface": "יְחַלֵּ֥ל",
+          "lemma": "חָלַל",
+          "translit": "yechalel",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2490"
+        },
+        {
+          "id": "leviticus-21-15-2",
+          "surface": "זַרְע֖וֹ",
+          "lemma": "זֶרַע",
+          "translit": "zare`vo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2233"
+        },
+        {
+          "id": "leviticus-21-15-3",
+          "surface": "בְּעַמָּ֑יו",
+          "lemma": "עַם",
+          "translit": "be`amayv",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "leviticus-21-15-4",
+          "surface": "כִּ֛י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-15-5",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-21-15-6",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-21-15-7",
+          "surface": "מְקַדְּשֽׁוֹ",
+          "lemma": "קָדַשׁ",
+          "translit": "meqadeshvo",
+          "morph": "Verb Piel Passive Participle + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6942"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:16",
+      "englishText": "  Yahweh spoke to Moses, saying,",
+      "tokens": [
+        {
+          "id": "leviticus-21-16-0",
+          "surface": "וַיְדַבֵּ֥ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "leviticus-21-16-1",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-21-16-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-16-3",
+          "surface": "מֹשֶׁ֥ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "leviticus-21-16-4",
+          "surface": "לֵּאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:17",
+      "englishText": "“Say to Aaron, ‘None of your seed throughout their generations who has a defect may approach to offer the bread of his God.",
+      "tokens": [
+        {
+          "id": "leviticus-21-17-0",
+          "surface": "דַּבֵּ֥ר",
+          "lemma": "דָבַר",
+          "translit": "daber",
+          "morph": "Verb Piel Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "leviticus-21-17-1",
+          "surface": "אֶֽל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-17-2",
+          "surface": "אַהֲרֹ֖ן",
+          "lemma": "אַהֲרוֹן",
+          "translit": "'ahron",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H175"
+        },
+        {
+          "id": "leviticus-21-17-3",
+          "surface": "לֵאמֹ֑ר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "leviticus-21-17-4",
+          "surface": "אִ֣ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-21-17-5",
+          "surface": "מִֽזַּרְעֲךָ֞",
+          "lemma": "זֶרַע",
+          "translit": "mizare`ka",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2233"
+        },
+        {
+          "id": "leviticus-21-17-6",
+          "surface": "לְדֹרֹתָ֗ם",
+          "lemma": "דּוֹר",
+          "translit": "ledorotam",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1755"
+        },
+        {
+          "id": "leviticus-21-17-7",
+          "surface": "אֲשֶׁ֨ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-21-17-8",
+          "surface": "יִהְיֶ֥ה",
+          "lemma": "הָיָה",
+          "translit": "yiheyeh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "leviticus-21-17-9",
+          "surface": "בוֹ֙",
+          "lemma": "בוֹ֙",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-21-17-10",
+          "surface": "מ֔וּם",
+          "lemma": "מאוּם",
+          "translit": "mvm",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3971"
+        },
+        {
+          "id": "leviticus-21-17-11",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-17-12",
+          "surface": "יִקְרַ֔ב",
+          "lemma": "קָרַב",
+          "translit": "yiqerab",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "leviticus-21-17-13",
+          "surface": "לְהַקְרִ֖יב",
+          "lemma": "קָרַב",
+          "translit": "lehaqeriyb",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "leviticus-21-17-14",
+          "surface": "לֶ֥חֶם",
+          "lemma": "לֶחֶם",
+          "translit": "lechem",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3899"
+        },
+        {
+          "id": "leviticus-21-17-15",
+          "surface": "אֱלֹהָֽיו",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:18",
+      "englishText": "For whatever man he is that has a defect, he shall not draw near: a blind man, or a lame, or he who has a flat nose, or any deformity,",
+      "tokens": [
+        {
+          "id": "leviticus-21-18-0",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-18-1",
+          "surface": "כָל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-21-18-2",
+          "surface": "אִ֛ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-21-18-3",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-21-18-4",
+          "surface": "בּ֥וֹ",
+          "lemma": "בּ֥וֹ",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-21-18-5",
+          "surface": "מ֖וּם",
+          "lemma": "מאוּם",
+          "translit": "mvm",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3971"
+        },
+        {
+          "id": "leviticus-21-18-6",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-18-7",
+          "surface": "יִקְרָ֑ב",
+          "lemma": "קָרַב",
+          "translit": "yiqerab",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "leviticus-21-18-8",
+          "surface": "אִ֤ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-21-18-9",
+          "surface": "עִוֵּר֙",
+          "lemma": "עִוֵּר",
+          "translit": "`iver",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5787"
+        },
+        {
+          "id": "leviticus-21-18-10",
+          "surface": "א֣וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-18-11",
+          "surface": "פִסֵּ֔חַ",
+          "lemma": "פִּסֵּחַ",
+          "translit": "pisecha",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6455"
+        },
+        {
+          "id": "leviticus-21-18-12",
+          "surface": "א֥וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-18-13",
+          "surface": "חָרֻ֖ם",
+          "lemma": "חָרַם",
+          "translit": "charum",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H2763"
+        },
+        {
+          "id": "leviticus-21-18-14",
+          "surface": "א֥וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-18-15",
+          "surface": "שָׂרֽוּעַ",
+          "lemma": "שָׂרַע",
+          "translit": "sharv`a",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H8311"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:19",
+      "englishText": "or a man who has an injured foot, or an injured hand,",
+      "tokens": [
+        {
+          "id": "leviticus-21-19-0",
+          "surface": "א֣וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-19-1",
+          "surface": "אִ֔ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-21-19-2",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-21-19-3",
+          "surface": "יִהְיֶ֥ה",
+          "lemma": "הָיָה",
+          "translit": "yiheyeh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "leviticus-21-19-4",
+          "surface": "ב֖וֹ",
+          "lemma": "ב֖וֹ",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-21-19-5",
+          "surface": "שֶׁ֣בֶר",
+          "lemma": "שֶׁבֶר",
+          "translit": "sheber",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7667"
+        },
+        {
+          "id": "leviticus-21-19-6",
+          "surface": "רָ֑גֶל",
+          "lemma": "רֶגֶל",
+          "translit": "ragel",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7272"
+        },
+        {
+          "id": "leviticus-21-19-7",
+          "surface": "א֖וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-19-8",
+          "surface": "שֶׁ֥בֶר",
+          "lemma": "שֶׁבֶר",
+          "translit": "sheber",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7667"
+        },
+        {
+          "id": "leviticus-21-19-9",
+          "surface": "יָֽד",
+          "lemma": "יָד",
+          "translit": "yad",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H3027"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:20",
+      "englishText": "or hunchbacked, or a dwarf, or one who has a defect in his eye, or an itching disease, or scabs, or who has damaged testicles.",
+      "tokens": [
+        {
+          "id": "leviticus-21-20-0",
+          "surface": "אֽוֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-20-1",
+          "surface": "גִבֵּ֣ן",
+          "lemma": "גִּבֵּן",
+          "translit": "giben",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1384"
+        },
+        {
+          "id": "leviticus-21-20-2",
+          "surface": "אוֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-20-3",
+          "surface": "דַ֔ק",
+          "lemma": "דַּק",
+          "translit": "daq",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1851"
+        },
+        {
+          "id": "leviticus-21-20-4",
+          "surface": "א֖וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-20-5",
+          "surface": "תְּבַלֻּ֣ל",
+          "lemma": "תְּבַּלֻּל",
+          "translit": "tebalul",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8400"
+        },
+        {
+          "id": "leviticus-21-20-6",
+          "surface": "בְּעֵינ֑וֹ",
+          "lemma": "עַיִן",
+          "translit": "be`eynvo",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "leviticus-21-20-7",
+          "surface": "א֤וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-20-8",
+          "surface": "גָרָב֙",
+          "lemma": "גָּרָב",
+          "translit": "garab",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1618"
+        },
+        {
+          "id": "leviticus-21-20-9",
+          "surface": "א֣וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-20-10",
+          "surface": "יַלֶּ֔פֶת",
+          "lemma": "יַלֶּפֶת",
+          "translit": "yalepet",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H3217"
+        },
+        {
+          "id": "leviticus-21-20-11",
+          "surface": "א֖וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-21-20-12",
+          "surface": "מְר֥וֹחַ",
+          "lemma": "מְרוֹחַ",
+          "translit": "mervocha",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H4790"
+        },
+        {
+          "id": "leviticus-21-20-13",
+          "surface": "אָֽשֶׁךְ",
+          "lemma": "אֶשֶׁךְ",
+          "translit": "'asheke",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H810"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:21",
+      "englishText": "No man of the seed of Aaron the priest who has a defect shall come near to offer the offerings of Yahweh made by fire. Since he has a defect, he shall not come near to offer the bread of his God.",
+      "tokens": [
+        {
+          "id": "leviticus-21-21-0",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-21-21-1",
+          "surface": "אִ֞ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-21-21-2",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-21-21-3",
+          "surface": "בּ֣וֹ",
+          "lemma": "בּ֣וֹ",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-21-21-4",
+          "surface": "מ֗וּם",
+          "lemma": "מאוּם",
+          "translit": "mvm",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3971"
+        },
+        {
+          "id": "leviticus-21-21-5",
+          "surface": "מִזֶּ֨רַע֙",
+          "lemma": "זֶרַע",
+          "translit": "mizera`",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2233"
+        },
+        {
+          "id": "leviticus-21-21-6",
+          "surface": "אַהֲרֹ֣ן",
+          "lemma": "אַהֲרוֹן",
+          "translit": "'ahron",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H175"
+        },
+        {
+          "id": "leviticus-21-21-7",
+          "surface": "הַכֹּהֵ֔ן",
+          "lemma": "כֹּהֵן",
+          "translit": "hakohen",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "leviticus-21-21-8",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-21-9",
+          "surface": "יִגַּ֔שׁ",
+          "lemma": "נָגַשׁ",
+          "translit": "yigash",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "leviticus-21-21-10",
+          "surface": "לְהַקְרִ֖יב",
+          "lemma": "קָרַב",
+          "translit": "lehaqeriyb",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "leviticus-21-21-11",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-21-12",
+          "surface": "אִשֵּׁ֣י",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H801"
+        },
+        {
+          "id": "leviticus-21-21-13",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-21-21-14",
+          "surface": "מ֣וּם",
+          "lemma": "מאוּם",
+          "translit": "mvm",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3971"
+        },
+        {
+          "id": "leviticus-21-21-15",
+          "surface": "בּ֔וֹ",
+          "lemma": "בּ֔וֹ",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-21-21-16",
+          "surface": "אֵ֚ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-21-17",
+          "surface": "לֶ֣חֶם",
+          "lemma": "לֶחֶם",
+          "translit": "lechem",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3899"
+        },
+        {
+          "id": "leviticus-21-21-18",
+          "surface": "אֱלֹהָ֔יו",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "leviticus-21-21-19",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-21-20",
+          "surface": "יִגַּ֖שׁ",
+          "lemma": "נָגַשׁ",
+          "translit": "yigash",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "leviticus-21-21-21",
+          "surface": "לְהַקְרִֽיב",
+          "lemma": "קָרַב",
+          "translit": "lehaqeriyb",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7126"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:22",
+      "englishText": "He shall eat the bread of his God, both of the most holy, and of the holy.",
+      "tokens": [
+        {
+          "id": "leviticus-21-22-0",
+          "surface": "לֶ֣חֶם",
+          "lemma": "לֶחֶם",
+          "translit": "lechem",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3899"
+        },
+        {
+          "id": "leviticus-21-22-1",
+          "surface": "אֱלֹהָ֔יו",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "leviticus-21-22-2",
+          "surface": "מִקָּדְשֵׁ֖י",
+          "lemma": "קֹדֶשׁ",
+          "translit": "miqadeshey",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H6944"
+        },
+        {
+          "id": "leviticus-21-22-3",
+          "surface": "הַקֳּדָשִׁ֑ים",
+          "lemma": "קֹדֶשׁ",
+          "translit": "haqdashiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6944"
+        },
+        {
+          "id": "leviticus-21-22-4",
+          "surface": "וּמִן",
+          "lemma": "מִן",
+          "translit": "vmin",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "leviticus-21-22-5",
+          "surface": "הַקֳּדָשִׁ֖ים",
+          "lemma": "קֹדֶשׁ",
+          "translit": "haqdashiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6944"
+        },
+        {
+          "id": "leviticus-21-22-6",
+          "surface": "יֹאכֵֽל",
+          "lemma": "אָכַל",
+          "translit": "yo'kel",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H398"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:23",
+      "englishText": "He shall not come near to the veil, nor come near to the altar, because he has a defect; that he may not profane my sanctuaries, for I am Yahweh who sanctifies them.’”  ",
+      "tokens": [
+        {
+          "id": "leviticus-21-23-0",
+          "surface": "אַ֣ךְ",
+          "lemma": "אַךְ",
+          "translit": "'ake",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H389"
+        },
+        {
+          "id": "leviticus-21-23-1",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-23-2",
+          "surface": "הַפָּרֹ֜כֶת",
+          "lemma": "פֹּרֶכֶת",
+          "translit": "haparoket",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6532"
+        },
+        {
+          "id": "leviticus-21-23-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-23-4",
+          "surface": "יָבֹ֗א",
+          "lemma": "בּוֹא",
+          "translit": "yabo'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "leviticus-21-23-5",
+          "surface": "וְאֶל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-23-6",
+          "surface": "הַמִּזְבֵּ֛חַ",
+          "lemma": "מִזְבֵּחַ",
+          "translit": "hamizebecha",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4196"
+        },
+        {
+          "id": "leviticus-21-23-7",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-23-8",
+          "surface": "יִגַּ֖שׁ",
+          "lemma": "נָגַשׁ",
+          "translit": "yigash",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "leviticus-21-23-9",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-23-10",
+          "surface": "מ֣וּם",
+          "lemma": "מאוּם",
+          "translit": "mvm",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3971"
+        },
+        {
+          "id": "leviticus-21-23-11",
+          "surface": "בּ֑וֹ",
+          "lemma": "בּ֑וֹ",
+          "translit": "bvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-21-23-12",
+          "surface": "וְלֹ֤א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-21-23-13",
+          "surface": "יְחַלֵּל֙",
+          "lemma": "חָלַל",
+          "translit": "yechalel",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2490"
+        },
+        {
+          "id": "leviticus-21-23-14",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-21-23-15",
+          "surface": "מִקְדָּשַׁ֔י",
+          "lemma": "מִקְדָּשׁ",
+          "translit": "miqedashay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H4720"
+        },
+        {
+          "id": "leviticus-21-23-16",
+          "surface": "כִּ֛י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-21-23-17",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-21-23-18",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-21-23-19",
+          "surface": "מְקַדְּשָֽׁם",
+          "lemma": "קָדַשׁ",
+          "translit": "meqadesham",
+          "morph": "Verb Piel Passive Participle + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6942"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 21:24",
+      "englishText": "  So Moses spoke to Aaron, and to his sons, and to all the children of Israel.   ",
+      "tokens": [
+        {
+          "id": "leviticus-21-24-0",
+          "surface": "וַיְדַבֵּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "leviticus-21-24-1",
+          "surface": "מֹשֶׁ֔ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "leviticus-21-24-2",
+          "surface": "אֶֽל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-24-3",
+          "surface": "אַהֲרֹ֖ן",
+          "lemma": "אַהֲרוֹן",
+          "translit": "'ahron",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H175"
+        },
+        {
+          "id": "leviticus-21-24-4",
+          "surface": "וְאֶל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-24-5",
+          "surface": "בָּנָ֑יו",
+          "lemma": "בֵּן",
+          "translit": "banayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "leviticus-21-24-6",
+          "surface": "וְאֶֽל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-21-24-7",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-21-24-8",
+          "surface": "בְּנֵ֖י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "leviticus-21-24-9",
+          "surface": "יִשְׂרָאֵֽל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

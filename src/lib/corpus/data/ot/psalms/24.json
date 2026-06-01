@@ -1,1 +1,887 @@
-{"id":"psalms-24","name":"Psalms","chapter":24,"verses":[{"ref":"Psalms 24:1","englishText":"    The earth is Yahweh’s, with its fullness; the world, and those who dwell therein. ","tokens":[{"id":"psalms-24-1-0","surface":"לְדָוִ֗ד","lemma":"דָּוִד","translit":"ledavid","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1732"},{"id":"psalms-24-1-1","surface":"מִ֫זְמ֥וֹר","lemma":"מִזְמוֹר","translit":"mizemvor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4210"},{"id":"psalms-24-1-2","surface":"לַֽ֭יהוָה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-24-1-3","surface":"הָאָ֣רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"psalms-24-1-4","surface":"וּמְלוֹאָ֑הּ","lemma":"מְלֹא","translit":"vmelvo'ah","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H4393"},{"id":"psalms-24-1-5","surface":"תֵּ֝בֵ֗ל","lemma":"תֵּבֵל","translit":"tebel","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8398"},{"id":"psalms-24-1-6","surface":"וְיֹ֣שְׁבֵי","lemma":"יָשַׁב","translit":"veyoshebey","morph":"Conjunction + Verb Qal Passive Participle","glosses":[],"strongs":"H3427"},{"id":"psalms-24-1-7","surface":"בָֽהּ","lemma":"בָֽהּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Psalms 24:2","englishText":"For he has founded it on the seas, and established it on the floods.   ","tokens":[{"id":"psalms-24-2-0","surface":"כִּי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-24-2-1","surface":"ה֭וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"psalms-24-2-2","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"psalms-24-2-3","surface":"יַמִּ֣ים","lemma":"יָם","translit":"yamiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H3220"},{"id":"psalms-24-2-4","surface":"יְסָדָ֑הּ","lemma":"יָסַד","translit":"yesadah","morph":"Verb Qal Participle 3rd masculine singular + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3245"},{"id":"psalms-24-2-5","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"psalms-24-2-6","surface":"נְ֝הָר֗וֹת","lemma":"נָהָר","translit":"neharvot","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H5104"},{"id":"psalms-24-2-7","surface":"יְכוֹנְנֶֽהָ","lemma":"כּוּן","translit":"yekvoneneha","morph":"Verb Polel Imperative 3rd masculine singular + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3559"}],"language":"hebrew"},{"ref":"Psalms 24:3","englishText":"Who may ascend to Yahweh’s hill? Who may stand in his holy place? ","tokens":[{"id":"psalms-24-3-0","surface":"מִֽי","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"psalms-24-3-1","surface":"יַעֲלֶ֥ה","lemma":"עָלָה","translit":"ya`leh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"psalms-24-3-2","surface":"בְהַר","lemma":"הַר","translit":"behar","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H2022"},{"id":"psalms-24-3-3","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-24-3-4","surface":"וּמִי","lemma":"מִי","translit":"vmiy","morph":"Conjunction + Particle","glosses":[],"strongs":"H4310"},{"id":"psalms-24-3-5","surface":"יָ֝קוּם","lemma":"קוּם","translit":"yaqvm","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H6965"},{"id":"psalms-24-3-6","surface":"בִּמְק֥וֹם","lemma":"מָקוֹם","translit":"bimeqvom","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4725"},{"id":"psalms-24-3-7","surface":"קָדְשֽׁוֹ","lemma":"קֹדֶשׁ","translit":"qadeshvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6944"}],"language":"hebrew"},{"ref":"Psalms 24:4","englishText":"He who has clean hands and a pure heart; who has not lifted up his soul to falsehood, and has not sworn deceitfully. ","tokens":[{"id":"psalms-24-4-0","surface":"נְקִ֥י","lemma":"נָקִי","translit":"neqiy","morph":"Adjective","glosses":[],"strongs":"H5355"},{"id":"psalms-24-4-1","surface":"כַפַּ֗יִם","lemma":"כַּף","translit":"kapayim","morph":"Noun common feminine dual absolute","glosses":[],"strongs":"H3709"},{"id":"psalms-24-4-2","surface":"וּֽבַר","lemma":"בַּר","translit":"vbar","morph":"Conjunction + Adjective","glosses":[],"strongs":"H1249"},{"id":"psalms-24-4-3","surface":"לֵ֫בָ֥ב","lemma":"לֵבָב","translit":"lebab","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3824"},{"id":"psalms-24-4-4","surface":"אֲשֶׁ֤ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"psalms-24-4-5","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"psalms-24-4-6","surface":"נָשָׂ֣א","lemma":"נָשָׂא","translit":"nasha'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5375"},{"id":"psalms-24-4-7","surface":"לַשָּׁ֣וְא","lemma":"שָׁוְא","translit":"lashave'","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7723"},{"id":"psalms-24-4-8","surface":"נַפְשִׁ֑י","lemma":"נֶפֶשׁ","translit":"napeshiy","morph":"Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5315"},{"id":"psalms-24-4-9","surface":"וְלֹ֖א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"psalms-24-4-10","surface":"נִשְׁבַּ֣ע","lemma":"שָׁבַע","translit":"nisheba`","morph":"Verb Niphal Participle 3rd masculine singular","glosses":[],"strongs":"H7650"},{"id":"psalms-24-4-11","surface":"לְמִרְמָֽה","lemma":"מִרְמָה","translit":"lemiremah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H4820"}],"language":"hebrew"},{"ref":"Psalms 24:5","englishText":"He shall receive a blessing from Yahweh, righteousness from the God of his salvation. ","tokens":[{"id":"psalms-24-5-0","surface":"יִשָּׂ֣א","lemma":"נָשָׂא","translit":"yisha'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5375"},{"id":"psalms-24-5-1","surface":"בְ֭רָכָה","lemma":"בְּרָכָה","translit":"berakah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H1293"},{"id":"psalms-24-5-2","surface":"מֵאֵ֣ת","lemma":"אֵת","translit":"me'et","morph":"Preposition + Preposition","glosses":[],"strongs":"H854"},{"id":"psalms-24-5-3","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-24-5-4","surface":"וּ֝צְדָקָ֗ה","lemma":"צְדָקָה","translit":"vtsedaqah","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H6666"},{"id":"psalms-24-5-5","surface":"מֵאֱלֹהֵ֥י","lemma":"אֱלֹהִים","translit":"me'lohey","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"psalms-24-5-6","surface":"יִשְׁעֽוֹ","lemma":"יֶשַׁע","translit":"yishe`vo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3468"}],"language":"hebrew"},{"ref":"Psalms 24:6","englishText":"This is the generation of those who seek Him, who seek your face—even Jacob. Selah.   ","tokens":[{"id":"psalms-24-6-0","surface":"זֶ֭ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"psalms-24-6-1","surface":"דּ֣וֹר","lemma":"דּוֹר","translit":"dvor","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1755"},{"id":"psalms-24-6-2","surface":"דרשו","lemma":"דָּרַשׁ","translit":"drshv","morph":"Verb Qal Passive Participle + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1875"},{"id":"psalms-24-6-3","surface":"דֹּרְשָׁ֑יו","lemma":"דָּרַשׁ","translit":"doreshayv","morph":"Verb Qal Passive Participle + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1875"},{"id":"psalms-24-6-4","surface":"מְבַקְשֵׁ֨י","lemma":"בָּקַשׁ","translit":"mebaqeshey","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H1245"},{"id":"psalms-24-6-5","surface":"פָנֶ֖יךָ","lemma":"פָּנִים","translit":"paneyka","morph":"Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6440"},{"id":"psalms-24-6-6","surface":"יַעֲקֹ֣ב","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"psalms-24-6-7","surface":"סֶֽלָה","lemma":"סֶלָה","translit":"selah","morph":"Particle","glosses":[],"strongs":"H5542"}],"language":"hebrew"},{"ref":"Psalms 24:7","englishText":"Lift up your heads, you gates! Be lifted up, you everlasting doors, and the King of glory will come in. ","tokens":[{"id":"psalms-24-7-0","surface":"שְׂא֤וּ","lemma":"נָשָׂא","translit":"she'v","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5375"},{"id":"psalms-24-7-1","surface":"שְׁעָרִ֨ים","lemma":"שַׁעַר","translit":"she`ariym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8179"},{"id":"psalms-24-7-2","surface":"רָֽאשֵׁיכֶ֗ם","lemma":"רֹאשׁ","translit":"ra'sheykem","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H7218"},{"id":"psalms-24-7-3","surface":"וְֽ֭הִנָּשְׂאוּ","lemma":"נָשָׂא","translit":"vehinashe'v","morph":"Conjunction + Verb Niphal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5375"},{"id":"psalms-24-7-4","surface":"פִּתְחֵ֣י","lemma":"פֶּתַח","translit":"pitechey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H6607"},{"id":"psalms-24-7-5","surface":"עוֹלָ֑ם","lemma":"עוֹלָם","translit":"`volam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5769"},{"id":"psalms-24-7-6","surface":"וְ֝יָב֗וֹא","lemma":"בּוֹא","translit":"veyabvo'","morph":"Conjunction + Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"psalms-24-7-7","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"psalms-24-7-8","surface":"הַכָּבֽוֹד","lemma":"כָּבוֹד","translit":"hakabvod","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H3519"}],"language":"hebrew"},{"ref":"Psalms 24:8","englishText":"Who is the King of glory? Yahweh strong and mighty, Yahweh mighty in battle. ","tokens":[{"id":"psalms-24-8-0","surface":"מִ֥י","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"psalms-24-8-1","surface":"זֶה֮","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"psalms-24-8-2","surface":"מֶ֤לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"psalms-24-8-3","surface":"הַכָּ֫ב֥וֹד","lemma":"כָּבוֹד","translit":"hakabvod","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H3519"},{"id":"psalms-24-8-4","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-24-8-5","surface":"עִזּ֣וּז","lemma":"עִזּוּז","translit":"`izvz","morph":"Adjective","glosses":[],"strongs":"H5808"},{"id":"psalms-24-8-6","surface":"וְגִבּ֑וֹר","lemma":"גִּבּוֹר","translit":"vegibvor","morph":"Conjunction + Adjective","glosses":[],"strongs":"H1368"},{"id":"psalms-24-8-7","surface":"יְ֝הוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-24-8-8","surface":"גִּבּ֥וֹר","lemma":"גִּבּוֹר","translit":"gibvor","morph":"Adjective","glosses":[],"strongs":"H1368"},{"id":"psalms-24-8-9","surface":"מִלְחָמָֽה","lemma":"מִלְחָמָה","translit":"milechamah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H4421"}],"language":"hebrew"},{"ref":"Psalms 24:9","englishText":"Lift up your heads, you gates; yes, lift them up, you everlasting doors, and the King of glory will come in. ","tokens":[{"id":"psalms-24-9-0","surface":"שְׂא֤וּ","lemma":"נָשָׂא","translit":"she'v","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5375"},{"id":"psalms-24-9-1","surface":"שְׁעָרִ֨ים","lemma":"שַׁעַר","translit":"she`ariym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8179"},{"id":"psalms-24-9-2","surface":"רָֽאשֵׁיכֶ֗ם","lemma":"רֹאשׁ","translit":"ra'sheykem","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H7218"},{"id":"psalms-24-9-3","surface":"וּ֭שְׂאוּ","lemma":"נָשָׂא","translit":"vshe'v","morph":"Conjunction + Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5375"},{"id":"psalms-24-9-4","surface":"פִּתְחֵ֣י","lemma":"פֶּתַח","translit":"pitechey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H6607"},{"id":"psalms-24-9-5","surface":"עוֹלָ֑ם","lemma":"עוֹלָם","translit":"`volam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5769"},{"id":"psalms-24-9-6","surface":"וְ֝יָבֹא","lemma":"בּוֹא","translit":"veyabo'","morph":"Conjunction + Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"psalms-24-9-7","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"psalms-24-9-8","surface":"הַכָּבֽוֹד","lemma":"כָּבוֹד","translit":"hakabvod","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H3519"}],"language":"hebrew"},{"ref":"Psalms 24:10","englishText":"Who is this King of glory? Yahweh of Armies is the King of glory! Selah.   ","tokens":[{"id":"psalms-24-10-0","surface":"מִ֤י","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"psalms-24-10-1","surface":"ה֣וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"psalms-24-10-2","surface":"זֶה֮","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"psalms-24-10-3","surface":"מֶ֤לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"psalms-24-10-4","surface":"הַכָּ֫ב֥וֹד","lemma":"כָּבוֹד","translit":"hakabvod","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H3519"},{"id":"psalms-24-10-5","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-24-10-6","surface":"צְבָא֑וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"psalms-24-10-7","surface":"ה֤וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"psalms-24-10-8","surface":"מֶ֖לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"psalms-24-10-9","surface":"הַכָּב֣וֹד","lemma":"כָּבוֹד","translit":"hakabvod","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H3519"},{"id":"psalms-24-10-10","surface":"סֶֽלָה","lemma":"סֶלָה","translit":"selah","morph":"Particle","glosses":[],"strongs":"H5542"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-24",
+  "name": "Psalms",
+  "chapter": 24,
+  "verses": [
+    {
+      "ref": "Psalms 24:1",
+      "englishText": "    The earth is Yahweh’s, with its fullness; the world, and those who dwell therein. ",
+      "tokens": [
+        {
+          "id": "psalms-24-1-0",
+          "surface": "לְדָוִ֗ד",
+          "lemma": "דָּוִד",
+          "translit": "ledavid",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1732"
+        },
+        {
+          "id": "psalms-24-1-1",
+          "surface": "מִ֫זְמ֥וֹר",
+          "lemma": "מִזְמוֹר",
+          "translit": "mizemvor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4210"
+        },
+        {
+          "id": "psalms-24-1-2",
+          "surface": "לַֽ֭יהוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-24-1-3",
+          "surface": "הָאָ֣רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "psalms-24-1-4",
+          "surface": "וּמְלוֹאָ֑הּ",
+          "lemma": "מְלֹא",
+          "translit": "vmelvo'ah",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4393"
+        },
+        {
+          "id": "psalms-24-1-5",
+          "surface": "תֵּ֝בֵ֗ל",
+          "lemma": "תֵּבֵל",
+          "translit": "tebel",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8398"
+        },
+        {
+          "id": "psalms-24-1-6",
+          "surface": "וְיֹ֣שְׁבֵי",
+          "lemma": "יָשַׁב",
+          "translit": "veyoshebey",
+          "morph": "Conjunction + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "psalms-24-1-7",
+          "surface": "בָֽהּ",
+          "lemma": "בָֽהּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 24:2",
+      "englishText": "For he has founded it on the seas, and established it on the floods.   ",
+      "tokens": [
+        {
+          "id": "psalms-24-2-0",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-24-2-1",
+          "surface": "ה֭וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "psalms-24-2-2",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-24-2-3",
+          "surface": "יַמִּ֣ים",
+          "lemma": "יָם",
+          "translit": "yamiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3220"
+        },
+        {
+          "id": "psalms-24-2-4",
+          "surface": "יְסָדָ֑הּ",
+          "lemma": "יָסַד",
+          "translit": "yesadah",
+          "morph": "Verb Qal Participle 3rd masculine singular + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3245"
+        },
+        {
+          "id": "psalms-24-2-5",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-24-2-6",
+          "surface": "נְ֝הָר֗וֹת",
+          "lemma": "נָהָר",
+          "translit": "neharvot",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5104"
+        },
+        {
+          "id": "psalms-24-2-7",
+          "surface": "יְכוֹנְנֶֽהָ",
+          "lemma": "כּוּן",
+          "translit": "yekvoneneha",
+          "morph": "Verb Polel Imperative 3rd masculine singular + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 24:3",
+      "englishText": "Who may ascend to Yahweh’s hill? Who may stand in his holy place? ",
+      "tokens": [
+        {
+          "id": "psalms-24-3-0",
+          "surface": "מִֽי",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "psalms-24-3-1",
+          "surface": "יַעֲלֶ֥ה",
+          "lemma": "עָלָה",
+          "translit": "ya`leh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "psalms-24-3-2",
+          "surface": "בְהַר",
+          "lemma": "הַר",
+          "translit": "behar",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "psalms-24-3-3",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-24-3-4",
+          "surface": "וּמִי",
+          "lemma": "מִי",
+          "translit": "vmiy",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "psalms-24-3-5",
+          "surface": "יָ֝קוּם",
+          "lemma": "קוּם",
+          "translit": "yaqvm",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "psalms-24-3-6",
+          "surface": "בִּמְק֥וֹם",
+          "lemma": "מָקוֹם",
+          "translit": "bimeqvom",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4725"
+        },
+        {
+          "id": "psalms-24-3-7",
+          "surface": "קָדְשֽׁוֹ",
+          "lemma": "קֹדֶשׁ",
+          "translit": "qadeshvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6944"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 24:4",
+      "englishText": "He who has clean hands and a pure heart; who has not lifted up his soul to falsehood, and has not sworn deceitfully. ",
+      "tokens": [
+        {
+          "id": "psalms-24-4-0",
+          "surface": "נְקִ֥י",
+          "lemma": "נָקִי",
+          "translit": "neqiy",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5355"
+        },
+        {
+          "id": "psalms-24-4-1",
+          "surface": "כַפַּ֗יִם",
+          "lemma": "כַּף",
+          "translit": "kapayim",
+          "morph": "Noun common feminine dual absolute",
+          "glosses": [],
+          "strongs": "H3709"
+        },
+        {
+          "id": "psalms-24-4-2",
+          "surface": "וּֽבַר",
+          "lemma": "בַּר",
+          "translit": "vbar",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H1249"
+        },
+        {
+          "id": "psalms-24-4-3",
+          "surface": "לֵ֫בָ֥ב",
+          "lemma": "לֵבָב",
+          "translit": "lebab",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "psalms-24-4-4",
+          "surface": "אֲשֶׁ֤ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "psalms-24-4-5",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "psalms-24-4-6",
+          "surface": "נָשָׂ֣א",
+          "lemma": "נָשָׂא",
+          "translit": "nasha'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "psalms-24-4-7",
+          "surface": "לַשָּׁ֣וְא",
+          "lemma": "שָׁוְא",
+          "translit": "lashave'",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7723"
+        },
+        {
+          "id": "psalms-24-4-8",
+          "surface": "נַפְשִׁ֑י",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napeshiy",
+          "morph": "Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "psalms-24-4-9",
+          "surface": "וְלֹ֖א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "psalms-24-4-10",
+          "surface": "נִשְׁבַּ֣ע",
+          "lemma": "שָׁבַע",
+          "translit": "nisheba`",
+          "morph": "Verb Niphal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7650"
+        },
+        {
+          "id": "psalms-24-4-11",
+          "surface": "לְמִרְמָֽה",
+          "lemma": "מִרְמָה",
+          "translit": "lemiremah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4820"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 24:5",
+      "englishText": "He shall receive a blessing from Yahweh, righteousness from the God of his salvation. ",
+      "tokens": [
+        {
+          "id": "psalms-24-5-0",
+          "surface": "יִשָּׂ֣א",
+          "lemma": "נָשָׂא",
+          "translit": "yisha'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "psalms-24-5-1",
+          "surface": "בְ֭רָכָה",
+          "lemma": "בְּרָכָה",
+          "translit": "berakah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1293"
+        },
+        {
+          "id": "psalms-24-5-2",
+          "surface": "מֵאֵ֣ת",
+          "lemma": "אֵת",
+          "translit": "me'et",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "psalms-24-5-3",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-24-5-4",
+          "surface": "וּ֝צְדָקָ֗ה",
+          "lemma": "צְדָקָה",
+          "translit": "vtsedaqah",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6666"
+        },
+        {
+          "id": "psalms-24-5-5",
+          "surface": "מֵאֱלֹהֵ֥י",
+          "lemma": "אֱלֹהִים",
+          "translit": "me'lohey",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-24-5-6",
+          "surface": "יִשְׁעֽוֹ",
+          "lemma": "יֶשַׁע",
+          "translit": "yishe`vo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3468"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 24:6",
+      "englishText": "This is the generation of those who seek Him, who seek your face—even Jacob. Selah.   ",
+      "tokens": [
+        {
+          "id": "psalms-24-6-0",
+          "surface": "זֶ֭ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "psalms-24-6-1",
+          "surface": "דּ֣וֹר",
+          "lemma": "דּוֹר",
+          "translit": "dvor",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1755"
+        },
+        {
+          "id": "psalms-24-6-2",
+          "surface": "דרשו",
+          "lemma": "דָּרַשׁ",
+          "translit": "drshv",
+          "morph": "Verb Qal Passive Participle + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1875"
+        },
+        {
+          "id": "psalms-24-6-3",
+          "surface": "דֹּרְשָׁ֑יו",
+          "lemma": "דָּרַשׁ",
+          "translit": "doreshayv",
+          "morph": "Verb Qal Passive Participle + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1875"
+        },
+        {
+          "id": "psalms-24-6-4",
+          "surface": "מְבַקְשֵׁ֨י",
+          "lemma": "בָּקַשׁ",
+          "translit": "mebaqeshey",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H1245"
+        },
+        {
+          "id": "psalms-24-6-5",
+          "surface": "פָנֶ֖יךָ",
+          "lemma": "פָּנִים",
+          "translit": "paneyka",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "psalms-24-6-6",
+          "surface": "יַעֲקֹ֣ב",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "psalms-24-6-7",
+          "surface": "סֶֽלָה",
+          "lemma": "סֶלָה",
+          "translit": "selah",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H5542"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 24:7",
+      "englishText": "Lift up your heads, you gates! Be lifted up, you everlasting doors, and the King of glory will come in. ",
+      "tokens": [
+        {
+          "id": "psalms-24-7-0",
+          "surface": "שְׂא֤וּ",
+          "lemma": "נָשָׂא",
+          "translit": "she'v",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "psalms-24-7-1",
+          "surface": "שְׁעָרִ֨ים",
+          "lemma": "שַׁעַר",
+          "translit": "she`ariym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8179"
+        },
+        {
+          "id": "psalms-24-7-2",
+          "surface": "רָֽאשֵׁיכֶ֗ם",
+          "lemma": "רֹאשׁ",
+          "translit": "ra'sheykem",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "psalms-24-7-3",
+          "surface": "וְֽ֭הִנָּשְׂאוּ",
+          "lemma": "נָשָׂא",
+          "translit": "vehinashe'v",
+          "morph": "Conjunction + Verb Niphal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "psalms-24-7-4",
+          "surface": "פִּתְחֵ֣י",
+          "lemma": "פֶּתַח",
+          "translit": "pitechey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H6607"
+        },
+        {
+          "id": "psalms-24-7-5",
+          "surface": "עוֹלָ֑ם",
+          "lemma": "עוֹלָם",
+          "translit": "`volam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        },
+        {
+          "id": "psalms-24-7-6",
+          "surface": "וְ֝יָב֗וֹא",
+          "lemma": "בּוֹא",
+          "translit": "veyabvo'",
+          "morph": "Conjunction + Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "psalms-24-7-7",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "psalms-24-7-8",
+          "surface": "הַכָּבֽוֹד",
+          "lemma": "כָּבוֹד",
+          "translit": "hakabvod",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H3519"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 24:8",
+      "englishText": "Who is the King of glory? Yahweh strong and mighty, Yahweh mighty in battle. ",
+      "tokens": [
+        {
+          "id": "psalms-24-8-0",
+          "surface": "מִ֥י",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "psalms-24-8-1",
+          "surface": "זֶה֮",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "psalms-24-8-2",
+          "surface": "מֶ֤לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "psalms-24-8-3",
+          "surface": "הַכָּ֫ב֥וֹד",
+          "lemma": "כָּבוֹד",
+          "translit": "hakabvod",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H3519"
+        },
+        {
+          "id": "psalms-24-8-4",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-24-8-5",
+          "surface": "עִזּ֣וּז",
+          "lemma": "עִזּוּז",
+          "translit": "`izvz",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5808"
+        },
+        {
+          "id": "psalms-24-8-6",
+          "surface": "וְגִבּ֑וֹר",
+          "lemma": "גִּבּוֹר",
+          "translit": "vegibvor",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "psalms-24-8-7",
+          "surface": "יְ֝הוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-24-8-8",
+          "surface": "גִּבּ֥וֹר",
+          "lemma": "גִּבּוֹר",
+          "translit": "gibvor",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "psalms-24-8-9",
+          "surface": "מִלְחָמָֽה",
+          "lemma": "מִלְחָמָה",
+          "translit": "milechamah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4421"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 24:9",
+      "englishText": "Lift up your heads, you gates; yes, lift them up, you everlasting doors, and the King of glory will come in. ",
+      "tokens": [
+        {
+          "id": "psalms-24-9-0",
+          "surface": "שְׂא֤וּ",
+          "lemma": "נָשָׂא",
+          "translit": "she'v",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "psalms-24-9-1",
+          "surface": "שְׁעָרִ֨ים",
+          "lemma": "שַׁעַר",
+          "translit": "she`ariym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8179"
+        },
+        {
+          "id": "psalms-24-9-2",
+          "surface": "רָֽאשֵׁיכֶ֗ם",
+          "lemma": "רֹאשׁ",
+          "translit": "ra'sheykem",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "psalms-24-9-3",
+          "surface": "וּ֭שְׂאוּ",
+          "lemma": "נָשָׂא",
+          "translit": "vshe'v",
+          "morph": "Conjunction + Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "psalms-24-9-4",
+          "surface": "פִּתְחֵ֣י",
+          "lemma": "פֶּתַח",
+          "translit": "pitechey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H6607"
+        },
+        {
+          "id": "psalms-24-9-5",
+          "surface": "עוֹלָ֑ם",
+          "lemma": "עוֹלָם",
+          "translit": "`volam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        },
+        {
+          "id": "psalms-24-9-6",
+          "surface": "וְ֝יָבֹא",
+          "lemma": "בּוֹא",
+          "translit": "veyabo'",
+          "morph": "Conjunction + Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "psalms-24-9-7",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "psalms-24-9-8",
+          "surface": "הַכָּבֽוֹד",
+          "lemma": "כָּבוֹד",
+          "translit": "hakabvod",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H3519"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 24:10",
+      "englishText": "Who is this King of glory? Yahweh of Armies is the King of glory! Selah.   ",
+      "tokens": [
+        {
+          "id": "psalms-24-10-0",
+          "surface": "מִ֤י",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "psalms-24-10-1",
+          "surface": "ה֣וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "psalms-24-10-2",
+          "surface": "זֶה֮",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "psalms-24-10-3",
+          "surface": "מֶ֤לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "psalms-24-10-4",
+          "surface": "הַכָּ֫ב֥וֹד",
+          "lemma": "כָּבוֹד",
+          "translit": "hakabvod",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H3519"
+        },
+        {
+          "id": "psalms-24-10-5",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-24-10-6",
+          "surface": "צְבָא֑וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "psalms-24-10-7",
+          "surface": "ה֤וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "psalms-24-10-8",
+          "surface": "מֶ֖לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "psalms-24-10-9",
+          "surface": "הַכָּב֣וֹד",
+          "lemma": "כָּבוֹד",
+          "translit": "hakabvod",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H3519"
+        },
+        {
+          "id": "psalms-24-10-10",
+          "surface": "סֶֽלָה",
+          "lemma": "סֶלָה",
+          "translit": "selah",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H5542"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

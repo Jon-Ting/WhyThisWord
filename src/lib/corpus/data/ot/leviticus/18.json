@@ -1,1 +1,3308 @@
-{"id":"leviticus-18","name":"Leviticus","chapter":18,"verses":[{"ref":"Leviticus 18:1","englishText":"Yahweh said to Moses,","tokens":[{"id":"leviticus-18-1-0","surface":"וַיְדַבֵּ֥ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"leviticus-18-1-1","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-18-1-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-18-1-3","surface":"מֹשֶׁ֥ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"leviticus-18-1-4","surface":"לֵּאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Leviticus 18:2","englishText":"“Speak to the children of Israel, and say to them, ‘I am Yahweh your God.","tokens":[{"id":"leviticus-18-2-0","surface":"דַּבֵּר֙","lemma":"דָבַר","translit":"daber","morph":"Verb Piel Weqatal 2nd masculine singular","glosses":[],"strongs":"H1696"},{"id":"leviticus-18-2-1","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-18-2-2","surface":"בְּנֵ֣י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"leviticus-18-2-3","surface":"יִשְׂרָאֵ֔ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"leviticus-18-2-4","surface":"וְאָמַרְתָּ֖","lemma":"אָמַר","translit":"ve'amareta","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"leviticus-18-2-5","surface":"אֲלֵהֶ֑ם","lemma":"אֵל","translit":"'lehem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H413"},{"id":"leviticus-18-2-6","surface":"אֲנִ֖י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-18-2-7","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-18-2-8","surface":"אֱלֹהֵיכֶֽם","lemma":"אֱלֹהִים","translit":"'loheykem","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H430"}],"language":"hebrew"},{"ref":"Leviticus 18:3","englishText":"You shall not do as they do in the land of Egypt, where you lived: and you shall not do as they do in the land of Canaan, where I am bringing you; neither shall you walk in their statutes.","tokens":[{"id":"leviticus-18-3-0","surface":"כְּמַעֲשֵׂ֧ה","lemma":"מַעֲשֶׂה","translit":"kema`sheh","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4639"},{"id":"leviticus-18-3-1","surface":"אֶֽרֶץ","lemma":"אֶרֶץ","translit":"'erets","morph":"Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"leviticus-18-3-2","surface":"מִצְרַ֛יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"leviticus-18-3-3","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-18-3-4","surface":"יְשַׁבְתֶּם","lemma":"יָשַׁב","translit":"yeshabetem","morph":"Verb Qal Participle 2nd masculine plural","glosses":[],"strongs":"H3427"},{"id":"leviticus-18-3-5","surface":"בָּ֖הּ","lemma":"בָּ֖הּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"leviticus-18-3-6","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-3-7","surface":"תַעֲשׂ֑וּ","lemma":"עָשָׂה","translit":"ta`shv","morph":"Verb Qal Imperative 2nd masculine plural","glosses":[],"strongs":"H6213"},{"id":"leviticus-18-3-8","surface":"וּכְמַעֲשֵׂ֣ה","lemma":"מַעֲשֶׂה","translit":"vkema`sheh","morph":"Conjunction + Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4639"},{"id":"leviticus-18-3-9","surface":"אֶֽרֶץ","lemma":"אֶרֶץ","translit":"'erets","morph":"Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"leviticus-18-3-10","surface":"כְּנַ֡עַן","lemma":"כְּנַעַן","translit":"kena`an","morph":"Noun proper","glosses":[],"strongs":"H3667"},{"id":"leviticus-18-3-11","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-18-3-12","surface":"אֲנִי֩","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-18-3-13","surface":"מֵבִ֨יא","lemma":"בּוֹא","translit":"mebiy'","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H935"},{"id":"leviticus-18-3-14","surface":"אֶתְכֶ֥ם","lemma":"אֵת","translit":"'etekem","morph":"Particle + Suffix plural 2nd masculine","glosses":[],"strongs":"H853"},{"id":"leviticus-18-3-15","surface":"שָׁ֨מָּה֙","lemma":"שָׁם","translit":"shamah","morph":"Adverb + Suffix dual","glosses":[],"strongs":"H8033"},{"id":"leviticus-18-3-16","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-3-17","surface":"תַעֲשׂ֔וּ","lemma":"עָשָׂה","translit":"ta`shv","morph":"Verb Qal Imperative 2nd masculine plural","glosses":[],"strongs":"H6213"},{"id":"leviticus-18-3-18","surface":"וּבְחֻקֹּתֵיהֶ֖ם","lemma":"חֻקָּה","translit":"vbechuqoteyhem","morph":"Conjunction + Preposition + Noun common plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H2708"},{"id":"leviticus-18-3-19","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-3-20","surface":"תֵלֵֽכוּ","lemma":"יָלַךְ","translit":"telekv","morph":"Verb Qal Imperative 2nd masculine plural","glosses":[],"strongs":"H3212"}],"language":"hebrew"},{"ref":"Leviticus 18:4","englishText":"You shall do my ordinances, and you shall keep my statutes, and walk in them: I am Yahweh your God.","tokens":[{"id":"leviticus-18-4-0","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-4-1","surface":"מִשְׁפָּטַ֧י","lemma":"מִשְׁפָּט","translit":"mishepatay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H4941"},{"id":"leviticus-18-4-2","surface":"תַּעֲשׂ֛וּ","lemma":"עָשָׂה","translit":"ta`shv","morph":"Verb Qal Imperative 2nd masculine plural","glosses":[],"strongs":"H6213"},{"id":"leviticus-18-4-3","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-4-4","surface":"חֻקֹּתַ֥י","lemma":"חֻקָּה","translit":"chuqotay","morph":"Noun common plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H2708"},{"id":"leviticus-18-4-5","surface":"תִּשְׁמְר֖וּ","lemma":"שָׁמַר","translit":"tishemerv","morph":"Verb Qal Imperative 2nd masculine plural","glosses":[],"strongs":"H8104"},{"id":"leviticus-18-4-6","surface":"לָלֶ֣כֶת","lemma":"יָלַךְ","translit":"laleket","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H3212"},{"id":"leviticus-18-4-7","surface":"בָּהֶ֑ם","lemma":"בָּהֶ֑ם","translit":"bahem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]},{"id":"leviticus-18-4-8","surface":"אֲנִ֖י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-18-4-9","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-18-4-10","surface":"אֱלֹהֵיכֶֽם","lemma":"אֱלֹהִים","translit":"'loheykem","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H430"}],"language":"hebrew"},{"ref":"Leviticus 18:5","englishText":"You shall therefore keep my statutes and my ordinances; which if a man does, he shall live in them. I am Yahweh.  ","tokens":[{"id":"leviticus-18-5-0","surface":"וּשְׁמַרְתֶּ֤ם","lemma":"שָׁמַר","translit":"vshemaretem","morph":"Conjunction + Verb Qal Perfect 2nd masculine plural","glosses":[],"strongs":"H8104"},{"id":"leviticus-18-5-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-5-2","surface":"חֻקֹּתַי֙","lemma":"חֻקָּה","translit":"chuqotay","morph":"Noun common plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H2708"},{"id":"leviticus-18-5-3","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-5-4","surface":"מִשְׁפָּטַ֔י","lemma":"מִשְׁפָּט","translit":"mishepatay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H4941"},{"id":"leviticus-18-5-5","surface":"אֲשֶׁ֨ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-18-5-6","surface":"יַעֲשֶׂ֥ה","lemma":"עָשָׂה","translit":"ya`sheh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H6213"},{"id":"leviticus-18-5-7","surface":"אֹתָ֛ם","lemma":"אֵת","translit":"'otam","morph":"Particle + Suffix plural 3rd masculine","glosses":[],"strongs":"H853"},{"id":"leviticus-18-5-8","surface":"הָאָדָ֖ם","lemma":"אָדָם","translit":"ha'adam","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H120"},{"id":"leviticus-18-5-9","surface":"וָחַ֣י","lemma":"חָיַי","translit":"vachay","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H2425"},{"id":"leviticus-18-5-10","surface":"בָּהֶ֑ם","lemma":"בָּהֶ֑ם","translit":"bahem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]},{"id":"leviticus-18-5-11","surface":"אֲנִ֖י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-18-5-12","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Leviticus 18:6","englishText":"  “‘None of you shall approach anyone who are his close relatives, to uncover their nakedness: I am Yahweh.  ","tokens":[{"id":"leviticus-18-6-0","surface":"אִ֥ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"leviticus-18-6-1","surface":"אִישׁ֙","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"leviticus-18-6-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-18-6-3","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-18-6-4","surface":"שְׁאֵ֣ר","lemma":"שְׁאֵר","translit":"she'er","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7607"},{"id":"leviticus-18-6-5","surface":"בְּשָׂר֔וֹ","lemma":"בָּשָׂר","translit":"besharvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1320"},{"id":"leviticus-18-6-6","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-6-7","surface":"תִקְרְב֖וּ","lemma":"קָרַב","translit":"tiqerebv","morph":"Verb Qal Imperative 2nd masculine plural","glosses":[],"strongs":"H7126"},{"id":"leviticus-18-6-8","surface":"לְגַלּ֣וֹת","lemma":"גָּלָה","translit":"legalvot","morph":"Preposition + Verb Piel Infinitive Construct","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-6-9","surface":"עֶרְוָ֑ה","lemma":"עֶרְוָה","translit":"`erevah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-6-10","surface":"אֲנִ֖י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-18-6-11","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Leviticus 18:7","englishText":"  “‘You shall not uncover the nakedness of your father, nor the nakedness of your mother: she is your mother. You shall not uncover her nakedness.  ","tokens":[{"id":"leviticus-18-7-0","surface":"עֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-7-1","surface":"אָבִ֛יךָ","lemma":"אָב","translit":"'abiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-18-7-2","surface":"וְעֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"ve`erevat","morph":"Conjunction + Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-7-3","surface":"אִמְּךָ֖","lemma":"אֵם","translit":"'imeka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H517"},{"id":"leviticus-18-7-4","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-7-5","surface":"תְגַלֵּ֑ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-7-6","surface":"אִמְּךָ֣","lemma":"אֵם","translit":"'imeka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H517"},{"id":"leviticus-18-7-7","surface":"הִ֔וא","lemma":"הוּא","translit":"hiv'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"leviticus-18-7-8","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-7-9","surface":"תְגַלֶּ֖ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-7-10","surface":"עֶרְוָתָֽהּ","lemma":"עֶרְוָה","translit":"`erevatah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6172"}],"language":"hebrew"},{"ref":"Leviticus 18:8","englishText":"  “‘You shall not uncover the nakedness of your father’s wife. It is your father’s nakedness.  ","tokens":[{"id":"leviticus-18-8-0","surface":"עֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-8-1","surface":"אֵֽשֶׁת","lemma":"אִשָּׁה","translit":"'eshet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H802"},{"id":"leviticus-18-8-2","surface":"אָבִ֖יךָ","lemma":"אָב","translit":"'abiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-18-8-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-8-4","surface":"תְגַלֵּ֑ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-8-5","surface":"עֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-8-6","surface":"אָבִ֖יךָ","lemma":"אָב","translit":"'abiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-18-8-7","surface":"הִֽוא","lemma":"הוּא","translit":"hiv'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Leviticus 18:9","englishText":"  “‘You shall not uncover the nakedness of your sister, the daughter of your father, or the daughter of your mother, whether born at home, or born abroad.  ","tokens":[{"id":"leviticus-18-9-0","surface":"עֶרְוַ֨ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-9-1","surface":"אֲחֽוֹתְךָ֤","lemma":"אָחוֹת","translit":"'chvoteka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H269"},{"id":"leviticus-18-9-2","surface":"בַת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"leviticus-18-9-3","surface":"אָבִ֨יךָ֙","lemma":"אָב","translit":"'abiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-18-9-4","surface":"א֣וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-18-9-5","surface":"בַת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"leviticus-18-9-6","surface":"אִמֶּ֔ךָ","lemma":"אֵם","translit":"'imeka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H517"},{"id":"leviticus-18-9-7","surface":"מוֹלֶ֣דֶת","lemma":"מוֹלֶדֶת","translit":"mvoledet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H4138"},{"id":"leviticus-18-9-8","surface":"בַּ֔יִת","lemma":"בַּיִת","translit":"bayit","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1004"},{"id":"leviticus-18-9-9","surface":"א֖וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-18-9-10","surface":"מוֹלֶ֣דֶת","lemma":"מוֹלֶדֶת","translit":"mvoledet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H4138"},{"id":"leviticus-18-9-11","surface":"ח֑וּץ","lemma":"חוּץ","translit":"chvts","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2351"},{"id":"leviticus-18-9-12","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-9-13","surface":"תְגַלֶּ֖ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-9-14","surface":"עֶרְוָתָֽן","lemma":"עֶרְוָה","translit":"`erevatan","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine","glosses":[],"strongs":"H6172"}],"language":"hebrew"},{"ref":"Leviticus 18:10","englishText":"  “‘You shall not uncover the nakedness of your son’s daughter, or of your daughter’s daughter, even their nakedness: for theirs is your own nakedness.  ","tokens":[{"id":"leviticus-18-10-0","surface":"עֶרְוַ֤ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-10-1","surface":"בַּת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"leviticus-18-10-2","surface":"בִּנְךָ֙","lemma":"בֵּן","translit":"bineka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1121"},{"id":"leviticus-18-10-3","surface":"א֣וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"leviticus-18-10-4","surface":"בַֽת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"leviticus-18-10-5","surface":"בִּתְּךָ֔","lemma":"בַּת","translit":"biteka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1323"},{"id":"leviticus-18-10-6","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-10-7","surface":"תְגַלֶּ֖ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-10-8","surface":"עֶרְוָתָ֑ן","lemma":"עֶרְוָה","translit":"`erevatan","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-10-9","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-18-10-10","surface":"עֶרְוָתְךָ֖","lemma":"עֶרְוָה","translit":"`erevateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-10-11","surface":"הֵֽנָּה","lemma":"הֵנָּה","translit":"henah","morph":"Pronoun plural 3rd feminine","glosses":[],"strongs":"H2007"}],"language":"hebrew"},{"ref":"Leviticus 18:11","englishText":"  “‘You shall not uncover the nakedness of your father’s wife’s daughter, conceived by your father, since she is your sister.  ","tokens":[{"id":"leviticus-18-11-0","surface":"עֶרְוַ֨ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-11-1","surface":"בַּת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"leviticus-18-11-2","surface":"אֵ֤שֶׁת","lemma":"אִשָּׁה","translit":"'eshet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H802"},{"id":"leviticus-18-11-3","surface":"אָבִ֨יךָ֙","lemma":"אָב","translit":"'abiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-18-11-4","surface":"מוֹלֶ֣דֶת","lemma":"מוֹלֶדֶת","translit":"mvoledet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H4138"},{"id":"leviticus-18-11-5","surface":"אָבִ֔יךָ","lemma":"אָב","translit":"'abiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-18-11-6","surface":"אֲחוֹתְךָ֖","lemma":"אָחוֹת","translit":"'chvoteka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H269"},{"id":"leviticus-18-11-7","surface":"הִ֑וא","lemma":"הוּא","translit":"hiv'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"leviticus-18-11-8","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-11-9","surface":"תְגַלֶּ֖ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-11-10","surface":"עֶרְוָתָֽהּ","lemma":"עֶרְוָה","translit":"`erevatah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6172"}],"language":"hebrew"},{"ref":"Leviticus 18:12","englishText":"  “‘You shall not uncover the nakedness of your father’s sister: she is your father’s near kinswoman.  ","tokens":[{"id":"leviticus-18-12-0","surface":"עֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-12-1","surface":"אֲחוֹת","lemma":"אָחוֹת","translit":"'chvot","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H269"},{"id":"leviticus-18-12-2","surface":"אָבִ֖יךָ","lemma":"אָב","translit":"'abiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-18-12-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-12-4","surface":"תְגַלֵּ֑ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-12-5","surface":"שְׁאֵ֥ר","lemma":"שְׁאֵר","translit":"she'er","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7607"},{"id":"leviticus-18-12-6","surface":"אָבִ֖יךָ","lemma":"אָב","translit":"'abiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-18-12-7","surface":"הִֽוא","lemma":"הוּא","translit":"hiv'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Leviticus 18:13","englishText":"  “‘You shall not uncover the nakedness of your mother’s sister: for she is your mother’s near kinswoman.  ","tokens":[{"id":"leviticus-18-13-0","surface":"עֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-13-1","surface":"אֲחֽוֹת","lemma":"אָחוֹת","translit":"'chvot","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H269"},{"id":"leviticus-18-13-2","surface":"אִמְּךָ֖","lemma":"אֵם","translit":"'imeka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H517"},{"id":"leviticus-18-13-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-13-4","surface":"תְגַלֵּ֑ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-13-5","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-18-13-6","surface":"שְׁאֵ֥ר","lemma":"שְׁאֵר","translit":"she'er","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7607"},{"id":"leviticus-18-13-7","surface":"אִמְּךָ֖","lemma":"אֵם","translit":"'imeka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H517"},{"id":"leviticus-18-13-8","surface":"הִֽוא","lemma":"הוּא","translit":"hiv'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Leviticus 18:14","englishText":"  “‘You shall not uncover the nakedness of your father’s brother, you shall not approach his wife. She is your aunt.  ","tokens":[{"id":"leviticus-18-14-0","surface":"עֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-14-1","surface":"אֲחִֽי","lemma":"אָח","translit":"'chiy","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H251"},{"id":"leviticus-18-14-2","surface":"אָבִ֖יךָ","lemma":"אָב","translit":"'abiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1"},{"id":"leviticus-18-14-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-14-4","surface":"תְגַלֵּ֑ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-14-5","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-18-14-6","surface":"אִשְׁתּוֹ֙","lemma":"אִשָּׁה","translit":"'ishetvo","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H802"},{"id":"leviticus-18-14-7","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-14-8","surface":"תִקְרָ֔ב","lemma":"קָרַב","translit":"tiqerab","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H7126"},{"id":"leviticus-18-14-9","surface":"דֹּדָֽתְךָ֖","lemma":"דּוֹדָה","translit":"dodateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1733"},{"id":"leviticus-18-14-10","surface":"הִֽוא","lemma":"הוּא","translit":"hiv'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Leviticus 18:15","englishText":"  “‘You shall not uncover the nakedness of your daughter-in-law: she is your son’s wife. You shall not uncover her nakedness.  ","tokens":[{"id":"leviticus-18-15-0","surface":"עֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-15-1","surface":"כַּלָּֽתְךָ֖","lemma":"כַּלָּה","translit":"kalateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3618"},{"id":"leviticus-18-15-2","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-15-3","surface":"תְגַלֵּ֑ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-15-4","surface":"אֵ֤שֶׁת","lemma":"אִשָּׁה","translit":"'eshet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H802"},{"id":"leviticus-18-15-5","surface":"בִּנְךָ֙","lemma":"בֵּן","translit":"bineka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1121"},{"id":"leviticus-18-15-6","surface":"הִ֔וא","lemma":"הוּא","translit":"hiv'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"leviticus-18-15-7","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-15-8","surface":"תְגַלֶּ֖ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-15-9","surface":"עֶרְוָתָֽהּ","lemma":"עֶרְוָה","translit":"`erevatah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6172"}],"language":"hebrew"},{"ref":"Leviticus 18:16","englishText":"  “‘You shall not uncover the nakedness of your brother’s wife. It is your brother’s nakedness.  ","tokens":[{"id":"leviticus-18-16-0","surface":"עֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-16-1","surface":"אֵֽשֶׁת","lemma":"אִשָּׁה","translit":"'eshet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H802"},{"id":"leviticus-18-16-2","surface":"אָחִ֖יךָ","lemma":"אָח","translit":"'achiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H251"},{"id":"leviticus-18-16-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-16-4","surface":"תְגַלֵּ֑ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-16-5","surface":"עֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-16-6","surface":"אָחִ֖יךָ","lemma":"אָח","translit":"'achiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H251"},{"id":"leviticus-18-16-7","surface":"הִֽוא","lemma":"הוּא","translit":"hiv'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Leviticus 18:17","englishText":"  “‘You shall not uncover the nakedness of a woman and her daughter. You shall not take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; they are near kinswomen: it is wickedness.  ","tokens":[{"id":"leviticus-18-17-0","surface":"עֶרְוַ֥ת","lemma":"עֶרְוָה","translit":"`erevat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-17-1","surface":"אִשָּׁ֛ה","lemma":"אִשָּׁה","translit":"'ishah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"leviticus-18-17-2","surface":"וּבִתָּ֖הּ","lemma":"בַּת","translit":"vbitah","morph":"Conjunction + Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1323"},{"id":"leviticus-18-17-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-17-4","surface":"תְגַלֵּ֑ה","lemma":"גָּלָה","translit":"tegaleh","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-17-5","surface":"אֶֽת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-17-6","surface":"בַּת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"leviticus-18-17-7","surface":"בְּנָ֞הּ","lemma":"בֵּן","translit":"benah","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1121"},{"id":"leviticus-18-17-8","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-17-9","surface":"בַּת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"leviticus-18-17-10","surface":"בִּתָּ֗הּ","lemma":"בַּת","translit":"bitah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1323"},{"id":"leviticus-18-17-11","surface":"לֹ֤א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-17-12","surface":"תִקַּח֙","lemma":"לָקַח","translit":"tiqach","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H3947"},{"id":"leviticus-18-17-13","surface":"לְגַלּ֣וֹת","lemma":"גָּלָה","translit":"legalvot","morph":"Preposition + Verb Piel Infinitive Construct","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-17-14","surface":"עֶרְוָתָ֔הּ","lemma":"עֶרְוָה","translit":"`erevatah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-17-15","surface":"שַׁאֲרָ֥ה","lemma":"שַׁאֲרָה","translit":"sha'rah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7608"},{"id":"leviticus-18-17-16","surface":"הֵ֖נָּה","lemma":"הֵנָּה","translit":"henah","morph":"Pronoun plural 3rd feminine","glosses":[],"strongs":"H2007"},{"id":"leviticus-18-17-17","surface":"זִמָּ֥ה","lemma":"זִמָּה","translit":"zimah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2154"},{"id":"leviticus-18-17-18","surface":"הִֽוא","lemma":"הוּא","translit":"hiv'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Leviticus 18:18","englishText":"  “‘You shall not take a wife to her sister, to be a rival, to uncover her nakedness, while her sister is yet alive.  ","tokens":[{"id":"leviticus-18-18-0","surface":"וְאִשָּׁ֥ה","lemma":"אִשָּׁה","translit":"ve'ishah","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"leviticus-18-18-1","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-18-18-2","surface":"אֲחֹתָ֖הּ","lemma":"אָחוֹת","translit":"'chotah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H269"},{"id":"leviticus-18-18-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-18-4","surface":"תִקָּ֑ח","lemma":"לָקַח","translit":"tiqach","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H3947"},{"id":"leviticus-18-18-5","surface":"לִצְרֹ֗ר","lemma":"צָרַר","translit":"litseror","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H6887"},{"id":"leviticus-18-18-6","surface":"לְגַלּ֧וֹת","lemma":"גָּלָה","translit":"legalvot","morph":"Preposition + Verb Piel Infinitive Construct","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-18-7","surface":"עֶרְוָתָ֛הּ","lemma":"עֶרְוָה","translit":"`erevatah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6172"},{"id":"leviticus-18-18-8","surface":"עָלֶ֖יהָ","lemma":"עַל","translit":"`aleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H5921"},{"id":"leviticus-18-18-9","surface":"בְּחַיֶּֽיהָ","lemma":"חַי","translit":"bechayeyha","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H2416"}],"language":"hebrew"},{"ref":"Leviticus 18:19","englishText":"  “‘You shall not approach a woman to uncover her nakedness, as long as she is impure by her uncleanness.  ","tokens":[{"id":"leviticus-18-19-0","surface":"וְאֶל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-18-19-1","surface":"אִשָּׁ֖ה","lemma":"אִשָּׁה","translit":"'ishah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"leviticus-18-19-2","surface":"בְּנִדַּ֣ת","lemma":"נִדָּה","translit":"benidat","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H5079"},{"id":"leviticus-18-19-3","surface":"טֻמְאָתָ֑הּ","lemma":"טֻמְאָה","translit":"tume'atah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H2932"},{"id":"leviticus-18-19-4","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-19-5","surface":"תִקְרַ֔ב","lemma":"קָרַב","translit":"tiqerab","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H7126"},{"id":"leviticus-18-19-6","surface":"לְגַלּ֖וֹת","lemma":"גָּלָה","translit":"legalvot","morph":"Preposition + Verb Piel Infinitive Construct","glosses":[],"strongs":"H1540"},{"id":"leviticus-18-19-7","surface":"עֶרְוָתָֽהּ","lemma":"עֶרְוָה","translit":"`erevatah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6172"}],"language":"hebrew"},{"ref":"Leviticus 18:20","englishText":"  “‘You shall not lie carnally with your neighbor’s wife, and defile yourself with her.  ","tokens":[{"id":"leviticus-18-20-0","surface":"וְאֶל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"leviticus-18-20-1","surface":"אֵ֨שֶׁת֙","lemma":"אִשָּׁה","translit":"'eshet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H802"},{"id":"leviticus-18-20-2","surface":"עֲמִֽיתְךָ֔","lemma":"עָמִית","translit":"`miyteka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5997"},{"id":"leviticus-18-20-3","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-20-4","surface":"תִתֵּ֥ן","lemma":"נָתַן","translit":"titen","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"leviticus-18-20-5","surface":"שְׁכָבְתְּךָ֖","lemma":"שְׁכֹבֶת","translit":"shekabeteka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7903"},{"id":"leviticus-18-20-6","surface":"לְזָ֑רַע","lemma":"זֶרַע","translit":"lezara`","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H2233"},{"id":"leviticus-18-20-7","surface":"לְטָמְאָה","lemma":"טָמֵא","translit":"letame'ah","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H2930"},{"id":"leviticus-18-20-8","surface":"בָֽהּ","lemma":"בָֽהּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Leviticus 18:21","englishText":"  “‘You shall not give any of your children to sacrifice to Molech; neither shall you profane the name of your God. I am Yahweh.  ","tokens":[{"id":"leviticus-18-21-0","surface":"וּמִֽזַּרְעֲךָ֥","lemma":"זֶרַע","translit":"vmizare`ka","morph":"Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2233"},{"id":"leviticus-18-21-1","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-21-2","surface":"תִתֵּ֖ן","lemma":"נָתַן","translit":"titen","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"leviticus-18-21-3","surface":"לְהַעֲבִ֣יר","lemma":"עָבַר","translit":"leha`biyr","morph":"Preposition + Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H5674"},{"id":"leviticus-18-21-4","surface":"לַמֹּ֑לֶךְ","lemma":"מֹלֶךְ","translit":"lamoleke","morph":"Preposition dual + Noun proper","glosses":[],"strongs":"H4432"},{"id":"leviticus-18-21-5","surface":"וְלֹ֧א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-21-6","surface":"תְחַלֵּ֛ל","lemma":"חָלַל","translit":"techalel","morph":"Verb Piel Imperative 2nd masculine singular","glosses":[],"strongs":"H2490"},{"id":"leviticus-18-21-7","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-21-8","surface":"שֵׁ֥ם","lemma":"שֵׁם","translit":"shem","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"leviticus-18-21-9","surface":"אֱלֹהֶ֖יךָ","lemma":"אֱלֹהִים","translit":"'loheyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H430"},{"id":"leviticus-18-21-10","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-18-21-11","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Leviticus 18:22","englishText":"  “‘You shall not lie with a man, as with a woman. That is detestable.  ","tokens":[{"id":"leviticus-18-22-0","surface":"וְאֶ֨ת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Preposition","glosses":[],"strongs":"H854"},{"id":"leviticus-18-22-1","surface":"זָכָ֔ר","lemma":"זָכָר","translit":"zakar","morph":"Adjective","glosses":[],"strongs":"H2145"},{"id":"leviticus-18-22-2","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-22-3","surface":"תִשְׁכַּ֖ב","lemma":"שָׁכַב","translit":"tishekab","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H7901"},{"id":"leviticus-18-22-4","surface":"מִשְׁכְּבֵ֣י","lemma":"מִשְׁכָּב","translit":"mishekebey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H4904"},{"id":"leviticus-18-22-5","surface":"אִשָּׁ֑ה","lemma":"אִשָּׁה","translit":"'ishah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"leviticus-18-22-6","surface":"תּוֹעֵבָ֖ה","lemma":"תּוֹעֵבַה","translit":"tvo`ebah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8441"},{"id":"leviticus-18-22-7","surface":"הִֽוא","lemma":"הוּא","translit":"hiv'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Leviticus 18:23","englishText":"  “‘You shall not lie with any animal to defile yourself with it; neither shall any woman give herself to an animal, to lie down with it: it is a perversion.  ","tokens":[{"id":"leviticus-18-23-0","surface":"וּבְכָל","lemma":"כֹּל","translit":"vbekal","morph":"Conjunction + Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-18-23-1","surface":"בְּהֵמָ֛ה","lemma":"בְּהֵמָה","translit":"behemah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H929"},{"id":"leviticus-18-23-2","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-23-3","surface":"תִתֵּ֥ן","lemma":"נָתַן","translit":"titen","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"leviticus-18-23-4","surface":"שְׁכָבְתְּךָ֖","lemma":"שְׁכֹבֶת","translit":"shekabeteka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7903"},{"id":"leviticus-18-23-5","surface":"לְטָמְאָה","lemma":"טָמֵא","translit":"letame'ah","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H2930"},{"id":"leviticus-18-23-6","surface":"בָ֑הּ","lemma":"בָ֑הּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"leviticus-18-23-7","surface":"וְאִשָּׁ֗ה","lemma":"אִשָּׁה","translit":"ve'ishah","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"leviticus-18-23-8","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-23-9","surface":"תַעֲמֹ֞ד","lemma":"עָמַד","translit":"ta`mod","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H5975"},{"id":"leviticus-18-23-10","surface":"לִפְנֵ֧י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"leviticus-18-23-11","surface":"בְהֵמָ֛ה","lemma":"בְּהֵמָה","translit":"behemah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H929"},{"id":"leviticus-18-23-12","surface":"לְרִבְעָ֖הּ","lemma":"רָבַע","translit":"leribe`ah","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H7250"},{"id":"leviticus-18-23-13","surface":"תֶּ֥בֶל","lemma":"תֶּבֶל","translit":"tebel","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8397"},{"id":"leviticus-18-23-14","surface":"הֽוּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Leviticus 18:24","englishText":"  “‘Don’t defile yourselves in any of these things: for in all these the nations which I am casting out before you were defiled.","tokens":[{"id":"leviticus-18-24-0","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"leviticus-18-24-1","surface":"תִּֽטַּמְּא֖וּ","lemma":"טָמֵא","translit":"titame'v","morph":"Verb Hithpael Jussive 2nd masculine plural","glosses":[],"strongs":"H2930"},{"id":"leviticus-18-24-2","surface":"בְּכָל","lemma":"כֹּל","translit":"bekal","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-18-24-3","surface":"אֵ֑לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"leviticus-18-24-4","surface":"כִּ֤י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-18-24-5","surface":"בְכָל","lemma":"כֹּל","translit":"bekal","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-18-24-6","surface":"אֵ֨לֶּה֙","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"leviticus-18-24-7","surface":"נִטְמְא֣וּ","lemma":"טָמֵא","translit":"niteme'v","morph":"Verb Niphal Participle 3rd common plural","glosses":[],"strongs":"H2930"},{"id":"leviticus-18-24-8","surface":"הַגּוֹיִ֔ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"leviticus-18-24-9","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-18-24-10","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-18-24-11","surface":"מְשַׁלֵּ֖חַ","lemma":"שָׁלַח","translit":"meshalecha","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H7971"},{"id":"leviticus-18-24-12","surface":"מִפְּנֵיכֶֽם","lemma":"פָּנִים","translit":"mipeneykem","morph":"Preposition + Noun common plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H6440"}],"language":"hebrew"},{"ref":"Leviticus 18:25","englishText":"The land was defiled: therefore I punished its iniquity, and the land vomited out her inhabitants.","tokens":[{"id":"leviticus-18-25-0","surface":"וַתִּטְמָ֣א","lemma":"טָמֵא","translit":"vatitema'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H2930"},{"id":"leviticus-18-25-1","surface":"הָאָ֔רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"leviticus-18-25-2","surface":"וָאֶפְקֹ֥ד","lemma":"פָּקַד","translit":"va'epeqod","morph":"Conjunction + Verb Qal Wayyiqtol 1st common singular","glosses":[],"strongs":"H6485"},{"id":"leviticus-18-25-3","surface":"עֲוֺנָ֖הּ","lemma":"עָוֺן","translit":"`vnah","morph":"Noun common singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H5771"},{"id":"leviticus-18-25-4","surface":"עָלֶ֑יהָ","lemma":"עַל","translit":"`aleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H5921"},{"id":"leviticus-18-25-5","surface":"וַתָּקִ֥א","lemma":"קוֹא","translit":"vataqi'","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H6958"},{"id":"leviticus-18-25-6","surface":"הָאָ֖רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"leviticus-18-25-7","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-25-8","surface":"יֹשְׁבֶֽיהָ","lemma":"יָשַׁב","translit":"yoshebeyha","morph":"Verb Qal Passive Participle + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3427"}],"language":"hebrew"},{"ref":"Leviticus 18:26","englishText":"You therefore shall keep my statutes and my ordinances, and shall not do any of these abominations; neither the native-born, nor the stranger who lives as a foreigner among you;","tokens":[{"id":"leviticus-18-26-0","surface":"וּשְׁמַרְתֶּ֣ם","lemma":"שָׁמַר","translit":"vshemaretem","morph":"Conjunction + Verb Qal Perfect 2nd masculine plural","glosses":[],"strongs":"H8104"},{"id":"leviticus-18-26-1","surface":"אַתֶּ֗ם","lemma":"אַתָּה","translit":"'atem","morph":"Pronoun plural 2nd masculine","glosses":[],"strongs":"H859"},{"id":"leviticus-18-26-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-26-3","surface":"חֻקֹּתַי֙","lemma":"חֻקָּה","translit":"chuqotay","morph":"Noun common plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H2708"},{"id":"leviticus-18-26-4","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-26-5","surface":"מִשְׁפָּטַ֔י","lemma":"מִשְׁפָּט","translit":"mishepatay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H4941"},{"id":"leviticus-18-26-6","surface":"וְלֹ֣א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-26-7","surface":"תַעֲשׂ֔וּ","lemma":"עָשָׂה","translit":"ta`shv","morph":"Verb Qal Imperative 2nd masculine plural","glosses":[],"strongs":"H6213"},{"id":"leviticus-18-26-8","surface":"מִכֹּ֥ל","lemma":"כֹּל","translit":"mikol","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-18-26-9","surface":"הַתּוֹעֵבֹ֖ת","lemma":"תּוֹעֵבַה","translit":"hatvo`ebot","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H8441"},{"id":"leviticus-18-26-10","surface":"הָאֵ֑לֶּה","lemma":"אֵלֶּה","translit":"ha'eleh","morph":"Particle dual + Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"leviticus-18-26-11","surface":"הָֽאֶזְרָ֔ח","lemma":"אֶזְרָח","translit":"ha'ezerach","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H249"},{"id":"leviticus-18-26-12","surface":"וְהַגֵּ֖ר","lemma":"גֵּר","translit":"vehager","morph":"Conjunction + Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1616"},{"id":"leviticus-18-26-13","surface":"הַגָּ֥ר","lemma":"גּוּר","translit":"hagar","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H1481"},{"id":"leviticus-18-26-14","surface":"בְּתוֹכְכֶֽם","lemma":"תָּוֶךְ","translit":"betvokekem","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H8432"}],"language":"hebrew"},{"ref":"Leviticus 18:27","englishText":"(for all these abominations have the men of the land done, that were before you, and the land became defiled);","tokens":[{"id":"leviticus-18-27-0","surface":"כִּ֚י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-18-27-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-27-2","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-18-27-3","surface":"הַתּוֹעֵבֹ֣ת","lemma":"תּוֹעֵבַה","translit":"hatvo`ebot","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H8441"},{"id":"leviticus-18-27-4","surface":"הָאֵ֔ל","lemma":"אֵל","translit":"ha'el","morph":"Particle dual + Pronoun dual common plural","glosses":[],"strongs":"H411"},{"id":"leviticus-18-27-5","surface":"עָשׂ֥וּ","lemma":"עָשָׂה","translit":"`ashv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H6213"},{"id":"leviticus-18-27-6","surface":"אַנְשֵֽׁי","lemma":"אִישׁ","translit":"'aneshey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H376"},{"id":"leviticus-18-27-7","surface":"הָאָ֖רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"leviticus-18-27-8","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-18-27-9","surface":"לִפְנֵיכֶ֑ם","lemma":"פָּנִים","translit":"lipeneykem","morph":"Preposition + Noun common plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H6440"},{"id":"leviticus-18-27-10","surface":"וַתִּטְמָ֖א","lemma":"טָמֵא","translit":"vatitema'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H2930"},{"id":"leviticus-18-27-11","surface":"הָאָֽרֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Leviticus 18:28","englishText":"that the land not vomit you out also, when you defile it, as it vomited out the nation that was before you.  ","tokens":[{"id":"leviticus-18-28-0","surface":"וְלֹֽא","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-28-1","surface":"תָקִ֤יא","lemma":"קוֹא","translit":"taqiy'","morph":"Verb Hiphil Imperative 3rd feminine singular","glosses":[],"strongs":"H6958"},{"id":"leviticus-18-28-2","surface":"הָאָ֨רֶץ֙","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"leviticus-18-28-3","surface":"אֶתְכֶ֔ם","lemma":"אֵת","translit":"'etekem","morph":"Particle + Suffix plural 2nd masculine","glosses":[],"strongs":"H853"},{"id":"leviticus-18-28-4","surface":"בְּטַֽמַּאֲכֶ֖ם","lemma":"טָמֵא","translit":"betama'kem","morph":"Preposition + Verb Piel Infinitive Construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H2930"},{"id":"leviticus-18-28-5","surface":"אֹתָ֑הּ","lemma":"אֵת","translit":"'otah","morph":"Particle + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H853"},{"id":"leviticus-18-28-6","surface":"כַּאֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"ka'sher","morph":"Preposition + Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-18-28-7","surface":"קָאָ֛ה","lemma":"קוֹא","translit":"qa'ah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H6958"},{"id":"leviticus-18-28-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-28-9","surface":"הַגּ֖וֹי","lemma":"גּוֹי","translit":"hagvoy","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1471"},{"id":"leviticus-18-28-10","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-18-28-11","surface":"לִפְנֵיכֶֽם","lemma":"פָּנִים","translit":"lipeneykem","morph":"Preposition + Noun common plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H6440"}],"language":"hebrew"},{"ref":"Leviticus 18:29","englishText":"  “‘For whoever shall do any of these abominations, even the souls that do them shall be cut off from among their people.","tokens":[{"id":"leviticus-18-29-0","surface":"כִּ֚י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"leviticus-18-29-1","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-18-29-2","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-18-29-3","surface":"יַעֲשֶׂ֔ה","lemma":"עָשָׂה","translit":"ya`sheh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H6213"},{"id":"leviticus-18-29-4","surface":"מִכֹּ֥ל","lemma":"כֹּל","translit":"mikol","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"leviticus-18-29-5","surface":"הַתּוֹעֵב֖וֹת","lemma":"תּוֹעֵבַה","translit":"hatvo`ebvot","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H8441"},{"id":"leviticus-18-29-6","surface":"הָאֵ֑לֶּה","lemma":"אֵלֶּה","translit":"ha'eleh","morph":"Particle dual + Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"leviticus-18-29-7","surface":"וְנִכְרְת֛וּ","lemma":"כָּרַת","translit":"venikeretv","morph":"Conjunction + Verb Niphal Perfect 3rd common plural","glosses":[],"strongs":"H3772"},{"id":"leviticus-18-29-8","surface":"הַנְּפָשׁ֥וֹת","lemma":"נֶפֶשׁ","translit":"hanepashvot","morph":"Particle dual + Noun common plural absolute","glosses":[],"strongs":"H5315"},{"id":"leviticus-18-29-9","surface":"הָעֹשֹׂ֖ת","lemma":"עָשָׂה","translit":"ha`oshot","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H6213"},{"id":"leviticus-18-29-10","surface":"מִקֶּ֥רֶב","lemma":"קֶרֶב","translit":"miqereb","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H7130"},{"id":"leviticus-18-29-11","surface":"עַמָּֽם","lemma":"עַם","translit":"`amam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H5971"}],"language":"hebrew"},{"ref":"Leviticus 18:30","englishText":"Therefore you shall keep my requirements, that you do not practice any of these abominable customs, which were practiced before you, and that you do not defile yourselves with them. I am Yahweh your God.’”   ","tokens":[{"id":"leviticus-18-30-0","surface":"וּשְׁמַרְתֶּ֣ם","lemma":"שָׁמַר","translit":"vshemaretem","morph":"Conjunction + Verb Qal Perfect 2nd masculine plural","glosses":[],"strongs":"H8104"},{"id":"leviticus-18-30-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"leviticus-18-30-2","surface":"מִשְׁמַרְתִּ֗י","lemma":"מִשְׁמֶרֶת","translit":"mishemaretiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H4931"},{"id":"leviticus-18-30-3","surface":"לְבִלְתִּ֨י","lemma":"בִּלְתִּי","translit":"lebiletiy","morph":"Preposition + Conjunction","glosses":[],"strongs":"H1115"},{"id":"leviticus-18-30-4","surface":"עֲשׂ֜וֹת","lemma":"עָשָׂה","translit":"`shvot","morph":"Verb Qal Infinitive Construct","glosses":[],"strongs":"H6213"},{"id":"leviticus-18-30-5","surface":"מֵחֻקּ֤וֹת","lemma":"חֻקָּה","translit":"mechuqvot","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H2708"},{"id":"leviticus-18-30-6","surface":"הַתּֽוֹעֵבֹת֙","lemma":"תּוֹעֵבַה","translit":"hatvo`ebot","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H8441"},{"id":"leviticus-18-30-7","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"leviticus-18-30-8","surface":"נַעֲשׂ֣וּ","lemma":"עָשָׂה","translit":"na`shv","morph":"Verb Niphal Participle 3rd common plural","glosses":[],"strongs":"H6213"},{"id":"leviticus-18-30-9","surface":"לִפְנֵיכֶ֔ם","lemma":"פָּנִים","translit":"lipeneykem","morph":"Preposition + Noun common plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H6440"},{"id":"leviticus-18-30-10","surface":"וְלֹ֥א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"leviticus-18-30-11","surface":"תִֽטַּמְּא֖וּ","lemma":"טָמֵא","translit":"titame'v","morph":"Verb Hithpael Imperative 2nd masculine plural","glosses":[],"strongs":"H2930"},{"id":"leviticus-18-30-12","surface":"בָּהֶ֑ם","lemma":"בָּהֶ֑ם","translit":"bahem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]},{"id":"leviticus-18-30-13","surface":"אֲנִ֖י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"leviticus-18-30-14","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"leviticus-18-30-15","surface":"אֱלֹהֵיכֶֽם","lemma":"אֱלֹהִים","translit":"'loheykem","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H430"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "leviticus-18",
+  "name": "Leviticus",
+  "chapter": 18,
+  "verses": [
+    {
+      "ref": "Leviticus 18:1",
+      "englishText": "Yahweh said to Moses,",
+      "tokens": [
+        {
+          "id": "leviticus-18-1-0",
+          "surface": "וַיְדַבֵּ֥ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "leviticus-18-1-1",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-18-1-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-18-1-3",
+          "surface": "מֹשֶׁ֥ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "leviticus-18-1-4",
+          "surface": "לֵּאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:2",
+      "englishText": "“Speak to the children of Israel, and say to them, ‘I am Yahweh your God.",
+      "tokens": [
+        {
+          "id": "leviticus-18-2-0",
+          "surface": "דַּבֵּר֙",
+          "lemma": "דָבַר",
+          "translit": "daber",
+          "morph": "Verb Piel Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "leviticus-18-2-1",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-18-2-2",
+          "surface": "בְּנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "leviticus-18-2-3",
+          "surface": "יִשְׂרָאֵ֔ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "leviticus-18-2-4",
+          "surface": "וְאָמַרְתָּ֖",
+          "lemma": "אָמַר",
+          "translit": "ve'amareta",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "leviticus-18-2-5",
+          "surface": "אֲלֵהֶ֑ם",
+          "lemma": "אֵל",
+          "translit": "'lehem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-18-2-6",
+          "surface": "אֲנִ֖י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-18-2-7",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-18-2-8",
+          "surface": "אֱלֹהֵיכֶֽם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheykem",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:3",
+      "englishText": "You shall not do as they do in the land of Egypt, where you lived: and you shall not do as they do in the land of Canaan, where I am bringing you; neither shall you walk in their statutes.",
+      "tokens": [
+        {
+          "id": "leviticus-18-3-0",
+          "surface": "כְּמַעֲשֵׂ֧ה",
+          "lemma": "מַעֲשֶׂה",
+          "translit": "kema`sheh",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4639"
+        },
+        {
+          "id": "leviticus-18-3-1",
+          "surface": "אֶֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "'erets",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "leviticus-18-3-2",
+          "surface": "מִצְרַ֛יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "leviticus-18-3-3",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-18-3-4",
+          "surface": "יְשַׁבְתֶּם",
+          "lemma": "יָשַׁב",
+          "translit": "yeshabetem",
+          "morph": "Verb Qal Participle 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "leviticus-18-3-5",
+          "surface": "בָּ֖הּ",
+          "lemma": "בָּ֖הּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-18-3-6",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-3-7",
+          "surface": "תַעֲשׂ֑וּ",
+          "lemma": "עָשָׂה",
+          "translit": "ta`shv",
+          "morph": "Verb Qal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "leviticus-18-3-8",
+          "surface": "וּכְמַעֲשֵׂ֣ה",
+          "lemma": "מַעֲשֶׂה",
+          "translit": "vkema`sheh",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4639"
+        },
+        {
+          "id": "leviticus-18-3-9",
+          "surface": "אֶֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "'erets",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "leviticus-18-3-10",
+          "surface": "כְּנַ֡עַן",
+          "lemma": "כְּנַעַן",
+          "translit": "kena`an",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3667"
+        },
+        {
+          "id": "leviticus-18-3-11",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-18-3-12",
+          "surface": "אֲנִי֩",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-18-3-13",
+          "surface": "מֵבִ֨יא",
+          "lemma": "בּוֹא",
+          "translit": "mebiy'",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "leviticus-18-3-14",
+          "surface": "אֶתְכֶ֥ם",
+          "lemma": "אֵת",
+          "translit": "'etekem",
+          "morph": "Particle + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-3-15",
+          "surface": "שָׁ֨מָּה֙",
+          "lemma": "שָׁם",
+          "translit": "shamah",
+          "morph": "Adverb + Suffix dual",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "leviticus-18-3-16",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-3-17",
+          "surface": "תַעֲשׂ֔וּ",
+          "lemma": "עָשָׂה",
+          "translit": "ta`shv",
+          "morph": "Verb Qal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "leviticus-18-3-18",
+          "surface": "וּבְחֻקֹּתֵיהֶ֖ם",
+          "lemma": "חֻקָּה",
+          "translit": "vbechuqoteyhem",
+          "morph": "Conjunction + Preposition + Noun common plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H2708"
+        },
+        {
+          "id": "leviticus-18-3-19",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-3-20",
+          "surface": "תֵלֵֽכוּ",
+          "lemma": "יָלַךְ",
+          "translit": "telekv",
+          "morph": "Verb Qal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3212"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:4",
+      "englishText": "You shall do my ordinances, and you shall keep my statutes, and walk in them: I am Yahweh your God.",
+      "tokens": [
+        {
+          "id": "leviticus-18-4-0",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-4-1",
+          "surface": "מִשְׁפָּטַ֧י",
+          "lemma": "מִשְׁפָּט",
+          "translit": "mishepatay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "leviticus-18-4-2",
+          "surface": "תַּעֲשׂ֛וּ",
+          "lemma": "עָשָׂה",
+          "translit": "ta`shv",
+          "morph": "Verb Qal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "leviticus-18-4-3",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-4-4",
+          "surface": "חֻקֹּתַ֥י",
+          "lemma": "חֻקָּה",
+          "translit": "chuqotay",
+          "morph": "Noun common plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2708"
+        },
+        {
+          "id": "leviticus-18-4-5",
+          "surface": "תִּשְׁמְר֖וּ",
+          "lemma": "שָׁמַר",
+          "translit": "tishemerv",
+          "morph": "Verb Qal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H8104"
+        },
+        {
+          "id": "leviticus-18-4-6",
+          "surface": "לָלֶ֣כֶת",
+          "lemma": "יָלַךְ",
+          "translit": "laleket",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "leviticus-18-4-7",
+          "surface": "בָּהֶ֑ם",
+          "lemma": "בָּהֶ֑ם",
+          "translit": "bahem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-18-4-8",
+          "surface": "אֲנִ֖י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-18-4-9",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-18-4-10",
+          "surface": "אֱלֹהֵיכֶֽם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheykem",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:5",
+      "englishText": "You shall therefore keep my statutes and my ordinances; which if a man does, he shall live in them. I am Yahweh.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-5-0",
+          "surface": "וּשְׁמַרְתֶּ֤ם",
+          "lemma": "שָׁמַר",
+          "translit": "vshemaretem",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H8104"
+        },
+        {
+          "id": "leviticus-18-5-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-5-2",
+          "surface": "חֻקֹּתַי֙",
+          "lemma": "חֻקָּה",
+          "translit": "chuqotay",
+          "morph": "Noun common plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2708"
+        },
+        {
+          "id": "leviticus-18-5-3",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-5-4",
+          "surface": "מִשְׁפָּטַ֔י",
+          "lemma": "מִשְׁפָּט",
+          "translit": "mishepatay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "leviticus-18-5-5",
+          "surface": "אֲשֶׁ֨ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-18-5-6",
+          "surface": "יַעֲשֶׂ֥ה",
+          "lemma": "עָשָׂה",
+          "translit": "ya`sheh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "leviticus-18-5-7",
+          "surface": "אֹתָ֛ם",
+          "lemma": "אֵת",
+          "translit": "'otam",
+          "morph": "Particle + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-5-8",
+          "surface": "הָאָדָ֖ם",
+          "lemma": "אָדָם",
+          "translit": "ha'adam",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        },
+        {
+          "id": "leviticus-18-5-9",
+          "surface": "וָחַ֣י",
+          "lemma": "חָיַי",
+          "translit": "vachay",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2425"
+        },
+        {
+          "id": "leviticus-18-5-10",
+          "surface": "בָּהֶ֑ם",
+          "lemma": "בָּהֶ֑ם",
+          "translit": "bahem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-18-5-11",
+          "surface": "אֲנִ֖י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-18-5-12",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:6",
+      "englishText": "  “‘None of you shall approach anyone who are his close relatives, to uncover their nakedness: I am Yahweh.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-6-0",
+          "surface": "אִ֥ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-18-6-1",
+          "surface": "אִישׁ֙",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-18-6-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-18-6-3",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-18-6-4",
+          "surface": "שְׁאֵ֣ר",
+          "lemma": "שְׁאֵר",
+          "translit": "she'er",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7607"
+        },
+        {
+          "id": "leviticus-18-6-5",
+          "surface": "בְּשָׂר֔וֹ",
+          "lemma": "בָּשָׂר",
+          "translit": "besharvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1320"
+        },
+        {
+          "id": "leviticus-18-6-6",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-6-7",
+          "surface": "תִקְרְב֖וּ",
+          "lemma": "קָרַב",
+          "translit": "tiqerebv",
+          "morph": "Verb Qal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "leviticus-18-6-8",
+          "surface": "לְגַלּ֣וֹת",
+          "lemma": "גָּלָה",
+          "translit": "legalvot",
+          "morph": "Preposition + Verb Piel Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-6-9",
+          "surface": "עֶרְוָ֑ה",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-6-10",
+          "surface": "אֲנִ֖י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-18-6-11",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:7",
+      "englishText": "  “‘You shall not uncover the nakedness of your father, nor the nakedness of your mother: she is your mother. You shall not uncover her nakedness.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-7-0",
+          "surface": "עֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-7-1",
+          "surface": "אָבִ֛יךָ",
+          "lemma": "אָב",
+          "translit": "'abiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-18-7-2",
+          "surface": "וְעֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "ve`erevat",
+          "morph": "Conjunction + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-7-3",
+          "surface": "אִמְּךָ֖",
+          "lemma": "אֵם",
+          "translit": "'imeka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H517"
+        },
+        {
+          "id": "leviticus-18-7-4",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-7-5",
+          "surface": "תְגַלֵּ֑ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-7-6",
+          "surface": "אִמְּךָ֣",
+          "lemma": "אֵם",
+          "translit": "'imeka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H517"
+        },
+        {
+          "id": "leviticus-18-7-7",
+          "surface": "הִ֔וא",
+          "lemma": "הוּא",
+          "translit": "hiv'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "leviticus-18-7-8",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-7-9",
+          "surface": "תְגַלֶּ֖ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-7-10",
+          "surface": "עֶרְוָתָֽהּ",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevatah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6172"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:8",
+      "englishText": "  “‘You shall not uncover the nakedness of your father’s wife. It is your father’s nakedness.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-8-0",
+          "surface": "עֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-8-1",
+          "surface": "אֵֽשֶׁת",
+          "lemma": "אִשָּׁה",
+          "translit": "'eshet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-8-2",
+          "surface": "אָבִ֖יךָ",
+          "lemma": "אָב",
+          "translit": "'abiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-18-8-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-8-4",
+          "surface": "תְגַלֵּ֑ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-8-5",
+          "surface": "עֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-8-6",
+          "surface": "אָבִ֖יךָ",
+          "lemma": "אָב",
+          "translit": "'abiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-18-8-7",
+          "surface": "הִֽוא",
+          "lemma": "הוּא",
+          "translit": "hiv'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:9",
+      "englishText": "  “‘You shall not uncover the nakedness of your sister, the daughter of your father, or the daughter of your mother, whether born at home, or born abroad.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-9-0",
+          "surface": "עֶרְוַ֨ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-9-1",
+          "surface": "אֲחֽוֹתְךָ֤",
+          "lemma": "אָחוֹת",
+          "translit": "'chvoteka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H269"
+        },
+        {
+          "id": "leviticus-18-9-2",
+          "surface": "בַת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-18-9-3",
+          "surface": "אָבִ֨יךָ֙",
+          "lemma": "אָב",
+          "translit": "'abiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-18-9-4",
+          "surface": "א֣וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-18-9-5",
+          "surface": "בַת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-18-9-6",
+          "surface": "אִמֶּ֔ךָ",
+          "lemma": "אֵם",
+          "translit": "'imeka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H517"
+        },
+        {
+          "id": "leviticus-18-9-7",
+          "surface": "מוֹלֶ֣דֶת",
+          "lemma": "מוֹלֶדֶת",
+          "translit": "mvoledet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4138"
+        },
+        {
+          "id": "leviticus-18-9-8",
+          "surface": "בַּ֔יִת",
+          "lemma": "בַּיִת",
+          "translit": "bayit",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "leviticus-18-9-9",
+          "surface": "א֖וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-18-9-10",
+          "surface": "מוֹלֶ֣דֶת",
+          "lemma": "מוֹלֶדֶת",
+          "translit": "mvoledet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4138"
+        },
+        {
+          "id": "leviticus-18-9-11",
+          "surface": "ח֑וּץ",
+          "lemma": "חוּץ",
+          "translit": "chvts",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2351"
+        },
+        {
+          "id": "leviticus-18-9-12",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-9-13",
+          "surface": "תְגַלֶּ֖ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-9-14",
+          "surface": "עֶרְוָתָֽן",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevatan",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H6172"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:10",
+      "englishText": "  “‘You shall not uncover the nakedness of your son’s daughter, or of your daughter’s daughter, even their nakedness: for theirs is your own nakedness.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-10-0",
+          "surface": "עֶרְוַ֤ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-10-1",
+          "surface": "בַּת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-18-10-2",
+          "surface": "בִּנְךָ֙",
+          "lemma": "בֵּן",
+          "translit": "bineka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "leviticus-18-10-3",
+          "surface": "א֣וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "leviticus-18-10-4",
+          "surface": "בַֽת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-18-10-5",
+          "surface": "בִּתְּךָ֔",
+          "lemma": "בַּת",
+          "translit": "biteka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-18-10-6",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-10-7",
+          "surface": "תְגַלֶּ֖ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-10-8",
+          "surface": "עֶרְוָתָ֑ן",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevatan",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-10-9",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-18-10-10",
+          "surface": "עֶרְוָתְךָ֖",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-10-11",
+          "surface": "הֵֽנָּה",
+          "lemma": "הֵנָּה",
+          "translit": "henah",
+          "morph": "Pronoun plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H2007"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:11",
+      "englishText": "  “‘You shall not uncover the nakedness of your father’s wife’s daughter, conceived by your father, since she is your sister.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-11-0",
+          "surface": "עֶרְוַ֨ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-11-1",
+          "surface": "בַּת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-18-11-2",
+          "surface": "אֵ֤שֶׁת",
+          "lemma": "אִשָּׁה",
+          "translit": "'eshet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-11-3",
+          "surface": "אָבִ֨יךָ֙",
+          "lemma": "אָב",
+          "translit": "'abiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-18-11-4",
+          "surface": "מוֹלֶ֣דֶת",
+          "lemma": "מוֹלֶדֶת",
+          "translit": "mvoledet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4138"
+        },
+        {
+          "id": "leviticus-18-11-5",
+          "surface": "אָבִ֔יךָ",
+          "lemma": "אָב",
+          "translit": "'abiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-18-11-6",
+          "surface": "אֲחוֹתְךָ֖",
+          "lemma": "אָחוֹת",
+          "translit": "'chvoteka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H269"
+        },
+        {
+          "id": "leviticus-18-11-7",
+          "surface": "הִ֑וא",
+          "lemma": "הוּא",
+          "translit": "hiv'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "leviticus-18-11-8",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-11-9",
+          "surface": "תְגַלֶּ֖ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-11-10",
+          "surface": "עֶרְוָתָֽהּ",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevatah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6172"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:12",
+      "englishText": "  “‘You shall not uncover the nakedness of your father’s sister: she is your father’s near kinswoman.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-12-0",
+          "surface": "עֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-12-1",
+          "surface": "אֲחוֹת",
+          "lemma": "אָחוֹת",
+          "translit": "'chvot",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H269"
+        },
+        {
+          "id": "leviticus-18-12-2",
+          "surface": "אָבִ֖יךָ",
+          "lemma": "אָב",
+          "translit": "'abiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-18-12-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-12-4",
+          "surface": "תְגַלֵּ֑ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-12-5",
+          "surface": "שְׁאֵ֥ר",
+          "lemma": "שְׁאֵר",
+          "translit": "she'er",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7607"
+        },
+        {
+          "id": "leviticus-18-12-6",
+          "surface": "אָבִ֖יךָ",
+          "lemma": "אָב",
+          "translit": "'abiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-18-12-7",
+          "surface": "הִֽוא",
+          "lemma": "הוּא",
+          "translit": "hiv'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:13",
+      "englishText": "  “‘You shall not uncover the nakedness of your mother’s sister: for she is your mother’s near kinswoman.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-13-0",
+          "surface": "עֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-13-1",
+          "surface": "אֲחֽוֹת",
+          "lemma": "אָחוֹת",
+          "translit": "'chvot",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H269"
+        },
+        {
+          "id": "leviticus-18-13-2",
+          "surface": "אִמְּךָ֖",
+          "lemma": "אֵם",
+          "translit": "'imeka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H517"
+        },
+        {
+          "id": "leviticus-18-13-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-13-4",
+          "surface": "תְגַלֵּ֑ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-13-5",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-18-13-6",
+          "surface": "שְׁאֵ֥ר",
+          "lemma": "שְׁאֵר",
+          "translit": "she'er",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7607"
+        },
+        {
+          "id": "leviticus-18-13-7",
+          "surface": "אִמְּךָ֖",
+          "lemma": "אֵם",
+          "translit": "'imeka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H517"
+        },
+        {
+          "id": "leviticus-18-13-8",
+          "surface": "הִֽוא",
+          "lemma": "הוּא",
+          "translit": "hiv'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:14",
+      "englishText": "  “‘You shall not uncover the nakedness of your father’s brother, you shall not approach his wife. She is your aunt.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-14-0",
+          "surface": "עֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-14-1",
+          "surface": "אֲחִֽי",
+          "lemma": "אָח",
+          "translit": "'chiy",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H251"
+        },
+        {
+          "id": "leviticus-18-14-2",
+          "surface": "אָבִ֖יךָ",
+          "lemma": "אָב",
+          "translit": "'abiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "leviticus-18-14-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-14-4",
+          "surface": "תְגַלֵּ֑ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-14-5",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-18-14-6",
+          "surface": "אִשְׁתּוֹ֙",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishetvo",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-14-7",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-14-8",
+          "surface": "תִקְרָ֔ב",
+          "lemma": "קָרַב",
+          "translit": "tiqerab",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "leviticus-18-14-9",
+          "surface": "דֹּדָֽתְךָ֖",
+          "lemma": "דּוֹדָה",
+          "translit": "dodateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1733"
+        },
+        {
+          "id": "leviticus-18-14-10",
+          "surface": "הִֽוא",
+          "lemma": "הוּא",
+          "translit": "hiv'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:15",
+      "englishText": "  “‘You shall not uncover the nakedness of your daughter-in-law: she is your son’s wife. You shall not uncover her nakedness.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-15-0",
+          "surface": "עֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-15-1",
+          "surface": "כַּלָּֽתְךָ֖",
+          "lemma": "כַּלָּה",
+          "translit": "kalateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3618"
+        },
+        {
+          "id": "leviticus-18-15-2",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-15-3",
+          "surface": "תְגַלֵּ֑ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-15-4",
+          "surface": "אֵ֤שֶׁת",
+          "lemma": "אִשָּׁה",
+          "translit": "'eshet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-15-5",
+          "surface": "בִּנְךָ֙",
+          "lemma": "בֵּן",
+          "translit": "bineka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "leviticus-18-15-6",
+          "surface": "הִ֔וא",
+          "lemma": "הוּא",
+          "translit": "hiv'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "leviticus-18-15-7",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-15-8",
+          "surface": "תְגַלֶּ֖ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-15-9",
+          "surface": "עֶרְוָתָֽהּ",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevatah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6172"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:16",
+      "englishText": "  “‘You shall not uncover the nakedness of your brother’s wife. It is your brother’s nakedness.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-16-0",
+          "surface": "עֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-16-1",
+          "surface": "אֵֽשֶׁת",
+          "lemma": "אִשָּׁה",
+          "translit": "'eshet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-16-2",
+          "surface": "אָחִ֖יךָ",
+          "lemma": "אָח",
+          "translit": "'achiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H251"
+        },
+        {
+          "id": "leviticus-18-16-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-16-4",
+          "surface": "תְגַלֵּ֑ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-16-5",
+          "surface": "עֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-16-6",
+          "surface": "אָחִ֖יךָ",
+          "lemma": "אָח",
+          "translit": "'achiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H251"
+        },
+        {
+          "id": "leviticus-18-16-7",
+          "surface": "הִֽוא",
+          "lemma": "הוּא",
+          "translit": "hiv'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:17",
+      "englishText": "  “‘You shall not uncover the nakedness of a woman and her daughter. You shall not take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; they are near kinswomen: it is wickedness.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-17-0",
+          "surface": "עֶרְוַ֥ת",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-17-1",
+          "surface": "אִשָּׁ֛ה",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-17-2",
+          "surface": "וּבִתָּ֖הּ",
+          "lemma": "בַּת",
+          "translit": "vbitah",
+          "morph": "Conjunction + Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-18-17-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-17-4",
+          "surface": "תְגַלֵּ֑ה",
+          "lemma": "גָּלָה",
+          "translit": "tegaleh",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-17-5",
+          "surface": "אֶֽת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-17-6",
+          "surface": "בַּת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-18-17-7",
+          "surface": "בְּנָ֞הּ",
+          "lemma": "בֵּן",
+          "translit": "benah",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "leviticus-18-17-8",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-17-9",
+          "surface": "בַּת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-18-17-10",
+          "surface": "בִּתָּ֗הּ",
+          "lemma": "בַּת",
+          "translit": "bitah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "leviticus-18-17-11",
+          "surface": "לֹ֤א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-17-12",
+          "surface": "תִקַּח֙",
+          "lemma": "לָקַח",
+          "translit": "tiqach",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "leviticus-18-17-13",
+          "surface": "לְגַלּ֣וֹת",
+          "lemma": "גָּלָה",
+          "translit": "legalvot",
+          "morph": "Preposition + Verb Piel Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-17-14",
+          "surface": "עֶרְוָתָ֔הּ",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevatah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-17-15",
+          "surface": "שַׁאֲרָ֥ה",
+          "lemma": "שַׁאֲרָה",
+          "translit": "sha'rah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7608"
+        },
+        {
+          "id": "leviticus-18-17-16",
+          "surface": "הֵ֖נָּה",
+          "lemma": "הֵנָּה",
+          "translit": "henah",
+          "morph": "Pronoun plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H2007"
+        },
+        {
+          "id": "leviticus-18-17-17",
+          "surface": "זִמָּ֥ה",
+          "lemma": "זִמָּה",
+          "translit": "zimah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2154"
+        },
+        {
+          "id": "leviticus-18-17-18",
+          "surface": "הִֽוא",
+          "lemma": "הוּא",
+          "translit": "hiv'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:18",
+      "englishText": "  “‘You shall not take a wife to her sister, to be a rival, to uncover her nakedness, while her sister is yet alive.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-18-0",
+          "surface": "וְאִשָּׁ֥ה",
+          "lemma": "אִשָּׁה",
+          "translit": "ve'ishah",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-18-1",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-18-18-2",
+          "surface": "אֲחֹתָ֖הּ",
+          "lemma": "אָחוֹת",
+          "translit": "'chotah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H269"
+        },
+        {
+          "id": "leviticus-18-18-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-18-4",
+          "surface": "תִקָּ֑ח",
+          "lemma": "לָקַח",
+          "translit": "tiqach",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "leviticus-18-18-5",
+          "surface": "לִצְרֹ֗ר",
+          "lemma": "צָרַר",
+          "translit": "litseror",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H6887"
+        },
+        {
+          "id": "leviticus-18-18-6",
+          "surface": "לְגַלּ֧וֹת",
+          "lemma": "גָּלָה",
+          "translit": "legalvot",
+          "morph": "Preposition + Verb Piel Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-18-7",
+          "surface": "עֶרְוָתָ֛הּ",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevatah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6172"
+        },
+        {
+          "id": "leviticus-18-18-8",
+          "surface": "עָלֶ֖יהָ",
+          "lemma": "עַל",
+          "translit": "`aleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "leviticus-18-18-9",
+          "surface": "בְּחַיֶּֽיהָ",
+          "lemma": "חַי",
+          "translit": "bechayeyha",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2416"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:19",
+      "englishText": "  “‘You shall not approach a woman to uncover her nakedness, as long as she is impure by her uncleanness.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-19-0",
+          "surface": "וְאֶל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-18-19-1",
+          "surface": "אִשָּׁ֖ה",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-19-2",
+          "surface": "בְּנִדַּ֣ת",
+          "lemma": "נִדָּה",
+          "translit": "benidat",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H5079"
+        },
+        {
+          "id": "leviticus-18-19-3",
+          "surface": "טֻמְאָתָ֑הּ",
+          "lemma": "טֻמְאָה",
+          "translit": "tume'atah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2932"
+        },
+        {
+          "id": "leviticus-18-19-4",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-19-5",
+          "surface": "תִקְרַ֔ב",
+          "lemma": "קָרַב",
+          "translit": "tiqerab",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7126"
+        },
+        {
+          "id": "leviticus-18-19-6",
+          "surface": "לְגַלּ֖וֹת",
+          "lemma": "גָּלָה",
+          "translit": "legalvot",
+          "morph": "Preposition + Verb Piel Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1540"
+        },
+        {
+          "id": "leviticus-18-19-7",
+          "surface": "עֶרְוָתָֽהּ",
+          "lemma": "עֶרְוָה",
+          "translit": "`erevatah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6172"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:20",
+      "englishText": "  “‘You shall not lie carnally with your neighbor’s wife, and defile yourself with her.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-20-0",
+          "surface": "וְאֶל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "leviticus-18-20-1",
+          "surface": "אֵ֨שֶׁת֙",
+          "lemma": "אִשָּׁה",
+          "translit": "'eshet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-20-2",
+          "surface": "עֲמִֽיתְךָ֔",
+          "lemma": "עָמִית",
+          "translit": "`miyteka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5997"
+        },
+        {
+          "id": "leviticus-18-20-3",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-20-4",
+          "surface": "תִתֵּ֥ן",
+          "lemma": "נָתַן",
+          "translit": "titen",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "leviticus-18-20-5",
+          "surface": "שְׁכָבְתְּךָ֖",
+          "lemma": "שְׁכֹבֶת",
+          "translit": "shekabeteka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7903"
+        },
+        {
+          "id": "leviticus-18-20-6",
+          "surface": "לְזָ֑רַע",
+          "lemma": "זֶרַע",
+          "translit": "lezara`",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2233"
+        },
+        {
+          "id": "leviticus-18-20-7",
+          "surface": "לְטָמְאָה",
+          "lemma": "טָמֵא",
+          "translit": "letame'ah",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H2930"
+        },
+        {
+          "id": "leviticus-18-20-8",
+          "surface": "בָֽהּ",
+          "lemma": "בָֽהּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:21",
+      "englishText": "  “‘You shall not give any of your children to sacrifice to Molech; neither shall you profane the name of your God. I am Yahweh.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-21-0",
+          "surface": "וּמִֽזַּרְעֲךָ֥",
+          "lemma": "זֶרַע",
+          "translit": "vmizare`ka",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2233"
+        },
+        {
+          "id": "leviticus-18-21-1",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-21-2",
+          "surface": "תִתֵּ֖ן",
+          "lemma": "נָתַן",
+          "translit": "titen",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "leviticus-18-21-3",
+          "surface": "לְהַעֲבִ֣יר",
+          "lemma": "עָבַר",
+          "translit": "leha`biyr",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5674"
+        },
+        {
+          "id": "leviticus-18-21-4",
+          "surface": "לַמֹּ֑לֶךְ",
+          "lemma": "מֹלֶךְ",
+          "translit": "lamoleke",
+          "morph": "Preposition dual + Noun proper",
+          "glosses": [],
+          "strongs": "H4432"
+        },
+        {
+          "id": "leviticus-18-21-5",
+          "surface": "וְלֹ֧א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-21-6",
+          "surface": "תְחַלֵּ֛ל",
+          "lemma": "חָלַל",
+          "translit": "techalel",
+          "morph": "Verb Piel Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2490"
+        },
+        {
+          "id": "leviticus-18-21-7",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-21-8",
+          "surface": "שֵׁ֥ם",
+          "lemma": "שֵׁם",
+          "translit": "shem",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "leviticus-18-21-9",
+          "surface": "אֱלֹהֶ֖יךָ",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "leviticus-18-21-10",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-18-21-11",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:22",
+      "englishText": "  “‘You shall not lie with a man, as with a woman. That is detestable.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-22-0",
+          "surface": "וְאֶ֨ת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "leviticus-18-22-1",
+          "surface": "זָכָ֔ר",
+          "lemma": "זָכָר",
+          "translit": "zakar",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2145"
+        },
+        {
+          "id": "leviticus-18-22-2",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-22-3",
+          "surface": "תִשְׁכַּ֖ב",
+          "lemma": "שָׁכַב",
+          "translit": "tishekab",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7901"
+        },
+        {
+          "id": "leviticus-18-22-4",
+          "surface": "מִשְׁכְּבֵ֣י",
+          "lemma": "מִשְׁכָּב",
+          "translit": "mishekebey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H4904"
+        },
+        {
+          "id": "leviticus-18-22-5",
+          "surface": "אִשָּׁ֑ה",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-22-6",
+          "surface": "תּוֹעֵבָ֖ה",
+          "lemma": "תּוֹעֵבַה",
+          "translit": "tvo`ebah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8441"
+        },
+        {
+          "id": "leviticus-18-22-7",
+          "surface": "הִֽוא",
+          "lemma": "הוּא",
+          "translit": "hiv'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:23",
+      "englishText": "  “‘You shall not lie with any animal to defile yourself with it; neither shall any woman give herself to an animal, to lie down with it: it is a perversion.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-23-0",
+          "surface": "וּבְכָל",
+          "lemma": "כֹּל",
+          "translit": "vbekal",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-18-23-1",
+          "surface": "בְּהֵמָ֛ה",
+          "lemma": "בְּהֵמָה",
+          "translit": "behemah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H929"
+        },
+        {
+          "id": "leviticus-18-23-2",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-23-3",
+          "surface": "תִתֵּ֥ן",
+          "lemma": "נָתַן",
+          "translit": "titen",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "leviticus-18-23-4",
+          "surface": "שְׁכָבְתְּךָ֖",
+          "lemma": "שְׁכֹבֶת",
+          "translit": "shekabeteka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7903"
+        },
+        {
+          "id": "leviticus-18-23-5",
+          "surface": "לְטָמְאָה",
+          "lemma": "טָמֵא",
+          "translit": "letame'ah",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H2930"
+        },
+        {
+          "id": "leviticus-18-23-6",
+          "surface": "בָ֑הּ",
+          "lemma": "בָ֑הּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-18-23-7",
+          "surface": "וְאִשָּׁ֗ה",
+          "lemma": "אִשָּׁה",
+          "translit": "ve'ishah",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "leviticus-18-23-8",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-23-9",
+          "surface": "תַעֲמֹ֞ד",
+          "lemma": "עָמַד",
+          "translit": "ta`mod",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5975"
+        },
+        {
+          "id": "leviticus-18-23-10",
+          "surface": "לִפְנֵ֧י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "leviticus-18-23-11",
+          "surface": "בְהֵמָ֛ה",
+          "lemma": "בְּהֵמָה",
+          "translit": "behemah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H929"
+        },
+        {
+          "id": "leviticus-18-23-12",
+          "surface": "לְרִבְעָ֖הּ",
+          "lemma": "רָבַע",
+          "translit": "leribe`ah",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7250"
+        },
+        {
+          "id": "leviticus-18-23-13",
+          "surface": "תֶּ֥בֶל",
+          "lemma": "תֶּבֶל",
+          "translit": "tebel",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8397"
+        },
+        {
+          "id": "leviticus-18-23-14",
+          "surface": "הֽוּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:24",
+      "englishText": "  “‘Don’t defile yourselves in any of these things: for in all these the nations which I am casting out before you were defiled.",
+      "tokens": [
+        {
+          "id": "leviticus-18-24-0",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "leviticus-18-24-1",
+          "surface": "תִּֽטַּמְּא֖וּ",
+          "lemma": "טָמֵא",
+          "translit": "titame'v",
+          "morph": "Verb Hithpael Jussive 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H2930"
+        },
+        {
+          "id": "leviticus-18-24-2",
+          "surface": "בְּכָל",
+          "lemma": "כֹּל",
+          "translit": "bekal",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-18-24-3",
+          "surface": "אֵ֑לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "leviticus-18-24-4",
+          "surface": "כִּ֤י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-18-24-5",
+          "surface": "בְכָל",
+          "lemma": "כֹּל",
+          "translit": "bekal",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-18-24-6",
+          "surface": "אֵ֨לֶּה֙",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "leviticus-18-24-7",
+          "surface": "נִטְמְא֣וּ",
+          "lemma": "טָמֵא",
+          "translit": "niteme'v",
+          "morph": "Verb Niphal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H2930"
+        },
+        {
+          "id": "leviticus-18-24-8",
+          "surface": "הַגּוֹיִ֔ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "leviticus-18-24-9",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-18-24-10",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-18-24-11",
+          "surface": "מְשַׁלֵּ֖חַ",
+          "lemma": "שָׁלַח",
+          "translit": "meshalecha",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "leviticus-18-24-12",
+          "surface": "מִפְּנֵיכֶֽם",
+          "lemma": "פָּנִים",
+          "translit": "mipeneykem",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H6440"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:25",
+      "englishText": "The land was defiled: therefore I punished its iniquity, and the land vomited out her inhabitants.",
+      "tokens": [
+        {
+          "id": "leviticus-18-25-0",
+          "surface": "וַתִּטְמָ֣א",
+          "lemma": "טָמֵא",
+          "translit": "vatitema'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2930"
+        },
+        {
+          "id": "leviticus-18-25-1",
+          "surface": "הָאָ֔רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "leviticus-18-25-2",
+          "surface": "וָאֶפְקֹ֥ד",
+          "lemma": "פָּקַד",
+          "translit": "va'epeqod",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 1st common singular",
+          "glosses": [],
+          "strongs": "H6485"
+        },
+        {
+          "id": "leviticus-18-25-3",
+          "surface": "עֲוֺנָ֖הּ",
+          "lemma": "עָוֺן",
+          "translit": "`vnah",
+          "morph": "Noun common singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5771"
+        },
+        {
+          "id": "leviticus-18-25-4",
+          "surface": "עָלֶ֑יהָ",
+          "lemma": "עַל",
+          "translit": "`aleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "leviticus-18-25-5",
+          "surface": "וַתָּקִ֥א",
+          "lemma": "קוֹא",
+          "translit": "vataqi'",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6958"
+        },
+        {
+          "id": "leviticus-18-25-6",
+          "surface": "הָאָ֖רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "leviticus-18-25-7",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-25-8",
+          "surface": "יֹשְׁבֶֽיהָ",
+          "lemma": "יָשַׁב",
+          "translit": "yoshebeyha",
+          "morph": "Verb Qal Passive Participle + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3427"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:26",
+      "englishText": "You therefore shall keep my statutes and my ordinances, and shall not do any of these abominations; neither the native-born, nor the stranger who lives as a foreigner among you;",
+      "tokens": [
+        {
+          "id": "leviticus-18-26-0",
+          "surface": "וּשְׁמַרְתֶּ֣ם",
+          "lemma": "שָׁמַר",
+          "translit": "vshemaretem",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H8104"
+        },
+        {
+          "id": "leviticus-18-26-1",
+          "surface": "אַתֶּ֗ם",
+          "lemma": "אַתָּה",
+          "translit": "'atem",
+          "morph": "Pronoun plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "leviticus-18-26-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-26-3",
+          "surface": "חֻקֹּתַי֙",
+          "lemma": "חֻקָּה",
+          "translit": "chuqotay",
+          "morph": "Noun common plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2708"
+        },
+        {
+          "id": "leviticus-18-26-4",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-26-5",
+          "surface": "מִשְׁפָּטַ֔י",
+          "lemma": "מִשְׁפָּט",
+          "translit": "mishepatay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "leviticus-18-26-6",
+          "surface": "וְלֹ֣א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-26-7",
+          "surface": "תַעֲשׂ֔וּ",
+          "lemma": "עָשָׂה",
+          "translit": "ta`shv",
+          "morph": "Verb Qal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "leviticus-18-26-8",
+          "surface": "מִכֹּ֥ל",
+          "lemma": "כֹּל",
+          "translit": "mikol",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-18-26-9",
+          "surface": "הַתּוֹעֵבֹ֖ת",
+          "lemma": "תּוֹעֵבַה",
+          "translit": "hatvo`ebot",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H8441"
+        },
+        {
+          "id": "leviticus-18-26-10",
+          "surface": "הָאֵ֑לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "ha'eleh",
+          "morph": "Particle dual + Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "leviticus-18-26-11",
+          "surface": "הָֽאֶזְרָ֔ח",
+          "lemma": "אֶזְרָח",
+          "translit": "ha'ezerach",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H249"
+        },
+        {
+          "id": "leviticus-18-26-12",
+          "surface": "וְהַגֵּ֖ר",
+          "lemma": "גֵּר",
+          "translit": "vehager",
+          "morph": "Conjunction + Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1616"
+        },
+        {
+          "id": "leviticus-18-26-13",
+          "surface": "הַגָּ֥ר",
+          "lemma": "גּוּר",
+          "translit": "hagar",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H1481"
+        },
+        {
+          "id": "leviticus-18-26-14",
+          "surface": "בְּתוֹכְכֶֽם",
+          "lemma": "תָּוֶךְ",
+          "translit": "betvokekem",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H8432"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:27",
+      "englishText": "(for all these abominations have the men of the land done, that were before you, and the land became defiled);",
+      "tokens": [
+        {
+          "id": "leviticus-18-27-0",
+          "surface": "כִּ֚י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-18-27-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-27-2",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-18-27-3",
+          "surface": "הַתּוֹעֵבֹ֣ת",
+          "lemma": "תּוֹעֵבַה",
+          "translit": "hatvo`ebot",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H8441"
+        },
+        {
+          "id": "leviticus-18-27-4",
+          "surface": "הָאֵ֔ל",
+          "lemma": "אֵל",
+          "translit": "ha'el",
+          "morph": "Particle dual + Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H411"
+        },
+        {
+          "id": "leviticus-18-27-5",
+          "surface": "עָשׂ֥וּ",
+          "lemma": "עָשָׂה",
+          "translit": "`ashv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "leviticus-18-27-6",
+          "surface": "אַנְשֵֽׁי",
+          "lemma": "אִישׁ",
+          "translit": "'aneshey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "leviticus-18-27-7",
+          "surface": "הָאָ֖רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "leviticus-18-27-8",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-18-27-9",
+          "surface": "לִפְנֵיכֶ֑ם",
+          "lemma": "פָּנִים",
+          "translit": "lipeneykem",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "leviticus-18-27-10",
+          "surface": "וַתִּטְמָ֖א",
+          "lemma": "טָמֵא",
+          "translit": "vatitema'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2930"
+        },
+        {
+          "id": "leviticus-18-27-11",
+          "surface": "הָאָֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:28",
+      "englishText": "that the land not vomit you out also, when you defile it, as it vomited out the nation that was before you.  ",
+      "tokens": [
+        {
+          "id": "leviticus-18-28-0",
+          "surface": "וְלֹֽא",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-28-1",
+          "surface": "תָקִ֤יא",
+          "lemma": "קוֹא",
+          "translit": "taqiy'",
+          "morph": "Verb Hiphil Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6958"
+        },
+        {
+          "id": "leviticus-18-28-2",
+          "surface": "הָאָ֨רֶץ֙",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "leviticus-18-28-3",
+          "surface": "אֶתְכֶ֔ם",
+          "lemma": "אֵת",
+          "translit": "'etekem",
+          "morph": "Particle + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-28-4",
+          "surface": "בְּטַֽמַּאֲכֶ֖ם",
+          "lemma": "טָמֵא",
+          "translit": "betama'kem",
+          "morph": "Preposition + Verb Piel Infinitive Construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H2930"
+        },
+        {
+          "id": "leviticus-18-28-5",
+          "surface": "אֹתָ֑הּ",
+          "lemma": "אֵת",
+          "translit": "'otah",
+          "morph": "Particle + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-28-6",
+          "surface": "כַּאֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "ka'sher",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-18-28-7",
+          "surface": "קָאָ֛ה",
+          "lemma": "קוֹא",
+          "translit": "qa'ah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6958"
+        },
+        {
+          "id": "leviticus-18-28-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-28-9",
+          "surface": "הַגּ֖וֹי",
+          "lemma": "גּוֹי",
+          "translit": "hagvoy",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "leviticus-18-28-10",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-18-28-11",
+          "surface": "לִפְנֵיכֶֽם",
+          "lemma": "פָּנִים",
+          "translit": "lipeneykem",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H6440"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:29",
+      "englishText": "  “‘For whoever shall do any of these abominations, even the souls that do them shall be cut off from among their people.",
+      "tokens": [
+        {
+          "id": "leviticus-18-29-0",
+          "surface": "כִּ֚י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "leviticus-18-29-1",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-18-29-2",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-18-29-3",
+          "surface": "יַעֲשֶׂ֔ה",
+          "lemma": "עָשָׂה",
+          "translit": "ya`sheh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "leviticus-18-29-4",
+          "surface": "מִכֹּ֥ל",
+          "lemma": "כֹּל",
+          "translit": "mikol",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "leviticus-18-29-5",
+          "surface": "הַתּוֹעֵב֖וֹת",
+          "lemma": "תּוֹעֵבַה",
+          "translit": "hatvo`ebvot",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H8441"
+        },
+        {
+          "id": "leviticus-18-29-6",
+          "surface": "הָאֵ֑לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "ha'eleh",
+          "morph": "Particle dual + Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "leviticus-18-29-7",
+          "surface": "וְנִכְרְת֛וּ",
+          "lemma": "כָּרַת",
+          "translit": "venikeretv",
+          "morph": "Conjunction + Verb Niphal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H3772"
+        },
+        {
+          "id": "leviticus-18-29-8",
+          "surface": "הַנְּפָשׁ֥וֹת",
+          "lemma": "נֶפֶשׁ",
+          "translit": "hanepashvot",
+          "morph": "Particle dual + Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "leviticus-18-29-9",
+          "surface": "הָעֹשֹׂ֖ת",
+          "lemma": "עָשָׂה",
+          "translit": "ha`oshot",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "leviticus-18-29-10",
+          "surface": "מִקֶּ֥רֶב",
+          "lemma": "קֶרֶב",
+          "translit": "miqereb",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7130"
+        },
+        {
+          "id": "leviticus-18-29-11",
+          "surface": "עַמָּֽם",
+          "lemma": "עַם",
+          "translit": "`amam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5971"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Leviticus 18:30",
+      "englishText": "Therefore you shall keep my requirements, that you do not practice any of these abominable customs, which were practiced before you, and that you do not defile yourselves with them. I am Yahweh your God.’”   ",
+      "tokens": [
+        {
+          "id": "leviticus-18-30-0",
+          "surface": "וּשְׁמַרְתֶּ֣ם",
+          "lemma": "שָׁמַר",
+          "translit": "vshemaretem",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H8104"
+        },
+        {
+          "id": "leviticus-18-30-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "leviticus-18-30-2",
+          "surface": "מִשְׁמַרְתִּ֗י",
+          "lemma": "מִשְׁמֶרֶת",
+          "translit": "mishemaretiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H4931"
+        },
+        {
+          "id": "leviticus-18-30-3",
+          "surface": "לְבִלְתִּ֨י",
+          "lemma": "בִּלְתִּי",
+          "translit": "lebiletiy",
+          "morph": "Preposition + Conjunction",
+          "glosses": [],
+          "strongs": "H1115"
+        },
+        {
+          "id": "leviticus-18-30-4",
+          "surface": "עֲשׂ֜וֹת",
+          "lemma": "עָשָׂה",
+          "translit": "`shvot",
+          "morph": "Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "leviticus-18-30-5",
+          "surface": "מֵחֻקּ֤וֹת",
+          "lemma": "חֻקָּה",
+          "translit": "mechuqvot",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H2708"
+        },
+        {
+          "id": "leviticus-18-30-6",
+          "surface": "הַתּֽוֹעֵבֹת֙",
+          "lemma": "תּוֹעֵבַה",
+          "translit": "hatvo`ebot",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H8441"
+        },
+        {
+          "id": "leviticus-18-30-7",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "leviticus-18-30-8",
+          "surface": "נַעֲשׂ֣וּ",
+          "lemma": "עָשָׂה",
+          "translit": "na`shv",
+          "morph": "Verb Niphal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "leviticus-18-30-9",
+          "surface": "לִפְנֵיכֶ֔ם",
+          "lemma": "פָּנִים",
+          "translit": "lipeneykem",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "leviticus-18-30-10",
+          "surface": "וְלֹ֥א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "leviticus-18-30-11",
+          "surface": "תִֽטַּמְּא֖וּ",
+          "lemma": "טָמֵא",
+          "translit": "titame'v",
+          "morph": "Verb Hithpael Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H2930"
+        },
+        {
+          "id": "leviticus-18-30-12",
+          "surface": "בָּהֶ֑ם",
+          "lemma": "בָּהֶ֑ם",
+          "translit": "bahem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        },
+        {
+          "id": "leviticus-18-30-13",
+          "surface": "אֲנִ֖י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "leviticus-18-30-14",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "leviticus-18-30-15",
+          "surface": "אֱלֹהֵיכֶֽם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheykem",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

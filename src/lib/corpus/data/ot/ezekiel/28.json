@@ -1,1 +1,3357 @@
-{"id":"ezekiel-28","name":"Ezekiel","chapter":28,"verses":[{"ref":"Ezekiel 28:1","englishText":"Yahweh’s word came again to me, saying,","tokens":[{"id":"ezekiel-28-1-0","surface":"וַיְהִ֥י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"ezekiel-28-1-1","surface":"דְבַר","lemma":"דָּבָר","translit":"debar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"ezekiel-28-1-2","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"ezekiel-28-1-3","surface":"אֵלַ֥י","lemma":"אֵל","translit":"'elay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H413"},{"id":"ezekiel-28-1-4","surface":"לֵאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Ezekiel 28:2","englishText":"Son of man, tell the prince of Tyre, Thus says the Lord Yahweh: Because your heart is lifted up, and you have said, I am a god, I sit in the seat of God, in the midst of the seas; yet you are man, and not God, though you set your heart as the heart of God—","tokens":[{"id":"ezekiel-28-2-0","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"ezekiel-28-2-1","surface":"אָדָ֡ם","lemma":"אָדָם","translit":"'adam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H120"},{"id":"ezekiel-28-2-2","surface":"אֱמֹר֩","lemma":"אָמַר","translit":"'mor","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-2-3","surface":"לִנְגִ֨יד","lemma":"נָגִיד","translit":"linegiyd","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H5057"},{"id":"ezekiel-28-2-4","surface":"צֹ֜ר","lemma":"צֹר","translit":"tsor","morph":"Noun proper","glosses":[],"strongs":"H6865"},{"id":"ezekiel-28-2-5","surface":"כֹּֽה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"ezekiel-28-2-6","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-2-7","surface":"אֲדֹנָ֣י","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"ezekiel-28-2-8","surface":"יְהֹוִ֗ה","lemma":"יְהֹוִה","translit":"yehovih","morph":"Noun proper","glosses":[],"strongs":"H3069"},{"id":"ezekiel-28-2-9","surface":"יַ֣עַן","lemma":"יַעַן","translit":"ya`an","morph":"Conjunction","glosses":[],"strongs":"H3282"},{"id":"ezekiel-28-2-10","surface":"גָּבַ֤הּ","lemma":"גָּבַהּ","translit":"gabah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1361"},{"id":"ezekiel-28-2-11","surface":"לִבְּךָ֙","lemma":"לֵב","translit":"libeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3820"},{"id":"ezekiel-28-2-12","surface":"וַתֹּ֨אמֶר֙","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-2-13","surface":"אֵ֣ל","lemma":"אֵל","translit":"'el","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H410"},{"id":"ezekiel-28-2-14","surface":"אָ֔נִי","lemma":"אֲנִי","translit":"'aniy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"ezekiel-28-2-15","surface":"מוֹשַׁ֧ב","lemma":"מוֹשָׁב","translit":"mvoshab","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4186"},{"id":"ezekiel-28-2-16","surface":"אֱלֹהִ֛ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"ezekiel-28-2-17","surface":"יָשַׁ֖בְתִּי","lemma":"יָשַׁב","translit":"yashabetiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H3427"},{"id":"ezekiel-28-2-18","surface":"בְּלֵ֣ב","lemma":"לֵב","translit":"beleb","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3820"},{"id":"ezekiel-28-2-19","surface":"יַמִּ֑ים","lemma":"יָם","translit":"yamiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H3220"},{"id":"ezekiel-28-2-20","surface":"וְאַתָּ֤ה","lemma":"אַתָּה","translit":"ve'atah","morph":"Conjunction + Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"ezekiel-28-2-21","surface":"אָדָם֙","lemma":"אָדָם","translit":"'adam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H120"},{"id":"ezekiel-28-2-22","surface":"וְֽלֹא","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"ezekiel-28-2-23","surface":"אֵ֔ל","lemma":"אֵל","translit":"'el","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H410"},{"id":"ezekiel-28-2-24","surface":"וַתִּתֵּ֥ן","lemma":"נָתַן","translit":"vatiten","morph":"Conjunction + Verb Qal Wayyiqtol 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"ezekiel-28-2-25","surface":"לִבְּךָ֖","lemma":"לֵב","translit":"libeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3820"},{"id":"ezekiel-28-2-26","surface":"כְּלֵ֥ב","lemma":"לֵב","translit":"keleb","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3820"},{"id":"ezekiel-28-2-27","surface":"אֱלֹהִֽים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"}],"language":"hebrew"},{"ref":"Ezekiel 28:3","englishText":"behold, you are wiser than Daniel; there is no secret that is hidden from you;","tokens":[{"id":"ezekiel-28-3-0","surface":"הִנֵּ֥ה","lemma":"הִנֵּה","translit":"hineh","morph":"Particle masculine","glosses":[],"strongs":"H2009"},{"id":"ezekiel-28-3-1","surface":"חָכָ֛ם","lemma":"חָכָם","translit":"chakam","morph":"Adjective","glosses":[],"strongs":"H2450"},{"id":"ezekiel-28-3-2","surface":"אַתָּ֖ה","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"ezekiel-28-3-3","surface":"מדנאל","lemma":"דָנִיֵּאל","translit":"mdn'l","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1840"},{"id":"ezekiel-28-3-4","surface":"מִדָּֽנִיֵּ֑אל","lemma":"דָנִיֵּאל","translit":"midaniye'l","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1840"},{"id":"ezekiel-28-3-5","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"ezekiel-28-3-6","surface":"סָת֖וּם","lemma":"סָתַם","translit":"satvm","morph":"Verb Qal s","glosses":[],"strongs":"H5640"},{"id":"ezekiel-28-3-7","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"ezekiel-28-3-8","surface":"עֲמָמֽוּךָ","lemma":"עָמַם","translit":"`mamvka","morph":"Verb Qal Participle 3rd common plural + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6004"}],"language":"hebrew"},{"ref":"Ezekiel 28:4","englishText":"by your wisdom and by your understanding you have gotten yourself riches, and have gotten gold and silver into your treasures;","tokens":[{"id":"ezekiel-28-4-0","surface":"בְּחָכְמָֽתְךָ֙","lemma":"חׇכְמָה","translit":"bechakemateka","morph":"Preposition + Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2451"},{"id":"ezekiel-28-4-1","surface":"וּבִתְבוּנָ֣תְךָ֔","lemma":"תָּבוּן","translit":"vbitebvnateka","morph":"Conjunction + Preposition + Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8394"},{"id":"ezekiel-28-4-2","surface":"עָשִׂ֥יתָ","lemma":"עָשָׂה","translit":"`ashiyta","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H6213"},{"id":"ezekiel-28-4-3","surface":"לְּךָ֖","lemma":"לְּךָ֖","translit":"leka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[]},{"id":"ezekiel-28-4-4","surface":"חָ֑יִל","lemma":"חַיִל","translit":"chayil","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2428"},{"id":"ezekiel-28-4-5","surface":"וַתַּ֛עַשׂ","lemma":"עָשָׂה","translit":"vata`ash","morph":"Conjunction + Verb Qal Wayyiqtol 2nd masculine singular","glosses":[],"strongs":"H6213"},{"id":"ezekiel-28-4-6","surface":"זָהָ֥ב","lemma":"זָהָב","translit":"zahab","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2091"},{"id":"ezekiel-28-4-7","surface":"וָכֶ֖סֶף","lemma":"כֶּסֶף","translit":"vakesep","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H3701"},{"id":"ezekiel-28-4-8","surface":"בְּאוֹצְרוֹתֶֽיךָ","lemma":"אוֹצָר","translit":"be'votservoteyka","morph":"Preposition + Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H214"}],"language":"hebrew"},{"ref":"Ezekiel 28:5","englishText":"by your great wisdom and by your traffic you have increased your riches, and your heart is lifted up because of your riches—","tokens":[{"id":"ezekiel-28-5-0","surface":"בְּרֹ֧ב","lemma":"רֹב","translit":"berob","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7230"},{"id":"ezekiel-28-5-1","surface":"חָכְמָתְךָ֛","lemma":"חׇכְמָה","translit":"chakemateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2451"},{"id":"ezekiel-28-5-2","surface":"בִּרְכֻלָּתְךָ֖","lemma":"רְכֻלָּה","translit":"birekulateka","morph":"Preposition + Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7404"},{"id":"ezekiel-28-5-3","surface":"הִרְבִּ֣יתָ","lemma":"רָבָה","translit":"hirebiyta","morph":"Verb Hiphil Participle 2nd masculine singular","glosses":[],"strongs":"H7235"},{"id":"ezekiel-28-5-4","surface":"חֵילֶ֑ךָ","lemma":"חַיִל","translit":"cheyleka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2428"},{"id":"ezekiel-28-5-5","surface":"וַיִּגְבַּ֥הּ","lemma":"גָּבַהּ","translit":"vayigebah","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1361"},{"id":"ezekiel-28-5-6","surface":"לְבָבְךָ֖","lemma":"לֵבָב","translit":"lebabeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3824"},{"id":"ezekiel-28-5-7","surface":"בְּחֵילֶֽךָ","lemma":"חַיִל","translit":"becheyleka","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2428"}],"language":"hebrew"},{"ref":"Ezekiel 28:6","englishText":"therefore thus says the Lord Yahweh: Because you have set your heart as the heart of God,","tokens":[{"id":"ezekiel-28-6-0","surface":"לָכֵ֕ן","lemma":"כֵּן","translit":"laken","morph":"Preposition + Adverb","glosses":[],"strongs":"H3651"},{"id":"ezekiel-28-6-1","surface":"כֹּ֥ה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"ezekiel-28-6-2","surface":"אָמַ֖ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-6-3","surface":"אֲדֹנָ֣י","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"ezekiel-28-6-4","surface":"יְהוִ֑ה","lemma":"יְהֹוִה","translit":"yehvih","morph":"Noun proper","glosses":[],"strongs":"H3069"},{"id":"ezekiel-28-6-5","surface":"יַ֛עַן","lemma":"יַעַן","translit":"ya`an","morph":"Conjunction","glosses":[],"strongs":"H3282"},{"id":"ezekiel-28-6-6","surface":"תִּתְּךָ֥","lemma":"נָתַן","translit":"titeka","morph":"Verb Qal Infinitive Construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"ezekiel-28-6-7","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ezekiel-28-6-8","surface":"לְבָבְךָ֖","lemma":"לֵבָב","translit":"lebabeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3824"},{"id":"ezekiel-28-6-9","surface":"כְּלֵ֥ב","lemma":"לֵב","translit":"keleb","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3820"},{"id":"ezekiel-28-6-10","surface":"אֱלֹהִֽים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"}],"language":"hebrew"},{"ref":"Ezekiel 28:7","englishText":"therefore, behold, I will bring strangers on you, the terrible of the nations; and they shall draw their swords against the beauty of your wisdom, and they shall defile your brightness.","tokens":[{"id":"ezekiel-28-7-0","surface":"לָכֵ֗ן","lemma":"כֵּן","translit":"laken","morph":"Preposition + Adverb","glosses":[],"strongs":"H3651"},{"id":"ezekiel-28-7-1","surface":"הִנְנִ֨י","lemma":"הֵן","translit":"hineniy","morph":"Particle masculine + Suffix plural 1st common singular","glosses":[],"strongs":"H2005"},{"id":"ezekiel-28-7-2","surface":"מֵבִ֤יא","lemma":"בּוֹא","translit":"mebiy'","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H935"},{"id":"ezekiel-28-7-3","surface":"עָלֶ֨יךָ֙","lemma":"עַל","translit":"`aleyka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-7-4","surface":"זָרִ֔ים","lemma":"זוּר","translit":"zariym","morph":"Adjective","glosses":[],"strongs":"H2114"},{"id":"ezekiel-28-7-5","surface":"עָרִיצֵ֖י","lemma":"עָרִיץ","translit":"`ariytsey","morph":"Adjective","glosses":[],"strongs":"H6184"},{"id":"ezekiel-28-7-6","surface":"גּוֹיִ֑ם","lemma":"גּוֹי","translit":"gvoyim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"ezekiel-28-7-7","surface":"וְהֵרִ֤יקוּ","lemma":"רוּק","translit":"veheriyqv","morph":"Conjunction + Verb Hiphil Perfect 3rd common plural","glosses":[],"strongs":"H7324"},{"id":"ezekiel-28-7-8","surface":"חַרְבוֹתָם֙","lemma":"חֶרֶב","translit":"charebvotam","morph":"Noun common feminine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H2719"},{"id":"ezekiel-28-7-9","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-7-10","surface":"יְפִ֣י","lemma":"יֳפִי","translit":"yepiy","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3308"},{"id":"ezekiel-28-7-11","surface":"חָכְמָתֶ֔ךָ","lemma":"חׇכְמָה","translit":"chakemateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2451"},{"id":"ezekiel-28-7-12","surface":"וְחִלְּל֖וּ","lemma":"חָלַל","translit":"vechilelv","morph":"Conjunction + Verb Piel Perfect 3rd common plural","glosses":[],"strongs":"H2490"},{"id":"ezekiel-28-7-13","surface":"יִפְעָתֶֽךָ","lemma":"יִפְעָה","translit":"yipe`ateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3314"}],"language":"hebrew"},{"ref":"Ezekiel 28:8","englishText":"They shall bring you down to the pit; and you shall die the death of those who are slain, in the heart of the seas.","tokens":[{"id":"ezekiel-28-8-0","surface":"לַשַּׁ֖חַת","lemma":"שַׁחַת","translit":"lashachat","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H7845"},{"id":"ezekiel-28-8-1","surface":"יֽוֹרִד֑וּךָ","lemma":"יָרַד","translit":"yvoridvka","morph":"Verb Hiphil Imperative 3rd masculine plural + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3381"},{"id":"ezekiel-28-8-2","surface":"וָמַ֛תָּה","lemma":"מוּת","translit":"vamatah","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H4191"},{"id":"ezekiel-28-8-3","surface":"מְמוֹתֵ֥י","lemma":"מָמוֹת","translit":"memvotey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H4463"},{"id":"ezekiel-28-8-4","surface":"חָלָ֖ל","lemma":"חָלָל","translit":"chalal","morph":"Adjective","glosses":[],"strongs":"H2491"},{"id":"ezekiel-28-8-5","surface":"בְּלֵ֥ב","lemma":"לֵב","translit":"beleb","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3820"},{"id":"ezekiel-28-8-6","surface":"יַמִּֽים","lemma":"יָם","translit":"yamiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H3220"}],"language":"hebrew"},{"ref":"Ezekiel 28:9","englishText":"Will you yet say before him who kills you, I am God? but you are man, and not God, in the hand of him who wounds you.","tokens":[{"id":"ezekiel-28-9-0","surface":"הֶאָמֹ֤ר","lemma":"אָמַר","translit":"he'amor","morph":"Particle + Verb Qal Infinitive Absolute","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-9-1","surface":"תֹּאמַר֙","lemma":"אָמַר","translit":"to'mar","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-9-2","surface":"אֱלֹהִ֣ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"ezekiel-28-9-3","surface":"אָ֔נִי","lemma":"אֲנִי","translit":"'aniy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"ezekiel-28-9-4","surface":"לִפְנֵ֖י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"ezekiel-28-9-5","surface":"הֹֽרְגֶ֑ךָ","lemma":"הָרַג","translit":"horegeka","morph":"Verb Qal Passive Participle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2026"},{"id":"ezekiel-28-9-6","surface":"וְאַתָּ֥ה","lemma":"אַתָּה","translit":"ve'atah","morph":"Conjunction + Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"ezekiel-28-9-7","surface":"אָדָ֛ם","lemma":"אָדָם","translit":"'adam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H120"},{"id":"ezekiel-28-9-8","surface":"וְלֹא","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"ezekiel-28-9-9","surface":"אֵ֖ל","lemma":"אֵל","translit":"'el","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H410"},{"id":"ezekiel-28-9-10","surface":"בְּיַ֥ד","lemma":"יָד","translit":"beyad","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"ezekiel-28-9-11","surface":"מְחַלְלֶֽיךָ","lemma":"חָלַל","translit":"mechaleleyka","morph":"Verb Piel Passive Participle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2490"}],"language":"hebrew"},{"ref":"Ezekiel 28:10","englishText":"You shall die the death of the uncircumcised by the hand of strangers: for I have spoken it, says the Lord Yahweh.","tokens":[{"id":"ezekiel-28-10-0","surface":"מוֹתֵ֧י","lemma":"מָוֶת","translit":"mvotey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H4194"},{"id":"ezekiel-28-10-1","surface":"עֲרֵלִ֛ים","lemma":"עָרֵל","translit":"`reliym","morph":"Adjective","glosses":[],"strongs":"H6189"},{"id":"ezekiel-28-10-2","surface":"תָּמ֖וּת","lemma":"מוּת","translit":"tamvt","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H4191"},{"id":"ezekiel-28-10-3","surface":"בְּיַד","lemma":"יָד","translit":"beyad","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"ezekiel-28-10-4","surface":"זָרִ֑ים","lemma":"זוּר","translit":"zariym","morph":"Adjective","glosses":[],"strongs":"H2114"},{"id":"ezekiel-28-10-5","surface":"כִּ֚י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ezekiel-28-10-6","surface":"אֲנִ֣י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"ezekiel-28-10-7","surface":"דִבַּ֔רְתִּי","lemma":"דָבַר","translit":"dibaretiy","morph":"Verb Piel Participle 1st common singular","glosses":[],"strongs":"H1696"},{"id":"ezekiel-28-10-8","surface":"נְאֻ֖ם","lemma":"נְאֻם","translit":"ne'um","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5002"},{"id":"ezekiel-28-10-9","surface":"אֲדֹנָ֥י","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"ezekiel-28-10-10","surface":"יְהוִֽה","lemma":"יְהֹוִה","translit":"yehvih","morph":"Noun proper","glosses":[],"strongs":"H3069"}],"language":"hebrew"},{"ref":"Ezekiel 28:11","englishText":"Moreover Yahweh’s word came to me, saying,","tokens":[{"id":"ezekiel-28-11-0","surface":"וַיְהִ֥י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"ezekiel-28-11-1","surface":"דְבַר","lemma":"דָּבָר","translit":"debar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"ezekiel-28-11-2","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"ezekiel-28-11-3","surface":"אֵלַ֥י","lemma":"אֵל","translit":"'elay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H413"},{"id":"ezekiel-28-11-4","surface":"לֵאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Ezekiel 28:12","englishText":"Son of man, take up a lamentation over the king of Tyre, and tell him, Thus says the Lord Yahweh: You seal up the sum, full of wisdom, and perfect in beauty.","tokens":[{"id":"ezekiel-28-12-0","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"ezekiel-28-12-1","surface":"אָדָ֕ם","lemma":"אָדָם","translit":"'adam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H120"},{"id":"ezekiel-28-12-2","surface":"שָׂ֥א","lemma":"נָשָׂא","translit":"sha'","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H5375"},{"id":"ezekiel-28-12-3","surface":"קִינָ֖ה","lemma":"קִינָה","translit":"qiynah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7015"},{"id":"ezekiel-28-12-4","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-12-5","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"ezekiel-28-12-6","surface":"צ֑וֹר","lemma":"צֹר","translit":"tsvor","morph":"Noun proper","glosses":[],"strongs":"H6865"},{"id":"ezekiel-28-12-7","surface":"וְאָמַ֣רְתָּ","lemma":"אָמַר","translit":"ve'amareta","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-12-8","surface":"לּ֗וֹ","lemma":"לּ֗וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"ezekiel-28-12-9","surface":"כֹּ֤ה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"ezekiel-28-12-10","surface":"אָמַר֙","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-12-11","surface":"אֲדֹנָ֣י","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"ezekiel-28-12-12","surface":"יְהוִ֔ה","lemma":"יְהֹוִה","translit":"yehvih","morph":"Noun proper","glosses":[],"strongs":"H3069"},{"id":"ezekiel-28-12-13","surface":"אַתָּה֙","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"ezekiel-28-12-14","surface":"חוֹתֵ֣ם","lemma":"חָתַם","translit":"chvotem","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H2856"},{"id":"ezekiel-28-12-15","surface":"תָּכְנִ֔ית","lemma":"תׇּכְנִית","translit":"takeniyt","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8508"},{"id":"ezekiel-28-12-16","surface":"מָלֵ֥א","lemma":"מָלֵא","translit":"male'","morph":"Adjective","glosses":[],"strongs":"H4392"},{"id":"ezekiel-28-12-17","surface":"חָכְמָ֖ה","lemma":"חׇכְמָה","translit":"chakemah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2451"},{"id":"ezekiel-28-12-18","surface":"וּכְלִ֥יל","lemma":"כָּלִיל","translit":"vkeliyl","morph":"Conjunction + Adjective","glosses":[],"strongs":"H3632"},{"id":"ezekiel-28-12-19","surface":"יֹֽפִי","lemma":"יֳפִי","translit":"yopiy","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3308"}],"language":"hebrew"},{"ref":"Ezekiel 28:13","englishText":"You were in Eden, the garden of God; every precious stone adorned you: ruby, topaz, emerald, chrysolite, onyx, jasper, sapphire, turquoise, and beryl. Gold work of tambourines and of pipes was in you. In the day that you were created they were prepared.","tokens":[{"id":"ezekiel-28-13-0","surface":"בְּעֵ֨דֶן","lemma":"עֵדֶן","translit":"be`eden","morph":"Preposition + Noun proper","glosses":[],"strongs":"H5731"},{"id":"ezekiel-28-13-1","surface":"גַּן","lemma":"גַּן","translit":"gan","morph":"Noun common singular construct","glosses":[],"strongs":"H1588"},{"id":"ezekiel-28-13-2","surface":"אֱלֹהִ֜ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"ezekiel-28-13-3","surface":"הָיִ֗יתָ","lemma":"הָיָה","translit":"hayiyta","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H1961"},{"id":"ezekiel-28-13-4","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"ezekiel-28-13-5","surface":"אֶ֨בֶן","lemma":"אֶבֶן","translit":"'eben","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H68"},{"id":"ezekiel-28-13-6","surface":"יְקָרָ֤ה","lemma":"יָקָר","translit":"yeqarah","morph":"Adjective","glosses":[],"strongs":"H3368"},{"id":"ezekiel-28-13-7","surface":"מְסֻכָתֶ֨ךָ֙","lemma":"מְסֻכָּה","translit":"mesukateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H4540"},{"id":"ezekiel-28-13-8","surface":"אֹ֣דֶם","lemma":"אֹדֶם","translit":"'odem","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H124"},{"id":"ezekiel-28-13-9","surface":"פִּטְדָ֞ה","lemma":"פִּטְדָה","translit":"pitedah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H6357"},{"id":"ezekiel-28-13-10","surface":"וְיָהֲלֹ֗ם","lemma":"יַהֲלֹם","translit":"veyahlom","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H3095"},{"id":"ezekiel-28-13-11","surface":"תַּרְשִׁ֥ישׁ","lemma":"תַּרְשִׁישׁ","translit":"tareshiysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8658"},{"id":"ezekiel-28-13-12","surface":"שֹׁ֨הַם֙","lemma":"שֹׁהַם","translit":"shoham","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7718"},{"id":"ezekiel-28-13-13","surface":"וְיָ֣שְׁפֵ֔ה","lemma":"יָשְׁפֵה","translit":"veyashepeh","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H3471"},{"id":"ezekiel-28-13-14","surface":"סַפִּ֣יר","lemma":"סַפִּיר","translit":"sapiyr","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5601"},{"id":"ezekiel-28-13-15","surface":"נֹ֔פֶךְ","lemma":"נֹפֶךְ","translit":"nopeke","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5306"},{"id":"ezekiel-28-13-16","surface":"וּבָרְקַ֖ת","lemma":"בָּרֶקֶת","translit":"vbareqat","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H1304"},{"id":"ezekiel-28-13-17","surface":"וְזָהָ֑ב","lemma":"זָהָב","translit":"vezahab","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H2091"},{"id":"ezekiel-28-13-18","surface":"מְלֶ֨אכֶת","lemma":"מְלָאכָה","translit":"mele'ket","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H4399"},{"id":"ezekiel-28-13-19","surface":"תֻּפֶּ֤יךָ","lemma":"תֹּף","translit":"tupeyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8596"},{"id":"ezekiel-28-13-20","surface":"וּנְקָבֶ֨יךָ֙","lemma":"נֶקֶב","translit":"vneqabeyka","morph":"Conjunction + Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5345"},{"id":"ezekiel-28-13-21","surface":"בָּ֔ךְ","lemma":"בָּ֔ךְ","translit":"bake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]},{"id":"ezekiel-28-13-22","surface":"בְּי֥וֹם","lemma":"יוֹם","translit":"beyvom","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3117"},{"id":"ezekiel-28-13-23","surface":"הִבָּרַאֲךָ֖","lemma":"בָּרָא","translit":"hibara'ka","morph":"Verb Niphal Infinitive Construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1254"},{"id":"ezekiel-28-13-24","surface":"כּוֹנָֽנוּ","lemma":"כּוּן","translit":"kvonanv","morph":"Verb Polal Participle 3rd common plural","glosses":[],"strongs":"H3559"}],"language":"hebrew"},{"ref":"Ezekiel 28:14","englishText":"You were the anointed cherub who covers: and I set you, so that you were on the holy mountain of God; you have walked up and down in the midst of the stones of fire.","tokens":[{"id":"ezekiel-28-14-0","surface":"אַ֨תְּ","lemma":"אַתָּה","translit":"'ate","morph":"Pronoun plural 2nd feminine singular","glosses":[],"strongs":"H859"},{"id":"ezekiel-28-14-1","surface":"כְּר֔וּב","lemma":"כְּרוּב","translit":"kervb","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3742"},{"id":"ezekiel-28-14-2","surface":"מִמְשַׁ֖ח","lemma":"מִמְשַׁח","translit":"mimeshach","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4473"},{"id":"ezekiel-28-14-3","surface":"הַסּוֹכֵ֑ךְ","lemma":"סָכַךְ","translit":"hasvokeke","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H5526"},{"id":"ezekiel-28-14-4","surface":"וּנְתַתִּ֗יךָ","lemma":"נָתַן","translit":"vnetatiyka","morph":"Conjunction + Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"ezekiel-28-14-5","surface":"בְּהַ֨ר","lemma":"הַר","translit":"behar","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H2022"},{"id":"ezekiel-28-14-6","surface":"קֹ֤דֶשׁ","lemma":"קֹדֶשׁ","translit":"qodesh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6944"},{"id":"ezekiel-28-14-7","surface":"אֱלֹהִים֙","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"ezekiel-28-14-8","surface":"הָיִ֔יתָ","lemma":"הָיָה","translit":"hayiyta","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H1961"},{"id":"ezekiel-28-14-9","surface":"בְּת֥וֹךְ","lemma":"תָּוֶךְ","translit":"betvoke","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H8432"},{"id":"ezekiel-28-14-10","surface":"אַבְנֵי","lemma":"אֶבֶן","translit":"'abeney","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H68"},{"id":"ezekiel-28-14-11","surface":"אֵ֖שׁ","lemma":"אֵשׁ","translit":"'esh","morph":"Noun common singular absolute","glosses":[],"strongs":"H784"},{"id":"ezekiel-28-14-12","surface":"הִתְהַלָּֽכְתָּ","lemma":"הָלַךְ","translit":"hitehalaketa","morph":"Verb Hithpael Participle 2nd masculine singular","glosses":[],"strongs":"H1980"}],"language":"hebrew"},{"ref":"Ezekiel 28:15","englishText":"You were perfect in your ways from the day that you were created, until unrighteousness was found in you.","tokens":[{"id":"ezekiel-28-15-0","surface":"תָּמִ֤ים","lemma":"תָּמִים","translit":"tamiym","morph":"Adjective","glosses":[],"strongs":"H8549"},{"id":"ezekiel-28-15-1","surface":"אַתָּה֙","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"ezekiel-28-15-2","surface":"בִּדְרָכֶ֔יךָ","lemma":"דֶּרֶךְ","translit":"biderakeyka","morph":"Preposition + Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1870"},{"id":"ezekiel-28-15-3","surface":"מִיּ֖וֹם","lemma":"יוֹם","translit":"miyvom","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3117"},{"id":"ezekiel-28-15-4","surface":"הִבָּֽרְאָ֑ךְ","lemma":"בָּרָא","translit":"hibare'ake","morph":"Verb Niphal Infinitive Construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H1254"},{"id":"ezekiel-28-15-5","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"ezekiel-28-15-6","surface":"נִמְצָ֥א","lemma":"מָצָא","translit":"nimetsa'","morph":"Verb Niphal Participle 3rd masculine singular","glosses":[],"strongs":"H4672"},{"id":"ezekiel-28-15-7","surface":"עַוְלָ֖תָה","lemma":"עֶוֶל","translit":"`avelatah","morph":"Noun common singular absolute + Suffix","glosses":[],"strongs":"H5766"},{"id":"ezekiel-28-15-8","surface":"בָּֽךְ","lemma":"בָּֽךְ","translit":"bake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Ezekiel 28:16","englishText":"By the abundance of your traffic they filled your midst with violence, and you have sinned: therefore I have cast you as profane out of the mountain of God; and I have destroyed you, covering cherub, from the midst of the stones of fire.","tokens":[{"id":"ezekiel-28-16-0","surface":"בְּרֹ֣ב","lemma":"רֹב","translit":"berob","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7230"},{"id":"ezekiel-28-16-1","surface":"רְכֻלָּתְךָ֗","lemma":"רְכֻלָּה","translit":"rekulateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7404"},{"id":"ezekiel-28-16-2","surface":"מָל֧וּ","lemma":"מָלֵא","translit":"malv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H4390"},{"id":"ezekiel-28-16-3","surface":"תוֹכְךָ֛","lemma":"תָּוֶךְ","translit":"tvokeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8432"},{"id":"ezekiel-28-16-4","surface":"חָמָ֖ס","lemma":"חָמָס","translit":"chamas","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2555"},{"id":"ezekiel-28-16-5","surface":"וַֽתֶּחֱטָ֑א","lemma":"חָטָא","translit":"vatechta'","morph":"Conjunction + Verb Qal Wayyiqtol 2nd masculine singular","glosses":[],"strongs":"H2398"},{"id":"ezekiel-28-16-6","surface":"וָאֶחַלֶּלְךָ֩","lemma":"חָלַל","translit":"va'echaleleka","morph":"Conjunction + Verb Piel Wayyiqtol 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2490"},{"id":"ezekiel-28-16-7","surface":"מֵהַ֨ר","lemma":"הַר","translit":"mehar","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H2022"},{"id":"ezekiel-28-16-8","surface":"אֱלֹהִ֤ים","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"ezekiel-28-16-9","surface":"וָֽאַבֶּדְךָ֙","lemma":"אָבַד","translit":"va'abedeka","morph":"Conjunction + Verb Piel Wayyiqtol 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6"},{"id":"ezekiel-28-16-10","surface":"כְּר֣וּב","lemma":"כְּרוּב","translit":"kervb","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3742"},{"id":"ezekiel-28-16-11","surface":"הַסֹּכֵ֔ךְ","lemma":"סָכַךְ","translit":"hasokeke","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H5526"},{"id":"ezekiel-28-16-12","surface":"מִתּ֖וֹךְ","lemma":"תָּוֶךְ","translit":"mitvoke","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H8432"},{"id":"ezekiel-28-16-13","surface":"אַבְנֵי","lemma":"אֶבֶן","translit":"'abeney","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H68"},{"id":"ezekiel-28-16-14","surface":"אֵֽשׁ","lemma":"אֵשׁ","translit":"'esh","morph":"Noun common singular absolute","glosses":[],"strongs":"H784"}],"language":"hebrew"},{"ref":"Ezekiel 28:17","englishText":"Your heart was lifted up because of your beauty; you have corrupted your wisdom by reason of your brightness: I have cast you to the ground; I have laid you before kings, that they may see you.","tokens":[{"id":"ezekiel-28-17-0","surface":"גָּבַ֤הּ","lemma":"גָּבַהּ","translit":"gabah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1361"},{"id":"ezekiel-28-17-1","surface":"לִבְּךָ֙","lemma":"לֵב","translit":"libeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3820"},{"id":"ezekiel-28-17-2","surface":"בְּיָפְיֶ֔ךָ","lemma":"יֳפִי","translit":"beyapeyeka","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3308"},{"id":"ezekiel-28-17-3","surface":"שִׁחַ֥תָּ","lemma":"שָׁחַת","translit":"shichata","morph":"Verb Piel Participle 2nd masculine singular","glosses":[],"strongs":"H7843"},{"id":"ezekiel-28-17-4","surface":"חָכְמָתְךָ֖","lemma":"חׇכְמָה","translit":"chakemateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2451"},{"id":"ezekiel-28-17-5","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-17-6","surface":"יִפְעָתֶ֑ךָ","lemma":"יִפְעָה","translit":"yipe`ateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3314"},{"id":"ezekiel-28-17-7","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-17-8","surface":"אֶ֣רֶץ","lemma":"אֶרֶץ","translit":"'erets","morph":"Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"ezekiel-28-17-9","surface":"הִשְׁלַכְתִּ֗יךָ","lemma":"שָׁלַךְ","translit":"hishelaketiyka","morph":"Verb Hiphil Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7993"},{"id":"ezekiel-28-17-10","surface":"לִפְנֵ֧י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"ezekiel-28-17-11","surface":"מְלָכִ֛ים","lemma":"מֶלֶךְ","translit":"melakiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4428"},{"id":"ezekiel-28-17-12","surface":"נְתַתִּ֖יךָ","lemma":"נָתַן","translit":"netatiyka","morph":"Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"ezekiel-28-17-13","surface":"לְרַ֥אֲוָה","lemma":"רָאָה","translit":"lera'vah","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H7200"},{"id":"ezekiel-28-17-14","surface":"בָֽךְ","lemma":"בָֽךְ","translit":"bake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Ezekiel 28:18","englishText":"By the multitude of your iniquities, in the unrighteousness of your traffic, you have profaned your sanctuaries; therefore have I brought out a fire from your midst; it has devoured you, and I have turned you to ashes on the earth in the sight of all those who see you.","tokens":[{"id":"ezekiel-28-18-0","surface":"מֵרֹ֣ב","lemma":"רֹב","translit":"merob","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7230"},{"id":"ezekiel-28-18-1","surface":"עֲוֺנֶ֗יךָ","lemma":"עָוֺן","translit":"`vneyka","morph":"Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5771"},{"id":"ezekiel-28-18-2","surface":"בְּעֶ֨וֶל֙","lemma":"עֶוֶל","translit":"be`evel","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H5766"},{"id":"ezekiel-28-18-3","surface":"רְכֻלָּ֣תְךָ֔","lemma":"רְכֻלָּה","translit":"rekulateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7404"},{"id":"ezekiel-28-18-4","surface":"חִלַּ֖לְתָּ","lemma":"חָלַל","translit":"chilaleta","morph":"Verb Piel Participle 2nd masculine singular","glosses":[],"strongs":"H2490"},{"id":"ezekiel-28-18-5","surface":"מִקְדָּשֶׁ֑יךָ","lemma":"מִקְדָּשׁ","translit":"miqedasheyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H4720"},{"id":"ezekiel-28-18-6","surface":"וָֽאוֹצִא","lemma":"יָצָא","translit":"va'votsi'","morph":"Conjunction + Verb Hiphil Wayyiqtol 1st common singular","glosses":[],"strongs":"H3318"},{"id":"ezekiel-28-18-7","surface":"אֵ֤שׁ","lemma":"אֵשׁ","translit":"'esh","morph":"Noun common singular absolute","glosses":[],"strongs":"H784"},{"id":"ezekiel-28-18-8","surface":"מִתּֽוֹכְךָ֙","lemma":"תָּוֶךְ","translit":"mitvokeka","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8432"},{"id":"ezekiel-28-18-9","surface":"הִ֣יא","lemma":"הוּא","translit":"hiy'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"ezekiel-28-18-10","surface":"אֲכָלַ֔תְךָ","lemma":"אָכַל","translit":"'kalateka","morph":"Verb Qal Participle 3rd feminine singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H398"},{"id":"ezekiel-28-18-11","surface":"וָאֶתֶּנְךָ֤","lemma":"נָתַן","translit":"va'eteneka","morph":"Conjunction + Verb Qal Wayyiqtol 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"ezekiel-28-18-12","surface":"לְאֵ֨פֶר֙","lemma":"אֵפֶר","translit":"le'eper","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H665"},{"id":"ezekiel-28-18-13","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-18-14","surface":"הָאָ֔רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"ezekiel-28-18-15","surface":"לְעֵינֵ֖י","lemma":"עַיִן","translit":"le`eyney","morph":"Preposition + Noun common dual construct","glosses":[],"strongs":"H5869"},{"id":"ezekiel-28-18-16","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"ezekiel-28-18-17","surface":"רֹאֶֽיךָ","lemma":"רָאָה","translit":"ro'eyka","morph":"Verb Qal Passive Participle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7200"}],"language":"hebrew"},{"ref":"Ezekiel 28:19","englishText":"All those who know you among the peoples shall be astonished at you: you have become a terror, and you shall nevermore have any being.","tokens":[{"id":"ezekiel-28-19-0","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"ezekiel-28-19-1","surface":"יוֹדְעֶ֨יךָ֙","lemma":"יָדַע","translit":"yvode`eyka","morph":"Verb Qal Passive Participle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3045"},{"id":"ezekiel-28-19-2","surface":"בָּֽעַמִּ֔ים","lemma":"עַם","translit":"ba`amiym","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5971"},{"id":"ezekiel-28-19-3","surface":"שָׁמְמ֖וּ","lemma":"שָׁמֵם","translit":"shamemv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H8074"},{"id":"ezekiel-28-19-4","surface":"עָלֶ֑יךָ","lemma":"עַל","translit":"`aleyka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-19-5","surface":"בַּלָּה֣וֹת","lemma":"בַּלָּהָה","translit":"balahvot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H1091"},{"id":"ezekiel-28-19-6","surface":"הָיִ֔יתָ","lemma":"הָיָה","translit":"hayiyta","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H1961"},{"id":"ezekiel-28-19-7","surface":"וְאֵינְךָ֖","lemma":"אַיִן","translit":"ve'eyneka","morph":"Conjunction + Particle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H369"},{"id":"ezekiel-28-19-8","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"ezekiel-28-19-9","surface":"עוֹלָֽם","lemma":"עוֹלָם","translit":"`volam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5769"}],"language":"hebrew"},{"ref":"Ezekiel 28:20","englishText":"Yahweh’s word came to me, saying,","tokens":[{"id":"ezekiel-28-20-0","surface":"וַיְהִ֥י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"ezekiel-28-20-1","surface":"דְבַר","lemma":"דָּבָר","translit":"debar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"ezekiel-28-20-2","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"ezekiel-28-20-3","surface":"אֵלַ֥י","lemma":"אֵל","translit":"'elay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H413"},{"id":"ezekiel-28-20-4","surface":"לֵאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Ezekiel 28:21","englishText":"Son of man, set your face toward Sidon, and prophesy against it,","tokens":[{"id":"ezekiel-28-21-0","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"ezekiel-28-21-1","surface":"אָדָ֕ם","lemma":"אָדָם","translit":"'adam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H120"},{"id":"ezekiel-28-21-2","surface":"שִׂ֥ים","lemma":"שׂוּם","translit":"shiym","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H7760"},{"id":"ezekiel-28-21-3","surface":"פָּנֶ֖יךָ","lemma":"פָּנִים","translit":"paneyka","morph":"Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6440"},{"id":"ezekiel-28-21-4","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"ezekiel-28-21-5","surface":"צִיד֑וֹן","lemma":"צִידוֹן","translit":"tsiydvon","morph":"Noun proper","glosses":[],"strongs":"H6721"},{"id":"ezekiel-28-21-6","surface":"וְהִנָּבֵ֖א","lemma":"נָבָא","translit":"vehinabe'","morph":"Conjunction + Verb Niphal Weqatal 2nd masculine singular","glosses":[],"strongs":"H5012"},{"id":"ezekiel-28-21-7","surface":"עָלֶֽיהָ","lemma":"עַל","translit":"`aleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H5921"}],"language":"hebrew"},{"ref":"Ezekiel 28:22","englishText":"and say, Thus says the Lord Yahweh: Behold, I am against you, Sidon; and I will be glorified in your midst; and they shall know that I am Yahweh, when I shall have executed judgments in her, and shall be sanctified in her.","tokens":[{"id":"ezekiel-28-22-0","surface":"וְאָמַרְתָּ֗","lemma":"אָמַר","translit":"ve'amareta","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-22-1","surface":"כֹּ֤ה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"ezekiel-28-22-2","surface":"אָמַר֙","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-22-3","surface":"אֲדֹנָ֣י","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"ezekiel-28-22-4","surface":"יְהוִ֔ה","lemma":"יְהֹוִה","translit":"yehvih","morph":"Noun proper","glosses":[],"strongs":"H3069"},{"id":"ezekiel-28-22-5","surface":"הִנְנִ֤י","lemma":"הֵן","translit":"hineniy","morph":"Particle masculine + Suffix plural 1st common singular","glosses":[],"strongs":"H2005"},{"id":"ezekiel-28-22-6","surface":"עָלַ֨יִךְ֙","lemma":"עַל","translit":"`alayike","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-22-7","surface":"צִיד֔וֹן","lemma":"צִידוֹן","translit":"tsiydvon","morph":"Noun proper","glosses":[],"strongs":"H6721"},{"id":"ezekiel-28-22-8","surface":"וְנִכְבַּדְתִּ֖י","lemma":"כָּבַד","translit":"venikebadetiy","morph":"Conjunction + Verb Niphal Perfect 1st common singular","glosses":[],"strongs":"H3513"},{"id":"ezekiel-28-22-9","surface":"בְּתוֹכֵ֑ךְ","lemma":"תָּוֶךְ","translit":"betvokeke","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H8432"},{"id":"ezekiel-28-22-10","surface":"וְֽיָדְע֞וּ","lemma":"יָדַע","translit":"veyade`v","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H3045"},{"id":"ezekiel-28-22-11","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ezekiel-28-22-12","surface":"אֲנִ֣י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"ezekiel-28-22-13","surface":"יְהוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"ezekiel-28-22-14","surface":"בַּעֲשׂ֥וֹתִי","lemma":"עָשָׂה","translit":"ba`shvotiy","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6213"},{"id":"ezekiel-28-22-15","surface":"בָ֛הּ","lemma":"בָ֛הּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"ezekiel-28-22-16","surface":"שְׁפָטִ֖ים","lemma":"שֶׁפֶט","translit":"shepatiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8201"},{"id":"ezekiel-28-22-17","surface":"וְנִקְדַּ֥שְׁתִּי","lemma":"קָדַשׁ","translit":"veniqedashetiy","morph":"Conjunction + Verb Niphal Perfect 1st common singular","glosses":[],"strongs":"H6942"},{"id":"ezekiel-28-22-18","surface":"בָֽהּ","lemma":"בָֽהּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Ezekiel 28:23","englishText":"For I will send pestilence into her, and blood into her streets; and the wounded shall fall in the midst of her, with the sword on her on every side; and they shall know that I am Yahweh.","tokens":[{"id":"ezekiel-28-23-0","surface":"וְשִׁלַּחְתִּי","lemma":"שָׁלַח","translit":"veshilachetiy","morph":"Conjunction + Verb Piel Perfect 1st common singular","glosses":[],"strongs":"H7971"},{"id":"ezekiel-28-23-1","surface":"בָ֞הּ","lemma":"בָ֞הּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"ezekiel-28-23-2","surface":"דֶּ֤בֶר","lemma":"דֶּבֶר","translit":"deber","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1698"},{"id":"ezekiel-28-23-3","surface":"וָדָם֙","lemma":"דָּם","translit":"vadam","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H1818"},{"id":"ezekiel-28-23-4","surface":"בְּח֣וּצוֹתֶ֔יהָ","lemma":"חוּץ","translit":"bechvtsvoteyha","morph":"Preposition + Noun common masculine plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H2351"},{"id":"ezekiel-28-23-5","surface":"וְנִפְלַ֤ל","lemma":"נָפַל","translit":"venipelal","morph":"Conjunction + Verb l Perfect 3rd masculine singular","glosses":[],"strongs":"H5307"},{"id":"ezekiel-28-23-6","surface":"חָלָל֙","lemma":"חָלָל","translit":"chalal","morph":"Adjective","glosses":[],"strongs":"H2491"},{"id":"ezekiel-28-23-7","surface":"בְּתוֹכָ֔הּ","lemma":"תָּוֶךְ","translit":"betvokah","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H8432"},{"id":"ezekiel-28-23-8","surface":"בְּחֶ֥רֶב","lemma":"חֶרֶב","translit":"bechereb","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H2719"},{"id":"ezekiel-28-23-9","surface":"עָלֶ֖יהָ","lemma":"עַל","translit":"`aleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-23-10","surface":"מִסָּבִ֑יב","lemma":"סָבִיב","translit":"misabiyb","morph":"Preposition + Noun common singular absolute","glosses":[],"strongs":"H5439"},{"id":"ezekiel-28-23-11","surface":"וְיָדְע֖וּ","lemma":"יָדַע","translit":"veyade`v","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H3045"},{"id":"ezekiel-28-23-12","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ezekiel-28-23-13","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"ezekiel-28-23-14","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Ezekiel 28:24","englishText":"There shall be no more a pricking brier to the house of Israel, nor a hurting thorn of any that are around them, that scorned them; and they shall know that I am the Lord Yahweh.","tokens":[{"id":"ezekiel-28-24-0","surface":"וְלֹֽא","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"ezekiel-28-24-1","surface":"יִהְיֶ֨ה","lemma":"הָיָה","translit":"yiheyeh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"ezekiel-28-24-2","surface":"ע֜וֹד","lemma":"עוֹד","translit":"`vod","morph":"Adverb","glosses":[],"strongs":"H5750"},{"id":"ezekiel-28-24-3","surface":"לְבֵ֣ית","lemma":"בַּיִת","translit":"lebeyt","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"ezekiel-28-24-4","surface":"יִשְׂרָאֵ֗ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"ezekiel-28-24-5","surface":"סִלּ֤וֹן","lemma":"סִלּוֹן","translit":"silvon","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5544"},{"id":"ezekiel-28-24-6","surface":"מַמְאִיר֙","lemma":"מָאַר","translit":"mame'iyr","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H3992"},{"id":"ezekiel-28-24-7","surface":"וְק֣וֹץ","lemma":"קוֹץ","translit":"veqvots","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H6975"},{"id":"ezekiel-28-24-8","surface":"מַכְאִ֔ב","lemma":"כָּאַב","translit":"make'ib","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H3510"},{"id":"ezekiel-28-24-9","surface":"מִכֹּל֙","lemma":"כֹּל","translit":"mikol","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"ezekiel-28-24-10","surface":"סְבִ֣יבֹתָ֔ם","lemma":"סָבִיב","translit":"sebiybotam","morph":"Noun common plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H5439"},{"id":"ezekiel-28-24-11","surface":"הַשָּׁאטִ֖ים","lemma":"שָׁאט","translit":"hasha'tiym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7590"},{"id":"ezekiel-28-24-12","surface":"אוֹתָ֑ם","lemma":"אֵת","translit":"'votam","morph":"Particle + Suffix plural 3rd masculine","glosses":[],"strongs":"H853"},{"id":"ezekiel-28-24-13","surface":"וְיָ֣דְע֔וּ","lemma":"יָדַע","translit":"veyade`v","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H3045"},{"id":"ezekiel-28-24-14","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ezekiel-28-24-15","surface":"אֲנִ֖י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"ezekiel-28-24-16","surface":"אֲדֹנָ֥י","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"ezekiel-28-24-17","surface":"יְהוִֽה","lemma":"יְהֹוִה","translit":"yehvih","morph":"Noun proper","glosses":[],"strongs":"H3069"}],"language":"hebrew"},{"ref":"Ezekiel 28:25","englishText":"Thus says the Lord Yahweh: When I shall have gathered the house of Israel from the peoples among whom they are scattered, and shall be sanctified in them in the sight of the nations, then shall they dwell in their own land which I gave to my servant Jacob.","tokens":[{"id":"ezekiel-28-25-0","surface":"כֹּֽה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"ezekiel-28-25-1","surface":"אָמַר֮","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ezekiel-28-25-2","surface":"אֲדֹנָ֣י","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"ezekiel-28-25-3","surface":"יְהוִה֒","lemma":"יְהֹוִה","translit":"yehvih","morph":"Noun proper","glosses":[],"strongs":"H3069"},{"id":"ezekiel-28-25-4","surface":"בְּקַבְּצִ֣י","lemma":"קָבַץ","translit":"beqabetsiy","morph":"Preposition + Verb Piel Infinitive Construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6908"},{"id":"ezekiel-28-25-5","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ezekiel-28-25-6","surface":"בֵּ֣ית","lemma":"בַּיִת","translit":"beyt","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"ezekiel-28-25-7","surface":"יִשְׂרָאֵ֗ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"ezekiel-28-25-8","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"ezekiel-28-25-9","surface":"הָֽעַמִּים֙","lemma":"עַם","translit":"ha`amiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5971"},{"id":"ezekiel-28-25-10","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ezekiel-28-25-11","surface":"נָפֹ֣צוּ","lemma":"פּוּץ","translit":"napotsv","morph":"Verb Niphal Participle 3rd common plural","glosses":[],"strongs":"H6327"},{"id":"ezekiel-28-25-12","surface":"בָ֔ם","lemma":"בָ֔ם","translit":"bam","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]},{"id":"ezekiel-28-25-13","surface":"וְנִקְדַּ֥שְׁתִּי","lemma":"קָדַשׁ","translit":"veniqedashetiy","morph":"Conjunction + Verb Niphal Perfect 1st common singular","glosses":[],"strongs":"H6942"},{"id":"ezekiel-28-25-14","surface":"בָ֖ם","lemma":"בָ֖ם","translit":"bam","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]},{"id":"ezekiel-28-25-15","surface":"לְעֵינֵ֣י","lemma":"עַיִן","translit":"le`eyney","morph":"Preposition + Noun common dual construct","glosses":[],"strongs":"H5869"},{"id":"ezekiel-28-25-16","surface":"הַגּוֹיִ֑ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"ezekiel-28-25-17","surface":"וְיָֽשְׁבוּ֙","lemma":"יָשַׁב","translit":"veyashebv","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H3427"},{"id":"ezekiel-28-25-18","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-25-19","surface":"אַדְמָתָ֔ם","lemma":"אֲדָמָה","translit":"'adematam","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H127"},{"id":"ezekiel-28-25-20","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ezekiel-28-25-21","surface":"נָתַ֖תִּי","lemma":"נָתַן","translit":"natatiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H5414"},{"id":"ezekiel-28-25-22","surface":"לְעַבְדִּ֥י","lemma":"עֶבֶד","translit":"le`abediy","morph":"Preposition + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5650"},{"id":"ezekiel-28-25-23","surface":"לְיַעֲקֹֽב","lemma":"יַעֲקֹב","translit":"leya`qob","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3290"}],"language":"hebrew"},{"ref":"Ezekiel 28:26","englishText":"They shall dwell securely therein; yes, they shall build houses, and plant vineyards, and shall dwell securely, when I have executed judgments on all those who do them despite all around them; and they shall know that I am Yahweh their God.   ","tokens":[{"id":"ezekiel-28-26-0","surface":"וְיָשְׁב֣וּ","lemma":"יָשַׁב","translit":"veyashebv","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H3427"},{"id":"ezekiel-28-26-1","surface":"עָלֶיהָ֮","lemma":"עַל","translit":"`aleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H5921"},{"id":"ezekiel-28-26-2","surface":"לָבֶטַח֒","lemma":"בֶּטַח","translit":"labetach","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H983"},{"id":"ezekiel-28-26-3","surface":"וּבָנ֤וּ","lemma":"בָּנָה","translit":"vbanv","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H1129"},{"id":"ezekiel-28-26-4","surface":"בָתִּים֙","lemma":"בַּיִת","translit":"batiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1004"},{"id":"ezekiel-28-26-5","surface":"וְנָטְע֣וּ","lemma":"נָטַע","translit":"venate`v","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H5193"},{"id":"ezekiel-28-26-6","surface":"כְרָמִ֔ים","lemma":"כֶּרֶם","translit":"keramiym","morph":"Noun common plural absolute","glosses":[],"strongs":"H3754"},{"id":"ezekiel-28-26-7","surface":"וְיָשְׁב֖וּ","lemma":"יָשַׁב","translit":"veyashebv","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H3427"},{"id":"ezekiel-28-26-8","surface":"לָבֶ֑טַח","lemma":"בֶּטַח","translit":"labetach","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H983"},{"id":"ezekiel-28-26-9","surface":"בַּעֲשׂוֹתִ֣י","lemma":"עָשָׂה","translit":"ba`shvotiy","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6213"},{"id":"ezekiel-28-26-10","surface":"שְׁפָטִ֗ים","lemma":"שֶׁפֶט","translit":"shepatiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8201"},{"id":"ezekiel-28-26-11","surface":"בְּכֹ֨ל","lemma":"כֹּל","translit":"bekol","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"ezekiel-28-26-12","surface":"הַשָּׁאטִ֤ים","lemma":"שָׁאט","translit":"hasha'tiym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7590"},{"id":"ezekiel-28-26-13","surface":"אֹתָם֙","lemma":"אֵת","translit":"'otam","morph":"Particle + Suffix plural 3rd masculine","glosses":[],"strongs":"H853"},{"id":"ezekiel-28-26-14","surface":"מִסְּבִ֣יבוֹתָ֔ם","lemma":"סָבִיב","translit":"misebiybvotam","morph":"Preposition + Noun common plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H5439"},{"id":"ezekiel-28-26-15","surface":"וְיָ֣דְע֔וּ","lemma":"יָדַע","translit":"veyade`v","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H3045"},{"id":"ezekiel-28-26-16","surface":"כִּ֛י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ezekiel-28-26-17","surface":"אֲנִ֥י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"ezekiel-28-26-18","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"ezekiel-28-26-19","surface":"אֱלֹהֵיהֶֽם","lemma":"אֱלֹהִים","translit":"'loheyhem","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H430"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "ezekiel-28",
+  "name": "Ezekiel",
+  "chapter": 28,
+  "verses": [
+    {
+      "ref": "Ezekiel 28:1",
+      "englishText": "Yahweh’s word came again to me, saying,",
+      "tokens": [
+        {
+          "id": "ezekiel-28-1-0",
+          "surface": "וַיְהִ֥י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ezekiel-28-1-1",
+          "surface": "דְבַר",
+          "lemma": "דָּבָר",
+          "translit": "debar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "ezekiel-28-1-2",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "ezekiel-28-1-3",
+          "surface": "אֵלַ֥י",
+          "lemma": "אֵל",
+          "translit": "'elay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ezekiel-28-1-4",
+          "surface": "לֵאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:2",
+      "englishText": "Son of man, tell the prince of Tyre, Thus says the Lord Yahweh: Because your heart is lifted up, and you have said, I am a god, I sit in the seat of God, in the midst of the seas; yet you are man, and not God, though you set your heart as the heart of God—",
+      "tokens": [
+        {
+          "id": "ezekiel-28-2-0",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "ezekiel-28-2-1",
+          "surface": "אָדָ֡ם",
+          "lemma": "אָדָם",
+          "translit": "'adam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        },
+        {
+          "id": "ezekiel-28-2-2",
+          "surface": "אֱמֹר֩",
+          "lemma": "אָמַר",
+          "translit": "'mor",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-2-3",
+          "surface": "לִנְגִ֨יד",
+          "lemma": "נָגִיד",
+          "translit": "linegiyd",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5057"
+        },
+        {
+          "id": "ezekiel-28-2-4",
+          "surface": "צֹ֜ר",
+          "lemma": "צֹר",
+          "translit": "tsor",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6865"
+        },
+        {
+          "id": "ezekiel-28-2-5",
+          "surface": "כֹּֽה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "ezekiel-28-2-6",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-2-7",
+          "surface": "אֲדֹנָ֣י",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "ezekiel-28-2-8",
+          "surface": "יְהֹוִ֗ה",
+          "lemma": "יְהֹוִה",
+          "translit": "yehovih",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3069"
+        },
+        {
+          "id": "ezekiel-28-2-9",
+          "surface": "יַ֣עַן",
+          "lemma": "יַעַן",
+          "translit": "ya`an",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3282"
+        },
+        {
+          "id": "ezekiel-28-2-10",
+          "surface": "גָּבַ֤הּ",
+          "lemma": "גָּבַהּ",
+          "translit": "gabah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1361"
+        },
+        {
+          "id": "ezekiel-28-2-11",
+          "surface": "לִבְּךָ֙",
+          "lemma": "לֵב",
+          "translit": "libeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ezekiel-28-2-12",
+          "surface": "וַתֹּ֨אמֶר֙",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-2-13",
+          "surface": "אֵ֣ל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H410"
+        },
+        {
+          "id": "ezekiel-28-2-14",
+          "surface": "אָ֔נִי",
+          "lemma": "אֲנִי",
+          "translit": "'aniy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "ezekiel-28-2-15",
+          "surface": "מוֹשַׁ֧ב",
+          "lemma": "מוֹשָׁב",
+          "translit": "mvoshab",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4186"
+        },
+        {
+          "id": "ezekiel-28-2-16",
+          "surface": "אֱלֹהִ֛ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "ezekiel-28-2-17",
+          "surface": "יָשַׁ֖בְתִּי",
+          "lemma": "יָשַׁב",
+          "translit": "yashabetiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "ezekiel-28-2-18",
+          "surface": "בְּלֵ֣ב",
+          "lemma": "לֵב",
+          "translit": "beleb",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ezekiel-28-2-19",
+          "surface": "יַמִּ֑ים",
+          "lemma": "יָם",
+          "translit": "yamiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3220"
+        },
+        {
+          "id": "ezekiel-28-2-20",
+          "surface": "וְאַתָּ֤ה",
+          "lemma": "אַתָּה",
+          "translit": "ve'atah",
+          "morph": "Conjunction + Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "ezekiel-28-2-21",
+          "surface": "אָדָם֙",
+          "lemma": "אָדָם",
+          "translit": "'adam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        },
+        {
+          "id": "ezekiel-28-2-22",
+          "surface": "וְֽלֹא",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ezekiel-28-2-23",
+          "surface": "אֵ֔ל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H410"
+        },
+        {
+          "id": "ezekiel-28-2-24",
+          "surface": "וַתִּתֵּ֥ן",
+          "lemma": "נָתַן",
+          "translit": "vatiten",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "ezekiel-28-2-25",
+          "surface": "לִבְּךָ֖",
+          "lemma": "לֵב",
+          "translit": "libeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ezekiel-28-2-26",
+          "surface": "כְּלֵ֥ב",
+          "lemma": "לֵב",
+          "translit": "keleb",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ezekiel-28-2-27",
+          "surface": "אֱלֹהִֽים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:3",
+      "englishText": "behold, you are wiser than Daniel; there is no secret that is hidden from you;",
+      "tokens": [
+        {
+          "id": "ezekiel-28-3-0",
+          "surface": "הִנֵּ֥ה",
+          "lemma": "הִנֵּה",
+          "translit": "hineh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "ezekiel-28-3-1",
+          "surface": "חָכָ֛ם",
+          "lemma": "חָכָם",
+          "translit": "chakam",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2450"
+        },
+        {
+          "id": "ezekiel-28-3-2",
+          "surface": "אַתָּ֖ה",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "ezekiel-28-3-3",
+          "surface": "מדנאל",
+          "lemma": "דָנִיֵּאל",
+          "translit": "mdn'l",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1840"
+        },
+        {
+          "id": "ezekiel-28-3-4",
+          "surface": "מִדָּֽנִיֵּ֑אל",
+          "lemma": "דָנִיֵּאל",
+          "translit": "midaniye'l",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1840"
+        },
+        {
+          "id": "ezekiel-28-3-5",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ezekiel-28-3-6",
+          "surface": "סָת֖וּם",
+          "lemma": "סָתַם",
+          "translit": "satvm",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H5640"
+        },
+        {
+          "id": "ezekiel-28-3-7",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ezekiel-28-3-8",
+          "surface": "עֲמָמֽוּךָ",
+          "lemma": "עָמַם",
+          "translit": "`mamvka",
+          "morph": "Verb Qal Participle 3rd common plural + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6004"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:4",
+      "englishText": "by your wisdom and by your understanding you have gotten yourself riches, and have gotten gold and silver into your treasures;",
+      "tokens": [
+        {
+          "id": "ezekiel-28-4-0",
+          "surface": "בְּחָכְמָֽתְךָ֙",
+          "lemma": "חׇכְמָה",
+          "translit": "bechakemateka",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2451"
+        },
+        {
+          "id": "ezekiel-28-4-1",
+          "surface": "וּבִתְבוּנָ֣תְךָ֔",
+          "lemma": "תָּבוּן",
+          "translit": "vbitebvnateka",
+          "morph": "Conjunction + Preposition + Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8394"
+        },
+        {
+          "id": "ezekiel-28-4-2",
+          "surface": "עָשִׂ֥יתָ",
+          "lemma": "עָשָׂה",
+          "translit": "`ashiyta",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "ezekiel-28-4-3",
+          "surface": "לְּךָ֖",
+          "lemma": "לְּךָ֖",
+          "translit": "leka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "ezekiel-28-4-4",
+          "surface": "חָ֑יִל",
+          "lemma": "חַיִל",
+          "translit": "chayil",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2428"
+        },
+        {
+          "id": "ezekiel-28-4-5",
+          "surface": "וַתַּ֛עַשׂ",
+          "lemma": "עָשָׂה",
+          "translit": "vata`ash",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "ezekiel-28-4-6",
+          "surface": "זָהָ֥ב",
+          "lemma": "זָהָב",
+          "translit": "zahab",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2091"
+        },
+        {
+          "id": "ezekiel-28-4-7",
+          "surface": "וָכֶ֖סֶף",
+          "lemma": "כֶּסֶף",
+          "translit": "vakesep",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3701"
+        },
+        {
+          "id": "ezekiel-28-4-8",
+          "surface": "בְּאוֹצְרוֹתֶֽיךָ",
+          "lemma": "אוֹצָר",
+          "translit": "be'votservoteyka",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H214"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:5",
+      "englishText": "by your great wisdom and by your traffic you have increased your riches, and your heart is lifted up because of your riches—",
+      "tokens": [
+        {
+          "id": "ezekiel-28-5-0",
+          "surface": "בְּרֹ֧ב",
+          "lemma": "רֹב",
+          "translit": "berob",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7230"
+        },
+        {
+          "id": "ezekiel-28-5-1",
+          "surface": "חָכְמָתְךָ֛",
+          "lemma": "חׇכְמָה",
+          "translit": "chakemateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2451"
+        },
+        {
+          "id": "ezekiel-28-5-2",
+          "surface": "בִּרְכֻלָּתְךָ֖",
+          "lemma": "רְכֻלָּה",
+          "translit": "birekulateka",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7404"
+        },
+        {
+          "id": "ezekiel-28-5-3",
+          "surface": "הִרְבִּ֣יתָ",
+          "lemma": "רָבָה",
+          "translit": "hirebiyta",
+          "morph": "Verb Hiphil Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "ezekiel-28-5-4",
+          "surface": "חֵילֶ֑ךָ",
+          "lemma": "חַיִל",
+          "translit": "cheyleka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2428"
+        },
+        {
+          "id": "ezekiel-28-5-5",
+          "surface": "וַיִּגְבַּ֥הּ",
+          "lemma": "גָּבַהּ",
+          "translit": "vayigebah",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1361"
+        },
+        {
+          "id": "ezekiel-28-5-6",
+          "surface": "לְבָבְךָ֖",
+          "lemma": "לֵבָב",
+          "translit": "lebabeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "ezekiel-28-5-7",
+          "surface": "בְּחֵילֶֽךָ",
+          "lemma": "חַיִל",
+          "translit": "becheyleka",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2428"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:6",
+      "englishText": "therefore thus says the Lord Yahweh: Because you have set your heart as the heart of God,",
+      "tokens": [
+        {
+          "id": "ezekiel-28-6-0",
+          "surface": "לָכֵ֕ן",
+          "lemma": "כֵּן",
+          "translit": "laken",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "ezekiel-28-6-1",
+          "surface": "כֹּ֥ה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "ezekiel-28-6-2",
+          "surface": "אָמַ֖ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-6-3",
+          "surface": "אֲדֹנָ֣י",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "ezekiel-28-6-4",
+          "surface": "יְהוִ֑ה",
+          "lemma": "יְהֹוִה",
+          "translit": "yehvih",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3069"
+        },
+        {
+          "id": "ezekiel-28-6-5",
+          "surface": "יַ֛עַן",
+          "lemma": "יַעַן",
+          "translit": "ya`an",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3282"
+        },
+        {
+          "id": "ezekiel-28-6-6",
+          "surface": "תִּתְּךָ֥",
+          "lemma": "נָתַן",
+          "translit": "titeka",
+          "morph": "Verb Qal Infinitive Construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "ezekiel-28-6-7",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ezekiel-28-6-8",
+          "surface": "לְבָבְךָ֖",
+          "lemma": "לֵבָב",
+          "translit": "lebabeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "ezekiel-28-6-9",
+          "surface": "כְּלֵ֥ב",
+          "lemma": "לֵב",
+          "translit": "keleb",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ezekiel-28-6-10",
+          "surface": "אֱלֹהִֽים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:7",
+      "englishText": "therefore, behold, I will bring strangers on you, the terrible of the nations; and they shall draw their swords against the beauty of your wisdom, and they shall defile your brightness.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-7-0",
+          "surface": "לָכֵ֗ן",
+          "lemma": "כֵּן",
+          "translit": "laken",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "ezekiel-28-7-1",
+          "surface": "הִנְנִ֨י",
+          "lemma": "הֵן",
+          "translit": "hineniy",
+          "morph": "Particle masculine + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "ezekiel-28-7-2",
+          "surface": "מֵבִ֤יא",
+          "lemma": "בּוֹא",
+          "translit": "mebiy'",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "ezekiel-28-7-3",
+          "surface": "עָלֶ֨יךָ֙",
+          "lemma": "עַל",
+          "translit": "`aleyka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-7-4",
+          "surface": "זָרִ֔ים",
+          "lemma": "זוּר",
+          "translit": "zariym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2114"
+        },
+        {
+          "id": "ezekiel-28-7-5",
+          "surface": "עָרִיצֵ֖י",
+          "lemma": "עָרִיץ",
+          "translit": "`ariytsey",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6184"
+        },
+        {
+          "id": "ezekiel-28-7-6",
+          "surface": "גּוֹיִ֑ם",
+          "lemma": "גּוֹי",
+          "translit": "gvoyim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "ezekiel-28-7-7",
+          "surface": "וְהֵרִ֤יקוּ",
+          "lemma": "רוּק",
+          "translit": "veheriyqv",
+          "morph": "Conjunction + Verb Hiphil Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H7324"
+        },
+        {
+          "id": "ezekiel-28-7-8",
+          "surface": "חַרְבוֹתָם֙",
+          "lemma": "חֶרֶב",
+          "translit": "charebvotam",
+          "morph": "Noun common feminine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "ezekiel-28-7-9",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-7-10",
+          "surface": "יְפִ֣י",
+          "lemma": "יֳפִי",
+          "translit": "yepiy",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3308"
+        },
+        {
+          "id": "ezekiel-28-7-11",
+          "surface": "חָכְמָתֶ֔ךָ",
+          "lemma": "חׇכְמָה",
+          "translit": "chakemateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2451"
+        },
+        {
+          "id": "ezekiel-28-7-12",
+          "surface": "וְחִלְּל֖וּ",
+          "lemma": "חָלַל",
+          "translit": "vechilelv",
+          "morph": "Conjunction + Verb Piel Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H2490"
+        },
+        {
+          "id": "ezekiel-28-7-13",
+          "surface": "יִפְעָתֶֽךָ",
+          "lemma": "יִפְעָה",
+          "translit": "yipe`ateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3314"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:8",
+      "englishText": "They shall bring you down to the pit; and you shall die the death of those who are slain, in the heart of the seas.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-8-0",
+          "surface": "לַשַּׁ֖חַת",
+          "lemma": "שַׁחַת",
+          "translit": "lashachat",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7845"
+        },
+        {
+          "id": "ezekiel-28-8-1",
+          "surface": "יֽוֹרִד֑וּךָ",
+          "lemma": "יָרַד",
+          "translit": "yvoridvka",
+          "morph": "Verb Hiphil Imperative 3rd masculine plural + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "ezekiel-28-8-2",
+          "surface": "וָמַ֛תָּה",
+          "lemma": "מוּת",
+          "translit": "vamatah",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "ezekiel-28-8-3",
+          "surface": "מְמוֹתֵ֥י",
+          "lemma": "מָמוֹת",
+          "translit": "memvotey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H4463"
+        },
+        {
+          "id": "ezekiel-28-8-4",
+          "surface": "חָלָ֖ל",
+          "lemma": "חָלָל",
+          "translit": "chalal",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2491"
+        },
+        {
+          "id": "ezekiel-28-8-5",
+          "surface": "בְּלֵ֥ב",
+          "lemma": "לֵב",
+          "translit": "beleb",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ezekiel-28-8-6",
+          "surface": "יַמִּֽים",
+          "lemma": "יָם",
+          "translit": "yamiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3220"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:9",
+      "englishText": "Will you yet say before him who kills you, I am God? but you are man, and not God, in the hand of him who wounds you.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-9-0",
+          "surface": "הֶאָמֹ֤ר",
+          "lemma": "אָמַר",
+          "translit": "he'amor",
+          "morph": "Particle + Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-9-1",
+          "surface": "תֹּאמַר֙",
+          "lemma": "אָמַר",
+          "translit": "to'mar",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-9-2",
+          "surface": "אֱלֹהִ֣ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "ezekiel-28-9-3",
+          "surface": "אָ֔נִי",
+          "lemma": "אֲנִי",
+          "translit": "'aniy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "ezekiel-28-9-4",
+          "surface": "לִפְנֵ֖י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "ezekiel-28-9-5",
+          "surface": "הֹֽרְגֶ֑ךָ",
+          "lemma": "הָרַג",
+          "translit": "horegeka",
+          "morph": "Verb Qal Passive Participle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2026"
+        },
+        {
+          "id": "ezekiel-28-9-6",
+          "surface": "וְאַתָּ֥ה",
+          "lemma": "אַתָּה",
+          "translit": "ve'atah",
+          "morph": "Conjunction + Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "ezekiel-28-9-7",
+          "surface": "אָדָ֛ם",
+          "lemma": "אָדָם",
+          "translit": "'adam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        },
+        {
+          "id": "ezekiel-28-9-8",
+          "surface": "וְלֹא",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ezekiel-28-9-9",
+          "surface": "אֵ֖ל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H410"
+        },
+        {
+          "id": "ezekiel-28-9-10",
+          "surface": "בְּיַ֥ד",
+          "lemma": "יָד",
+          "translit": "beyad",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "ezekiel-28-9-11",
+          "surface": "מְחַלְלֶֽיךָ",
+          "lemma": "חָלַל",
+          "translit": "mechaleleyka",
+          "morph": "Verb Piel Passive Participle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2490"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:10",
+      "englishText": "You shall die the death of the uncircumcised by the hand of strangers: for I have spoken it, says the Lord Yahweh.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-10-0",
+          "surface": "מוֹתֵ֧י",
+          "lemma": "מָוֶת",
+          "translit": "mvotey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H4194"
+        },
+        {
+          "id": "ezekiel-28-10-1",
+          "surface": "עֲרֵלִ֛ים",
+          "lemma": "עָרֵל",
+          "translit": "`reliym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6189"
+        },
+        {
+          "id": "ezekiel-28-10-2",
+          "surface": "תָּמ֖וּת",
+          "lemma": "מוּת",
+          "translit": "tamvt",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "ezekiel-28-10-3",
+          "surface": "בְּיַד",
+          "lemma": "יָד",
+          "translit": "beyad",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "ezekiel-28-10-4",
+          "surface": "זָרִ֑ים",
+          "lemma": "זוּר",
+          "translit": "zariym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2114"
+        },
+        {
+          "id": "ezekiel-28-10-5",
+          "surface": "כִּ֚י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ezekiel-28-10-6",
+          "surface": "אֲנִ֣י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "ezekiel-28-10-7",
+          "surface": "דִבַּ֔רְתִּי",
+          "lemma": "דָבַר",
+          "translit": "dibaretiy",
+          "morph": "Verb Piel Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "ezekiel-28-10-8",
+          "surface": "נְאֻ֖ם",
+          "lemma": "נְאֻם",
+          "translit": "ne'um",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5002"
+        },
+        {
+          "id": "ezekiel-28-10-9",
+          "surface": "אֲדֹנָ֥י",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "ezekiel-28-10-10",
+          "surface": "יְהוִֽה",
+          "lemma": "יְהֹוִה",
+          "translit": "yehvih",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3069"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:11",
+      "englishText": "Moreover Yahweh’s word came to me, saying,",
+      "tokens": [
+        {
+          "id": "ezekiel-28-11-0",
+          "surface": "וַיְהִ֥י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ezekiel-28-11-1",
+          "surface": "דְבַר",
+          "lemma": "דָּבָר",
+          "translit": "debar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "ezekiel-28-11-2",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "ezekiel-28-11-3",
+          "surface": "אֵלַ֥י",
+          "lemma": "אֵל",
+          "translit": "'elay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ezekiel-28-11-4",
+          "surface": "לֵאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:12",
+      "englishText": "Son of man, take up a lamentation over the king of Tyre, and tell him, Thus says the Lord Yahweh: You seal up the sum, full of wisdom, and perfect in beauty.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-12-0",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "ezekiel-28-12-1",
+          "surface": "אָדָ֕ם",
+          "lemma": "אָדָם",
+          "translit": "'adam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        },
+        {
+          "id": "ezekiel-28-12-2",
+          "surface": "שָׂ֥א",
+          "lemma": "נָשָׂא",
+          "translit": "sha'",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "ezekiel-28-12-3",
+          "surface": "קִינָ֖ה",
+          "lemma": "קִינָה",
+          "translit": "qiynah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7015"
+        },
+        {
+          "id": "ezekiel-28-12-4",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-12-5",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "ezekiel-28-12-6",
+          "surface": "צ֑וֹר",
+          "lemma": "צֹר",
+          "translit": "tsvor",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6865"
+        },
+        {
+          "id": "ezekiel-28-12-7",
+          "surface": "וְאָמַ֣רְתָּ",
+          "lemma": "אָמַר",
+          "translit": "ve'amareta",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-12-8",
+          "surface": "לּ֗וֹ",
+          "lemma": "לּ֗וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "ezekiel-28-12-9",
+          "surface": "כֹּ֤ה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "ezekiel-28-12-10",
+          "surface": "אָמַר֙",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-12-11",
+          "surface": "אֲדֹנָ֣י",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "ezekiel-28-12-12",
+          "surface": "יְהוִ֔ה",
+          "lemma": "יְהֹוִה",
+          "translit": "yehvih",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3069"
+        },
+        {
+          "id": "ezekiel-28-12-13",
+          "surface": "אַתָּה֙",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "ezekiel-28-12-14",
+          "surface": "חוֹתֵ֣ם",
+          "lemma": "חָתַם",
+          "translit": "chvotem",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H2856"
+        },
+        {
+          "id": "ezekiel-28-12-15",
+          "surface": "תָּכְנִ֔ית",
+          "lemma": "תׇּכְנִית",
+          "translit": "takeniyt",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8508"
+        },
+        {
+          "id": "ezekiel-28-12-16",
+          "surface": "מָלֵ֥א",
+          "lemma": "מָלֵא",
+          "translit": "male'",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H4392"
+        },
+        {
+          "id": "ezekiel-28-12-17",
+          "surface": "חָכְמָ֖ה",
+          "lemma": "חׇכְמָה",
+          "translit": "chakemah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2451"
+        },
+        {
+          "id": "ezekiel-28-12-18",
+          "surface": "וּכְלִ֥יל",
+          "lemma": "כָּלִיל",
+          "translit": "vkeliyl",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H3632"
+        },
+        {
+          "id": "ezekiel-28-12-19",
+          "surface": "יֹֽפִי",
+          "lemma": "יֳפִי",
+          "translit": "yopiy",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3308"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:13",
+      "englishText": "You were in Eden, the garden of God; every precious stone adorned you: ruby, topaz, emerald, chrysolite, onyx, jasper, sapphire, turquoise, and beryl. Gold work of tambourines and of pipes was in you. In the day that you were created they were prepared.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-13-0",
+          "surface": "בְּעֵ֨דֶן",
+          "lemma": "עֵדֶן",
+          "translit": "be`eden",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H5731"
+        },
+        {
+          "id": "ezekiel-28-13-1",
+          "surface": "גַּן",
+          "lemma": "גַּן",
+          "translit": "gan",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H1588"
+        },
+        {
+          "id": "ezekiel-28-13-2",
+          "surface": "אֱלֹהִ֜ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "ezekiel-28-13-3",
+          "surface": "הָיִ֗יתָ",
+          "lemma": "הָיָה",
+          "translit": "hayiyta",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ezekiel-28-13-4",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ezekiel-28-13-5",
+          "surface": "אֶ֨בֶן",
+          "lemma": "אֶבֶן",
+          "translit": "'eben",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H68"
+        },
+        {
+          "id": "ezekiel-28-13-6",
+          "surface": "יְקָרָ֤ה",
+          "lemma": "יָקָר",
+          "translit": "yeqarah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H3368"
+        },
+        {
+          "id": "ezekiel-28-13-7",
+          "surface": "מְסֻכָתֶ֨ךָ֙",
+          "lemma": "מְסֻכָּה",
+          "translit": "mesukateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4540"
+        },
+        {
+          "id": "ezekiel-28-13-8",
+          "surface": "אֹ֣דֶם",
+          "lemma": "אֹדֶם",
+          "translit": "'odem",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H124"
+        },
+        {
+          "id": "ezekiel-28-13-9",
+          "surface": "פִּטְדָ֞ה",
+          "lemma": "פִּטְדָה",
+          "translit": "pitedah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6357"
+        },
+        {
+          "id": "ezekiel-28-13-10",
+          "surface": "וְיָהֲלֹ֗ם",
+          "lemma": "יַהֲלֹם",
+          "translit": "veyahlom",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3095"
+        },
+        {
+          "id": "ezekiel-28-13-11",
+          "surface": "תַּרְשִׁ֥ישׁ",
+          "lemma": "תַּרְשִׁישׁ",
+          "translit": "tareshiysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8658"
+        },
+        {
+          "id": "ezekiel-28-13-12",
+          "surface": "שֹׁ֨הַם֙",
+          "lemma": "שֹׁהַם",
+          "translit": "shoham",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7718"
+        },
+        {
+          "id": "ezekiel-28-13-13",
+          "surface": "וְיָ֣שְׁפֵ֔ה",
+          "lemma": "יָשְׁפֵה",
+          "translit": "veyashepeh",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3471"
+        },
+        {
+          "id": "ezekiel-28-13-14",
+          "surface": "סַפִּ֣יר",
+          "lemma": "סַפִּיר",
+          "translit": "sapiyr",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5601"
+        },
+        {
+          "id": "ezekiel-28-13-15",
+          "surface": "נֹ֔פֶךְ",
+          "lemma": "נֹפֶךְ",
+          "translit": "nopeke",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5306"
+        },
+        {
+          "id": "ezekiel-28-13-16",
+          "surface": "וּבָרְקַ֖ת",
+          "lemma": "בָּרֶקֶת",
+          "translit": "vbareqat",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1304"
+        },
+        {
+          "id": "ezekiel-28-13-17",
+          "surface": "וְזָהָ֑ב",
+          "lemma": "זָהָב",
+          "translit": "vezahab",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2091"
+        },
+        {
+          "id": "ezekiel-28-13-18",
+          "surface": "מְלֶ֨אכֶת",
+          "lemma": "מְלָאכָה",
+          "translit": "mele'ket",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4399"
+        },
+        {
+          "id": "ezekiel-28-13-19",
+          "surface": "תֻּפֶּ֤יךָ",
+          "lemma": "תֹּף",
+          "translit": "tupeyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8596"
+        },
+        {
+          "id": "ezekiel-28-13-20",
+          "surface": "וּנְקָבֶ֨יךָ֙",
+          "lemma": "נֶקֶב",
+          "translit": "vneqabeyka",
+          "morph": "Conjunction + Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5345"
+        },
+        {
+          "id": "ezekiel-28-13-21",
+          "surface": "בָּ֔ךְ",
+          "lemma": "בָּ֔ךְ",
+          "translit": "bake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ezekiel-28-13-22",
+          "surface": "בְּי֥וֹם",
+          "lemma": "יוֹם",
+          "translit": "beyvom",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "ezekiel-28-13-23",
+          "surface": "הִבָּרַאֲךָ֖",
+          "lemma": "בָּרָא",
+          "translit": "hibara'ka",
+          "morph": "Verb Niphal Infinitive Construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1254"
+        },
+        {
+          "id": "ezekiel-28-13-24",
+          "surface": "כּוֹנָֽנוּ",
+          "lemma": "כּוּן",
+          "translit": "kvonanv",
+          "morph": "Verb Polal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H3559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:14",
+      "englishText": "You were the anointed cherub who covers: and I set you, so that you were on the holy mountain of God; you have walked up and down in the midst of the stones of fire.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-14-0",
+          "surface": "אַ֨תְּ",
+          "lemma": "אַתָּה",
+          "translit": "'ate",
+          "morph": "Pronoun plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "ezekiel-28-14-1",
+          "surface": "כְּר֔וּב",
+          "lemma": "כְּרוּב",
+          "translit": "kervb",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3742"
+        },
+        {
+          "id": "ezekiel-28-14-2",
+          "surface": "מִמְשַׁ֖ח",
+          "lemma": "מִמְשַׁח",
+          "translit": "mimeshach",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4473"
+        },
+        {
+          "id": "ezekiel-28-14-3",
+          "surface": "הַסּוֹכֵ֑ךְ",
+          "lemma": "סָכַךְ",
+          "translit": "hasvokeke",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5526"
+        },
+        {
+          "id": "ezekiel-28-14-4",
+          "surface": "וּנְתַתִּ֗יךָ",
+          "lemma": "נָתַן",
+          "translit": "vnetatiyka",
+          "morph": "Conjunction + Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "ezekiel-28-14-5",
+          "surface": "בְּהַ֨ר",
+          "lemma": "הַר",
+          "translit": "behar",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "ezekiel-28-14-6",
+          "surface": "קֹ֤דֶשׁ",
+          "lemma": "קֹדֶשׁ",
+          "translit": "qodesh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6944"
+        },
+        {
+          "id": "ezekiel-28-14-7",
+          "surface": "אֱלֹהִים֙",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "ezekiel-28-14-8",
+          "surface": "הָיִ֔יתָ",
+          "lemma": "הָיָה",
+          "translit": "hayiyta",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ezekiel-28-14-9",
+          "surface": "בְּת֥וֹךְ",
+          "lemma": "תָּוֶךְ",
+          "translit": "betvoke",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8432"
+        },
+        {
+          "id": "ezekiel-28-14-10",
+          "surface": "אַבְנֵי",
+          "lemma": "אֶבֶן",
+          "translit": "'abeney",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H68"
+        },
+        {
+          "id": "ezekiel-28-14-11",
+          "surface": "אֵ֖שׁ",
+          "lemma": "אֵשׁ",
+          "translit": "'esh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H784"
+        },
+        {
+          "id": "ezekiel-28-14-12",
+          "surface": "הִתְהַלָּֽכְתָּ",
+          "lemma": "הָלַךְ",
+          "translit": "hitehalaketa",
+          "morph": "Verb Hithpael Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1980"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:15",
+      "englishText": "You were perfect in your ways from the day that you were created, until unrighteousness was found in you.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-15-0",
+          "surface": "תָּמִ֤ים",
+          "lemma": "תָּמִים",
+          "translit": "tamiym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H8549"
+        },
+        {
+          "id": "ezekiel-28-15-1",
+          "surface": "אַתָּה֙",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "ezekiel-28-15-2",
+          "surface": "בִּדְרָכֶ֔יךָ",
+          "lemma": "דֶּרֶךְ",
+          "translit": "biderakeyka",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1870"
+        },
+        {
+          "id": "ezekiel-28-15-3",
+          "surface": "מִיּ֖וֹם",
+          "lemma": "יוֹם",
+          "translit": "miyvom",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "ezekiel-28-15-4",
+          "surface": "הִבָּֽרְאָ֑ךְ",
+          "lemma": "בָּרָא",
+          "translit": "hibare'ake",
+          "morph": "Verb Niphal Infinitive Construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1254"
+        },
+        {
+          "id": "ezekiel-28-15-5",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "ezekiel-28-15-6",
+          "surface": "נִמְצָ֥א",
+          "lemma": "מָצָא",
+          "translit": "nimetsa'",
+          "morph": "Verb Niphal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4672"
+        },
+        {
+          "id": "ezekiel-28-15-7",
+          "surface": "עַוְלָ֖תָה",
+          "lemma": "עֶוֶל",
+          "translit": "`avelatah",
+          "morph": "Noun common singular absolute + Suffix",
+          "glosses": [],
+          "strongs": "H5766"
+        },
+        {
+          "id": "ezekiel-28-15-8",
+          "surface": "בָּֽךְ",
+          "lemma": "בָּֽךְ",
+          "translit": "bake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:16",
+      "englishText": "By the abundance of your traffic they filled your midst with violence, and you have sinned: therefore I have cast you as profane out of the mountain of God; and I have destroyed you, covering cherub, from the midst of the stones of fire.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-16-0",
+          "surface": "בְּרֹ֣ב",
+          "lemma": "רֹב",
+          "translit": "berob",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7230"
+        },
+        {
+          "id": "ezekiel-28-16-1",
+          "surface": "רְכֻלָּתְךָ֗",
+          "lemma": "רְכֻלָּה",
+          "translit": "rekulateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7404"
+        },
+        {
+          "id": "ezekiel-28-16-2",
+          "surface": "מָל֧וּ",
+          "lemma": "מָלֵא",
+          "translit": "malv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H4390"
+        },
+        {
+          "id": "ezekiel-28-16-3",
+          "surface": "תוֹכְךָ֛",
+          "lemma": "תָּוֶךְ",
+          "translit": "tvokeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8432"
+        },
+        {
+          "id": "ezekiel-28-16-4",
+          "surface": "חָמָ֖ס",
+          "lemma": "חָמָס",
+          "translit": "chamas",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2555"
+        },
+        {
+          "id": "ezekiel-28-16-5",
+          "surface": "וַֽתֶּחֱטָ֑א",
+          "lemma": "חָטָא",
+          "translit": "vatechta'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2398"
+        },
+        {
+          "id": "ezekiel-28-16-6",
+          "surface": "וָאֶחַלֶּלְךָ֩",
+          "lemma": "חָלַל",
+          "translit": "va'echaleleka",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2490"
+        },
+        {
+          "id": "ezekiel-28-16-7",
+          "surface": "מֵהַ֨ר",
+          "lemma": "הַר",
+          "translit": "mehar",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "ezekiel-28-16-8",
+          "surface": "אֱלֹהִ֤ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "ezekiel-28-16-9",
+          "surface": "וָֽאַבֶּדְךָ֙",
+          "lemma": "אָבַד",
+          "translit": "va'abedeka",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6"
+        },
+        {
+          "id": "ezekiel-28-16-10",
+          "surface": "כְּר֣וּב",
+          "lemma": "כְּרוּב",
+          "translit": "kervb",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3742"
+        },
+        {
+          "id": "ezekiel-28-16-11",
+          "surface": "הַסֹּכֵ֔ךְ",
+          "lemma": "סָכַךְ",
+          "translit": "hasokeke",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5526"
+        },
+        {
+          "id": "ezekiel-28-16-12",
+          "surface": "מִתּ֖וֹךְ",
+          "lemma": "תָּוֶךְ",
+          "translit": "mitvoke",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8432"
+        },
+        {
+          "id": "ezekiel-28-16-13",
+          "surface": "אַבְנֵי",
+          "lemma": "אֶבֶן",
+          "translit": "'abeney",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H68"
+        },
+        {
+          "id": "ezekiel-28-16-14",
+          "surface": "אֵֽשׁ",
+          "lemma": "אֵשׁ",
+          "translit": "'esh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H784"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:17",
+      "englishText": "Your heart was lifted up because of your beauty; you have corrupted your wisdom by reason of your brightness: I have cast you to the ground; I have laid you before kings, that they may see you.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-17-0",
+          "surface": "גָּבַ֤הּ",
+          "lemma": "גָּבַהּ",
+          "translit": "gabah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1361"
+        },
+        {
+          "id": "ezekiel-28-17-1",
+          "surface": "לִבְּךָ֙",
+          "lemma": "לֵב",
+          "translit": "libeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ezekiel-28-17-2",
+          "surface": "בְּיָפְיֶ֔ךָ",
+          "lemma": "יֳפִי",
+          "translit": "beyapeyeka",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3308"
+        },
+        {
+          "id": "ezekiel-28-17-3",
+          "surface": "שִׁחַ֥תָּ",
+          "lemma": "שָׁחַת",
+          "translit": "shichata",
+          "morph": "Verb Piel Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7843"
+        },
+        {
+          "id": "ezekiel-28-17-4",
+          "surface": "חָכְמָתְךָ֖",
+          "lemma": "חׇכְמָה",
+          "translit": "chakemateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2451"
+        },
+        {
+          "id": "ezekiel-28-17-5",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-17-6",
+          "surface": "יִפְעָתֶ֑ךָ",
+          "lemma": "יִפְעָה",
+          "translit": "yipe`ateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3314"
+        },
+        {
+          "id": "ezekiel-28-17-7",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-17-8",
+          "surface": "אֶ֣רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "'erets",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "ezekiel-28-17-9",
+          "surface": "הִשְׁלַכְתִּ֗יךָ",
+          "lemma": "שָׁלַךְ",
+          "translit": "hishelaketiyka",
+          "morph": "Verb Hiphil Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7993"
+        },
+        {
+          "id": "ezekiel-28-17-10",
+          "surface": "לִפְנֵ֧י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "ezekiel-28-17-11",
+          "surface": "מְלָכִ֛ים",
+          "lemma": "מֶלֶךְ",
+          "translit": "melakiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "ezekiel-28-17-12",
+          "surface": "נְתַתִּ֖יךָ",
+          "lemma": "נָתַן",
+          "translit": "netatiyka",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "ezekiel-28-17-13",
+          "surface": "לְרַ֥אֲוָה",
+          "lemma": "רָאָה",
+          "translit": "lera'vah",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "ezekiel-28-17-14",
+          "surface": "בָֽךְ",
+          "lemma": "בָֽךְ",
+          "translit": "bake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:18",
+      "englishText": "By the multitude of your iniquities, in the unrighteousness of your traffic, you have profaned your sanctuaries; therefore have I brought out a fire from your midst; it has devoured you, and I have turned you to ashes on the earth in the sight of all those who see you.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-18-0",
+          "surface": "מֵרֹ֣ב",
+          "lemma": "רֹב",
+          "translit": "merob",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7230"
+        },
+        {
+          "id": "ezekiel-28-18-1",
+          "surface": "עֲוֺנֶ֗יךָ",
+          "lemma": "עָוֺן",
+          "translit": "`vneyka",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5771"
+        },
+        {
+          "id": "ezekiel-28-18-2",
+          "surface": "בְּעֶ֨וֶל֙",
+          "lemma": "עֶוֶל",
+          "translit": "be`evel",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H5766"
+        },
+        {
+          "id": "ezekiel-28-18-3",
+          "surface": "רְכֻלָּ֣תְךָ֔",
+          "lemma": "רְכֻלָּה",
+          "translit": "rekulateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7404"
+        },
+        {
+          "id": "ezekiel-28-18-4",
+          "surface": "חִלַּ֖לְתָּ",
+          "lemma": "חָלַל",
+          "translit": "chilaleta",
+          "morph": "Verb Piel Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2490"
+        },
+        {
+          "id": "ezekiel-28-18-5",
+          "surface": "מִקְדָּשֶׁ֑יךָ",
+          "lemma": "מִקְדָּשׁ",
+          "translit": "miqedasheyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4720"
+        },
+        {
+          "id": "ezekiel-28-18-6",
+          "surface": "וָֽאוֹצִא",
+          "lemma": "יָצָא",
+          "translit": "va'votsi'",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 1st common singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "ezekiel-28-18-7",
+          "surface": "אֵ֤שׁ",
+          "lemma": "אֵשׁ",
+          "translit": "'esh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H784"
+        },
+        {
+          "id": "ezekiel-28-18-8",
+          "surface": "מִתּֽוֹכְךָ֙",
+          "lemma": "תָּוֶךְ",
+          "translit": "mitvokeka",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8432"
+        },
+        {
+          "id": "ezekiel-28-18-9",
+          "surface": "הִ֣יא",
+          "lemma": "הוּא",
+          "translit": "hiy'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "ezekiel-28-18-10",
+          "surface": "אֲכָלַ֔תְךָ",
+          "lemma": "אָכַל",
+          "translit": "'kalateka",
+          "morph": "Verb Qal Participle 3rd feminine singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "ezekiel-28-18-11",
+          "surface": "וָאֶתֶּנְךָ֤",
+          "lemma": "נָתַן",
+          "translit": "va'eteneka",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "ezekiel-28-18-12",
+          "surface": "לְאֵ֨פֶר֙",
+          "lemma": "אֵפֶר",
+          "translit": "le'eper",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H665"
+        },
+        {
+          "id": "ezekiel-28-18-13",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-18-14",
+          "surface": "הָאָ֔רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "ezekiel-28-18-15",
+          "surface": "לְעֵינֵ֖י",
+          "lemma": "עַיִן",
+          "translit": "le`eyney",
+          "morph": "Preposition + Noun common dual construct",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "ezekiel-28-18-16",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ezekiel-28-18-17",
+          "surface": "רֹאֶֽיךָ",
+          "lemma": "רָאָה",
+          "translit": "ro'eyka",
+          "morph": "Verb Qal Passive Participle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7200"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:19",
+      "englishText": "All those who know you among the peoples shall be astonished at you: you have become a terror, and you shall nevermore have any being.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-19-0",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ezekiel-28-19-1",
+          "surface": "יוֹדְעֶ֨יךָ֙",
+          "lemma": "יָדַע",
+          "translit": "yvode`eyka",
+          "morph": "Verb Qal Passive Participle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ezekiel-28-19-2",
+          "surface": "בָּֽעַמִּ֔ים",
+          "lemma": "עַם",
+          "translit": "ba`amiym",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "ezekiel-28-19-3",
+          "surface": "שָׁמְמ֖וּ",
+          "lemma": "שָׁמֵם",
+          "translit": "shamemv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H8074"
+        },
+        {
+          "id": "ezekiel-28-19-4",
+          "surface": "עָלֶ֑יךָ",
+          "lemma": "עַל",
+          "translit": "`aleyka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-19-5",
+          "surface": "בַּלָּה֣וֹת",
+          "lemma": "בַּלָּהָה",
+          "translit": "balahvot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H1091"
+        },
+        {
+          "id": "ezekiel-28-19-6",
+          "surface": "הָיִ֔יתָ",
+          "lemma": "הָיָה",
+          "translit": "hayiyta",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ezekiel-28-19-7",
+          "surface": "וְאֵינְךָ֖",
+          "lemma": "אַיִן",
+          "translit": "ve'eyneka",
+          "morph": "Conjunction + Particle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "ezekiel-28-19-8",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "ezekiel-28-19-9",
+          "surface": "עוֹלָֽם",
+          "lemma": "עוֹלָם",
+          "translit": "`volam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:20",
+      "englishText": "Yahweh’s word came to me, saying,",
+      "tokens": [
+        {
+          "id": "ezekiel-28-20-0",
+          "surface": "וַיְהִ֥י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ezekiel-28-20-1",
+          "surface": "דְבַר",
+          "lemma": "דָּבָר",
+          "translit": "debar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "ezekiel-28-20-2",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "ezekiel-28-20-3",
+          "surface": "אֵלַ֥י",
+          "lemma": "אֵל",
+          "translit": "'elay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ezekiel-28-20-4",
+          "surface": "לֵאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:21",
+      "englishText": "Son of man, set your face toward Sidon, and prophesy against it,",
+      "tokens": [
+        {
+          "id": "ezekiel-28-21-0",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "ezekiel-28-21-1",
+          "surface": "אָדָ֕ם",
+          "lemma": "אָדָם",
+          "translit": "'adam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        },
+        {
+          "id": "ezekiel-28-21-2",
+          "surface": "שִׂ֥ים",
+          "lemma": "שׂוּם",
+          "translit": "shiym",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "ezekiel-28-21-3",
+          "surface": "פָּנֶ֖יךָ",
+          "lemma": "פָּנִים",
+          "translit": "paneyka",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "ezekiel-28-21-4",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ezekiel-28-21-5",
+          "surface": "צִיד֑וֹן",
+          "lemma": "צִידוֹן",
+          "translit": "tsiydvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6721"
+        },
+        {
+          "id": "ezekiel-28-21-6",
+          "surface": "וְהִנָּבֵ֖א",
+          "lemma": "נָבָא",
+          "translit": "vehinabe'",
+          "morph": "Conjunction + Verb Niphal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5012"
+        },
+        {
+          "id": "ezekiel-28-21-7",
+          "surface": "עָלֶֽיהָ",
+          "lemma": "עַל",
+          "translit": "`aleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:22",
+      "englishText": "and say, Thus says the Lord Yahweh: Behold, I am against you, Sidon; and I will be glorified in your midst; and they shall know that I am Yahweh, when I shall have executed judgments in her, and shall be sanctified in her.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-22-0",
+          "surface": "וְאָמַרְתָּ֗",
+          "lemma": "אָמַר",
+          "translit": "ve'amareta",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-22-1",
+          "surface": "כֹּ֤ה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "ezekiel-28-22-2",
+          "surface": "אָמַר֙",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-22-3",
+          "surface": "אֲדֹנָ֣י",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "ezekiel-28-22-4",
+          "surface": "יְהוִ֔ה",
+          "lemma": "יְהֹוִה",
+          "translit": "yehvih",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3069"
+        },
+        {
+          "id": "ezekiel-28-22-5",
+          "surface": "הִנְנִ֤י",
+          "lemma": "הֵן",
+          "translit": "hineniy",
+          "morph": "Particle masculine + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "ezekiel-28-22-6",
+          "surface": "עָלַ֨יִךְ֙",
+          "lemma": "עַל",
+          "translit": "`alayike",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-22-7",
+          "surface": "צִיד֔וֹן",
+          "lemma": "צִידוֹן",
+          "translit": "tsiydvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6721"
+        },
+        {
+          "id": "ezekiel-28-22-8",
+          "surface": "וְנִכְבַּדְתִּ֖י",
+          "lemma": "כָּבַד",
+          "translit": "venikebadetiy",
+          "morph": "Conjunction + Verb Niphal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H3513"
+        },
+        {
+          "id": "ezekiel-28-22-9",
+          "surface": "בְּתוֹכֵ֑ךְ",
+          "lemma": "תָּוֶךְ",
+          "translit": "betvokeke",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H8432"
+        },
+        {
+          "id": "ezekiel-28-22-10",
+          "surface": "וְֽיָדְע֞וּ",
+          "lemma": "יָדַע",
+          "translit": "veyade`v",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ezekiel-28-22-11",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ezekiel-28-22-12",
+          "surface": "אֲנִ֣י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "ezekiel-28-22-13",
+          "surface": "יְהוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "ezekiel-28-22-14",
+          "surface": "בַּעֲשׂ֥וֹתִי",
+          "lemma": "עָשָׂה",
+          "translit": "ba`shvotiy",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "ezekiel-28-22-15",
+          "surface": "בָ֛הּ",
+          "lemma": "בָ֛הּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ezekiel-28-22-16",
+          "surface": "שְׁפָטִ֖ים",
+          "lemma": "שֶׁפֶט",
+          "translit": "shepatiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8201"
+        },
+        {
+          "id": "ezekiel-28-22-17",
+          "surface": "וְנִקְדַּ֥שְׁתִּי",
+          "lemma": "קָדַשׁ",
+          "translit": "veniqedashetiy",
+          "morph": "Conjunction + Verb Niphal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H6942"
+        },
+        {
+          "id": "ezekiel-28-22-18",
+          "surface": "בָֽהּ",
+          "lemma": "בָֽהּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:23",
+      "englishText": "For I will send pestilence into her, and blood into her streets; and the wounded shall fall in the midst of her, with the sword on her on every side; and they shall know that I am Yahweh.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-23-0",
+          "surface": "וְשִׁלַּחְתִּי",
+          "lemma": "שָׁלַח",
+          "translit": "veshilachetiy",
+          "morph": "Conjunction + Verb Piel Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "ezekiel-28-23-1",
+          "surface": "בָ֞הּ",
+          "lemma": "בָ֞הּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ezekiel-28-23-2",
+          "surface": "דֶּ֤בֶר",
+          "lemma": "דֶּבֶר",
+          "translit": "deber",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1698"
+        },
+        {
+          "id": "ezekiel-28-23-3",
+          "surface": "וָדָם֙",
+          "lemma": "דָּם",
+          "translit": "vadam",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1818"
+        },
+        {
+          "id": "ezekiel-28-23-4",
+          "surface": "בְּח֣וּצוֹתֶ֔יהָ",
+          "lemma": "חוּץ",
+          "translit": "bechvtsvoteyha",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2351"
+        },
+        {
+          "id": "ezekiel-28-23-5",
+          "surface": "וְנִפְלַ֤ל",
+          "lemma": "נָפַל",
+          "translit": "venipelal",
+          "morph": "Conjunction + Verb l Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "ezekiel-28-23-6",
+          "surface": "חָלָל֙",
+          "lemma": "חָלָל",
+          "translit": "chalal",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2491"
+        },
+        {
+          "id": "ezekiel-28-23-7",
+          "surface": "בְּתוֹכָ֔הּ",
+          "lemma": "תָּוֶךְ",
+          "translit": "betvokah",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H8432"
+        },
+        {
+          "id": "ezekiel-28-23-8",
+          "surface": "בְּחֶ֥רֶב",
+          "lemma": "חֶרֶב",
+          "translit": "bechereb",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "ezekiel-28-23-9",
+          "surface": "עָלֶ֖יהָ",
+          "lemma": "עַל",
+          "translit": "`aleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-23-10",
+          "surface": "מִסָּבִ֑יב",
+          "lemma": "סָבִיב",
+          "translit": "misabiyb",
+          "morph": "Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H5439"
+        },
+        {
+          "id": "ezekiel-28-23-11",
+          "surface": "וְיָדְע֖וּ",
+          "lemma": "יָדַע",
+          "translit": "veyade`v",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ezekiel-28-23-12",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ezekiel-28-23-13",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "ezekiel-28-23-14",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:24",
+      "englishText": "There shall be no more a pricking brier to the house of Israel, nor a hurting thorn of any that are around them, that scorned them; and they shall know that I am the Lord Yahweh.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-24-0",
+          "surface": "וְלֹֽא",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ezekiel-28-24-1",
+          "surface": "יִהְיֶ֨ה",
+          "lemma": "הָיָה",
+          "translit": "yiheyeh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ezekiel-28-24-2",
+          "surface": "ע֜וֹד",
+          "lemma": "עוֹד",
+          "translit": "`vod",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H5750"
+        },
+        {
+          "id": "ezekiel-28-24-3",
+          "surface": "לְבֵ֣ית",
+          "lemma": "בַּיִת",
+          "translit": "lebeyt",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "ezekiel-28-24-4",
+          "surface": "יִשְׂרָאֵ֗ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "ezekiel-28-24-5",
+          "surface": "סִלּ֤וֹן",
+          "lemma": "סִלּוֹן",
+          "translit": "silvon",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5544"
+        },
+        {
+          "id": "ezekiel-28-24-6",
+          "surface": "מַמְאִיר֙",
+          "lemma": "מָאַר",
+          "translit": "mame'iyr",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H3992"
+        },
+        {
+          "id": "ezekiel-28-24-7",
+          "surface": "וְק֣וֹץ",
+          "lemma": "קוֹץ",
+          "translit": "veqvots",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6975"
+        },
+        {
+          "id": "ezekiel-28-24-8",
+          "surface": "מַכְאִ֔ב",
+          "lemma": "כָּאַב",
+          "translit": "make'ib",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H3510"
+        },
+        {
+          "id": "ezekiel-28-24-9",
+          "surface": "מִכֹּל֙",
+          "lemma": "כֹּל",
+          "translit": "mikol",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ezekiel-28-24-10",
+          "surface": "סְבִ֣יבֹתָ֔ם",
+          "lemma": "סָבִיב",
+          "translit": "sebiybotam",
+          "morph": "Noun common plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5439"
+        },
+        {
+          "id": "ezekiel-28-24-11",
+          "surface": "הַשָּׁאטִ֖ים",
+          "lemma": "שָׁאט",
+          "translit": "hasha'tiym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7590"
+        },
+        {
+          "id": "ezekiel-28-24-12",
+          "surface": "אוֹתָ֑ם",
+          "lemma": "אֵת",
+          "translit": "'votam",
+          "morph": "Particle + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ezekiel-28-24-13",
+          "surface": "וְיָ֣דְע֔וּ",
+          "lemma": "יָדַע",
+          "translit": "veyade`v",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ezekiel-28-24-14",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ezekiel-28-24-15",
+          "surface": "אֲנִ֖י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "ezekiel-28-24-16",
+          "surface": "אֲדֹנָ֥י",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "ezekiel-28-24-17",
+          "surface": "יְהוִֽה",
+          "lemma": "יְהֹוִה",
+          "translit": "yehvih",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3069"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:25",
+      "englishText": "Thus says the Lord Yahweh: When I shall have gathered the house of Israel from the peoples among whom they are scattered, and shall be sanctified in them in the sight of the nations, then shall they dwell in their own land which I gave to my servant Jacob.",
+      "tokens": [
+        {
+          "id": "ezekiel-28-25-0",
+          "surface": "כֹּֽה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "ezekiel-28-25-1",
+          "surface": "אָמַר֮",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ezekiel-28-25-2",
+          "surface": "אֲדֹנָ֣י",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "ezekiel-28-25-3",
+          "surface": "יְהוִה֒",
+          "lemma": "יְהֹוִה",
+          "translit": "yehvih",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3069"
+        },
+        {
+          "id": "ezekiel-28-25-4",
+          "surface": "בְּקַבְּצִ֣י",
+          "lemma": "קָבַץ",
+          "translit": "beqabetsiy",
+          "morph": "Preposition + Verb Piel Infinitive Construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6908"
+        },
+        {
+          "id": "ezekiel-28-25-5",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ezekiel-28-25-6",
+          "surface": "בֵּ֣ית",
+          "lemma": "בַּיִת",
+          "translit": "beyt",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "ezekiel-28-25-7",
+          "surface": "יִשְׂרָאֵ֗ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "ezekiel-28-25-8",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "ezekiel-28-25-9",
+          "surface": "הָֽעַמִּים֙",
+          "lemma": "עַם",
+          "translit": "ha`amiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "ezekiel-28-25-10",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ezekiel-28-25-11",
+          "surface": "נָפֹ֣צוּ",
+          "lemma": "פּוּץ",
+          "translit": "napotsv",
+          "morph": "Verb Niphal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6327"
+        },
+        {
+          "id": "ezekiel-28-25-12",
+          "surface": "בָ֔ם",
+          "lemma": "בָ֔ם",
+          "translit": "bam",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        },
+        {
+          "id": "ezekiel-28-25-13",
+          "surface": "וְנִקְדַּ֥שְׁתִּי",
+          "lemma": "קָדַשׁ",
+          "translit": "veniqedashetiy",
+          "morph": "Conjunction + Verb Niphal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H6942"
+        },
+        {
+          "id": "ezekiel-28-25-14",
+          "surface": "בָ֖ם",
+          "lemma": "בָ֖ם",
+          "translit": "bam",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        },
+        {
+          "id": "ezekiel-28-25-15",
+          "surface": "לְעֵינֵ֣י",
+          "lemma": "עַיִן",
+          "translit": "le`eyney",
+          "morph": "Preposition + Noun common dual construct",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "ezekiel-28-25-16",
+          "surface": "הַגּוֹיִ֑ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "ezekiel-28-25-17",
+          "surface": "וְיָֽשְׁבוּ֙",
+          "lemma": "יָשַׁב",
+          "translit": "veyashebv",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "ezekiel-28-25-18",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-25-19",
+          "surface": "אַדְמָתָ֔ם",
+          "lemma": "אֲדָמָה",
+          "translit": "'adematam",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H127"
+        },
+        {
+          "id": "ezekiel-28-25-20",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ezekiel-28-25-21",
+          "surface": "נָתַ֖תִּי",
+          "lemma": "נָתַן",
+          "translit": "natatiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "ezekiel-28-25-22",
+          "surface": "לְעַבְדִּ֥י",
+          "lemma": "עֶבֶד",
+          "translit": "le`abediy",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "ezekiel-28-25-23",
+          "surface": "לְיַעֲקֹֽב",
+          "lemma": "יַעֲקֹב",
+          "translit": "leya`qob",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ezekiel 28:26",
+      "englishText": "They shall dwell securely therein; yes, they shall build houses, and plant vineyards, and shall dwell securely, when I have executed judgments on all those who do them despite all around them; and they shall know that I am Yahweh their God.   ",
+      "tokens": [
+        {
+          "id": "ezekiel-28-26-0",
+          "surface": "וְיָשְׁב֣וּ",
+          "lemma": "יָשַׁב",
+          "translit": "veyashebv",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "ezekiel-28-26-1",
+          "surface": "עָלֶיהָ֮",
+          "lemma": "עַל",
+          "translit": "`aleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ezekiel-28-26-2",
+          "surface": "לָבֶטַח֒",
+          "lemma": "בֶּטַח",
+          "translit": "labetach",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H983"
+        },
+        {
+          "id": "ezekiel-28-26-3",
+          "surface": "וּבָנ֤וּ",
+          "lemma": "בָּנָה",
+          "translit": "vbanv",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H1129"
+        },
+        {
+          "id": "ezekiel-28-26-4",
+          "surface": "בָתִּים֙",
+          "lemma": "בַּיִת",
+          "translit": "batiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "ezekiel-28-26-5",
+          "surface": "וְנָטְע֣וּ",
+          "lemma": "נָטַע",
+          "translit": "venate`v",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H5193"
+        },
+        {
+          "id": "ezekiel-28-26-6",
+          "surface": "כְרָמִ֔ים",
+          "lemma": "כֶּרֶם",
+          "translit": "keramiym",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H3754"
+        },
+        {
+          "id": "ezekiel-28-26-7",
+          "surface": "וְיָשְׁב֖וּ",
+          "lemma": "יָשַׁב",
+          "translit": "veyashebv",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "ezekiel-28-26-8",
+          "surface": "לָבֶ֑טַח",
+          "lemma": "בֶּטַח",
+          "translit": "labetach",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H983"
+        },
+        {
+          "id": "ezekiel-28-26-9",
+          "surface": "בַּעֲשׂוֹתִ֣י",
+          "lemma": "עָשָׂה",
+          "translit": "ba`shvotiy",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "ezekiel-28-26-10",
+          "surface": "שְׁפָטִ֗ים",
+          "lemma": "שֶׁפֶט",
+          "translit": "shepatiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8201"
+        },
+        {
+          "id": "ezekiel-28-26-11",
+          "surface": "בְּכֹ֨ל",
+          "lemma": "כֹּל",
+          "translit": "bekol",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ezekiel-28-26-12",
+          "surface": "הַשָּׁאטִ֤ים",
+          "lemma": "שָׁאט",
+          "translit": "hasha'tiym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7590"
+        },
+        {
+          "id": "ezekiel-28-26-13",
+          "surface": "אֹתָם֙",
+          "lemma": "אֵת",
+          "translit": "'otam",
+          "morph": "Particle + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ezekiel-28-26-14",
+          "surface": "מִסְּבִ֣יבוֹתָ֔ם",
+          "lemma": "סָבִיב",
+          "translit": "misebiybvotam",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5439"
+        },
+        {
+          "id": "ezekiel-28-26-15",
+          "surface": "וְיָ֣דְע֔וּ",
+          "lemma": "יָדַע",
+          "translit": "veyade`v",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ezekiel-28-26-16",
+          "surface": "כִּ֛י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ezekiel-28-26-17",
+          "surface": "אֲנִ֥י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "ezekiel-28-26-18",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "ezekiel-28-26-19",
+          "surface": "אֱלֹהֵיהֶֽם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyhem",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

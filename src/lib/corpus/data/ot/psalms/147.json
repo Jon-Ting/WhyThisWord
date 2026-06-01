@@ -1,1 +1,1426 @@
-{"id":"psalms-147","name":"Psalms","chapter":147,"verses":[{"ref":"Psalms 147:1","englishText":"Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him. ","tokens":[{"id":"psalms-147-1-0","surface":"הַ֥לְלוּ","lemma":"הָלַל","translit":"halelv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"psalms-147-1-1","surface":"יָ֨הּ","lemma":"יָהּ","translit":"yah","morph":"Noun proper","glosses":[],"strongs":"H3050"},{"id":"psalms-147-1-2","surface":"כִּי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-147-1-3","surface":"ט֭וֹב","lemma":"טוֹב","translit":"tvob","morph":"Adjective","glosses":[],"strongs":"H2896"},{"id":"psalms-147-1-4","surface":"זַמְּרָ֣ה","lemma":"זָמַר","translit":"zamerah","morph":"Verb Piel Infinitive Construct","glosses":[],"strongs":"H2167"},{"id":"psalms-147-1-5","surface":"אֱלֹהֵ֑ינוּ","lemma":"אֱלֹהִים","translit":"'loheynv","morph":"Noun common masculine plural construct + Suffix plural 1st common","glosses":[],"strongs":"H430"},{"id":"psalms-147-1-6","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-147-1-7","surface":"נָ֝עִים","lemma":"נָעִים","translit":"na`iym","morph":"Adjective","glosses":[],"strongs":"H5273"},{"id":"psalms-147-1-8","surface":"נָאוָ֥ה","lemma":"נָאוֶה","translit":"na'vah","morph":"Adjective","glosses":[],"strongs":"H5000"},{"id":"psalms-147-1-9","surface":"תְהִלָּֽה","lemma":"תְּהִלָּה","translit":"tehilah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8416"}],"language":"hebrew"},{"ref":"Psalms 147:2","englishText":"Yahweh builds up Jerusalem. He gathers together the outcasts of Israel. ","tokens":[{"id":"psalms-147-2-0","surface":"בּוֹנֵ֣ה","lemma":"בָּנָה","translit":"bvoneh","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H1129"},{"id":"psalms-147-2-1","surface":"יְרוּשָׁלִַ֣ם","lemma":"יְרוּשָׁלַ͏ִם","translit":"yervshalaim","morph":"Noun proper","glosses":[],"strongs":"H3389"},{"id":"psalms-147-2-2","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-147-2-3","surface":"נִדְחֵ֖י","lemma":"דָּחָה","translit":"nidechey","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H1760"},{"id":"psalms-147-2-4","surface":"יִשְׂרָאֵ֣ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"psalms-147-2-5","surface":"יְכַנֵּֽס","lemma":"כָּנַס","translit":"yekanes","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H3664"}],"language":"hebrew"},{"ref":"Psalms 147:3","englishText":"He heals the broken in heart, and binds up their wounds. ","tokens":[{"id":"psalms-147-3-0","surface":"הָ֭רֹפֵא","lemma":"רָפָא","translit":"harope'","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7495"},{"id":"psalms-147-3-1","surface":"לִשְׁב֣וּרֵי","lemma":"שָׁבַר","translit":"lishebvrey","morph":"Preposition + Verb Qal s","glosses":[],"strongs":"H7665"},{"id":"psalms-147-3-2","surface":"לֵ֑ב","lemma":"לֵב","translit":"leb","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3820"},{"id":"psalms-147-3-3","surface":"וּ֝מְחַבֵּ֗שׁ","lemma":"חָבַשׁ","translit":"vmechabesh","morph":"Conjunction + Verb Piel Passive Participle","glosses":[],"strongs":"H2280"},{"id":"psalms-147-3-4","surface":"לְעַצְּבוֹתָֽם","lemma":"עַצֶּבֶת","translit":"le`atsebvotam","morph":"Preposition + Noun common feminine plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H6094"}],"language":"hebrew"},{"ref":"Psalms 147:4","englishText":"He counts the number of the stars. He calls them all by their names. ","tokens":[{"id":"psalms-147-4-0","surface":"מוֹנֶ֣ה","lemma":"מָנָה","translit":"mvoneh","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H4487"},{"id":"psalms-147-4-1","surface":"מִ֭סְפָּר","lemma":"מִסְפָּר","translit":"misepar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4557"},{"id":"psalms-147-4-2","surface":"לַכּוֹכָבִ֑ים","lemma":"כּוֹכָב","translit":"lakvokabiym","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3556"},{"id":"psalms-147-4-3","surface":"לְ֝כֻלָּ֗ם","lemma":"כֹּל","translit":"lekulam","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H3605"},{"id":"psalms-147-4-4","surface":"שֵׁמ֥וֹת","lemma":"שֵׁם","translit":"shemvot","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8034"},{"id":"psalms-147-4-5","surface":"יִקְרָֽא","lemma":"קָרָא","translit":"yiqera'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7121"}],"language":"hebrew"},{"ref":"Psalms 147:5","englishText":"Great is our Lord, and mighty in power. His understanding is infinite. ","tokens":[{"id":"psalms-147-5-0","surface":"גָּד֣וֹל","lemma":"גָּדוֹל","translit":"gadvol","morph":"Adjective","glosses":[],"strongs":"H1419"},{"id":"psalms-147-5-1","surface":"אֲדוֹנֵ֣ינוּ","lemma":"אָדוֹן","translit":"'dvoneynv","morph":"Noun common masculine plural construct + Suffix plural 1st common","glosses":[],"strongs":"H113"},{"id":"psalms-147-5-2","surface":"וְרַב","lemma":"רַב","translit":"verab","morph":"Conjunction + Adjective","glosses":[],"strongs":"H7227"},{"id":"psalms-147-5-3","surface":"כֹּ֑חַ","lemma":"כֹּחַ","translit":"kocha","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3581"},{"id":"psalms-147-5-4","surface":"לִ֝תְבוּנָת֗וֹ","lemma":"תָּבוּן","translit":"litebvnatvo","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H8394"},{"id":"psalms-147-5-5","surface":"אֵ֣ין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"psalms-147-5-6","surface":"מִסְפָּֽר","lemma":"מִסְפָּר","translit":"misepar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4557"}],"language":"hebrew"},{"ref":"Psalms 147:6","englishText":"Yahweh upholds the humble. He brings the wicked down to the ground. ","tokens":[{"id":"psalms-147-6-0","surface":"מְעוֹדֵ֣ד","lemma":"עוּד","translit":"me`voded","morph":"Verb Polel Passive Participle","glosses":[],"strongs":"H5749"},{"id":"psalms-147-6-1","surface":"עֲנָוִ֣ים","lemma":"עָנָו","translit":"`naviym","morph":"Adjective","glosses":[],"strongs":"H6035"},{"id":"psalms-147-6-2","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-147-6-3","surface":"מַשְׁפִּ֖יל","lemma":"שָׁפֵל","translit":"mashepiyl","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H8213"},{"id":"psalms-147-6-4","surface":"רְשָׁעִ֣ים","lemma":"רָשָׁע","translit":"resha`iym","morph":"Adjective","glosses":[],"strongs":"H7563"},{"id":"psalms-147-6-5","surface":"עֲדֵי","lemma":"עַד","translit":"`dey","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"psalms-147-6-6","surface":"אָֽרֶץ","lemma":"אֶרֶץ","translit":"'arets","morph":"Noun common singular absolute","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Psalms 147:7","englishText":"Sing to Yahweh with thanksgiving. Sing praises on the harp to our God, ","tokens":[{"id":"psalms-147-7-0","surface":"עֱנ֣וּ","lemma":"עָנָה","translit":"`nv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H6030"},{"id":"psalms-147-7-1","surface":"לַיהוָ֣ה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-147-7-2","surface":"בְּתוֹדָ֑ה","lemma":"תּוֹדָה","translit":"betvodah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H8426"},{"id":"psalms-147-7-3","surface":"זַמְּר֖וּ","lemma":"זָמַר","translit":"zamerv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H2167"},{"id":"psalms-147-7-4","surface":"לֵאלֹהֵ֣ינוּ","lemma":"אֱלֹהִים","translit":"le'loheynv","morph":"Preposition + Noun common masculine plural construct + Suffix plural 1st common","glosses":[],"strongs":"H430"},{"id":"psalms-147-7-5","surface":"בְכִנּֽוֹר","lemma":"כִּנּוֹר","translit":"bekinvor","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H3658"}],"language":"hebrew"},{"ref":"Psalms 147:8","englishText":"who covers the sky with clouds, who prepares rain for the earth, who makes grass grow on the mountains. ","tokens":[{"id":"psalms-147-8-0","surface":"הַֽמְכַסֶּ֬ה","lemma":"כָּסָה","translit":"hamekaseh","morph":"Particle dual + Verb Piel Passive Participle","glosses":[],"strongs":"H3680"},{"id":"psalms-147-8-1","surface":"שָׁמַ֨יִם","lemma":"שָׁמַיִם","translit":"shamayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"psalms-147-8-2","surface":"בְּעָבִ֗ים","lemma":"עָב","translit":"be`abiym","morph":"Preposition + Noun common plural absolute","glosses":[],"strongs":"H5645"},{"id":"psalms-147-8-3","surface":"הַמֵּכִ֣ין","lemma":"כּוּן","translit":"hamekiyn","morph":"Particle dual + Verb Hiphil Passive Participle","glosses":[],"strongs":"H3559"},{"id":"psalms-147-8-4","surface":"לָאָ֣רֶץ","lemma":"אֶרֶץ","translit":"la'arets","morph":"Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"psalms-147-8-5","surface":"מָטָ֑ר","lemma":"מָטַר","translit":"matar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4306"},{"id":"psalms-147-8-6","surface":"הַמַּצְמִ֖יחַ","lemma":"צָמַח","translit":"hamatsemiycha","morph":"Particle dual + Verb Hiphil Passive Participle","glosses":[],"strongs":"H6779"},{"id":"psalms-147-8-7","surface":"הָרִ֣ים","lemma":"הַר","translit":"hariym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H2022"},{"id":"psalms-147-8-8","surface":"חָצִֽיר","lemma":"חָצִיר","translit":"chatsiyr","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2682"}],"language":"hebrew"},{"ref":"Psalms 147:9","englishText":"He provides food for the livestock, and for the young ravens when they call. ","tokens":[{"id":"psalms-147-9-0","surface":"נוֹתֵ֣ן","lemma":"נָתַן","translit":"nvoten","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H5414"},{"id":"psalms-147-9-1","surface":"לִבְהֵמָ֣ה","lemma":"בְּהֵמָה","translit":"libehemah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H929"},{"id":"psalms-147-9-2","surface":"לַחְמָ֑הּ","lemma":"לֶחֶם","translit":"lachemah","morph":"Noun common singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3899"},{"id":"psalms-147-9-3","surface":"לִבְנֵ֥י","lemma":"בֵּן","translit":"libeney","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"psalms-147-9-4","surface":"עֹ֝רֵ֗ב","lemma":"עֹרֵב","translit":"`oreb","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6158"},{"id":"psalms-147-9-5","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"psalms-147-9-6","surface":"יִקְרָֽאוּ","lemma":"קָרָא","translit":"yiqera'v","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H7121"}],"language":"hebrew"},{"ref":"Psalms 147:10","englishText":"He doesn’t delight in the strength of the horse. He takes no pleasure in the legs of a man. ","tokens":[{"id":"psalms-147-10-0","surface":"לֹ֤א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"psalms-147-10-1","surface":"בִגְבוּרַ֣ת","lemma":"גְּבוּרָה","translit":"bigebvrat","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H1369"},{"id":"psalms-147-10-2","surface":"הַסּ֣וּס","lemma":"סוּס","translit":"hasvs","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5483"},{"id":"psalms-147-10-3","surface":"יֶחְפָּ֑ץ","lemma":"חָפֵץ","translit":"yechepats","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H2654"},{"id":"psalms-147-10-4","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"psalms-147-10-5","surface":"בְשׁוֹקֵ֖י","lemma":"שׁוֹק","translit":"beshvoqey","morph":"Preposition + Noun common feminine dual construct","glosses":[],"strongs":"H7785"},{"id":"psalms-147-10-6","surface":"הָאִ֣ישׁ","lemma":"אִישׁ","translit":"ha'iysh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"psalms-147-10-7","surface":"יִרְצֶֽה","lemma":"רָצָה","translit":"yiretseh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7521"}],"language":"hebrew"},{"ref":"Psalms 147:11","englishText":"Yahweh takes pleasure in those who fear him, in those who hope in his loving kindness. ","tokens":[{"id":"psalms-147-11-0","surface":"רוֹצֶ֣ה","lemma":"רָצָה","translit":"rvotseh","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H7521"},{"id":"psalms-147-11-1","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-147-11-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-147-11-3","surface":"יְרֵאָ֑יו","lemma":"יָרֵא","translit":"yere'ayv","morph":"Verb Qal Passive Participle + Suffix plural 3rd common singular","glosses":[],"strongs":"H3373"},{"id":"psalms-147-11-4","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-147-11-5","surface":"הַֽמְיַחֲלִ֥ים","lemma":"יָחַל","translit":"hameyachliym","morph":"Particle dual + Verb Piel Passive Participle","glosses":[],"strongs":"H3176"},{"id":"psalms-147-11-6","surface":"לְחַסְדּֽוֹ","lemma":"חֵסֵד","translit":"lechasedvo","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2617"}],"language":"hebrew"},{"ref":"Psalms 147:12","englishText":"Praise Yahweh, Jerusalem! Praise your God, Zion! ","tokens":[{"id":"psalms-147-12-0","surface":"שַׁבְּחִ֣י","lemma":"שָׁבַח","translit":"shabechiy","morph":"Verb Piel Weqatal 2nd feminine singular","glosses":[],"strongs":"H7623"},{"id":"psalms-147-12-1","surface":"יְ֭רוּשָׁלִַם","lemma":"יְרוּשָׁלַ͏ִם","translit":"yervshalaim","morph":"Noun proper","glosses":[],"strongs":"H3389"},{"id":"psalms-147-12-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-147-12-3","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-147-12-4","surface":"הַֽלְלִ֖י","lemma":"הָלַל","translit":"haleliy","morph":"Verb Piel Weqatal 2nd feminine singular","glosses":[],"strongs":"H1984"},{"id":"psalms-147-12-5","surface":"אֱלֹהַ֣יִךְ","lemma":"אֱלֹהִים","translit":"'lohayike","morph":"Noun common masculine plural construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H430"},{"id":"psalms-147-12-6","surface":"צִיּֽוֹן","lemma":"צִיּוֹן","translit":"tsiyvon","morph":"Noun proper","glosses":[],"strongs":"H6726"}],"language":"hebrew"},{"ref":"Psalms 147:13","englishText":"For he has strengthened the bars of your gates. He has blessed your children within you. ","tokens":[{"id":"psalms-147-13-0","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"psalms-147-13-1","surface":"חִ֭זַּק","lemma":"חָזַק","translit":"chizaq","morph":"Verb Piel Participle 3rd masculine singular","glosses":[],"strongs":"H2388"},{"id":"psalms-147-13-2","surface":"בְּרִיחֵ֣י","lemma":"בְּרִיחַ","translit":"beriychey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1280"},{"id":"psalms-147-13-3","surface":"שְׁעָרָ֑יִךְ","lemma":"שַׁעַר","translit":"she`arayike","morph":"Noun common masculine plural construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H8179"},{"id":"psalms-147-13-4","surface":"בֵּרַ֖ךְ","lemma":"בָרַךְ","translit":"berake","morph":"Verb Piel Participle 3rd masculine singular","glosses":[],"strongs":"H1288"},{"id":"psalms-147-13-5","surface":"בָּנַ֣יִךְ","lemma":"בֵּן","translit":"banayike","morph":"Noun common masculine plural construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H1121"},{"id":"psalms-147-13-6","surface":"בְּקִרְבֵּֽךְ","lemma":"קֶרֶב","translit":"beqirebeke","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H7130"}],"language":"hebrew"},{"ref":"Psalms 147:14","englishText":"He makes peace in your borders. He fills you with the finest of the wheat. ","tokens":[{"id":"psalms-147-14-0","surface":"הַשָּׂם","lemma":"שׂוּם","translit":"hasham","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7760"},{"id":"psalms-147-14-1","surface":"גְּבוּלֵ֥ךְ","lemma":"גְּבוּל","translit":"gebvleke","morph":"Noun common masculine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H1366"},{"id":"psalms-147-14-2","surface":"שָׁל֑וֹם","lemma":"שָׁלוֹם","translit":"shalvom","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7965"},{"id":"psalms-147-14-3","surface":"חֵ֥לֶב","lemma":"חֶלֶב","translit":"cheleb","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H2459"},{"id":"psalms-147-14-4","surface":"חִ֝טִּ֗ים","lemma":"חִטָּה","translit":"chitiym","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H2406"},{"id":"psalms-147-14-5","surface":"יַשְׂבִּיעֵֽךְ","lemma":"שָׂבַע","translit":"yashebiy`eke","morph":"Verb Hiphil Imperative 3rd masculine singular + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H7646"}],"language":"hebrew"},{"ref":"Psalms 147:15","englishText":"He sends out his commandment to the earth. His word runs very swiftly. ","tokens":[{"id":"psalms-147-15-0","surface":"הַשֹּׁלֵ֣חַ","lemma":"שָׁלַח","translit":"hasholecha","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7971"},{"id":"psalms-147-15-1","surface":"אִמְרָת֣וֹ","lemma":"אִמְרָה","translit":"'imeratvo","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H565"},{"id":"psalms-147-15-2","surface":"אָ֑רֶץ","lemma":"אֶרֶץ","translit":"'arets","morph":"Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"psalms-147-15-3","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"psalms-147-15-4","surface":"מְ֝הֵרָ֗ה","lemma":"מְהֵרָה","translit":"meherah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H4120"},{"id":"psalms-147-15-5","surface":"יָר֥וּץ","lemma":"רוּץ","translit":"yarvts","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7323"},{"id":"psalms-147-15-6","surface":"דְּבָרֽוֹ","lemma":"דָּבָר","translit":"debarvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1697"}],"language":"hebrew"},{"ref":"Psalms 147:16","englishText":"He gives snow like wool, and scatters frost like ashes. ","tokens":[{"id":"psalms-147-16-0","surface":"הַנֹּתֵ֣ן","lemma":"נָתַן","translit":"hanoten","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H5414"},{"id":"psalms-147-16-1","surface":"שֶׁ֣לֶג","lemma":"שֶׁלֶג","translit":"sheleg","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7950"},{"id":"psalms-147-16-2","surface":"כַּצָּ֑מֶר","lemma":"צֶמֶר","translit":"katsamer","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H6785"},{"id":"psalms-147-16-3","surface":"כְּ֝פ֗וֹר","lemma":"כְּפוֹר","translit":"kepvor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3713"},{"id":"psalms-147-16-4","surface":"כָּאֵ֥פֶר","lemma":"אֵפֶר","translit":"ka'eper","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H665"},{"id":"psalms-147-16-5","surface":"יְפַזֵּֽר","lemma":"פָּזַר","translit":"yepazer","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H6340"}],"language":"hebrew"},{"ref":"Psalms 147:17","englishText":"He hurls down his hail like pebbles. Who can stand before his cold? ","tokens":[{"id":"psalms-147-17-0","surface":"מַשְׁלִ֣יךְ","lemma":"שָׁלַךְ","translit":"masheliyke","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H7993"},{"id":"psalms-147-17-1","surface":"קַֽרְח֣וֹ","lemma":"קֶרַח","translit":"qarechvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7140"},{"id":"psalms-147-17-2","surface":"כְפִתִּ֑ים","lemma":"פַּת","translit":"kepitiym","morph":"Preposition + Noun common feminine plural absolute","glosses":[],"strongs":"H6595"},{"id":"psalms-147-17-3","surface":"לִפְנֵ֥י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"psalms-147-17-4","surface":"קָ֝רָת֗וֹ","lemma":"קָרָה","translit":"qaratvo","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7135"},{"id":"psalms-147-17-5","surface":"מִ֣י","lemma":"מִי","translit":"miy","morph":"Particle","glosses":[],"strongs":"H4310"},{"id":"psalms-147-17-6","surface":"יַעֲמֹֽד","lemma":"עָמַד","translit":"ya`mod","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5975"}],"language":"hebrew"},{"ref":"Psalms 147:18","englishText":"He sends out his word, and melts them. He causes his wind to blow, and the waters flow. ","tokens":[{"id":"psalms-147-18-0","surface":"יִשְׁלַ֣ח","lemma":"שָׁלַח","translit":"yishelach","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7971"},{"id":"psalms-147-18-1","surface":"דְּבָר֣וֹ","lemma":"דָּבָר","translit":"debarvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1697"},{"id":"psalms-147-18-2","surface":"וְיַמְסֵ֑ם","lemma":"מָסָה","translit":"veyamesem","morph":"Conjunction + Verb Hiphil Imperative 3rd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H4529"},{"id":"psalms-147-18-3","surface":"יַשֵּׁ֥ב","lemma":"נָשַׁב","translit":"yasheb","morph":"Verb Hiphil Imperative 3rd masculine singular","glosses":[],"strongs":"H5380"},{"id":"psalms-147-18-4","surface":"ר֝וּח֗וֹ","lemma":"רוּחַ","translit":"rvchvo","morph":"Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7307"},{"id":"psalms-147-18-5","surface":"יִזְּלוּ","lemma":"נָזַל","translit":"yizelv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H5140"},{"id":"psalms-147-18-6","surface":"מָֽיִם","lemma":"מַיִם","translit":"mayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4325"}],"language":"hebrew"},{"ref":"Psalms 147:19","englishText":"He shows his word to Jacob; his statutes and his ordinances to Israel. ","tokens":[{"id":"psalms-147-19-0","surface":"מַגִּ֣יד","lemma":"נָגַד","translit":"magiyd","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H5046"},{"id":"psalms-147-19-1","surface":"דברו","lemma":"דָּבָר","translit":"dbrv","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1697"},{"id":"psalms-147-19-2","surface":"דְּבָרָ֣יו","lemma":"דָּבָר","translit":"debarayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1697"},{"id":"psalms-147-19-3","surface":"לְיַעֲקֹ֑ב","lemma":"יַעֲקֹב","translit":"leya`qob","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3290"},{"id":"psalms-147-19-4","surface":"חֻקָּ֥יו","lemma":"חֹק","translit":"chuqayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2706"},{"id":"psalms-147-19-5","surface":"וּ֝מִשְׁפָּטָ֗יו","lemma":"מִשְׁפָּט","translit":"vmishepatayv","morph":"Conjunction + Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H4941"},{"id":"psalms-147-19-6","surface":"לְיִשְׂרָאֵֽל","lemma":"יִשְׂרָאֵל","translit":"leyishera'el","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3478"}],"language":"hebrew"},{"ref":"Psalms 147:20","englishText":"He has not done this for just any nation. They don’t know his ordinances. Praise Yah!   ","tokens":[{"id":"psalms-147-20-0","surface":"לֹ֘א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"psalms-147-20-1","surface":"עָ֤שָׂה","lemma":"עָשָׂה","translit":"`ashah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H6213"},{"id":"psalms-147-20-2","surface":"כֵ֨ן","lemma":"כֵּן","translit":"ken","morph":"Adverb","glosses":[],"strongs":"H3651"},{"id":"psalms-147-20-3","surface":"לְכָל","lemma":"כֹּל","translit":"lekal","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-147-20-4","surface":"גּ֗וֹי","lemma":"גּוֹי","translit":"gvoy","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1471"},{"id":"psalms-147-20-5","surface":"וּמִשְׁפָּטִ֥ים","lemma":"מִשְׁפָּט","translit":"vmishepatiym","morph":"Conjunction + Noun common masculine plural absolute","glosses":[],"strongs":"H4941"},{"id":"psalms-147-20-6","surface":"בַּל","lemma":"בַּל","translit":"bal","morph":"Particle","glosses":[],"strongs":"H1077"},{"id":"psalms-147-20-7","surface":"יְדָע֗וּם","lemma":"יָדַע","translit":"yeda`vm","morph":"Verb Qal Participle 3rd common plural + Suffix plural 3rd masculine","glosses":[],"strongs":"H3045"},{"id":"psalms-147-20-8","surface":"הַֽלְלוּ","lemma":"הָלַל","translit":"halelv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"psalms-147-20-9","surface":"יָֽהּ","lemma":"יָהּ","translit":"yah","morph":"Noun proper","glosses":[],"strongs":"H3050"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-147",
+  "name": "Psalms",
+  "chapter": 147,
+  "verses": [
+    {
+      "ref": "Psalms 147:1",
+      "englishText": "Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him. ",
+      "tokens": [
+        {
+          "id": "psalms-147-1-0",
+          "surface": "הַ֥לְלוּ",
+          "lemma": "הָלַל",
+          "translit": "halelv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-147-1-1",
+          "surface": "יָ֨הּ",
+          "lemma": "יָהּ",
+          "translit": "yah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3050"
+        },
+        {
+          "id": "psalms-147-1-2",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-147-1-3",
+          "surface": "ט֭וֹב",
+          "lemma": "טוֹב",
+          "translit": "tvob",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2896"
+        },
+        {
+          "id": "psalms-147-1-4",
+          "surface": "זַמְּרָ֣ה",
+          "lemma": "זָמַר",
+          "translit": "zamerah",
+          "morph": "Verb Piel Infinitive Construct",
+          "glosses": [],
+          "strongs": "H2167"
+        },
+        {
+          "id": "psalms-147-1-5",
+          "surface": "אֱלֹהֵ֑ינוּ",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheynv",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-147-1-6",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-147-1-7",
+          "surface": "נָ֝עִים",
+          "lemma": "נָעִים",
+          "translit": "na`iym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5273"
+        },
+        {
+          "id": "psalms-147-1-8",
+          "surface": "נָאוָ֥ה",
+          "lemma": "נָאוֶה",
+          "translit": "na'vah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5000"
+        },
+        {
+          "id": "psalms-147-1-9",
+          "surface": "תְהִלָּֽה",
+          "lemma": "תְּהִלָּה",
+          "translit": "tehilah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8416"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:2",
+      "englishText": "Yahweh builds up Jerusalem. He gathers together the outcasts of Israel. ",
+      "tokens": [
+        {
+          "id": "psalms-147-2-0",
+          "surface": "בּוֹנֵ֣ה",
+          "lemma": "בָּנָה",
+          "translit": "bvoneh",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H1129"
+        },
+        {
+          "id": "psalms-147-2-1",
+          "surface": "יְרוּשָׁלִַ֣ם",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "translit": "yervshalaim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3389"
+        },
+        {
+          "id": "psalms-147-2-2",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-147-2-3",
+          "surface": "נִדְחֵ֖י",
+          "lemma": "דָּחָה",
+          "translit": "nidechey",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H1760"
+        },
+        {
+          "id": "psalms-147-2-4",
+          "surface": "יִשְׂרָאֵ֣ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "psalms-147-2-5",
+          "surface": "יְכַנֵּֽס",
+          "lemma": "כָּנַס",
+          "translit": "yekanes",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3664"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:3",
+      "englishText": "He heals the broken in heart, and binds up their wounds. ",
+      "tokens": [
+        {
+          "id": "psalms-147-3-0",
+          "surface": "הָ֭רֹפֵא",
+          "lemma": "רָפָא",
+          "translit": "harope'",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7495"
+        },
+        {
+          "id": "psalms-147-3-1",
+          "surface": "לִשְׁב֣וּרֵי",
+          "lemma": "שָׁבַר",
+          "translit": "lishebvrey",
+          "morph": "Preposition + Verb Qal s",
+          "glosses": [],
+          "strongs": "H7665"
+        },
+        {
+          "id": "psalms-147-3-2",
+          "surface": "לֵ֑ב",
+          "lemma": "לֵב",
+          "translit": "leb",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "psalms-147-3-3",
+          "surface": "וּ֝מְחַבֵּ֗שׁ",
+          "lemma": "חָבַשׁ",
+          "translit": "vmechabesh",
+          "morph": "Conjunction + Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H2280"
+        },
+        {
+          "id": "psalms-147-3-4",
+          "surface": "לְעַצְּבוֹתָֽם",
+          "lemma": "עַצֶּבֶת",
+          "translit": "le`atsebvotam",
+          "morph": "Preposition + Noun common feminine plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H6094"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:4",
+      "englishText": "He counts the number of the stars. He calls them all by their names. ",
+      "tokens": [
+        {
+          "id": "psalms-147-4-0",
+          "surface": "מוֹנֶ֣ה",
+          "lemma": "מָנָה",
+          "translit": "mvoneh",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H4487"
+        },
+        {
+          "id": "psalms-147-4-1",
+          "surface": "מִ֭סְפָּר",
+          "lemma": "מִסְפָּר",
+          "translit": "misepar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4557"
+        },
+        {
+          "id": "psalms-147-4-2",
+          "surface": "לַכּוֹכָבִ֑ים",
+          "lemma": "כּוֹכָב",
+          "translit": "lakvokabiym",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3556"
+        },
+        {
+          "id": "psalms-147-4-3",
+          "surface": "לְ֝כֻלָּ֗ם",
+          "lemma": "כֹּל",
+          "translit": "lekulam",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-147-4-4",
+          "surface": "שֵׁמ֥וֹת",
+          "lemma": "שֵׁם",
+          "translit": "shemvot",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "psalms-147-4-5",
+          "surface": "יִקְרָֽא",
+          "lemma": "קָרָא",
+          "translit": "yiqera'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7121"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:5",
+      "englishText": "Great is our Lord, and mighty in power. His understanding is infinite. ",
+      "tokens": [
+        {
+          "id": "psalms-147-5-0",
+          "surface": "גָּד֣וֹל",
+          "lemma": "גָּדוֹל",
+          "translit": "gadvol",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1419"
+        },
+        {
+          "id": "psalms-147-5-1",
+          "surface": "אֲדוֹנֵ֣ינוּ",
+          "lemma": "אָדוֹן",
+          "translit": "'dvoneynv",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H113"
+        },
+        {
+          "id": "psalms-147-5-2",
+          "surface": "וְרַב",
+          "lemma": "רַב",
+          "translit": "verab",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H7227"
+        },
+        {
+          "id": "psalms-147-5-3",
+          "surface": "כֹּ֑חַ",
+          "lemma": "כֹּחַ",
+          "translit": "kocha",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3581"
+        },
+        {
+          "id": "psalms-147-5-4",
+          "surface": "לִ֝תְבוּנָת֗וֹ",
+          "lemma": "תָּבוּן",
+          "translit": "litebvnatvo",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8394"
+        },
+        {
+          "id": "psalms-147-5-5",
+          "surface": "אֵ֣ין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "psalms-147-5-6",
+          "surface": "מִסְפָּֽר",
+          "lemma": "מִסְפָּר",
+          "translit": "misepar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4557"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:6",
+      "englishText": "Yahweh upholds the humble. He brings the wicked down to the ground. ",
+      "tokens": [
+        {
+          "id": "psalms-147-6-0",
+          "surface": "מְעוֹדֵ֣ד",
+          "lemma": "עוּד",
+          "translit": "me`voded",
+          "morph": "Verb Polel Passive Participle",
+          "glosses": [],
+          "strongs": "H5749"
+        },
+        {
+          "id": "psalms-147-6-1",
+          "surface": "עֲנָוִ֣ים",
+          "lemma": "עָנָו",
+          "translit": "`naviym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6035"
+        },
+        {
+          "id": "psalms-147-6-2",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-147-6-3",
+          "surface": "מַשְׁפִּ֖יל",
+          "lemma": "שָׁפֵל",
+          "translit": "mashepiyl",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H8213"
+        },
+        {
+          "id": "psalms-147-6-4",
+          "surface": "רְשָׁעִ֣ים",
+          "lemma": "רָשָׁע",
+          "translit": "resha`iym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7563"
+        },
+        {
+          "id": "psalms-147-6-5",
+          "surface": "עֲדֵי",
+          "lemma": "עַד",
+          "translit": "`dey",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "psalms-147-6-6",
+          "surface": "אָֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "'arets",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:7",
+      "englishText": "Sing to Yahweh with thanksgiving. Sing praises on the harp to our God, ",
+      "tokens": [
+        {
+          "id": "psalms-147-7-0",
+          "surface": "עֱנ֣וּ",
+          "lemma": "עָנָה",
+          "translit": "`nv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "psalms-147-7-1",
+          "surface": "לַיהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-147-7-2",
+          "surface": "בְּתוֹדָ֑ה",
+          "lemma": "תּוֹדָה",
+          "translit": "betvodah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8426"
+        },
+        {
+          "id": "psalms-147-7-3",
+          "surface": "זַמְּר֖וּ",
+          "lemma": "זָמַר",
+          "translit": "zamerv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H2167"
+        },
+        {
+          "id": "psalms-147-7-4",
+          "surface": "לֵאלֹהֵ֣ינוּ",
+          "lemma": "אֱלֹהִים",
+          "translit": "le'loheynv",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-147-7-5",
+          "surface": "בְכִנּֽוֹר",
+          "lemma": "כִּנּוֹר",
+          "translit": "bekinvor",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3658"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:8",
+      "englishText": "who covers the sky with clouds, who prepares rain for the earth, who makes grass grow on the mountains. ",
+      "tokens": [
+        {
+          "id": "psalms-147-8-0",
+          "surface": "הַֽמְכַסֶּ֬ה",
+          "lemma": "כָּסָה",
+          "translit": "hamekaseh",
+          "morph": "Particle dual + Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H3680"
+        },
+        {
+          "id": "psalms-147-8-1",
+          "surface": "שָׁמַ֨יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "shamayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "psalms-147-8-2",
+          "surface": "בְּעָבִ֗ים",
+          "lemma": "עָב",
+          "translit": "be`abiym",
+          "morph": "Preposition + Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H5645"
+        },
+        {
+          "id": "psalms-147-8-3",
+          "surface": "הַמֵּכִ֣ין",
+          "lemma": "כּוּן",
+          "translit": "hamekiyn",
+          "morph": "Particle dual + Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H3559"
+        },
+        {
+          "id": "psalms-147-8-4",
+          "surface": "לָאָ֣רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "la'arets",
+          "morph": "Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "psalms-147-8-5",
+          "surface": "מָטָ֑ר",
+          "lemma": "מָטַר",
+          "translit": "matar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4306"
+        },
+        {
+          "id": "psalms-147-8-6",
+          "surface": "הַמַּצְמִ֖יחַ",
+          "lemma": "צָמַח",
+          "translit": "hamatsemiycha",
+          "morph": "Particle dual + Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H6779"
+        },
+        {
+          "id": "psalms-147-8-7",
+          "surface": "הָרִ֣ים",
+          "lemma": "הַר",
+          "translit": "hariym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "psalms-147-8-8",
+          "surface": "חָצִֽיר",
+          "lemma": "חָצִיר",
+          "translit": "chatsiyr",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2682"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:9",
+      "englishText": "He provides food for the livestock, and for the young ravens when they call. ",
+      "tokens": [
+        {
+          "id": "psalms-147-9-0",
+          "surface": "נוֹתֵ֣ן",
+          "lemma": "נָתַן",
+          "translit": "nvoten",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "psalms-147-9-1",
+          "surface": "לִבְהֵמָ֣ה",
+          "lemma": "בְּהֵמָה",
+          "translit": "libehemah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H929"
+        },
+        {
+          "id": "psalms-147-9-2",
+          "surface": "לַחְמָ֑הּ",
+          "lemma": "לֶחֶם",
+          "translit": "lachemah",
+          "morph": "Noun common singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3899"
+        },
+        {
+          "id": "psalms-147-9-3",
+          "surface": "לִבְנֵ֥י",
+          "lemma": "בֵּן",
+          "translit": "libeney",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "psalms-147-9-4",
+          "surface": "עֹ֝רֵ֗ב",
+          "lemma": "עֹרֵב",
+          "translit": "`oreb",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6158"
+        },
+        {
+          "id": "psalms-147-9-5",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "psalms-147-9-6",
+          "surface": "יִקְרָֽאוּ",
+          "lemma": "קָרָא",
+          "translit": "yiqera'v",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7121"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:10",
+      "englishText": "He doesn’t delight in the strength of the horse. He takes no pleasure in the legs of a man. ",
+      "tokens": [
+        {
+          "id": "psalms-147-10-0",
+          "surface": "לֹ֤א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "psalms-147-10-1",
+          "surface": "בִגְבוּרַ֣ת",
+          "lemma": "גְּבוּרָה",
+          "translit": "bigebvrat",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1369"
+        },
+        {
+          "id": "psalms-147-10-2",
+          "surface": "הַסּ֣וּס",
+          "lemma": "סוּס",
+          "translit": "hasvs",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5483"
+        },
+        {
+          "id": "psalms-147-10-3",
+          "surface": "יֶחְפָּ֑ץ",
+          "lemma": "חָפֵץ",
+          "translit": "yechepats",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2654"
+        },
+        {
+          "id": "psalms-147-10-4",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "psalms-147-10-5",
+          "surface": "בְשׁוֹקֵ֖י",
+          "lemma": "שׁוֹק",
+          "translit": "beshvoqey",
+          "morph": "Preposition + Noun common feminine dual construct",
+          "glosses": [],
+          "strongs": "H7785"
+        },
+        {
+          "id": "psalms-147-10-6",
+          "surface": "הָאִ֣ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "ha'iysh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "psalms-147-10-7",
+          "surface": "יִרְצֶֽה",
+          "lemma": "רָצָה",
+          "translit": "yiretseh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7521"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:11",
+      "englishText": "Yahweh takes pleasure in those who fear him, in those who hope in his loving kindness. ",
+      "tokens": [
+        {
+          "id": "psalms-147-11-0",
+          "surface": "רוֹצֶ֣ה",
+          "lemma": "רָצָה",
+          "translit": "rvotseh",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7521"
+        },
+        {
+          "id": "psalms-147-11-1",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-147-11-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-147-11-3",
+          "surface": "יְרֵאָ֑יו",
+          "lemma": "יָרֵא",
+          "translit": "yere'ayv",
+          "morph": "Verb Qal Passive Participle + Suffix plural 3rd common singular",
+          "glosses": [],
+          "strongs": "H3373"
+        },
+        {
+          "id": "psalms-147-11-4",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-147-11-5",
+          "surface": "הַֽמְיַחֲלִ֥ים",
+          "lemma": "יָחַל",
+          "translit": "hameyachliym",
+          "morph": "Particle dual + Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H3176"
+        },
+        {
+          "id": "psalms-147-11-6",
+          "surface": "לְחַסְדּֽוֹ",
+          "lemma": "חֵסֵד",
+          "translit": "lechasedvo",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2617"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:12",
+      "englishText": "Praise Yahweh, Jerusalem! Praise your God, Zion! ",
+      "tokens": [
+        {
+          "id": "psalms-147-12-0",
+          "surface": "שַׁבְּחִ֣י",
+          "lemma": "שָׁבַח",
+          "translit": "shabechiy",
+          "morph": "Verb Piel Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H7623"
+        },
+        {
+          "id": "psalms-147-12-1",
+          "surface": "יְ֭רוּשָׁלִַם",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "translit": "yervshalaim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3389"
+        },
+        {
+          "id": "psalms-147-12-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-147-12-3",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-147-12-4",
+          "surface": "הַֽלְלִ֖י",
+          "lemma": "הָלַל",
+          "translit": "haleliy",
+          "morph": "Verb Piel Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-147-12-5",
+          "surface": "אֱלֹהַ֣יִךְ",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohayike",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-147-12-6",
+          "surface": "צִיּֽוֹן",
+          "lemma": "צִיּוֹן",
+          "translit": "tsiyvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6726"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:13",
+      "englishText": "For he has strengthened the bars of your gates. He has blessed your children within you. ",
+      "tokens": [
+        {
+          "id": "psalms-147-13-0",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "psalms-147-13-1",
+          "surface": "חִ֭זַּק",
+          "lemma": "חָזַק",
+          "translit": "chizaq",
+          "morph": "Verb Piel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2388"
+        },
+        {
+          "id": "psalms-147-13-2",
+          "surface": "בְּרִיחֵ֣י",
+          "lemma": "בְּרִיחַ",
+          "translit": "beriychey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1280"
+        },
+        {
+          "id": "psalms-147-13-3",
+          "surface": "שְׁעָרָ֑יִךְ",
+          "lemma": "שַׁעַר",
+          "translit": "she`arayike",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H8179"
+        },
+        {
+          "id": "psalms-147-13-4",
+          "surface": "בֵּרַ֖ךְ",
+          "lemma": "בָרַךְ",
+          "translit": "berake",
+          "morph": "Verb Piel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1288"
+        },
+        {
+          "id": "psalms-147-13-5",
+          "surface": "בָּנַ֣יִךְ",
+          "lemma": "בֵּן",
+          "translit": "banayike",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "psalms-147-13-6",
+          "surface": "בְּקִרְבֵּֽךְ",
+          "lemma": "קֶרֶב",
+          "translit": "beqirebeke",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H7130"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:14",
+      "englishText": "He makes peace in your borders. He fills you with the finest of the wheat. ",
+      "tokens": [
+        {
+          "id": "psalms-147-14-0",
+          "surface": "הַשָּׂם",
+          "lemma": "שׂוּם",
+          "translit": "hasham",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "psalms-147-14-1",
+          "surface": "גְּבוּלֵ֥ךְ",
+          "lemma": "גְּבוּל",
+          "translit": "gebvleke",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1366"
+        },
+        {
+          "id": "psalms-147-14-2",
+          "surface": "שָׁל֑וֹם",
+          "lemma": "שָׁלוֹם",
+          "translit": "shalvom",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7965"
+        },
+        {
+          "id": "psalms-147-14-3",
+          "surface": "חֵ֥לֶב",
+          "lemma": "חֶלֶב",
+          "translit": "cheleb",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2459"
+        },
+        {
+          "id": "psalms-147-14-4",
+          "surface": "חִ֝טִּ֗ים",
+          "lemma": "חִטָּה",
+          "translit": "chitiym",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H2406"
+        },
+        {
+          "id": "psalms-147-14-5",
+          "surface": "יַשְׂבִּיעֵֽךְ",
+          "lemma": "שָׂבַע",
+          "translit": "yashebiy`eke",
+          "morph": "Verb Hiphil Imperative 3rd masculine singular + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H7646"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:15",
+      "englishText": "He sends out his commandment to the earth. His word runs very swiftly. ",
+      "tokens": [
+        {
+          "id": "psalms-147-15-0",
+          "surface": "הַשֹּׁלֵ֣חַ",
+          "lemma": "שָׁלַח",
+          "translit": "hasholecha",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "psalms-147-15-1",
+          "surface": "אִמְרָת֣וֹ",
+          "lemma": "אִמְרָה",
+          "translit": "'imeratvo",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H565"
+        },
+        {
+          "id": "psalms-147-15-2",
+          "surface": "אָ֑רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "'arets",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "psalms-147-15-3",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "psalms-147-15-4",
+          "surface": "מְ֝הֵרָ֗ה",
+          "lemma": "מְהֵרָה",
+          "translit": "meherah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4120"
+        },
+        {
+          "id": "psalms-147-15-5",
+          "surface": "יָר֥וּץ",
+          "lemma": "רוּץ",
+          "translit": "yarvts",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7323"
+        },
+        {
+          "id": "psalms-147-15-6",
+          "surface": "דְּבָרֽוֹ",
+          "lemma": "דָּבָר",
+          "translit": "debarvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1697"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:16",
+      "englishText": "He gives snow like wool, and scatters frost like ashes. ",
+      "tokens": [
+        {
+          "id": "psalms-147-16-0",
+          "surface": "הַנֹּתֵ֣ן",
+          "lemma": "נָתַן",
+          "translit": "hanoten",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "psalms-147-16-1",
+          "surface": "שֶׁ֣לֶג",
+          "lemma": "שֶׁלֶג",
+          "translit": "sheleg",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7950"
+        },
+        {
+          "id": "psalms-147-16-2",
+          "surface": "כַּצָּ֑מֶר",
+          "lemma": "צֶמֶר",
+          "translit": "katsamer",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6785"
+        },
+        {
+          "id": "psalms-147-16-3",
+          "surface": "כְּ֝פ֗וֹר",
+          "lemma": "כְּפוֹר",
+          "translit": "kepvor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3713"
+        },
+        {
+          "id": "psalms-147-16-4",
+          "surface": "כָּאֵ֥פֶר",
+          "lemma": "אֵפֶר",
+          "translit": "ka'eper",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H665"
+        },
+        {
+          "id": "psalms-147-16-5",
+          "surface": "יְפַזֵּֽר",
+          "lemma": "פָּזַר",
+          "translit": "yepazer",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6340"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:17",
+      "englishText": "He hurls down his hail like pebbles. Who can stand before his cold? ",
+      "tokens": [
+        {
+          "id": "psalms-147-17-0",
+          "surface": "מַשְׁלִ֣יךְ",
+          "lemma": "שָׁלַךְ",
+          "translit": "masheliyke",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H7993"
+        },
+        {
+          "id": "psalms-147-17-1",
+          "surface": "קַֽרְח֣וֹ",
+          "lemma": "קֶרַח",
+          "translit": "qarechvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7140"
+        },
+        {
+          "id": "psalms-147-17-2",
+          "surface": "כְפִתִּ֑ים",
+          "lemma": "פַּת",
+          "translit": "kepitiym",
+          "morph": "Preposition + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H6595"
+        },
+        {
+          "id": "psalms-147-17-3",
+          "surface": "לִפְנֵ֥י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "psalms-147-17-4",
+          "surface": "קָ֝רָת֗וֹ",
+          "lemma": "קָרָה",
+          "translit": "qaratvo",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7135"
+        },
+        {
+          "id": "psalms-147-17-5",
+          "surface": "מִ֣י",
+          "lemma": "מִי",
+          "translit": "miy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "psalms-147-17-6",
+          "surface": "יַעֲמֹֽד",
+          "lemma": "עָמַד",
+          "translit": "ya`mod",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5975"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:18",
+      "englishText": "He sends out his word, and melts them. He causes his wind to blow, and the waters flow. ",
+      "tokens": [
+        {
+          "id": "psalms-147-18-0",
+          "surface": "יִשְׁלַ֣ח",
+          "lemma": "שָׁלַח",
+          "translit": "yishelach",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "psalms-147-18-1",
+          "surface": "דְּבָר֣וֹ",
+          "lemma": "דָּבָר",
+          "translit": "debarvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "psalms-147-18-2",
+          "surface": "וְיַמְסֵ֑ם",
+          "lemma": "מָסָה",
+          "translit": "veyamesem",
+          "morph": "Conjunction + Verb Hiphil Imperative 3rd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H4529"
+        },
+        {
+          "id": "psalms-147-18-3",
+          "surface": "יַשֵּׁ֥ב",
+          "lemma": "נָשַׁב",
+          "translit": "yasheb",
+          "morph": "Verb Hiphil Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5380"
+        },
+        {
+          "id": "psalms-147-18-4",
+          "surface": "ר֝וּח֗וֹ",
+          "lemma": "רוּחַ",
+          "translit": "rvchvo",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "psalms-147-18-5",
+          "surface": "יִזְּלוּ",
+          "lemma": "נָזַל",
+          "translit": "yizelv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5140"
+        },
+        {
+          "id": "psalms-147-18-6",
+          "surface": "מָֽיִם",
+          "lemma": "מַיִם",
+          "translit": "mayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4325"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:19",
+      "englishText": "He shows his word to Jacob; his statutes and his ordinances to Israel. ",
+      "tokens": [
+        {
+          "id": "psalms-147-19-0",
+          "surface": "מַגִּ֣יד",
+          "lemma": "נָגַד",
+          "translit": "magiyd",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "psalms-147-19-1",
+          "surface": "דברו",
+          "lemma": "דָּבָר",
+          "translit": "dbrv",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "psalms-147-19-2",
+          "surface": "דְּבָרָ֣יו",
+          "lemma": "דָּבָר",
+          "translit": "debarayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "psalms-147-19-3",
+          "surface": "לְיַעֲקֹ֑ב",
+          "lemma": "יַעֲקֹב",
+          "translit": "leya`qob",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "psalms-147-19-4",
+          "surface": "חֻקָּ֥יו",
+          "lemma": "חֹק",
+          "translit": "chuqayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2706"
+        },
+        {
+          "id": "psalms-147-19-5",
+          "surface": "וּ֝מִשְׁפָּטָ֗יו",
+          "lemma": "מִשְׁפָּט",
+          "translit": "vmishepatayv",
+          "morph": "Conjunction + Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "psalms-147-19-6",
+          "surface": "לְיִשְׂרָאֵֽל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "leyishera'el",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 147:20",
+      "englishText": "He has not done this for just any nation. They don’t know his ordinances. Praise Yah!   ",
+      "tokens": [
+        {
+          "id": "psalms-147-20-0",
+          "surface": "לֹ֘א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "psalms-147-20-1",
+          "surface": "עָ֤שָׂה",
+          "lemma": "עָשָׂה",
+          "translit": "`ashah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "psalms-147-20-2",
+          "surface": "כֵ֨ן",
+          "lemma": "כֵּן",
+          "translit": "ken",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "psalms-147-20-3",
+          "surface": "לְכָל",
+          "lemma": "כֹּל",
+          "translit": "lekal",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-147-20-4",
+          "surface": "גּ֗וֹי",
+          "lemma": "גּוֹי",
+          "translit": "gvoy",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "psalms-147-20-5",
+          "surface": "וּמִשְׁפָּטִ֥ים",
+          "lemma": "מִשְׁפָּט",
+          "translit": "vmishepatiym",
+          "morph": "Conjunction + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "psalms-147-20-6",
+          "surface": "בַּל",
+          "lemma": "בַּל",
+          "translit": "bal",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H1077"
+        },
+        {
+          "id": "psalms-147-20-7",
+          "surface": "יְדָע֗וּם",
+          "lemma": "יָדַע",
+          "translit": "yeda`vm",
+          "morph": "Verb Qal Participle 3rd common plural + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "psalms-147-20-8",
+          "surface": "הַֽלְלוּ",
+          "lemma": "הָלַל",
+          "translit": "halelv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-147-20-9",
+          "surface": "יָֽהּ",
+          "lemma": "יָהּ",
+          "translit": "yah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3050"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

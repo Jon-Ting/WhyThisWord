@@ -1,1 +1,254 @@
-{"id":"psalms-134","name":"Psalms","chapter":134,"verses":[{"ref":"Psalms 134:1","englishText":"    Look! Praise Yahweh, all you servants of Yahweh, who stand by night in Yahweh’s house! ","tokens":[{"id":"psalms-134-1-0","surface":"שִׁ֗יר","lemma":"שִׁיר","translit":"shiyr","morph":"Noun common singular construct","glosses":[],"strongs":"H7892"},{"id":"psalms-134-1-1","surface":"הַֽמַּ֫עֲל֥וֹת","lemma":"מַעֲלָה","translit":"hama`lvot","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H4609"},{"id":"psalms-134-1-2","surface":"הִנֵּ֤ה","lemma":"הִנֵּה","translit":"hineh","morph":"Particle masculine","glosses":[],"strongs":"H2009"},{"id":"psalms-134-1-3","surface":"בָּרֲכ֣וּ","lemma":"בָרַךְ","translit":"barkv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1288"},{"id":"psalms-134-1-4","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-134-1-5","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-134-1-6","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-134-1-7","surface":"עַבְדֵ֣י","lemma":"עֶבֶד","translit":"`abedey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H5650"},{"id":"psalms-134-1-8","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-134-1-9","surface":"הָעֹמְדִ֥ים","lemma":"עָמַד","translit":"ha`omediym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H5975"},{"id":"psalms-134-1-10","surface":"בְּבֵית","lemma":"בַּיִת","translit":"bebeyt","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"psalms-134-1-11","surface":"יְ֝הוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-134-1-12","surface":"בַּלֵּילֽוֹת","lemma":"לַיִל","translit":"baleylvot","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3915"}],"language":"hebrew"},{"ref":"Psalms 134:2","englishText":"Lift up your hands in the sanctuary. Praise Yahweh! ","tokens":[{"id":"psalms-134-2-0","surface":"שְׂאֽוּ","lemma":"נָשָׂא","translit":"she'v","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5375"},{"id":"psalms-134-2-1","surface":"יְדֵכֶ֥ם","lemma":"יָד","translit":"yedekem","morph":"Noun common dual construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H3027"},{"id":"psalms-134-2-2","surface":"קֹ֑דֶשׁ","lemma":"קֹדֶשׁ","translit":"qodesh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6944"},{"id":"psalms-134-2-3","surface":"וּ֝בָרֲכוּ","lemma":"בָרַךְ","translit":"vbarkv","morph":"Conjunction + Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1288"},{"id":"psalms-134-2-4","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-134-2-5","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Psalms 134:3","englishText":"May Yahweh bless you from Zion; even he who made heaven and earth.   ","tokens":[{"id":"psalms-134-3-0","surface":"יְבָרֶכְךָ֣","lemma":"בָרַךְ","translit":"yebarekeka","morph":"Verb Piel Imperative 3rd masculine singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1288"},{"id":"psalms-134-3-1","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-134-3-2","surface":"מִצִּיּ֑וֹן","lemma":"צִיּוֹן","translit":"mitsiyvon","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6726"},{"id":"psalms-134-3-3","surface":"עֹ֝שֵׂ֗ה","lemma":"עָשָׂה","translit":"`osheh","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H6213"},{"id":"psalms-134-3-4","surface":"שָׁמַ֥יִם","lemma":"שָׁמַיִם","translit":"shamayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"psalms-134-3-5","surface":"וָאָֽרֶץ","lemma":"אֶרֶץ","translit":"va'arets","morph":"Conjunction + Noun common singular absolute","glosses":[],"strongs":"H776"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-134",
+  "name": "Psalms",
+  "chapter": 134,
+  "verses": [
+    {
+      "ref": "Psalms 134:1",
+      "englishText": "    Look! Praise Yahweh, all you servants of Yahweh, who stand by night in Yahweh’s house! ",
+      "tokens": [
+        {
+          "id": "psalms-134-1-0",
+          "surface": "שִׁ֗יר",
+          "lemma": "שִׁיר",
+          "translit": "shiyr",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7892"
+        },
+        {
+          "id": "psalms-134-1-1",
+          "surface": "הַֽמַּ֫עֲל֥וֹת",
+          "lemma": "מַעֲלָה",
+          "translit": "hama`lvot",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H4609"
+        },
+        {
+          "id": "psalms-134-1-2",
+          "surface": "הִנֵּ֤ה",
+          "lemma": "הִנֵּה",
+          "translit": "hineh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "psalms-134-1-3",
+          "surface": "בָּרֲכ֣וּ",
+          "lemma": "בָרַךְ",
+          "translit": "barkv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1288"
+        },
+        {
+          "id": "psalms-134-1-4",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-134-1-5",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-134-1-6",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-134-1-7",
+          "surface": "עַבְדֵ֣י",
+          "lemma": "עֶבֶד",
+          "translit": "`abedey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "psalms-134-1-8",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-134-1-9",
+          "surface": "הָעֹמְדִ֥ים",
+          "lemma": "עָמַד",
+          "translit": "ha`omediym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5975"
+        },
+        {
+          "id": "psalms-134-1-10",
+          "surface": "בְּבֵית",
+          "lemma": "בַּיִת",
+          "translit": "bebeyt",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "psalms-134-1-11",
+          "surface": "יְ֝הוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-134-1-12",
+          "surface": "בַּלֵּילֽוֹת",
+          "lemma": "לַיִל",
+          "translit": "baleylvot",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3915"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 134:2",
+      "englishText": "Lift up your hands in the sanctuary. Praise Yahweh! ",
+      "tokens": [
+        {
+          "id": "psalms-134-2-0",
+          "surface": "שְׂאֽוּ",
+          "lemma": "נָשָׂא",
+          "translit": "she'v",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "psalms-134-2-1",
+          "surface": "יְדֵכֶ֥ם",
+          "lemma": "יָד",
+          "translit": "yedekem",
+          "morph": "Noun common dual construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "psalms-134-2-2",
+          "surface": "קֹ֑דֶשׁ",
+          "lemma": "קֹדֶשׁ",
+          "translit": "qodesh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6944"
+        },
+        {
+          "id": "psalms-134-2-3",
+          "surface": "וּ֝בָרֲכוּ",
+          "lemma": "בָרַךְ",
+          "translit": "vbarkv",
+          "morph": "Conjunction + Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1288"
+        },
+        {
+          "id": "psalms-134-2-4",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-134-2-5",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 134:3",
+      "englishText": "May Yahweh bless you from Zion; even he who made heaven and earth.   ",
+      "tokens": [
+        {
+          "id": "psalms-134-3-0",
+          "surface": "יְבָרֶכְךָ֣",
+          "lemma": "בָרַךְ",
+          "translit": "yebarekeka",
+          "morph": "Verb Piel Imperative 3rd masculine singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1288"
+        },
+        {
+          "id": "psalms-134-3-1",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-134-3-2",
+          "surface": "מִצִּיּ֑וֹן",
+          "lemma": "צִיּוֹן",
+          "translit": "mitsiyvon",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6726"
+        },
+        {
+          "id": "psalms-134-3-3",
+          "surface": "עֹ֝שֵׂ֗ה",
+          "lemma": "עָשָׂה",
+          "translit": "`osheh",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "psalms-134-3-4",
+          "surface": "שָׁמַ֥יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "shamayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "psalms-134-3-5",
+          "surface": "וָאָֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "va'arets",
+          "morph": "Conjunction + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

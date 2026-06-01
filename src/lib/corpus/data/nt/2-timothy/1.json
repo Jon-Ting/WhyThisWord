@@ -1,1 +1,3657 @@
-{"id":"2-timothy-1","name":"2 Timothy","chapter":1,"verses":[{"ref":"2 Timothy 1:1","englishText":"Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus,","tokens":[{"id":"2-timothy-1-1-0","surface":"Παῦλος","word":"Παῦλος","lemma":"Παῦλος","translit":"Paylos","morph":"Noun","pos":"Noun","glosses":["of latin origin"],"strongs":"G3972"},{"id":"2-timothy-1-1-1","surface":"ἀπόστολος","word":"ἀπόστολος","lemma":"ἀπόστολος","translit":"apostolos","morph":"Noun","pos":"Noun","glosses":["from ἀποστέλλω"],"strongs":"G652"},{"id":"2-timothy-1-1-2","surface":"⸂Χριστοῦ","word":"Χριστοῦ","lemma":"Χριστός","translit":"Christoy","morph":"Noun","pos":"Noun","glosses":["from χρίω"],"strongs":"G5547"},{"id":"2-timothy-1-1-3","surface":"Ἰησοῦ⸃","word":"Ἰησοῦ","lemma":"Ἰησοῦς","translit":"Iesoy","morph":"Noun","pos":"Noun","glosses":["of hebrew origin יְהוֹשׁוּעַ"],"strongs":"G2424","punctuationAfter":"⸃"},{"id":"2-timothy-1-1-4","surface":"διὰ","word":"διὰ","lemma":"διά","translit":"dia","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting the channel of an act"],"strongs":"G1223"},{"id":"2-timothy-1-1-5","surface":"θελήματος","word":"θελήματος","lemma":"θέλημα","translit":"thelematos","morph":"Noun","pos":"Noun","glosses":["from the prolonged form of θέλω"],"strongs":"G2307"},{"id":"2-timothy-1-1-6","surface":"θεοῦ","word":"θεοῦ","lemma":"θεός","translit":"theoy","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316"},{"id":"2-timothy-1-1-7","surface":"κατ’","word":"κατ’","lemma":"κατά","translit":"kat’","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G2596"},{"id":"2-timothy-1-1-8","surface":"ἐπαγγελίαν","word":"ἐπαγγελίαν","lemma":"ἐπαγγελία","translit":"epaggelian","morph":"Noun","pos":"Noun","glosses":["from ἐπαγγέλλω"],"strongs":"G1860"},{"id":"2-timothy-1-1-9","surface":"ζωῆς","word":"ζωῆς","lemma":"ζωή","translit":"zoes","morph":"Noun","pos":"Noun","glosses":["from ζάω"],"strongs":"G2222"},{"id":"2-timothy-1-1-10","surface":"τῆς","word":"τῆς","lemma":"ὁ","translit":"tes","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-1-11","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-1-12","surface":"Χριστῷ","word":"Χριστῷ","lemma":"Χριστός","translit":"Christo","morph":"Noun","pos":"Noun","glosses":["from χρίω"],"strongs":"G5547"},{"id":"2-timothy-1-1-13","surface":"Ἰησοῦ","word":"Ἰησοῦ","lemma":"Ἰησοῦς","translit":"Iesoy","morph":"Noun","pos":"Noun","glosses":["of hebrew origin יְהוֹשׁוּעַ"],"strongs":"G2424"}]},{"ref":"2 Timothy 1:2","englishText":"to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.","tokens":[{"id":"2-timothy-1-2-14","surface":"Τιμοθέῳ","word":"Τιμοθέῳ","lemma":"Τιμόθεος","translit":"Timotheo","morph":"Noun","pos":"Noun","glosses":["from τιμή and θεός"],"strongs":"G5095"},{"id":"2-timothy-1-2-15","surface":"ἀγαπητῷ","word":"ἀγαπητῷ","lemma":"ἀγαπητός","translit":"agapeto","morph":"Adjective","pos":"Adjective","glosses":["from ἀγαπάω"],"strongs":"G27"},{"id":"2-timothy-1-2-16","surface":"τέκνῳ·","word":"τέκνῳ","lemma":"τέκνον","translit":"tekno","morph":"Noun","pos":"Noun","glosses":["from the base of τίκτω"],"strongs":"G5043","punctuationAfter":"·"},{"id":"2-timothy-1-2-17","surface":"χάρις,","word":"χάρις","lemma":"χάρις","translit":"charis","morph":"Noun","pos":"Noun","glosses":["from χαίρω"],"strongs":"G5485","punctuationAfter":","},{"id":"2-timothy-1-2-18","surface":"ἔλεος,","word":"ἔλεος","lemma":"ἔλεος","translit":"eleos","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G1656","punctuationAfter":","},{"id":"2-timothy-1-2-19","surface":"εἰρήνη","word":"εἰρήνη","lemma":"εἰρήνη","translit":"eirene","morph":"Noun","pos":"Noun","glosses":["probably from a primary verb  to join"],"strongs":"G1515"},{"id":"2-timothy-1-2-20","surface":"ἀπὸ","word":"ἀπὸ","lemma":"ἀπό","translit":"apo","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G575"},{"id":"2-timothy-1-2-21","surface":"θεοῦ","word":"θεοῦ","lemma":"θεός","translit":"theoy","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316"},{"id":"2-timothy-1-2-22","surface":"πατρὸς","word":"πατρὸς","lemma":"πατήρ","translit":"patros","morph":"Noun","pos":"Noun","glosses":["apparently a primary word"],"strongs":"G3962"},{"id":"2-timothy-1-2-23","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-2-24","surface":"Χριστοῦ","word":"Χριστοῦ","lemma":"Χριστός","translit":"Christoy","morph":"Noun","pos":"Noun","glosses":["from χρίω"],"strongs":"G5547"},{"id":"2-timothy-1-2-25","surface":"Ἰησοῦ","word":"Ἰησοῦ","lemma":"Ἰησοῦς","translit":"Iesoy","morph":"Noun","pos":"Noun","glosses":["of hebrew origin יְהוֹשׁוּעַ"],"strongs":"G2424"},{"id":"2-timothy-1-2-26","surface":"τοῦ","word":"τοῦ","lemma":"ὁ","translit":"toy","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-2-27","surface":"κυρίου","word":"κυρίου","lemma":"κύριος","translit":"kyrioy","morph":"Noun","pos":"Noun","glosses":["from  supremacy"],"strongs":"G2962"},{"id":"2-timothy-1-2-28","surface":"ἡμῶν.","word":"ἡμῶν","lemma":"ἐγώ","translit":"hemon","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473","punctuationAfter":"."}]},{"ref":"2 Timothy 1:3","englishText":"I thank God, whom I serve as my forefathers did, with a pure conscience. How unceasing is my memory of you in my petitions, night and day","tokens":[{"id":"2-timothy-1-3-29","surface":"Χάριν","word":"Χάριν","lemma":"χάρις","translit":"Charin","morph":"Noun","pos":"Noun","glosses":["from χαίρω"],"strongs":"G5485"},{"id":"2-timothy-1-3-30","surface":"ἔχω","word":"ἔχω","lemma":"ἔχω","translit":"echo","morph":"Verb, 1st person, present, active, indicative","pos":"Verb","glosses":["a primary verb"],"strongs":"G2192"},{"id":"2-timothy-1-3-31","surface":"τῷ","word":"τῷ","lemma":"ὁ","translit":"to","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-3-32","surface":"θεῷ,","word":"θεῷ","lemma":"θεός","translit":"theo","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316","punctuationAfter":","},{"id":"2-timothy-1-3-33","surface":"ᾧ","word":"ᾧ","lemma":"ὅς","translit":"ho","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["probably a primary word or perhaps a form of the article ὁ"],"strongs":"G3739"},{"id":"2-timothy-1-3-34","surface":"λατρεύω","word":"λατρεύω","lemma":"λατρεύω","translit":"latreyo","morph":"Verb, 1st person, present, active, indicative","pos":"Verb","glosses":["from  a hired menial"],"strongs":"G3000"},{"id":"2-timothy-1-3-35","surface":"ἀπὸ","word":"ἀπὸ","lemma":"ἀπό","translit":"apo","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G575"},{"id":"2-timothy-1-3-36","surface":"προγόνων","word":"προγόνων","lemma":"πρόγονος","translit":"progonon","morph":"Adjective","pos":"Adjective","glosses":["from προγίνομαι"],"strongs":"G4269"},{"id":"2-timothy-1-3-37","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-3-38","surface":"καθαρᾷ","word":"καθαρᾷ","lemma":"καθαρός","translit":"kathara","morph":"Adjective","pos":"Adjective","glosses":["of uncertain affinity"],"strongs":"G2513"},{"id":"2-timothy-1-3-39","surface":"συνειδήσει,","word":"συνειδήσει","lemma":"συνείδησις","translit":"syneidesei","morph":"Noun","pos":"Noun","glosses":["from a prolonged form of συνείδω"],"strongs":"G4893","punctuationAfter":","},{"id":"2-timothy-1-3-40","surface":"ὡς","word":"ὡς","lemma":"ὡς","translit":"hos","morph":"Adverb","pos":"Adverb","glosses":["probably adverb of comparative from ὅς"],"strongs":"G5613"},{"id":"2-timothy-1-3-41","surface":"ἀδιάλειπτον","word":"ἀδιάλειπτον","lemma":"ἀδιάλειπτος","translit":"adialeipton","morph":"Adjective","pos":"Adjective","glosses":["from α as a negative particle and a derivative of a compound of διά and λείπω"],"strongs":"G88"},{"id":"2-timothy-1-3-42","surface":"ἔχω","word":"ἔχω","lemma":"ἔχω","translit":"echo","morph":"Verb, 1st person, present, active, indicative","pos":"Verb","glosses":["a primary verb"],"strongs":"G2192"},{"id":"2-timothy-1-3-43","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-3-44","surface":"περὶ","word":"περὶ","lemma":"περί","translit":"peri","morph":"Preposition","pos":"Preposition","glosses":["from the base of πέραν"],"strongs":"G4012"},{"id":"2-timothy-1-3-45","surface":"σοῦ","word":"σοῦ","lemma":"σύ","translit":"soy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771"},{"id":"2-timothy-1-3-46","surface":"μνείαν","word":"μνείαν","lemma":"μνεία","translit":"mneian","morph":"Noun","pos":"Noun","glosses":["from μνάομαι or μιμνήσκω"],"strongs":"G3417"},{"id":"2-timothy-1-3-47","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-3-48","surface":"ταῖς","word":"ταῖς","lemma":"ὁ","translit":"tais","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-3-49","surface":"δεήσεσίν","word":"δεήσεσίν","lemma":"δέησις","translit":"deesesin","morph":"Noun","pos":"Noun","glosses":["from δέομαι"],"strongs":"G1162"},{"id":"2-timothy-1-3-50","surface":"μου,","word":"μου","lemma":"ἐγώ","translit":"moy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473","punctuationAfter":","},{"id":"2-timothy-1-3-51","surface":"νυκτὸς","word":"νυκτὸς","lemma":"νύξ","translit":"nyktos","morph":"Noun","pos":"Noun","glosses":["a primary word"],"strongs":"G3571"},{"id":"2-timothy-1-3-52","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-3-53","surface":"ἡμέρας","word":"ἡμέρας","lemma":"ἡμέρα","translit":"hemeras","morph":"Noun","pos":"Noun","glosses":["feminine with ὥρα implied of a derivative of  to sit"],"strongs":"G2250"}]},{"ref":"2 Timothy 1:4","englishText":"longing to see you, remembering your tears, that I may be filled with joy;","tokens":[{"id":"2-timothy-1-4-54","surface":"ἐπιποθῶν","word":"ἐπιποθῶν","lemma":"ἐπιποθέω","translit":"epipothon","morph":"Verb, present, active, participle, nominative, singular, masculine","pos":"Verb","glosses":["from ἐπί and potheo to yearn"],"strongs":"G1971"},{"id":"2-timothy-1-4-55","surface":"σε","word":"σε","lemma":"σύ","translit":"se","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771"},{"id":"2-timothy-1-4-56","surface":"ἰδεῖν,","word":"ἰδεῖν","lemma":"ὁράω","translit":"idein","morph":"Verb, aorist, active, infinitive","pos":"Verb","glosses":["properly"],"strongs":"G3708","punctuationAfter":","},{"id":"2-timothy-1-4-57","surface":"μεμνημένος","word":"μεμνημένος","lemma":"μιμνῄσκομαι","translit":"memnemenos","morph":"Verb, perfect, middle, participle, nominative, singular, masculine","pos":"Verb","glosses":["μιμνῄσκομαι"]},{"id":"2-timothy-1-4-58","surface":"σου","word":"σου","lemma":"σύ","translit":"soy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771"},{"id":"2-timothy-1-4-59","surface":"τῶν","word":"τῶν","lemma":"ὁ","translit":"ton","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-4-60","surface":"δακρύων,","word":"δακρύων","lemma":"δάκρυον","translit":"dakryon","morph":"Noun","pos":"Noun","glosses":["δάκρυον"],"punctuationAfter":","},{"id":"2-timothy-1-4-61","surface":"ἵνα","word":"ἵνα","lemma":"ἵνα","translit":"hina","morph":"Conjunction","pos":"Conjunction","glosses":["probably from the same as the former part of ἑαυτοῦ through the demonstrative idea"],"strongs":"G2443"},{"id":"2-timothy-1-4-62","surface":"χαρᾶς","word":"χαρᾶς","lemma":"χαρά","translit":"charas","morph":"Noun","pos":"Noun","glosses":["from χαίρω"],"strongs":"G5479"},{"id":"2-timothy-1-4-63","surface":"πληρωθῶ","word":"πληρωθῶ","lemma":"πληρόω","translit":"plerotho","morph":"Verb, 1st person, aorist, passive, subjunctive","pos":"Verb","glosses":["from πλήρης"],"strongs":"G4137"}]},{"ref":"2 Timothy 1:5","englishText":"having been reminded of the sincere faith that is in you; which lived first in your grandmother Lois, and your mother Eunice, and, I am persuaded, in you also.","tokens":[{"id":"2-timothy-1-5-64","surface":"ὑπόμνησιν","word":"ὑπόμνησιν","lemma":"ὑπόμνησις","translit":"hypomnesin","morph":"Noun","pos":"Noun","glosses":["from ὑπομιμνήσκω"],"strongs":"G5280"},{"id":"2-timothy-1-5-65","surface":"⸀λαβὼν","word":"λαβὼν","lemma":"λαμβάνω","translit":"labon","morph":"Verb, aorist, active, participle, nominative, singular, masculine","pos":"Verb","glosses":["a prolonged form of a primary verb"],"strongs":"G2983"},{"id":"2-timothy-1-5-66","surface":"τῆς","word":"τῆς","lemma":"ὁ","translit":"tes","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-5-67","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-5-68","surface":"σοὶ","word":"σοὶ","lemma":"σύ","translit":"soi","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771"},{"id":"2-timothy-1-5-69","surface":"ἀνυποκρίτου","word":"ἀνυποκρίτου","lemma":"ἀνυπόκριτος","translit":"anypokritoy","morph":"Adjective","pos":"Adjective","glosses":["from α as a negative particle and a presumed derivative of ὑποκρίνομαι"],"strongs":"G505"},{"id":"2-timothy-1-5-70","surface":"πίστεως,","word":"πίστεως","lemma":"πίστις","translit":"pisteos","morph":"Noun","pos":"Noun","glosses":["from πείθω"],"strongs":"G4102","punctuationAfter":","},{"id":"2-timothy-1-5-71","surface":"ἥτις","word":"ἥτις","lemma":"ὅστις","translit":"hetis","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["from ὅς and τὶς"],"strongs":"G3748"},{"id":"2-timothy-1-5-72","surface":"ἐνῴκησεν","word":"ἐνῴκησεν","lemma":"ἐνοικέω","translit":"enokesen","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["from ἐν and οἰκέω"],"strongs":"G1774"},{"id":"2-timothy-1-5-73","surface":"πρῶτον","word":"πρῶτον","lemma":"πρῶτος","translit":"proton","morph":"Adjective","pos":"Adjective","glosses":["contracted superlative of πρό"],"strongs":"G4413"},{"id":"2-timothy-1-5-74","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-5-75","surface":"τῇ","word":"τῇ","lemma":"ὁ","translit":"te","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-5-76","surface":"μάμμῃ","word":"μάμμῃ","lemma":"μάμμη","translit":"mamme","morph":"Noun","pos":"Noun","glosses":["of natural origin \"mammy\""],"strongs":"G3125"},{"id":"2-timothy-1-5-77","surface":"σου","word":"σου","lemma":"σύ","translit":"soy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771"},{"id":"2-timothy-1-5-78","surface":"Λωΐδι","word":"Λωΐδι","lemma":"Λωΐς","translit":"Loidi","morph":"Noun","pos":"Noun","glosses":["of uncertain origin"],"strongs":"G3090"},{"id":"2-timothy-1-5-79","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-5-80","surface":"τῇ","word":"τῇ","lemma":"ὁ","translit":"te","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-5-81","surface":"μητρί","word":"μητρί","lemma":"μήτηρ","translit":"metri","morph":"Noun","pos":"Noun","glosses":["apparently a primary word"],"strongs":"G3384"},{"id":"2-timothy-1-5-82","surface":"σου","word":"σου","lemma":"σύ","translit":"soy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771"},{"id":"2-timothy-1-5-83","surface":"Εὐνίκῃ,","word":"Εὐνίκῃ","lemma":"Εὐνίκη","translit":"Eynike","morph":"Noun","pos":"Noun","glosses":["from εὖ and νίκη"],"strongs":"G2131","punctuationAfter":","},{"id":"2-timothy-1-5-84","surface":"πέπεισμαι","word":"πέπεισμαι","lemma":"πείθω","translit":"pepeismai","morph":"Verb, 1st person, perfect, passive, indicative","pos":"Verb","glosses":["a primary verb"],"strongs":"G3982"},{"id":"2-timothy-1-5-85","surface":"δὲ","word":"δὲ","lemma":"δέ","translit":"de","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle adversative or continuative"],"strongs":"G1161"},{"id":"2-timothy-1-5-86","surface":"ὅτι","word":"ὅτι","lemma":"ὅτι","translit":"hoti","morph":"Conjunction","pos":"Conjunction","glosses":["neuter of ὅστις as conjunction"],"strongs":"G3754"},{"id":"2-timothy-1-5-87","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Adverb","pos":"Adverb","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-5-88","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-5-89","surface":"σοί.","word":"σοί","lemma":"σύ","translit":"soi","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771","punctuationAfter":"."}]},{"ref":"2 Timothy 1:6","englishText":"For this cause, I remind you that you should stir up the gift of God which is in you through the laying on of my hands.","tokens":[{"id":"2-timothy-1-6-90","surface":"δι’","word":"δι’","lemma":"διά","translit":"di’","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting the channel of an act"],"strongs":"G1223"},{"id":"2-timothy-1-6-91","surface":"ἣν","word":"ἣν","lemma":"ὅς","translit":"hen","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["probably a primary word or perhaps a form of the article ὁ"],"strongs":"G3739"},{"id":"2-timothy-1-6-92","surface":"αἰτίαν","word":"αἰτίαν","lemma":"αἰτία","translit":"aitian","morph":"Noun","pos":"Noun","glosses":["from the same as αἰτέω"],"strongs":"G156"},{"id":"2-timothy-1-6-93","surface":"ἀναμιμνῄσκω","word":"ἀναμιμνῄσκω","lemma":"ἀναμιμνῄσκω","translit":"anamimnesko","morph":"Verb, 1st person, present, active, indicative","pos":"Verb","glosses":["ἀναμιμνῄσκω"]},{"id":"2-timothy-1-6-94","surface":"σε","word":"σε","lemma":"σύ","translit":"se","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771"},{"id":"2-timothy-1-6-95","surface":"ἀναζωπυρεῖν","word":"ἀναζωπυρεῖν","lemma":"ἀναζωπυρέω","translit":"anazopyrein","morph":"Verb, present, active, infinitive","pos":"Verb","glosses":["from ἀνά and a compound of the base of ζῶον and πῦρ"],"strongs":"G329"},{"id":"2-timothy-1-6-96","surface":"τὸ","word":"τὸ","lemma":"ὁ","translit":"to","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-6-97","surface":"χάρισμα","word":"χάρισμα","lemma":"χάρισμα","translit":"charisma","morph":"Noun","pos":"Noun","glosses":["from χαρίζομαι"],"strongs":"G5486"},{"id":"2-timothy-1-6-98","surface":"τοῦ","word":"τοῦ","lemma":"ὁ","translit":"toy","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-6-99","surface":"θεοῦ,","word":"θεοῦ","lemma":"θεός","translit":"theoy","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316","punctuationAfter":","},{"id":"2-timothy-1-6-100","surface":"ὅ","word":"ὅ","lemma":"ὅς","translit":"ho","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["probably a primary word or perhaps a form of the article ὁ"],"strongs":"G3739"},{"id":"2-timothy-1-6-101","surface":"ἐστιν","word":"ἐστιν","lemma":"εἰμί","translit":"estin","morph":"Verb, 3rd person, present, active, indicative","pos":"Verb","glosses":["the first person singular present indicative"],"strongs":"G1510"},{"id":"2-timothy-1-6-102","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-6-103","surface":"σοὶ","word":"σοὶ","lemma":"σύ","translit":"soi","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771"},{"id":"2-timothy-1-6-104","surface":"διὰ","word":"διὰ","lemma":"διά","translit":"dia","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting the channel of an act"],"strongs":"G1223"},{"id":"2-timothy-1-6-105","surface":"τῆς","word":"τῆς","lemma":"ὁ","translit":"tes","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-6-106","surface":"ἐπιθέσεως","word":"ἐπιθέσεως","lemma":"ἐπίθεσις","translit":"epitheseos","morph":"Noun","pos":"Noun","glosses":["from ἐπιτίθημι"],"strongs":"G1936"},{"id":"2-timothy-1-6-107","surface":"τῶν","word":"τῶν","lemma":"ὁ","translit":"ton","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-6-108","surface":"χειρῶν","word":"χειρῶν","lemma":"χείρ","translit":"cheiron","morph":"Noun","pos":"Noun","glosses":["perhaps from the base of χειμών in the sense of its congener the base of χάσμα through the idea of hollowness for grasping"],"strongs":"G5495"},{"id":"2-timothy-1-6-109","surface":"μου·","word":"μου","lemma":"ἐγώ","translit":"moy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473","punctuationAfter":"·"}]},{"ref":"2 Timothy 1:7","englishText":"For God didn’t give us a spirit of fear, but of power, love, and self-control.","tokens":[{"id":"2-timothy-1-7-110","surface":"οὐ","word":"οὐ","lemma":"οὐ","translit":"oy","morph":"Adverb","pos":"Adverb","glosses":["a primary word"],"strongs":"G3756"},{"id":"2-timothy-1-7-111","surface":"γὰρ","word":"γὰρ","lemma":"γάρ","translit":"gar","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle"],"strongs":"G1063"},{"id":"2-timothy-1-7-112","surface":"ἔδωκεν","word":"ἔδωκεν","lemma":"δίδωμι","translit":"edoken","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["a prolonged form of a primary verb which is used as an alternative in most of the tenses"],"strongs":"G1325"},{"id":"2-timothy-1-7-113","surface":"ἡμῖν","word":"ἡμῖν","lemma":"ἐγώ","translit":"hemin","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-7-114","surface":"ὁ","word":"ὁ","lemma":"ὁ","translit":"ho","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-7-115","surface":"θεὸς","word":"θεὸς","lemma":"θεός","translit":"theos","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316"},{"id":"2-timothy-1-7-116","surface":"πνεῦμα","word":"πνεῦμα","lemma":"πνεῦμα","translit":"pneyma","morph":"Noun","pos":"Noun","glosses":["from πνέω"],"strongs":"G4151"},{"id":"2-timothy-1-7-117","surface":"δειλίας,","word":"δειλίας","lemma":"δειλία","translit":"deilias","morph":"Noun","pos":"Noun","glosses":["from δειλός"],"strongs":"G1167","punctuationAfter":","},{"id":"2-timothy-1-7-118","surface":"ἀλλὰ","word":"ἀλλὰ","lemma":"ἀλλά","translit":"alla","morph":"Conjunction","pos":"Conjunction","glosses":["neuter plural of ἄλλος"],"strongs":"G235"},{"id":"2-timothy-1-7-119","surface":"δυνάμεως","word":"δυνάμεως","lemma":"δύναμις","translit":"dynameos","morph":"Noun","pos":"Noun","glosses":["from δύναμαι"],"strongs":"G1411"},{"id":"2-timothy-1-7-120","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-7-121","surface":"ἀγάπης","word":"ἀγάπης","lemma":"ἀγάπη","translit":"agapes","morph":"Noun","pos":"Noun","glosses":["from ἀγαπάω"],"strongs":"G26"},{"id":"2-timothy-1-7-122","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-7-123","surface":"σωφρονισμοῦ.","word":"σωφρονισμοῦ","lemma":"σωφρονισμός","translit":"sophronismoy","morph":"Noun","pos":"Noun","glosses":["from σωφρονίζω"],"strongs":"G4995","punctuationAfter":"."}]},{"ref":"2 Timothy 1:8","englishText":"Therefore don’t be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God,","tokens":[{"id":"2-timothy-1-8-124","surface":"Μὴ","word":"Μὴ","lemma":"μή","translit":"Me","morph":"Adverb","pos":"Adverb","glosses":["a primary particle of qualified negation whereas οὐ expresses an absolute denial"],"strongs":"G3361"},{"id":"2-timothy-1-8-125","surface":"οὖν","word":"οὖν","lemma":"οὖν","translit":"oyn","morph":"Conjunction","pos":"Conjunction","glosses":["apparently a primary word"],"strongs":"G3767"},{"id":"2-timothy-1-8-126","surface":"ἐπαισχυνθῇς","word":"ἐπαισχυνθῇς","lemma":"ἐπαισχύνομαι","translit":"epaischynthes","morph":"Verb, 2nd person, aorist, passive, subjunctive","pos":"Verb","glosses":["from ἐπί and αἰσχύνομαι"],"strongs":"G1870"},{"id":"2-timothy-1-8-127","surface":"τὸ","word":"τὸ","lemma":"ὁ","translit":"to","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-8-128","surface":"μαρτύριον","word":"μαρτύριον","lemma":"μαρτύριον","translit":"martyrion","morph":"Noun","pos":"Noun","glosses":["neuter of a presumed derivative of μάρτυς"],"strongs":"G3142"},{"id":"2-timothy-1-8-129","surface":"τοῦ","word":"τοῦ","lemma":"ὁ","translit":"toy","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-8-130","surface":"κυρίου","word":"κυρίου","lemma":"κύριος","translit":"kyrioy","morph":"Noun","pos":"Noun","glosses":["from  supremacy"],"strongs":"G2962"},{"id":"2-timothy-1-8-131","surface":"ἡμῶν","word":"ἡμῶν","lemma":"ἐγώ","translit":"hemon","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-8-132","surface":"μηδὲ","word":"μηδὲ","lemma":"μηδέ","translit":"mede","morph":"Conjunction","pos":"Conjunction","glosses":["from μή and δέ"],"strongs":"G3366"},{"id":"2-timothy-1-8-133","surface":"ἐμὲ","word":"ἐμὲ","lemma":"ἐγώ","translit":"eme","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-8-134","surface":"τὸν","word":"τὸν","lemma":"ὁ","translit":"ton","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-8-135","surface":"δέσμιον","word":"δέσμιον","lemma":"δέσμιος","translit":"desmion","morph":"Noun","pos":"Noun","glosses":["from δεσμόν"],"strongs":"G1198"},{"id":"2-timothy-1-8-136","surface":"αὐτοῦ,","word":"αὐτοῦ","lemma":"αὐτός","translit":"aytoy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846","punctuationAfter":","},{"id":"2-timothy-1-8-137","surface":"ἀλλὰ","word":"ἀλλὰ","lemma":"ἀλλά","translit":"alla","morph":"Conjunction","pos":"Conjunction","glosses":["neuter plural of ἄλλος"],"strongs":"G235"},{"id":"2-timothy-1-8-138","surface":"συγκακοπάθησον","word":"συγκακοπάθησον","lemma":"συγκακοπαθέω","translit":"sygkakopatheson","morph":"Verb, 2nd person, aorist, active, imperative","pos":"Verb","glosses":["from σύν and κακοπαθέω"],"strongs":"G4777"},{"id":"2-timothy-1-8-139","surface":"τῷ","word":"τῷ","lemma":"ὁ","translit":"to","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-8-140","surface":"εὐαγγελίῳ","word":"εὐαγγελίῳ","lemma":"εὐαγγέλιον","translit":"eyaggelio","morph":"Noun","pos":"Noun","glosses":["from the same as εὐαγγελίζω"],"strongs":"G2098"},{"id":"2-timothy-1-8-141","surface":"κατὰ","word":"κατὰ","lemma":"κατά","translit":"kata","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G2596"},{"id":"2-timothy-1-8-142","surface":"δύναμιν","word":"δύναμιν","lemma":"δύναμις","translit":"dynamin","morph":"Noun","pos":"Noun","glosses":["from δύναμαι"],"strongs":"G1411"},{"id":"2-timothy-1-8-143","surface":"θεοῦ,","word":"θεοῦ","lemma":"θεός","translit":"theoy","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316","punctuationAfter":","}]},{"ref":"2 Timothy 1:9","englishText":"who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,","tokens":[{"id":"2-timothy-1-9-144","surface":"τοῦ","word":"τοῦ","lemma":"ὁ","translit":"toy","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-9-145","surface":"σώσαντος","word":"σώσαντος","lemma":"σῴζω","translit":"sosantos","morph":"Verb, aorist, active, participle, genitive, singular, masculine","pos":"Verb","glosses":["σῴζω"]},{"id":"2-timothy-1-9-146","surface":"ἡμᾶς","word":"ἡμᾶς","lemma":"ἐγώ","translit":"hemas","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-9-147","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-9-148","surface":"καλέσαντος","word":"καλέσαντος","lemma":"καλέω","translit":"kalesantos","morph":"Verb, aorist, active, participle, genitive, singular, masculine","pos":"Verb","glosses":["akin to the base of κελεύω"],"strongs":"G2564"},{"id":"2-timothy-1-9-149","surface":"κλήσει","word":"κλήσει","lemma":"κλῆσις","translit":"klesei","morph":"Noun","pos":"Noun","glosses":["from a shorter form of καλέω"],"strongs":"G2821"},{"id":"2-timothy-1-9-150","surface":"ἁγίᾳ,","word":"ἁγίᾳ","lemma":"ἅγιος","translit":"hagia","morph":"Adjective","pos":"Adjective","glosses":["from  an awful thing compare ἁγνός"],"strongs":"G40","punctuationAfter":","},{"id":"2-timothy-1-9-151","surface":"οὐ","word":"οὐ","lemma":"οὐ","translit":"oy","morph":"Adverb","pos":"Adverb","glosses":["a primary word"],"strongs":"G3756"},{"id":"2-timothy-1-9-152","surface":"κατὰ","word":"κατὰ","lemma":"κατά","translit":"kata","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G2596"},{"id":"2-timothy-1-9-153","surface":"τὰ","word":"τὰ","lemma":"ὁ","translit":"ta","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-9-154","surface":"ἔργα","word":"ἔργα","lemma":"ἔργον","translit":"erga","morph":"Noun","pos":"Noun","glosses":["from a primary but obsolete  to work"],"strongs":"G2041"},{"id":"2-timothy-1-9-155","surface":"ἡμῶν","word":"ἡμῶν","lemma":"ἐγώ","translit":"hemon","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-9-156","surface":"ἀλλὰ","word":"ἀλλὰ","lemma":"ἀλλά","translit":"alla","morph":"Conjunction","pos":"Conjunction","glosses":["neuter plural of ἄλλος"],"strongs":"G235"},{"id":"2-timothy-1-9-157","surface":"κατὰ","word":"κατὰ","lemma":"κατά","translit":"kata","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G2596"},{"id":"2-timothy-1-9-158","surface":"ἰδίαν","word":"ἰδίαν","lemma":"ἴδιος","translit":"idian","morph":"Adjective","pos":"Adjective","glosses":["of uncertain affinity"],"strongs":"G2398"},{"id":"2-timothy-1-9-159","surface":"πρόθεσιν","word":"πρόθεσιν","lemma":"πρόθεσις","translit":"prothesin","morph":"Noun","pos":"Noun","glosses":["from προτίθεμαι"],"strongs":"G4286"},{"id":"2-timothy-1-9-160","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-9-161","surface":"χάριν,","word":"χάριν","lemma":"χάρις","translit":"charin","morph":"Noun","pos":"Noun","glosses":["from χαίρω"],"strongs":"G5485","punctuationAfter":","},{"id":"2-timothy-1-9-162","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-9-163","surface":"δοθεῖσαν","word":"δοθεῖσαν","lemma":"δίδωμι","translit":"dotheisan","morph":"Verb, aorist, passive, participle, accusative, singular, feminine","pos":"Verb","glosses":["a prolonged form of a primary verb which is used as an alternative in most of the tenses"],"strongs":"G1325"},{"id":"2-timothy-1-9-164","surface":"ἡμῖν","word":"ἡμῖν","lemma":"ἐγώ","translit":"hemin","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-9-165","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-9-166","surface":"Χριστῷ","word":"Χριστῷ","lemma":"Χριστός","translit":"Christo","morph":"Noun","pos":"Noun","glosses":["from χρίω"],"strongs":"G5547"},{"id":"2-timothy-1-9-167","surface":"Ἰησοῦ","word":"Ἰησοῦ","lemma":"Ἰησοῦς","translit":"Iesoy","morph":"Noun","pos":"Noun","glosses":["of hebrew origin יְהוֹשׁוּעַ"],"strongs":"G2424"},{"id":"2-timothy-1-9-168","surface":"πρὸ","word":"πρὸ","lemma":"πρό","translit":"pro","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G4253"},{"id":"2-timothy-1-9-169","surface":"χρόνων","word":"χρόνων","lemma":"χρόνος","translit":"chronon","morph":"Noun","pos":"Noun","glosses":["of uncertain derivation"],"strongs":"G5550"},{"id":"2-timothy-1-9-170","surface":"αἰωνίων,","word":"αἰωνίων","lemma":"αἰώνιος","translit":"aionion","morph":"Adjective","pos":"Adjective","glosses":["from αἰών"],"strongs":"G166","punctuationAfter":","}]},{"ref":"2 Timothy 1:10","englishText":"but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News.","tokens":[{"id":"2-timothy-1-10-171","surface":"φανερωθεῖσαν","word":"φανερωθεῖσαν","lemma":"φανερόω","translit":"phanerotheisan","morph":"Verb, aorist, passive, participle, accusative, singular, feminine","pos":"Verb","glosses":["from φανερός"],"strongs":"G5319"},{"id":"2-timothy-1-10-172","surface":"δὲ","word":"δὲ","lemma":"δέ","translit":"de","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle adversative or continuative"],"strongs":"G1161"},{"id":"2-timothy-1-10-173","surface":"νῦν","word":"νῦν","lemma":"νῦν","translit":"nyn","morph":"Adverb","pos":"Adverb","glosses":["a primary particle of present time"],"strongs":"G3568"},{"id":"2-timothy-1-10-174","surface":"διὰ","word":"διὰ","lemma":"διά","translit":"dia","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting the channel of an act"],"strongs":"G1223"},{"id":"2-timothy-1-10-175","surface":"τῆς","word":"τῆς","lemma":"ὁ","translit":"tes","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-10-176","surface":"ἐπιφανείας","word":"ἐπιφανείας","lemma":"ἐπιφάνεια","translit":"epiphaneias","morph":"Noun","pos":"Noun","glosses":["from ἐπιφανής"],"strongs":"G2015"},{"id":"2-timothy-1-10-177","surface":"τοῦ","word":"τοῦ","lemma":"ὁ","translit":"toy","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-10-178","surface":"σωτῆρος","word":"σωτῆρος","lemma":"σωτήρ","translit":"soteros","morph":"Noun","pos":"Noun","glosses":["from σώζω"],"strongs":"G4990"},{"id":"2-timothy-1-10-179","surface":"ἡμῶν","word":"ἡμῶν","lemma":"ἐγώ","translit":"hemon","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-10-180","surface":"⸂Ἰησοῦ","word":"Ἰησοῦ","lemma":"Ἰησοῦς","translit":"Iesoy","morph":"Noun","pos":"Noun","glosses":["of hebrew origin יְהוֹשׁוּעַ"],"strongs":"G2424"},{"id":"2-timothy-1-10-181","surface":"Χριστοῦ⸃,","word":"Χριστοῦ","lemma":"Χριστός","translit":"Christoy","morph":"Noun","pos":"Noun","glosses":["from χρίω"],"strongs":"G5547","punctuationAfter":"⸃,"},{"id":"2-timothy-1-10-182","surface":"καταργήσαντος","word":"καταργήσαντος","lemma":"καταργέω","translit":"katargesantos","morph":"Verb, aorist, active, participle, genitive, singular, masculine","pos":"Verb","glosses":["from κατά and ἀργέω"],"strongs":"G2673"},{"id":"2-timothy-1-10-183","surface":"μὲν","word":"μὲν","lemma":"μέν","translit":"men","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle"],"strongs":"G3303"},{"id":"2-timothy-1-10-184","surface":"τὸν","word":"τὸν","lemma":"ὁ","translit":"ton","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-10-185","surface":"θάνατον","word":"θάνατον","lemma":"θάνατος","translit":"thanaton","morph":"Noun","pos":"Noun","glosses":["from θνήσκω"],"strongs":"G2288"},{"id":"2-timothy-1-10-186","surface":"φωτίσαντος","word":"φωτίσαντος","lemma":"φωτίζω","translit":"photisantos","morph":"Verb, aorist, active, participle, genitive, singular, masculine","pos":"Verb","glosses":["from φῶς"],"strongs":"G5461"},{"id":"2-timothy-1-10-187","surface":"δὲ","word":"δὲ","lemma":"δέ","translit":"de","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle adversative or continuative"],"strongs":"G1161"},{"id":"2-timothy-1-10-188","surface":"ζωὴν","word":"ζωὴν","lemma":"ζωή","translit":"zoen","morph":"Noun","pos":"Noun","glosses":["from ζάω"],"strongs":"G2222"},{"id":"2-timothy-1-10-189","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-10-190","surface":"ἀφθαρσίαν","word":"ἀφθαρσίαν","lemma":"ἀφθαρσία","translit":"aphtharsian","morph":"Noun","pos":"Noun","glosses":["from ἄφθαρτος"],"strongs":"G861"},{"id":"2-timothy-1-10-191","surface":"διὰ","word":"διὰ","lemma":"διά","translit":"dia","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting the channel of an act"],"strongs":"G1223"},{"id":"2-timothy-1-10-192","surface":"τοῦ","word":"τοῦ","lemma":"ὁ","translit":"toy","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-10-193","surface":"εὐαγγελίου,","word":"εὐαγγελίου","lemma":"εὐαγγέλιον","translit":"eyaggelioy","morph":"Noun","pos":"Noun","glosses":["from the same as εὐαγγελίζω"],"strongs":"G2098","punctuationAfter":","}]},{"ref":"2 Timothy 1:11","englishText":"For this, I was appointed as a preacher, an apostle, and a teacher of the Gentiles.","tokens":[{"id":"2-timothy-1-11-194","surface":"εἰς","word":"εἰς","lemma":"εἰς","translit":"eis","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G1519"},{"id":"2-timothy-1-11-195","surface":"ὃ","word":"ὃ","lemma":"ὅς","translit":"ho","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["probably a primary word or perhaps a form of the article ὁ"],"strongs":"G3739"},{"id":"2-timothy-1-11-196","surface":"ἐτέθην","word":"ἐτέθην","lemma":"τίθημι","translit":"etethen","morph":"Verb, 1st person, aorist, passive, indicative","pos":"Verb","glosses":["a prolonged form of a primary               which is used only as alternate in                               certain tenses"],"strongs":"G5087"},{"id":"2-timothy-1-11-197","surface":"ἐγὼ","word":"ἐγὼ","lemma":"ἐγώ","translit":"ego","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-11-198","surface":"κῆρυξ","word":"κῆρυξ","lemma":"κῆρυξ","translit":"keryx","morph":"Noun","pos":"Noun","glosses":["from κηρύσσω"],"strongs":"G2783"},{"id":"2-timothy-1-11-199","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-11-200","surface":"ἀπόστολος","word":"ἀπόστολος","lemma":"ἀπόστολος","translit":"apostolos","morph":"Noun","pos":"Noun","glosses":["from ἀποστέλλω"],"strongs":"G652"},{"id":"2-timothy-1-11-201","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-11-202","surface":"⸀διδάσκαλος.","word":"διδάσκαλος","lemma":"διδάσκαλος","translit":"didaskalos","morph":"Noun","pos":"Noun","glosses":["from διδάσκω"],"strongs":"G1320","punctuationAfter":"."}]},{"ref":"2 Timothy 1:12","englishText":"For this cause I also suffer these things.   Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day.","tokens":[{"id":"2-timothy-1-12-203","surface":"δι’","word":"δι’","lemma":"διά","translit":"di’","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting the channel of an act"],"strongs":"G1223"},{"id":"2-timothy-1-12-204","surface":"ἣν","word":"ἣν","lemma":"ὅς","translit":"hen","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["probably a primary word or perhaps a form of the article ὁ"],"strongs":"G3739"},{"id":"2-timothy-1-12-205","surface":"αἰτίαν","word":"αἰτίαν","lemma":"αἰτία","translit":"aitian","morph":"Noun","pos":"Noun","glosses":["from the same as αἰτέω"],"strongs":"G156"},{"id":"2-timothy-1-12-206","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Adverb","pos":"Adverb","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-12-207","surface":"ταῦτα","word":"ταῦτα","lemma":"οὗτος","translit":"tayta","morph":"Demonstrative Pronoun","pos":"Demonstrative Pronoun","glosses":["from the article ὁ and αὐτός"],"strongs":"G3778"},{"id":"2-timothy-1-12-208","surface":"πάσχω,","word":"πάσχω","lemma":"πάσχω","translit":"pascho","morph":"Verb, 1st person, present, active, indicative","pos":"Verb","glosses":["apparently a primary verb"],"strongs":"G3958","punctuationAfter":","},{"id":"2-timothy-1-12-209","surface":"ἀλλ’","word":"ἀλλ’","lemma":"ἀλλά","translit":"all’","morph":"Conjunction","pos":"Conjunction","glosses":["neuter plural of ἄλλος"],"strongs":"G235"},{"id":"2-timothy-1-12-210","surface":"οὐκ","word":"οὐκ","lemma":"οὐ","translit":"oyk","morph":"Adverb","pos":"Adverb","glosses":["a primary word"],"strongs":"G3756"},{"id":"2-timothy-1-12-211","surface":"ἐπαισχύνομαι,","word":"ἐπαισχύνομαι","lemma":"ἐπαισχύνομαι","translit":"epaischynomai","morph":"Verb, 1st person, present, middle, indicative","pos":"Verb","glosses":["from ἐπί and αἰσχύνομαι"],"strongs":"G1870","punctuationAfter":","},{"id":"2-timothy-1-12-212","surface":"οἶδα","word":"οἶδα","lemma":"οἶδα","translit":"oida","morph":"Verb, 1st person, perfect, active, indicative","pos":"Verb","glosses":["οἶδα"]},{"id":"2-timothy-1-12-213","surface":"γὰρ","word":"γὰρ","lemma":"γάρ","translit":"gar","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle"],"strongs":"G1063"},{"id":"2-timothy-1-12-214","surface":"ᾧ","word":"ᾧ","lemma":"ὅς","translit":"ho","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["probably a primary word or perhaps a form of the article ὁ"],"strongs":"G3739"},{"id":"2-timothy-1-12-215","surface":"πεπίστευκα,","word":"πεπίστευκα","lemma":"πιστεύω","translit":"pepisteyka","morph":"Verb, 1st person, perfect, active, indicative","pos":"Verb","glosses":["from πίστις"],"strongs":"G4100","punctuationAfter":","},{"id":"2-timothy-1-12-216","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-12-217","surface":"πέπεισμαι","word":"πέπεισμαι","lemma":"πείθω","translit":"pepeismai","morph":"Verb, 1st person, perfect, passive, indicative","pos":"Verb","glosses":["a primary verb"],"strongs":"G3982"},{"id":"2-timothy-1-12-218","surface":"ὅτι","word":"ὅτι","lemma":"ὅτι","translit":"hoti","morph":"Conjunction","pos":"Conjunction","glosses":["neuter of ὅστις as conjunction"],"strongs":"G3754"},{"id":"2-timothy-1-12-219","surface":"δυνατός","word":"δυνατός","lemma":"δυνατός","translit":"dynatos","morph":"Adjective","pos":"Adjective","glosses":["from δύναμαι"],"strongs":"G1415"},{"id":"2-timothy-1-12-220","surface":"ἐστιν","word":"ἐστιν","lemma":"εἰμί","translit":"estin","morph":"Verb, 3rd person, present, active, indicative","pos":"Verb","glosses":["the first person singular present indicative"],"strongs":"G1510"},{"id":"2-timothy-1-12-221","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-12-222","surface":"παραθήκην","word":"παραθήκην","lemma":"παραθήκη","translit":"paratheken","morph":"Noun","pos":"Noun","glosses":["from παρατίθημι"],"strongs":"G3866"},{"id":"2-timothy-1-12-223","surface":"μου","word":"μου","lemma":"ἐγώ","translit":"moy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-12-224","surface":"φυλάξαι","word":"φυλάξαι","lemma":"φυλάσσω","translit":"phylaxai","morph":"Verb, aorist, active, infinitive","pos":"Verb","glosses":["probably from φυλή through the idea of isolation"],"strongs":"G5442"},{"id":"2-timothy-1-12-225","surface":"εἰς","word":"εἰς","lemma":"εἰς","translit":"eis","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G1519"},{"id":"2-timothy-1-12-226","surface":"ἐκείνην","word":"ἐκείνην","lemma":"ἐκεῖνος","translit":"ekeinen","morph":"Demonstrative Pronoun","pos":"Demonstrative Pronoun","glosses":["from ἐκεῖ"],"strongs":"G1565"},{"id":"2-timothy-1-12-227","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-12-228","surface":"ἡμέραν.","word":"ἡμέραν","lemma":"ἡμέρα","translit":"hemeran","morph":"Noun","pos":"Noun","glosses":["feminine with ὥρα implied of a derivative of  to sit"],"strongs":"G2250","punctuationAfter":"."}]},{"ref":"2 Timothy 1:13","englishText":"Hold the pattern of sound words which you have heard from me, in faith and love which is in Christ Jesus.","tokens":[{"id":"2-timothy-1-13-229","surface":"ὑποτύπωσιν","word":"ὑποτύπωσιν","lemma":"ὑποτύπωσις","translit":"hypotyposin","morph":"Noun","pos":"Noun","glosses":["from a compound of ὑπό and a derivative of τύπος"],"strongs":"G5296"},{"id":"2-timothy-1-13-230","surface":"ἔχε","word":"ἔχε","lemma":"ἔχω","translit":"eche","morph":"Verb, 2nd person, present, active, imperative","pos":"Verb","glosses":["a primary verb"],"strongs":"G2192"},{"id":"2-timothy-1-13-231","surface":"ὑγιαινόντων","word":"ὑγιαινόντων","lemma":"ὑγιαίνω","translit":"hygiainonton","morph":"Verb, present, active, participle, genitive, plural, masculine","pos":"Verb","glosses":["from ὑγιής"],"strongs":"G5198"},{"id":"2-timothy-1-13-232","surface":"λόγων","word":"λόγων","lemma":"λόγος","translit":"logon","morph":"Noun","pos":"Noun","glosses":["from λέγω"],"strongs":"G3056"},{"id":"2-timothy-1-13-233","surface":"ὧν","word":"ὧν","lemma":"ὅς","translit":"hon","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["probably a primary word or perhaps a form of the article ὁ"],"strongs":"G3739"},{"id":"2-timothy-1-13-234","surface":"παρ’","word":"παρ’","lemma":"παρά","translit":"par’","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G3844"},{"id":"2-timothy-1-13-235","surface":"ἐμοῦ","word":"ἐμοῦ","lemma":"ἐγώ","translit":"emoy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-13-236","surface":"ἤκουσας","word":"ἤκουσας","lemma":"ἀκούω","translit":"ekoysas","morph":"Verb, 2nd person, aorist, active, indicative","pos":"Verb","glosses":["a primary verb"],"strongs":"G191"},{"id":"2-timothy-1-13-237","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-13-238","surface":"πίστει","word":"πίστει","lemma":"πίστις","translit":"pistei","morph":"Noun","pos":"Noun","glosses":["from πείθω"],"strongs":"G4102"},{"id":"2-timothy-1-13-239","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-13-240","surface":"ἀγάπῃ","word":"ἀγάπῃ","lemma":"ἀγάπη","translit":"agape","morph":"Noun","pos":"Noun","glosses":["from ἀγαπάω"],"strongs":"G26"},{"id":"2-timothy-1-13-241","surface":"τῇ","word":"τῇ","lemma":"ὁ","translit":"te","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-13-242","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-13-243","surface":"Χριστῷ","word":"Χριστῷ","lemma":"Χριστός","translit":"Christo","morph":"Noun","pos":"Noun","glosses":["from χρίω"],"strongs":"G5547"},{"id":"2-timothy-1-13-244","surface":"Ἰησοῦ·","word":"Ἰησοῦ","lemma":"Ἰησοῦς","translit":"Iesoy","morph":"Noun","pos":"Noun","glosses":["of hebrew origin יְהוֹשׁוּעַ"],"strongs":"G2424","punctuationAfter":"·"}]},{"ref":"2 Timothy 1:14","englishText":"That good thing which was committed to you, guard through the Holy Spirit who dwells in us.","tokens":[{"id":"2-timothy-1-14-245","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-14-246","surface":"καλὴν","word":"καλὴν","lemma":"καλός","translit":"kalen","morph":"Adjective","pos":"Adjective","glosses":["of uncertain affinity"],"strongs":"G2570"},{"id":"2-timothy-1-14-247","surface":"παραθήκην","word":"παραθήκην","lemma":"παραθήκη","translit":"paratheken","morph":"Noun","pos":"Noun","glosses":["from παρατίθημι"],"strongs":"G3866"},{"id":"2-timothy-1-14-248","surface":"φύλαξον","word":"φύλαξον","lemma":"φυλάσσω","translit":"phylaxon","morph":"Verb, 2nd person, aorist, active, imperative","pos":"Verb","glosses":["probably from φυλή through the idea of isolation"],"strongs":"G5442"},{"id":"2-timothy-1-14-249","surface":"διὰ","word":"διὰ","lemma":"διά","translit":"dia","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting the channel of an act"],"strongs":"G1223"},{"id":"2-timothy-1-14-250","surface":"πνεύματος","word":"πνεύματος","lemma":"πνεῦμα","translit":"pneymatos","morph":"Noun","pos":"Noun","glosses":["from πνέω"],"strongs":"G4151"},{"id":"2-timothy-1-14-251","surface":"ἁγίου","word":"ἁγίου","lemma":"ἅγιος","translit":"hagioy","morph":"Adjective","pos":"Adjective","glosses":["from  an awful thing compare ἁγνός"],"strongs":"G40"},{"id":"2-timothy-1-14-252","surface":"τοῦ","word":"τοῦ","lemma":"ὁ","translit":"toy","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-14-253","surface":"ἐνοικοῦντος","word":"ἐνοικοῦντος","lemma":"ἐνοικέω","translit":"enoikoyntos","morph":"Verb, present, active, participle, genitive, singular, neuter","pos":"Verb","glosses":["from ἐν and οἰκέω"],"strongs":"G1774"},{"id":"2-timothy-1-14-254","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-14-255","surface":"ἡμῖν.","word":"ἡμῖν","lemma":"ἐγώ","translit":"hemin","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473","punctuationAfter":"."}]},{"ref":"2 Timothy 1:15","englishText":"This you know, that all who are in Asia turned away from me; of whom are Phygelus and Hermogenes.","tokens":[{"id":"2-timothy-1-15-256","surface":"Οἶδας","word":"Οἶδας","lemma":"οἶδα","translit":"Oidas","morph":"Verb, 2nd person, perfect, active, indicative","pos":"Verb","glosses":["οἶδα"]},{"id":"2-timothy-1-15-257","surface":"τοῦτο","word":"τοῦτο","lemma":"οὗτος","translit":"toyto","morph":"Demonstrative Pronoun","pos":"Demonstrative Pronoun","glosses":["from the article ὁ and αὐτός"],"strongs":"G3778"},{"id":"2-timothy-1-15-258","surface":"ὅτι","word":"ὅτι","lemma":"ὅτι","translit":"hoti","morph":"Adverb","pos":"Adverb","glosses":["neuter of ὅστις as conjunction"],"strongs":"G3754"},{"id":"2-timothy-1-15-259","surface":"ἀπεστράφησάν","word":"ἀπεστράφησάν","lemma":"ἀποστρέφω","translit":"apestraphesan","morph":"Verb, 3rd person, aorist, passive, indicative","pos":"Verb","glosses":["from ἀπό and στρέφω"],"strongs":"G654"},{"id":"2-timothy-1-15-260","surface":"με","word":"με","lemma":"ἐγώ","translit":"me","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-15-261","surface":"πάντες","word":"πάντες","lemma":"πᾶς","translit":"pantes","morph":"Adjective","pos":"Adjective","glosses":["including all the forms of declension"],"strongs":"G3956"},{"id":"2-timothy-1-15-262","surface":"οἱ","word":"οἱ","lemma":"ὁ","translit":"hoi","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-15-263","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-15-264","surface":"τῇ","word":"τῇ","lemma":"ὁ","translit":"te","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-15-265","surface":"Ἀσίᾳ,","word":"Ἀσίᾳ","lemma":"Ἀσία","translit":"Asia","morph":"Noun","pos":"Noun","glosses":["of uncertain derivation"],"strongs":"G773","punctuationAfter":","},{"id":"2-timothy-1-15-266","surface":"ὧν","word":"ὧν","lemma":"ὅς","translit":"hon","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["probably a primary word or perhaps a form of the article ὁ"],"strongs":"G3739"},{"id":"2-timothy-1-15-267","surface":"ἐστιν","word":"ἐστιν","lemma":"εἰμί","translit":"estin","morph":"Verb, 3rd person, present, active, indicative","pos":"Verb","glosses":["the first person singular present indicative"],"strongs":"G1510"},{"id":"2-timothy-1-15-268","surface":"Φύγελος","word":"Φύγελος","lemma":"Φύγελος","translit":"Phygelos","morph":"Noun","pos":"Noun","glosses":["φύγελος"]},{"id":"2-timothy-1-15-269","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-15-270","surface":"Ἑρμογένης.","word":"Ἑρμογένης","lemma":"Ἑρμογένης","translit":"Hermogenes","morph":"Noun","pos":"Noun","glosses":["from ἑρμῆς and γίνομαι"],"strongs":"G2061","punctuationAfter":"."}]},{"ref":"2 Timothy 1:16","englishText":"May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain,","tokens":[{"id":"2-timothy-1-16-271","surface":"δῴη","word":"δῴη","lemma":"δίδωμι","translit":"doe","morph":"Verb, 3rd person, aorist, active, optative","pos":"Verb","glosses":["a prolonged form of a primary verb which is used as an alternative in most of the tenses"],"strongs":"G1325"},{"id":"2-timothy-1-16-272","surface":"ἔλεος","word":"ἔλεος","lemma":"ἔλεος","translit":"eleos","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G1656"},{"id":"2-timothy-1-16-273","surface":"ὁ","word":"ὁ","lemma":"ὁ","translit":"ho","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-16-274","surface":"κύριος","word":"κύριος","lemma":"κύριος","translit":"kyrios","morph":"Noun","pos":"Noun","glosses":["from  supremacy"],"strongs":"G2962"},{"id":"2-timothy-1-16-275","surface":"τῷ","word":"τῷ","lemma":"ὁ","translit":"to","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-16-276","surface":"Ὀνησιφόρου","word":"Ὀνησιφόρου","lemma":"Ὀνησίφορος","translit":"Onesiphoroy","morph":"Noun","pos":"Noun","glosses":["from a derivative of ὀνίνημι and φόρος"],"strongs":"G3683"},{"id":"2-timothy-1-16-277","surface":"οἴκῳ,","word":"οἴκῳ","lemma":"οἶκος","translit":"oiko","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G3624","punctuationAfter":","},{"id":"2-timothy-1-16-278","surface":"ὅτι","word":"ὅτι","lemma":"ὅτι","translit":"hoti","morph":"Conjunction","pos":"Conjunction","glosses":["neuter of ὅστις as conjunction"],"strongs":"G3754"},{"id":"2-timothy-1-16-279","surface":"πολλάκις","word":"πολλάκις","lemma":"πολλάκις","translit":"pollakis","morph":"Adverb","pos":"Adverb","glosses":["multiplicative adverb from πολύς"],"strongs":"G4178"},{"id":"2-timothy-1-16-280","surface":"με","word":"με","lemma":"ἐγώ","translit":"me","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-16-281","surface":"ἀνέψυξεν,","word":"ἀνέψυξεν","lemma":"ἀναψύχω","translit":"anepsyxen","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["from ἀνά and ψύχω"],"strongs":"G404","punctuationAfter":","},{"id":"2-timothy-1-16-282","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-16-283","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-16-284","surface":"ἅλυσίν","word":"ἅλυσίν","lemma":"ἅλυσις","translit":"halysin","morph":"Noun","pos":"Noun","glosses":["of uncertain derivation"],"strongs":"G254"},{"id":"2-timothy-1-16-285","surface":"μου","word":"μου","lemma":"ἐγώ","translit":"moy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-16-286","surface":"οὐκ","word":"οὐκ","lemma":"οὐ","translit":"oyk","morph":"Adverb","pos":"Adverb","glosses":["a primary word"],"strongs":"G3756"},{"id":"2-timothy-1-16-287","surface":"ἐπαισχύνθη·","word":"ἐπαισχύνθη","lemma":"ἐπαισχύνομαι","translit":"epaischynthe","morph":"Verb, 3rd person, aorist, passive, indicative","pos":"Verb","glosses":["from ἐπί and αἰσχύνομαι"],"strongs":"G1870","punctuationAfter":"·"}]},{"ref":"2 Timothy 1:17","englishText":"but when he was in Rome, he sought me diligently, and found me","tokens":[{"id":"2-timothy-1-17-288","surface":"ἀλλὰ","word":"ἀλλὰ","lemma":"ἀλλά","translit":"alla","morph":"Conjunction","pos":"Conjunction","glosses":["neuter plural of ἄλλος"],"strongs":"G235"},{"id":"2-timothy-1-17-289","surface":"γενόμενος","word":"γενόμενος","lemma":"γίνομαι","translit":"genomenos","morph":"Verb, aorist, middle, participle, nominative, singular, masculine","pos":"Verb","glosses":["a prolongation and middle voice form of a primary verb"],"strongs":"G1096"},{"id":"2-timothy-1-17-290","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-17-291","surface":"Ῥώμῃ","word":"Ῥώμῃ","lemma":"Ῥώμη","translit":"Hrome","morph":"Noun","pos":"Noun","glosses":["from the base of ῥώννυμι"],"strongs":"G4516"},{"id":"2-timothy-1-17-292","surface":"⸀σπουδαίως","word":"σπουδαίως","lemma":"σπουδαίως","translit":"spoydaios","morph":"Adverb","pos":"Adverb","glosses":["adverb from σπουδαῖος"],"strongs":"G4709"},{"id":"2-timothy-1-17-293","surface":"ἐζήτησέν","word":"ἐζήτησέν","lemma":"ζητέω","translit":"ezetesen","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["of uncertain affinity"],"strongs":"G2212"},{"id":"2-timothy-1-17-294","surface":"με","word":"με","lemma":"ἐγώ","translit":"me","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"2-timothy-1-17-295","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-17-296","surface":"εὗρεν—","word":"εὗρεν","lemma":"εὑρίσκω","translit":"heyren","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["a prolonged form of a primary"],"strongs":"G2147","punctuationAfter":"—"}]},{"ref":"2 Timothy 1:18","englishText":"(the Lord grant to him to find the Lord’s mercy in that day); and in how many things he served at Ephesus, you know very well.","tokens":[{"id":"2-timothy-1-18-297","surface":"δῴη","word":"δῴη","lemma":"δίδωμι","translit":"doe","morph":"Verb, 3rd person, aorist, active, optative","pos":"Verb","glosses":["a prolonged form of a primary verb which is used as an alternative in most of the tenses"],"strongs":"G1325"},{"id":"2-timothy-1-18-298","surface":"αὐτῷ","word":"αὐτῷ","lemma":"αὐτός","translit":"ayto","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846"},{"id":"2-timothy-1-18-299","surface":"ὁ","word":"ὁ","lemma":"ὁ","translit":"ho","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-18-300","surface":"κύριος","word":"κύριος","lemma":"κύριος","translit":"kyrios","morph":"Noun","pos":"Noun","glosses":["from  supremacy"],"strongs":"G2962"},{"id":"2-timothy-1-18-301","surface":"εὑρεῖν","word":"εὑρεῖν","lemma":"εὑρίσκω","translit":"heyrein","morph":"Verb, aorist, active, infinitive","pos":"Verb","glosses":["a prolonged form of a primary"],"strongs":"G2147"},{"id":"2-timothy-1-18-302","surface":"ἔλεος","word":"ἔλεος","lemma":"ἔλεος","translit":"eleos","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G1656"},{"id":"2-timothy-1-18-303","surface":"παρὰ","word":"παρὰ","lemma":"παρά","translit":"para","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G3844"},{"id":"2-timothy-1-18-304","surface":"κυρίου","word":"κυρίου","lemma":"κύριος","translit":"kyrioy","morph":"Noun","pos":"Noun","glosses":["from  supremacy"],"strongs":"G2962"},{"id":"2-timothy-1-18-305","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-18-306","surface":"ἐκείνῃ","word":"ἐκείνῃ","lemma":"ἐκεῖνος","translit":"ekeine","morph":"Demonstrative Pronoun","pos":"Demonstrative Pronoun","glosses":["from ἐκεῖ"],"strongs":"G1565"},{"id":"2-timothy-1-18-307","surface":"τῇ","word":"τῇ","lemma":"ὁ","translit":"te","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"2-timothy-1-18-308","surface":"ἡμέρᾳ—","word":"ἡμέρᾳ","lemma":"ἡμέρα","translit":"hemera","morph":"Noun","pos":"Noun","glosses":["feminine with ὥρα implied of a derivative of  to sit"],"strongs":"G2250","punctuationAfter":"—"},{"id":"2-timothy-1-18-309","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"2-timothy-1-18-310","surface":"ὅσα","word":"ὅσα","lemma":"ὅσος","translit":"hosa","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["by reduplication from ὅς"],"strongs":"G3745"},{"id":"2-timothy-1-18-311","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"2-timothy-1-18-312","surface":"Ἐφέσῳ","word":"Ἐφέσῳ","lemma":"Ἔφεσος","translit":"Epheso","morph":"Noun","pos":"Noun","glosses":["probably of foreign origin"],"strongs":"G2181"},{"id":"2-timothy-1-18-313","surface":"διηκόνησεν,","word":"διηκόνησεν","lemma":"διακονέω","translit":"diekonesen","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["from διάκονος"],"strongs":"G1247","punctuationAfter":","},{"id":"2-timothy-1-18-314","surface":"βέλτιον","word":"βέλτιον","lemma":"βέλτιον","translit":"beltion","morph":"Adjective","pos":"Adjective","glosses":["βέλτιον"]},{"id":"2-timothy-1-18-315","surface":"σὺ","word":"σὺ","lemma":"σύ","translit":"sy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771"},{"id":"2-timothy-1-18-316","surface":"γινώσκεις.","word":"γινώσκεις","lemma":"γινώσκω","translit":"ginoskeis","morph":"Verb, 2nd person, present, active, indicative","pos":"Verb","glosses":["a prolonged form of a primary verb"],"strongs":"G1097","punctuationAfter":"."}]}],"language":"greek"}
+{
+  "id": "2-timothy-1",
+  "name": "2 Timothy",
+  "chapter": 1,
+  "verses": [
+    {
+      "ref": "2 Timothy 1:1",
+      "englishText": "Paul, an apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus,",
+      "tokens": [
+        {
+          "id": "2-timothy-1-1-0",
+          "surface": "Παῦλος",
+          "word": "Παῦλος",
+          "lemma": "Παῦλος",
+          "translit": "Paylos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of latin origin"],
+          "strongs": "G3972"
+        },
+        {
+          "id": "2-timothy-1-1-1",
+          "surface": "ἀπόστολος",
+          "word": "ἀπόστολος",
+          "lemma": "ἀπόστολος",
+          "translit": "apostolos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀποστέλλω"],
+          "strongs": "G652"
+        },
+        {
+          "id": "2-timothy-1-1-2",
+          "surface": "⸂Χριστοῦ",
+          "word": "Χριστοῦ",
+          "lemma": "Χριστός",
+          "translit": "Christoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χρίω"],
+          "strongs": "G5547"
+        },
+        {
+          "id": "2-timothy-1-1-3",
+          "surface": "Ἰησοῦ⸃",
+          "word": "Ἰησοῦ",
+          "lemma": "Ἰησοῦς",
+          "translit": "Iesoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of hebrew origin יְהוֹשׁוּעַ"],
+          "strongs": "G2424",
+          "punctuationAfter": "⸃"
+        },
+        {
+          "id": "2-timothy-1-1-4",
+          "surface": "διὰ",
+          "word": "διὰ",
+          "lemma": "διά",
+          "translit": "dia",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting the channel of an act"],
+          "strongs": "G1223"
+        },
+        {
+          "id": "2-timothy-1-1-5",
+          "surface": "θελήματος",
+          "word": "θελήματος",
+          "lemma": "θέλημα",
+          "translit": "thelematos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from the prolonged form of θέλω"],
+          "strongs": "G2307"
+        },
+        {
+          "id": "2-timothy-1-1-6",
+          "surface": "θεοῦ",
+          "word": "θεοῦ",
+          "lemma": "θεός",
+          "translit": "theoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316"
+        },
+        {
+          "id": "2-timothy-1-1-7",
+          "surface": "κατ’",
+          "word": "κατ’",
+          "lemma": "κατά",
+          "translit": "kat’",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G2596"
+        },
+        {
+          "id": "2-timothy-1-1-8",
+          "surface": "ἐπαγγελίαν",
+          "word": "ἐπαγγελίαν",
+          "lemma": "ἐπαγγελία",
+          "translit": "epaggelian",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἐπαγγέλλω"],
+          "strongs": "G1860"
+        },
+        {
+          "id": "2-timothy-1-1-9",
+          "surface": "ζωῆς",
+          "word": "ζωῆς",
+          "lemma": "ζωή",
+          "translit": "zoes",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ζάω"],
+          "strongs": "G2222"
+        },
+        {
+          "id": "2-timothy-1-1-10",
+          "surface": "τῆς",
+          "word": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-1-11",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-1-12",
+          "surface": "Χριστῷ",
+          "word": "Χριστῷ",
+          "lemma": "Χριστός",
+          "translit": "Christo",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χρίω"],
+          "strongs": "G5547"
+        },
+        {
+          "id": "2-timothy-1-1-13",
+          "surface": "Ἰησοῦ",
+          "word": "Ἰησοῦ",
+          "lemma": "Ἰησοῦς",
+          "translit": "Iesoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of hebrew origin יְהוֹשׁוּעַ"],
+          "strongs": "G2424"
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:2",
+      "englishText": "to Timothy, my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-2-14",
+          "surface": "Τιμοθέῳ",
+          "word": "Τιμοθέῳ",
+          "lemma": "Τιμόθεος",
+          "translit": "Timotheo",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from τιμή and θεός"],
+          "strongs": "G5095"
+        },
+        {
+          "id": "2-timothy-1-2-15",
+          "surface": "ἀγαπητῷ",
+          "word": "ἀγαπητῷ",
+          "lemma": "ἀγαπητός",
+          "translit": "agapeto",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from ἀγαπάω"],
+          "strongs": "G27"
+        },
+        {
+          "id": "2-timothy-1-2-16",
+          "surface": "τέκνῳ·",
+          "word": "τέκνῳ",
+          "lemma": "τέκνον",
+          "translit": "tekno",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from the base of τίκτω"],
+          "strongs": "G5043",
+          "punctuationAfter": "·"
+        },
+        {
+          "id": "2-timothy-1-2-17",
+          "surface": "χάρις,",
+          "word": "χάρις",
+          "lemma": "χάρις",
+          "translit": "charis",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χαίρω"],
+          "strongs": "G5485",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-2-18",
+          "surface": "ἔλεος,",
+          "word": "ἔλεος",
+          "lemma": "ἔλεος",
+          "translit": "eleos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G1656",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-2-19",
+          "surface": "εἰρήνη",
+          "word": "εἰρήνη",
+          "lemma": "εἰρήνη",
+          "translit": "eirene",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["probably from a primary verb  to join"],
+          "strongs": "G1515"
+        },
+        {
+          "id": "2-timothy-1-2-20",
+          "surface": "ἀπὸ",
+          "word": "ἀπὸ",
+          "lemma": "ἀπό",
+          "translit": "apo",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G575"
+        },
+        {
+          "id": "2-timothy-1-2-21",
+          "surface": "θεοῦ",
+          "word": "θεοῦ",
+          "lemma": "θεός",
+          "translit": "theoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316"
+        },
+        {
+          "id": "2-timothy-1-2-22",
+          "surface": "πατρὸς",
+          "word": "πατρὸς",
+          "lemma": "πατήρ",
+          "translit": "patros",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G3962"
+        },
+        {
+          "id": "2-timothy-1-2-23",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-2-24",
+          "surface": "Χριστοῦ",
+          "word": "Χριστοῦ",
+          "lemma": "Χριστός",
+          "translit": "Christoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χρίω"],
+          "strongs": "G5547"
+        },
+        {
+          "id": "2-timothy-1-2-25",
+          "surface": "Ἰησοῦ",
+          "word": "Ἰησοῦ",
+          "lemma": "Ἰησοῦς",
+          "translit": "Iesoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of hebrew origin יְהוֹשׁוּעַ"],
+          "strongs": "G2424"
+        },
+        {
+          "id": "2-timothy-1-2-26",
+          "surface": "τοῦ",
+          "word": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-2-27",
+          "surface": "κυρίου",
+          "word": "κυρίου",
+          "lemma": "κύριος",
+          "translit": "kyrioy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from  supremacy"],
+          "strongs": "G2962"
+        },
+        {
+          "id": "2-timothy-1-2-28",
+          "surface": "ἡμῶν.",
+          "word": "ἡμῶν",
+          "lemma": "ἐγώ",
+          "translit": "hemon",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:3",
+      "englishText": "I thank God, whom I serve as my forefathers did, with a pure conscience. How unceasing is my memory of you in my petitions, night and day",
+      "tokens": [
+        {
+          "id": "2-timothy-1-3-29",
+          "surface": "Χάριν",
+          "word": "Χάριν",
+          "lemma": "χάρις",
+          "translit": "Charin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χαίρω"],
+          "strongs": "G5485"
+        },
+        {
+          "id": "2-timothy-1-3-30",
+          "surface": "ἔχω",
+          "word": "ἔχω",
+          "lemma": "ἔχω",
+          "translit": "echo",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G2192"
+        },
+        {
+          "id": "2-timothy-1-3-31",
+          "surface": "τῷ",
+          "word": "τῷ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-3-32",
+          "surface": "θεῷ,",
+          "word": "θεῷ",
+          "lemma": "θεός",
+          "translit": "theo",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-3-33",
+          "surface": "ᾧ",
+          "word": "ᾧ",
+          "lemma": "ὅς",
+          "translit": "ho",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "2-timothy-1-3-34",
+          "surface": "λατρεύω",
+          "word": "λατρεύω",
+          "lemma": "λατρεύω",
+          "translit": "latreyo",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from  a hired menial"],
+          "strongs": "G3000"
+        },
+        {
+          "id": "2-timothy-1-3-35",
+          "surface": "ἀπὸ",
+          "word": "ἀπὸ",
+          "lemma": "ἀπό",
+          "translit": "apo",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G575"
+        },
+        {
+          "id": "2-timothy-1-3-36",
+          "surface": "προγόνων",
+          "word": "προγόνων",
+          "lemma": "πρόγονος",
+          "translit": "progonon",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from προγίνομαι"],
+          "strongs": "G4269"
+        },
+        {
+          "id": "2-timothy-1-3-37",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-3-38",
+          "surface": "καθαρᾷ",
+          "word": "καθαρᾷ",
+          "lemma": "καθαρός",
+          "translit": "kathara",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2513"
+        },
+        {
+          "id": "2-timothy-1-3-39",
+          "surface": "συνειδήσει,",
+          "word": "συνειδήσει",
+          "lemma": "συνείδησις",
+          "translit": "syneidesei",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a prolonged form of συνείδω"],
+          "strongs": "G4893",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-3-40",
+          "surface": "ὡς",
+          "word": "ὡς",
+          "lemma": "ὡς",
+          "translit": "hos",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["probably adverb of comparative from ὅς"],
+          "strongs": "G5613"
+        },
+        {
+          "id": "2-timothy-1-3-41",
+          "surface": "ἀδιάλειπτον",
+          "word": "ἀδιάλειπτον",
+          "lemma": "ἀδιάλειπτος",
+          "translit": "adialeipton",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": [
+            "from α as a negative particle and a derivative of a compound of διά and λείπω"
+          ],
+          "strongs": "G88"
+        },
+        {
+          "id": "2-timothy-1-3-42",
+          "surface": "ἔχω",
+          "word": "ἔχω",
+          "lemma": "ἔχω",
+          "translit": "echo",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G2192"
+        },
+        {
+          "id": "2-timothy-1-3-43",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-3-44",
+          "surface": "περὶ",
+          "word": "περὶ",
+          "lemma": "περί",
+          "translit": "peri",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["from the base of πέραν"],
+          "strongs": "G4012"
+        },
+        {
+          "id": "2-timothy-1-3-45",
+          "surface": "σοῦ",
+          "word": "σοῦ",
+          "lemma": "σύ",
+          "translit": "soy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "2-timothy-1-3-46",
+          "surface": "μνείαν",
+          "word": "μνείαν",
+          "lemma": "μνεία",
+          "translit": "mneian",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from μνάομαι or μιμνήσκω"],
+          "strongs": "G3417"
+        },
+        {
+          "id": "2-timothy-1-3-47",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-3-48",
+          "surface": "ταῖς",
+          "word": "ταῖς",
+          "lemma": "ὁ",
+          "translit": "tais",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-3-49",
+          "surface": "δεήσεσίν",
+          "word": "δεήσεσίν",
+          "lemma": "δέησις",
+          "translit": "deesesin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from δέομαι"],
+          "strongs": "G1162"
+        },
+        {
+          "id": "2-timothy-1-3-50",
+          "surface": "μου,",
+          "word": "μου",
+          "lemma": "ἐγώ",
+          "translit": "moy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-3-51",
+          "surface": "νυκτὸς",
+          "word": "νυκτὸς",
+          "lemma": "νύξ",
+          "translit": "nyktos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["a primary word"],
+          "strongs": "G3571"
+        },
+        {
+          "id": "2-timothy-1-3-52",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-3-53",
+          "surface": "ἡμέρας",
+          "word": "ἡμέρας",
+          "lemma": "ἡμέρα",
+          "translit": "hemeras",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["feminine with ὥρα implied of a derivative of  to sit"],
+          "strongs": "G2250"
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:4",
+      "englishText": "longing to see you, remembering your tears, that I may be filled with joy;",
+      "tokens": [
+        {
+          "id": "2-timothy-1-4-54",
+          "surface": "ἐπιποθῶν",
+          "word": "ἐπιποθῶν",
+          "lemma": "ἐπιποθέω",
+          "translit": "epipothon",
+          "morph": "Verb, present, active, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from ἐπί and potheo to yearn"],
+          "strongs": "G1971"
+        },
+        {
+          "id": "2-timothy-1-4-55",
+          "surface": "σε",
+          "word": "σε",
+          "lemma": "σύ",
+          "translit": "se",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "2-timothy-1-4-56",
+          "surface": "ἰδεῖν,",
+          "word": "ἰδεῖν",
+          "lemma": "ὁράω",
+          "translit": "idein",
+          "morph": "Verb, aorist, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["properly"],
+          "strongs": "G3708",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-4-57",
+          "surface": "μεμνημένος",
+          "word": "μεμνημένος",
+          "lemma": "μιμνῄσκομαι",
+          "translit": "memnemenos",
+          "morph": "Verb, perfect, middle, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["μιμνῄσκομαι"]
+        },
+        {
+          "id": "2-timothy-1-4-58",
+          "surface": "σου",
+          "word": "σου",
+          "lemma": "σύ",
+          "translit": "soy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "2-timothy-1-4-59",
+          "surface": "τῶν",
+          "word": "τῶν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-4-60",
+          "surface": "δακρύων,",
+          "word": "δακρύων",
+          "lemma": "δάκρυον",
+          "translit": "dakryon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["δάκρυον"],
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-4-61",
+          "surface": "ἵνα",
+          "word": "ἵνα",
+          "lemma": "ἵνα",
+          "translit": "hina",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": [
+            "probably from the same as the former part of ἑαυτοῦ through the demonstrative idea"
+          ],
+          "strongs": "G2443"
+        },
+        {
+          "id": "2-timothy-1-4-62",
+          "surface": "χαρᾶς",
+          "word": "χαρᾶς",
+          "lemma": "χαρά",
+          "translit": "charas",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χαίρω"],
+          "strongs": "G5479"
+        },
+        {
+          "id": "2-timothy-1-4-63",
+          "surface": "πληρωθῶ",
+          "word": "πληρωθῶ",
+          "lemma": "πληρόω",
+          "translit": "plerotho",
+          "morph": "Verb, 1st person, aorist, passive, subjunctive",
+          "pos": "Verb",
+          "glosses": ["from πλήρης"],
+          "strongs": "G4137"
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:5",
+      "englishText": "having been reminded of the sincere faith that is in you; which lived first in your grandmother Lois, and your mother Eunice, and, I am persuaded, in you also.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-5-64",
+          "surface": "ὑπόμνησιν",
+          "word": "ὑπόμνησιν",
+          "lemma": "ὑπόμνησις",
+          "translit": "hypomnesin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ὑπομιμνήσκω"],
+          "strongs": "G5280"
+        },
+        {
+          "id": "2-timothy-1-5-65",
+          "surface": "⸀λαβὼν",
+          "word": "λαβὼν",
+          "lemma": "λαμβάνω",
+          "translit": "labon",
+          "morph": "Verb, aorist, active, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of a primary verb"],
+          "strongs": "G2983"
+        },
+        {
+          "id": "2-timothy-1-5-66",
+          "surface": "τῆς",
+          "word": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-5-67",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-5-68",
+          "surface": "σοὶ",
+          "word": "σοὶ",
+          "lemma": "σύ",
+          "translit": "soi",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "2-timothy-1-5-69",
+          "surface": "ἀνυποκρίτου",
+          "word": "ἀνυποκρίτου",
+          "lemma": "ἀνυπόκριτος",
+          "translit": "anypokritoy",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from α as a negative particle and a presumed derivative of ὑποκρίνομαι"],
+          "strongs": "G505"
+        },
+        {
+          "id": "2-timothy-1-5-70",
+          "surface": "πίστεως,",
+          "word": "πίστεως",
+          "lemma": "πίστις",
+          "translit": "pisteos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from πείθω"],
+          "strongs": "G4102",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-5-71",
+          "surface": "ἥτις",
+          "word": "ἥτις",
+          "lemma": "ὅστις",
+          "translit": "hetis",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["from ὅς and τὶς"],
+          "strongs": "G3748"
+        },
+        {
+          "id": "2-timothy-1-5-72",
+          "surface": "ἐνῴκησεν",
+          "word": "ἐνῴκησεν",
+          "lemma": "ἐνοικέω",
+          "translit": "enokesen",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἐν and οἰκέω"],
+          "strongs": "G1774"
+        },
+        {
+          "id": "2-timothy-1-5-73",
+          "surface": "πρῶτον",
+          "word": "πρῶτον",
+          "lemma": "πρῶτος",
+          "translit": "proton",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["contracted superlative of πρό"],
+          "strongs": "G4413"
+        },
+        {
+          "id": "2-timothy-1-5-74",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-5-75",
+          "surface": "τῇ",
+          "word": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-5-76",
+          "surface": "μάμμῃ",
+          "word": "μάμμῃ",
+          "lemma": "μάμμη",
+          "translit": "mamme",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of natural origin \"mammy\""],
+          "strongs": "G3125"
+        },
+        {
+          "id": "2-timothy-1-5-77",
+          "surface": "σου",
+          "word": "σου",
+          "lemma": "σύ",
+          "translit": "soy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "2-timothy-1-5-78",
+          "surface": "Λωΐδι",
+          "word": "Λωΐδι",
+          "lemma": "Λωΐς",
+          "translit": "Loidi",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain origin"],
+          "strongs": "G3090"
+        },
+        {
+          "id": "2-timothy-1-5-79",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-5-80",
+          "surface": "τῇ",
+          "word": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-5-81",
+          "surface": "μητρί",
+          "word": "μητρί",
+          "lemma": "μήτηρ",
+          "translit": "metri",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G3384"
+        },
+        {
+          "id": "2-timothy-1-5-82",
+          "surface": "σου",
+          "word": "σου",
+          "lemma": "σύ",
+          "translit": "soy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "2-timothy-1-5-83",
+          "surface": "Εὐνίκῃ,",
+          "word": "Εὐνίκῃ",
+          "lemma": "Εὐνίκη",
+          "translit": "Eynike",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from εὖ and νίκη"],
+          "strongs": "G2131",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-5-84",
+          "surface": "πέπεισμαι",
+          "word": "πέπεισμαι",
+          "lemma": "πείθω",
+          "translit": "pepeismai",
+          "morph": "Verb, 1st person, perfect, passive, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G3982"
+        },
+        {
+          "id": "2-timothy-1-5-85",
+          "surface": "δὲ",
+          "word": "δὲ",
+          "lemma": "δέ",
+          "translit": "de",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle adversative or continuative"],
+          "strongs": "G1161"
+        },
+        {
+          "id": "2-timothy-1-5-86",
+          "surface": "ὅτι",
+          "word": "ὅτι",
+          "lemma": "ὅτι",
+          "translit": "hoti",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter of ὅστις as conjunction"],
+          "strongs": "G3754"
+        },
+        {
+          "id": "2-timothy-1-5-87",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-5-88",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-5-89",
+          "surface": "σοί.",
+          "word": "σοί",
+          "lemma": "σύ",
+          "translit": "soi",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:6",
+      "englishText": "For this cause, I remind you that you should stir up the gift of God which is in you through the laying on of my hands.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-6-90",
+          "surface": "δι’",
+          "word": "δι’",
+          "lemma": "διά",
+          "translit": "di’",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting the channel of an act"],
+          "strongs": "G1223"
+        },
+        {
+          "id": "2-timothy-1-6-91",
+          "surface": "ἣν",
+          "word": "ἣν",
+          "lemma": "ὅς",
+          "translit": "hen",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "2-timothy-1-6-92",
+          "surface": "αἰτίαν",
+          "word": "αἰτίαν",
+          "lemma": "αἰτία",
+          "translit": "aitian",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from the same as αἰτέω"],
+          "strongs": "G156"
+        },
+        {
+          "id": "2-timothy-1-6-93",
+          "surface": "ἀναμιμνῄσκω",
+          "word": "ἀναμιμνῄσκω",
+          "lemma": "ἀναμιμνῄσκω",
+          "translit": "anamimnesko",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["ἀναμιμνῄσκω"]
+        },
+        {
+          "id": "2-timothy-1-6-94",
+          "surface": "σε",
+          "word": "σε",
+          "lemma": "σύ",
+          "translit": "se",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "2-timothy-1-6-95",
+          "surface": "ἀναζωπυρεῖν",
+          "word": "ἀναζωπυρεῖν",
+          "lemma": "ἀναζωπυρέω",
+          "translit": "anazopyrein",
+          "morph": "Verb, present, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["from ἀνά and a compound of the base of ζῶον and πῦρ"],
+          "strongs": "G329"
+        },
+        {
+          "id": "2-timothy-1-6-96",
+          "surface": "τὸ",
+          "word": "τὸ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-6-97",
+          "surface": "χάρισμα",
+          "word": "χάρισμα",
+          "lemma": "χάρισμα",
+          "translit": "charisma",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χαρίζομαι"],
+          "strongs": "G5486"
+        },
+        {
+          "id": "2-timothy-1-6-98",
+          "surface": "τοῦ",
+          "word": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-6-99",
+          "surface": "θεοῦ,",
+          "word": "θεοῦ",
+          "lemma": "θεός",
+          "translit": "theoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-6-100",
+          "surface": "ὅ",
+          "word": "ὅ",
+          "lemma": "ὅς",
+          "translit": "ho",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "2-timothy-1-6-101",
+          "surface": "ἐστιν",
+          "word": "ἐστιν",
+          "lemma": "εἰμί",
+          "translit": "estin",
+          "morph": "Verb, 3rd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["the first person singular present indicative"],
+          "strongs": "G1510"
+        },
+        {
+          "id": "2-timothy-1-6-102",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-6-103",
+          "surface": "σοὶ",
+          "word": "σοὶ",
+          "lemma": "σύ",
+          "translit": "soi",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "2-timothy-1-6-104",
+          "surface": "διὰ",
+          "word": "διὰ",
+          "lemma": "διά",
+          "translit": "dia",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting the channel of an act"],
+          "strongs": "G1223"
+        },
+        {
+          "id": "2-timothy-1-6-105",
+          "surface": "τῆς",
+          "word": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-6-106",
+          "surface": "ἐπιθέσεως",
+          "word": "ἐπιθέσεως",
+          "lemma": "ἐπίθεσις",
+          "translit": "epitheseos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἐπιτίθημι"],
+          "strongs": "G1936"
+        },
+        {
+          "id": "2-timothy-1-6-107",
+          "surface": "τῶν",
+          "word": "τῶν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-6-108",
+          "surface": "χειρῶν",
+          "word": "χειρῶν",
+          "lemma": "χείρ",
+          "translit": "cheiron",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": [
+            "perhaps from the base of χειμών in the sense of its congener the base of χάσμα through the idea of hollowness for grasping"
+          ],
+          "strongs": "G5495"
+        },
+        {
+          "id": "2-timothy-1-6-109",
+          "surface": "μου·",
+          "word": "μου",
+          "lemma": "ἐγώ",
+          "translit": "moy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473",
+          "punctuationAfter": "·"
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:7",
+      "englishText": "For God didn’t give us a spirit of fear, but of power, love, and self-control.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-7-110",
+          "surface": "οὐ",
+          "word": "οὐ",
+          "lemma": "οὐ",
+          "translit": "oy",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "2-timothy-1-7-111",
+          "surface": "γὰρ",
+          "word": "γὰρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "2-timothy-1-7-112",
+          "surface": "ἔδωκεν",
+          "word": "ἔδωκεν",
+          "lemma": "δίδωμι",
+          "translit": "edoken",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": [
+            "a prolonged form of a primary verb which is used as an alternative in most of the tenses"
+          ],
+          "strongs": "G1325"
+        },
+        {
+          "id": "2-timothy-1-7-113",
+          "surface": "ἡμῖν",
+          "word": "ἡμῖν",
+          "lemma": "ἐγώ",
+          "translit": "hemin",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-7-114",
+          "surface": "ὁ",
+          "word": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-7-115",
+          "surface": "θεὸς",
+          "word": "θεὸς",
+          "lemma": "θεός",
+          "translit": "theos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316"
+        },
+        {
+          "id": "2-timothy-1-7-116",
+          "surface": "πνεῦμα",
+          "word": "πνεῦμα",
+          "lemma": "πνεῦμα",
+          "translit": "pneyma",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from πνέω"],
+          "strongs": "G4151"
+        },
+        {
+          "id": "2-timothy-1-7-117",
+          "surface": "δειλίας,",
+          "word": "δειλίας",
+          "lemma": "δειλία",
+          "translit": "deilias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from δειλός"],
+          "strongs": "G1167",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-7-118",
+          "surface": "ἀλλὰ",
+          "word": "ἀλλὰ",
+          "lemma": "ἀλλά",
+          "translit": "alla",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter plural of ἄλλος"],
+          "strongs": "G235"
+        },
+        {
+          "id": "2-timothy-1-7-119",
+          "surface": "δυνάμεως",
+          "word": "δυνάμεως",
+          "lemma": "δύναμις",
+          "translit": "dynameos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from δύναμαι"],
+          "strongs": "G1411"
+        },
+        {
+          "id": "2-timothy-1-7-120",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-7-121",
+          "surface": "ἀγάπης",
+          "word": "ἀγάπης",
+          "lemma": "ἀγάπη",
+          "translit": "agapes",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀγαπάω"],
+          "strongs": "G26"
+        },
+        {
+          "id": "2-timothy-1-7-122",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-7-123",
+          "surface": "σωφρονισμοῦ.",
+          "word": "σωφρονισμοῦ",
+          "lemma": "σωφρονισμός",
+          "translit": "sophronismoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from σωφρονίζω"],
+          "strongs": "G4995",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:8",
+      "englishText": "Therefore don’t be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God,",
+      "tokens": [
+        {
+          "id": "2-timothy-1-8-124",
+          "surface": "Μὴ",
+          "word": "Μὴ",
+          "lemma": "μή",
+          "translit": "Me",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "a primary particle of qualified negation whereas οὐ expresses an absolute denial"
+          ],
+          "strongs": "G3361"
+        },
+        {
+          "id": "2-timothy-1-8-125",
+          "surface": "οὖν",
+          "word": "οὖν",
+          "lemma": "οὖν",
+          "translit": "oyn",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G3767"
+        },
+        {
+          "id": "2-timothy-1-8-126",
+          "surface": "ἐπαισχυνθῇς",
+          "word": "ἐπαισχυνθῇς",
+          "lemma": "ἐπαισχύνομαι",
+          "translit": "epaischynthes",
+          "morph": "Verb, 2nd person, aorist, passive, subjunctive",
+          "pos": "Verb",
+          "glosses": ["from ἐπί and αἰσχύνομαι"],
+          "strongs": "G1870"
+        },
+        {
+          "id": "2-timothy-1-8-127",
+          "surface": "τὸ",
+          "word": "τὸ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-8-128",
+          "surface": "μαρτύριον",
+          "word": "μαρτύριον",
+          "lemma": "μαρτύριον",
+          "translit": "martyrion",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["neuter of a presumed derivative of μάρτυς"],
+          "strongs": "G3142"
+        },
+        {
+          "id": "2-timothy-1-8-129",
+          "surface": "τοῦ",
+          "word": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-8-130",
+          "surface": "κυρίου",
+          "word": "κυρίου",
+          "lemma": "κύριος",
+          "translit": "kyrioy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from  supremacy"],
+          "strongs": "G2962"
+        },
+        {
+          "id": "2-timothy-1-8-131",
+          "surface": "ἡμῶν",
+          "word": "ἡμῶν",
+          "lemma": "ἐγώ",
+          "translit": "hemon",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-8-132",
+          "surface": "μηδὲ",
+          "word": "μηδὲ",
+          "lemma": "μηδέ",
+          "translit": "mede",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from μή and δέ"],
+          "strongs": "G3366"
+        },
+        {
+          "id": "2-timothy-1-8-133",
+          "surface": "ἐμὲ",
+          "word": "ἐμὲ",
+          "lemma": "ἐγώ",
+          "translit": "eme",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-8-134",
+          "surface": "τὸν",
+          "word": "τὸν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-8-135",
+          "surface": "δέσμιον",
+          "word": "δέσμιον",
+          "lemma": "δέσμιος",
+          "translit": "desmion",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from δεσμόν"],
+          "strongs": "G1198"
+        },
+        {
+          "id": "2-timothy-1-8-136",
+          "surface": "αὐτοῦ,",
+          "word": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "translit": "aytoy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-8-137",
+          "surface": "ἀλλὰ",
+          "word": "ἀλλὰ",
+          "lemma": "ἀλλά",
+          "translit": "alla",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter plural of ἄλλος"],
+          "strongs": "G235"
+        },
+        {
+          "id": "2-timothy-1-8-138",
+          "surface": "συγκακοπάθησον",
+          "word": "συγκακοπάθησον",
+          "lemma": "συγκακοπαθέω",
+          "translit": "sygkakopatheson",
+          "morph": "Verb, 2nd person, aorist, active, imperative",
+          "pos": "Verb",
+          "glosses": ["from σύν and κακοπαθέω"],
+          "strongs": "G4777"
+        },
+        {
+          "id": "2-timothy-1-8-139",
+          "surface": "τῷ",
+          "word": "τῷ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-8-140",
+          "surface": "εὐαγγελίῳ",
+          "word": "εὐαγγελίῳ",
+          "lemma": "εὐαγγέλιον",
+          "translit": "eyaggelio",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from the same as εὐαγγελίζω"],
+          "strongs": "G2098"
+        },
+        {
+          "id": "2-timothy-1-8-141",
+          "surface": "κατὰ",
+          "word": "κατὰ",
+          "lemma": "κατά",
+          "translit": "kata",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G2596"
+        },
+        {
+          "id": "2-timothy-1-8-142",
+          "surface": "δύναμιν",
+          "word": "δύναμιν",
+          "lemma": "δύναμις",
+          "translit": "dynamin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from δύναμαι"],
+          "strongs": "G1411"
+        },
+        {
+          "id": "2-timothy-1-8-143",
+          "surface": "θεοῦ,",
+          "word": "θεοῦ",
+          "lemma": "θεός",
+          "translit": "theoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316",
+          "punctuationAfter": ","
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:9",
+      "englishText": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,",
+      "tokens": [
+        {
+          "id": "2-timothy-1-9-144",
+          "surface": "τοῦ",
+          "word": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-9-145",
+          "surface": "σώσαντος",
+          "word": "σώσαντος",
+          "lemma": "σῴζω",
+          "translit": "sosantos",
+          "morph": "Verb, aorist, active, participle, genitive, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["σῴζω"]
+        },
+        {
+          "id": "2-timothy-1-9-146",
+          "surface": "ἡμᾶς",
+          "word": "ἡμᾶς",
+          "lemma": "ἐγώ",
+          "translit": "hemas",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-9-147",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-9-148",
+          "surface": "καλέσαντος",
+          "word": "καλέσαντος",
+          "lemma": "καλέω",
+          "translit": "kalesantos",
+          "morph": "Verb, aorist, active, participle, genitive, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["akin to the base of κελεύω"],
+          "strongs": "G2564"
+        },
+        {
+          "id": "2-timothy-1-9-149",
+          "surface": "κλήσει",
+          "word": "κλήσει",
+          "lemma": "κλῆσις",
+          "translit": "klesei",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a shorter form of καλέω"],
+          "strongs": "G2821"
+        },
+        {
+          "id": "2-timothy-1-9-150",
+          "surface": "ἁγίᾳ,",
+          "word": "ἁγίᾳ",
+          "lemma": "ἅγιος",
+          "translit": "hagia",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from  an awful thing compare ἁγνός"],
+          "strongs": "G40",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-9-151",
+          "surface": "οὐ",
+          "word": "οὐ",
+          "lemma": "οὐ",
+          "translit": "oy",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "2-timothy-1-9-152",
+          "surface": "κατὰ",
+          "word": "κατὰ",
+          "lemma": "κατά",
+          "translit": "kata",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G2596"
+        },
+        {
+          "id": "2-timothy-1-9-153",
+          "surface": "τὰ",
+          "word": "τὰ",
+          "lemma": "ὁ",
+          "translit": "ta",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-9-154",
+          "surface": "ἔργα",
+          "word": "ἔργα",
+          "lemma": "ἔργον",
+          "translit": "erga",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a primary but obsolete  to work"],
+          "strongs": "G2041"
+        },
+        {
+          "id": "2-timothy-1-9-155",
+          "surface": "ἡμῶν",
+          "word": "ἡμῶν",
+          "lemma": "ἐγώ",
+          "translit": "hemon",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-9-156",
+          "surface": "ἀλλὰ",
+          "word": "ἀλλὰ",
+          "lemma": "ἀλλά",
+          "translit": "alla",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter plural of ἄλλος"],
+          "strongs": "G235"
+        },
+        {
+          "id": "2-timothy-1-9-157",
+          "surface": "κατὰ",
+          "word": "κατὰ",
+          "lemma": "κατά",
+          "translit": "kata",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G2596"
+        },
+        {
+          "id": "2-timothy-1-9-158",
+          "surface": "ἰδίαν",
+          "word": "ἰδίαν",
+          "lemma": "ἴδιος",
+          "translit": "idian",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2398"
+        },
+        {
+          "id": "2-timothy-1-9-159",
+          "surface": "πρόθεσιν",
+          "word": "πρόθεσιν",
+          "lemma": "πρόθεσις",
+          "translit": "prothesin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from προτίθεμαι"],
+          "strongs": "G4286"
+        },
+        {
+          "id": "2-timothy-1-9-160",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-9-161",
+          "surface": "χάριν,",
+          "word": "χάριν",
+          "lemma": "χάρις",
+          "translit": "charin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χαίρω"],
+          "strongs": "G5485",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-9-162",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-9-163",
+          "surface": "δοθεῖσαν",
+          "word": "δοθεῖσαν",
+          "lemma": "δίδωμι",
+          "translit": "dotheisan",
+          "morph": "Verb, aorist, passive, participle, accusative, singular, feminine",
+          "pos": "Verb",
+          "glosses": [
+            "a prolonged form of a primary verb which is used as an alternative in most of the tenses"
+          ],
+          "strongs": "G1325"
+        },
+        {
+          "id": "2-timothy-1-9-164",
+          "surface": "ἡμῖν",
+          "word": "ἡμῖν",
+          "lemma": "ἐγώ",
+          "translit": "hemin",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-9-165",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-9-166",
+          "surface": "Χριστῷ",
+          "word": "Χριστῷ",
+          "lemma": "Χριστός",
+          "translit": "Christo",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χρίω"],
+          "strongs": "G5547"
+        },
+        {
+          "id": "2-timothy-1-9-167",
+          "surface": "Ἰησοῦ",
+          "word": "Ἰησοῦ",
+          "lemma": "Ἰησοῦς",
+          "translit": "Iesoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of hebrew origin יְהוֹשׁוּעַ"],
+          "strongs": "G2424"
+        },
+        {
+          "id": "2-timothy-1-9-168",
+          "surface": "πρὸ",
+          "word": "πρὸ",
+          "lemma": "πρό",
+          "translit": "pro",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G4253"
+        },
+        {
+          "id": "2-timothy-1-9-169",
+          "surface": "χρόνων",
+          "word": "χρόνων",
+          "lemma": "χρόνος",
+          "translit": "chronon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain derivation"],
+          "strongs": "G5550"
+        },
+        {
+          "id": "2-timothy-1-9-170",
+          "surface": "αἰωνίων,",
+          "word": "αἰωνίων",
+          "lemma": "αἰώνιος",
+          "translit": "aionion",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from αἰών"],
+          "strongs": "G166",
+          "punctuationAfter": ","
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:10",
+      "englishText": "but has now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-10-171",
+          "surface": "φανερωθεῖσαν",
+          "word": "φανερωθεῖσαν",
+          "lemma": "φανερόω",
+          "translit": "phanerotheisan",
+          "morph": "Verb, aorist, passive, participle, accusative, singular, feminine",
+          "pos": "Verb",
+          "glosses": ["from φανερός"],
+          "strongs": "G5319"
+        },
+        {
+          "id": "2-timothy-1-10-172",
+          "surface": "δὲ",
+          "word": "δὲ",
+          "lemma": "δέ",
+          "translit": "de",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle adversative or continuative"],
+          "strongs": "G1161"
+        },
+        {
+          "id": "2-timothy-1-10-173",
+          "surface": "νῦν",
+          "word": "νῦν",
+          "lemma": "νῦν",
+          "translit": "nyn",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary particle of present time"],
+          "strongs": "G3568"
+        },
+        {
+          "id": "2-timothy-1-10-174",
+          "surface": "διὰ",
+          "word": "διὰ",
+          "lemma": "διά",
+          "translit": "dia",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting the channel of an act"],
+          "strongs": "G1223"
+        },
+        {
+          "id": "2-timothy-1-10-175",
+          "surface": "τῆς",
+          "word": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-10-176",
+          "surface": "ἐπιφανείας",
+          "word": "ἐπιφανείας",
+          "lemma": "ἐπιφάνεια",
+          "translit": "epiphaneias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἐπιφανής"],
+          "strongs": "G2015"
+        },
+        {
+          "id": "2-timothy-1-10-177",
+          "surface": "τοῦ",
+          "word": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-10-178",
+          "surface": "σωτῆρος",
+          "word": "σωτῆρος",
+          "lemma": "σωτήρ",
+          "translit": "soteros",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from σώζω"],
+          "strongs": "G4990"
+        },
+        {
+          "id": "2-timothy-1-10-179",
+          "surface": "ἡμῶν",
+          "word": "ἡμῶν",
+          "lemma": "ἐγώ",
+          "translit": "hemon",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-10-180",
+          "surface": "⸂Ἰησοῦ",
+          "word": "Ἰησοῦ",
+          "lemma": "Ἰησοῦς",
+          "translit": "Iesoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of hebrew origin יְהוֹשׁוּעַ"],
+          "strongs": "G2424"
+        },
+        {
+          "id": "2-timothy-1-10-181",
+          "surface": "Χριστοῦ⸃,",
+          "word": "Χριστοῦ",
+          "lemma": "Χριστός",
+          "translit": "Christoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χρίω"],
+          "strongs": "G5547",
+          "punctuationAfter": "⸃,"
+        },
+        {
+          "id": "2-timothy-1-10-182",
+          "surface": "καταργήσαντος",
+          "word": "καταργήσαντος",
+          "lemma": "καταργέω",
+          "translit": "katargesantos",
+          "morph": "Verb, aorist, active, participle, genitive, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from κατά and ἀργέω"],
+          "strongs": "G2673"
+        },
+        {
+          "id": "2-timothy-1-10-183",
+          "surface": "μὲν",
+          "word": "μὲν",
+          "lemma": "μέν",
+          "translit": "men",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G3303"
+        },
+        {
+          "id": "2-timothy-1-10-184",
+          "surface": "τὸν",
+          "word": "τὸν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-10-185",
+          "surface": "θάνατον",
+          "word": "θάνατον",
+          "lemma": "θάνατος",
+          "translit": "thanaton",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from θνήσκω"],
+          "strongs": "G2288"
+        },
+        {
+          "id": "2-timothy-1-10-186",
+          "surface": "φωτίσαντος",
+          "word": "φωτίσαντος",
+          "lemma": "φωτίζω",
+          "translit": "photisantos",
+          "morph": "Verb, aorist, active, participle, genitive, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from φῶς"],
+          "strongs": "G5461"
+        },
+        {
+          "id": "2-timothy-1-10-187",
+          "surface": "δὲ",
+          "word": "δὲ",
+          "lemma": "δέ",
+          "translit": "de",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle adversative or continuative"],
+          "strongs": "G1161"
+        },
+        {
+          "id": "2-timothy-1-10-188",
+          "surface": "ζωὴν",
+          "word": "ζωὴν",
+          "lemma": "ζωή",
+          "translit": "zoen",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ζάω"],
+          "strongs": "G2222"
+        },
+        {
+          "id": "2-timothy-1-10-189",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-10-190",
+          "surface": "ἀφθαρσίαν",
+          "word": "ἀφθαρσίαν",
+          "lemma": "ἀφθαρσία",
+          "translit": "aphtharsian",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἄφθαρτος"],
+          "strongs": "G861"
+        },
+        {
+          "id": "2-timothy-1-10-191",
+          "surface": "διὰ",
+          "word": "διὰ",
+          "lemma": "διά",
+          "translit": "dia",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting the channel of an act"],
+          "strongs": "G1223"
+        },
+        {
+          "id": "2-timothy-1-10-192",
+          "surface": "τοῦ",
+          "word": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-10-193",
+          "surface": "εὐαγγελίου,",
+          "word": "εὐαγγελίου",
+          "lemma": "εὐαγγέλιον",
+          "translit": "eyaggelioy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from the same as εὐαγγελίζω"],
+          "strongs": "G2098",
+          "punctuationAfter": ","
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:11",
+      "englishText": "For this, I was appointed as a preacher, an apostle, and a teacher of the Gentiles.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-11-194",
+          "surface": "εἰς",
+          "word": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "2-timothy-1-11-195",
+          "surface": "ὃ",
+          "word": "ὃ",
+          "lemma": "ὅς",
+          "translit": "ho",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "2-timothy-1-11-196",
+          "surface": "ἐτέθην",
+          "word": "ἐτέθην",
+          "lemma": "τίθημι",
+          "translit": "etethen",
+          "morph": "Verb, 1st person, aorist, passive, indicative",
+          "pos": "Verb",
+          "glosses": [
+            "a prolonged form of a primary               which is used only as alternate in                               certain tenses"
+          ],
+          "strongs": "G5087"
+        },
+        {
+          "id": "2-timothy-1-11-197",
+          "surface": "ἐγὼ",
+          "word": "ἐγὼ",
+          "lemma": "ἐγώ",
+          "translit": "ego",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-11-198",
+          "surface": "κῆρυξ",
+          "word": "κῆρυξ",
+          "lemma": "κῆρυξ",
+          "translit": "keryx",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from κηρύσσω"],
+          "strongs": "G2783"
+        },
+        {
+          "id": "2-timothy-1-11-199",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-11-200",
+          "surface": "ἀπόστολος",
+          "word": "ἀπόστολος",
+          "lemma": "ἀπόστολος",
+          "translit": "apostolos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀποστέλλω"],
+          "strongs": "G652"
+        },
+        {
+          "id": "2-timothy-1-11-201",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-11-202",
+          "surface": "⸀διδάσκαλος.",
+          "word": "διδάσκαλος",
+          "lemma": "διδάσκαλος",
+          "translit": "didaskalos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from διδάσκω"],
+          "strongs": "G1320",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:12",
+      "englishText": "For this cause I also suffer these things.   Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-12-203",
+          "surface": "δι’",
+          "word": "δι’",
+          "lemma": "διά",
+          "translit": "di’",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting the channel of an act"],
+          "strongs": "G1223"
+        },
+        {
+          "id": "2-timothy-1-12-204",
+          "surface": "ἣν",
+          "word": "ἣν",
+          "lemma": "ὅς",
+          "translit": "hen",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "2-timothy-1-12-205",
+          "surface": "αἰτίαν",
+          "word": "αἰτίαν",
+          "lemma": "αἰτία",
+          "translit": "aitian",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from the same as αἰτέω"],
+          "strongs": "G156"
+        },
+        {
+          "id": "2-timothy-1-12-206",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-12-207",
+          "surface": "ταῦτα",
+          "word": "ταῦτα",
+          "lemma": "οὗτος",
+          "translit": "tayta",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from the article ὁ and αὐτός"],
+          "strongs": "G3778"
+        },
+        {
+          "id": "2-timothy-1-12-208",
+          "surface": "πάσχω,",
+          "word": "πάσχω",
+          "lemma": "πάσχω",
+          "translit": "pascho",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["apparently a primary verb"],
+          "strongs": "G3958",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-12-209",
+          "surface": "ἀλλ’",
+          "word": "ἀλλ’",
+          "lemma": "ἀλλά",
+          "translit": "all’",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter plural of ἄλλος"],
+          "strongs": "G235"
+        },
+        {
+          "id": "2-timothy-1-12-210",
+          "surface": "οὐκ",
+          "word": "οὐκ",
+          "lemma": "οὐ",
+          "translit": "oyk",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "2-timothy-1-12-211",
+          "surface": "ἐπαισχύνομαι,",
+          "word": "ἐπαισχύνομαι",
+          "lemma": "ἐπαισχύνομαι",
+          "translit": "epaischynomai",
+          "morph": "Verb, 1st person, present, middle, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἐπί and αἰσχύνομαι"],
+          "strongs": "G1870",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-12-212",
+          "surface": "οἶδα",
+          "word": "οἶδα",
+          "lemma": "οἶδα",
+          "translit": "oida",
+          "morph": "Verb, 1st person, perfect, active, indicative",
+          "pos": "Verb",
+          "glosses": ["οἶδα"]
+        },
+        {
+          "id": "2-timothy-1-12-213",
+          "surface": "γὰρ",
+          "word": "γὰρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "2-timothy-1-12-214",
+          "surface": "ᾧ",
+          "word": "ᾧ",
+          "lemma": "ὅς",
+          "translit": "ho",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "2-timothy-1-12-215",
+          "surface": "πεπίστευκα,",
+          "word": "πεπίστευκα",
+          "lemma": "πιστεύω",
+          "translit": "pepisteyka",
+          "morph": "Verb, 1st person, perfect, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from πίστις"],
+          "strongs": "G4100",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-12-216",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-12-217",
+          "surface": "πέπεισμαι",
+          "word": "πέπεισμαι",
+          "lemma": "πείθω",
+          "translit": "pepeismai",
+          "morph": "Verb, 1st person, perfect, passive, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G3982"
+        },
+        {
+          "id": "2-timothy-1-12-218",
+          "surface": "ὅτι",
+          "word": "ὅτι",
+          "lemma": "ὅτι",
+          "translit": "hoti",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter of ὅστις as conjunction"],
+          "strongs": "G3754"
+        },
+        {
+          "id": "2-timothy-1-12-219",
+          "surface": "δυνατός",
+          "word": "δυνατός",
+          "lemma": "δυνατός",
+          "translit": "dynatos",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from δύναμαι"],
+          "strongs": "G1415"
+        },
+        {
+          "id": "2-timothy-1-12-220",
+          "surface": "ἐστιν",
+          "word": "ἐστιν",
+          "lemma": "εἰμί",
+          "translit": "estin",
+          "morph": "Verb, 3rd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["the first person singular present indicative"],
+          "strongs": "G1510"
+        },
+        {
+          "id": "2-timothy-1-12-221",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-12-222",
+          "surface": "παραθήκην",
+          "word": "παραθήκην",
+          "lemma": "παραθήκη",
+          "translit": "paratheken",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from παρατίθημι"],
+          "strongs": "G3866"
+        },
+        {
+          "id": "2-timothy-1-12-223",
+          "surface": "μου",
+          "word": "μου",
+          "lemma": "ἐγώ",
+          "translit": "moy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-12-224",
+          "surface": "φυλάξαι",
+          "word": "φυλάξαι",
+          "lemma": "φυλάσσω",
+          "translit": "phylaxai",
+          "morph": "Verb, aorist, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["probably from φυλή through the idea of isolation"],
+          "strongs": "G5442"
+        },
+        {
+          "id": "2-timothy-1-12-225",
+          "surface": "εἰς",
+          "word": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "2-timothy-1-12-226",
+          "surface": "ἐκείνην",
+          "word": "ἐκείνην",
+          "lemma": "ἐκεῖνος",
+          "translit": "ekeinen",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from ἐκεῖ"],
+          "strongs": "G1565"
+        },
+        {
+          "id": "2-timothy-1-12-227",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-12-228",
+          "surface": "ἡμέραν.",
+          "word": "ἡμέραν",
+          "lemma": "ἡμέρα",
+          "translit": "hemeran",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["feminine with ὥρα implied of a derivative of  to sit"],
+          "strongs": "G2250",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:13",
+      "englishText": "Hold the pattern of sound words which you have heard from me, in faith and love which is in Christ Jesus.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-13-229",
+          "surface": "ὑποτύπωσιν",
+          "word": "ὑποτύπωσιν",
+          "lemma": "ὑποτύπωσις",
+          "translit": "hypotyposin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a compound of ὑπό and a derivative of τύπος"],
+          "strongs": "G5296"
+        },
+        {
+          "id": "2-timothy-1-13-230",
+          "surface": "ἔχε",
+          "word": "ἔχε",
+          "lemma": "ἔχω",
+          "translit": "eche",
+          "morph": "Verb, 2nd person, present, active, imperative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G2192"
+        },
+        {
+          "id": "2-timothy-1-13-231",
+          "surface": "ὑγιαινόντων",
+          "word": "ὑγιαινόντων",
+          "lemma": "ὑγιαίνω",
+          "translit": "hygiainonton",
+          "morph": "Verb, present, active, participle, genitive, plural, masculine",
+          "pos": "Verb",
+          "glosses": ["from ὑγιής"],
+          "strongs": "G5198"
+        },
+        {
+          "id": "2-timothy-1-13-232",
+          "surface": "λόγων",
+          "word": "λόγων",
+          "lemma": "λόγος",
+          "translit": "logon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from λέγω"],
+          "strongs": "G3056"
+        },
+        {
+          "id": "2-timothy-1-13-233",
+          "surface": "ὧν",
+          "word": "ὧν",
+          "lemma": "ὅς",
+          "translit": "hon",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "2-timothy-1-13-234",
+          "surface": "παρ’",
+          "word": "παρ’",
+          "lemma": "παρά",
+          "translit": "par’",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G3844"
+        },
+        {
+          "id": "2-timothy-1-13-235",
+          "surface": "ἐμοῦ",
+          "word": "ἐμοῦ",
+          "lemma": "ἐγώ",
+          "translit": "emoy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-13-236",
+          "surface": "ἤκουσας",
+          "word": "ἤκουσας",
+          "lemma": "ἀκούω",
+          "translit": "ekoysas",
+          "morph": "Verb, 2nd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G191"
+        },
+        {
+          "id": "2-timothy-1-13-237",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-13-238",
+          "surface": "πίστει",
+          "word": "πίστει",
+          "lemma": "πίστις",
+          "translit": "pistei",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from πείθω"],
+          "strongs": "G4102"
+        },
+        {
+          "id": "2-timothy-1-13-239",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-13-240",
+          "surface": "ἀγάπῃ",
+          "word": "ἀγάπῃ",
+          "lemma": "ἀγάπη",
+          "translit": "agape",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀγαπάω"],
+          "strongs": "G26"
+        },
+        {
+          "id": "2-timothy-1-13-241",
+          "surface": "τῇ",
+          "word": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-13-242",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-13-243",
+          "surface": "Χριστῷ",
+          "word": "Χριστῷ",
+          "lemma": "Χριστός",
+          "translit": "Christo",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χρίω"],
+          "strongs": "G5547"
+        },
+        {
+          "id": "2-timothy-1-13-244",
+          "surface": "Ἰησοῦ·",
+          "word": "Ἰησοῦ",
+          "lemma": "Ἰησοῦς",
+          "translit": "Iesoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of hebrew origin יְהוֹשׁוּעַ"],
+          "strongs": "G2424",
+          "punctuationAfter": "·"
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:14",
+      "englishText": "That good thing which was committed to you, guard through the Holy Spirit who dwells in us.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-14-245",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-14-246",
+          "surface": "καλὴν",
+          "word": "καλὴν",
+          "lemma": "καλός",
+          "translit": "kalen",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2570"
+        },
+        {
+          "id": "2-timothy-1-14-247",
+          "surface": "παραθήκην",
+          "word": "παραθήκην",
+          "lemma": "παραθήκη",
+          "translit": "paratheken",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from παρατίθημι"],
+          "strongs": "G3866"
+        },
+        {
+          "id": "2-timothy-1-14-248",
+          "surface": "φύλαξον",
+          "word": "φύλαξον",
+          "lemma": "φυλάσσω",
+          "translit": "phylaxon",
+          "morph": "Verb, 2nd person, aorist, active, imperative",
+          "pos": "Verb",
+          "glosses": ["probably from φυλή through the idea of isolation"],
+          "strongs": "G5442"
+        },
+        {
+          "id": "2-timothy-1-14-249",
+          "surface": "διὰ",
+          "word": "διὰ",
+          "lemma": "διά",
+          "translit": "dia",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting the channel of an act"],
+          "strongs": "G1223"
+        },
+        {
+          "id": "2-timothy-1-14-250",
+          "surface": "πνεύματος",
+          "word": "πνεύματος",
+          "lemma": "πνεῦμα",
+          "translit": "pneymatos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from πνέω"],
+          "strongs": "G4151"
+        },
+        {
+          "id": "2-timothy-1-14-251",
+          "surface": "ἁγίου",
+          "word": "ἁγίου",
+          "lemma": "ἅγιος",
+          "translit": "hagioy",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from  an awful thing compare ἁγνός"],
+          "strongs": "G40"
+        },
+        {
+          "id": "2-timothy-1-14-252",
+          "surface": "τοῦ",
+          "word": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-14-253",
+          "surface": "ἐνοικοῦντος",
+          "word": "ἐνοικοῦντος",
+          "lemma": "ἐνοικέω",
+          "translit": "enoikoyntos",
+          "morph": "Verb, present, active, participle, genitive, singular, neuter",
+          "pos": "Verb",
+          "glosses": ["from ἐν and οἰκέω"],
+          "strongs": "G1774"
+        },
+        {
+          "id": "2-timothy-1-14-254",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-14-255",
+          "surface": "ἡμῖν.",
+          "word": "ἡμῖν",
+          "lemma": "ἐγώ",
+          "translit": "hemin",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:15",
+      "englishText": "This you know, that all who are in Asia turned away from me; of whom are Phygelus and Hermogenes.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-15-256",
+          "surface": "Οἶδας",
+          "word": "Οἶδας",
+          "lemma": "οἶδα",
+          "translit": "Oidas",
+          "morph": "Verb, 2nd person, perfect, active, indicative",
+          "pos": "Verb",
+          "glosses": ["οἶδα"]
+        },
+        {
+          "id": "2-timothy-1-15-257",
+          "surface": "τοῦτο",
+          "word": "τοῦτο",
+          "lemma": "οὗτος",
+          "translit": "toyto",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from the article ὁ and αὐτός"],
+          "strongs": "G3778"
+        },
+        {
+          "id": "2-timothy-1-15-258",
+          "surface": "ὅτι",
+          "word": "ὅτι",
+          "lemma": "ὅτι",
+          "translit": "hoti",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["neuter of ὅστις as conjunction"],
+          "strongs": "G3754"
+        },
+        {
+          "id": "2-timothy-1-15-259",
+          "surface": "ἀπεστράφησάν",
+          "word": "ἀπεστράφησάν",
+          "lemma": "ἀποστρέφω",
+          "translit": "apestraphesan",
+          "morph": "Verb, 3rd person, aorist, passive, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἀπό and στρέφω"],
+          "strongs": "G654"
+        },
+        {
+          "id": "2-timothy-1-15-260",
+          "surface": "με",
+          "word": "με",
+          "lemma": "ἐγώ",
+          "translit": "me",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-15-261",
+          "surface": "πάντες",
+          "word": "πάντες",
+          "lemma": "πᾶς",
+          "translit": "pantes",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["including all the forms of declension"],
+          "strongs": "G3956"
+        },
+        {
+          "id": "2-timothy-1-15-262",
+          "surface": "οἱ",
+          "word": "οἱ",
+          "lemma": "ὁ",
+          "translit": "hoi",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-15-263",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-15-264",
+          "surface": "τῇ",
+          "word": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-15-265",
+          "surface": "Ἀσίᾳ,",
+          "word": "Ἀσίᾳ",
+          "lemma": "Ἀσία",
+          "translit": "Asia",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain derivation"],
+          "strongs": "G773",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-15-266",
+          "surface": "ὧν",
+          "word": "ὧν",
+          "lemma": "ὅς",
+          "translit": "hon",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "2-timothy-1-15-267",
+          "surface": "ἐστιν",
+          "word": "ἐστιν",
+          "lemma": "εἰμί",
+          "translit": "estin",
+          "morph": "Verb, 3rd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["the first person singular present indicative"],
+          "strongs": "G1510"
+        },
+        {
+          "id": "2-timothy-1-15-268",
+          "surface": "Φύγελος",
+          "word": "Φύγελος",
+          "lemma": "Φύγελος",
+          "translit": "Phygelos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["φύγελος"]
+        },
+        {
+          "id": "2-timothy-1-15-269",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-15-270",
+          "surface": "Ἑρμογένης.",
+          "word": "Ἑρμογένης",
+          "lemma": "Ἑρμογένης",
+          "translit": "Hermogenes",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἑρμῆς and γίνομαι"],
+          "strongs": "G2061",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:16",
+      "englishText": "May the Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain,",
+      "tokens": [
+        {
+          "id": "2-timothy-1-16-271",
+          "surface": "δῴη",
+          "word": "δῴη",
+          "lemma": "δίδωμι",
+          "translit": "doe",
+          "morph": "Verb, 3rd person, aorist, active, optative",
+          "pos": "Verb",
+          "glosses": [
+            "a prolonged form of a primary verb which is used as an alternative in most of the tenses"
+          ],
+          "strongs": "G1325"
+        },
+        {
+          "id": "2-timothy-1-16-272",
+          "surface": "ἔλεος",
+          "word": "ἔλεος",
+          "lemma": "ἔλεος",
+          "translit": "eleos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G1656"
+        },
+        {
+          "id": "2-timothy-1-16-273",
+          "surface": "ὁ",
+          "word": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-16-274",
+          "surface": "κύριος",
+          "word": "κύριος",
+          "lemma": "κύριος",
+          "translit": "kyrios",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from  supremacy"],
+          "strongs": "G2962"
+        },
+        {
+          "id": "2-timothy-1-16-275",
+          "surface": "τῷ",
+          "word": "τῷ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-16-276",
+          "surface": "Ὀνησιφόρου",
+          "word": "Ὀνησιφόρου",
+          "lemma": "Ὀνησίφορος",
+          "translit": "Onesiphoroy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a derivative of ὀνίνημι and φόρος"],
+          "strongs": "G3683"
+        },
+        {
+          "id": "2-timothy-1-16-277",
+          "surface": "οἴκῳ,",
+          "word": "οἴκῳ",
+          "lemma": "οἶκος",
+          "translit": "oiko",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G3624",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-16-278",
+          "surface": "ὅτι",
+          "word": "ὅτι",
+          "lemma": "ὅτι",
+          "translit": "hoti",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter of ὅστις as conjunction"],
+          "strongs": "G3754"
+        },
+        {
+          "id": "2-timothy-1-16-279",
+          "surface": "πολλάκις",
+          "word": "πολλάκις",
+          "lemma": "πολλάκις",
+          "translit": "pollakis",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["multiplicative adverb from πολύς"],
+          "strongs": "G4178"
+        },
+        {
+          "id": "2-timothy-1-16-280",
+          "surface": "με",
+          "word": "με",
+          "lemma": "ἐγώ",
+          "translit": "me",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-16-281",
+          "surface": "ἀνέψυξεν,",
+          "word": "ἀνέψυξεν",
+          "lemma": "ἀναψύχω",
+          "translit": "anepsyxen",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἀνά and ψύχω"],
+          "strongs": "G404",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-16-282",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-16-283",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-16-284",
+          "surface": "ἅλυσίν",
+          "word": "ἅλυσίν",
+          "lemma": "ἅλυσις",
+          "translit": "halysin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain derivation"],
+          "strongs": "G254"
+        },
+        {
+          "id": "2-timothy-1-16-285",
+          "surface": "μου",
+          "word": "μου",
+          "lemma": "ἐγώ",
+          "translit": "moy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-16-286",
+          "surface": "οὐκ",
+          "word": "οὐκ",
+          "lemma": "οὐ",
+          "translit": "oyk",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "2-timothy-1-16-287",
+          "surface": "ἐπαισχύνθη·",
+          "word": "ἐπαισχύνθη",
+          "lemma": "ἐπαισχύνομαι",
+          "translit": "epaischynthe",
+          "morph": "Verb, 3rd person, aorist, passive, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἐπί and αἰσχύνομαι"],
+          "strongs": "G1870",
+          "punctuationAfter": "·"
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:17",
+      "englishText": "but when he was in Rome, he sought me diligently, and found me",
+      "tokens": [
+        {
+          "id": "2-timothy-1-17-288",
+          "surface": "ἀλλὰ",
+          "word": "ἀλλὰ",
+          "lemma": "ἀλλά",
+          "translit": "alla",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter plural of ἄλλος"],
+          "strongs": "G235"
+        },
+        {
+          "id": "2-timothy-1-17-289",
+          "surface": "γενόμενος",
+          "word": "γενόμενος",
+          "lemma": "γίνομαι",
+          "translit": "genomenos",
+          "morph": "Verb, aorist, middle, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["a prolongation and middle voice form of a primary verb"],
+          "strongs": "G1096"
+        },
+        {
+          "id": "2-timothy-1-17-290",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-17-291",
+          "surface": "Ῥώμῃ",
+          "word": "Ῥώμῃ",
+          "lemma": "Ῥώμη",
+          "translit": "Hrome",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from the base of ῥώννυμι"],
+          "strongs": "G4516"
+        },
+        {
+          "id": "2-timothy-1-17-292",
+          "surface": "⸀σπουδαίως",
+          "word": "σπουδαίως",
+          "lemma": "σπουδαίως",
+          "translit": "spoydaios",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["adverb from σπουδαῖος"],
+          "strongs": "G4709"
+        },
+        {
+          "id": "2-timothy-1-17-293",
+          "surface": "ἐζήτησέν",
+          "word": "ἐζήτησέν",
+          "lemma": "ζητέω",
+          "translit": "ezetesen",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2212"
+        },
+        {
+          "id": "2-timothy-1-17-294",
+          "surface": "με",
+          "word": "με",
+          "lemma": "ἐγώ",
+          "translit": "me",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "2-timothy-1-17-295",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-17-296",
+          "surface": "εὗρεν—",
+          "word": "εὗρεν",
+          "lemma": "εὑρίσκω",
+          "translit": "heyren",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of a primary"],
+          "strongs": "G2147",
+          "punctuationAfter": "—"
+        }
+      ]
+    },
+    {
+      "ref": "2 Timothy 1:18",
+      "englishText": "(the Lord grant to him to find the Lord’s mercy in that day); and in how many things he served at Ephesus, you know very well.",
+      "tokens": [
+        {
+          "id": "2-timothy-1-18-297",
+          "surface": "δῴη",
+          "word": "δῴη",
+          "lemma": "δίδωμι",
+          "translit": "doe",
+          "morph": "Verb, 3rd person, aorist, active, optative",
+          "pos": "Verb",
+          "glosses": [
+            "a prolonged form of a primary verb which is used as an alternative in most of the tenses"
+          ],
+          "strongs": "G1325"
+        },
+        {
+          "id": "2-timothy-1-18-298",
+          "surface": "αὐτῷ",
+          "word": "αὐτῷ",
+          "lemma": "αὐτός",
+          "translit": "ayto",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "2-timothy-1-18-299",
+          "surface": "ὁ",
+          "word": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-18-300",
+          "surface": "κύριος",
+          "word": "κύριος",
+          "lemma": "κύριος",
+          "translit": "kyrios",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from  supremacy"],
+          "strongs": "G2962"
+        },
+        {
+          "id": "2-timothy-1-18-301",
+          "surface": "εὑρεῖν",
+          "word": "εὑρεῖν",
+          "lemma": "εὑρίσκω",
+          "translit": "heyrein",
+          "morph": "Verb, aorist, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of a primary"],
+          "strongs": "G2147"
+        },
+        {
+          "id": "2-timothy-1-18-302",
+          "surface": "ἔλεος",
+          "word": "ἔλεος",
+          "lemma": "ἔλεος",
+          "translit": "eleos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G1656"
+        },
+        {
+          "id": "2-timothy-1-18-303",
+          "surface": "παρὰ",
+          "word": "παρὰ",
+          "lemma": "παρά",
+          "translit": "para",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G3844"
+        },
+        {
+          "id": "2-timothy-1-18-304",
+          "surface": "κυρίου",
+          "word": "κυρίου",
+          "lemma": "κύριος",
+          "translit": "kyrioy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from  supremacy"],
+          "strongs": "G2962"
+        },
+        {
+          "id": "2-timothy-1-18-305",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-18-306",
+          "surface": "ἐκείνῃ",
+          "word": "ἐκείνῃ",
+          "lemma": "ἐκεῖνος",
+          "translit": "ekeine",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from ἐκεῖ"],
+          "strongs": "G1565"
+        },
+        {
+          "id": "2-timothy-1-18-307",
+          "surface": "τῇ",
+          "word": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "2-timothy-1-18-308",
+          "surface": "ἡμέρᾳ—",
+          "word": "ἡμέρᾳ",
+          "lemma": "ἡμέρα",
+          "translit": "hemera",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["feminine with ὥρα implied of a derivative of  to sit"],
+          "strongs": "G2250",
+          "punctuationAfter": "—"
+        },
+        {
+          "id": "2-timothy-1-18-309",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "2-timothy-1-18-310",
+          "surface": "ὅσα",
+          "word": "ὅσα",
+          "lemma": "ὅσος",
+          "translit": "hosa",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["by reduplication from ὅς"],
+          "strongs": "G3745"
+        },
+        {
+          "id": "2-timothy-1-18-311",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "2-timothy-1-18-312",
+          "surface": "Ἐφέσῳ",
+          "word": "Ἐφέσῳ",
+          "lemma": "Ἔφεσος",
+          "translit": "Epheso",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["probably of foreign origin"],
+          "strongs": "G2181"
+        },
+        {
+          "id": "2-timothy-1-18-313",
+          "surface": "διηκόνησεν,",
+          "word": "διηκόνησεν",
+          "lemma": "διακονέω",
+          "translit": "diekonesen",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from διάκονος"],
+          "strongs": "G1247",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "2-timothy-1-18-314",
+          "surface": "βέλτιον",
+          "word": "βέλτιον",
+          "lemma": "βέλτιον",
+          "translit": "beltion",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["βέλτιον"]
+        },
+        {
+          "id": "2-timothy-1-18-315",
+          "surface": "σὺ",
+          "word": "σὺ",
+          "lemma": "σύ",
+          "translit": "sy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "2-timothy-1-18-316",
+          "surface": "γινώσκεις.",
+          "word": "γινώσκεις",
+          "lemma": "γινώσκω",
+          "translit": "ginoskeis",
+          "morph": "Verb, 2nd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of a primary verb"],
+          "strongs": "G1097",
+          "punctuationAfter": "."
+        }
+      ]
+    }
+  ],
+  "language": "greek"
+}

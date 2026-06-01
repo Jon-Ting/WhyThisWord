@@ -1,1 +1,2592 @@
-{"id":"joel-4","name":"Joel","chapter":4,"verses":[{"ref":"Joel 4:1","englishText":"[English translation missing]","tokens":[{"id":"joel-4-1-0","surface":"כִּ֗י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"joel-4-1-1","surface":"הִנֵּ֛ה","lemma":"הִנֵּה","translit":"hineh","morph":"Particle masculine","glosses":[],"strongs":"H2009"},{"id":"joel-4-1-2","surface":"בַּיָּמִ֥ים","lemma":"יוֹם","translit":"bayamiym","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3117"},{"id":"joel-4-1-3","surface":"הָהֵ֖מָּה","lemma":"הֵם","translit":"hahemah","morph":"Particle dual + Pronoun dual masculine plural","glosses":[],"strongs":"H1992"},{"id":"joel-4-1-4","surface":"וּבָעֵ֣ת","lemma":"עֵת","translit":"vba`et","morph":"Conjunction + Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H6256"},{"id":"joel-4-1-5","surface":"הַהִ֑יא","lemma":"הוּא","translit":"hahiy'","morph":"Particle dual + Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"joel-4-1-6","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"joel-4-1-7","surface":"אשוב","lemma":"שׁוּב","translit":"'shvb","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H7725"},{"id":"joel-4-1-8","surface":"אָשִׁ֛יב","lemma":"שׁוּב","translit":"'ashiyb","morph":"Verb Hiphil Imperative 1st common singular","glosses":[],"strongs":"H7725"},{"id":"joel-4-1-9","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"joel-4-1-10","surface":"שְׁב֥וּת","lemma":"שְׁבוּת","translit":"shebvt","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H7622"},{"id":"joel-4-1-11","surface":"יְהוּדָ֖ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"joel-4-1-12","surface":"וִירוּשָׁלִָֽם","lemma":"יְרוּשָׁלַ͏ִם","translit":"viyrvshalaim","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3389"}],"language":"hebrew"},{"ref":"Joel 4:2","englishText":"[English translation missing]","tokens":[{"id":"joel-4-2-0","surface":"וְקִבַּצְתִּי֙","lemma":"קָבַץ","translit":"veqibatsetiy","morph":"Conjunction + Verb Piel Perfect 1st common singular","glosses":[],"strongs":"H6908"},{"id":"joel-4-2-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"joel-4-2-2","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"joel-4-2-3","surface":"הַגּוֹיִ֔ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"joel-4-2-4","surface":"וְה֣וֹרַדְתִּ֔ים","lemma":"יָרַד","translit":"vehvoradetiym","morph":"Conjunction + Verb Hiphil Participle 1st common singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H3381"},{"id":"joel-4-2-5","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"joel-4-2-6","surface":"עֵ֖מֶק","lemma":"עֵמֶק","translit":"`emeq","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H6010"},{"id":"joel-4-2-7","surface":"יְהֽוֹשָׁפָ֑ט","lemma":"יְהוֹשָׁפָט","translit":"yehvoshapat","morph":"Noun proper","glosses":[],"strongs":"H3092"},{"id":"joel-4-2-8","surface":"וְנִשְׁפַּטְתִּ֨י","lemma":"שָׁפַט","translit":"venishepatetiy","morph":"Conjunction + Verb Niphal Participle 1st common singular","glosses":[],"strongs":"H8199"},{"id":"joel-4-2-9","surface":"עִמָּ֜ם","lemma":"עִם","translit":"`imam","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H5973"},{"id":"joel-4-2-10","surface":"שָׁ֗ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"joel-4-2-11","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"joel-4-2-12","surface":"עַמִּ֨י","lemma":"עַם","translit":"`amiy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5971"},{"id":"joel-4-2-13","surface":"וְנַחֲלָתִ֤י","lemma":"נַחֲלָה","translit":"venachlatiy","morph":"Conjunction + Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5159"},{"id":"joel-4-2-14","surface":"יִשְׂרָאֵל֙","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"joel-4-2-15","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"joel-4-2-16","surface":"פִּזְּר֣וּ","lemma":"פָּזַר","translit":"pizerv","morph":"Verb Piel Participle 3rd common plural","glosses":[],"strongs":"H6340"},{"id":"joel-4-2-17","surface":"בַגּוֹיִ֔ם","lemma":"גּוֹי","translit":"bagvoyim","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"joel-4-2-18","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"joel-4-2-19","surface":"אַרְצִ֖י","lemma":"אֶרֶץ","translit":"'aretsiy","morph":"Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H776"},{"id":"joel-4-2-20","surface":"חִלֵּֽקוּ","lemma":"חָלַק","translit":"chileqv","morph":"Verb Piel Participle 3rd common plural","glosses":[],"strongs":"H2505"}],"language":"hebrew"},{"ref":"Joel 4:3","englishText":"[English translation missing]","tokens":[{"id":"joel-4-3-0","surface":"וְאֶל","lemma":"אֵל","translit":"ve'el","morph":"Conjunction + Preposition","glosses":[],"strongs":"H413"},{"id":"joel-4-3-1","surface":"עַמִּ֖י","lemma":"עַם","translit":"`amiy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5971"},{"id":"joel-4-3-2","surface":"יַדּ֣וּ","lemma":"יָדַד","translit":"yadv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H3032"},{"id":"joel-4-3-3","surface":"גוֹרָ֑ל","lemma":"גּוֹרָל","translit":"gvoral","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1486"},{"id":"joel-4-3-4","surface":"וַיִּתְּנ֤וּ","lemma":"נָתַן","translit":"vayitenv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H5414"},{"id":"joel-4-3-5","surface":"הַיֶּ֨לֶד֙","lemma":"יֶלֶד","translit":"hayeled","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3206"},{"id":"joel-4-3-6","surface":"בַּזּוֹנָ֔ה","lemma":"זָנָה","translit":"bazvonah","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H2181"},{"id":"joel-4-3-7","surface":"וְהַיַּלְדָּ֛ה","lemma":"יַלְדָּה","translit":"vehayaledah","morph":"Conjunction + Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H3207"},{"id":"joel-4-3-8","surface":"מָכְר֥וּ","lemma":"מָכַר","translit":"makerv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H4376"},{"id":"joel-4-3-9","surface":"בַיַּ֖יִן","lemma":"יַיִן","translit":"bayayin","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3196"},{"id":"joel-4-3-10","surface":"וַיִּשְׁתּֽוּ","lemma":"שָׁתָה","translit":"vayishetv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H8354"}],"language":"hebrew"},{"ref":"Joel 4:4","englishText":"[English translation missing]","tokens":[{"id":"joel-4-4-0","surface":"וְ֠גַם","lemma":"גַּם","translit":"vegam","morph":"Conjunction + Particle absolute","glosses":[],"strongs":"H1571"},{"id":"joel-4-4-1","surface":"מָה","lemma":"מָה","translit":"mah","morph":"Particle","glosses":[],"strongs":"H4100"},{"id":"joel-4-4-2","surface":"אַתֶּ֥ם","lemma":"אַתָּה","translit":"'atem","morph":"Pronoun plural 2nd masculine","glosses":[],"strongs":"H859"},{"id":"joel-4-4-3","surface":"לִי֙","lemma":"לִי֙","translit":"liy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]},{"id":"joel-4-4-4","surface":"צֹ֣ר","lemma":"צֹר","translit":"tsor","morph":"Noun proper","glosses":[],"strongs":"H6865"},{"id":"joel-4-4-5","surface":"וְצִיד֔וֹן","lemma":"צִידוֹן","translit":"vetsiydvon","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H6721"},{"id":"joel-4-4-6","surface":"וְכֹ֖ל","lemma":"כֹּל","translit":"vekol","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"joel-4-4-7","surface":"גְּלִיל֣וֹת","lemma":"גְלִילָה","translit":"geliylvot","morph":"Noun common feminine plural construct","glosses":[],"strongs":"H1552"},{"id":"joel-4-4-8","surface":"פְּלָ֑שֶׁת","lemma":"פְּלֶשֶׁת","translit":"pelashet","morph":"Noun proper","glosses":[],"strongs":"H6429"},{"id":"joel-4-4-9","surface":"הַגְּמ֗וּל","lemma":"גְּמוּל","translit":"hagemvl","morph":"Particle + Noun common masculine singular absolute","glosses":[],"strongs":"H1576"},{"id":"joel-4-4-10","surface":"אַתֶּם֙","lemma":"אַתָּה","translit":"'atem","morph":"Pronoun plural 2nd masculine","glosses":[],"strongs":"H859"},{"id":"joel-4-4-11","surface":"מְשַׁלְּמִ֣ים","lemma":"שָׁלַם","translit":"meshalemiym","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H7999"},{"id":"joel-4-4-12","surface":"עָלָ֔י","lemma":"עַל","translit":"`alay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H5921"},{"id":"joel-4-4-13","surface":"וְאִם","lemma":"אִם","translit":"ve'im","morph":"Conjunction + Conjunction","glosses":[],"strongs":"H518"},{"id":"joel-4-4-14","surface":"גֹּמְלִ֤ים","lemma":"גָּמַל","translit":"gomeliym","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H1580"},{"id":"joel-4-4-15","surface":"אַתֶּם֙","lemma":"אַתָּה","translit":"'atem","morph":"Pronoun plural 2nd masculine","glosses":[],"strongs":"H859"},{"id":"joel-4-4-16","surface":"עָלַ֔י","lemma":"עַל","translit":"`alay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H5921"},{"id":"joel-4-4-17","surface":"קַ֣ל","lemma":"קַל","translit":"qal","morph":"Adjective","glosses":[],"strongs":"H7031"},{"id":"joel-4-4-18","surface":"מְהֵרָ֔ה","lemma":"מְהֵרָה","translit":"meherah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H4120"},{"id":"joel-4-4-19","surface":"אָשִׁ֥יב","lemma":"שׁוּב","translit":"'ashiyb","morph":"Verb Hiphil Imperative 1st common singular","glosses":[],"strongs":"H7725"},{"id":"joel-4-4-20","surface":"גְּמֻלְכֶ֖ם","lemma":"גְּמוּל","translit":"gemulekem","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H1576"},{"id":"joel-4-4-21","surface":"בְּרֹאשְׁכֶֽם","lemma":"רֹאשׁ","translit":"bero'shekem","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H7218"}],"language":"hebrew"},{"ref":"Joel 4:5","englishText":"[English translation missing]","tokens":[{"id":"joel-4-5-0","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"joel-4-5-1","surface":"כַּסְפִּ֥י","lemma":"כֶּסֶף","translit":"kasepiy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H3701"},{"id":"joel-4-5-2","surface":"וּזְהָבִ֖י","lemma":"זָהָב","translit":"vzehabiy","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H2091"},{"id":"joel-4-5-3","surface":"לְקַחְתֶּ֑ם","lemma":"לָקַח","translit":"leqachetem","morph":"Verb Qal Participle 2nd masculine plural","glosses":[],"strongs":"H3947"},{"id":"joel-4-5-4","surface":"וּמַֽחֲמַדַּי֙","lemma":"מַחְמָד","translit":"vmachmaday","morph":"Conjunction + Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H4261"},{"id":"joel-4-5-5","surface":"הַטֹּבִ֔ים","lemma":"טוֹב","translit":"hatobiym","morph":"Particle dual + Adjective","glosses":[],"strongs":"H2896"},{"id":"joel-4-5-6","surface":"הֲבֵאתֶ֖ם","lemma":"בּוֹא","translit":"hbe'tem","morph":"Verb Hiphil Participle 2nd masculine plural","glosses":[],"strongs":"H935"},{"id":"joel-4-5-7","surface":"לְהֵיכְלֵיכֶֽם","lemma":"הֵיכָל","translit":"leheykeleykem","morph":"Preposition + Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H1964"}],"language":"hebrew"},{"ref":"Joel 4:6","englishText":"[English translation missing]","tokens":[{"id":"joel-4-6-0","surface":"וּבְנֵ֤י","lemma":"בֵּן","translit":"vbeney","morph":"Conjunction + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"joel-4-6-1","surface":"יְהוּדָה֙","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"joel-4-6-2","surface":"וּבְנֵ֣י","lemma":"בֵּן","translit":"vbeney","morph":"Conjunction + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"joel-4-6-3","surface":"יְרוּשָׁלִַ֔ם","lemma":"יְרוּשָׁלַ͏ִם","translit":"yervshalaim","morph":"Noun proper","glosses":[],"strongs":"H3389"},{"id":"joel-4-6-4","surface":"מְכַרְתֶּ֖ם","lemma":"מָכַר","translit":"mekaretem","morph":"Verb Qal Participle 2nd masculine plural","glosses":[],"strongs":"H4376"},{"id":"joel-4-6-5","surface":"לִבְנֵ֣י","lemma":"בֵּן","translit":"libeney","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"joel-4-6-6","surface":"הַיְּוָנִ֑ים","lemma":"יְוָנִי","translit":"hayevaniym","morph":"Particle dual + Noun gentilic masculine plural absolute","glosses":[],"strongs":"H3125"},{"id":"joel-4-6-7","surface":"לְמַ֥עַן","lemma":"מַעַן","translit":"lema`an","morph":"Preposition","glosses":[],"strongs":"H4616"},{"id":"joel-4-6-8","surface":"הַרְחִיקָ֖ם","lemma":"רָחַק","translit":"harechiyqam","morph":"Verb Hiphil Infinitive Construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H7368"},{"id":"joel-4-6-9","surface":"מֵעַ֥ל","lemma":"עַל","translit":"me`al","morph":"Preposition + Preposition","glosses":[],"strongs":"H5921"},{"id":"joel-4-6-10","surface":"גְּבוּלָֽם","lemma":"גְּבוּל","translit":"gebvlam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H1366"}],"language":"hebrew"},{"ref":"Joel 4:7","englishText":"[English translation missing]","tokens":[{"id":"joel-4-7-0","surface":"הִנְנִ֣י","lemma":"הֵן","translit":"hineniy","morph":"Particle masculine + Suffix plural 1st common singular","glosses":[],"strongs":"H2005"},{"id":"joel-4-7-1","surface":"מְעִירָ֔ם","lemma":"עוּר","translit":"me`iyram","morph":"Verb Hiphil Passive Participle + Suffix plural 3rd masculine","glosses":[],"strongs":"H5782"},{"id":"joel-4-7-2","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"joel-4-7-3","surface":"הַ֨מָּק֔וֹם","lemma":"מָקוֹם","translit":"hamaqvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4725"},{"id":"joel-4-7-4","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"joel-4-7-5","surface":"מְכַרְתֶּ֥ם","lemma":"מָכַר","translit":"mekaretem","morph":"Verb Qal Participle 2nd masculine plural","glosses":[],"strongs":"H4376"},{"id":"joel-4-7-6","surface":"אֹתָ֖ם","lemma":"אֵת","translit":"'otam","morph":"Particle + Suffix plural 3rd masculine","glosses":[],"strongs":"H853"},{"id":"joel-4-7-7","surface":"שָׁ֑מָּה","lemma":"שָׁם","translit":"shamah","morph":"Adverb + Suffix dual","glosses":[],"strongs":"H8033"},{"id":"joel-4-7-8","surface":"וַהֲשִׁבֹתִ֥י","lemma":"שׁוּב","translit":"vahshibotiy","morph":"Conjunction + Verb Hiphil Perfect 1st common singular","glosses":[],"strongs":"H7725"},{"id":"joel-4-7-9","surface":"גְמֻלְכֶ֖ם","lemma":"גְּמוּל","translit":"gemulekem","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H1576"},{"id":"joel-4-7-10","surface":"בְּרֹאשְׁכֶֽם","lemma":"רֹאשׁ","translit":"bero'shekem","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H7218"}],"language":"hebrew"},{"ref":"Joel 4:8","englishText":"[English translation missing]","tokens":[{"id":"joel-4-8-0","surface":"וּמָכַרְתִּ֞י","lemma":"מָכַר","translit":"vmakaretiy","morph":"Conjunction + Verb Qal Perfect 1st common singular","glosses":[],"strongs":"H4376"},{"id":"joel-4-8-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"joel-4-8-2","surface":"בְּנֵיכֶ֣ם","lemma":"בֵּן","translit":"beneykem","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H1121"},{"id":"joel-4-8-3","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"joel-4-8-4","surface":"בְּנֽוֹתֵיכֶ֗ם","lemma":"בַּת","translit":"benvoteykem","morph":"Noun common feminine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H1323"},{"id":"joel-4-8-5","surface":"בְּיַד֙","lemma":"יָד","translit":"beyad","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"joel-4-8-6","surface":"בְּנֵ֣י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"joel-4-8-7","surface":"יְהוּדָ֔ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"joel-4-8-8","surface":"וּמְכָר֥וּם","lemma":"מָכַר","translit":"vmekarvm","morph":"Conjunction + Verb Qal Perfect 3rd common plural + Suffix plural 3rd masculine","glosses":[],"strongs":"H4376"},{"id":"joel-4-8-9","surface":"לִשְׁבָאיִ֖ם","lemma":"שְׁבָאִי","translit":"lisheba'yim","morph":"Preposition + Noun gentilic masculine plural absolute","glosses":[],"strongs":"H7615"},{"id":"joel-4-8-10","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"joel-4-8-11","surface":"גּ֣וֹי","lemma":"גּוֹי","translit":"gvoy","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1471"},{"id":"joel-4-8-12","surface":"רָח֑וֹק","lemma":"רָחוֹק","translit":"rachvoq","morph":"Adjective","glosses":[],"strongs":"H7350"},{"id":"joel-4-8-13","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"joel-4-8-14","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"joel-4-8-15","surface":"דִּבֵּֽר","lemma":"דָבַר","translit":"diber","morph":"Verb Piel Participle 3rd masculine singular","glosses":[],"strongs":"H1696"}],"language":"hebrew"},{"ref":"Joel 4:9","englishText":"[English translation missing]","tokens":[{"id":"joel-4-9-0","surface":"קִרְאוּ","lemma":"קָרָא","translit":"qire'v","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H7121"},{"id":"joel-4-9-1","surface":"זֹאת֙","lemma":"זֹאת","translit":"zo't","morph":"Pronoun dual feminine singular","glosses":[],"strongs":"H2063"},{"id":"joel-4-9-2","surface":"בַּגּוֹיִ֔ם","lemma":"גּוֹי","translit":"bagvoyim","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"joel-4-9-3","surface":"קַדְּשׁ֖וּ","lemma":"קָדַשׁ","translit":"qadeshv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H6942"},{"id":"joel-4-9-4","surface":"מִלְחָמָ֑ה","lemma":"מִלְחָמָה","translit":"milechamah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H4421"},{"id":"joel-4-9-5","surface":"הָעִ֨ירוּ֙","lemma":"עוּר","translit":"ha`iyrv","morph":"Verb Hiphil Weqatal 2nd masculine plural","glosses":[],"strongs":"H5782"},{"id":"joel-4-9-6","surface":"הַגִּבּוֹרִ֔ים","lemma":"גִּבּוֹר","translit":"hagibvoriym","morph":"Particle dual + Adjective","glosses":[],"strongs":"H1368"},{"id":"joel-4-9-7","surface":"יִגְּשׁ֣וּ","lemma":"נָגַשׁ","translit":"yigeshv","morph":"Verb Qal Jussive 3rd masculine plural","glosses":[],"strongs":"H5066"},{"id":"joel-4-9-8","surface":"יַֽעֲל֔וּ","lemma":"עָלָה","translit":"ya`lv","morph":"Verb Qal Jussive 3rd masculine plural","glosses":[],"strongs":"H5927"},{"id":"joel-4-9-9","surface":"כֹּ֖ל","lemma":"כֹּל","translit":"kol","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"joel-4-9-10","surface":"אַנְשֵׁ֥י","lemma":"אִישׁ","translit":"'aneshey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H376"},{"id":"joel-4-9-11","surface":"הַמִּלְחָמָֽה","lemma":"מִלְחָמָה","translit":"hamilechamah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4421"}],"language":"hebrew"},{"ref":"Joel 4:10","englishText":"[English translation missing]","tokens":[{"id":"joel-4-10-0","surface":"כֹּ֤תּוּ","lemma":"כָּתַת","translit":"kotv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H3807"},{"id":"joel-4-10-1","surface":"אִתֵּיכֶם֙","lemma":"אֵת","translit":"'iteykem","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H855"},{"id":"joel-4-10-2","surface":"לַֽחֲרָב֔וֹת","lemma":"חֶרֶב","translit":"lachrabvot","morph":"Preposition + Noun common feminine plural absolute","glosses":[],"strongs":"H2719"},{"id":"joel-4-10-3","surface":"וּמַזְמְרֹֽתֵיכֶ֖ם","lemma":"מַזְמֵרָה","translit":"vmazemeroteykem","morph":"Conjunction + Noun common feminine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H4211"},{"id":"joel-4-10-4","surface":"לִרְמָחִ֑ים","lemma":"רֹמַח","translit":"liremachiym","morph":"Preposition + Noun common masculine plural absolute","glosses":[],"strongs":"H7420"},{"id":"joel-4-10-5","surface":"הַֽחַלָּ֔שׁ","lemma":"חַלָּשׁ","translit":"hachalash","morph":"Particle dual + Adjective","glosses":[],"strongs":"H2523"},{"id":"joel-4-10-6","surface":"יֹאמַ֖ר","lemma":"אָמַר","translit":"yo'mar","morph":"Verb Qal Jussive 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"joel-4-10-7","surface":"גִּבּ֥וֹר","lemma":"גִּבּוֹר","translit":"gibvor","morph":"Adjective","glosses":[],"strongs":"H1368"},{"id":"joel-4-10-8","surface":"אָֽנִי","lemma":"אֲנִי","translit":"'aniy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"}],"language":"hebrew"},{"ref":"Joel 4:11","englishText":"[English translation missing]","tokens":[{"id":"joel-4-11-0","surface":"ע֣וּשׁוּ","lemma":"עוּשׁ","translit":"`vshv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H5789"},{"id":"joel-4-11-1","surface":"וָבֹ֧אוּ","lemma":"בּוֹא","translit":"vabo'v","morph":"Conjunction + Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H935"},{"id":"joel-4-11-2","surface":"כָֽל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"joel-4-11-3","surface":"הַגּוֹיִ֛ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"joel-4-11-4","surface":"מִסָּבִ֖יב","lemma":"סָבִיב","translit":"misabiyb","morph":"Preposition + Noun common singular absolute","glosses":[],"strongs":"H5439"},{"id":"joel-4-11-5","surface":"וְנִקְבָּ֑צוּ","lemma":"קָבַץ","translit":"veniqebatsv","morph":"Conjunction + Verb Niphal Perfect 3rd common plural","glosses":[],"strongs":"H6908"},{"id":"joel-4-11-6","surface":"שָׁ֕מָּה","lemma":"שָׁם","translit":"shamah","morph":"Adverb + Suffix dual","glosses":[],"strongs":"H8033"},{"id":"joel-4-11-7","surface":"הַֽנְחַ֥ת","lemma":"נָחַת","translit":"hanechat","morph":"Verb Hiphil Weqatal 2nd masculine singular","glosses":[],"strongs":"H5181"},{"id":"joel-4-11-8","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"joel-4-11-9","surface":"גִּבּוֹרֶֽיךָ","lemma":"גִּבּוֹר","translit":"gibvoreyka","morph":"Adjective + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1368"}],"language":"hebrew"},{"ref":"Joel 4:12","englishText":"[English translation missing]","tokens":[{"id":"joel-4-12-0","surface":"יֵע֨וֹרוּ֙","lemma":"עוּר","translit":"ye`vorv","morph":"Verb Niphal Jussive 3rd masculine plural","glosses":[],"strongs":"H5782"},{"id":"joel-4-12-1","surface":"וְיַעֲל֣וּ","lemma":"עָלָה","translit":"veya`lv","morph":"Conjunction + Verb Qal Jussive 3rd masculine plural","glosses":[],"strongs":"H5927"},{"id":"joel-4-12-2","surface":"הַגּוֹיִ֔ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"joel-4-12-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"joel-4-12-4","surface":"עֵ֖מֶק","lemma":"עֵמֶק","translit":"`emeq","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H6010"},{"id":"joel-4-12-5","surface":"יְהֽוֹשָׁפָ֑ט","lemma":"יְהוֹשָׁפָט","translit":"yehvoshapat","morph":"Noun proper","glosses":[],"strongs":"H3092"},{"id":"joel-4-12-6","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"joel-4-12-7","surface":"שָׁ֗ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"joel-4-12-8","surface":"אֵשֵׁ֛ב","lemma":"יָשַׁב","translit":"'esheb","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H3427"},{"id":"joel-4-12-9","surface":"לִשְׁפֹּ֥ט","lemma":"שָׁפַט","translit":"lishepot","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H8199"},{"id":"joel-4-12-10","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"joel-4-12-11","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"joel-4-12-12","surface":"הַגּוֹיִ֖ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1471"},{"id":"joel-4-12-13","surface":"מִסָּבִֽיב","lemma":"סָבִיב","translit":"misabiyb","morph":"Preposition + Noun common singular absolute","glosses":[],"strongs":"H5439"}],"language":"hebrew"},{"ref":"Joel 4:13","englishText":"[English translation missing]","tokens":[{"id":"joel-4-13-0","surface":"שִׁלְח֣וּ","lemma":"שָׁלַח","translit":"shilechv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H7971"},{"id":"joel-4-13-1","surface":"מַגָּ֔ל","lemma":"מַגָּל","translit":"magal","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4038"},{"id":"joel-4-13-2","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"joel-4-13-3","surface":"בָשַׁ֖ל","lemma":"בָּשַׁל","translit":"bashal","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1310"},{"id":"joel-4-13-4","surface":"קָצִ֑יר","lemma":"קָצִיר","translit":"qatsiyr","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7105"},{"id":"joel-4-13-5","surface":"בֹּ֤אֽוּ","lemma":"בּוֹא","translit":"bo'v","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H935"},{"id":"joel-4-13-6","surface":"רְדוּ֙","lemma":"יָרַד","translit":"redv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H3381"},{"id":"joel-4-13-7","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"joel-4-13-8","surface":"מָ֣לְאָה","lemma":"מָלֵא","translit":"male'ah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H4390"},{"id":"joel-4-13-9","surface":"גַּ֔ת","lemma":"גַּת","translit":"gat","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H1660"},{"id":"joel-4-13-10","surface":"הֵשִׁ֨יקוּ֙","lemma":"שׁוּק","translit":"heshiyqv","morph":"Verb Hiphil Participle 3rd common plural","glosses":[],"strongs":"H7783"},{"id":"joel-4-13-11","surface":"הַיְקָבִ֔ים","lemma":"יֶקֶב","translit":"hayeqabiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3342"},{"id":"joel-4-13-12","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"joel-4-13-13","surface":"רַבָּ֖ה","lemma":"רַב","translit":"rabah","morph":"Adjective","glosses":[],"strongs":"H7227"},{"id":"joel-4-13-14","surface":"רָעָתָֽם","lemma":"רַע","translit":"ra`atam","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H7451"}],"language":"hebrew"},{"ref":"Joel 4:14","englishText":"[English translation missing]","tokens":[{"id":"joel-4-14-0","surface":"הֲמוֹנִ֣ים","lemma":"הָמוֹן","translit":"hmvoniym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1995"},{"id":"joel-4-14-1","surface":"הֲמוֹנִ֔ים","lemma":"הָמוֹן","translit":"hmvoniym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1995"},{"id":"joel-4-14-2","surface":"בְּעֵ֖מֶק","lemma":"עֵמֶק","translit":"be`emeq","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H6010"},{"id":"joel-4-14-3","surface":"הֶֽחָר֑וּץ","lemma":"חֲרוּץ","translit":"hecharvts","morph":"Particle dual + Noun proper","glosses":[],"strongs":"H2742"},{"id":"joel-4-14-4","surface":"כִּ֤י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"joel-4-14-5","surface":"קָרוֹב֙","lemma":"קָרוֹב","translit":"qarvob","morph":"Adjective","glosses":[],"strongs":"H7138"},{"id":"joel-4-14-6","surface":"י֣וֹם","lemma":"יוֹם","translit":"yvom","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3117"},{"id":"joel-4-14-7","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"joel-4-14-8","surface":"בְּעֵ֖מֶק","lemma":"עֵמֶק","translit":"be`emeq","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H6010"},{"id":"joel-4-14-9","surface":"הֶחָרֽוּץ","lemma":"חֲרוּץ","translit":"hecharvts","morph":"Particle dual + Noun proper","glosses":[],"strongs":"H2742"}],"language":"hebrew"},{"ref":"Joel 4:15","englishText":"[English translation missing]","tokens":[{"id":"joel-4-15-0","surface":"שֶׁ֥מֶשׁ","lemma":"שֶׁמֶשׁ","translit":"shemesh","morph":"Noun common singular absolute","glosses":[],"strongs":"H8121"},{"id":"joel-4-15-1","surface":"וְיָרֵ֖חַ","lemma":"יָרֵחַ","translit":"veyarecha","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H3394"},{"id":"joel-4-15-2","surface":"קָדָ֑רוּ","lemma":"קָדַר","translit":"qadarv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H6937"},{"id":"joel-4-15-3","surface":"וְכוֹכָבִ֖ים","lemma":"כּוֹכָב","translit":"vekvokabiym","morph":"Conjunction + Noun common masculine plural absolute","glosses":[],"strongs":"H3556"},{"id":"joel-4-15-4","surface":"אָסְפ֥וּ","lemma":"אָסַף","translit":"'asepv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H622"},{"id":"joel-4-15-5","surface":"נָגְהָֽם","lemma":"נֹגַהּ","translit":"nageham","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H5051"}],"language":"hebrew"},{"ref":"Joel 4:16","englishText":"[English translation missing]","tokens":[{"id":"joel-4-16-0","surface":"וַיהוָ֞ה","lemma":"יְהֹוָה","translit":"vayhvah","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3068"},{"id":"joel-4-16-1","surface":"מִצִּיּ֣וֹן","lemma":"צִיּוֹן","translit":"mitsiyvon","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6726"},{"id":"joel-4-16-2","surface":"יִשְׁאָ֗ג","lemma":"שָׁאַג","translit":"yishe'ag","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7580"},{"id":"joel-4-16-3","surface":"וּמִירוּשָׁלִַ֨ם֙","lemma":"יְרוּשָׁלַ͏ִם","translit":"vmiyrvshalaim","morph":"Conjunction + Preposition + Noun proper","glosses":[],"strongs":"H3389"},{"id":"joel-4-16-4","surface":"יִתֵּ֣ן","lemma":"נָתַן","translit":"yiten","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"joel-4-16-5","surface":"קוֹל֔וֹ","lemma":"קוֹל","translit":"qvolvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6963"},{"id":"joel-4-16-6","surface":"וְרָעֲשׁ֖וּ","lemma":"רָעַשׁ","translit":"vera`shv","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H7493"},{"id":"joel-4-16-7","surface":"שָׁמַ֣יִם","lemma":"שָׁמַיִם","translit":"shamayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"joel-4-16-8","surface":"וָאָ֑רֶץ","lemma":"אֶרֶץ","translit":"va'arets","morph":"Conjunction + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"joel-4-16-9","surface":"וַֽיהוָה֙","lemma":"יְהֹוָה","translit":"vayhvah","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3068"},{"id":"joel-4-16-10","surface":"מַֽחֲסֶ֣ה","lemma":"מַחֲסֶה","translit":"machseh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4268"},{"id":"joel-4-16-11","surface":"לְעַמּ֔וֹ","lemma":"עַם","translit":"le`amvo","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5971"},{"id":"joel-4-16-12","surface":"וּמָע֖וֹז","lemma":"מָעוֹז","translit":"vma`voz","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H4581"},{"id":"joel-4-16-13","surface":"לִבְנֵ֥י","lemma":"בֵּן","translit":"libeney","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"joel-4-16-14","surface":"יִשְׂרָאֵֽל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"}],"language":"hebrew"},{"ref":"Joel 4:17","englishText":"[English translation missing]","tokens":[{"id":"joel-4-17-0","surface":"וִֽידַעְתֶּ֗ם","lemma":"יָדַע","translit":"viyda`etem","morph":"Conjunction + Verb Qal Perfect 2nd masculine plural","glosses":[],"strongs":"H3045"},{"id":"joel-4-17-1","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"joel-4-17-2","surface":"אֲנִ֤י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"joel-4-17-3","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"joel-4-17-4","surface":"אֱלֹ֣הֵיכֶ֔ם","lemma":"אֱלֹהִים","translit":"'loheykem","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H430"},{"id":"joel-4-17-5","surface":"שֹׁכֵ֖ן","lemma":"שָׁכַן","translit":"shoken","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H7931"},{"id":"joel-4-17-6","surface":"בְּצִיּ֣וֹן","lemma":"צִיּוֹן","translit":"betsiyvon","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6726"},{"id":"joel-4-17-7","surface":"הַר","lemma":"הַר","translit":"har","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H2022"},{"id":"joel-4-17-8","surface":"קָדְשִׁ֑י","lemma":"קֹדֶשׁ","translit":"qadeshiy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H6944"},{"id":"joel-4-17-9","surface":"וְהָיְתָ֤ה","lemma":"הָיָה","translit":"vehayetah","morph":"Conjunction + Verb Qal Perfect 3rd feminine singular","glosses":[],"strongs":"H1961"},{"id":"joel-4-17-10","surface":"יְרוּשָׁלִַ֨ם֙","lemma":"יְרוּשָׁלַ͏ִם","translit":"yervshalaim","morph":"Noun proper","glosses":[],"strongs":"H3389"},{"id":"joel-4-17-11","surface":"קֹ֔דֶשׁ","lemma":"קֹדֶשׁ","translit":"qodesh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6944"},{"id":"joel-4-17-12","surface":"וְזָרִ֥ים","lemma":"זוּר","translit":"vezariym","morph":"Conjunction + Adjective","glosses":[],"strongs":"H2114"},{"id":"joel-4-17-13","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"joel-4-17-14","surface":"יַֽעַבְרוּ","lemma":"עָבַר","translit":"ya`aberv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H5674"},{"id":"joel-4-17-15","surface":"בָ֖הּ","lemma":"בָ֖הּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"joel-4-17-16","surface":"עֽוֹד","lemma":"עוֹד","translit":"`vod","morph":"Adverb","glosses":[],"strongs":"H5750"}],"language":"hebrew"},{"ref":"Joel 4:18","englishText":"[English translation missing]","tokens":[{"id":"joel-4-18-0","surface":"וְהָיָה֩","lemma":"הָיָה","translit":"vehayah","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"joel-4-18-1","surface":"בַיּ֨וֹם","lemma":"יוֹם","translit":"bayvom","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"joel-4-18-2","surface":"הַה֜וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"joel-4-18-3","surface":"יִטְּפ֧וּ","lemma":"נָטַף","translit":"yitepv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H5197"},{"id":"joel-4-18-4","surface":"הֶהָרִ֣ים","lemma":"הַר","translit":"hehariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H2022"},{"id":"joel-4-18-5","surface":"עָסִ֗יס","lemma":"עָסִיס","translit":"`asiys","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6071"},{"id":"joel-4-18-6","surface":"וְהַגְּבָעוֹת֙","lemma":"גִּבְעָה","translit":"vehageba`vot","morph":"Conjunction + Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H1389"},{"id":"joel-4-18-7","surface":"תֵּלַ֣כְנָה","lemma":"יָלַךְ","translit":"telakenah","morph":"Verb Qal Imperative 3rd feminine plural","glosses":[],"strongs":"H3212"},{"id":"joel-4-18-8","surface":"חָלָ֔ב","lemma":"חָלָב","translit":"chalab","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2461"},{"id":"joel-4-18-9","surface":"וְכָל","lemma":"כֹּל","translit":"vekal","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"joel-4-18-10","surface":"אֲפִיקֵ֥י","lemma":"אָפִיק","translit":"'piyqey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H650"},{"id":"joel-4-18-11","surface":"יְהוּדָ֖ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"joel-4-18-12","surface":"יֵ֣לְכוּ","lemma":"יָלַךְ","translit":"yelekv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H3212"},{"id":"joel-4-18-13","surface":"מָ֑יִם","lemma":"מַיִם","translit":"mayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4325"},{"id":"joel-4-18-14","surface":"וּמַעְיָ֗ן","lemma":"מַעְיָן","translit":"vma`eyan","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H4599"},{"id":"joel-4-18-15","surface":"מִבֵּ֤ית","lemma":"בַּיִת","translit":"mibeyt","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"joel-4-18-16","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"joel-4-18-17","surface":"יֵצֵ֔א","lemma":"יָצָא","translit":"yetse'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H3318"},{"id":"joel-4-18-18","surface":"וְהִשְׁקָ֖ה","lemma":"שָׁקָה","translit":"vehisheqah","morph":"Conjunction + Verb Hiphil Perfect 3rd masculine singular","glosses":[],"strongs":"H8248"},{"id":"joel-4-18-19","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"joel-4-18-20","surface":"נַ֥חַל","lemma":"נַחַל","translit":"nachal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5158"},{"id":"joel-4-18-21","surface":"הַשִּׁטִּֽים","lemma":"שִׁטִּים","translit":"hashitiym","morph":"Particle dual + Noun proper","glosses":[],"strongs":"H7851"}],"language":"hebrew"},{"ref":"Joel 4:19","englishText":"[English translation missing]","tokens":[{"id":"joel-4-19-0","surface":"מִצְרַ֨יִם֙","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"joel-4-19-1","surface":"לִשְׁמָמָ֣ה","lemma":"שְׁמָמָה","translit":"lishemamah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H8077"},{"id":"joel-4-19-2","surface":"תִֽהְיֶ֔ה","lemma":"הָיָה","translit":"tiheyeh","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H1961"},{"id":"joel-4-19-3","surface":"וֶאֱד֕וֹם","lemma":"אֱדֹם","translit":"ve'dvom","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H123"},{"id":"joel-4-19-4","surface":"לְמִדְבַּ֥ר","lemma":"מִדְבָּר","translit":"lemidebar","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4057"},{"id":"joel-4-19-5","surface":"שְׁמָמָ֖ה","lemma":"שְׁמָמָה","translit":"shemamah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8077"},{"id":"joel-4-19-6","surface":"תִּֽהְיֶ֑ה","lemma":"הָיָה","translit":"tiheyeh","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H1961"},{"id":"joel-4-19-7","surface":"מֵֽחֲמַס֙","lemma":"חָמָס","translit":"mechmas","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H2555"},{"id":"joel-4-19-8","surface":"בְּנֵ֣י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"joel-4-19-9","surface":"יְהוּדָ֔ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"joel-4-19-10","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"joel-4-19-11","surface":"שָׁפְכ֥וּ","lemma":"שָׁפַךְ","translit":"shapekv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H8210"},{"id":"joel-4-19-12","surface":"דָם","lemma":"דָּם","translit":"dam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1818"},{"id":"joel-4-19-13","surface":"נָקִ֖יא","lemma":"נָקִי","translit":"naqiy'","morph":"Adjective","glosses":[],"strongs":"H5355"},{"id":"joel-4-19-14","surface":"בְּאַרְצָֽם","lemma":"אֶרֶץ","translit":"be'aretsam","morph":"Preposition + Noun common singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Joel 4:20","englishText":"[English translation missing]","tokens":[{"id":"joel-4-20-0","surface":"וִיהוּדָ֖ה","lemma":"יְהוּדָה","translit":"viyhvdah","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3063"},{"id":"joel-4-20-1","surface":"לְעוֹלָ֣ם","lemma":"עוֹלָם","translit":"le`volam","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H5769"},{"id":"joel-4-20-2","surface":"תֵּשֵׁ֑ב","lemma":"יָשַׁב","translit":"tesheb","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H3427"},{"id":"joel-4-20-3","surface":"וִירוּשָׁלִַ֖ם","lemma":"יְרוּשָׁלַ͏ִם","translit":"viyrvshalaim","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3389"},{"id":"joel-4-20-4","surface":"לְד֥וֹר","lemma":"דּוֹר","translit":"ledvor","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H1755"},{"id":"joel-4-20-5","surface":"וָדֽוֹר","lemma":"דּוֹר","translit":"vadvor","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H1755"}],"language":"hebrew"},{"ref":"Joel 4:21","englishText":"[English translation missing]","tokens":[{"id":"joel-4-21-0","surface":"וְנִקֵּ֖יתִי","lemma":"נָקָה","translit":"veniqeytiy","morph":"Conjunction + Verb Piel Perfect 1st common singular","glosses":[],"strongs":"H5352"},{"id":"joel-4-21-1","surface":"דָּמָ֣ם","lemma":"דָּם","translit":"damam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H1818"},{"id":"joel-4-21-2","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"joel-4-21-3","surface":"נִקֵּ֑יתִי","lemma":"נָקָה","translit":"niqeytiy","morph":"Verb Piel Participle 1st common singular","glosses":[],"strongs":"H5352"},{"id":"joel-4-21-4","surface":"וַֽיהוָ֖ה","lemma":"יְהֹוָה","translit":"vayhvah","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3068"},{"id":"joel-4-21-5","surface":"שֹׁכֵ֥ן","lemma":"שָׁכַן","translit":"shoken","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H7931"},{"id":"joel-4-21-6","surface":"בְּצִיּֽוֹן","lemma":"צִיּוֹן","translit":"betsiyvon","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6726"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "joel-4",
+  "name": "Joel",
+  "chapter": 4,
+  "verses": [
+    {
+      "ref": "Joel 4:1",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-1-0",
+          "surface": "כִּ֗י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "joel-4-1-1",
+          "surface": "הִנֵּ֛ה",
+          "lemma": "הִנֵּה",
+          "translit": "hineh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "joel-4-1-2",
+          "surface": "בַּיָּמִ֥ים",
+          "lemma": "יוֹם",
+          "translit": "bayamiym",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "joel-4-1-3",
+          "surface": "הָהֵ֖מָּה",
+          "lemma": "הֵם",
+          "translit": "hahemah",
+          "morph": "Particle dual + Pronoun dual masculine plural",
+          "glosses": [],
+          "strongs": "H1992"
+        },
+        {
+          "id": "joel-4-1-4",
+          "surface": "וּבָעֵ֣ת",
+          "lemma": "עֵת",
+          "translit": "vba`et",
+          "morph": "Conjunction + Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H6256"
+        },
+        {
+          "id": "joel-4-1-5",
+          "surface": "הַהִ֑יא",
+          "lemma": "הוּא",
+          "translit": "hahiy'",
+          "morph": "Particle dual + Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "joel-4-1-6",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "joel-4-1-7",
+          "surface": "אשוב",
+          "lemma": "שׁוּב",
+          "translit": "'shvb",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "joel-4-1-8",
+          "surface": "אָשִׁ֛יב",
+          "lemma": "שׁוּב",
+          "translit": "'ashiyb",
+          "morph": "Verb Hiphil Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "joel-4-1-9",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "joel-4-1-10",
+          "surface": "שְׁב֥וּת",
+          "lemma": "שְׁבוּת",
+          "translit": "shebvt",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H7622"
+        },
+        {
+          "id": "joel-4-1-11",
+          "surface": "יְהוּדָ֖ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "joel-4-1-12",
+          "surface": "וִירוּשָׁלִָֽם",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "translit": "viyrvshalaim",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3389"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:2",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-2-0",
+          "surface": "וְקִבַּצְתִּי֙",
+          "lemma": "קָבַץ",
+          "translit": "veqibatsetiy",
+          "morph": "Conjunction + Verb Piel Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H6908"
+        },
+        {
+          "id": "joel-4-2-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "joel-4-2-2",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "joel-4-2-3",
+          "surface": "הַגּוֹיִ֔ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "joel-4-2-4",
+          "surface": "וְה֣וֹרַדְתִּ֔ים",
+          "lemma": "יָרַד",
+          "translit": "vehvoradetiym",
+          "morph": "Conjunction + Verb Hiphil Participle 1st common singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "joel-4-2-5",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "joel-4-2-6",
+          "surface": "עֵ֖מֶק",
+          "lemma": "עֵמֶק",
+          "translit": "`emeq",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6010"
+        },
+        {
+          "id": "joel-4-2-7",
+          "surface": "יְהֽוֹשָׁפָ֑ט",
+          "lemma": "יְהוֹשָׁפָט",
+          "translit": "yehvoshapat",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3092"
+        },
+        {
+          "id": "joel-4-2-8",
+          "surface": "וְנִשְׁפַּטְתִּ֨י",
+          "lemma": "שָׁפַט",
+          "translit": "venishepatetiy",
+          "morph": "Conjunction + Verb Niphal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H8199"
+        },
+        {
+          "id": "joel-4-2-9",
+          "surface": "עִמָּ֜ם",
+          "lemma": "עִם",
+          "translit": "`imam",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "joel-4-2-10",
+          "surface": "שָׁ֗ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "joel-4-2-11",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "joel-4-2-12",
+          "surface": "עַמִּ֨י",
+          "lemma": "עַם",
+          "translit": "`amiy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "joel-4-2-13",
+          "surface": "וְנַחֲלָתִ֤י",
+          "lemma": "נַחֲלָה",
+          "translit": "venachlatiy",
+          "morph": "Conjunction + Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5159"
+        },
+        {
+          "id": "joel-4-2-14",
+          "surface": "יִשְׂרָאֵל֙",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "joel-4-2-15",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "joel-4-2-16",
+          "surface": "פִּזְּר֣וּ",
+          "lemma": "פָּזַר",
+          "translit": "pizerv",
+          "morph": "Verb Piel Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6340"
+        },
+        {
+          "id": "joel-4-2-17",
+          "surface": "בַגּוֹיִ֔ם",
+          "lemma": "גּוֹי",
+          "translit": "bagvoyim",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "joel-4-2-18",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "joel-4-2-19",
+          "surface": "אַרְצִ֖י",
+          "lemma": "אֶרֶץ",
+          "translit": "'aretsiy",
+          "morph": "Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "joel-4-2-20",
+          "surface": "חִלֵּֽקוּ",
+          "lemma": "חָלַק",
+          "translit": "chileqv",
+          "morph": "Verb Piel Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H2505"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:3",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-3-0",
+          "surface": "וְאֶל",
+          "lemma": "אֵל",
+          "translit": "ve'el",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "joel-4-3-1",
+          "surface": "עַמִּ֖י",
+          "lemma": "עַם",
+          "translit": "`amiy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "joel-4-3-2",
+          "surface": "יַדּ֣וּ",
+          "lemma": "יָדַד",
+          "translit": "yadv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H3032"
+        },
+        {
+          "id": "joel-4-3-3",
+          "surface": "גוֹרָ֑ל",
+          "lemma": "גּוֹרָל",
+          "translit": "gvoral",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1486"
+        },
+        {
+          "id": "joel-4-3-4",
+          "surface": "וַיִּתְּנ֤וּ",
+          "lemma": "נָתַן",
+          "translit": "vayitenv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "joel-4-3-5",
+          "surface": "הַיֶּ֨לֶד֙",
+          "lemma": "יֶלֶד",
+          "translit": "hayeled",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "joel-4-3-6",
+          "surface": "בַּזּוֹנָ֔ה",
+          "lemma": "זָנָה",
+          "translit": "bazvonah",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2181"
+        },
+        {
+          "id": "joel-4-3-7",
+          "surface": "וְהַיַּלְדָּ֛ה",
+          "lemma": "יַלְדָּה",
+          "translit": "vehayaledah",
+          "morph": "Conjunction + Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H3207"
+        },
+        {
+          "id": "joel-4-3-8",
+          "surface": "מָכְר֥וּ",
+          "lemma": "מָכַר",
+          "translit": "makerv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H4376"
+        },
+        {
+          "id": "joel-4-3-9",
+          "surface": "בַיַּ֖יִן",
+          "lemma": "יַיִן",
+          "translit": "bayayin",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3196"
+        },
+        {
+          "id": "joel-4-3-10",
+          "surface": "וַיִּשְׁתּֽוּ",
+          "lemma": "שָׁתָה",
+          "translit": "vayishetv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H8354"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:4",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-4-0",
+          "surface": "וְ֠גַם",
+          "lemma": "גַּם",
+          "translit": "vegam",
+          "morph": "Conjunction + Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "joel-4-4-1",
+          "surface": "מָה",
+          "lemma": "מָה",
+          "translit": "mah",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "joel-4-4-2",
+          "surface": "אַתֶּ֥ם",
+          "lemma": "אַתָּה",
+          "translit": "'atem",
+          "morph": "Pronoun plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "joel-4-4-3",
+          "surface": "לִי֙",
+          "lemma": "לִי֙",
+          "translit": "liy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        },
+        {
+          "id": "joel-4-4-4",
+          "surface": "צֹ֣ר",
+          "lemma": "צֹר",
+          "translit": "tsor",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6865"
+        },
+        {
+          "id": "joel-4-4-5",
+          "surface": "וְצִיד֔וֹן",
+          "lemma": "צִידוֹן",
+          "translit": "vetsiydvon",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H6721"
+        },
+        {
+          "id": "joel-4-4-6",
+          "surface": "וְכֹ֖ל",
+          "lemma": "כֹּל",
+          "translit": "vekol",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "joel-4-4-7",
+          "surface": "גְּלִיל֣וֹת",
+          "lemma": "גְלִילָה",
+          "translit": "geliylvot",
+          "morph": "Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H1552"
+        },
+        {
+          "id": "joel-4-4-8",
+          "surface": "פְּלָ֑שֶׁת",
+          "lemma": "פְּלֶשֶׁת",
+          "translit": "pelashet",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6429"
+        },
+        {
+          "id": "joel-4-4-9",
+          "surface": "הַגְּמ֗וּל",
+          "lemma": "גְּמוּל",
+          "translit": "hagemvl",
+          "morph": "Particle + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1576"
+        },
+        {
+          "id": "joel-4-4-10",
+          "surface": "אַתֶּם֙",
+          "lemma": "אַתָּה",
+          "translit": "'atem",
+          "morph": "Pronoun plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "joel-4-4-11",
+          "surface": "מְשַׁלְּמִ֣ים",
+          "lemma": "שָׁלַם",
+          "translit": "meshalemiym",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H7999"
+        },
+        {
+          "id": "joel-4-4-12",
+          "surface": "עָלָ֔י",
+          "lemma": "עַל",
+          "translit": "`alay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "joel-4-4-13",
+          "surface": "וְאִם",
+          "lemma": "אִם",
+          "translit": "ve'im",
+          "morph": "Conjunction + Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "joel-4-4-14",
+          "surface": "גֹּמְלִ֤ים",
+          "lemma": "גָּמַל",
+          "translit": "gomeliym",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H1580"
+        },
+        {
+          "id": "joel-4-4-15",
+          "surface": "אַתֶּם֙",
+          "lemma": "אַתָּה",
+          "translit": "'atem",
+          "morph": "Pronoun plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "joel-4-4-16",
+          "surface": "עָלַ֔י",
+          "lemma": "עַל",
+          "translit": "`alay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "joel-4-4-17",
+          "surface": "קַ֣ל",
+          "lemma": "קַל",
+          "translit": "qal",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7031"
+        },
+        {
+          "id": "joel-4-4-18",
+          "surface": "מְהֵרָ֔ה",
+          "lemma": "מְהֵרָה",
+          "translit": "meherah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4120"
+        },
+        {
+          "id": "joel-4-4-19",
+          "surface": "אָשִׁ֥יב",
+          "lemma": "שׁוּב",
+          "translit": "'ashiyb",
+          "morph": "Verb Hiphil Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "joel-4-4-20",
+          "surface": "גְּמֻלְכֶ֖ם",
+          "lemma": "גְּמוּל",
+          "translit": "gemulekem",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H1576"
+        },
+        {
+          "id": "joel-4-4-21",
+          "surface": "בְּרֹאשְׁכֶֽם",
+          "lemma": "רֹאשׁ",
+          "translit": "bero'shekem",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H7218"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:5",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-5-0",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "joel-4-5-1",
+          "surface": "כַּסְפִּ֥י",
+          "lemma": "כֶּסֶף",
+          "translit": "kasepiy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3701"
+        },
+        {
+          "id": "joel-4-5-2",
+          "surface": "וּזְהָבִ֖י",
+          "lemma": "זָהָב",
+          "translit": "vzehabiy",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2091"
+        },
+        {
+          "id": "joel-4-5-3",
+          "surface": "לְקַחְתֶּ֑ם",
+          "lemma": "לָקַח",
+          "translit": "leqachetem",
+          "morph": "Verb Qal Participle 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "joel-4-5-4",
+          "surface": "וּמַֽחֲמַדַּי֙",
+          "lemma": "מַחְמָד",
+          "translit": "vmachmaday",
+          "morph": "Conjunction + Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H4261"
+        },
+        {
+          "id": "joel-4-5-5",
+          "surface": "הַטֹּבִ֔ים",
+          "lemma": "טוֹב",
+          "translit": "hatobiym",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H2896"
+        },
+        {
+          "id": "joel-4-5-6",
+          "surface": "הֲבֵאתֶ֖ם",
+          "lemma": "בּוֹא",
+          "translit": "hbe'tem",
+          "morph": "Verb Hiphil Participle 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "joel-4-5-7",
+          "surface": "לְהֵיכְלֵיכֶֽם",
+          "lemma": "הֵיכָל",
+          "translit": "leheykeleykem",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H1964"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:6",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-6-0",
+          "surface": "וּבְנֵ֤י",
+          "lemma": "בֵּן",
+          "translit": "vbeney",
+          "morph": "Conjunction + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "joel-4-6-1",
+          "surface": "יְהוּדָה֙",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "joel-4-6-2",
+          "surface": "וּבְנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "vbeney",
+          "morph": "Conjunction + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "joel-4-6-3",
+          "surface": "יְרוּשָׁלִַ֔ם",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "translit": "yervshalaim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3389"
+        },
+        {
+          "id": "joel-4-6-4",
+          "surface": "מְכַרְתֶּ֖ם",
+          "lemma": "מָכַר",
+          "translit": "mekaretem",
+          "morph": "Verb Qal Participle 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H4376"
+        },
+        {
+          "id": "joel-4-6-5",
+          "surface": "לִבְנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "libeney",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "joel-4-6-6",
+          "surface": "הַיְּוָנִ֑ים",
+          "lemma": "יְוָנִי",
+          "translit": "hayevaniym",
+          "morph": "Particle dual + Noun gentilic masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3125"
+        },
+        {
+          "id": "joel-4-6-7",
+          "surface": "לְמַ֥עַן",
+          "lemma": "מַעַן",
+          "translit": "lema`an",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4616"
+        },
+        {
+          "id": "joel-4-6-8",
+          "surface": "הַרְחִיקָ֖ם",
+          "lemma": "רָחַק",
+          "translit": "harechiyqam",
+          "morph": "Verb Hiphil Infinitive Construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H7368"
+        },
+        {
+          "id": "joel-4-6-9",
+          "surface": "מֵעַ֥ל",
+          "lemma": "עַל",
+          "translit": "me`al",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "joel-4-6-10",
+          "surface": "גְּבוּלָֽם",
+          "lemma": "גְּבוּל",
+          "translit": "gebvlam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1366"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:7",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-7-0",
+          "surface": "הִנְנִ֣י",
+          "lemma": "הֵן",
+          "translit": "hineniy",
+          "morph": "Particle masculine + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2005"
+        },
+        {
+          "id": "joel-4-7-1",
+          "surface": "מְעִירָ֔ם",
+          "lemma": "עוּר",
+          "translit": "me`iyram",
+          "morph": "Verb Hiphil Passive Participle + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5782"
+        },
+        {
+          "id": "joel-4-7-2",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "joel-4-7-3",
+          "surface": "הַ֨מָּק֔וֹם",
+          "lemma": "מָקוֹם",
+          "translit": "hamaqvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4725"
+        },
+        {
+          "id": "joel-4-7-4",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "joel-4-7-5",
+          "surface": "מְכַרְתֶּ֥ם",
+          "lemma": "מָכַר",
+          "translit": "mekaretem",
+          "morph": "Verb Qal Participle 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H4376"
+        },
+        {
+          "id": "joel-4-7-6",
+          "surface": "אֹתָ֖ם",
+          "lemma": "אֵת",
+          "translit": "'otam",
+          "morph": "Particle + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "joel-4-7-7",
+          "surface": "שָׁ֑מָּה",
+          "lemma": "שָׁם",
+          "translit": "shamah",
+          "morph": "Adverb + Suffix dual",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "joel-4-7-8",
+          "surface": "וַהֲשִׁבֹתִ֥י",
+          "lemma": "שׁוּב",
+          "translit": "vahshibotiy",
+          "morph": "Conjunction + Verb Hiphil Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "joel-4-7-9",
+          "surface": "גְמֻלְכֶ֖ם",
+          "lemma": "גְּמוּל",
+          "translit": "gemulekem",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H1576"
+        },
+        {
+          "id": "joel-4-7-10",
+          "surface": "בְּרֹאשְׁכֶֽם",
+          "lemma": "רֹאשׁ",
+          "translit": "bero'shekem",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H7218"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:8",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-8-0",
+          "surface": "וּמָכַרְתִּ֞י",
+          "lemma": "מָכַר",
+          "translit": "vmakaretiy",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H4376"
+        },
+        {
+          "id": "joel-4-8-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "joel-4-8-2",
+          "surface": "בְּנֵיכֶ֣ם",
+          "lemma": "בֵּן",
+          "translit": "beneykem",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "joel-4-8-3",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "joel-4-8-4",
+          "surface": "בְּנֽוֹתֵיכֶ֗ם",
+          "lemma": "בַּת",
+          "translit": "benvoteykem",
+          "morph": "Noun common feminine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "joel-4-8-5",
+          "surface": "בְּיַד֙",
+          "lemma": "יָד",
+          "translit": "beyad",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "joel-4-8-6",
+          "surface": "בְּנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "joel-4-8-7",
+          "surface": "יְהוּדָ֔ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "joel-4-8-8",
+          "surface": "וּמְכָר֥וּם",
+          "lemma": "מָכַר",
+          "translit": "vmekarvm",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H4376"
+        },
+        {
+          "id": "joel-4-8-9",
+          "surface": "לִשְׁבָאיִ֖ם",
+          "lemma": "שְׁבָאִי",
+          "translit": "lisheba'yim",
+          "morph": "Preposition + Noun gentilic masculine plural absolute",
+          "glosses": [],
+          "strongs": "H7615"
+        },
+        {
+          "id": "joel-4-8-10",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "joel-4-8-11",
+          "surface": "גּ֣וֹי",
+          "lemma": "גּוֹי",
+          "translit": "gvoy",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "joel-4-8-12",
+          "surface": "רָח֑וֹק",
+          "lemma": "רָחוֹק",
+          "translit": "rachvoq",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7350"
+        },
+        {
+          "id": "joel-4-8-13",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "joel-4-8-14",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "joel-4-8-15",
+          "surface": "דִּבֵּֽר",
+          "lemma": "דָבַר",
+          "translit": "diber",
+          "morph": "Verb Piel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:9",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-9-0",
+          "surface": "קִרְאוּ",
+          "lemma": "קָרָא",
+          "translit": "qire'v",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "joel-4-9-1",
+          "surface": "זֹאת֙",
+          "lemma": "זֹאת",
+          "translit": "zo't",
+          "morph": "Pronoun dual feminine singular",
+          "glosses": [],
+          "strongs": "H2063"
+        },
+        {
+          "id": "joel-4-9-2",
+          "surface": "בַּגּוֹיִ֔ם",
+          "lemma": "גּוֹי",
+          "translit": "bagvoyim",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "joel-4-9-3",
+          "surface": "קַדְּשׁ֖וּ",
+          "lemma": "קָדַשׁ",
+          "translit": "qadeshv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H6942"
+        },
+        {
+          "id": "joel-4-9-4",
+          "surface": "מִלְחָמָ֑ה",
+          "lemma": "מִלְחָמָה",
+          "translit": "milechamah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4421"
+        },
+        {
+          "id": "joel-4-9-5",
+          "surface": "הָעִ֨ירוּ֙",
+          "lemma": "עוּר",
+          "translit": "ha`iyrv",
+          "morph": "Verb Hiphil Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5782"
+        },
+        {
+          "id": "joel-4-9-6",
+          "surface": "הַגִּבּוֹרִ֔ים",
+          "lemma": "גִּבּוֹר",
+          "translit": "hagibvoriym",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "joel-4-9-7",
+          "surface": "יִגְּשׁ֣וּ",
+          "lemma": "נָגַשׁ",
+          "translit": "yigeshv",
+          "morph": "Verb Qal Jussive 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "joel-4-9-8",
+          "surface": "יַֽעֲל֔וּ",
+          "lemma": "עָלָה",
+          "translit": "ya`lv",
+          "morph": "Verb Qal Jussive 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "joel-4-9-9",
+          "surface": "כֹּ֖ל",
+          "lemma": "כֹּל",
+          "translit": "kol",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "joel-4-9-10",
+          "surface": "אַנְשֵׁ֥י",
+          "lemma": "אִישׁ",
+          "translit": "'aneshey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "joel-4-9-11",
+          "surface": "הַמִּלְחָמָֽה",
+          "lemma": "מִלְחָמָה",
+          "translit": "hamilechamah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4421"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:10",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-10-0",
+          "surface": "כֹּ֤תּוּ",
+          "lemma": "כָּתַת",
+          "translit": "kotv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3807"
+        },
+        {
+          "id": "joel-4-10-1",
+          "surface": "אִתֵּיכֶם֙",
+          "lemma": "אֵת",
+          "translit": "'iteykem",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H855"
+        },
+        {
+          "id": "joel-4-10-2",
+          "surface": "לַֽחֲרָב֔וֹת",
+          "lemma": "חֶרֶב",
+          "translit": "lachrabvot",
+          "morph": "Preposition + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "joel-4-10-3",
+          "surface": "וּמַזְמְרֹֽתֵיכֶ֖ם",
+          "lemma": "מַזְמֵרָה",
+          "translit": "vmazemeroteykem",
+          "morph": "Conjunction + Noun common feminine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H4211"
+        },
+        {
+          "id": "joel-4-10-4",
+          "surface": "לִרְמָחִ֑ים",
+          "lemma": "רֹמַח",
+          "translit": "liremachiym",
+          "morph": "Preposition + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H7420"
+        },
+        {
+          "id": "joel-4-10-5",
+          "surface": "הַֽחַלָּ֔שׁ",
+          "lemma": "חַלָּשׁ",
+          "translit": "hachalash",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H2523"
+        },
+        {
+          "id": "joel-4-10-6",
+          "surface": "יֹאמַ֖ר",
+          "lemma": "אָמַר",
+          "translit": "yo'mar",
+          "morph": "Verb Qal Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "joel-4-10-7",
+          "surface": "גִּבּ֥וֹר",
+          "lemma": "גִּבּוֹר",
+          "translit": "gibvor",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "joel-4-10-8",
+          "surface": "אָֽנִי",
+          "lemma": "אֲנִי",
+          "translit": "'aniy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:11",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-11-0",
+          "surface": "ע֣וּשׁוּ",
+          "lemma": "עוּשׁ",
+          "translit": "`vshv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5789"
+        },
+        {
+          "id": "joel-4-11-1",
+          "surface": "וָבֹ֧אוּ",
+          "lemma": "בּוֹא",
+          "translit": "vabo'v",
+          "morph": "Conjunction + Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "joel-4-11-2",
+          "surface": "כָֽל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "joel-4-11-3",
+          "surface": "הַגּוֹיִ֛ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "joel-4-11-4",
+          "surface": "מִסָּבִ֖יב",
+          "lemma": "סָבִיב",
+          "translit": "misabiyb",
+          "morph": "Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H5439"
+        },
+        {
+          "id": "joel-4-11-5",
+          "surface": "וְנִקְבָּ֑צוּ",
+          "lemma": "קָבַץ",
+          "translit": "veniqebatsv",
+          "morph": "Conjunction + Verb Niphal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H6908"
+        },
+        {
+          "id": "joel-4-11-6",
+          "surface": "שָׁ֕מָּה",
+          "lemma": "שָׁם",
+          "translit": "shamah",
+          "morph": "Adverb + Suffix dual",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "joel-4-11-7",
+          "surface": "הַֽנְחַ֥ת",
+          "lemma": "נָחַת",
+          "translit": "hanechat",
+          "morph": "Verb Hiphil Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5181"
+        },
+        {
+          "id": "joel-4-11-8",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "joel-4-11-9",
+          "surface": "גִּבּוֹרֶֽיךָ",
+          "lemma": "גִּבּוֹר",
+          "translit": "gibvoreyka",
+          "morph": "Adjective + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1368"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:12",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-12-0",
+          "surface": "יֵע֨וֹרוּ֙",
+          "lemma": "עוּר",
+          "translit": "ye`vorv",
+          "morph": "Verb Niphal Jussive 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5782"
+        },
+        {
+          "id": "joel-4-12-1",
+          "surface": "וְיַעֲל֣וּ",
+          "lemma": "עָלָה",
+          "translit": "veya`lv",
+          "morph": "Conjunction + Verb Qal Jussive 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "joel-4-12-2",
+          "surface": "הַגּוֹיִ֔ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "joel-4-12-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "joel-4-12-4",
+          "surface": "עֵ֖מֶק",
+          "lemma": "עֵמֶק",
+          "translit": "`emeq",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6010"
+        },
+        {
+          "id": "joel-4-12-5",
+          "surface": "יְהֽוֹשָׁפָ֑ט",
+          "lemma": "יְהוֹשָׁפָט",
+          "translit": "yehvoshapat",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3092"
+        },
+        {
+          "id": "joel-4-12-6",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "joel-4-12-7",
+          "surface": "שָׁ֗ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "joel-4-12-8",
+          "surface": "אֵשֵׁ֛ב",
+          "lemma": "יָשַׁב",
+          "translit": "'esheb",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "joel-4-12-9",
+          "surface": "לִשְׁפֹּ֥ט",
+          "lemma": "שָׁפַט",
+          "translit": "lishepot",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H8199"
+        },
+        {
+          "id": "joel-4-12-10",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "joel-4-12-11",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "joel-4-12-12",
+          "surface": "הַגּוֹיִ֖ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "joel-4-12-13",
+          "surface": "מִסָּבִֽיב",
+          "lemma": "סָבִיב",
+          "translit": "misabiyb",
+          "morph": "Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H5439"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:13",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-13-0",
+          "surface": "שִׁלְח֣וּ",
+          "lemma": "שָׁלַח",
+          "translit": "shilechv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "joel-4-13-1",
+          "surface": "מַגָּ֔ל",
+          "lemma": "מַגָּל",
+          "translit": "magal",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4038"
+        },
+        {
+          "id": "joel-4-13-2",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "joel-4-13-3",
+          "surface": "בָשַׁ֖ל",
+          "lemma": "בָּשַׁל",
+          "translit": "bashal",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1310"
+        },
+        {
+          "id": "joel-4-13-4",
+          "surface": "קָצִ֑יר",
+          "lemma": "קָצִיר",
+          "translit": "qatsiyr",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7105"
+        },
+        {
+          "id": "joel-4-13-5",
+          "surface": "בֹּ֤אֽוּ",
+          "lemma": "בּוֹא",
+          "translit": "bo'v",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "joel-4-13-6",
+          "surface": "רְדוּ֙",
+          "lemma": "יָרַד",
+          "translit": "redv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "joel-4-13-7",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "joel-4-13-8",
+          "surface": "מָ֣לְאָה",
+          "lemma": "מָלֵא",
+          "translit": "male'ah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4390"
+        },
+        {
+          "id": "joel-4-13-9",
+          "surface": "גַּ֔ת",
+          "lemma": "גַּת",
+          "translit": "gat",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1660"
+        },
+        {
+          "id": "joel-4-13-10",
+          "surface": "הֵשִׁ֨יקוּ֙",
+          "lemma": "שׁוּק",
+          "translit": "heshiyqv",
+          "morph": "Verb Hiphil Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H7783"
+        },
+        {
+          "id": "joel-4-13-11",
+          "surface": "הַיְקָבִ֔ים",
+          "lemma": "יֶקֶב",
+          "translit": "hayeqabiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3342"
+        },
+        {
+          "id": "joel-4-13-12",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "joel-4-13-13",
+          "surface": "רַבָּ֖ה",
+          "lemma": "רַב",
+          "translit": "rabah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7227"
+        },
+        {
+          "id": "joel-4-13-14",
+          "surface": "רָעָתָֽם",
+          "lemma": "רַע",
+          "translit": "ra`atam",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H7451"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:14",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-14-0",
+          "surface": "הֲמוֹנִ֣ים",
+          "lemma": "הָמוֹן",
+          "translit": "hmvoniym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1995"
+        },
+        {
+          "id": "joel-4-14-1",
+          "surface": "הֲמוֹנִ֔ים",
+          "lemma": "הָמוֹן",
+          "translit": "hmvoniym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1995"
+        },
+        {
+          "id": "joel-4-14-2",
+          "surface": "בְּעֵ֖מֶק",
+          "lemma": "עֵמֶק",
+          "translit": "be`emeq",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6010"
+        },
+        {
+          "id": "joel-4-14-3",
+          "surface": "הֶֽחָר֑וּץ",
+          "lemma": "חֲרוּץ",
+          "translit": "hecharvts",
+          "morph": "Particle dual + Noun proper",
+          "glosses": [],
+          "strongs": "H2742"
+        },
+        {
+          "id": "joel-4-14-4",
+          "surface": "כִּ֤י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "joel-4-14-5",
+          "surface": "קָרוֹב֙",
+          "lemma": "קָרוֹב",
+          "translit": "qarvob",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7138"
+        },
+        {
+          "id": "joel-4-14-6",
+          "surface": "י֣וֹם",
+          "lemma": "יוֹם",
+          "translit": "yvom",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "joel-4-14-7",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "joel-4-14-8",
+          "surface": "בְּעֵ֖מֶק",
+          "lemma": "עֵמֶק",
+          "translit": "be`emeq",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6010"
+        },
+        {
+          "id": "joel-4-14-9",
+          "surface": "הֶחָרֽוּץ",
+          "lemma": "חֲרוּץ",
+          "translit": "hecharvts",
+          "morph": "Particle dual + Noun proper",
+          "glosses": [],
+          "strongs": "H2742"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:15",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-15-0",
+          "surface": "שֶׁ֥מֶשׁ",
+          "lemma": "שֶׁמֶשׁ",
+          "translit": "shemesh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H8121"
+        },
+        {
+          "id": "joel-4-15-1",
+          "surface": "וְיָרֵ֖חַ",
+          "lemma": "יָרֵחַ",
+          "translit": "veyarecha",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3394"
+        },
+        {
+          "id": "joel-4-15-2",
+          "surface": "קָדָ֑רוּ",
+          "lemma": "קָדַר",
+          "translit": "qadarv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6937"
+        },
+        {
+          "id": "joel-4-15-3",
+          "surface": "וְכוֹכָבִ֖ים",
+          "lemma": "כּוֹכָב",
+          "translit": "vekvokabiym",
+          "morph": "Conjunction + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3556"
+        },
+        {
+          "id": "joel-4-15-4",
+          "surface": "אָסְפ֥וּ",
+          "lemma": "אָסַף",
+          "translit": "'asepv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H622"
+        },
+        {
+          "id": "joel-4-15-5",
+          "surface": "נָגְהָֽם",
+          "lemma": "נֹגַהּ",
+          "translit": "nageham",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H5051"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:16",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-16-0",
+          "surface": "וַיהוָ֞ה",
+          "lemma": "יְהֹוָה",
+          "translit": "vayhvah",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "joel-4-16-1",
+          "surface": "מִצִּיּ֣וֹן",
+          "lemma": "צִיּוֹן",
+          "translit": "mitsiyvon",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6726"
+        },
+        {
+          "id": "joel-4-16-2",
+          "surface": "יִשְׁאָ֗ג",
+          "lemma": "שָׁאַג",
+          "translit": "yishe'ag",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7580"
+        },
+        {
+          "id": "joel-4-16-3",
+          "surface": "וּמִירוּשָׁלִַ֨ם֙",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "translit": "vmiyrvshalaim",
+          "morph": "Conjunction + Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3389"
+        },
+        {
+          "id": "joel-4-16-4",
+          "surface": "יִתֵּ֣ן",
+          "lemma": "נָתַן",
+          "translit": "yiten",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "joel-4-16-5",
+          "surface": "קוֹל֔וֹ",
+          "lemma": "קוֹל",
+          "translit": "qvolvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6963"
+        },
+        {
+          "id": "joel-4-16-6",
+          "surface": "וְרָעֲשׁ֖וּ",
+          "lemma": "רָעַשׁ",
+          "translit": "vera`shv",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H7493"
+        },
+        {
+          "id": "joel-4-16-7",
+          "surface": "שָׁמַ֣יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "shamayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "joel-4-16-8",
+          "surface": "וָאָ֑רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "va'arets",
+          "morph": "Conjunction + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "joel-4-16-9",
+          "surface": "וַֽיהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "vayhvah",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "joel-4-16-10",
+          "surface": "מַֽחֲסֶ֣ה",
+          "lemma": "מַחֲסֶה",
+          "translit": "machseh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4268"
+        },
+        {
+          "id": "joel-4-16-11",
+          "surface": "לְעַמּ֔וֹ",
+          "lemma": "עַם",
+          "translit": "le`amvo",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "joel-4-16-12",
+          "surface": "וּמָע֖וֹז",
+          "lemma": "מָעוֹז",
+          "translit": "vma`voz",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4581"
+        },
+        {
+          "id": "joel-4-16-13",
+          "surface": "לִבְנֵ֥י",
+          "lemma": "בֵּן",
+          "translit": "libeney",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "joel-4-16-14",
+          "surface": "יִשְׂרָאֵֽל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:17",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-17-0",
+          "surface": "וִֽידַעְתֶּ֗ם",
+          "lemma": "יָדַע",
+          "translit": "viyda`etem",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "joel-4-17-1",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "joel-4-17-2",
+          "surface": "אֲנִ֤י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "joel-4-17-3",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "joel-4-17-4",
+          "surface": "אֱלֹ֣הֵיכֶ֔ם",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheykem",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "joel-4-17-5",
+          "surface": "שֹׁכֵ֖ן",
+          "lemma": "שָׁכַן",
+          "translit": "shoken",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7931"
+        },
+        {
+          "id": "joel-4-17-6",
+          "surface": "בְּצִיּ֣וֹן",
+          "lemma": "צִיּוֹן",
+          "translit": "betsiyvon",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6726"
+        },
+        {
+          "id": "joel-4-17-7",
+          "surface": "הַר",
+          "lemma": "הַר",
+          "translit": "har",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "joel-4-17-8",
+          "surface": "קָדְשִׁ֑י",
+          "lemma": "קֹדֶשׁ",
+          "translit": "qadeshiy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H6944"
+        },
+        {
+          "id": "joel-4-17-9",
+          "surface": "וְהָיְתָ֤ה",
+          "lemma": "הָיָה",
+          "translit": "vehayetah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "joel-4-17-10",
+          "surface": "יְרוּשָׁלִַ֨ם֙",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "translit": "yervshalaim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3389"
+        },
+        {
+          "id": "joel-4-17-11",
+          "surface": "קֹ֔דֶשׁ",
+          "lemma": "קֹדֶשׁ",
+          "translit": "qodesh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6944"
+        },
+        {
+          "id": "joel-4-17-12",
+          "surface": "וְזָרִ֥ים",
+          "lemma": "זוּר",
+          "translit": "vezariym",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H2114"
+        },
+        {
+          "id": "joel-4-17-13",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "joel-4-17-14",
+          "surface": "יַֽעַבְרוּ",
+          "lemma": "עָבַר",
+          "translit": "ya`aberv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5674"
+        },
+        {
+          "id": "joel-4-17-15",
+          "surface": "בָ֖הּ",
+          "lemma": "בָ֖הּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "joel-4-17-16",
+          "surface": "עֽוֹד",
+          "lemma": "עוֹד",
+          "translit": "`vod",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H5750"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:18",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-18-0",
+          "surface": "וְהָיָה֩",
+          "lemma": "הָיָה",
+          "translit": "vehayah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "joel-4-18-1",
+          "surface": "בַיּ֨וֹם",
+          "lemma": "יוֹם",
+          "translit": "bayvom",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "joel-4-18-2",
+          "surface": "הַה֜וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "joel-4-18-3",
+          "surface": "יִטְּפ֧וּ",
+          "lemma": "נָטַף",
+          "translit": "yitepv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5197"
+        },
+        {
+          "id": "joel-4-18-4",
+          "surface": "הֶהָרִ֣ים",
+          "lemma": "הַר",
+          "translit": "hehariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "joel-4-18-5",
+          "surface": "עָסִ֗יס",
+          "lemma": "עָסִיס",
+          "translit": "`asiys",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6071"
+        },
+        {
+          "id": "joel-4-18-6",
+          "surface": "וְהַגְּבָעוֹת֙",
+          "lemma": "גִּבְעָה",
+          "translit": "vehageba`vot",
+          "morph": "Conjunction + Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H1389"
+        },
+        {
+          "id": "joel-4-18-7",
+          "surface": "תֵּלַ֣כְנָה",
+          "lemma": "יָלַךְ",
+          "translit": "telakenah",
+          "morph": "Verb Qal Imperative 3rd feminine plural",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "joel-4-18-8",
+          "surface": "חָלָ֔ב",
+          "lemma": "חָלָב",
+          "translit": "chalab",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2461"
+        },
+        {
+          "id": "joel-4-18-9",
+          "surface": "וְכָל",
+          "lemma": "כֹּל",
+          "translit": "vekal",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "joel-4-18-10",
+          "surface": "אֲפִיקֵ֥י",
+          "lemma": "אָפִיק",
+          "translit": "'piyqey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H650"
+        },
+        {
+          "id": "joel-4-18-11",
+          "surface": "יְהוּדָ֖ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "joel-4-18-12",
+          "surface": "יֵ֣לְכוּ",
+          "lemma": "יָלַךְ",
+          "translit": "yelekv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "joel-4-18-13",
+          "surface": "מָ֑יִם",
+          "lemma": "מַיִם",
+          "translit": "mayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4325"
+        },
+        {
+          "id": "joel-4-18-14",
+          "surface": "וּמַעְיָ֗ן",
+          "lemma": "מַעְיָן",
+          "translit": "vma`eyan",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4599"
+        },
+        {
+          "id": "joel-4-18-15",
+          "surface": "מִבֵּ֤ית",
+          "lemma": "בַּיִת",
+          "translit": "mibeyt",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "joel-4-18-16",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "joel-4-18-17",
+          "surface": "יֵצֵ֔א",
+          "lemma": "יָצָא",
+          "translit": "yetse'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "joel-4-18-18",
+          "surface": "וְהִשְׁקָ֖ה",
+          "lemma": "שָׁקָה",
+          "translit": "vehisheqah",
+          "morph": "Conjunction + Verb Hiphil Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8248"
+        },
+        {
+          "id": "joel-4-18-19",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "joel-4-18-20",
+          "surface": "נַ֥חַל",
+          "lemma": "נַחַל",
+          "translit": "nachal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5158"
+        },
+        {
+          "id": "joel-4-18-21",
+          "surface": "הַשִּׁטִּֽים",
+          "lemma": "שִׁטִּים",
+          "translit": "hashitiym",
+          "morph": "Particle dual + Noun proper",
+          "glosses": [],
+          "strongs": "H7851"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:19",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-19-0",
+          "surface": "מִצְרַ֨יִם֙",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "joel-4-19-1",
+          "surface": "לִשְׁמָמָ֣ה",
+          "lemma": "שְׁמָמָה",
+          "translit": "lishemamah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8077"
+        },
+        {
+          "id": "joel-4-19-2",
+          "surface": "תִֽהְיֶ֔ה",
+          "lemma": "הָיָה",
+          "translit": "tiheyeh",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "joel-4-19-3",
+          "surface": "וֶאֱד֕וֹם",
+          "lemma": "אֱדֹם",
+          "translit": "ve'dvom",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H123"
+        },
+        {
+          "id": "joel-4-19-4",
+          "surface": "לְמִדְבַּ֥ר",
+          "lemma": "מִדְבָּר",
+          "translit": "lemidebar",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4057"
+        },
+        {
+          "id": "joel-4-19-5",
+          "surface": "שְׁמָמָ֖ה",
+          "lemma": "שְׁמָמָה",
+          "translit": "shemamah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8077"
+        },
+        {
+          "id": "joel-4-19-6",
+          "surface": "תִּֽהְיֶ֑ה",
+          "lemma": "הָיָה",
+          "translit": "tiheyeh",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "joel-4-19-7",
+          "surface": "מֵֽחֲמַס֙",
+          "lemma": "חָמָס",
+          "translit": "mechmas",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2555"
+        },
+        {
+          "id": "joel-4-19-8",
+          "surface": "בְּנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "joel-4-19-9",
+          "surface": "יְהוּדָ֔ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "joel-4-19-10",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "joel-4-19-11",
+          "surface": "שָׁפְכ֥וּ",
+          "lemma": "שָׁפַךְ",
+          "translit": "shapekv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H8210"
+        },
+        {
+          "id": "joel-4-19-12",
+          "surface": "דָם",
+          "lemma": "דָּם",
+          "translit": "dam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1818"
+        },
+        {
+          "id": "joel-4-19-13",
+          "surface": "נָקִ֖יא",
+          "lemma": "נָקִי",
+          "translit": "naqiy'",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5355"
+        },
+        {
+          "id": "joel-4-19-14",
+          "surface": "בְּאַרְצָֽם",
+          "lemma": "אֶרֶץ",
+          "translit": "be'aretsam",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:20",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-20-0",
+          "surface": "וִיהוּדָ֖ה",
+          "lemma": "יְהוּדָה",
+          "translit": "viyhvdah",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "joel-4-20-1",
+          "surface": "לְעוֹלָ֣ם",
+          "lemma": "עוֹלָם",
+          "translit": "le`volam",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        },
+        {
+          "id": "joel-4-20-2",
+          "surface": "תֵּשֵׁ֑ב",
+          "lemma": "יָשַׁב",
+          "translit": "tesheb",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "joel-4-20-3",
+          "surface": "וִירוּשָׁלִַ֖ם",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "translit": "viyrvshalaim",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3389"
+        },
+        {
+          "id": "joel-4-20-4",
+          "surface": "לְד֥וֹר",
+          "lemma": "דּוֹר",
+          "translit": "ledvor",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1755"
+        },
+        {
+          "id": "joel-4-20-5",
+          "surface": "וָדֽוֹר",
+          "lemma": "דּוֹר",
+          "translit": "vadvor",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1755"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Joel 4:21",
+      "englishText": "[English translation missing]",
+      "tokens": [
+        {
+          "id": "joel-4-21-0",
+          "surface": "וְנִקֵּ֖יתִי",
+          "lemma": "נָקָה",
+          "translit": "veniqeytiy",
+          "morph": "Conjunction + Verb Piel Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H5352"
+        },
+        {
+          "id": "joel-4-21-1",
+          "surface": "דָּמָ֣ם",
+          "lemma": "דָּם",
+          "translit": "damam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1818"
+        },
+        {
+          "id": "joel-4-21-2",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "joel-4-21-3",
+          "surface": "נִקֵּ֑יתִי",
+          "lemma": "נָקָה",
+          "translit": "niqeytiy",
+          "morph": "Verb Piel Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H5352"
+        },
+        {
+          "id": "joel-4-21-4",
+          "surface": "וַֽיהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "vayhvah",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "joel-4-21-5",
+          "surface": "שֹׁכֵ֥ן",
+          "lemma": "שָׁכַן",
+          "translit": "shoken",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7931"
+        },
+        {
+          "id": "joel-4-21-6",
+          "surface": "בְּצִיּֽוֹן",
+          "lemma": "צִיּוֹן",
+          "translit": "betsiyvon",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6726"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

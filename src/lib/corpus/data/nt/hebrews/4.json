@@ -1,1 +1,3367 @@
-{"id":"hebrews-4","name":"Hebrews","chapter":4,"verses":[{"ref":"Hebrews 4:1","englishText":"Let us fear therefore, lest perhaps anyone of you should seem to have come short of a promise of entering into his rest.","tokens":[{"id":"hebrews-4-1-851","surface":"Φοβηθῶμεν","word":"Φοβηθῶμεν","lemma":"φοβέομαι","translit":"Phobethomen","morph":"Verb, 1st person, aorist, passive, subjunctive","pos":"Verb","glosses":["φοβέομαι"]},{"id":"hebrews-4-1-852","surface":"οὖν","word":"οὖν","lemma":"οὖν","translit":"oyn","morph":"Conjunction","pos":"Conjunction","glosses":["apparently a primary word"],"strongs":"G3767"},{"id":"hebrews-4-1-853","surface":"μήποτε","word":"μήποτε","lemma":"μήποτε","translit":"mepote","morph":"Conjunction","pos":"Conjunction","glosses":["from μή and ποτέ"],"strongs":"G3379"},{"id":"hebrews-4-1-854","surface":"καταλειπομένης","word":"καταλειπομένης","lemma":"καταλείπω","translit":"kataleipomenes","morph":"Verb, present, passive, participle, genitive, singular, feminine","pos":"Verb","glosses":["from κατά and λείπω"],"strongs":"G2641"},{"id":"hebrews-4-1-855","surface":"ἐπαγγελίας","word":"ἐπαγγελίας","lemma":"ἐπαγγελία","translit":"epaggelias","morph":"Noun","pos":"Noun","glosses":["from ἐπαγγέλλω"],"strongs":"G1860"},{"id":"hebrews-4-1-856","surface":"εἰσελθεῖν","word":"εἰσελθεῖν","lemma":"εἰσέρχομαι","translit":"eiselthein","morph":"Verb, aorist, active, infinitive","pos":"Verb","glosses":["from εἰς and ἔρχομαι"],"strongs":"G1525"},{"id":"hebrews-4-1-857","surface":"εἰς","word":"εἰς","lemma":"εἰς","translit":"eis","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G1519"},{"id":"hebrews-4-1-858","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-1-859","surface":"κατάπαυσιν","word":"κατάπαυσιν","lemma":"κατάπαυσις","translit":"katapaysin","morph":"Noun","pos":"Noun","glosses":["from καταπαύω"],"strongs":"G2663"},{"id":"hebrews-4-1-860","surface":"αὐτοῦ","word":"αὐτοῦ","lemma":"αὐτός","translit":"aytoy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846"},{"id":"hebrews-4-1-861","surface":"δοκῇ","word":"δοκῇ","lemma":"δοκέω","translit":"doke","morph":"Verb, 3rd person, present, active, subjunctive","pos":"Verb","glosses":["a prolonged form of a primary verb"],"strongs":"G1380"},{"id":"hebrews-4-1-862","surface":"τις","word":"τις","lemma":"τις","translit":"tis","morph":"Interrogative/Indefinite Pronoun","pos":"Interrogative/Indefinite Pronoun","glosses":["τις"]},{"id":"hebrews-4-1-863","surface":"ἐξ","word":"ἐξ","lemma":"ἐκ","translit":"ex","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting origin the point whence action or motion proceeds"],"strongs":"G1537"},{"id":"hebrews-4-1-864","surface":"ὑμῶν","word":"ὑμῶν","lemma":"σύ","translit":"hymon","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771"},{"id":"hebrews-4-1-865","surface":"ὑστερηκέναι·","word":"ὑστερηκέναι","lemma":"ὑστερέω","translit":"hysterekenai","morph":"Verb, perfect, active, infinitive","pos":"Verb","glosses":["from ὕστερος"],"strongs":"G5302","punctuationAfter":"·"}]},{"ref":"Hebrews 4:2","englishText":"For indeed we have had good news preached to us, even as they also did, but the word they heard didn’t profit them, because it wasn’t mixed with faith by those who heard.","tokens":[{"id":"hebrews-4-2-866","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Adverb","pos":"Adverb","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-2-867","surface":"γάρ","word":"γάρ","lemma":"γάρ","translit":"gar","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle"],"strongs":"G1063"},{"id":"hebrews-4-2-868","surface":"ἐσμεν","word":"ἐσμεν","lemma":"εἰμί","translit":"esmen","morph":"Verb, 1st person, present, active, indicative","pos":"Verb","glosses":["the first person singular present indicative"],"strongs":"G1510"},{"id":"hebrews-4-2-869","surface":"εὐηγγελισμένοι","word":"εὐηγγελισμένοι","lemma":"εὐαγγελίζω","translit":"eyeggelismenoi","morph":"Verb, perfect, passive, participle, nominative, plural, masculine","pos":"Verb","glosses":["from εὖ and ἄγγελος"],"strongs":"G2097"},{"id":"hebrews-4-2-870","surface":"καθάπερ","word":"καθάπερ","lemma":"καθάπερ","translit":"kathaper","morph":"Conjunction","pos":"Conjunction","glosses":["from καθά and περ"],"strongs":"G2509"},{"id":"hebrews-4-2-871","surface":"κἀκεῖνοι,","word":"κἀκεῖνοι","lemma":"κἀκεῖνος","translit":"kakeinoi","morph":"Demonstrative Pronoun","pos":"Demonstrative Pronoun","glosses":["from καί and ἐκεῖνος"],"strongs":"G2548","punctuationAfter":","},{"id":"hebrews-4-2-872","surface":"ἀλλ’","word":"ἀλλ’","lemma":"ἀλλά","translit":"all’","morph":"Conjunction","pos":"Conjunction","glosses":["neuter plural of ἄλλος"],"strongs":"G235"},{"id":"hebrews-4-2-873","surface":"οὐκ","word":"οὐκ","lemma":"οὐ","translit":"oyk","morph":"Adverb","pos":"Adverb","glosses":["a primary word"],"strongs":"G3756"},{"id":"hebrews-4-2-874","surface":"ὠφέλησεν","word":"ὠφέλησεν","lemma":"ὠφελέω","translit":"ophelesen","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["from the same as ὠφέλεια"],"strongs":"G5623"},{"id":"hebrews-4-2-875","surface":"ὁ","word":"ὁ","lemma":"ὁ","translit":"ho","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-2-876","surface":"λόγος","word":"λόγος","lemma":"λόγος","translit":"logos","morph":"Noun","pos":"Noun","glosses":["from λέγω"],"strongs":"G3056"},{"id":"hebrews-4-2-877","surface":"τῆς","word":"τῆς","lemma":"ὁ","translit":"tes","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-2-878","surface":"ἀκοῆς","word":"ἀκοῆς","lemma":"ἀκοή","translit":"akoes","morph":"Noun","pos":"Noun","glosses":["from ἀκούω"],"strongs":"G189"},{"id":"hebrews-4-2-879","surface":"ἐκείνους,","word":"ἐκείνους","lemma":"ἐκεῖνος","translit":"ekeinoys","morph":"Demonstrative Pronoun","pos":"Demonstrative Pronoun","glosses":["from ἐκεῖ"],"strongs":"G1565","punctuationAfter":","},{"id":"hebrews-4-2-880","surface":"μὴ","word":"μὴ","lemma":"μή","translit":"me","morph":"Adverb","pos":"Adverb","glosses":["a primary particle of qualified negation whereas οὐ expresses an absolute denial"],"strongs":"G3361"},{"id":"hebrews-4-2-881","surface":"⸀συγκεκερασμένους","word":"συγκεκερασμένους","lemma":"συγκεράννυμι","translit":"sygkekerasmenoys","morph":"Verb, perfect, passive, participle, accusative, plural, masculine","pos":"Verb","glosses":["from σύν and κεράννυμι"],"strongs":"G4786"},{"id":"hebrews-4-2-882","surface":"τῇ","word":"τῇ","lemma":"ὁ","translit":"te","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-2-883","surface":"πίστει","word":"πίστει","lemma":"πίστις","translit":"pistei","morph":"Noun","pos":"Noun","glosses":["from πείθω"],"strongs":"G4102"},{"id":"hebrews-4-2-884","surface":"τοῖς","word":"τοῖς","lemma":"ὁ","translit":"tois","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-2-885","surface":"ἀκούσασιν.","word":"ἀκούσασιν","lemma":"ἀκούω","translit":"akoysasin","morph":"Verb, aorist, active, participle, dative, plural, masculine","pos":"Verb","glosses":["a primary verb"],"strongs":"G191","punctuationAfter":"."}]},{"ref":"Hebrews 4:3","englishText":"For we who have believed do enter into that rest, even as he has said, “As I swore in my wrath, they will not enter into my rest”; although the works were finished from the foundation of the world.","tokens":[{"id":"hebrews-4-3-886","surface":"εἰσερχόμεθα","word":"εἰσερχόμεθα","lemma":"εἰσέρχομαι","translit":"eiserchometha","morph":"Verb, 1st person, present, middle, indicative","pos":"Verb","glosses":["from εἰς and ἔρχομαι"],"strongs":"G1525"},{"id":"hebrews-4-3-887","surface":"γὰρ","word":"γὰρ","lemma":"γάρ","translit":"gar","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle"],"strongs":"G1063"},{"id":"hebrews-4-3-888","surface":"⸀εἰς","word":"εἰς","lemma":"εἰς","translit":"eis","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G1519"},{"id":"hebrews-4-3-889","surface":"κατάπαυσιν","word":"κατάπαυσιν","lemma":"κατάπαυσις","translit":"katapaysin","morph":"Noun","pos":"Noun","glosses":["from καταπαύω"],"strongs":"G2663"},{"id":"hebrews-4-3-890","surface":"οἱ","word":"οἱ","lemma":"ὁ","translit":"hoi","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-3-891","surface":"πιστεύσαντες,","word":"πιστεύσαντες","lemma":"πιστεύω","translit":"pisteysantes","morph":"Verb, aorist, active, participle, nominative, plural, masculine","pos":"Verb","glosses":["from πίστις"],"strongs":"G4100","punctuationAfter":","},{"id":"hebrews-4-3-892","surface":"καθὼς","word":"καθὼς","lemma":"καθώς","translit":"kathos","morph":"Conjunction","pos":"Conjunction","glosses":["from κατά and ὡς"],"strongs":"G2531"},{"id":"hebrews-4-3-893","surface":"εἴρηκεν·","word":"εἴρηκεν","lemma":"λέγω","translit":"eireken","morph":"Verb, 3rd person, perfect, active, indicative","pos":"Verb","glosses":["a primary verb"],"strongs":"G3004","punctuationAfter":"·"},{"id":"hebrews-4-3-894","surface":"Ὡς","word":"Ὡς","lemma":"ὡς","translit":"Hos","morph":"Conjunction","pos":"Conjunction","glosses":["probably adverb of comparative from ὅς"],"strongs":"G5613"},{"id":"hebrews-4-3-895","surface":"ὤμοσα","word":"ὤμοσα","lemma":"ὀμνύω","translit":"omosa","morph":"Verb, 1st person, aorist, active, indicative","pos":"Verb","glosses":["a prolonged form of a primary"],"strongs":"G3660"},{"id":"hebrews-4-3-896","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"hebrews-4-3-897","surface":"τῇ","word":"τῇ","lemma":"ὁ","translit":"te","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-3-898","surface":"ὀργῇ","word":"ὀργῇ","lemma":"ὀργή","translit":"orge","morph":"Noun","pos":"Noun","glosses":["from ὀρέγομαι"],"strongs":"G3709"},{"id":"hebrews-4-3-899","surface":"μου,","word":"μου","lemma":"ἐγώ","translit":"moy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473","punctuationAfter":","},{"id":"hebrews-4-3-900","surface":"Εἰ","word":"Εἰ","lemma":"εἰ","translit":"Ei","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle of conditionality"],"strongs":"G1487"},{"id":"hebrews-4-3-901","surface":"εἰσελεύσονται","word":"εἰσελεύσονται","lemma":"εἰσέρχομαι","translit":"eiseleysontai","morph":"Verb, 3rd person, future, middle, indicative","pos":"Verb","glosses":["from εἰς and ἔρχομαι"],"strongs":"G1525"},{"id":"hebrews-4-3-902","surface":"εἰς","word":"εἰς","lemma":"εἰς","translit":"eis","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G1519"},{"id":"hebrews-4-3-903","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-3-904","surface":"κατάπαυσίν","word":"κατάπαυσίν","lemma":"κατάπαυσις","translit":"katapaysin","morph":"Noun","pos":"Noun","glosses":["from καταπαύω"],"strongs":"G2663"},{"id":"hebrews-4-3-905","surface":"μου,","word":"μου","lemma":"ἐγώ","translit":"moy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473","punctuationAfter":","},{"id":"hebrews-4-3-906","surface":"καίτοι","word":"καίτοι","lemma":"καίτοι","translit":"kaitoi","morph":"Conjunction","pos":"Conjunction","glosses":["from καί and τοί"],"strongs":"G2543"},{"id":"hebrews-4-3-907","surface":"τῶν","word":"τῶν","lemma":"ὁ","translit":"ton","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-3-908","surface":"ἔργων","word":"ἔργων","lemma":"ἔργον","translit":"ergon","morph":"Noun","pos":"Noun","glosses":["from a primary but obsolete  to work"],"strongs":"G2041"},{"id":"hebrews-4-3-909","surface":"ἀπὸ","word":"ἀπὸ","lemma":"ἀπό","translit":"apo","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G575"},{"id":"hebrews-4-3-910","surface":"καταβολῆς","word":"καταβολῆς","lemma":"καταβολή","translit":"kataboles","morph":"Noun","pos":"Noun","glosses":["from καταβάλλω"],"strongs":"G2602"},{"id":"hebrews-4-3-911","surface":"κόσμου","word":"κόσμου","lemma":"κόσμος","translit":"kosmoy","morph":"Noun","pos":"Noun","glosses":["probably from the base of κομίζω"],"strongs":"G2889"},{"id":"hebrews-4-3-912","surface":"γενηθέντων,","word":"γενηθέντων","lemma":"γίνομαι","translit":"genethenton","morph":"Verb, aorist, passive, participle, genitive, plural, neuter","pos":"Verb","glosses":["a prolongation and middle voice form of a primary verb"],"strongs":"G1096","punctuationAfter":","}]},{"ref":"Hebrews 4:4","englishText":"For he has said this somewhere about the seventh day, “God rested on the seventh day from all his works”;","tokens":[{"id":"hebrews-4-4-913","surface":"εἴρηκεν","word":"εἴρηκεν","lemma":"λέγω","translit":"eireken","morph":"Verb, 3rd person, perfect, active, indicative","pos":"Verb","glosses":["a primary verb"],"strongs":"G3004"},{"id":"hebrews-4-4-914","surface":"γάρ","word":"γάρ","lemma":"γάρ","translit":"gar","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle"],"strongs":"G1063"},{"id":"hebrews-4-4-915","surface":"που","word":"που","lemma":"πού","translit":"poy","morph":"Adverb","pos":"Adverb","glosses":["genitive case of an indefinite pronoun  some otherwise obsolete compare πόσος"],"strongs":"G4225"},{"id":"hebrews-4-4-916","surface":"περὶ","word":"περὶ","lemma":"περί","translit":"peri","morph":"Preposition","pos":"Preposition","glosses":["from the base of πέραν"],"strongs":"G4012"},{"id":"hebrews-4-4-917","surface":"τῆς","word":"τῆς","lemma":"ὁ","translit":"tes","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-4-918","surface":"ἑβδόμης","word":"ἑβδόμης","lemma":"ἕβδομος","translit":"hebdomes","morph":"Adjective","pos":"Adjective","glosses":["ordinal from ἑπτά"],"strongs":"G1442"},{"id":"hebrews-4-4-919","surface":"οὕτως·","word":"οὕτως","lemma":"οὕτω(ς)","translit":"hoytos","morph":"Adverb","pos":"Adverb","glosses":["οὕτω(ς)"],"punctuationAfter":"·"},{"id":"hebrews-4-4-920","surface":"Καὶ","word":"Καὶ","lemma":"καί","translit":"Kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-4-921","surface":"κατέπαυσεν","word":"κατέπαυσεν","lemma":"καταπαύω","translit":"katepaysen","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["from κατά and παύω"],"strongs":"G2664"},{"id":"hebrews-4-4-922","surface":"ὁ","word":"ὁ","lemma":"ὁ","translit":"ho","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-4-923","surface":"θεὸς","word":"θεὸς","lemma":"θεός","translit":"theos","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316"},{"id":"hebrews-4-4-924","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"hebrews-4-4-925","surface":"τῇ","word":"τῇ","lemma":"ὁ","translit":"te","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-4-926","surface":"ἡμέρᾳ","word":"ἡμέρᾳ","lemma":"ἡμέρα","translit":"hemera","morph":"Noun","pos":"Noun","glosses":["feminine with ὥρα implied of a derivative of  to sit"],"strongs":"G2250"},{"id":"hebrews-4-4-927","surface":"τῇ","word":"τῇ","lemma":"ὁ","translit":"te","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-4-928","surface":"ἑβδόμῃ","word":"ἑβδόμῃ","lemma":"ἕβδομος","translit":"hebdome","morph":"Adjective","pos":"Adjective","glosses":["ordinal from ἑπτά"],"strongs":"G1442"},{"id":"hebrews-4-4-929","surface":"ἀπὸ","word":"ἀπὸ","lemma":"ἀπό","translit":"apo","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G575"},{"id":"hebrews-4-4-930","surface":"πάντων","word":"πάντων","lemma":"πᾶς","translit":"panton","morph":"Adjective","pos":"Adjective","glosses":["including all the forms of declension"],"strongs":"G3956"},{"id":"hebrews-4-4-931","surface":"τῶν","word":"τῶν","lemma":"ὁ","translit":"ton","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-4-932","surface":"ἔργων","word":"ἔργων","lemma":"ἔργον","translit":"ergon","morph":"Noun","pos":"Noun","glosses":["from a primary but obsolete  to work"],"strongs":"G2041"},{"id":"hebrews-4-4-933","surface":"αὐτοῦ,","word":"αὐτοῦ","lemma":"αὐτός","translit":"aytoy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846","punctuationAfter":","}]},{"ref":"Hebrews 4:5","englishText":"and in this place again, “They will not enter into my rest.”","tokens":[{"id":"hebrews-4-5-934","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-5-935","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"hebrews-4-5-936","surface":"τούτῳ","word":"τούτῳ","lemma":"οὗτος","translit":"toyto","morph":"Demonstrative Pronoun","pos":"Demonstrative Pronoun","glosses":["from the article ὁ and αὐτός"],"strongs":"G3778"},{"id":"hebrews-4-5-937","surface":"πάλιν·","word":"πάλιν","lemma":"πάλιν","translit":"palin","morph":"Adverb","pos":"Adverb","glosses":["probably from the same as πάλη through the idea of oscillatory repetition"],"strongs":"G3825","punctuationAfter":"·"},{"id":"hebrews-4-5-938","surface":"Εἰ","word":"Εἰ","lemma":"εἰ","translit":"Ei","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle of conditionality"],"strongs":"G1487"},{"id":"hebrews-4-5-939","surface":"εἰσελεύσονται","word":"εἰσελεύσονται","lemma":"εἰσέρχομαι","translit":"eiseleysontai","morph":"Verb, 3rd person, future, middle, indicative","pos":"Verb","glosses":["from εἰς and ἔρχομαι"],"strongs":"G1525"},{"id":"hebrews-4-5-940","surface":"εἰς","word":"εἰς","lemma":"εἰς","translit":"eis","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G1519"},{"id":"hebrews-4-5-941","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-5-942","surface":"κατάπαυσίν","word":"κατάπαυσίν","lemma":"κατάπαυσις","translit":"katapaysin","morph":"Noun","pos":"Noun","glosses":["from καταπαύω"],"strongs":"G2663"},{"id":"hebrews-4-5-943","surface":"μου.","word":"μου","lemma":"ἐγώ","translit":"moy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473","punctuationAfter":"."}]},{"ref":"Hebrews 4:6","englishText":"Seeing therefore it remains that some should enter therein, and they to whom the good news was before preached failed to enter in because of disobedience,","tokens":[{"id":"hebrews-4-6-944","surface":"ἐπεὶ","word":"ἐπεὶ","lemma":"ἐπεί","translit":"epei","morph":"Conjunction","pos":"Conjunction","glosses":["from ἐπί and εἰ"],"strongs":"G1893"},{"id":"hebrews-4-6-945","surface":"οὖν","word":"οὖν","lemma":"οὖν","translit":"oyn","morph":"Conjunction","pos":"Conjunction","glosses":["apparently a primary word"],"strongs":"G3767"},{"id":"hebrews-4-6-946","surface":"ἀπολείπεται","word":"ἀπολείπεται","lemma":"ἀπολείπω","translit":"apoleipetai","morph":"Verb, 3rd person, present, passive, indicative","pos":"Verb","glosses":["from ἀπό and λείπω"],"strongs":"G620"},{"id":"hebrews-4-6-947","surface":"τινὰς","word":"τινὰς","lemma":"τις","translit":"tinas","morph":"Interrogative/Indefinite Pronoun","pos":"Interrogative/Indefinite Pronoun","glosses":["τις"]},{"id":"hebrews-4-6-948","surface":"εἰσελθεῖν","word":"εἰσελθεῖν","lemma":"εἰσέρχομαι","translit":"eiselthein","morph":"Verb, aorist, active, infinitive","pos":"Verb","glosses":["from εἰς and ἔρχομαι"],"strongs":"G1525"},{"id":"hebrews-4-6-949","surface":"εἰς","word":"εἰς","lemma":"εἰς","translit":"eis","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G1519"},{"id":"hebrews-4-6-950","surface":"αὐτήν,","word":"αὐτήν","lemma":"αὐτός","translit":"ayten","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846","punctuationAfter":","},{"id":"hebrews-4-6-951","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-6-952","surface":"οἱ","word":"οἱ","lemma":"ὁ","translit":"hoi","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-6-953","surface":"πρότερον","word":"πρότερον","lemma":"πρότερος","translit":"proteron","morph":"Adjective","pos":"Adjective","glosses":["comparative of πρό"],"strongs":"G4387"},{"id":"hebrews-4-6-954","surface":"εὐαγγελισθέντες","word":"εὐαγγελισθέντες","lemma":"εὐαγγελίζω","translit":"eyaggelisthentes","morph":"Verb, aorist, passive, participle, nominative, plural, masculine","pos":"Verb","glosses":["from εὖ and ἄγγελος"],"strongs":"G2097"},{"id":"hebrews-4-6-955","surface":"οὐκ","word":"οὐκ","lemma":"οὐ","translit":"oyk","morph":"Adverb","pos":"Adverb","glosses":["a primary word"],"strongs":"G3756"},{"id":"hebrews-4-6-956","surface":"εἰσῆλθον","word":"εἰσῆλθον","lemma":"εἰσέρχομαι","translit":"eiselthon","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["from εἰς and ἔρχομαι"],"strongs":"G1525"},{"id":"hebrews-4-6-957","surface":"δι’","word":"δι’","lemma":"διά","translit":"di’","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting the channel of an act"],"strongs":"G1223"},{"id":"hebrews-4-6-958","surface":"ἀπείθειαν,","word":"ἀπείθειαν","lemma":"ἀπείθεια","translit":"apeitheian","morph":"Noun","pos":"Noun","glosses":["from ἀπειθής"],"strongs":"G543","punctuationAfter":","}]},{"ref":"Hebrews 4:7","englishText":"he again defines a certain day, today, saying through David so long a time afterward (just as has been said),  “Today if you will hear his voice, don’t harden your hearts.”","tokens":[{"id":"hebrews-4-7-959","surface":"πάλιν","word":"πάλιν","lemma":"πάλιν","translit":"palin","morph":"Adverb","pos":"Adverb","glosses":["probably from the same as πάλη through the idea of oscillatory repetition"],"strongs":"G3825"},{"id":"hebrews-4-7-960","surface":"τινὰ","word":"τινὰ","lemma":"τις","translit":"tina","morph":"Interrogative/Indefinite Pronoun","pos":"Interrogative/Indefinite Pronoun","glosses":["τις"]},{"id":"hebrews-4-7-961","surface":"ὁρίζει","word":"ὁρίζει","lemma":"ὁρίζω","translit":"horizei","morph":"Verb, 3rd person, present, active, indicative","pos":"Verb","glosses":["from ὅριον"],"strongs":"G3724"},{"id":"hebrews-4-7-962","surface":"ἡμέραν,","word":"ἡμέραν","lemma":"ἡμέρα","translit":"hemeran","morph":"Noun","pos":"Noun","glosses":["feminine with ὥρα implied of a derivative of  to sit"],"strongs":"G2250","punctuationAfter":","},{"id":"hebrews-4-7-963","surface":"Σήμερον,","word":"Σήμερον","lemma":"σήμερον","translit":"Semeron","morph":"Adverb","pos":"Adverb","glosses":["neuter as adverb of a presumed compound of the article ὁ  t changed to s and ἡμέρα"],"strongs":"G4594","punctuationAfter":","},{"id":"hebrews-4-7-964","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"hebrews-4-7-965","surface":"Δαυὶδ","word":"Δαυὶδ","lemma":"Δαυίδ","translit":"Dayid","morph":"Noun","pos":"Noun","glosses":["δαυίδ"]},{"id":"hebrews-4-7-966","surface":"λέγων","word":"λέγων","lemma":"λέγω","translit":"legon","morph":"Verb, present, active, participle, nominative, singular, masculine","pos":"Verb","glosses":["a primary verb"],"strongs":"G3004"},{"id":"hebrews-4-7-967","surface":"μετὰ","word":"μετὰ","lemma":"μετά","translit":"meta","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition often used adverbially"],"strongs":"G3326"},{"id":"hebrews-4-7-968","surface":"τοσοῦτον","word":"τοσοῦτον","lemma":"τοσοῦτος","translit":"tosoyton","morph":"Demonstrative Pronoun","pos":"Demonstrative Pronoun","glosses":["from  so much"],"strongs":"G5118"},{"id":"hebrews-4-7-969","surface":"χρόνον,","word":"χρόνον","lemma":"χρόνος","translit":"chronon","morph":"Noun","pos":"Noun","glosses":["of uncertain derivation"],"strongs":"G5550","punctuationAfter":","},{"id":"hebrews-4-7-970","surface":"καθὼς","word":"καθὼς","lemma":"καθώς","translit":"kathos","morph":"Conjunction","pos":"Conjunction","glosses":["from κατά and ὡς"],"strongs":"G2531"},{"id":"hebrews-4-7-971","surface":"⸀προείρηται,","word":"προείρηται","lemma":"προλέγω","translit":"proeiretai","morph":"Verb, 3rd person, perfect, passive, indicative","pos":"Verb","glosses":["from πρό and λέγω"],"strongs":"G4302","punctuationAfter":","},{"id":"hebrews-4-7-972","surface":"Σήμερον","word":"Σήμερον","lemma":"σήμερον","translit":"Semeron","morph":"Adverb","pos":"Adverb","glosses":["neuter as adverb of a presumed compound of the article ὁ  t changed to s and ἡμέρα"],"strongs":"G4594"},{"id":"hebrews-4-7-973","surface":"ἐὰν","word":"ἐὰν","lemma":"ἐάν","translit":"ean","morph":"Conjunction","pos":"Conjunction","glosses":["from εἰ and ἄν"],"strongs":"G1437"},{"id":"hebrews-4-7-974","surface":"τῆς","word":"τῆς","lemma":"ὁ","translit":"tes","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-7-975","surface":"φωνῆς","word":"φωνῆς","lemma":"φωνή","translit":"phones","morph":"Noun","pos":"Noun","glosses":["probably akin to φαίνω through the idea of disclosure"],"strongs":"G5456"},{"id":"hebrews-4-7-976","surface":"αὐτοῦ","word":"αὐτοῦ","lemma":"αὐτός","translit":"aytoy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846"},{"id":"hebrews-4-7-977","surface":"ἀκούσητε,","word":"ἀκούσητε","lemma":"ἀκούω","translit":"akoysete","morph":"Verb, 2nd person, aorist, active, subjunctive","pos":"Verb","glosses":["a primary verb"],"strongs":"G191","punctuationAfter":","},{"id":"hebrews-4-7-978","surface":"μὴ","word":"μὴ","lemma":"μή","translit":"me","morph":"Adverb","pos":"Adverb","glosses":["a primary particle of qualified negation whereas οὐ expresses an absolute denial"],"strongs":"G3361"},{"id":"hebrews-4-7-979","surface":"σκληρύνητε","word":"σκληρύνητε","lemma":"σκληρύνω","translit":"sklerynete","morph":"Verb, 2nd person, aorist, active, subjunctive","pos":"Verb","glosses":["from σκληρός"],"strongs":"G4645"},{"id":"hebrews-4-7-980","surface":"τὰς","word":"τὰς","lemma":"ὁ","translit":"tas","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-7-981","surface":"καρδίας","word":"καρδίας","lemma":"καρδία","translit":"kardias","morph":"Noun","pos":"Noun","glosses":["prolonged from a primary  latin cor"],"strongs":"G2588"},{"id":"hebrews-4-7-982","surface":"ὑμῶν·","word":"ὑμῶν","lemma":"σύ","translit":"hymon","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["the personal pronoun of the second person singular"],"strongs":"G4771","punctuationAfter":"·"}]},{"ref":"Hebrews 4:8","englishText":"For if Joshua had given them rest, he would not have spoken afterward of another day.","tokens":[{"id":"hebrews-4-8-983","surface":"εἰ","word":"εἰ","lemma":"εἰ","translit":"ei","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle of conditionality"],"strongs":"G1487"},{"id":"hebrews-4-8-984","surface":"γὰρ","word":"γὰρ","lemma":"γάρ","translit":"gar","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle"],"strongs":"G1063"},{"id":"hebrews-4-8-985","surface":"αὐτοὺς","word":"αὐτοὺς","lemma":"αὐτός","translit":"aytoys","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846"},{"id":"hebrews-4-8-986","surface":"Ἰησοῦς","word":"Ἰησοῦς","lemma":"Ἰησοῦς","translit":"Iesoys","morph":"Noun","pos":"Noun","glosses":["of hebrew origin יְהוֹשׁוּעַ"],"strongs":"G2424"},{"id":"hebrews-4-8-987","surface":"κατέπαυσεν,","word":"κατέπαυσεν","lemma":"καταπαύω","translit":"katepaysen","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["from κατά and παύω"],"strongs":"G2664","punctuationAfter":","},{"id":"hebrews-4-8-988","surface":"οὐκ","word":"οὐκ","lemma":"οὐ","translit":"oyk","morph":"Adverb","pos":"Adverb","glosses":["a primary word"],"strongs":"G3756"},{"id":"hebrews-4-8-989","surface":"ἂν","word":"ἂν","lemma":"ἄν","translit":"an","morph":"Particle","pos":"Particle","glosses":["a primary particle"],"strongs":"G302"},{"id":"hebrews-4-8-990","surface":"περὶ","word":"περὶ","lemma":"περί","translit":"peri","morph":"Preposition","pos":"Preposition","glosses":["from the base of πέραν"],"strongs":"G4012"},{"id":"hebrews-4-8-991","surface":"ἄλλης","word":"ἄλλης","lemma":"ἄλλος","translit":"alles","morph":"Adjective","pos":"Adjective","glosses":["a primary word"],"strongs":"G243"},{"id":"hebrews-4-8-992","surface":"ἐλάλει","word":"ἐλάλει","lemma":"λαλέω","translit":"elalei","morph":"Verb, 3rd person, imperfect, active, indicative","pos":"Verb","glosses":["a prolonged form of an otherwise obsolete verb"],"strongs":"G2980"},{"id":"hebrews-4-8-993","surface":"μετὰ","word":"μετὰ","lemma":"μετά","translit":"meta","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition often used adverbially"],"strongs":"G3326"},{"id":"hebrews-4-8-994","surface":"ταῦτα","word":"ταῦτα","lemma":"οὗτος","translit":"tayta","morph":"Demonstrative Pronoun","pos":"Demonstrative Pronoun","glosses":["from the article ὁ and αὐτός"],"strongs":"G3778"},{"id":"hebrews-4-8-995","surface":"ἡμέρας.","word":"ἡμέρας","lemma":"ἡμέρα","translit":"hemeras","morph":"Noun","pos":"Noun","glosses":["feminine with ὥρα implied of a derivative of  to sit"],"strongs":"G2250","punctuationAfter":"."}]},{"ref":"Hebrews 4:9","englishText":"There remains therefore a Sabbath rest for the people of God.","tokens":[{"id":"hebrews-4-9-996","surface":"ἄρα","word":"ἄρα","lemma":"ἄρα","translit":"ara","morph":"Conjunction","pos":"Conjunction","glosses":["probably from αἴρω through the idea of drawing a conclusion"],"strongs":"G686"},{"id":"hebrews-4-9-997","surface":"ἀπολείπεται","word":"ἀπολείπεται","lemma":"ἀπολείπω","translit":"apoleipetai","morph":"Verb, 3rd person, present, passive, indicative","pos":"Verb","glosses":["from ἀπό and λείπω"],"strongs":"G620"},{"id":"hebrews-4-9-998","surface":"σαββατισμὸς","word":"σαββατισμὸς","lemma":"σαββατισμός","translit":"sabbatismos","morph":"Noun","pos":"Noun","glosses":["from a derivative of σάββατον"],"strongs":"G4520"},{"id":"hebrews-4-9-999","surface":"τῷ","word":"τῷ","lemma":"ὁ","translit":"to","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-9-1000","surface":"λαῷ","word":"λαῷ","lemma":"λαός","translit":"lao","morph":"Noun","pos":"Noun","glosses":["apparently a primary word"],"strongs":"G2992"},{"id":"hebrews-4-9-1001","surface":"τοῦ","word":"τοῦ","lemma":"ὁ","translit":"toy","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-9-1002","surface":"θεοῦ·","word":"θεοῦ","lemma":"θεός","translit":"theoy","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316","punctuationAfter":"·"}]},{"ref":"Hebrews 4:10","englishText":"For he who has entered into his rest has himself also rested from his works, as God did from his.","tokens":[{"id":"hebrews-4-10-1003","surface":"ὁ","word":"ὁ","lemma":"ὁ","translit":"ho","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-10-1004","surface":"γὰρ","word":"γὰρ","lemma":"γάρ","translit":"gar","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle"],"strongs":"G1063"},{"id":"hebrews-4-10-1005","surface":"εἰσελθὼν","word":"εἰσελθὼν","lemma":"εἰσέρχομαι","translit":"eiselthon","morph":"Verb, aorist, active, participle, nominative, singular, masculine","pos":"Verb","glosses":["from εἰς and ἔρχομαι"],"strongs":"G1525"},{"id":"hebrews-4-10-1006","surface":"εἰς","word":"εἰς","lemma":"εἰς","translit":"eis","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G1519"},{"id":"hebrews-4-10-1007","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-10-1008","surface":"κατάπαυσιν","word":"κατάπαυσιν","lemma":"κατάπαυσις","translit":"katapaysin","morph":"Noun","pos":"Noun","glosses":["from καταπαύω"],"strongs":"G2663"},{"id":"hebrews-4-10-1009","surface":"αὐτοῦ","word":"αὐτοῦ","lemma":"αὐτός","translit":"aytoy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846"},{"id":"hebrews-4-10-1010","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Adverb","pos":"Adverb","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-10-1011","surface":"αὐτὸς","word":"αὐτὸς","lemma":"αὐτός","translit":"aytos","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846"},{"id":"hebrews-4-10-1012","surface":"κατέπαυσεν","word":"κατέπαυσεν","lemma":"καταπαύω","translit":"katepaysen","morph":"Verb, 3rd person, aorist, active, indicative","pos":"Verb","glosses":["from κατά and παύω"],"strongs":"G2664"},{"id":"hebrews-4-10-1013","surface":"ἀπὸ","word":"ἀπὸ","lemma":"ἀπό","translit":"apo","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G575"},{"id":"hebrews-4-10-1014","surface":"τῶν","word":"τῶν","lemma":"ὁ","translit":"ton","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-10-1015","surface":"ἔργων","word":"ἔργων","lemma":"ἔργον","translit":"ergon","morph":"Noun","pos":"Noun","glosses":["from a primary but obsolete  to work"],"strongs":"G2041"},{"id":"hebrews-4-10-1016","surface":"αὐτοῦ","word":"αὐτοῦ","lemma":"αὐτός","translit":"aytoy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846"},{"id":"hebrews-4-10-1017","surface":"ὥσπερ","word":"ὥσπερ","lemma":"ὥσπερ","translit":"hosper","morph":"Conjunction","pos":"Conjunction","glosses":["from ὡς and περ"],"strongs":"G5618"},{"id":"hebrews-4-10-1018","surface":"ἀπὸ","word":"ἀπὸ","lemma":"ἀπό","translit":"apo","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G575"},{"id":"hebrews-4-10-1019","surface":"τῶν","word":"τῶν","lemma":"ὁ","translit":"ton","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-10-1020","surface":"ἰδίων","word":"ἰδίων","lemma":"ἴδιος","translit":"idion","morph":"Adjective","pos":"Adjective","glosses":["of uncertain affinity"],"strongs":"G2398"},{"id":"hebrews-4-10-1021","surface":"ὁ","word":"ὁ","lemma":"ὁ","translit":"ho","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-10-1022","surface":"θεός.","word":"θεός","lemma":"θεός","translit":"theos","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316","punctuationAfter":"."}]},{"ref":"Hebrews 4:11","englishText":"Let us therefore give diligence to enter into that rest, lest anyone fall after the same example of disobedience.","tokens":[{"id":"hebrews-4-11-1023","surface":"σπουδάσωμεν","word":"σπουδάσωμεν","lemma":"σπουδάζω","translit":"spoydasomen","morph":"Verb, 1st person, aorist, active, subjunctive","pos":"Verb","glosses":["from σπουδή"],"strongs":"G4704"},{"id":"hebrews-4-11-1024","surface":"οὖν","word":"οὖν","lemma":"οὖν","translit":"oyn","morph":"Conjunction","pos":"Conjunction","glosses":["apparently a primary word"],"strongs":"G3767"},{"id":"hebrews-4-11-1025","surface":"εἰσελθεῖν","word":"εἰσελθεῖν","lemma":"εἰσέρχομαι","translit":"eiselthein","morph":"Verb, aorist, active, infinitive","pos":"Verb","glosses":["from εἰς and ἔρχομαι"],"strongs":"G1525"},{"id":"hebrews-4-11-1026","surface":"εἰς","word":"εἰς","lemma":"εἰς","translit":"eis","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G1519"},{"id":"hebrews-4-11-1027","surface":"ἐκείνην","word":"ἐκείνην","lemma":"ἐκεῖνος","translit":"ekeinen","morph":"Demonstrative Pronoun","pos":"Demonstrative Pronoun","glosses":["from ἐκεῖ"],"strongs":"G1565"},{"id":"hebrews-4-11-1028","surface":"τὴν","word":"τὴν","lemma":"ὁ","translit":"ten","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-11-1029","surface":"κατάπαυσιν,","word":"κατάπαυσιν","lemma":"κατάπαυσις","translit":"katapaysin","morph":"Noun","pos":"Noun","glosses":["from καταπαύω"],"strongs":"G2663","punctuationAfter":","},{"id":"hebrews-4-11-1030","surface":"ἵνα","word":"ἵνα","lemma":"ἵνα","translit":"hina","morph":"Conjunction","pos":"Conjunction","glosses":["probably from the same as the former part of ἑαυτοῦ through the demonstrative idea"],"strongs":"G2443"},{"id":"hebrews-4-11-1031","surface":"μὴ","word":"μὴ","lemma":"μή","translit":"me","morph":"Adverb","pos":"Adverb","glosses":["a primary particle of qualified negation whereas οὐ expresses an absolute denial"],"strongs":"G3361"},{"id":"hebrews-4-11-1032","surface":"ἐν","word":"ἐν","lemma":"ἐν","translit":"en","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition denoting fixed position in place"],"strongs":"G1722"},{"id":"hebrews-4-11-1033","surface":"τῷ","word":"τῷ","lemma":"ὁ","translit":"to","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-11-1034","surface":"αὐτῷ","word":"αὐτῷ","lemma":"αὐτός","translit":"ayto","morph":"Adjective","pos":"Adjective","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846"},{"id":"hebrews-4-11-1035","surface":"τις","word":"τις","lemma":"τις","translit":"tis","morph":"Interrogative/Indefinite Pronoun","pos":"Interrogative/Indefinite Pronoun","glosses":["τις"]},{"id":"hebrews-4-11-1036","surface":"ὑποδείγματι","word":"ὑποδείγματι","lemma":"ὑπόδειγμα","translit":"hypodeigmati","morph":"Noun","pos":"Noun","glosses":["from ὑποδείκνυμι"],"strongs":"G5262"},{"id":"hebrews-4-11-1037","surface":"πέσῃ","word":"πέσῃ","lemma":"πίπτω","translit":"pese","morph":"Verb, 3rd person, aorist, active, subjunctive","pos":"Verb","glosses":["probably akin to πέτομαι through the idea of alighting"],"strongs":"G4098"},{"id":"hebrews-4-11-1038","surface":"τῆς","word":"τῆς","lemma":"ὁ","translit":"tes","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-11-1039","surface":"ἀπειθείας.","word":"ἀπειθείας","lemma":"ἀπείθεια","translit":"apeitheias","morph":"Noun","pos":"Noun","glosses":["from ἀπειθής"],"strongs":"G543","punctuationAfter":"."}]},{"ref":"Hebrews 4:12","englishText":"For the word of God is living, and active, and sharper than any two-edged sword, and piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart.","tokens":[{"id":"hebrews-4-12-1040","surface":"Ζῶν","word":"Ζῶν","lemma":"ζάω","translit":"Zon","morph":"Verb, present, active, participle, nominative, singular, masculine","pos":"Verb","glosses":["a primary verb"],"strongs":"G2198"},{"id":"hebrews-4-12-1041","surface":"γὰρ","word":"γὰρ","lemma":"γάρ","translit":"gar","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle"],"strongs":"G1063"},{"id":"hebrews-4-12-1042","surface":"ὁ","word":"ὁ","lemma":"ὁ","translit":"ho","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-12-1043","surface":"λόγος","word":"λόγος","lemma":"λόγος","translit":"logos","morph":"Noun","pos":"Noun","glosses":["from λέγω"],"strongs":"G3056"},{"id":"hebrews-4-12-1044","surface":"τοῦ","word":"τοῦ","lemma":"ὁ","translit":"toy","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-12-1045","surface":"θεοῦ","word":"θεοῦ","lemma":"θεός","translit":"theoy","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316"},{"id":"hebrews-4-12-1046","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-12-1047","surface":"ἐνεργὴς","word":"ἐνεργὴς","lemma":"ἐνεργής","translit":"energes","morph":"Adjective","pos":"Adjective","glosses":["from ἐν and ἔργον"],"strongs":"G1756"},{"id":"hebrews-4-12-1048","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-12-1049","surface":"τομώτερος","word":"τομώτερος","lemma":"τομώτερος","translit":"tomoteros","morph":"Adjective","pos":"Adjective","glosses":["comparative of a derivative of the primary  to cut"],"strongs":"G5114"},{"id":"hebrews-4-12-1050","surface":"ὑπὲρ","word":"ὑπὲρ","lemma":"ὑπέρ","translit":"hyper","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G5228"},{"id":"hebrews-4-12-1051","surface":"πᾶσαν","word":"πᾶσαν","lemma":"πᾶς","translit":"pasan","morph":"Adjective","pos":"Adjective","glosses":["including all the forms of declension"],"strongs":"G3956"},{"id":"hebrews-4-12-1052","surface":"μάχαιραν","word":"μάχαιραν","lemma":"μάχαιρα","translit":"machairan","morph":"Noun","pos":"Noun","glosses":["probably feminine of a presumed derivative of μάχη"],"strongs":"G3162"},{"id":"hebrews-4-12-1053","surface":"δίστομον","word":"δίστομον","lemma":"δίστομος","translit":"distomon","morph":"Adjective","pos":"Adjective","glosses":["from δίς and στόμα"],"strongs":"G1366"},{"id":"hebrews-4-12-1054","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Adverb","pos":"Adverb","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-12-1055","surface":"διϊκνούμενος","word":"διϊκνούμενος","lemma":"διϊκνέομαι","translit":"diiknoymenos","morph":"Verb, present, middle, participle, nominative, singular, masculine","pos":"Verb","glosses":["from διά and the base of ἱκανός"],"strongs":"G1338"},{"id":"hebrews-4-12-1056","surface":"ἄχρι","word":"ἄχρι","lemma":"ἄχρι","translit":"achri","morph":"Preposition","pos":"Preposition","glosses":["akin to ἄκρον through the idea of a terminus"],"strongs":"G891"},{"id":"hebrews-4-12-1057","surface":"μερισμοῦ","word":"μερισμοῦ","lemma":"μερισμός","translit":"merismoy","morph":"Noun","pos":"Noun","glosses":["from μερίζω"],"strongs":"G3311"},{"id":"hebrews-4-12-1058","surface":"ψυχῆς","word":"ψυχῆς","lemma":"ψυχή","translit":"psyches","morph":"Noun","pos":"Noun","glosses":["from ψύχω"],"strongs":"G5590"},{"id":"hebrews-4-12-1059","surface":"⸀καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-12-1060","surface":"πνεύματος,","word":"πνεύματος","lemma":"πνεῦμα","translit":"pneymatos","morph":"Noun","pos":"Noun","glosses":["from πνέω"],"strongs":"G4151","punctuationAfter":","},{"id":"hebrews-4-12-1061","surface":"ἁρμῶν","word":"ἁρμῶν","lemma":"ἁρμός","translit":"harmon","morph":"Noun","pos":"Noun","glosses":["from the same as ἅρμα"],"strongs":"G719"},{"id":"hebrews-4-12-1062","surface":"τε","word":"τε","lemma":"τέ","translit":"te","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle enclitic of connection or addition"],"strongs":"G5037"},{"id":"hebrews-4-12-1063","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-12-1064","surface":"μυελῶν,","word":"μυελῶν","lemma":"μυελός","translit":"myelon","morph":"Noun","pos":"Noun","glosses":["perhaps a primary word"],"strongs":"G3452","punctuationAfter":","},{"id":"hebrews-4-12-1065","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-12-1066","surface":"κριτικὸς","word":"κριτικὸς","lemma":"κριτικός","translit":"kritikos","morph":"Adjective","pos":"Adjective","glosses":["from κριτής"],"strongs":"G2924"},{"id":"hebrews-4-12-1067","surface":"ἐνθυμήσεων","word":"ἐνθυμήσεων","lemma":"ἐνθύμησις","translit":"enthymeseon","morph":"Noun","pos":"Noun","glosses":["from ἐνθυμέομαι"],"strongs":"G1761"},{"id":"hebrews-4-12-1068","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-12-1069","surface":"ἐννοιῶν","word":"ἐννοιῶν","lemma":"ἔννοια","translit":"ennoion","morph":"Noun","pos":"Noun","glosses":["from a compound of ἐν and νοῦς"],"strongs":"G1771"},{"id":"hebrews-4-12-1070","surface":"καρδίας·","word":"καρδίας","lemma":"καρδία","translit":"kardias","morph":"Noun","pos":"Noun","glosses":["prolonged from a primary  latin cor"],"strongs":"G2588","punctuationAfter":"·"}]},{"ref":"Hebrews 4:13","englishText":"There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him to whom we must give an account.","tokens":[{"id":"hebrews-4-13-1071","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-13-1072","surface":"οὐκ","word":"οὐκ","lemma":"οὐ","translit":"oyk","morph":"Adverb","pos":"Adverb","glosses":["a primary word"],"strongs":"G3756"},{"id":"hebrews-4-13-1073","surface":"ἔστιν","word":"ἔστιν","lemma":"εἰμί","translit":"estin","morph":"Verb, 3rd person, present, active, indicative","pos":"Verb","glosses":["the first person singular present indicative"],"strongs":"G1510"},{"id":"hebrews-4-13-1074","surface":"κτίσις","word":"κτίσις","lemma":"κτίσις","translit":"ktisis","morph":"Noun","pos":"Noun","glosses":["from κτίζω"],"strongs":"G2937"},{"id":"hebrews-4-13-1075","surface":"ἀφανὴς","word":"ἀφανὴς","lemma":"ἀφανής","translit":"aphanes","morph":"Adjective","pos":"Adjective","glosses":["from α as a negative particle and φαίνω"],"strongs":"G852"},{"id":"hebrews-4-13-1076","surface":"ἐνώπιον","word":"ἐνώπιον","lemma":"ἐνώπιον","translit":"enopion","morph":"Preposition","pos":"Preposition","glosses":["neuter of a compound of ἐν and a derivative of ὀπτάνομαι"],"strongs":"G1799"},{"id":"hebrews-4-13-1077","surface":"αὐτοῦ,","word":"αὐτοῦ","lemma":"αὐτός","translit":"aytoy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846","punctuationAfter":","},{"id":"hebrews-4-13-1078","surface":"πάντα","word":"πάντα","lemma":"πᾶς","translit":"panta","morph":"Adjective","pos":"Adjective","glosses":["including all the forms of declension"],"strongs":"G3956"},{"id":"hebrews-4-13-1079","surface":"δὲ","word":"δὲ","lemma":"δέ","translit":"de","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle adversative or continuative"],"strongs":"G1161"},{"id":"hebrews-4-13-1080","surface":"γυμνὰ","word":"γυμνὰ","lemma":"γυμνός","translit":"gymna","morph":"Adjective","pos":"Adjective","glosses":["of uncertain affinity"],"strongs":"G1131"},{"id":"hebrews-4-13-1081","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-13-1082","surface":"τετραχηλισμένα","word":"τετραχηλισμένα","lemma":"τραχηλίζομαι","translit":"tetrachelismena","morph":"Verb, perfect, passive, participle, nominative, plural, neuter","pos":"Verb","glosses":["τραχηλίζομαι"]},{"id":"hebrews-4-13-1083","surface":"τοῖς","word":"τοῖς","lemma":"ὁ","translit":"tois","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-13-1084","surface":"ὀφθαλμοῖς","word":"ὀφθαλμοῖς","lemma":"ὀφθαλμός","translit":"ophthalmois","morph":"Noun","pos":"Noun","glosses":["from ὀπτάνομαι"],"strongs":"G3788"},{"id":"hebrews-4-13-1085","surface":"αὐτοῦ,","word":"αὐτοῦ","lemma":"αὐτός","translit":"aytoy","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"],"strongs":"G846","punctuationAfter":","},{"id":"hebrews-4-13-1086","surface":"πρὸς","word":"πρὸς","lemma":"πρός","translit":"pros","morph":"Preposition","pos":"Preposition","glosses":["a strengthened form of πρό"],"strongs":"G4314"},{"id":"hebrews-4-13-1087","surface":"ὃν","word":"ὃν","lemma":"ὅς","translit":"hon","morph":"Relative Pronoun","pos":"Relative Pronoun","glosses":["probably a primary word or perhaps a form of the article ὁ"],"strongs":"G3739"},{"id":"hebrews-4-13-1088","surface":"ἡμῖν","word":"ἡμῖν","lemma":"ἐγώ","translit":"hemin","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473"},{"id":"hebrews-4-13-1089","surface":"ὁ","word":"ὁ","lemma":"ὁ","translit":"ho","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-13-1090","surface":"λόγος.","word":"λόγος","lemma":"λόγος","translit":"logos","morph":"Noun","pos":"Noun","glosses":["from λέγω"],"strongs":"G3056","punctuationAfter":"."}]},{"ref":"Hebrews 4:14","englishText":"Having then a great high priest, who has passed through the heavens, Jesus, the Son of God, let us hold tightly to our confession.","tokens":[{"id":"hebrews-4-14-1091","surface":"Ἔχοντες","word":"Ἔχοντες","lemma":"ἔχω","translit":"Echontes","morph":"Verb, present, active, participle, nominative, plural, masculine","pos":"Verb","glosses":["a primary verb"],"strongs":"G2192"},{"id":"hebrews-4-14-1092","surface":"οὖν","word":"οὖν","lemma":"οὖν","translit":"oyn","morph":"Conjunction","pos":"Conjunction","glosses":["apparently a primary word"],"strongs":"G3767"},{"id":"hebrews-4-14-1093","surface":"ἀρχιερέα","word":"ἀρχιερέα","lemma":"ἀρχιερεύς","translit":"archierea","morph":"Noun","pos":"Noun","glosses":["from ἀρχή and ἱερεύς"],"strongs":"G749"},{"id":"hebrews-4-14-1094","surface":"μέγαν","word":"μέγαν","lemma":"μέγας","translit":"megan","morph":"Adjective","pos":"Adjective","glosses":["including the prolonged forms"],"strongs":"G3173"},{"id":"hebrews-4-14-1095","surface":"διεληλυθότα","word":"διεληλυθότα","lemma":"διέρχομαι","translit":"dielelythota","morph":"Verb, perfect, active, participle, accusative, singular, masculine","pos":"Verb","glosses":["from διά and ἔρχομαι"],"strongs":"G1330"},{"id":"hebrews-4-14-1096","surface":"τοὺς","word":"τοὺς","lemma":"ὁ","translit":"toys","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-14-1097","surface":"οὐρανούς,","word":"οὐρανούς","lemma":"οὐρανός","translit":"oyranoys","morph":"Noun","pos":"Noun","glosses":["perhaps from the same as ὄρος through the idea of elevation"],"strongs":"G3772","punctuationAfter":","},{"id":"hebrews-4-14-1098","surface":"Ἰησοῦν","word":"Ἰησοῦν","lemma":"Ἰησοῦς","translit":"Iesoyn","morph":"Noun","pos":"Noun","glosses":["of hebrew origin יְהוֹשׁוּעַ"],"strongs":"G2424"},{"id":"hebrews-4-14-1099","surface":"τὸν","word":"τὸν","lemma":"ὁ","translit":"ton","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-14-1100","surface":"υἱὸν","word":"υἱὸν","lemma":"υἱός","translit":"hyion","morph":"Noun","pos":"Noun","glosses":["apparently a primary word"],"strongs":"G5207"},{"id":"hebrews-4-14-1101","surface":"τοῦ","word":"τοῦ","lemma":"ὁ","translit":"toy","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-14-1102","surface":"θεοῦ,","word":"θεοῦ","lemma":"θεός","translit":"theoy","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G2316","punctuationAfter":","},{"id":"hebrews-4-14-1103","surface":"κρατῶμεν","word":"κρατῶμεν","lemma":"κρατέω","translit":"kratomen","morph":"Verb, 1st person, present, active, subjunctive","pos":"Verb","glosses":["from κράτος"],"strongs":"G2902"},{"id":"hebrews-4-14-1104","surface":"τῆς","word":"τῆς","lemma":"ὁ","translit":"tes","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-14-1105","surface":"ὁμολογίας·","word":"ὁμολογίας","lemma":"ὁμολογία","translit":"homologias","morph":"Noun","pos":"Noun","glosses":["from the same as ὁμολογέω"],"strongs":"G3671","punctuationAfter":"·"}]},{"ref":"Hebrews 4:15","englishText":"For we don’t have a high priest who can’t be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin.","tokens":[{"id":"hebrews-4-15-1106","surface":"οὐ","word":"οὐ","lemma":"οὐ","translit":"oy","morph":"Adverb","pos":"Adverb","glosses":["a primary word"],"strongs":"G3756"},{"id":"hebrews-4-15-1107","surface":"γὰρ","word":"γὰρ","lemma":"γάρ","translit":"gar","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle"],"strongs":"G1063"},{"id":"hebrews-4-15-1108","surface":"ἔχομεν","word":"ἔχομεν","lemma":"ἔχω","translit":"echomen","morph":"Verb, 1st person, present, active, indicative","pos":"Verb","glosses":["a primary verb"],"strongs":"G2192"},{"id":"hebrews-4-15-1109","surface":"ἀρχιερέα","word":"ἀρχιερέα","lemma":"ἀρχιερεύς","translit":"archierea","morph":"Noun","pos":"Noun","glosses":["from ἀρχή and ἱερεύς"],"strongs":"G749"},{"id":"hebrews-4-15-1110","surface":"μὴ","word":"μὴ","lemma":"μή","translit":"me","morph":"Adverb","pos":"Adverb","glosses":["a primary particle of qualified negation whereas οὐ expresses an absolute denial"],"strongs":"G3361"},{"id":"hebrews-4-15-1111","surface":"δυνάμενον","word":"δυνάμενον","lemma":"δύναμαι","translit":"dynamenon","morph":"Verb, present, middle, participle, accusative, singular, masculine","pos":"Verb","glosses":["of uncertain affinity"],"strongs":"G1410"},{"id":"hebrews-4-15-1112","surface":"συμπαθῆσαι","word":"συμπαθῆσαι","lemma":"συμπαθέω","translit":"sympathesai","morph":"Verb, aorist, active, infinitive","pos":"Verb","glosses":["from συμπαθής"],"strongs":"G4834"},{"id":"hebrews-4-15-1113","surface":"ταῖς","word":"ταῖς","lemma":"ὁ","translit":"tais","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-15-1114","surface":"ἀσθενείαις","word":"ἀσθενείαις","lemma":"ἀσθένεια","translit":"astheneiais","morph":"Noun","pos":"Noun","glosses":["from ἀσθενής"],"strongs":"G769"},{"id":"hebrews-4-15-1115","surface":"ἡμῶν,","word":"ἡμῶν","lemma":"ἐγώ","translit":"hemon","morph":"Personal Pronoun","pos":"Personal Pronoun","glosses":["a primary pronoun of the first person i only expressed when emphatic:--i"],"strongs":"G1473","punctuationAfter":","},{"id":"hebrews-4-15-1116","surface":"⸀πεπειρασμένον","word":"πεπειρασμένον","lemma":"πειράζω","translit":"pepeirasmenon","morph":"Verb, perfect, passive, participle, accusative, singular, masculine","pos":"Verb","glosses":["from πεῖρα"],"strongs":"G3985"},{"id":"hebrews-4-15-1117","surface":"δὲ","word":"δὲ","lemma":"δέ","translit":"de","morph":"Conjunction","pos":"Conjunction","glosses":["a primary particle adversative or continuative"],"strongs":"G1161"},{"id":"hebrews-4-15-1118","surface":"κατὰ","word":"κατὰ","lemma":"κατά","translit":"kata","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G2596"},{"id":"hebrews-4-15-1119","surface":"πάντα","word":"πάντα","lemma":"πᾶς","translit":"panta","morph":"Adjective","pos":"Adjective","glosses":["including all the forms of declension"],"strongs":"G3956"},{"id":"hebrews-4-15-1120","surface":"καθ’","word":"καθ’","lemma":"κατά","translit":"kath’","morph":"Preposition","pos":"Preposition","glosses":["a primary particle"],"strongs":"G2596"},{"id":"hebrews-4-15-1121","surface":"ὁμοιότητα","word":"ὁμοιότητα","lemma":"ὁμοιότης","translit":"homoioteta","morph":"Noun","pos":"Noun","glosses":["from ὅμοιος"],"strongs":"G3665"},{"id":"hebrews-4-15-1122","surface":"χωρὶς","word":"χωρὶς","lemma":"χωρίς","translit":"choris","morph":"Preposition","pos":"Preposition","glosses":["adverb from χώρα"],"strongs":"G5565"},{"id":"hebrews-4-15-1123","surface":"ἁμαρτίας.","word":"ἁμαρτίας","lemma":"ἁμαρτία","translit":"hamartias","morph":"Noun","pos":"Noun","glosses":["from ἁμαρτάνω"],"strongs":"G266","punctuationAfter":"."}]},{"ref":"Hebrews 4:16","englishText":"Let us therefore draw near with boldness to the throne of grace, that we may receive mercy, and may find grace for help in time of need.","tokens":[{"id":"hebrews-4-16-1124","surface":"προσερχώμεθα","word":"προσερχώμεθα","lemma":"προσέρχομαι","translit":"proserchometha","morph":"Verb, 1st person, present, middle, subjunctive","pos":"Verb","glosses":["from πρός and ἔρχομαι including its alternate"],"strongs":"G4334"},{"id":"hebrews-4-16-1125","surface":"οὖν","word":"οὖν","lemma":"οὖν","translit":"oyn","morph":"Conjunction","pos":"Conjunction","glosses":["apparently a primary word"],"strongs":"G3767"},{"id":"hebrews-4-16-1126","surface":"μετὰ","word":"μετὰ","lemma":"μετά","translit":"meta","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition often used adverbially"],"strongs":"G3326"},{"id":"hebrews-4-16-1127","surface":"παρρησίας","word":"παρρησίας","lemma":"παρρησία","translit":"parresias","morph":"Noun","pos":"Noun","glosses":["παρρησία"]},{"id":"hebrews-4-16-1128","surface":"τῷ","word":"τῷ","lemma":"ὁ","translit":"to","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-16-1129","surface":"θρόνῳ","word":"θρόνῳ","lemma":"θρόνος","translit":"throno","morph":"Noun","pos":"Noun","glosses":["from  to sit"],"strongs":"G2362"},{"id":"hebrews-4-16-1130","surface":"τῆς","word":"τῆς","lemma":"ὁ","translit":"tes","morph":"Article","pos":"Article","glosses":["the definite article"],"strongs":"G3588"},{"id":"hebrews-4-16-1131","surface":"χάριτος,","word":"χάριτος","lemma":"χάρις","translit":"charitos","morph":"Noun","pos":"Noun","glosses":["from χαίρω"],"strongs":"G5485","punctuationAfter":","},{"id":"hebrews-4-16-1132","surface":"ἵνα","word":"ἵνα","lemma":"ἵνα","translit":"hina","morph":"Conjunction","pos":"Conjunction","glosses":["probably from the same as the former part of ἑαυτοῦ through the demonstrative idea"],"strongs":"G2443"},{"id":"hebrews-4-16-1133","surface":"λάβωμεν","word":"λάβωμεν","lemma":"λαμβάνω","translit":"labomen","morph":"Verb, 1st person, aorist, active, subjunctive","pos":"Verb","glosses":["a prolonged form of a primary verb"],"strongs":"G2983"},{"id":"hebrews-4-16-1134","surface":"ἔλεος","word":"ἔλεος","lemma":"ἔλεος","translit":"eleos","morph":"Noun","pos":"Noun","glosses":["of uncertain affinity"],"strongs":"G1656"},{"id":"hebrews-4-16-1135","surface":"καὶ","word":"καὶ","lemma":"καί","translit":"kai","morph":"Conjunction","pos":"Conjunction","glosses":["apparently"],"strongs":"G2532"},{"id":"hebrews-4-16-1136","surface":"χάριν","word":"χάριν","lemma":"χάρις","translit":"charin","morph":"Noun","pos":"Noun","glosses":["from χαίρω"],"strongs":"G5485"},{"id":"hebrews-4-16-1137","surface":"εὕρωμεν","word":"εὕρωμεν","lemma":"εὑρίσκω","translit":"heyromen","morph":"Verb, 1st person, aorist, active, subjunctive","pos":"Verb","glosses":["a prolonged form of a primary"],"strongs":"G2147"},{"id":"hebrews-4-16-1138","surface":"εἰς","word":"εἰς","lemma":"εἰς","translit":"eis","morph":"Preposition","pos":"Preposition","glosses":["a primary preposition"],"strongs":"G1519"},{"id":"hebrews-4-16-1139","surface":"εὔκαιρον","word":"εὔκαιρον","lemma":"εὔκαιρος","translit":"eykairon","morph":"Adjective","pos":"Adjective","glosses":["from εὖ and καιρός"],"strongs":"G2121"},{"id":"hebrews-4-16-1140","surface":"βοήθειαν.","word":"βοήθειαν","lemma":"βοήθεια","translit":"boetheian","morph":"Noun","pos":"Noun","glosses":["from βοηθός"],"strongs":"G996","punctuationAfter":"."}]}],"language":"greek"}
+{
+  "id": "hebrews-4",
+  "name": "Hebrews",
+  "chapter": 4,
+  "verses": [
+    {
+      "ref": "Hebrews 4:1",
+      "englishText": "Let us fear therefore, lest perhaps anyone of you should seem to have come short of a promise of entering into his rest.",
+      "tokens": [
+        {
+          "id": "hebrews-4-1-851",
+          "surface": "Φοβηθῶμεν",
+          "word": "Φοβηθῶμεν",
+          "lemma": "φοβέομαι",
+          "translit": "Phobethomen",
+          "morph": "Verb, 1st person, aorist, passive, subjunctive",
+          "pos": "Verb",
+          "glosses": ["φοβέομαι"]
+        },
+        {
+          "id": "hebrews-4-1-852",
+          "surface": "οὖν",
+          "word": "οὖν",
+          "lemma": "οὖν",
+          "translit": "oyn",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G3767"
+        },
+        {
+          "id": "hebrews-4-1-853",
+          "surface": "μήποτε",
+          "word": "μήποτε",
+          "lemma": "μήποτε",
+          "translit": "mepote",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from μή and ποτέ"],
+          "strongs": "G3379"
+        },
+        {
+          "id": "hebrews-4-1-854",
+          "surface": "καταλειπομένης",
+          "word": "καταλειπομένης",
+          "lemma": "καταλείπω",
+          "translit": "kataleipomenes",
+          "morph": "Verb, present, passive, participle, genitive, singular, feminine",
+          "pos": "Verb",
+          "glosses": ["from κατά and λείπω"],
+          "strongs": "G2641"
+        },
+        {
+          "id": "hebrews-4-1-855",
+          "surface": "ἐπαγγελίας",
+          "word": "ἐπαγγελίας",
+          "lemma": "ἐπαγγελία",
+          "translit": "epaggelias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἐπαγγέλλω"],
+          "strongs": "G1860"
+        },
+        {
+          "id": "hebrews-4-1-856",
+          "surface": "εἰσελθεῖν",
+          "word": "εἰσελθεῖν",
+          "lemma": "εἰσέρχομαι",
+          "translit": "eiselthein",
+          "morph": "Verb, aorist, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["from εἰς and ἔρχομαι"],
+          "strongs": "G1525"
+        },
+        {
+          "id": "hebrews-4-1-857",
+          "surface": "εἰς",
+          "word": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "hebrews-4-1-858",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-1-859",
+          "surface": "κατάπαυσιν",
+          "word": "κατάπαυσιν",
+          "lemma": "κατάπαυσις",
+          "translit": "katapaysin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from καταπαύω"],
+          "strongs": "G2663"
+        },
+        {
+          "id": "hebrews-4-1-860",
+          "surface": "αὐτοῦ",
+          "word": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "translit": "aytoy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "hebrews-4-1-861",
+          "surface": "δοκῇ",
+          "word": "δοκῇ",
+          "lemma": "δοκέω",
+          "translit": "doke",
+          "morph": "Verb, 3rd person, present, active, subjunctive",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of a primary verb"],
+          "strongs": "G1380"
+        },
+        {
+          "id": "hebrews-4-1-862",
+          "surface": "τις",
+          "word": "τις",
+          "lemma": "τις",
+          "translit": "tis",
+          "morph": "Interrogative/Indefinite Pronoun",
+          "pos": "Interrogative/Indefinite Pronoun",
+          "glosses": ["τις"]
+        },
+        {
+          "id": "hebrews-4-1-863",
+          "surface": "ἐξ",
+          "word": "ἐξ",
+          "lemma": "ἐκ",
+          "translit": "ex",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": [
+            "a primary preposition denoting origin the point whence action or motion proceeds"
+          ],
+          "strongs": "G1537"
+        },
+        {
+          "id": "hebrews-4-1-864",
+          "surface": "ὑμῶν",
+          "word": "ὑμῶν",
+          "lemma": "σύ",
+          "translit": "hymon",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771"
+        },
+        {
+          "id": "hebrews-4-1-865",
+          "surface": "ὑστερηκέναι·",
+          "word": "ὑστερηκέναι",
+          "lemma": "ὑστερέω",
+          "translit": "hysterekenai",
+          "morph": "Verb, perfect, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["from ὕστερος"],
+          "strongs": "G5302",
+          "punctuationAfter": "·"
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:2",
+      "englishText": "For indeed we have had good news preached to us, even as they also did, but the word they heard didn’t profit them, because it wasn’t mixed with faith by those who heard.",
+      "tokens": [
+        {
+          "id": "hebrews-4-2-866",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-2-867",
+          "surface": "γάρ",
+          "word": "γάρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "hebrews-4-2-868",
+          "surface": "ἐσμεν",
+          "word": "ἐσμεν",
+          "lemma": "εἰμί",
+          "translit": "esmen",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["the first person singular present indicative"],
+          "strongs": "G1510"
+        },
+        {
+          "id": "hebrews-4-2-869",
+          "surface": "εὐηγγελισμένοι",
+          "word": "εὐηγγελισμένοι",
+          "lemma": "εὐαγγελίζω",
+          "translit": "eyeggelismenoi",
+          "morph": "Verb, perfect, passive, participle, nominative, plural, masculine",
+          "pos": "Verb",
+          "glosses": ["from εὖ and ἄγγελος"],
+          "strongs": "G2097"
+        },
+        {
+          "id": "hebrews-4-2-870",
+          "surface": "καθάπερ",
+          "word": "καθάπερ",
+          "lemma": "καθάπερ",
+          "translit": "kathaper",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from καθά and περ"],
+          "strongs": "G2509"
+        },
+        {
+          "id": "hebrews-4-2-871",
+          "surface": "κἀκεῖνοι,",
+          "word": "κἀκεῖνοι",
+          "lemma": "κἀκεῖνος",
+          "translit": "kakeinoi",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from καί and ἐκεῖνος"],
+          "strongs": "G2548",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-2-872",
+          "surface": "ἀλλ’",
+          "word": "ἀλλ’",
+          "lemma": "ἀλλά",
+          "translit": "all’",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["neuter plural of ἄλλος"],
+          "strongs": "G235"
+        },
+        {
+          "id": "hebrews-4-2-873",
+          "surface": "οὐκ",
+          "word": "οὐκ",
+          "lemma": "οὐ",
+          "translit": "oyk",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "hebrews-4-2-874",
+          "surface": "ὠφέλησεν",
+          "word": "ὠφέλησεν",
+          "lemma": "ὠφελέω",
+          "translit": "ophelesen",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from the same as ὠφέλεια"],
+          "strongs": "G5623"
+        },
+        {
+          "id": "hebrews-4-2-875",
+          "surface": "ὁ",
+          "word": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-2-876",
+          "surface": "λόγος",
+          "word": "λόγος",
+          "lemma": "λόγος",
+          "translit": "logos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from λέγω"],
+          "strongs": "G3056"
+        },
+        {
+          "id": "hebrews-4-2-877",
+          "surface": "τῆς",
+          "word": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-2-878",
+          "surface": "ἀκοῆς",
+          "word": "ἀκοῆς",
+          "lemma": "ἀκοή",
+          "translit": "akoes",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀκούω"],
+          "strongs": "G189"
+        },
+        {
+          "id": "hebrews-4-2-879",
+          "surface": "ἐκείνους,",
+          "word": "ἐκείνους",
+          "lemma": "ἐκεῖνος",
+          "translit": "ekeinoys",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from ἐκεῖ"],
+          "strongs": "G1565",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-2-880",
+          "surface": "μὴ",
+          "word": "μὴ",
+          "lemma": "μή",
+          "translit": "me",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "a primary particle of qualified negation whereas οὐ expresses an absolute denial"
+          ],
+          "strongs": "G3361"
+        },
+        {
+          "id": "hebrews-4-2-881",
+          "surface": "⸀συγκεκερασμένους",
+          "word": "συγκεκερασμένους",
+          "lemma": "συγκεράννυμι",
+          "translit": "sygkekerasmenoys",
+          "morph": "Verb, perfect, passive, participle, accusative, plural, masculine",
+          "pos": "Verb",
+          "glosses": ["from σύν and κεράννυμι"],
+          "strongs": "G4786"
+        },
+        {
+          "id": "hebrews-4-2-882",
+          "surface": "τῇ",
+          "word": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-2-883",
+          "surface": "πίστει",
+          "word": "πίστει",
+          "lemma": "πίστις",
+          "translit": "pistei",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from πείθω"],
+          "strongs": "G4102"
+        },
+        {
+          "id": "hebrews-4-2-884",
+          "surface": "τοῖς",
+          "word": "τοῖς",
+          "lemma": "ὁ",
+          "translit": "tois",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-2-885",
+          "surface": "ἀκούσασιν.",
+          "word": "ἀκούσασιν",
+          "lemma": "ἀκούω",
+          "translit": "akoysasin",
+          "morph": "Verb, aorist, active, participle, dative, plural, masculine",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G191",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:3",
+      "englishText": "For we who have believed do enter into that rest, even as he has said, “As I swore in my wrath, they will not enter into my rest”; although the works were finished from the foundation of the world.",
+      "tokens": [
+        {
+          "id": "hebrews-4-3-886",
+          "surface": "εἰσερχόμεθα",
+          "word": "εἰσερχόμεθα",
+          "lemma": "εἰσέρχομαι",
+          "translit": "eiserchometha",
+          "morph": "Verb, 1st person, present, middle, indicative",
+          "pos": "Verb",
+          "glosses": ["from εἰς and ἔρχομαι"],
+          "strongs": "G1525"
+        },
+        {
+          "id": "hebrews-4-3-887",
+          "surface": "γὰρ",
+          "word": "γὰρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "hebrews-4-3-888",
+          "surface": "⸀εἰς",
+          "word": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "hebrews-4-3-889",
+          "surface": "κατάπαυσιν",
+          "word": "κατάπαυσιν",
+          "lemma": "κατάπαυσις",
+          "translit": "katapaysin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from καταπαύω"],
+          "strongs": "G2663"
+        },
+        {
+          "id": "hebrews-4-3-890",
+          "surface": "οἱ",
+          "word": "οἱ",
+          "lemma": "ὁ",
+          "translit": "hoi",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-3-891",
+          "surface": "πιστεύσαντες,",
+          "word": "πιστεύσαντες",
+          "lemma": "πιστεύω",
+          "translit": "pisteysantes",
+          "morph": "Verb, aorist, active, participle, nominative, plural, masculine",
+          "pos": "Verb",
+          "glosses": ["from πίστις"],
+          "strongs": "G4100",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-3-892",
+          "surface": "καθὼς",
+          "word": "καθὼς",
+          "lemma": "καθώς",
+          "translit": "kathos",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from κατά and ὡς"],
+          "strongs": "G2531"
+        },
+        {
+          "id": "hebrews-4-3-893",
+          "surface": "εἴρηκεν·",
+          "word": "εἴρηκεν",
+          "lemma": "λέγω",
+          "translit": "eireken",
+          "morph": "Verb, 3rd person, perfect, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G3004",
+          "punctuationAfter": "·"
+        },
+        {
+          "id": "hebrews-4-3-894",
+          "surface": "Ὡς",
+          "word": "Ὡς",
+          "lemma": "ὡς",
+          "translit": "Hos",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["probably adverb of comparative from ὅς"],
+          "strongs": "G5613"
+        },
+        {
+          "id": "hebrews-4-3-895",
+          "surface": "ὤμοσα",
+          "word": "ὤμοσα",
+          "lemma": "ὀμνύω",
+          "translit": "omosa",
+          "morph": "Verb, 1st person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of a primary"],
+          "strongs": "G3660"
+        },
+        {
+          "id": "hebrews-4-3-896",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "hebrews-4-3-897",
+          "surface": "τῇ",
+          "word": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-3-898",
+          "surface": "ὀργῇ",
+          "word": "ὀργῇ",
+          "lemma": "ὀργή",
+          "translit": "orge",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ὀρέγομαι"],
+          "strongs": "G3709"
+        },
+        {
+          "id": "hebrews-4-3-899",
+          "surface": "μου,",
+          "word": "μου",
+          "lemma": "ἐγώ",
+          "translit": "moy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-3-900",
+          "surface": "Εἰ",
+          "word": "Εἰ",
+          "lemma": "εἰ",
+          "translit": "Ei",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle of conditionality"],
+          "strongs": "G1487"
+        },
+        {
+          "id": "hebrews-4-3-901",
+          "surface": "εἰσελεύσονται",
+          "word": "εἰσελεύσονται",
+          "lemma": "εἰσέρχομαι",
+          "translit": "eiseleysontai",
+          "morph": "Verb, 3rd person, future, middle, indicative",
+          "pos": "Verb",
+          "glosses": ["from εἰς and ἔρχομαι"],
+          "strongs": "G1525"
+        },
+        {
+          "id": "hebrews-4-3-902",
+          "surface": "εἰς",
+          "word": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "hebrews-4-3-903",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-3-904",
+          "surface": "κατάπαυσίν",
+          "word": "κατάπαυσίν",
+          "lemma": "κατάπαυσις",
+          "translit": "katapaysin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from καταπαύω"],
+          "strongs": "G2663"
+        },
+        {
+          "id": "hebrews-4-3-905",
+          "surface": "μου,",
+          "word": "μου",
+          "lemma": "ἐγώ",
+          "translit": "moy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-3-906",
+          "surface": "καίτοι",
+          "word": "καίτοι",
+          "lemma": "καίτοι",
+          "translit": "kaitoi",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from καί and τοί"],
+          "strongs": "G2543"
+        },
+        {
+          "id": "hebrews-4-3-907",
+          "surface": "τῶν",
+          "word": "τῶν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-3-908",
+          "surface": "ἔργων",
+          "word": "ἔργων",
+          "lemma": "ἔργον",
+          "translit": "ergon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a primary but obsolete  to work"],
+          "strongs": "G2041"
+        },
+        {
+          "id": "hebrews-4-3-909",
+          "surface": "ἀπὸ",
+          "word": "ἀπὸ",
+          "lemma": "ἀπό",
+          "translit": "apo",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G575"
+        },
+        {
+          "id": "hebrews-4-3-910",
+          "surface": "καταβολῆς",
+          "word": "καταβολῆς",
+          "lemma": "καταβολή",
+          "translit": "kataboles",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from καταβάλλω"],
+          "strongs": "G2602"
+        },
+        {
+          "id": "hebrews-4-3-911",
+          "surface": "κόσμου",
+          "word": "κόσμου",
+          "lemma": "κόσμος",
+          "translit": "kosmoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["probably from the base of κομίζω"],
+          "strongs": "G2889"
+        },
+        {
+          "id": "hebrews-4-3-912",
+          "surface": "γενηθέντων,",
+          "word": "γενηθέντων",
+          "lemma": "γίνομαι",
+          "translit": "genethenton",
+          "morph": "Verb, aorist, passive, participle, genitive, plural, neuter",
+          "pos": "Verb",
+          "glosses": ["a prolongation and middle voice form of a primary verb"],
+          "strongs": "G1096",
+          "punctuationAfter": ","
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:4",
+      "englishText": "For he has said this somewhere about the seventh day, “God rested on the seventh day from all his works”;",
+      "tokens": [
+        {
+          "id": "hebrews-4-4-913",
+          "surface": "εἴρηκεν",
+          "word": "εἴρηκεν",
+          "lemma": "λέγω",
+          "translit": "eireken",
+          "morph": "Verb, 3rd person, perfect, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G3004"
+        },
+        {
+          "id": "hebrews-4-4-914",
+          "surface": "γάρ",
+          "word": "γάρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "hebrews-4-4-915",
+          "surface": "που",
+          "word": "που",
+          "lemma": "πού",
+          "translit": "poy",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "genitive case of an indefinite pronoun  some otherwise obsolete compare πόσος"
+          ],
+          "strongs": "G4225"
+        },
+        {
+          "id": "hebrews-4-4-916",
+          "surface": "περὶ",
+          "word": "περὶ",
+          "lemma": "περί",
+          "translit": "peri",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["from the base of πέραν"],
+          "strongs": "G4012"
+        },
+        {
+          "id": "hebrews-4-4-917",
+          "surface": "τῆς",
+          "word": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-4-918",
+          "surface": "ἑβδόμης",
+          "word": "ἑβδόμης",
+          "lemma": "ἕβδομος",
+          "translit": "hebdomes",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["ordinal from ἑπτά"],
+          "strongs": "G1442"
+        },
+        {
+          "id": "hebrews-4-4-919",
+          "surface": "οὕτως·",
+          "word": "οὕτως",
+          "lemma": "οὕτω(ς)",
+          "translit": "hoytos",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["οὕτω(ς)"],
+          "punctuationAfter": "·"
+        },
+        {
+          "id": "hebrews-4-4-920",
+          "surface": "Καὶ",
+          "word": "Καὶ",
+          "lemma": "καί",
+          "translit": "Kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-4-921",
+          "surface": "κατέπαυσεν",
+          "word": "κατέπαυσεν",
+          "lemma": "καταπαύω",
+          "translit": "katepaysen",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from κατά and παύω"],
+          "strongs": "G2664"
+        },
+        {
+          "id": "hebrews-4-4-922",
+          "surface": "ὁ",
+          "word": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-4-923",
+          "surface": "θεὸς",
+          "word": "θεὸς",
+          "lemma": "θεός",
+          "translit": "theos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316"
+        },
+        {
+          "id": "hebrews-4-4-924",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "hebrews-4-4-925",
+          "surface": "τῇ",
+          "word": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-4-926",
+          "surface": "ἡμέρᾳ",
+          "word": "ἡμέρᾳ",
+          "lemma": "ἡμέρα",
+          "translit": "hemera",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["feminine with ὥρα implied of a derivative of  to sit"],
+          "strongs": "G2250"
+        },
+        {
+          "id": "hebrews-4-4-927",
+          "surface": "τῇ",
+          "word": "τῇ",
+          "lemma": "ὁ",
+          "translit": "te",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-4-928",
+          "surface": "ἑβδόμῃ",
+          "word": "ἑβδόμῃ",
+          "lemma": "ἕβδομος",
+          "translit": "hebdome",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["ordinal from ἑπτά"],
+          "strongs": "G1442"
+        },
+        {
+          "id": "hebrews-4-4-929",
+          "surface": "ἀπὸ",
+          "word": "ἀπὸ",
+          "lemma": "ἀπό",
+          "translit": "apo",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G575"
+        },
+        {
+          "id": "hebrews-4-4-930",
+          "surface": "πάντων",
+          "word": "πάντων",
+          "lemma": "πᾶς",
+          "translit": "panton",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["including all the forms of declension"],
+          "strongs": "G3956"
+        },
+        {
+          "id": "hebrews-4-4-931",
+          "surface": "τῶν",
+          "word": "τῶν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-4-932",
+          "surface": "ἔργων",
+          "word": "ἔργων",
+          "lemma": "ἔργον",
+          "translit": "ergon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a primary but obsolete  to work"],
+          "strongs": "G2041"
+        },
+        {
+          "id": "hebrews-4-4-933",
+          "surface": "αὐτοῦ,",
+          "word": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "translit": "aytoy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846",
+          "punctuationAfter": ","
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:5",
+      "englishText": "and in this place again, “They will not enter into my rest.”",
+      "tokens": [
+        {
+          "id": "hebrews-4-5-934",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-5-935",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "hebrews-4-5-936",
+          "surface": "τούτῳ",
+          "word": "τούτῳ",
+          "lemma": "οὗτος",
+          "translit": "toyto",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from the article ὁ and αὐτός"],
+          "strongs": "G3778"
+        },
+        {
+          "id": "hebrews-4-5-937",
+          "surface": "πάλιν·",
+          "word": "πάλιν",
+          "lemma": "πάλιν",
+          "translit": "palin",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["probably from the same as πάλη through the idea of oscillatory repetition"],
+          "strongs": "G3825",
+          "punctuationAfter": "·"
+        },
+        {
+          "id": "hebrews-4-5-938",
+          "surface": "Εἰ",
+          "word": "Εἰ",
+          "lemma": "εἰ",
+          "translit": "Ei",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle of conditionality"],
+          "strongs": "G1487"
+        },
+        {
+          "id": "hebrews-4-5-939",
+          "surface": "εἰσελεύσονται",
+          "word": "εἰσελεύσονται",
+          "lemma": "εἰσέρχομαι",
+          "translit": "eiseleysontai",
+          "morph": "Verb, 3rd person, future, middle, indicative",
+          "pos": "Verb",
+          "glosses": ["from εἰς and ἔρχομαι"],
+          "strongs": "G1525"
+        },
+        {
+          "id": "hebrews-4-5-940",
+          "surface": "εἰς",
+          "word": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "hebrews-4-5-941",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-5-942",
+          "surface": "κατάπαυσίν",
+          "word": "κατάπαυσίν",
+          "lemma": "κατάπαυσις",
+          "translit": "katapaysin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from καταπαύω"],
+          "strongs": "G2663"
+        },
+        {
+          "id": "hebrews-4-5-943",
+          "surface": "μου.",
+          "word": "μου",
+          "lemma": "ἐγώ",
+          "translit": "moy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:6",
+      "englishText": "Seeing therefore it remains that some should enter therein, and they to whom the good news was before preached failed to enter in because of disobedience,",
+      "tokens": [
+        {
+          "id": "hebrews-4-6-944",
+          "surface": "ἐπεὶ",
+          "word": "ἐπεὶ",
+          "lemma": "ἐπεί",
+          "translit": "epei",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from ἐπί and εἰ"],
+          "strongs": "G1893"
+        },
+        {
+          "id": "hebrews-4-6-945",
+          "surface": "οὖν",
+          "word": "οὖν",
+          "lemma": "οὖν",
+          "translit": "oyn",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G3767"
+        },
+        {
+          "id": "hebrews-4-6-946",
+          "surface": "ἀπολείπεται",
+          "word": "ἀπολείπεται",
+          "lemma": "ἀπολείπω",
+          "translit": "apoleipetai",
+          "morph": "Verb, 3rd person, present, passive, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἀπό and λείπω"],
+          "strongs": "G620"
+        },
+        {
+          "id": "hebrews-4-6-947",
+          "surface": "τινὰς",
+          "word": "τινὰς",
+          "lemma": "τις",
+          "translit": "tinas",
+          "morph": "Interrogative/Indefinite Pronoun",
+          "pos": "Interrogative/Indefinite Pronoun",
+          "glosses": ["τις"]
+        },
+        {
+          "id": "hebrews-4-6-948",
+          "surface": "εἰσελθεῖν",
+          "word": "εἰσελθεῖν",
+          "lemma": "εἰσέρχομαι",
+          "translit": "eiselthein",
+          "morph": "Verb, aorist, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["from εἰς and ἔρχομαι"],
+          "strongs": "G1525"
+        },
+        {
+          "id": "hebrews-4-6-949",
+          "surface": "εἰς",
+          "word": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "hebrews-4-6-950",
+          "surface": "αὐτήν,",
+          "word": "αὐτήν",
+          "lemma": "αὐτός",
+          "translit": "ayten",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-6-951",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-6-952",
+          "surface": "οἱ",
+          "word": "οἱ",
+          "lemma": "ὁ",
+          "translit": "hoi",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-6-953",
+          "surface": "πρότερον",
+          "word": "πρότερον",
+          "lemma": "πρότερος",
+          "translit": "proteron",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["comparative of πρό"],
+          "strongs": "G4387"
+        },
+        {
+          "id": "hebrews-4-6-954",
+          "surface": "εὐαγγελισθέντες",
+          "word": "εὐαγγελισθέντες",
+          "lemma": "εὐαγγελίζω",
+          "translit": "eyaggelisthentes",
+          "morph": "Verb, aorist, passive, participle, nominative, plural, masculine",
+          "pos": "Verb",
+          "glosses": ["from εὖ and ἄγγελος"],
+          "strongs": "G2097"
+        },
+        {
+          "id": "hebrews-4-6-955",
+          "surface": "οὐκ",
+          "word": "οὐκ",
+          "lemma": "οὐ",
+          "translit": "oyk",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "hebrews-4-6-956",
+          "surface": "εἰσῆλθον",
+          "word": "εἰσῆλθον",
+          "lemma": "εἰσέρχομαι",
+          "translit": "eiselthon",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from εἰς and ἔρχομαι"],
+          "strongs": "G1525"
+        },
+        {
+          "id": "hebrews-4-6-957",
+          "surface": "δι’",
+          "word": "δι’",
+          "lemma": "διά",
+          "translit": "di’",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting the channel of an act"],
+          "strongs": "G1223"
+        },
+        {
+          "id": "hebrews-4-6-958",
+          "surface": "ἀπείθειαν,",
+          "word": "ἀπείθειαν",
+          "lemma": "ἀπείθεια",
+          "translit": "apeitheian",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀπειθής"],
+          "strongs": "G543",
+          "punctuationAfter": ","
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:7",
+      "englishText": "he again defines a certain day, today, saying through David so long a time afterward (just as has been said),  “Today if you will hear his voice, don’t harden your hearts.”",
+      "tokens": [
+        {
+          "id": "hebrews-4-7-959",
+          "surface": "πάλιν",
+          "word": "πάλιν",
+          "lemma": "πάλιν",
+          "translit": "palin",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["probably from the same as πάλη through the idea of oscillatory repetition"],
+          "strongs": "G3825"
+        },
+        {
+          "id": "hebrews-4-7-960",
+          "surface": "τινὰ",
+          "word": "τινὰ",
+          "lemma": "τις",
+          "translit": "tina",
+          "morph": "Interrogative/Indefinite Pronoun",
+          "pos": "Interrogative/Indefinite Pronoun",
+          "glosses": ["τις"]
+        },
+        {
+          "id": "hebrews-4-7-961",
+          "surface": "ὁρίζει",
+          "word": "ὁρίζει",
+          "lemma": "ὁρίζω",
+          "translit": "horizei",
+          "morph": "Verb, 3rd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from ὅριον"],
+          "strongs": "G3724"
+        },
+        {
+          "id": "hebrews-4-7-962",
+          "surface": "ἡμέραν,",
+          "word": "ἡμέραν",
+          "lemma": "ἡμέρα",
+          "translit": "hemeran",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["feminine with ὥρα implied of a derivative of  to sit"],
+          "strongs": "G2250",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-7-963",
+          "surface": "Σήμερον,",
+          "word": "Σήμερον",
+          "lemma": "σήμερον",
+          "translit": "Semeron",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "neuter as adverb of a presumed compound of the article ὁ  t changed to s and ἡμέρα"
+          ],
+          "strongs": "G4594",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-7-964",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "hebrews-4-7-965",
+          "surface": "Δαυὶδ",
+          "word": "Δαυὶδ",
+          "lemma": "Δαυίδ",
+          "translit": "Dayid",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["δαυίδ"]
+        },
+        {
+          "id": "hebrews-4-7-966",
+          "surface": "λέγων",
+          "word": "λέγων",
+          "lemma": "λέγω",
+          "translit": "legon",
+          "morph": "Verb, present, active, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G3004"
+        },
+        {
+          "id": "hebrews-4-7-967",
+          "surface": "μετὰ",
+          "word": "μετὰ",
+          "lemma": "μετά",
+          "translit": "meta",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition often used adverbially"],
+          "strongs": "G3326"
+        },
+        {
+          "id": "hebrews-4-7-968",
+          "surface": "τοσοῦτον",
+          "word": "τοσοῦτον",
+          "lemma": "τοσοῦτος",
+          "translit": "tosoyton",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from  so much"],
+          "strongs": "G5118"
+        },
+        {
+          "id": "hebrews-4-7-969",
+          "surface": "χρόνον,",
+          "word": "χρόνον",
+          "lemma": "χρόνος",
+          "translit": "chronon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain derivation"],
+          "strongs": "G5550",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-7-970",
+          "surface": "καθὼς",
+          "word": "καθὼς",
+          "lemma": "καθώς",
+          "translit": "kathos",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from κατά and ὡς"],
+          "strongs": "G2531"
+        },
+        {
+          "id": "hebrews-4-7-971",
+          "surface": "⸀προείρηται,",
+          "word": "προείρηται",
+          "lemma": "προλέγω",
+          "translit": "proeiretai",
+          "morph": "Verb, 3rd person, perfect, passive, indicative",
+          "pos": "Verb",
+          "glosses": ["from πρό and λέγω"],
+          "strongs": "G4302",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-7-972",
+          "surface": "Σήμερον",
+          "word": "Σήμερον",
+          "lemma": "σήμερον",
+          "translit": "Semeron",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "neuter as adverb of a presumed compound of the article ὁ  t changed to s and ἡμέρα"
+          ],
+          "strongs": "G4594"
+        },
+        {
+          "id": "hebrews-4-7-973",
+          "surface": "ἐὰν",
+          "word": "ἐὰν",
+          "lemma": "ἐάν",
+          "translit": "ean",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from εἰ and ἄν"],
+          "strongs": "G1437"
+        },
+        {
+          "id": "hebrews-4-7-974",
+          "surface": "τῆς",
+          "word": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-7-975",
+          "surface": "φωνῆς",
+          "word": "φωνῆς",
+          "lemma": "φωνή",
+          "translit": "phones",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["probably akin to φαίνω through the idea of disclosure"],
+          "strongs": "G5456"
+        },
+        {
+          "id": "hebrews-4-7-976",
+          "surface": "αὐτοῦ",
+          "word": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "translit": "aytoy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "hebrews-4-7-977",
+          "surface": "ἀκούσητε,",
+          "word": "ἀκούσητε",
+          "lemma": "ἀκούω",
+          "translit": "akoysete",
+          "morph": "Verb, 2nd person, aorist, active, subjunctive",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G191",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-7-978",
+          "surface": "μὴ",
+          "word": "μὴ",
+          "lemma": "μή",
+          "translit": "me",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "a primary particle of qualified negation whereas οὐ expresses an absolute denial"
+          ],
+          "strongs": "G3361"
+        },
+        {
+          "id": "hebrews-4-7-979",
+          "surface": "σκληρύνητε",
+          "word": "σκληρύνητε",
+          "lemma": "σκληρύνω",
+          "translit": "sklerynete",
+          "morph": "Verb, 2nd person, aorist, active, subjunctive",
+          "pos": "Verb",
+          "glosses": ["from σκληρός"],
+          "strongs": "G4645"
+        },
+        {
+          "id": "hebrews-4-7-980",
+          "surface": "τὰς",
+          "word": "τὰς",
+          "lemma": "ὁ",
+          "translit": "tas",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-7-981",
+          "surface": "καρδίας",
+          "word": "καρδίας",
+          "lemma": "καρδία",
+          "translit": "kardias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["prolonged from a primary  latin cor"],
+          "strongs": "G2588"
+        },
+        {
+          "id": "hebrews-4-7-982",
+          "surface": "ὑμῶν·",
+          "word": "ὑμῶν",
+          "lemma": "σύ",
+          "translit": "hymon",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["the personal pronoun of the second person singular"],
+          "strongs": "G4771",
+          "punctuationAfter": "·"
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:8",
+      "englishText": "For if Joshua had given them rest, he would not have spoken afterward of another day.",
+      "tokens": [
+        {
+          "id": "hebrews-4-8-983",
+          "surface": "εἰ",
+          "word": "εἰ",
+          "lemma": "εἰ",
+          "translit": "ei",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle of conditionality"],
+          "strongs": "G1487"
+        },
+        {
+          "id": "hebrews-4-8-984",
+          "surface": "γὰρ",
+          "word": "γὰρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "hebrews-4-8-985",
+          "surface": "αὐτοὺς",
+          "word": "αὐτοὺς",
+          "lemma": "αὐτός",
+          "translit": "aytoys",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "hebrews-4-8-986",
+          "surface": "Ἰησοῦς",
+          "word": "Ἰησοῦς",
+          "lemma": "Ἰησοῦς",
+          "translit": "Iesoys",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of hebrew origin יְהוֹשׁוּעַ"],
+          "strongs": "G2424"
+        },
+        {
+          "id": "hebrews-4-8-987",
+          "surface": "κατέπαυσεν,",
+          "word": "κατέπαυσεν",
+          "lemma": "καταπαύω",
+          "translit": "katepaysen",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from κατά and παύω"],
+          "strongs": "G2664",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-8-988",
+          "surface": "οὐκ",
+          "word": "οὐκ",
+          "lemma": "οὐ",
+          "translit": "oyk",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "hebrews-4-8-989",
+          "surface": "ἂν",
+          "word": "ἂν",
+          "lemma": "ἄν",
+          "translit": "an",
+          "morph": "Particle",
+          "pos": "Particle",
+          "glosses": ["a primary particle"],
+          "strongs": "G302"
+        },
+        {
+          "id": "hebrews-4-8-990",
+          "surface": "περὶ",
+          "word": "περὶ",
+          "lemma": "περί",
+          "translit": "peri",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["from the base of πέραν"],
+          "strongs": "G4012"
+        },
+        {
+          "id": "hebrews-4-8-991",
+          "surface": "ἄλλης",
+          "word": "ἄλλης",
+          "lemma": "ἄλλος",
+          "translit": "alles",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["a primary word"],
+          "strongs": "G243"
+        },
+        {
+          "id": "hebrews-4-8-992",
+          "surface": "ἐλάλει",
+          "word": "ἐλάλει",
+          "lemma": "λαλέω",
+          "translit": "elalei",
+          "morph": "Verb, 3rd person, imperfect, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of an otherwise obsolete verb"],
+          "strongs": "G2980"
+        },
+        {
+          "id": "hebrews-4-8-993",
+          "surface": "μετὰ",
+          "word": "μετὰ",
+          "lemma": "μετά",
+          "translit": "meta",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition often used adverbially"],
+          "strongs": "G3326"
+        },
+        {
+          "id": "hebrews-4-8-994",
+          "surface": "ταῦτα",
+          "word": "ταῦτα",
+          "lemma": "οὗτος",
+          "translit": "tayta",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from the article ὁ and αὐτός"],
+          "strongs": "G3778"
+        },
+        {
+          "id": "hebrews-4-8-995",
+          "surface": "ἡμέρας.",
+          "word": "ἡμέρας",
+          "lemma": "ἡμέρα",
+          "translit": "hemeras",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["feminine with ὥρα implied of a derivative of  to sit"],
+          "strongs": "G2250",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:9",
+      "englishText": "There remains therefore a Sabbath rest for the people of God.",
+      "tokens": [
+        {
+          "id": "hebrews-4-9-996",
+          "surface": "ἄρα",
+          "word": "ἄρα",
+          "lemma": "ἄρα",
+          "translit": "ara",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["probably from αἴρω through the idea of drawing a conclusion"],
+          "strongs": "G686"
+        },
+        {
+          "id": "hebrews-4-9-997",
+          "surface": "ἀπολείπεται",
+          "word": "ἀπολείπεται",
+          "lemma": "ἀπολείπω",
+          "translit": "apoleipetai",
+          "morph": "Verb, 3rd person, present, passive, indicative",
+          "pos": "Verb",
+          "glosses": ["from ἀπό and λείπω"],
+          "strongs": "G620"
+        },
+        {
+          "id": "hebrews-4-9-998",
+          "surface": "σαββατισμὸς",
+          "word": "σαββατισμὸς",
+          "lemma": "σαββατισμός",
+          "translit": "sabbatismos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a derivative of σάββατον"],
+          "strongs": "G4520"
+        },
+        {
+          "id": "hebrews-4-9-999",
+          "surface": "τῷ",
+          "word": "τῷ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-9-1000",
+          "surface": "λαῷ",
+          "word": "λαῷ",
+          "lemma": "λαός",
+          "translit": "lao",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G2992"
+        },
+        {
+          "id": "hebrews-4-9-1001",
+          "surface": "τοῦ",
+          "word": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-9-1002",
+          "surface": "θεοῦ·",
+          "word": "θεοῦ",
+          "lemma": "θεός",
+          "translit": "theoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316",
+          "punctuationAfter": "·"
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:10",
+      "englishText": "For he who has entered into his rest has himself also rested from his works, as God did from his.",
+      "tokens": [
+        {
+          "id": "hebrews-4-10-1003",
+          "surface": "ὁ",
+          "word": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-10-1004",
+          "surface": "γὰρ",
+          "word": "γὰρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "hebrews-4-10-1005",
+          "surface": "εἰσελθὼν",
+          "word": "εἰσελθὼν",
+          "lemma": "εἰσέρχομαι",
+          "translit": "eiselthon",
+          "morph": "Verb, aorist, active, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from εἰς and ἔρχομαι"],
+          "strongs": "G1525"
+        },
+        {
+          "id": "hebrews-4-10-1006",
+          "surface": "εἰς",
+          "word": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "hebrews-4-10-1007",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-10-1008",
+          "surface": "κατάπαυσιν",
+          "word": "κατάπαυσιν",
+          "lemma": "κατάπαυσις",
+          "translit": "katapaysin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from καταπαύω"],
+          "strongs": "G2663"
+        },
+        {
+          "id": "hebrews-4-10-1009",
+          "surface": "αὐτοῦ",
+          "word": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "translit": "aytoy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "hebrews-4-10-1010",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-10-1011",
+          "surface": "αὐτὸς",
+          "word": "αὐτὸς",
+          "lemma": "αὐτός",
+          "translit": "aytos",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "hebrews-4-10-1012",
+          "surface": "κατέπαυσεν",
+          "word": "κατέπαυσεν",
+          "lemma": "καταπαύω",
+          "translit": "katepaysen",
+          "morph": "Verb, 3rd person, aorist, active, indicative",
+          "pos": "Verb",
+          "glosses": ["from κατά and παύω"],
+          "strongs": "G2664"
+        },
+        {
+          "id": "hebrews-4-10-1013",
+          "surface": "ἀπὸ",
+          "word": "ἀπὸ",
+          "lemma": "ἀπό",
+          "translit": "apo",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G575"
+        },
+        {
+          "id": "hebrews-4-10-1014",
+          "surface": "τῶν",
+          "word": "τῶν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-10-1015",
+          "surface": "ἔργων",
+          "word": "ἔργων",
+          "lemma": "ἔργον",
+          "translit": "ergon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a primary but obsolete  to work"],
+          "strongs": "G2041"
+        },
+        {
+          "id": "hebrews-4-10-1016",
+          "surface": "αὐτοῦ",
+          "word": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "translit": "aytoy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "hebrews-4-10-1017",
+          "surface": "ὥσπερ",
+          "word": "ὥσπερ",
+          "lemma": "ὥσπερ",
+          "translit": "hosper",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["from ὡς and περ"],
+          "strongs": "G5618"
+        },
+        {
+          "id": "hebrews-4-10-1018",
+          "surface": "ἀπὸ",
+          "word": "ἀπὸ",
+          "lemma": "ἀπό",
+          "translit": "apo",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G575"
+        },
+        {
+          "id": "hebrews-4-10-1019",
+          "surface": "τῶν",
+          "word": "τῶν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-10-1020",
+          "surface": "ἰδίων",
+          "word": "ἰδίων",
+          "lemma": "ἴδιος",
+          "translit": "idion",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2398"
+        },
+        {
+          "id": "hebrews-4-10-1021",
+          "surface": "ὁ",
+          "word": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-10-1022",
+          "surface": "θεός.",
+          "word": "θεός",
+          "lemma": "θεός",
+          "translit": "theos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:11",
+      "englishText": "Let us therefore give diligence to enter into that rest, lest anyone fall after the same example of disobedience.",
+      "tokens": [
+        {
+          "id": "hebrews-4-11-1023",
+          "surface": "σπουδάσωμεν",
+          "word": "σπουδάσωμεν",
+          "lemma": "σπουδάζω",
+          "translit": "spoydasomen",
+          "morph": "Verb, 1st person, aorist, active, subjunctive",
+          "pos": "Verb",
+          "glosses": ["from σπουδή"],
+          "strongs": "G4704"
+        },
+        {
+          "id": "hebrews-4-11-1024",
+          "surface": "οὖν",
+          "word": "οὖν",
+          "lemma": "οὖν",
+          "translit": "oyn",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G3767"
+        },
+        {
+          "id": "hebrews-4-11-1025",
+          "surface": "εἰσελθεῖν",
+          "word": "εἰσελθεῖν",
+          "lemma": "εἰσέρχομαι",
+          "translit": "eiselthein",
+          "morph": "Verb, aorist, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["from εἰς and ἔρχομαι"],
+          "strongs": "G1525"
+        },
+        {
+          "id": "hebrews-4-11-1026",
+          "surface": "εἰς",
+          "word": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "hebrews-4-11-1027",
+          "surface": "ἐκείνην",
+          "word": "ἐκείνην",
+          "lemma": "ἐκεῖνος",
+          "translit": "ekeinen",
+          "morph": "Demonstrative Pronoun",
+          "pos": "Demonstrative Pronoun",
+          "glosses": ["from ἐκεῖ"],
+          "strongs": "G1565"
+        },
+        {
+          "id": "hebrews-4-11-1028",
+          "surface": "τὴν",
+          "word": "τὴν",
+          "lemma": "ὁ",
+          "translit": "ten",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-11-1029",
+          "surface": "κατάπαυσιν,",
+          "word": "κατάπαυσιν",
+          "lemma": "κατάπαυσις",
+          "translit": "katapaysin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from καταπαύω"],
+          "strongs": "G2663",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-11-1030",
+          "surface": "ἵνα",
+          "word": "ἵνα",
+          "lemma": "ἵνα",
+          "translit": "hina",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": [
+            "probably from the same as the former part of ἑαυτοῦ through the demonstrative idea"
+          ],
+          "strongs": "G2443"
+        },
+        {
+          "id": "hebrews-4-11-1031",
+          "surface": "μὴ",
+          "word": "μὴ",
+          "lemma": "μή",
+          "translit": "me",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "a primary particle of qualified negation whereas οὐ expresses an absolute denial"
+          ],
+          "strongs": "G3361"
+        },
+        {
+          "id": "hebrews-4-11-1032",
+          "surface": "ἐν",
+          "word": "ἐν",
+          "lemma": "ἐν",
+          "translit": "en",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition denoting fixed position in place"],
+          "strongs": "G1722"
+        },
+        {
+          "id": "hebrews-4-11-1033",
+          "surface": "τῷ",
+          "word": "τῷ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-11-1034",
+          "surface": "αὐτῷ",
+          "word": "αὐτῷ",
+          "lemma": "αὐτός",
+          "translit": "ayto",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846"
+        },
+        {
+          "id": "hebrews-4-11-1035",
+          "surface": "τις",
+          "word": "τις",
+          "lemma": "τις",
+          "translit": "tis",
+          "morph": "Interrogative/Indefinite Pronoun",
+          "pos": "Interrogative/Indefinite Pronoun",
+          "glosses": ["τις"]
+        },
+        {
+          "id": "hebrews-4-11-1036",
+          "surface": "ὑποδείγματι",
+          "word": "ὑποδείγματι",
+          "lemma": "ὑπόδειγμα",
+          "translit": "hypodeigmati",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ὑποδείκνυμι"],
+          "strongs": "G5262"
+        },
+        {
+          "id": "hebrews-4-11-1037",
+          "surface": "πέσῃ",
+          "word": "πέσῃ",
+          "lemma": "πίπτω",
+          "translit": "pese",
+          "morph": "Verb, 3rd person, aorist, active, subjunctive",
+          "pos": "Verb",
+          "glosses": ["probably akin to πέτομαι through the idea of alighting"],
+          "strongs": "G4098"
+        },
+        {
+          "id": "hebrews-4-11-1038",
+          "surface": "τῆς",
+          "word": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-11-1039",
+          "surface": "ἀπειθείας.",
+          "word": "ἀπειθείας",
+          "lemma": "ἀπείθεια",
+          "translit": "apeitheias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀπειθής"],
+          "strongs": "G543",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:12",
+      "englishText": "For the word of God is living, and active, and sharper than any two-edged sword, and piercing even to the dividing of soul and spirit, of both joints and marrow, and is able to discern the thoughts and intentions of the heart.",
+      "tokens": [
+        {
+          "id": "hebrews-4-12-1040",
+          "surface": "Ζῶν",
+          "word": "Ζῶν",
+          "lemma": "ζάω",
+          "translit": "Zon",
+          "morph": "Verb, present, active, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G2198"
+        },
+        {
+          "id": "hebrews-4-12-1041",
+          "surface": "γὰρ",
+          "word": "γὰρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "hebrews-4-12-1042",
+          "surface": "ὁ",
+          "word": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-12-1043",
+          "surface": "λόγος",
+          "word": "λόγος",
+          "lemma": "λόγος",
+          "translit": "logos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from λέγω"],
+          "strongs": "G3056"
+        },
+        {
+          "id": "hebrews-4-12-1044",
+          "surface": "τοῦ",
+          "word": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-12-1045",
+          "surface": "θεοῦ",
+          "word": "θεοῦ",
+          "lemma": "θεός",
+          "translit": "theoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316"
+        },
+        {
+          "id": "hebrews-4-12-1046",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-12-1047",
+          "surface": "ἐνεργὴς",
+          "word": "ἐνεργὴς",
+          "lemma": "ἐνεργής",
+          "translit": "energes",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from ἐν and ἔργον"],
+          "strongs": "G1756"
+        },
+        {
+          "id": "hebrews-4-12-1048",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-12-1049",
+          "surface": "τομώτερος",
+          "word": "τομώτερος",
+          "lemma": "τομώτερος",
+          "translit": "tomoteros",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["comparative of a derivative of the primary  to cut"],
+          "strongs": "G5114"
+        },
+        {
+          "id": "hebrews-4-12-1050",
+          "surface": "ὑπὲρ",
+          "word": "ὑπὲρ",
+          "lemma": "ὑπέρ",
+          "translit": "hyper",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G5228"
+        },
+        {
+          "id": "hebrews-4-12-1051",
+          "surface": "πᾶσαν",
+          "word": "πᾶσαν",
+          "lemma": "πᾶς",
+          "translit": "pasan",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["including all the forms of declension"],
+          "strongs": "G3956"
+        },
+        {
+          "id": "hebrews-4-12-1052",
+          "surface": "μάχαιραν",
+          "word": "μάχαιραν",
+          "lemma": "μάχαιρα",
+          "translit": "machairan",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["probably feminine of a presumed derivative of μάχη"],
+          "strongs": "G3162"
+        },
+        {
+          "id": "hebrews-4-12-1053",
+          "surface": "δίστομον",
+          "word": "δίστομον",
+          "lemma": "δίστομος",
+          "translit": "distomon",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from δίς and στόμα"],
+          "strongs": "G1366"
+        },
+        {
+          "id": "hebrews-4-12-1054",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-12-1055",
+          "surface": "διϊκνούμενος",
+          "word": "διϊκνούμενος",
+          "lemma": "διϊκνέομαι",
+          "translit": "diiknoymenos",
+          "morph": "Verb, present, middle, participle, nominative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from διά and the base of ἱκανός"],
+          "strongs": "G1338"
+        },
+        {
+          "id": "hebrews-4-12-1056",
+          "surface": "ἄχρι",
+          "word": "ἄχρι",
+          "lemma": "ἄχρι",
+          "translit": "achri",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["akin to ἄκρον through the idea of a terminus"],
+          "strongs": "G891"
+        },
+        {
+          "id": "hebrews-4-12-1057",
+          "surface": "μερισμοῦ",
+          "word": "μερισμοῦ",
+          "lemma": "μερισμός",
+          "translit": "merismoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from μερίζω"],
+          "strongs": "G3311"
+        },
+        {
+          "id": "hebrews-4-12-1058",
+          "surface": "ψυχῆς",
+          "word": "ψυχῆς",
+          "lemma": "ψυχή",
+          "translit": "psyches",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ψύχω"],
+          "strongs": "G5590"
+        },
+        {
+          "id": "hebrews-4-12-1059",
+          "surface": "⸀καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-12-1060",
+          "surface": "πνεύματος,",
+          "word": "πνεύματος",
+          "lemma": "πνεῦμα",
+          "translit": "pneymatos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from πνέω"],
+          "strongs": "G4151",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-12-1061",
+          "surface": "ἁρμῶν",
+          "word": "ἁρμῶν",
+          "lemma": "ἁρμός",
+          "translit": "harmon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from the same as ἅρμα"],
+          "strongs": "G719"
+        },
+        {
+          "id": "hebrews-4-12-1062",
+          "surface": "τε",
+          "word": "τε",
+          "lemma": "τέ",
+          "translit": "te",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle enclitic of connection or addition"],
+          "strongs": "G5037"
+        },
+        {
+          "id": "hebrews-4-12-1063",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-12-1064",
+          "surface": "μυελῶν,",
+          "word": "μυελῶν",
+          "lemma": "μυελός",
+          "translit": "myelon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["perhaps a primary word"],
+          "strongs": "G3452",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-12-1065",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-12-1066",
+          "surface": "κριτικὸς",
+          "word": "κριτικὸς",
+          "lemma": "κριτικός",
+          "translit": "kritikos",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from κριτής"],
+          "strongs": "G2924"
+        },
+        {
+          "id": "hebrews-4-12-1067",
+          "surface": "ἐνθυμήσεων",
+          "word": "ἐνθυμήσεων",
+          "lemma": "ἐνθύμησις",
+          "translit": "enthymeseon",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἐνθυμέομαι"],
+          "strongs": "G1761"
+        },
+        {
+          "id": "hebrews-4-12-1068",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-12-1069",
+          "surface": "ἐννοιῶν",
+          "word": "ἐννοιῶν",
+          "lemma": "ἔννοια",
+          "translit": "ennoion",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from a compound of ἐν and νοῦς"],
+          "strongs": "G1771"
+        },
+        {
+          "id": "hebrews-4-12-1070",
+          "surface": "καρδίας·",
+          "word": "καρδίας",
+          "lemma": "καρδία",
+          "translit": "kardias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["prolonged from a primary  latin cor"],
+          "strongs": "G2588",
+          "punctuationAfter": "·"
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:13",
+      "englishText": "There is no creature that is hidden from his sight, but all things are naked and laid open before the eyes of him to whom we must give an account.",
+      "tokens": [
+        {
+          "id": "hebrews-4-13-1071",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-13-1072",
+          "surface": "οὐκ",
+          "word": "οὐκ",
+          "lemma": "οὐ",
+          "translit": "oyk",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "hebrews-4-13-1073",
+          "surface": "ἔστιν",
+          "word": "ἔστιν",
+          "lemma": "εἰμί",
+          "translit": "estin",
+          "morph": "Verb, 3rd person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["the first person singular present indicative"],
+          "strongs": "G1510"
+        },
+        {
+          "id": "hebrews-4-13-1074",
+          "surface": "κτίσις",
+          "word": "κτίσις",
+          "lemma": "κτίσις",
+          "translit": "ktisis",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from κτίζω"],
+          "strongs": "G2937"
+        },
+        {
+          "id": "hebrews-4-13-1075",
+          "surface": "ἀφανὴς",
+          "word": "ἀφανὴς",
+          "lemma": "ἀφανής",
+          "translit": "aphanes",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from α as a negative particle and φαίνω"],
+          "strongs": "G852"
+        },
+        {
+          "id": "hebrews-4-13-1076",
+          "surface": "ἐνώπιον",
+          "word": "ἐνώπιον",
+          "lemma": "ἐνώπιον",
+          "translit": "enopion",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["neuter of a compound of ἐν and a derivative of ὀπτάνομαι"],
+          "strongs": "G1799"
+        },
+        {
+          "id": "hebrews-4-13-1077",
+          "surface": "αὐτοῦ,",
+          "word": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "translit": "aytoy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-13-1078",
+          "surface": "πάντα",
+          "word": "πάντα",
+          "lemma": "πᾶς",
+          "translit": "panta",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["including all the forms of declension"],
+          "strongs": "G3956"
+        },
+        {
+          "id": "hebrews-4-13-1079",
+          "surface": "δὲ",
+          "word": "δὲ",
+          "lemma": "δέ",
+          "translit": "de",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle adversative or continuative"],
+          "strongs": "G1161"
+        },
+        {
+          "id": "hebrews-4-13-1080",
+          "surface": "γυμνὰ",
+          "word": "γυμνὰ",
+          "lemma": "γυμνός",
+          "translit": "gymna",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G1131"
+        },
+        {
+          "id": "hebrews-4-13-1081",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-13-1082",
+          "surface": "τετραχηλισμένα",
+          "word": "τετραχηλισμένα",
+          "lemma": "τραχηλίζομαι",
+          "translit": "tetrachelismena",
+          "morph": "Verb, perfect, passive, participle, nominative, plural, neuter",
+          "pos": "Verb",
+          "glosses": ["τραχηλίζομαι"]
+        },
+        {
+          "id": "hebrews-4-13-1083",
+          "surface": "τοῖς",
+          "word": "τοῖς",
+          "lemma": "ὁ",
+          "translit": "tois",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-13-1084",
+          "surface": "ὀφθαλμοῖς",
+          "word": "ὀφθαλμοῖς",
+          "lemma": "ὀφθαλμός",
+          "translit": "ophthalmois",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ὀπτάνομαι"],
+          "strongs": "G3788"
+        },
+        {
+          "id": "hebrews-4-13-1085",
+          "surface": "αὐτοῦ,",
+          "word": "αὐτοῦ",
+          "lemma": "αὐτός",
+          "translit": "aytoy",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": [
+            "from the particle  perhaps akin to the base of ἀήρ through the idea of a baffling wind backward"
+          ],
+          "strongs": "G846",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-13-1086",
+          "surface": "πρὸς",
+          "word": "πρὸς",
+          "lemma": "πρός",
+          "translit": "pros",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a strengthened form of πρό"],
+          "strongs": "G4314"
+        },
+        {
+          "id": "hebrews-4-13-1087",
+          "surface": "ὃν",
+          "word": "ὃν",
+          "lemma": "ὅς",
+          "translit": "hon",
+          "morph": "Relative Pronoun",
+          "pos": "Relative Pronoun",
+          "glosses": ["probably a primary word or perhaps a form of the article ὁ"],
+          "strongs": "G3739"
+        },
+        {
+          "id": "hebrews-4-13-1088",
+          "surface": "ἡμῖν",
+          "word": "ἡμῖν",
+          "lemma": "ἐγώ",
+          "translit": "hemin",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473"
+        },
+        {
+          "id": "hebrews-4-13-1089",
+          "surface": "ὁ",
+          "word": "ὁ",
+          "lemma": "ὁ",
+          "translit": "ho",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-13-1090",
+          "surface": "λόγος.",
+          "word": "λόγος",
+          "lemma": "λόγος",
+          "translit": "logos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from λέγω"],
+          "strongs": "G3056",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:14",
+      "englishText": "Having then a great high priest, who has passed through the heavens, Jesus, the Son of God, let us hold tightly to our confession.",
+      "tokens": [
+        {
+          "id": "hebrews-4-14-1091",
+          "surface": "Ἔχοντες",
+          "word": "Ἔχοντες",
+          "lemma": "ἔχω",
+          "translit": "Echontes",
+          "morph": "Verb, present, active, participle, nominative, plural, masculine",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G2192"
+        },
+        {
+          "id": "hebrews-4-14-1092",
+          "surface": "οὖν",
+          "word": "οὖν",
+          "lemma": "οὖν",
+          "translit": "oyn",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G3767"
+        },
+        {
+          "id": "hebrews-4-14-1093",
+          "surface": "ἀρχιερέα",
+          "word": "ἀρχιερέα",
+          "lemma": "ἀρχιερεύς",
+          "translit": "archierea",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀρχή and ἱερεύς"],
+          "strongs": "G749"
+        },
+        {
+          "id": "hebrews-4-14-1094",
+          "surface": "μέγαν",
+          "word": "μέγαν",
+          "lemma": "μέγας",
+          "translit": "megan",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["including the prolonged forms"],
+          "strongs": "G3173"
+        },
+        {
+          "id": "hebrews-4-14-1095",
+          "surface": "διεληλυθότα",
+          "word": "διεληλυθότα",
+          "lemma": "διέρχομαι",
+          "translit": "dielelythota",
+          "morph": "Verb, perfect, active, participle, accusative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from διά and ἔρχομαι"],
+          "strongs": "G1330"
+        },
+        {
+          "id": "hebrews-4-14-1096",
+          "surface": "τοὺς",
+          "word": "τοὺς",
+          "lemma": "ὁ",
+          "translit": "toys",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-14-1097",
+          "surface": "οὐρανούς,",
+          "word": "οὐρανούς",
+          "lemma": "οὐρανός",
+          "translit": "oyranoys",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["perhaps from the same as ὄρος through the idea of elevation"],
+          "strongs": "G3772",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-14-1098",
+          "surface": "Ἰησοῦν",
+          "word": "Ἰησοῦν",
+          "lemma": "Ἰησοῦς",
+          "translit": "Iesoyn",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of hebrew origin יְהוֹשׁוּעַ"],
+          "strongs": "G2424"
+        },
+        {
+          "id": "hebrews-4-14-1099",
+          "surface": "τὸν",
+          "word": "τὸν",
+          "lemma": "ὁ",
+          "translit": "ton",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-14-1100",
+          "surface": "υἱὸν",
+          "word": "υἱὸν",
+          "lemma": "υἱός",
+          "translit": "hyion",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G5207"
+        },
+        {
+          "id": "hebrews-4-14-1101",
+          "surface": "τοῦ",
+          "word": "τοῦ",
+          "lemma": "ὁ",
+          "translit": "toy",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-14-1102",
+          "surface": "θεοῦ,",
+          "word": "θεοῦ",
+          "lemma": "θεός",
+          "translit": "theoy",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G2316",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-14-1103",
+          "surface": "κρατῶμεν",
+          "word": "κρατῶμεν",
+          "lemma": "κρατέω",
+          "translit": "kratomen",
+          "morph": "Verb, 1st person, present, active, subjunctive",
+          "pos": "Verb",
+          "glosses": ["from κράτος"],
+          "strongs": "G2902"
+        },
+        {
+          "id": "hebrews-4-14-1104",
+          "surface": "τῆς",
+          "word": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-14-1105",
+          "surface": "ὁμολογίας·",
+          "word": "ὁμολογίας",
+          "lemma": "ὁμολογία",
+          "translit": "homologias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from the same as ὁμολογέω"],
+          "strongs": "G3671",
+          "punctuationAfter": "·"
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:15",
+      "englishText": "For we don’t have a high priest who can’t be touched with the feeling of our infirmities, but one who has been in all points tempted like we are, yet without sin.",
+      "tokens": [
+        {
+          "id": "hebrews-4-15-1106",
+          "surface": "οὐ",
+          "word": "οὐ",
+          "lemma": "οὐ",
+          "translit": "oy",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": ["a primary word"],
+          "strongs": "G3756"
+        },
+        {
+          "id": "hebrews-4-15-1107",
+          "surface": "γὰρ",
+          "word": "γὰρ",
+          "lemma": "γάρ",
+          "translit": "gar",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle"],
+          "strongs": "G1063"
+        },
+        {
+          "id": "hebrews-4-15-1108",
+          "surface": "ἔχομεν",
+          "word": "ἔχομεν",
+          "lemma": "ἔχω",
+          "translit": "echomen",
+          "morph": "Verb, 1st person, present, active, indicative",
+          "pos": "Verb",
+          "glosses": ["a primary verb"],
+          "strongs": "G2192"
+        },
+        {
+          "id": "hebrews-4-15-1109",
+          "surface": "ἀρχιερέα",
+          "word": "ἀρχιερέα",
+          "lemma": "ἀρχιερεύς",
+          "translit": "archierea",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀρχή and ἱερεύς"],
+          "strongs": "G749"
+        },
+        {
+          "id": "hebrews-4-15-1110",
+          "surface": "μὴ",
+          "word": "μὴ",
+          "lemma": "μή",
+          "translit": "me",
+          "morph": "Adverb",
+          "pos": "Adverb",
+          "glosses": [
+            "a primary particle of qualified negation whereas οὐ expresses an absolute denial"
+          ],
+          "strongs": "G3361"
+        },
+        {
+          "id": "hebrews-4-15-1111",
+          "surface": "δυνάμενον",
+          "word": "δυνάμενον",
+          "lemma": "δύναμαι",
+          "translit": "dynamenon",
+          "morph": "Verb, present, middle, participle, accusative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G1410"
+        },
+        {
+          "id": "hebrews-4-15-1112",
+          "surface": "συμπαθῆσαι",
+          "word": "συμπαθῆσαι",
+          "lemma": "συμπαθέω",
+          "translit": "sympathesai",
+          "morph": "Verb, aorist, active, infinitive",
+          "pos": "Verb",
+          "glosses": ["from συμπαθής"],
+          "strongs": "G4834"
+        },
+        {
+          "id": "hebrews-4-15-1113",
+          "surface": "ταῖς",
+          "word": "ταῖς",
+          "lemma": "ὁ",
+          "translit": "tais",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-15-1114",
+          "surface": "ἀσθενείαις",
+          "word": "ἀσθενείαις",
+          "lemma": "ἀσθένεια",
+          "translit": "astheneiais",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἀσθενής"],
+          "strongs": "G769"
+        },
+        {
+          "id": "hebrews-4-15-1115",
+          "surface": "ἡμῶν,",
+          "word": "ἡμῶν",
+          "lemma": "ἐγώ",
+          "translit": "hemon",
+          "morph": "Personal Pronoun",
+          "pos": "Personal Pronoun",
+          "glosses": ["a primary pronoun of the first person i only expressed when emphatic:--i"],
+          "strongs": "G1473",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-15-1116",
+          "surface": "⸀πεπειρασμένον",
+          "word": "πεπειρασμένον",
+          "lemma": "πειράζω",
+          "translit": "pepeirasmenon",
+          "morph": "Verb, perfect, passive, participle, accusative, singular, masculine",
+          "pos": "Verb",
+          "glosses": ["from πεῖρα"],
+          "strongs": "G3985"
+        },
+        {
+          "id": "hebrews-4-15-1117",
+          "surface": "δὲ",
+          "word": "δὲ",
+          "lemma": "δέ",
+          "translit": "de",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["a primary particle adversative or continuative"],
+          "strongs": "G1161"
+        },
+        {
+          "id": "hebrews-4-15-1118",
+          "surface": "κατὰ",
+          "word": "κατὰ",
+          "lemma": "κατά",
+          "translit": "kata",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G2596"
+        },
+        {
+          "id": "hebrews-4-15-1119",
+          "surface": "πάντα",
+          "word": "πάντα",
+          "lemma": "πᾶς",
+          "translit": "panta",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["including all the forms of declension"],
+          "strongs": "G3956"
+        },
+        {
+          "id": "hebrews-4-15-1120",
+          "surface": "καθ’",
+          "word": "καθ’",
+          "lemma": "κατά",
+          "translit": "kath’",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary particle"],
+          "strongs": "G2596"
+        },
+        {
+          "id": "hebrews-4-15-1121",
+          "surface": "ὁμοιότητα",
+          "word": "ὁμοιότητα",
+          "lemma": "ὁμοιότης",
+          "translit": "homoioteta",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ὅμοιος"],
+          "strongs": "G3665"
+        },
+        {
+          "id": "hebrews-4-15-1122",
+          "surface": "χωρὶς",
+          "word": "χωρὶς",
+          "lemma": "χωρίς",
+          "translit": "choris",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["adverb from χώρα"],
+          "strongs": "G5565"
+        },
+        {
+          "id": "hebrews-4-15-1123",
+          "surface": "ἁμαρτίας.",
+          "word": "ἁμαρτίας",
+          "lemma": "ἁμαρτία",
+          "translit": "hamartias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from ἁμαρτάνω"],
+          "strongs": "G266",
+          "punctuationAfter": "."
+        }
+      ]
+    },
+    {
+      "ref": "Hebrews 4:16",
+      "englishText": "Let us therefore draw near with boldness to the throne of grace, that we may receive mercy, and may find grace for help in time of need.",
+      "tokens": [
+        {
+          "id": "hebrews-4-16-1124",
+          "surface": "προσερχώμεθα",
+          "word": "προσερχώμεθα",
+          "lemma": "προσέρχομαι",
+          "translit": "proserchometha",
+          "morph": "Verb, 1st person, present, middle, subjunctive",
+          "pos": "Verb",
+          "glosses": ["from πρός and ἔρχομαι including its alternate"],
+          "strongs": "G4334"
+        },
+        {
+          "id": "hebrews-4-16-1125",
+          "surface": "οὖν",
+          "word": "οὖν",
+          "lemma": "οὖν",
+          "translit": "oyn",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently a primary word"],
+          "strongs": "G3767"
+        },
+        {
+          "id": "hebrews-4-16-1126",
+          "surface": "μετὰ",
+          "word": "μετὰ",
+          "lemma": "μετά",
+          "translit": "meta",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition often used adverbially"],
+          "strongs": "G3326"
+        },
+        {
+          "id": "hebrews-4-16-1127",
+          "surface": "παρρησίας",
+          "word": "παρρησίας",
+          "lemma": "παρρησία",
+          "translit": "parresias",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["παρρησία"]
+        },
+        {
+          "id": "hebrews-4-16-1128",
+          "surface": "τῷ",
+          "word": "τῷ",
+          "lemma": "ὁ",
+          "translit": "to",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-16-1129",
+          "surface": "θρόνῳ",
+          "word": "θρόνῳ",
+          "lemma": "θρόνος",
+          "translit": "throno",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from  to sit"],
+          "strongs": "G2362"
+        },
+        {
+          "id": "hebrews-4-16-1130",
+          "surface": "τῆς",
+          "word": "τῆς",
+          "lemma": "ὁ",
+          "translit": "tes",
+          "morph": "Article",
+          "pos": "Article",
+          "glosses": ["the definite article"],
+          "strongs": "G3588"
+        },
+        {
+          "id": "hebrews-4-16-1131",
+          "surface": "χάριτος,",
+          "word": "χάριτος",
+          "lemma": "χάρις",
+          "translit": "charitos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χαίρω"],
+          "strongs": "G5485",
+          "punctuationAfter": ","
+        },
+        {
+          "id": "hebrews-4-16-1132",
+          "surface": "ἵνα",
+          "word": "ἵνα",
+          "lemma": "ἵνα",
+          "translit": "hina",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": [
+            "probably from the same as the former part of ἑαυτοῦ through the demonstrative idea"
+          ],
+          "strongs": "G2443"
+        },
+        {
+          "id": "hebrews-4-16-1133",
+          "surface": "λάβωμεν",
+          "word": "λάβωμεν",
+          "lemma": "λαμβάνω",
+          "translit": "labomen",
+          "morph": "Verb, 1st person, aorist, active, subjunctive",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of a primary verb"],
+          "strongs": "G2983"
+        },
+        {
+          "id": "hebrews-4-16-1134",
+          "surface": "ἔλεος",
+          "word": "ἔλεος",
+          "lemma": "ἔλεος",
+          "translit": "eleos",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["of uncertain affinity"],
+          "strongs": "G1656"
+        },
+        {
+          "id": "hebrews-4-16-1135",
+          "surface": "καὶ",
+          "word": "καὶ",
+          "lemma": "καί",
+          "translit": "kai",
+          "morph": "Conjunction",
+          "pos": "Conjunction",
+          "glosses": ["apparently"],
+          "strongs": "G2532"
+        },
+        {
+          "id": "hebrews-4-16-1136",
+          "surface": "χάριν",
+          "word": "χάριν",
+          "lemma": "χάρις",
+          "translit": "charin",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from χαίρω"],
+          "strongs": "G5485"
+        },
+        {
+          "id": "hebrews-4-16-1137",
+          "surface": "εὕρωμεν",
+          "word": "εὕρωμεν",
+          "lemma": "εὑρίσκω",
+          "translit": "heyromen",
+          "morph": "Verb, 1st person, aorist, active, subjunctive",
+          "pos": "Verb",
+          "glosses": ["a prolonged form of a primary"],
+          "strongs": "G2147"
+        },
+        {
+          "id": "hebrews-4-16-1138",
+          "surface": "εἰς",
+          "word": "εἰς",
+          "lemma": "εἰς",
+          "translit": "eis",
+          "morph": "Preposition",
+          "pos": "Preposition",
+          "glosses": ["a primary preposition"],
+          "strongs": "G1519"
+        },
+        {
+          "id": "hebrews-4-16-1139",
+          "surface": "εὔκαιρον",
+          "word": "εὔκαιρον",
+          "lemma": "εὔκαιρος",
+          "translit": "eykairon",
+          "morph": "Adjective",
+          "pos": "Adjective",
+          "glosses": ["from εὖ and καιρός"],
+          "strongs": "G2121"
+        },
+        {
+          "id": "hebrews-4-16-1140",
+          "surface": "βοήθειαν.",
+          "word": "βοήθειαν",
+          "lemma": "βοήθεια",
+          "translit": "boetheian",
+          "morph": "Noun",
+          "pos": "Noun",
+          "glosses": ["from βοηθός"],
+          "strongs": "G996",
+          "punctuationAfter": "."
+        }
+      ]
+    }
+  ],
+  "language": "greek"
+}

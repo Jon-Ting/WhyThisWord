@@ -1,1 +1,3565 @@
-{"id":"ruth-2","name":"Ruth","chapter":2,"verses":[{"ref":"Ruth 2:1","englishText":"Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech, and his name was Boaz.","tokens":[{"id":"ruth-2-1-0","surface":"וּֽלְנָעֳמִ֞י","lemma":"נׇעֳמִי","translit":"vlena`miy","morph":"Conjunction + Preposition + Noun proper","glosses":[],"strongs":"H5281"},{"id":"ruth-2-1-1","surface":"מידע","lemma":"יָדַע","translit":"myd`","morph":"Verb Pual s","glosses":[],"strongs":"H3045"},{"id":"ruth-2-1-2","surface":"מוֹדַ֣ע","lemma":"מוֹדַע","translit":"mvoda`","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4129"},{"id":"ruth-2-1-3","surface":"לְאִישָׁ֗הּ","lemma":"אִישׁ","translit":"le'iyshah","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H376"},{"id":"ruth-2-1-4","surface":"אִ֚ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"ruth-2-1-5","surface":"גִּבּ֣וֹר","lemma":"גִּבּוֹר","translit":"gibvor","morph":"Adjective","glosses":[],"strongs":"H1368"},{"id":"ruth-2-1-6","surface":"חַ֔יִל","lemma":"חַיִל","translit":"chayil","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2428"},{"id":"ruth-2-1-7","surface":"מִמִּשְׁפַּ֖חַת","lemma":"מִשְׁפָּחָה","translit":"mimishepachat","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H4940"},{"id":"ruth-2-1-8","surface":"אֱלִימֶ֑לֶךְ","lemma":"אֱלִימֶלֶךְ","translit":"'liymeleke","morph":"Noun proper","glosses":[],"strongs":"H458"},{"id":"ruth-2-1-9","surface":"וּשְׁמ֖וֹ","lemma":"שֵׁם","translit":"vshemvo","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H8034"},{"id":"ruth-2-1-10","surface":"בֹּֽעַז","lemma":"בֹּעַז","translit":"bo`az","morph":"Noun proper","glosses":[],"strongs":"H1162"}],"language":"hebrew"},{"ref":"Ruth 2:2","englishText":"Ruth the Moabitess said to Naomi, “Let me now go to the field, and glean among the ears of grain after him in whose sight I shall find favor.”   She said to her, “Go, my daughter.”","tokens":[{"id":"ruth-2-2-0","surface":"וַתֹּאמֶר֩","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-2-1","surface":"ר֨וּת","lemma":"רוּת","translit":"rvt","morph":"Noun proper","glosses":[],"strongs":"H7327"},{"id":"ruth-2-2-2","surface":"הַמּוֹאֲבִיָּ֜ה","lemma":"מוֹאָבִי","translit":"hamvo'biyah","morph":"Particle dual + Noun gentilic feminine singular absolute","glosses":[],"strongs":"H4125"},{"id":"ruth-2-2-3","surface":"אֶֽל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"ruth-2-2-4","surface":"נָעֳמִ֗י","lemma":"נׇעֳמִי","translit":"na`miy","morph":"Noun proper","glosses":[],"strongs":"H5281"},{"id":"ruth-2-2-5","surface":"אֵֽלְכָה","lemma":"יָלַךְ","translit":"'elekah","morph":"Verb Qal Cohortative 1st common singular","glosses":[],"strongs":"H3212"},{"id":"ruth-2-2-6","surface":"נָּ֤א","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"ruth-2-2-7","surface":"הַשָּׂדֶה֙","lemma":"שָׂדֶה","translit":"hashadeh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7704"},{"id":"ruth-2-2-8","surface":"וַאֲלַקֳטָּ֣ה","lemma":"לָקַט","translit":"va'laqtah","morph":"Conjunction + Verb Piel Cohortative 1st common singular","glosses":[],"strongs":"H3950"},{"id":"ruth-2-2-9","surface":"בַשִׁבֳּלִ֔ים","lemma":"שִׁבֹּל","translit":"bashibliym","morph":"Preposition dual + Noun common feminine plural absolute","glosses":[],"strongs":"H7641"},{"id":"ruth-2-2-10","surface":"אַחַ֕ר","lemma":"אַחַר","translit":"'achar","morph":"Preposition","glosses":[],"strongs":"H310"},{"id":"ruth-2-2-11","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-2-12","surface":"אֶמְצָא","lemma":"מָצָא","translit":"'emetsa'","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H4672"},{"id":"ruth-2-2-13","surface":"חֵ֖ן","lemma":"חֵן","translit":"chen","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2580"},{"id":"ruth-2-2-14","surface":"בְּעֵינָ֑יו","lemma":"עַיִן","translit":"be`eynayv","morph":"Preposition + Noun common dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5869"},{"id":"ruth-2-2-15","surface":"וַתֹּ֥אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-2-16","surface":"לָ֖הּ","lemma":"לָ֖הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"ruth-2-2-17","surface":"לְכִ֥י","lemma":"יָלַךְ","translit":"lekiy","morph":"Verb Qal Weqatal 2nd feminine singular","glosses":[],"strongs":"H3212"},{"id":"ruth-2-2-18","surface":"בִתִּֽי","lemma":"בַּת","translit":"bitiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H1323"}],"language":"hebrew"},{"ref":"Ruth 2:3","englishText":"She went, and came and gleaned in the field after the reapers: and she happened to come to the portion of the field belonging to Boaz, who was of the family of Elimelech.  ","tokens":[{"id":"ruth-2-3-0","surface":"וַתֵּ֤לֶךְ","lemma":"יָלַךְ","translit":"vateleke","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3212"},{"id":"ruth-2-3-1","surface":"וַתָּבוֹא֙","lemma":"בּוֹא","translit":"vatabvo'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H935"},{"id":"ruth-2-3-2","surface":"וַתְּלַקֵּ֣ט","lemma":"לָקַט","translit":"vatelaqet","morph":"Conjunction + Verb Piel Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3950"},{"id":"ruth-2-3-3","surface":"בַּשָּׂדֶ֔ה","lemma":"שָׂדֶה","translit":"bashadeh","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7704"},{"id":"ruth-2-3-4","surface":"אַחֲרֵ֖י","lemma":"אַחַר","translit":"'achrey","morph":"Preposition","glosses":[],"strongs":"H310"},{"id":"ruth-2-3-5","surface":"הַקֹּצְרִ֑ים","lemma":"קָצַר","translit":"haqotseriym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7114"},{"id":"ruth-2-3-6","surface":"וַיִּ֣קֶר","lemma":"קָרָה","translit":"vayiqer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7136"},{"id":"ruth-2-3-7","surface":"מִקְרֶ֔הָ","lemma":"מִקְרֶה","translit":"miqereha","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H4745"},{"id":"ruth-2-3-8","surface":"חֶלְקַ֤ת","lemma":"חֶלְקָה","translit":"cheleqat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H2513"},{"id":"ruth-2-3-9","surface":"הַשָּׂדֶה֙","lemma":"שָׂדֶה","translit":"hashadeh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7704"},{"id":"ruth-2-3-10","surface":"לְבֹ֔עַז","lemma":"בֹּעַז","translit":"lebo`az","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1162"},{"id":"ruth-2-3-11","surface":"אֲשֶׁ֖ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-3-12","surface":"מִמִּשְׁפַּ֥חַת","lemma":"מִשְׁפָּחָה","translit":"mimishepachat","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H4940"},{"id":"ruth-2-3-13","surface":"אֱלִימֶֽלֶךְ","lemma":"אֱלִימֶלֶךְ","translit":"'liymeleke","morph":"Noun proper","glosses":[],"strongs":"H458"}],"language":"hebrew"},{"ref":"Ruth 2:4","englishText":"  Behold, Boaz came from Bethlehem, and said to the reapers, “Yahweh be with you.”   They answered him, “Yahweh bless you.”  ","tokens":[{"id":"ruth-2-4-0","surface":"וְהִנֵּה","lemma":"הִנֵּה","translit":"vehineh","morph":"Conjunction + Particle masculine","glosses":[],"strongs":"H2009"},{"id":"ruth-2-4-1","surface":"בֹ֗עַז","lemma":"בֹּעַז","translit":"bo`az","morph":"Noun proper","glosses":[],"strongs":"H1162"},{"id":"ruth-2-4-2","surface":"בָּ֚א","lemma":"בּוֹא","translit":"ba'","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H935"},{"id":"ruth-2-4-3","surface":"מִבֵּ֣ית","lemma":"בֵּית לֶחֶם","translit":"mibeyt","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1035"},{"id":"ruth-2-4-4","surface":"לֶ֔חֶם","lemma":"בֵּית לֶחֶם","translit":"lechem","morph":"Noun proper","glosses":[],"strongs":"H1035"},{"id":"ruth-2-4-5","surface":"וַיֹּ֥אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-4-6","surface":"לַקּוֹצְרִ֖ים","lemma":"קָצַר","translit":"laqvotseriym","morph":"Preposition dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7114"},{"id":"ruth-2-4-7","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"ruth-2-4-8","surface":"עִמָּכֶ֑ם","lemma":"עִם","translit":"`imakem","morph":"Preposition + Suffix plural 2nd masculine","glosses":[],"strongs":"H5973"},{"id":"ruth-2-4-9","surface":"וַיֹּ֥אמְרוּ","lemma":"אָמַר","translit":"vayo'merv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H559"},{"id":"ruth-2-4-10","surface":"ל֖וֹ","lemma":"ל֖וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"ruth-2-4-11","surface":"יְבָרֶכְךָ֥","lemma":"בָרַךְ","translit":"yebarekeka","morph":"Verb Piel Imperative 3rd masculine singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1288"},{"id":"ruth-2-4-12","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Ruth 2:5","englishText":"  Then Boaz said to his servant who was set over the reapers, “Whose young lady is this?”  ","tokens":[{"id":"ruth-2-5-0","surface":"וַיֹּ֤אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-5-1","surface":"בֹּ֨עַז֙","lemma":"בֹּעַז","translit":"bo`az","morph":"Noun proper","glosses":[],"strongs":"H1162"},{"id":"ruth-2-5-2","surface":"לְנַעֲר֔וֹ","lemma":"נַעַר","translit":"lena`rvo","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5288"},{"id":"ruth-2-5-3","surface":"הַנִּצָּ֖ב","lemma":"נָצַב","translit":"hanitsab","morph":"Particle dual + Verb Niphal Passive Participle","glosses":[],"strongs":"H5324"},{"id":"ruth-2-5-4","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ruth-2-5-5","surface":"הַקּֽוֹצְרִ֑ים","lemma":"קָצַר","translit":"haqvotseriym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7114"},{"id":"ruth-2-5-6","surface":"לְמִ֖י","lemma":"מִי","translit":"lemiy","morph":"Preposition + Particle","glosses":[],"strongs":"H4310"},{"id":"ruth-2-5-7","surface":"הַנַּעֲרָ֥ה","lemma":"נַעֲרָה","translit":"hana`rah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H5291"},{"id":"ruth-2-5-8","surface":"הַזֹּֽאת","lemma":"זֹאת","translit":"hazo't","morph":"Particle dual + Pronoun dual feminine singular","glosses":[],"strongs":"H2063"}],"language":"hebrew"},{"ref":"Ruth 2:6","englishText":"  The servant who was set over the reapers answered, “It is the Moabite lady who came back with Naomi out of the country of Moab.","tokens":[{"id":"ruth-2-6-0","surface":"וַיַּ֗עַן","lemma":"עָנָה","translit":"vaya`an","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6030"},{"id":"ruth-2-6-1","surface":"הַנַּ֛עַר","lemma":"נַעַר","translit":"hana`ar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5288"},{"id":"ruth-2-6-2","surface":"הַנִּצָּ֥ב","lemma":"נָצַב","translit":"hanitsab","morph":"Particle dual + Verb Niphal Passive Participle","glosses":[],"strongs":"H5324"},{"id":"ruth-2-6-3","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ruth-2-6-4","surface":"הַקּוֹצְרִ֖ים","lemma":"קָצַר","translit":"haqvotseriym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7114"},{"id":"ruth-2-6-5","surface":"וַיֹּאמַ֑ר","lemma":"אָמַר","translit":"vayo'mar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-6-6","surface":"נַעֲרָ֤ה","lemma":"נַעֲרָה","translit":"na`rah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H5291"},{"id":"ruth-2-6-7","surface":"מֽוֹאֲבִיָּה֙","lemma":"מוֹאָבִי","translit":"mvo'biyah","morph":"Noun gentilic feminine singular absolute","glosses":[],"strongs":"H4125"},{"id":"ruth-2-6-8","surface":"הִ֔יא","lemma":"הוּא","translit":"hiy'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"ruth-2-6-9","surface":"הַשָּׁ֥בָה","lemma":"שׁוּב","translit":"hashabah","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7725"},{"id":"ruth-2-6-10","surface":"עִֽם","lemma":"עִם","translit":"`im","morph":"Preposition","glosses":[],"strongs":"H5973"},{"id":"ruth-2-6-11","surface":"נָעֳמִ֖י","lemma":"נׇעֳמִי","translit":"na`miy","morph":"Noun proper","glosses":[],"strongs":"H5281"},{"id":"ruth-2-6-12","surface":"מִשְּׂדֵ֥ה","lemma":"שָׂדֶה","translit":"mishedeh","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H7704"},{"id":"ruth-2-6-13","surface":"מוֹאָֽב","lemma":"מוֹאָב","translit":"mvo'ab","morph":"Noun proper","glosses":[],"strongs":"H4124"}],"language":"hebrew"},{"ref":"Ruth 2:7","englishText":"She said, ‘Please let me glean and gather after the reapers among the sheaves.’ So she came, and has continued even from the morning until now, except that she stayed a little in the house.”  ","tokens":[{"id":"ruth-2-7-0","surface":"וַתֹּ֗אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-7-1","surface":"אֲלַקֳטָה","lemma":"לָקַט","translit":"'laqtah","morph":"Verb Piel Cohortative 1st common singular","glosses":[],"strongs":"H3950"},{"id":"ruth-2-7-2","surface":"נָּא֙","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"ruth-2-7-3","surface":"וְאָסַפְתִּ֣י","lemma":"אָסַף","translit":"ve'asapetiy","morph":"Conjunction + Verb Qal Perfect 1st common singular","glosses":[],"strongs":"H622"},{"id":"ruth-2-7-4","surface":"בָֽעֳמָרִ֔ים","lemma":"עֹמֶר","translit":"ba`mariym","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H6016"},{"id":"ruth-2-7-5","surface":"אַחֲרֵ֖י","lemma":"אַחַר","translit":"'achrey","morph":"Preposition","glosses":[],"strongs":"H310"},{"id":"ruth-2-7-6","surface":"הַקּוֹצְרִ֑ים","lemma":"קָצַר","translit":"haqvotseriym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7114"},{"id":"ruth-2-7-7","surface":"וַתָּב֣וֹא","lemma":"בּוֹא","translit":"vatabvo'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H935"},{"id":"ruth-2-7-8","surface":"וַֽתַּעֲמ֗וֹד","lemma":"עָמַד","translit":"vata`mvod","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H5975"},{"id":"ruth-2-7-9","surface":"מֵאָ֤ז","lemma":"אָז","translit":"me'az","morph":"Preposition + Adverb","glosses":[],"strongs":"H227"},{"id":"ruth-2-7-10","surface":"הַבֹּ֨קֶר֙","lemma":"בֹּקֶר","translit":"haboqer","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1242"},{"id":"ruth-2-7-11","surface":"וְעַד","lemma":"עַד","translit":"ve`ad","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5704"},{"id":"ruth-2-7-12","surface":"עַ֔תָּה","lemma":"עַתָּה","translit":"`atah","morph":"Adverb","glosses":[],"strongs":"H6258"},{"id":"ruth-2-7-13","surface":"זֶ֛ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"ruth-2-7-14","surface":"שִׁבְתָּ֥הּ","lemma":"יָשַׁב","translit":"shibetah","morph":"Verb Qal Infinitive Construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3427"},{"id":"ruth-2-7-15","surface":"הַבַּ֖יִת","lemma":"בַּיִת","translit":"habayit","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1004"},{"id":"ruth-2-7-16","surface":"מְעָֽט","lemma":"מְעַט","translit":"me`at","morph":"Adjective","glosses":[],"strongs":"H4592"}],"language":"hebrew"},{"ref":"Ruth 2:8","englishText":"  Then Boaz said to Ruth, “Listen, my daughter. Don’t go to glean in another field, and don’t go from here, but stay here close to my maidens.","tokens":[{"id":"ruth-2-8-0","surface":"וַיֹּאמֶר֩","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-8-1","surface":"בֹּ֨עַז","lemma":"בֹּעַז","translit":"bo`az","morph":"Noun proper","glosses":[],"strongs":"H1162"},{"id":"ruth-2-8-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"ruth-2-8-3","surface":"ר֜וּת","lemma":"רוּת","translit":"rvt","morph":"Noun proper","glosses":[],"strongs":"H7327"},{"id":"ruth-2-8-4","surface":"הֲל֧וֹא","lemma":"לֹא","translit":"hlvo'","morph":"Particle + Particle","glosses":[],"strongs":"H3808"},{"id":"ruth-2-8-5","surface":"שָׁמַ֣עַתְּ","lemma":"שָׁמַע","translit":"shama`ate","morph":"Verb Qal Participle 2nd feminine singular","glosses":[],"strongs":"H8085"},{"id":"ruth-2-8-6","surface":"בִּתִּ֗י","lemma":"בַּת","translit":"bitiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H1323"},{"id":"ruth-2-8-7","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"ruth-2-8-8","surface":"תֵּלְכִי֙","lemma":"יָלַךְ","translit":"telekiy","morph":"Verb Qal Jussive 2nd feminine singular","glosses":[],"strongs":"H3212"},{"id":"ruth-2-8-9","surface":"לִלְקֹט֙","lemma":"לָקַט","translit":"lileqot","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H3950"},{"id":"ruth-2-8-10","surface":"בְּשָׂדֶ֣ה","lemma":"שָׂדֶה","translit":"beshadeh","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H7704"},{"id":"ruth-2-8-11","surface":"אַחֵ֔ר","lemma":"אַחֵר","translit":"'acher","morph":"Adjective","glosses":[],"strongs":"H312"},{"id":"ruth-2-8-12","surface":"וְגַ֛ם","lemma":"גַּם","translit":"vegam","morph":"Conjunction + Particle absolute","glosses":[],"strongs":"H1571"},{"id":"ruth-2-8-13","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"ruth-2-8-14","surface":"תַעֲבוּרִ֖י","lemma":"עָבַר","translit":"ta`bvriy","morph":"Verb Qal Imperative 2nd feminine singular","glosses":[],"strongs":"H5674"},{"id":"ruth-2-8-15","surface":"מִזֶּ֑ה","lemma":"זֶה","translit":"mizeh","morph":"Preposition + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"ruth-2-8-16","surface":"וְכֹ֥ה","lemma":"כֹּה","translit":"vekoh","morph":"Conjunction + Adverb","glosses":[],"strongs":"H3541"},{"id":"ruth-2-8-17","surface":"תִדְבָּקִ֖ין","lemma":"דָּבַק","translit":"tidebaqiyn","morph":"Verb Qal Imperative 2nd feminine singular + Suffix","glosses":[],"strongs":"H1692"},{"id":"ruth-2-8-18","surface":"עִם","lemma":"עִם","translit":"`im","morph":"Preposition","glosses":[],"strongs":"H5973"},{"id":"ruth-2-8-19","surface":"נַעֲרֹתָֽי","lemma":"נַעֲרָה","translit":"na`rotay","morph":"Noun common feminine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5291"}],"language":"hebrew"},{"ref":"Ruth 2:9","englishText":"Let your eyes be on the field that they reap, and go after them. Haven’t I commanded the young men not to touch you? When you are thirsty, go to the vessels, and drink from that which the young men have drawn.”  ","tokens":[{"id":"ruth-2-9-0","surface":"עֵינַ֜יִךְ","lemma":"עַיִן","translit":"`eynayike","morph":"Noun common dual construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H5869"},{"id":"ruth-2-9-1","surface":"בַּשָּׂדֶ֤ה","lemma":"שָׂדֶה","translit":"bashadeh","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7704"},{"id":"ruth-2-9-2","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-9-3","surface":"יִקְצֹרוּן֙","lemma":"קָצַר","translit":"yiqetsorvn","morph":"Verb Qal Imperative 3rd masculine plural + Suffix","glosses":[],"strongs":"H7114"},{"id":"ruth-2-9-4","surface":"וְהָלַ֣כְתִּ","lemma":"הָלַךְ","translit":"vehalaketi","morph":"Conjunction + Verb Qal Perfect 2nd feminine singular","glosses":[],"strongs":"H1980"},{"id":"ruth-2-9-5","surface":"אַחֲרֵיהֶ֔ן","lemma":"אַחַר","translit":"'achreyhen","morph":"Preposition + Suffix plural 3rd feminine","glosses":[],"strongs":"H310"},{"id":"ruth-2-9-6","surface":"הֲל֥וֹא","lemma":"לֹא","translit":"hlvo'","morph":"Particle + Particle","glosses":[],"strongs":"H3808"},{"id":"ruth-2-9-7","surface":"צִוִּ֛יתִי","lemma":"צָוָה","translit":"tsiviytiy","morph":"Verb Piel Participle 1st common singular","glosses":[],"strongs":"H6680"},{"id":"ruth-2-9-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ruth-2-9-9","surface":"הַנְּעָרִ֖ים","lemma":"נַעַר","translit":"hane`ariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5288"},{"id":"ruth-2-9-10","surface":"לְבִלְתִּ֣י","lemma":"בִּלְתִּי","translit":"lebiletiy","morph":"Preposition + Conjunction","glosses":[],"strongs":"H1115"},{"id":"ruth-2-9-11","surface":"נָגְעֵ֑ךְ","lemma":"נָגַע","translit":"nage`eke","morph":"Verb Qal Infinitive Construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H5060"},{"id":"ruth-2-9-12","surface":"וְצָמִ֗ת","lemma":"צָמֵא","translit":"vetsamit","morph":"Conjunction + Verb Qal Perfect 2nd feminine singular","glosses":[],"strongs":"H6770"},{"id":"ruth-2-9-13","surface":"וְהָלַכְתְּ֙","lemma":"הָלַךְ","translit":"vehalakete","morph":"Conjunction + Verb Qal Perfect 2nd feminine singular","glosses":[],"strongs":"H1980"},{"id":"ruth-2-9-14","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"ruth-2-9-15","surface":"הַכֵּלִ֔ים","lemma":"כְּלִי","translit":"hakeliym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3627"},{"id":"ruth-2-9-16","surface":"וְשָׁתִ֕ית","lemma":"שָׁתָה","translit":"veshatiyt","morph":"Conjunction + Verb Qal Perfect 2nd feminine singular","glosses":[],"strongs":"H8354"},{"id":"ruth-2-9-17","surface":"מֵאֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"me'sher","morph":"Preposition + Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-9-18","surface":"יִשְׁאֲב֖וּן","lemma":"שָׁאַב","translit":"yishe'bvn","morph":"Verb Qal Imperative 3rd masculine plural + Suffix","glosses":[],"strongs":"H7579"},{"id":"ruth-2-9-19","surface":"הַנְּעָרִֽים","lemma":"נַעַר","translit":"hane`ariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5288"}],"language":"hebrew"},{"ref":"Ruth 2:10","englishText":"  Then she fell on her face, and bowed herself to the ground, and said to him, “Why have I found favor in your sight, that you should take knowledge of me, since I am a foreigner?”  ","tokens":[{"id":"ruth-2-10-0","surface":"וַתִּפֹּל֙","lemma":"נָפַל","translit":"vatipol","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H5307"},{"id":"ruth-2-10-1","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ruth-2-10-2","surface":"פָּנֶ֔יהָ","lemma":"פָּנִים","translit":"paneyha","morph":"Noun common plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6440"},{"id":"ruth-2-10-3","surface":"וַתִּשְׁתַּ֖חוּ","lemma":"שָׁחָה","translit":"vatishetachv","morph":"Conjunction + Verb v Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H7812"},{"id":"ruth-2-10-4","surface":"אָ֑רְצָה","lemma":"אֶרֶץ","translit":"'aretsah","morph":"Noun common singular absolute + Suffix dual","glosses":[],"strongs":"H776"},{"id":"ruth-2-10-5","surface":"וַתֹּ֣אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-10-6","surface":"אֵלָ֗יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"ruth-2-10-7","surface":"מַדּוּעַ֩","lemma":"מַדּוּעַ","translit":"madv`a","morph":"Particle","glosses":[],"strongs":"H4069"},{"id":"ruth-2-10-8","surface":"מָצָ֨אתִי","lemma":"מָצָא","translit":"matsa'tiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H4672"},{"id":"ruth-2-10-9","surface":"חֵ֤ן","lemma":"חֵן","translit":"chen","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2580"},{"id":"ruth-2-10-10","surface":"בְּעֵינֶ֨יךָ֙","lemma":"עַיִן","translit":"be`eyneyka","morph":"Preposition + Noun common dual construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5869"},{"id":"ruth-2-10-11","surface":"לְהַכִּירֵ֔נִי","lemma":"נָכַר","translit":"lehakiyreniy","morph":"Preposition + Verb Hiphil Infinitive Construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5234"},{"id":"ruth-2-10-12","surface":"וְאָּנֹכִ֖י","lemma":"אָנֹכִי","translit":"ve'anokiy","morph":"Conjunction + Pronoun plural 1st common singular","glosses":[],"strongs":"H595"},{"id":"ruth-2-10-13","surface":"נָכְרִיָּֽה","lemma":"נׇכְרִי","translit":"nakeriyah","morph":"Adjective","glosses":[],"strongs":"H5237"}],"language":"hebrew"},{"ref":"Ruth 2:11","englishText":"  Boaz answered her, “It has fully been shown me, all that you have done to your mother-in-law since the death of your husband; and how you have left your father and your mother, and the land of your birth, and have come to a people that you didn’t know before.","tokens":[{"id":"ruth-2-11-0","surface":"וַיַּ֤עַן","lemma":"עָנָה","translit":"vaya`an","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6030"},{"id":"ruth-2-11-1","surface":"בֹּ֨עַז֙","lemma":"בֹּעַז","translit":"bo`az","morph":"Noun proper","glosses":[],"strongs":"H1162"},{"id":"ruth-2-11-2","surface":"וַיֹּ֣אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-11-3","surface":"לָ֔הּ","lemma":"לָ֔הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"ruth-2-11-4","surface":"הֻגֵּ֨ד","lemma":"נָגַד","translit":"huged","morph":"Verb Hophal Infinitive Absolute","glosses":[],"strongs":"H5046"},{"id":"ruth-2-11-5","surface":"הֻגַּ֜ד","lemma":"נָגַד","translit":"hugad","morph":"Verb Hophal Participle 3rd masculine singular","glosses":[],"strongs":"H5046"},{"id":"ruth-2-11-6","surface":"לִ֗י","lemma":"לִ֗י","translit":"liy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]},{"id":"ruth-2-11-7","surface":"כֹּ֤ל","lemma":"כֹּל","translit":"kol","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3605"},{"id":"ruth-2-11-8","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-11-9","surface":"עָשִׂית֙","lemma":"עָשָׂה","translit":"`ashiyt","morph":"Verb Qal Participle 2nd feminine singular","glosses":[],"strongs":"H6213"},{"id":"ruth-2-11-10","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Preposition","glosses":[],"strongs":"H854"},{"id":"ruth-2-11-11","surface":"חֲמוֹתֵ֔ךְ","lemma":"חֲמוֹת","translit":"chmvoteke","morph":"Noun common feminine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H2545"},{"id":"ruth-2-11-12","surface":"אַחֲרֵ֖י","lemma":"אַחַר","translit":"'achrey","morph":"Preposition","glosses":[],"strongs":"H310"},{"id":"ruth-2-11-13","surface":"מ֣וֹת","lemma":"מָוֶת","translit":"mvot","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4194"},{"id":"ruth-2-11-14","surface":"אִישֵׁ֑ךְ","lemma":"אִישׁ","translit":"'iysheke","morph":"Noun common masculine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H376"},{"id":"ruth-2-11-15","surface":"וַתַּֽעַזְבִ֞י","lemma":"עָזַב","translit":"vata`azebiy","morph":"Conjunction + Verb Qal Wayyiqtol 2nd feminine singular","glosses":[],"strongs":"H5800"},{"id":"ruth-2-11-16","surface":"אָּבִ֣יךְ","lemma":"אָב","translit":"'abiyke","morph":"Noun common masculine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H1"},{"id":"ruth-2-11-17","surface":"וְאִמֵּ֗ךְ","lemma":"אֵם","translit":"ve'imeke","morph":"Conjunction + Noun common feminine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H517"},{"id":"ruth-2-11-18","surface":"וְאֶ֨רֶץ֙","lemma":"אֶרֶץ","translit":"ve'erets","morph":"Conjunction + Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"ruth-2-11-19","surface":"מֽוֹלַדְתֵּ֔ךְ","lemma":"מוֹלֶדֶת","translit":"mvoladeteke","morph":"Noun common feminine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H4138"},{"id":"ruth-2-11-20","surface":"וַתֵּ֣לְכִ֔י","lemma":"יָלַךְ","translit":"vatelekiy","morph":"Conjunction + Verb Qal Wayyiqtol 2nd feminine singular","glosses":[],"strongs":"H3212"},{"id":"ruth-2-11-21","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"ruth-2-11-22","surface":"עַ֕ם","lemma":"עַם","translit":"`am","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"ruth-2-11-23","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-11-24","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"ruth-2-11-25","surface":"יָדַ֖עַתְּ","lemma":"יָדַע","translit":"yada`ate","morph":"Verb Qal Participle 2nd feminine singular","glosses":[],"strongs":"H3045"},{"id":"ruth-2-11-26","surface":"תְּמ֥וֹל","lemma":"תְּמוֹל","translit":"temvol","morph":"Adverb","glosses":[],"strongs":"H8543"},{"id":"ruth-2-11-27","surface":"שִׁלְשֽׁוֹם","lemma":"שִׁלְשׁוֹם","translit":"shileshvom","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8032"}],"language":"hebrew"},{"ref":"Ruth 2:12","englishText":"May Yahweh repay your work, and a full reward be given you from Yahweh, the God of Israel, under whose wings you have come to take refuge.”  ","tokens":[{"id":"ruth-2-12-0","surface":"יְשַׁלֵּ֥ם","lemma":"שָׁלַם","translit":"yeshalem","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H7999"},{"id":"ruth-2-12-1","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"ruth-2-12-2","surface":"פָּעֳלֵ֑ךְ","lemma":"פֹּעַל","translit":"pa`leke","morph":"Noun common masculine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H6467"},{"id":"ruth-2-12-3","surface":"וּתְהִ֨י","lemma":"הָיָה","translit":"vtehiy","morph":"Conjunction + Verb Qal Jussive 3rd feminine singular","glosses":[],"strongs":"H1961"},{"id":"ruth-2-12-4","surface":"מַשְׂכֻּרְתֵּ֜ךְ","lemma":"מַשְׂכֹּרֶת","translit":"mashekureteke","morph":"Noun common feminine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H4909"},{"id":"ruth-2-12-5","surface":"שְׁלֵמָ֗ה","lemma":"שָׁלֵם","translit":"shelemah","morph":"Adjective","glosses":[],"strongs":"H8003"},{"id":"ruth-2-12-6","surface":"מֵעִ֤ם","lemma":"עִם","translit":"me`im","morph":"Preposition + Preposition","glosses":[],"strongs":"H5973"},{"id":"ruth-2-12-7","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"ruth-2-12-8","surface":"אֱלֹהֵ֣י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"ruth-2-12-9","surface":"יִשְׂרָאֵ֔ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"ruth-2-12-10","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-12-11","surface":"בָּ֖את","lemma":"בּוֹא","translit":"ba't","morph":"Verb Qal Participle 2nd feminine singular","glosses":[],"strongs":"H935"},{"id":"ruth-2-12-12","surface":"לַחֲס֥וֹת","lemma":"חָסָה","translit":"lachsvot","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H2620"},{"id":"ruth-2-12-13","surface":"תַּֽחַת","lemma":"תַּחַת","translit":"tachat","morph":"Preposition","glosses":[],"strongs":"H8478"},{"id":"ruth-2-12-14","surface":"כְּנָפָֽיו","lemma":"כָּנָף","translit":"kenapayv","morph":"Noun common feminine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3671"}],"language":"hebrew"},{"ref":"Ruth 2:13","englishText":"  Then she said, “Let me find favor in your sight, my lord, because you have comforted me, and because you have spoken kindly to your handmaid, though I am not as one of your handmaidens.”  ","tokens":[{"id":"ruth-2-13-0","surface":"וַ֠תֹּאמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-13-1","surface":"אֶמְצָא","lemma":"מָצָא","translit":"'emetsa'","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H4672"},{"id":"ruth-2-13-2","surface":"חֵ֨ן","lemma":"חֵן","translit":"chen","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2580"},{"id":"ruth-2-13-3","surface":"בְּעֵינֶ֤יךָ","lemma":"עַיִן","translit":"be`eyneyka","morph":"Preposition + Noun common dual construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5869"},{"id":"ruth-2-13-4","surface":"אֲדֹנִי֙","lemma":"אָדוֹן","translit":"'doniy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H113"},{"id":"ruth-2-13-5","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ruth-2-13-6","surface":"נִֽחַמְתָּ֔נִי","lemma":"נָחַם","translit":"nichametaniy","morph":"Verb Piel Participle 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H5162"},{"id":"ruth-2-13-7","surface":"וְכִ֥י","lemma":"כִּי","translit":"vekiy","morph":"Conjunction + Conjunction","glosses":[],"strongs":"H3588"},{"id":"ruth-2-13-8","surface":"דִבַּ֖רְתָּ","lemma":"דָבַר","translit":"dibareta","morph":"Verb Piel Participle 2nd masculine singular","glosses":[],"strongs":"H1696"},{"id":"ruth-2-13-9","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ruth-2-13-10","surface":"לֵ֣ב","lemma":"לֵב","translit":"leb","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3820"},{"id":"ruth-2-13-11","surface":"שִׁפְחָתֶ֑ךָ","lemma":"שִׁפְחָה","translit":"shipechateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8198"},{"id":"ruth-2-13-12","surface":"וְאָנֹכִי֙","lemma":"אָנֹכִי","translit":"ve'anokiy","morph":"Conjunction + Pronoun plural 1st common singular","glosses":[],"strongs":"H595"},{"id":"ruth-2-13-13","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"ruth-2-13-14","surface":"אֶֽהְיֶ֔ה","lemma":"הָיָה","translit":"'eheyeh","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H1961"},{"id":"ruth-2-13-15","surface":"כְּאַחַ֖ת","lemma":"אֶחָד","translit":"ke'achat","morph":"Preposition + Adjective common feminine singular construct","glosses":[],"strongs":"H259"},{"id":"ruth-2-13-16","surface":"שִׁפְחֹתֶֽיךָ","lemma":"שִׁפְחָה","translit":"shipechoteyka","morph":"Noun common feminine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8198"}],"language":"hebrew"},{"ref":"Ruth 2:14","englishText":"  At meal time Boaz said to her, “Come here, and eat of the bread, and dip your morsel in the vinegar.”   She sat beside the reapers, and they reached her parched grain, and she ate, and was satisfied, and left some of it.","tokens":[{"id":"ruth-2-14-0","surface":"וַיֹּאמֶר֩","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-14-1","surface":"לָ֨ה","lemma":"לָ֨ה","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"ruth-2-14-2","surface":"בֹ֜עַז","lemma":"בֹּעַז","translit":"bo`az","morph":"Noun proper","glosses":[],"strongs":"H1162"},{"id":"ruth-2-14-3","surface":"לְעֵ֣ת","lemma":"עֵת","translit":"le`et","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H6256"},{"id":"ruth-2-14-4","surface":"הָאֹ֗כֶל","lemma":"אֹכֶל","translit":"ha'okel","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H400"},{"id":"ruth-2-14-5","surface":"גֹּ֤שִֽׁי","lemma":"נָגַשׁ","translit":"goshiy","morph":"Verb Qal Weqatal 2nd feminine singular","glosses":[],"strongs":"H5066"},{"id":"ruth-2-14-6","surface":"הֲלֹם֙","lemma":"הֲלֹם","translit":"hlom","morph":"Adverb","glosses":[],"strongs":"H1988"},{"id":"ruth-2-14-7","surface":"וְאָכַ֣לְתְּ","lemma":"אָכַל","translit":"ve'akalete","morph":"Conjunction + Verb Qal Perfect 2nd feminine singular","glosses":[],"strongs":"H398"},{"id":"ruth-2-14-8","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"ruth-2-14-9","surface":"הַלֶּ֔חֶם","lemma":"לֶחֶם","translit":"halechem","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H3899"},{"id":"ruth-2-14-10","surface":"וְטָבַ֥לְתְּ","lemma":"טָבַל","translit":"vetabalete","morph":"Conjunction + Verb Qal Perfect 2nd feminine singular","glosses":[],"strongs":"H2881"},{"id":"ruth-2-14-11","surface":"פִּתֵּ֖ךְ","lemma":"פַּת","translit":"piteke","morph":"Noun common feminine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H6595"},{"id":"ruth-2-14-12","surface":"בַּחֹ֑מֶץ","lemma":"חֹמֶץ","translit":"bachomets","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2558"},{"id":"ruth-2-14-13","surface":"וַתֵּ֨שֶׁב֙","lemma":"יָשַׁב","translit":"vatesheb","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3427"},{"id":"ruth-2-14-14","surface":"מִצַּ֣ד","lemma":"צַד","translit":"mitsad","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H6654"},{"id":"ruth-2-14-15","surface":"הַקּֽוֹצְרִ֔ים","lemma":"קָצַר","translit":"haqvotseriym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H7114"},{"id":"ruth-2-14-16","surface":"וַיִּצְבָּט","lemma":"צָבַט","translit":"vayitsebat","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6642"},{"id":"ruth-2-14-17","surface":"לָ֣הּ","lemma":"לָ֣הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"ruth-2-14-18","surface":"קָלִ֔י","lemma":"קָלִי","translit":"qaliy","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7039"},{"id":"ruth-2-14-19","surface":"וַתֹּ֥אכַל","lemma":"אָכַל","translit":"vato'kal","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H398"},{"id":"ruth-2-14-20","surface":"וַתִּשְׂבַּ֖ע","lemma":"שָׂבַע","translit":"vatisheba`","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H7646"},{"id":"ruth-2-14-21","surface":"וַתֹּתַֽר","lemma":"יָתַר","translit":"vatotar","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3498"}],"language":"hebrew"},{"ref":"Ruth 2:15","englishText":"When she had risen up to glean, Boaz commanded his young men, saying, “Let her glean even among the sheaves, and don’t reproach her.","tokens":[{"id":"ruth-2-15-0","surface":"וַתָּ֖קָם","lemma":"קוּם","translit":"vataqam","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H6965"},{"id":"ruth-2-15-1","surface":"לְלַקֵּ֑ט","lemma":"לָקַט","translit":"lelaqet","morph":"Preposition + Verb Piel Infinitive Construct","glosses":[],"strongs":"H3950"},{"id":"ruth-2-15-2","surface":"וַיְצַו֩","lemma":"צָוָה","translit":"vayetsav","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6680"},{"id":"ruth-2-15-3","surface":"בֹּ֨עַז","lemma":"בֹּעַז","translit":"bo`az","morph":"Noun proper","glosses":[],"strongs":"H1162"},{"id":"ruth-2-15-4","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ruth-2-15-5","surface":"נְעָרָ֜יו","lemma":"נַעַר","translit":"ne`arayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5288"},{"id":"ruth-2-15-6","surface":"לֵאמֹ֗ר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"},{"id":"ruth-2-15-7","surface":"גַּ֣ם","lemma":"גַּם","translit":"gam","morph":"Particle absolute","glosses":[],"strongs":"H1571"},{"id":"ruth-2-15-8","surface":"בֵּ֧ין","lemma":"בֵּין","translit":"beyn","morph":"Preposition","glosses":[],"strongs":"H996"},{"id":"ruth-2-15-9","surface":"הָֽעֳמָרִ֛ים","lemma":"עֹמֶר","translit":"ha`mariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H6016"},{"id":"ruth-2-15-10","surface":"תְּלַקֵּ֖ט","lemma":"לָקַט","translit":"telaqet","morph":"Verb Piel Imperative 3rd feminine singular","glosses":[],"strongs":"H3950"},{"id":"ruth-2-15-11","surface":"וְלֹ֥א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"ruth-2-15-12","surface":"תַכְלִימֽוּהָ","lemma":"כָּלַם","translit":"takeliymvha","morph":"Verb Hiphil Imperative 2nd masculine plural + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3637"}],"language":"hebrew"},{"ref":"Ruth 2:16","englishText":"Also pull out some for her from the bundles, and leave it, and let her glean, and don’t rebuke her.”  ","tokens":[{"id":"ruth-2-16-0","surface":"וְגַ֛ם","lemma":"גַּם","translit":"vegam","morph":"Conjunction + Particle absolute","glosses":[],"strongs":"H1571"},{"id":"ruth-2-16-1","surface":"שֹׁל","lemma":"שָׁלַל","translit":"shol","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H7997"},{"id":"ruth-2-16-2","surface":"תָּשֹׁ֥לּוּ","lemma":"שָׁלַל","translit":"tasholv","morph":"Verb Qal Imperative 2nd masculine plural","glosses":[],"strongs":"H7997"},{"id":"ruth-2-16-3","surface":"לָ֖הּ","lemma":"לָ֖הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"ruth-2-16-4","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"ruth-2-16-5","surface":"הַצְּבָתִ֑ים","lemma":"צֶבֶת","translit":"hatsebatiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H6653"},{"id":"ruth-2-16-6","surface":"וַעֲזַבְתֶּ֥ם","lemma":"עָזַב","translit":"va`zabetem","morph":"Conjunction + Verb Qal Perfect 2nd masculine plural","glosses":[],"strongs":"H5800"},{"id":"ruth-2-16-7","surface":"וְלִקְּטָ֖ה","lemma":"לָקַט","translit":"veliqetah","morph":"Conjunction + Verb Piel Perfect 3rd feminine singular","glosses":[],"strongs":"H3950"},{"id":"ruth-2-16-8","surface":"וְלֹ֥א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"ruth-2-16-9","surface":"תִגְעֲרוּ","lemma":"גָּעַר","translit":"tige`rv","morph":"Verb Qal Imperative 2nd masculine plural","glosses":[],"strongs":"H1605"},{"id":"ruth-2-16-10","surface":"בָֽהּ","lemma":"בָֽהּ","translit":"bah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]}],"language":"hebrew"},{"ref":"Ruth 2:17","englishText":"  So she gleaned in the field until evening; and she beat out that which she had gleaned, and it was about an ephah of barley.","tokens":[{"id":"ruth-2-17-0","surface":"וַתְּלַקֵּ֥ט","lemma":"לָקַט","translit":"vatelaqet","morph":"Conjunction + Verb Piel Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3950"},{"id":"ruth-2-17-1","surface":"בַּשָּׂדֶ֖ה","lemma":"שָׂדֶה","translit":"bashadeh","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7704"},{"id":"ruth-2-17-2","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"ruth-2-17-3","surface":"הָעָ֑רֶב","lemma":"עֶרֶב","translit":"ha`areb","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H6153"},{"id":"ruth-2-17-4","surface":"וַתַּחְבֹּט֙","lemma":"חָבַט","translit":"vatachebot","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H2251"},{"id":"ruth-2-17-5","surface":"אֵ֣ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ruth-2-17-6","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-17-7","surface":"לִקֵּ֔טָה","lemma":"לָקַט","translit":"liqetah","morph":"Verb Piel Participle 3rd feminine singular","glosses":[],"strongs":"H3950"},{"id":"ruth-2-17-8","surface":"וַיְהִ֖י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"ruth-2-17-9","surface":"כְּאֵיפָ֥ה","lemma":"אֵיפָה","translit":"ke'eypah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H374"},{"id":"ruth-2-17-10","surface":"שְׂעֹרִֽים","lemma":"שְׂעֹרָה","translit":"she`oriym","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H8184"}],"language":"hebrew"},{"ref":"Ruth 2:18","englishText":"She took it up, and went into the city; and her mother-in-law saw what she had gleaned: and she brought out and gave to her that which she had left after she was sufficed.  ","tokens":[{"id":"ruth-2-18-0","surface":"וַתִּשָּׂא֙","lemma":"נָשָׂא","translit":"vatisha'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H5375"},{"id":"ruth-2-18-1","surface":"וַתָּב֣וֹא","lemma":"בּוֹא","translit":"vatabvo'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H935"},{"id":"ruth-2-18-2","surface":"הָעִ֔יר","lemma":"עִיר","translit":"ha`iyr","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H5892"},{"id":"ruth-2-18-3","surface":"וַתֵּ֥רֶא","lemma":"רָאָה","translit":"vatere'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H7200"},{"id":"ruth-2-18-4","surface":"חֲמוֹתָ֖הּ","lemma":"חֲמוֹת","translit":"chmvotah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H2545"},{"id":"ruth-2-18-5","surface":"אֵ֣ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ruth-2-18-6","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-18-7","surface":"לִקֵּ֑טָה","lemma":"לָקַט","translit":"liqetah","morph":"Verb Piel Participle 3rd feminine singular","glosses":[],"strongs":"H3950"},{"id":"ruth-2-18-8","surface":"וַתּוֹצֵא֙","lemma":"יָצָא","translit":"vatvotse'","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3318"},{"id":"ruth-2-18-9","surface":"וַתִּתֶּן","lemma":"נָתַן","translit":"vatiten","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H5414"},{"id":"ruth-2-18-10","surface":"לָ֔הּ","lemma":"לָ֔הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"ruth-2-18-11","surface":"אֵ֥ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ruth-2-18-12","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-18-13","surface":"הוֹתִ֖רָה","lemma":"יָתַר","translit":"hvotirah","morph":"Verb Hiphil Participle 3rd feminine singular","glosses":[],"strongs":"H3498"},{"id":"ruth-2-18-14","surface":"מִשָּׂבְעָֽהּ","lemma":"שֹׂבַע","translit":"mishabe`ah","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H7648"}],"language":"hebrew"},{"ref":"Ruth 2:19","englishText":"  Her mother-in-law said to her, “Where have you gleaned today? Where have you worked? Blessed be he who noticed you.”   She showed her mother-in-law with whom she had worked, and said, “The man’s name with whom I worked today is Boaz.”","tokens":[{"id":"ruth-2-19-0","surface":"וַתֹּאמֶר֩","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-19-1","surface":"לָ֨הּ","lemma":"לָ֨הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"ruth-2-19-2","surface":"חֲמוֹתָ֜הּ","lemma":"חֲמוֹת","translit":"chmvotah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H2545"},{"id":"ruth-2-19-3","surface":"אֵיפֹ֨ה","lemma":"אֵיפֹה","translit":"'eypoh","morph":"Particle","glosses":[],"strongs":"H375"},{"id":"ruth-2-19-4","surface":"לִקַּ֤טְתְּ","lemma":"לָקַט","translit":"liqatete","morph":"Verb Piel Participle 2nd feminine singular","glosses":[],"strongs":"H3950"},{"id":"ruth-2-19-5","surface":"הַיּוֹם֙","lemma":"יוֹם","translit":"hayvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"ruth-2-19-6","surface":"וְאָ֣נָה","lemma":"אָן","translit":"ve'anah","morph":"Conjunction + Adverb","glosses":[],"strongs":"H575"},{"id":"ruth-2-19-7","surface":"עָשִׂ֔ית","lemma":"עָשָׂה","translit":"`ashiyt","morph":"Verb Qal Participle 2nd feminine singular","glosses":[],"strongs":"H6213"},{"id":"ruth-2-19-8","surface":"יְהִ֥י","lemma":"הָיָה","translit":"yehiy","morph":"Verb Qal Jussive 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"ruth-2-19-9","surface":"מַכִּירֵ֖ךְ","lemma":"נָכַר","translit":"makiyreke","morph":"Verb Hiphil Passive Participle + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H5234"},{"id":"ruth-2-19-10","surface":"בָּר֑וּךְ","lemma":"בָרַךְ","translit":"barvke","morph":"Verb Qal s","glosses":[],"strongs":"H1288"},{"id":"ruth-2-19-11","surface":"וַתַּגֵּ֣ד","lemma":"נָגַד","translit":"vataged","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H5046"},{"id":"ruth-2-19-12","surface":"לַחֲמוֹתָ֗הּ","lemma":"חֲמוֹת","translit":"lachmvotah","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H2545"},{"id":"ruth-2-19-13","surface":"אֵ֤ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ruth-2-19-14","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-19-15","surface":"עָשְׂתָה֙","lemma":"עָשָׂה","translit":"`ashetah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H6213"},{"id":"ruth-2-19-16","surface":"עִמּ֔וֹ","lemma":"עִם","translit":"`imvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5973"},{"id":"ruth-2-19-17","surface":"וַתֹּ֗אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-19-18","surface":"שֵׁ֤ם","lemma":"שֵׁם","translit":"shem","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"ruth-2-19-19","surface":"הָאִישׁ֙","lemma":"אִישׁ","translit":"ha'iysh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"ruth-2-19-20","surface":"אֲשֶׁ֨ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-19-21","surface":"עָשִׂ֧יתִי","lemma":"עָשָׂה","translit":"`ashiytiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H6213"},{"id":"ruth-2-19-22","surface":"עִמּ֛וֹ","lemma":"עִם","translit":"`imvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5973"},{"id":"ruth-2-19-23","surface":"הַיּ֖וֹם","lemma":"יוֹם","translit":"hayvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"ruth-2-19-24","surface":"בֹּֽעַז","lemma":"בֹּעַז","translit":"bo`az","morph":"Noun proper","glosses":[],"strongs":"H1162"}],"language":"hebrew"},{"ref":"Ruth 2:20","englishText":"Naomi said to her daughter-in-law, “Blessed be he of Yahweh, who has not left off his kindness to the living and to the dead.” Naomi said to her, “The man is a close relative to us, one of our near kinsmen.”  ","tokens":[{"id":"ruth-2-20-0","surface":"וַתֹּ֨אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-20-1","surface":"נָעֳמִ֜י","lemma":"נׇעֳמִי","translit":"na`miy","morph":"Noun proper","glosses":[],"strongs":"H5281"},{"id":"ruth-2-20-2","surface":"לְכַלָּתָ֗הּ","lemma":"כַּלָּה","translit":"lekalatah","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3618"},{"id":"ruth-2-20-3","surface":"בָּר֥וּךְ","lemma":"בָרַךְ","translit":"barvke","morph":"Verb Qal s","glosses":[],"strongs":"H1288"},{"id":"ruth-2-20-4","surface":"הוּא֙","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"ruth-2-20-5","surface":"לַיהוָ֔ה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"ruth-2-20-6","surface":"אֲשֶׁר֙","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-20-7","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"ruth-2-20-8","surface":"עָזַ֣ב","lemma":"עָזַב","translit":"`azab","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5800"},{"id":"ruth-2-20-9","surface":"חַסְדּ֔וֹ","lemma":"חֵסֵד","translit":"chasedvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2617"},{"id":"ruth-2-20-10","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Preposition","glosses":[],"strongs":"H854"},{"id":"ruth-2-20-11","surface":"הַחַיִּ֖ים","lemma":"חַי","translit":"hachayiym","morph":"Particle dual + Adjective","glosses":[],"strongs":"H2416"},{"id":"ruth-2-20-12","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Preposition","glosses":[],"strongs":"H854"},{"id":"ruth-2-20-13","surface":"הַמֵּתִ֑ים","lemma":"מוּת","translit":"hametiym","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H4191"},{"id":"ruth-2-20-14","surface":"וַתֹּ֧אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-20-15","surface":"לָ֣הּ","lemma":"לָ֣הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"ruth-2-20-16","surface":"נָעֳמִ֗י","lemma":"נׇעֳמִי","translit":"na`miy","morph":"Noun proper","glosses":[],"strongs":"H5281"},{"id":"ruth-2-20-17","surface":"קָר֥וֹב","lemma":"קָרוֹב","translit":"qarvob","morph":"Adjective","glosses":[],"strongs":"H7138"},{"id":"ruth-2-20-18","surface":"לָ֨נוּ֙","lemma":"לָ֨נוּ֙","translit":"lanv","morph":"Preposition + Suffix plural 1st common","glosses":[]},{"id":"ruth-2-20-19","surface":"הָאִ֔ישׁ","lemma":"אִישׁ","translit":"ha'iysh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"ruth-2-20-20","surface":"מִֽגֹּאֲלֵ֖נוּ","lemma":"גָּאַל","translit":"migo'lenv","morph":"Preposition + Verb Qal Passive Participle + Suffix plural 1st common","glosses":[],"strongs":"H1350"},{"id":"ruth-2-20-21","surface":"הֽוּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Ruth 2:21","englishText":"  Ruth the Moabitess said, “Yes, he said to me, ‘You shall stay close to my young men, until they have ended all my harvest.’”  ","tokens":[{"id":"ruth-2-21-0","surface":"וַתֹּ֖אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-21-1","surface":"ר֣וּת","lemma":"רוּת","translit":"rvt","morph":"Noun proper","glosses":[],"strongs":"H7327"},{"id":"ruth-2-21-2","surface":"הַמּוֹאֲבִיָּ֑ה","lemma":"מוֹאָבִי","translit":"hamvo'biyah","morph":"Particle dual + Noun gentilic feminine singular absolute","glosses":[],"strongs":"H4125"},{"id":"ruth-2-21-3","surface":"גַּ֣ם","lemma":"גַּם","translit":"gam","morph":"Particle absolute","glosses":[],"strongs":"H1571"},{"id":"ruth-2-21-4","surface":"כִּי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ruth-2-21-5","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-21-6","surface":"אֵלַ֗י","lemma":"אֵל","translit":"'elay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H413"},{"id":"ruth-2-21-7","surface":"עִם","lemma":"עִם","translit":"`im","morph":"Preposition","glosses":[],"strongs":"H5973"},{"id":"ruth-2-21-8","surface":"הַנְּעָרִ֤ים","lemma":"נַעַר","translit":"hane`ariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5288"},{"id":"ruth-2-21-9","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-21-10","surface":"לִי֙","lemma":"לִי֙","translit":"liy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]},{"id":"ruth-2-21-11","surface":"תִּדְבָּקִ֔ין","lemma":"דָּבַק","translit":"tidebaqiyn","morph":"Verb Qal Imperative 2nd feminine singular + Suffix","glosses":[],"strongs":"H1692"},{"id":"ruth-2-21-12","surface":"עַ֣ד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"ruth-2-21-13","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"ruth-2-21-14","surface":"כִּלּ֔וּ","lemma":"כָּלָה","translit":"kilv","morph":"Verb Piel Participle 3rd common plural","glosses":[],"strongs":"H3615"},{"id":"ruth-2-21-15","surface":"אֵ֥ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ruth-2-21-16","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"ruth-2-21-17","surface":"הַקָּצִ֖יר","lemma":"קָצִיר","translit":"haqatsiyr","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7105"},{"id":"ruth-2-21-18","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ruth-2-21-19","surface":"לִֽי","lemma":"לִֽי","translit":"liy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]}],"language":"hebrew"},{"ref":"Ruth 2:22","englishText":"  Naomi said to Ruth her daughter-in-law, “It is good, my daughter, that you go out with his maidens, and that they not meet you in any other field.”","tokens":[{"id":"ruth-2-22-0","surface":"וַתֹּ֥אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"ruth-2-22-1","surface":"נָעֳמִ֖י","lemma":"נׇעֳמִי","translit":"na`miy","morph":"Noun proper","glosses":[],"strongs":"H5281"},{"id":"ruth-2-22-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"ruth-2-22-3","surface":"ר֣וּת","lemma":"רוּת","translit":"rvt","morph":"Noun proper","glosses":[],"strongs":"H7327"},{"id":"ruth-2-22-4","surface":"כַּלָּתָ֑הּ","lemma":"כַּלָּה","translit":"kalatah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3618"},{"id":"ruth-2-22-5","surface":"ט֣וֹב","lemma":"טוֹב","translit":"tvob","morph":"Adjective","glosses":[],"strongs":"H2896"},{"id":"ruth-2-22-6","surface":"בִּתִּ֗י","lemma":"בַּת","translit":"bitiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H1323"},{"id":"ruth-2-22-7","surface":"כִּ֤י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ruth-2-22-8","surface":"תֵֽצְאִי֙","lemma":"יָצָא","translit":"tetse'iy","morph":"Verb Qal Imperative 2nd feminine singular","glosses":[],"strongs":"H3318"},{"id":"ruth-2-22-9","surface":"עִם","lemma":"עִם","translit":"`im","morph":"Preposition","glosses":[],"strongs":"H5973"},{"id":"ruth-2-22-10","surface":"נַ֣עֲרוֹתָ֔יו","lemma":"נַעֲרָה","translit":"na`rvotayv","morph":"Noun common feminine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5291"},{"id":"ruth-2-22-11","surface":"וְלֹ֥א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"ruth-2-22-12","surface":"יִפְגְּעוּ","lemma":"פָּגַע","translit":"yipege`v","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H6293"},{"id":"ruth-2-22-13","surface":"בָ֖ךְ","lemma":"בָ֖ךְ","translit":"bake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]},{"id":"ruth-2-22-14","surface":"בְּשָׂדֶ֥ה","lemma":"שָׂדֶה","translit":"beshadeh","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H7704"},{"id":"ruth-2-22-15","surface":"אַחֵֽר","lemma":"אַחֵר","translit":"'acher","morph":"Adjective","glosses":[],"strongs":"H312"}],"language":"hebrew"},{"ref":"Ruth 2:23","englishText":"So she stayed close to the maidens of Boaz, to glean to the end of barley harvest and of wheat harvest; and she lived with her mother-in-law.   ","tokens":[{"id":"ruth-2-23-0","surface":"וַתִּדְבַּ֞ק","lemma":"דָּבַק","translit":"vatidebaq","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H1692"},{"id":"ruth-2-23-1","surface":"בְּנַעֲר֥וֹת","lemma":"נַעֲרָה","translit":"bena`rvot","morph":"Preposition + Noun common feminine plural construct","glosses":[],"strongs":"H5291"},{"id":"ruth-2-23-2","surface":"בֹּ֨עַז֙","lemma":"בֹּעַז","translit":"bo`az","morph":"Noun proper","glosses":[],"strongs":"H1162"},{"id":"ruth-2-23-3","surface":"לְלַקֵּ֔ט","lemma":"לָקַט","translit":"lelaqet","morph":"Preposition + Verb Piel Infinitive Construct","glosses":[],"strongs":"H3950"},{"id":"ruth-2-23-4","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"ruth-2-23-5","surface":"כְּל֥וֹת","lemma":"כָּלָה","translit":"kelvot","morph":"Verb Qal Infinitive Construct","glosses":[],"strongs":"H3615"},{"id":"ruth-2-23-6","surface":"קְצִֽיר","lemma":"קָצִיר","translit":"qetsiyr","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7105"},{"id":"ruth-2-23-7","surface":"הַשְּׂעֹרִ֖ים","lemma":"שְׂעֹרָה","translit":"hashe`oriym","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H8184"},{"id":"ruth-2-23-8","surface":"וּקְצִ֣יר","lemma":"קָצִיר","translit":"vqetsiyr","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H7105"},{"id":"ruth-2-23-9","surface":"הַֽחִטִּ֑ים","lemma":"חִטָּה","translit":"hachitiym","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H2406"},{"id":"ruth-2-23-10","surface":"וַתֵּ֖שֶׁב","lemma":"יָשַׁב","translit":"vatesheb","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3427"},{"id":"ruth-2-23-11","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Preposition","glosses":[],"strongs":"H854"},{"id":"ruth-2-23-12","surface":"חֲמוֹתָֽהּ","lemma":"חֲמוֹת","translit":"chmvotah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H2545"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "ruth-2",
+  "name": "Ruth",
+  "chapter": 2,
+  "verses": [
+    {
+      "ref": "Ruth 2:1",
+      "englishText": "Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech, and his name was Boaz.",
+      "tokens": [
+        {
+          "id": "ruth-2-1-0",
+          "surface": "וּֽלְנָעֳמִ֞י",
+          "lemma": "נׇעֳמִי",
+          "translit": "vlena`miy",
+          "morph": "Conjunction + Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H5281"
+        },
+        {
+          "id": "ruth-2-1-1",
+          "surface": "מידע",
+          "lemma": "יָדַע",
+          "translit": "myd`",
+          "morph": "Verb Pual s",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ruth-2-1-2",
+          "surface": "מוֹדַ֣ע",
+          "lemma": "מוֹדַע",
+          "translit": "mvoda`",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4129"
+        },
+        {
+          "id": "ruth-2-1-3",
+          "surface": "לְאִישָׁ֗הּ",
+          "lemma": "אִישׁ",
+          "translit": "le'iyshah",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "ruth-2-1-4",
+          "surface": "אִ֚ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "ruth-2-1-5",
+          "surface": "גִּבּ֣וֹר",
+          "lemma": "גִּבּוֹר",
+          "translit": "gibvor",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H1368"
+        },
+        {
+          "id": "ruth-2-1-6",
+          "surface": "חַ֔יִל",
+          "lemma": "חַיִל",
+          "translit": "chayil",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2428"
+        },
+        {
+          "id": "ruth-2-1-7",
+          "surface": "מִמִּשְׁפַּ֖חַת",
+          "lemma": "מִשְׁפָּחָה",
+          "translit": "mimishepachat",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4940"
+        },
+        {
+          "id": "ruth-2-1-8",
+          "surface": "אֱלִימֶ֑לֶךְ",
+          "lemma": "אֱלִימֶלֶךְ",
+          "translit": "'liymeleke",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H458"
+        },
+        {
+          "id": "ruth-2-1-9",
+          "surface": "וּשְׁמ֖וֹ",
+          "lemma": "שֵׁם",
+          "translit": "vshemvo",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "ruth-2-1-10",
+          "surface": "בֹּֽעַז",
+          "lemma": "בֹּעַז",
+          "translit": "bo`az",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1162"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:2",
+      "englishText": "Ruth the Moabitess said to Naomi, “Let me now go to the field, and glean among the ears of grain after him in whose sight I shall find favor.”   She said to her, “Go, my daughter.”",
+      "tokens": [
+        {
+          "id": "ruth-2-2-0",
+          "surface": "וַתֹּאמֶר֩",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-2-1",
+          "surface": "ר֨וּת",
+          "lemma": "רוּת",
+          "translit": "rvt",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7327"
+        },
+        {
+          "id": "ruth-2-2-2",
+          "surface": "הַמּוֹאֲבִיָּ֜ה",
+          "lemma": "מוֹאָבִי",
+          "translit": "hamvo'biyah",
+          "morph": "Particle dual + Noun gentilic feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4125"
+        },
+        {
+          "id": "ruth-2-2-3",
+          "surface": "אֶֽל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ruth-2-2-4",
+          "surface": "נָעֳמִ֗י",
+          "lemma": "נׇעֳמִי",
+          "translit": "na`miy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5281"
+        },
+        {
+          "id": "ruth-2-2-5",
+          "surface": "אֵֽלְכָה",
+          "lemma": "יָלַךְ",
+          "translit": "'elekah",
+          "morph": "Verb Qal Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "ruth-2-2-6",
+          "surface": "נָּ֤א",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "ruth-2-2-7",
+          "surface": "הַשָּׂדֶה֙",
+          "lemma": "שָׂדֶה",
+          "translit": "hashadeh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "ruth-2-2-8",
+          "surface": "וַאֲלַקֳטָּ֣ה",
+          "lemma": "לָקַט",
+          "translit": "va'laqtah",
+          "morph": "Conjunction + Verb Piel Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-2-9",
+          "surface": "בַשִׁבֳּלִ֔ים",
+          "lemma": "שִׁבֹּל",
+          "translit": "bashibliym",
+          "morph": "Preposition dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H7641"
+        },
+        {
+          "id": "ruth-2-2-10",
+          "surface": "אַחַ֕ר",
+          "lemma": "אַחַר",
+          "translit": "'achar",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "ruth-2-2-11",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-2-12",
+          "surface": "אֶמְצָא",
+          "lemma": "מָצָא",
+          "translit": "'emetsa'",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H4672"
+        },
+        {
+          "id": "ruth-2-2-13",
+          "surface": "חֵ֖ן",
+          "lemma": "חֵן",
+          "translit": "chen",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2580"
+        },
+        {
+          "id": "ruth-2-2-14",
+          "surface": "בְּעֵינָ֑יו",
+          "lemma": "עַיִן",
+          "translit": "be`eynayv",
+          "morph": "Preposition + Noun common dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "ruth-2-2-15",
+          "surface": "וַתֹּ֥אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-2-16",
+          "surface": "לָ֖הּ",
+          "lemma": "לָ֖הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-2-17",
+          "surface": "לְכִ֥י",
+          "lemma": "יָלַךְ",
+          "translit": "lekiy",
+          "morph": "Verb Qal Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "ruth-2-2-18",
+          "surface": "בִתִּֽי",
+          "lemma": "בַּת",
+          "translit": "bitiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H1323"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:3",
+      "englishText": "She went, and came and gleaned in the field after the reapers: and she happened to come to the portion of the field belonging to Boaz, who was of the family of Elimelech.  ",
+      "tokens": [
+        {
+          "id": "ruth-2-3-0",
+          "surface": "וַתֵּ֤לֶךְ",
+          "lemma": "יָלַךְ",
+          "translit": "vateleke",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "ruth-2-3-1",
+          "surface": "וַתָּבוֹא֙",
+          "lemma": "בּוֹא",
+          "translit": "vatabvo'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "ruth-2-3-2",
+          "surface": "וַתְּלַקֵּ֣ט",
+          "lemma": "לָקַט",
+          "translit": "vatelaqet",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-3-3",
+          "surface": "בַּשָּׂדֶ֔ה",
+          "lemma": "שָׂדֶה",
+          "translit": "bashadeh",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "ruth-2-3-4",
+          "surface": "אַחֲרֵ֖י",
+          "lemma": "אַחַר",
+          "translit": "'achrey",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "ruth-2-3-5",
+          "surface": "הַקֹּצְרִ֑ים",
+          "lemma": "קָצַר",
+          "translit": "haqotseriym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7114"
+        },
+        {
+          "id": "ruth-2-3-6",
+          "surface": "וַיִּ֣קֶר",
+          "lemma": "קָרָה",
+          "translit": "vayiqer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7136"
+        },
+        {
+          "id": "ruth-2-3-7",
+          "surface": "מִקְרֶ֔הָ",
+          "lemma": "מִקְרֶה",
+          "translit": "miqereha",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4745"
+        },
+        {
+          "id": "ruth-2-3-8",
+          "surface": "חֶלְקַ֤ת",
+          "lemma": "חֶלְקָה",
+          "translit": "cheleqat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H2513"
+        },
+        {
+          "id": "ruth-2-3-9",
+          "surface": "הַשָּׂדֶה֙",
+          "lemma": "שָׂדֶה",
+          "translit": "hashadeh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "ruth-2-3-10",
+          "surface": "לְבֹ֔עַז",
+          "lemma": "בֹּעַז",
+          "translit": "lebo`az",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1162"
+        },
+        {
+          "id": "ruth-2-3-11",
+          "surface": "אֲשֶׁ֖ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-3-12",
+          "surface": "מִמִּשְׁפַּ֥חַת",
+          "lemma": "מִשְׁפָּחָה",
+          "translit": "mimishepachat",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4940"
+        },
+        {
+          "id": "ruth-2-3-13",
+          "surface": "אֱלִימֶֽלֶךְ",
+          "lemma": "אֱלִימֶלֶךְ",
+          "translit": "'liymeleke",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H458"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:4",
+      "englishText": "  Behold, Boaz came from Bethlehem, and said to the reapers, “Yahweh be with you.”   They answered him, “Yahweh bless you.”  ",
+      "tokens": [
+        {
+          "id": "ruth-2-4-0",
+          "surface": "וְהִנֵּה",
+          "lemma": "הִנֵּה",
+          "translit": "vehineh",
+          "morph": "Conjunction + Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "ruth-2-4-1",
+          "surface": "בֹ֗עַז",
+          "lemma": "בֹּעַז",
+          "translit": "bo`az",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1162"
+        },
+        {
+          "id": "ruth-2-4-2",
+          "surface": "בָּ֚א",
+          "lemma": "בּוֹא",
+          "translit": "ba'",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "ruth-2-4-3",
+          "surface": "מִבֵּ֣ית",
+          "lemma": "בֵּית לֶחֶם",
+          "translit": "mibeyt",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1035"
+        },
+        {
+          "id": "ruth-2-4-4",
+          "surface": "לֶ֔חֶם",
+          "lemma": "בֵּית לֶחֶם",
+          "translit": "lechem",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1035"
+        },
+        {
+          "id": "ruth-2-4-5",
+          "surface": "וַיֹּ֥אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-4-6",
+          "surface": "לַקּוֹצְרִ֖ים",
+          "lemma": "קָצַר",
+          "translit": "laqvotseriym",
+          "morph": "Preposition dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7114"
+        },
+        {
+          "id": "ruth-2-4-7",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "ruth-2-4-8",
+          "surface": "עִמָּכֶ֑ם",
+          "lemma": "עִם",
+          "translit": "`imakem",
+          "morph": "Preposition + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "ruth-2-4-9",
+          "surface": "וַיֹּ֥אמְרוּ",
+          "lemma": "אָמַר",
+          "translit": "vayo'merv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-4-10",
+          "surface": "ל֖וֹ",
+          "lemma": "ל֖וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-4-11",
+          "surface": "יְבָרֶכְךָ֥",
+          "lemma": "בָרַךְ",
+          "translit": "yebarekeka",
+          "morph": "Verb Piel Imperative 3rd masculine singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1288"
+        },
+        {
+          "id": "ruth-2-4-12",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:5",
+      "englishText": "  Then Boaz said to his servant who was set over the reapers, “Whose young lady is this?”  ",
+      "tokens": [
+        {
+          "id": "ruth-2-5-0",
+          "surface": "וַיֹּ֤אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-5-1",
+          "surface": "בֹּ֨עַז֙",
+          "lemma": "בֹּעַז",
+          "translit": "bo`az",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1162"
+        },
+        {
+          "id": "ruth-2-5-2",
+          "surface": "לְנַעֲר֔וֹ",
+          "lemma": "נַעַר",
+          "translit": "lena`rvo",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "ruth-2-5-3",
+          "surface": "הַנִּצָּ֖ב",
+          "lemma": "נָצַב",
+          "translit": "hanitsab",
+          "morph": "Particle dual + Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H5324"
+        },
+        {
+          "id": "ruth-2-5-4",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ruth-2-5-5",
+          "surface": "הַקּֽוֹצְרִ֑ים",
+          "lemma": "קָצַר",
+          "translit": "haqvotseriym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7114"
+        },
+        {
+          "id": "ruth-2-5-6",
+          "surface": "לְמִ֖י",
+          "lemma": "מִי",
+          "translit": "lemiy",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H4310"
+        },
+        {
+          "id": "ruth-2-5-7",
+          "surface": "הַנַּעֲרָ֥ה",
+          "lemma": "נַעֲרָה",
+          "translit": "hana`rah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5291"
+        },
+        {
+          "id": "ruth-2-5-8",
+          "surface": "הַזֹּֽאת",
+          "lemma": "זֹאת",
+          "translit": "hazo't",
+          "morph": "Particle dual + Pronoun dual feminine singular",
+          "glosses": [],
+          "strongs": "H2063"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:6",
+      "englishText": "  The servant who was set over the reapers answered, “It is the Moabite lady who came back with Naomi out of the country of Moab.",
+      "tokens": [
+        {
+          "id": "ruth-2-6-0",
+          "surface": "וַיַּ֗עַן",
+          "lemma": "עָנָה",
+          "translit": "vaya`an",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "ruth-2-6-1",
+          "surface": "הַנַּ֛עַר",
+          "lemma": "נַעַר",
+          "translit": "hana`ar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "ruth-2-6-2",
+          "surface": "הַנִּצָּ֥ב",
+          "lemma": "נָצַב",
+          "translit": "hanitsab",
+          "morph": "Particle dual + Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H5324"
+        },
+        {
+          "id": "ruth-2-6-3",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ruth-2-6-4",
+          "surface": "הַקּוֹצְרִ֖ים",
+          "lemma": "קָצַר",
+          "translit": "haqvotseriym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7114"
+        },
+        {
+          "id": "ruth-2-6-5",
+          "surface": "וַיֹּאמַ֑ר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-6-6",
+          "surface": "נַעֲרָ֤ה",
+          "lemma": "נַעֲרָה",
+          "translit": "na`rah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5291"
+        },
+        {
+          "id": "ruth-2-6-7",
+          "surface": "מֽוֹאֲבִיָּה֙",
+          "lemma": "מוֹאָבִי",
+          "translit": "mvo'biyah",
+          "morph": "Noun gentilic feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4125"
+        },
+        {
+          "id": "ruth-2-6-8",
+          "surface": "הִ֔יא",
+          "lemma": "הוּא",
+          "translit": "hiy'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "ruth-2-6-9",
+          "surface": "הַשָּׁ֥בָה",
+          "lemma": "שׁוּב",
+          "translit": "hashabah",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "ruth-2-6-10",
+          "surface": "עִֽם",
+          "lemma": "עִם",
+          "translit": "`im",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "ruth-2-6-11",
+          "surface": "נָעֳמִ֖י",
+          "lemma": "נׇעֳמִי",
+          "translit": "na`miy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5281"
+        },
+        {
+          "id": "ruth-2-6-12",
+          "surface": "מִשְּׂדֵ֥ה",
+          "lemma": "שָׂדֶה",
+          "translit": "mishedeh",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "ruth-2-6-13",
+          "surface": "מוֹאָֽב",
+          "lemma": "מוֹאָב",
+          "translit": "mvo'ab",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4124"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:7",
+      "englishText": "She said, ‘Please let me glean and gather after the reapers among the sheaves.’ So she came, and has continued even from the morning until now, except that she stayed a little in the house.”  ",
+      "tokens": [
+        {
+          "id": "ruth-2-7-0",
+          "surface": "וַתֹּ֗אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-7-1",
+          "surface": "אֲלַקֳטָה",
+          "lemma": "לָקַט",
+          "translit": "'laqtah",
+          "morph": "Verb Piel Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-7-2",
+          "surface": "נָּא֙",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "ruth-2-7-3",
+          "surface": "וְאָסַפְתִּ֣י",
+          "lemma": "אָסַף",
+          "translit": "ve'asapetiy",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H622"
+        },
+        {
+          "id": "ruth-2-7-4",
+          "surface": "בָֽעֳמָרִ֔ים",
+          "lemma": "עֹמֶר",
+          "translit": "ba`mariym",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6016"
+        },
+        {
+          "id": "ruth-2-7-5",
+          "surface": "אַחֲרֵ֖י",
+          "lemma": "אַחַר",
+          "translit": "'achrey",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "ruth-2-7-6",
+          "surface": "הַקּוֹצְרִ֑ים",
+          "lemma": "קָצַר",
+          "translit": "haqvotseriym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7114"
+        },
+        {
+          "id": "ruth-2-7-7",
+          "surface": "וַתָּב֣וֹא",
+          "lemma": "בּוֹא",
+          "translit": "vatabvo'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "ruth-2-7-8",
+          "surface": "וַֽתַּעֲמ֗וֹד",
+          "lemma": "עָמַד",
+          "translit": "vata`mvod",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5975"
+        },
+        {
+          "id": "ruth-2-7-9",
+          "surface": "מֵאָ֤ז",
+          "lemma": "אָז",
+          "translit": "me'az",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H227"
+        },
+        {
+          "id": "ruth-2-7-10",
+          "surface": "הַבֹּ֨קֶר֙",
+          "lemma": "בֹּקֶר",
+          "translit": "haboqer",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1242"
+        },
+        {
+          "id": "ruth-2-7-11",
+          "surface": "וְעַד",
+          "lemma": "עַד",
+          "translit": "ve`ad",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "ruth-2-7-12",
+          "surface": "עַ֔תָּה",
+          "lemma": "עַתָּה",
+          "translit": "`atah",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H6258"
+        },
+        {
+          "id": "ruth-2-7-13",
+          "surface": "זֶ֛ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "ruth-2-7-14",
+          "surface": "שִׁבְתָּ֥הּ",
+          "lemma": "יָשַׁב",
+          "translit": "shibetah",
+          "morph": "Verb Qal Infinitive Construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "ruth-2-7-15",
+          "surface": "הַבַּ֖יִת",
+          "lemma": "בַּיִת",
+          "translit": "habayit",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "ruth-2-7-16",
+          "surface": "מְעָֽט",
+          "lemma": "מְעַט",
+          "translit": "me`at",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H4592"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:8",
+      "englishText": "  Then Boaz said to Ruth, “Listen, my daughter. Don’t go to glean in another field, and don’t go from here, but stay here close to my maidens.",
+      "tokens": [
+        {
+          "id": "ruth-2-8-0",
+          "surface": "וַיֹּאמֶר֩",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-8-1",
+          "surface": "בֹּ֨עַז",
+          "lemma": "בֹּעַז",
+          "translit": "bo`az",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1162"
+        },
+        {
+          "id": "ruth-2-8-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ruth-2-8-3",
+          "surface": "ר֜וּת",
+          "lemma": "רוּת",
+          "translit": "rvt",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7327"
+        },
+        {
+          "id": "ruth-2-8-4",
+          "surface": "הֲל֧וֹא",
+          "lemma": "לֹא",
+          "translit": "hlvo'",
+          "morph": "Particle + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ruth-2-8-5",
+          "surface": "שָׁמַ֣עַתְּ",
+          "lemma": "שָׁמַע",
+          "translit": "shama`ate",
+          "morph": "Verb Qal Participle 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "ruth-2-8-6",
+          "surface": "בִּתִּ֗י",
+          "lemma": "בַּת",
+          "translit": "bitiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "ruth-2-8-7",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "ruth-2-8-8",
+          "surface": "תֵּלְכִי֙",
+          "lemma": "יָלַךְ",
+          "translit": "telekiy",
+          "morph": "Verb Qal Jussive 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "ruth-2-8-9",
+          "surface": "לִלְקֹט֙",
+          "lemma": "לָקַט",
+          "translit": "lileqot",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-8-10",
+          "surface": "בְּשָׂדֶ֣ה",
+          "lemma": "שָׂדֶה",
+          "translit": "beshadeh",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "ruth-2-8-11",
+          "surface": "אַחֵ֔ר",
+          "lemma": "אַחֵר",
+          "translit": "'acher",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H312"
+        },
+        {
+          "id": "ruth-2-8-12",
+          "surface": "וְגַ֛ם",
+          "lemma": "גַּם",
+          "translit": "vegam",
+          "morph": "Conjunction + Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "ruth-2-8-13",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ruth-2-8-14",
+          "surface": "תַעֲבוּרִ֖י",
+          "lemma": "עָבַר",
+          "translit": "ta`bvriy",
+          "morph": "Verb Qal Imperative 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5674"
+        },
+        {
+          "id": "ruth-2-8-15",
+          "surface": "מִזֶּ֑ה",
+          "lemma": "זֶה",
+          "translit": "mizeh",
+          "morph": "Preposition + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "ruth-2-8-16",
+          "surface": "וְכֹ֥ה",
+          "lemma": "כֹּה",
+          "translit": "vekoh",
+          "morph": "Conjunction + Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "ruth-2-8-17",
+          "surface": "תִדְבָּקִ֖ין",
+          "lemma": "דָּבַק",
+          "translit": "tidebaqiyn",
+          "morph": "Verb Qal Imperative 2nd feminine singular + Suffix",
+          "glosses": [],
+          "strongs": "H1692"
+        },
+        {
+          "id": "ruth-2-8-18",
+          "surface": "עִם",
+          "lemma": "עִם",
+          "translit": "`im",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "ruth-2-8-19",
+          "surface": "נַעֲרֹתָֽי",
+          "lemma": "נַעֲרָה",
+          "translit": "na`rotay",
+          "morph": "Noun common feminine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5291"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:9",
+      "englishText": "Let your eyes be on the field that they reap, and go after them. Haven’t I commanded the young men not to touch you? When you are thirsty, go to the vessels, and drink from that which the young men have drawn.”  ",
+      "tokens": [
+        {
+          "id": "ruth-2-9-0",
+          "surface": "עֵינַ֜יִךְ",
+          "lemma": "עַיִן",
+          "translit": "`eynayike",
+          "morph": "Noun common dual construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "ruth-2-9-1",
+          "surface": "בַּשָּׂדֶ֤ה",
+          "lemma": "שָׂדֶה",
+          "translit": "bashadeh",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "ruth-2-9-2",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-9-3",
+          "surface": "יִקְצֹרוּן֙",
+          "lemma": "קָצַר",
+          "translit": "yiqetsorvn",
+          "morph": "Verb Qal Imperative 3rd masculine plural + Suffix",
+          "glosses": [],
+          "strongs": "H7114"
+        },
+        {
+          "id": "ruth-2-9-4",
+          "surface": "וְהָלַ֣כְתִּ",
+          "lemma": "הָלַךְ",
+          "translit": "vehalaketi",
+          "morph": "Conjunction + Verb Qal Perfect 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "ruth-2-9-5",
+          "surface": "אַחֲרֵיהֶ֔ן",
+          "lemma": "אַחַר",
+          "translit": "'achreyhen",
+          "morph": "Preposition + Suffix plural 3rd feminine",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "ruth-2-9-6",
+          "surface": "הֲל֥וֹא",
+          "lemma": "לֹא",
+          "translit": "hlvo'",
+          "morph": "Particle + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ruth-2-9-7",
+          "surface": "צִוִּ֛יתִי",
+          "lemma": "צָוָה",
+          "translit": "tsiviytiy",
+          "morph": "Verb Piel Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H6680"
+        },
+        {
+          "id": "ruth-2-9-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ruth-2-9-9",
+          "surface": "הַנְּעָרִ֖ים",
+          "lemma": "נַעַר",
+          "translit": "hane`ariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "ruth-2-9-10",
+          "surface": "לְבִלְתִּ֣י",
+          "lemma": "בִּלְתִּי",
+          "translit": "lebiletiy",
+          "morph": "Preposition + Conjunction",
+          "glosses": [],
+          "strongs": "H1115"
+        },
+        {
+          "id": "ruth-2-9-11",
+          "surface": "נָגְעֵ֑ךְ",
+          "lemma": "נָגַע",
+          "translit": "nage`eke",
+          "morph": "Verb Qal Infinitive Construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5060"
+        },
+        {
+          "id": "ruth-2-9-12",
+          "surface": "וְצָמִ֗ת",
+          "lemma": "צָמֵא",
+          "translit": "vetsamit",
+          "morph": "Conjunction + Verb Qal Perfect 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H6770"
+        },
+        {
+          "id": "ruth-2-9-13",
+          "surface": "וְהָלַכְתְּ֙",
+          "lemma": "הָלַךְ",
+          "translit": "vehalakete",
+          "morph": "Conjunction + Verb Qal Perfect 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "ruth-2-9-14",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ruth-2-9-15",
+          "surface": "הַכֵּלִ֔ים",
+          "lemma": "כְּלִי",
+          "translit": "hakeliym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3627"
+        },
+        {
+          "id": "ruth-2-9-16",
+          "surface": "וְשָׁתִ֕ית",
+          "lemma": "שָׁתָה",
+          "translit": "veshatiyt",
+          "morph": "Conjunction + Verb Qal Perfect 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H8354"
+        },
+        {
+          "id": "ruth-2-9-17",
+          "surface": "מֵאֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "me'sher",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-9-18",
+          "surface": "יִשְׁאֲב֖וּן",
+          "lemma": "שָׁאַב",
+          "translit": "yishe'bvn",
+          "morph": "Verb Qal Imperative 3rd masculine plural + Suffix",
+          "glosses": [],
+          "strongs": "H7579"
+        },
+        {
+          "id": "ruth-2-9-19",
+          "surface": "הַנְּעָרִֽים",
+          "lemma": "נַעַר",
+          "translit": "hane`ariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:10",
+      "englishText": "  Then she fell on her face, and bowed herself to the ground, and said to him, “Why have I found favor in your sight, that you should take knowledge of me, since I am a foreigner?”  ",
+      "tokens": [
+        {
+          "id": "ruth-2-10-0",
+          "surface": "וַתִּפֹּל֙",
+          "lemma": "נָפַל",
+          "translit": "vatipol",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "ruth-2-10-1",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ruth-2-10-2",
+          "surface": "פָּנֶ֔יהָ",
+          "lemma": "פָּנִים",
+          "translit": "paneyha",
+          "morph": "Noun common plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "ruth-2-10-3",
+          "surface": "וַתִּשְׁתַּ֖חוּ",
+          "lemma": "שָׁחָה",
+          "translit": "vatishetachv",
+          "morph": "Conjunction + Verb v Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7812"
+        },
+        {
+          "id": "ruth-2-10-4",
+          "surface": "אָ֑רְצָה",
+          "lemma": "אֶרֶץ",
+          "translit": "'aretsah",
+          "morph": "Noun common singular absolute + Suffix dual",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "ruth-2-10-5",
+          "surface": "וַתֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-10-6",
+          "surface": "אֵלָ֗יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ruth-2-10-7",
+          "surface": "מַדּוּעַ֩",
+          "lemma": "מַדּוּעַ",
+          "translit": "madv`a",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4069"
+        },
+        {
+          "id": "ruth-2-10-8",
+          "surface": "מָצָ֨אתִי",
+          "lemma": "מָצָא",
+          "translit": "matsa'tiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H4672"
+        },
+        {
+          "id": "ruth-2-10-9",
+          "surface": "חֵ֤ן",
+          "lemma": "חֵן",
+          "translit": "chen",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2580"
+        },
+        {
+          "id": "ruth-2-10-10",
+          "surface": "בְּעֵינֶ֨יךָ֙",
+          "lemma": "עַיִן",
+          "translit": "be`eyneyka",
+          "morph": "Preposition + Noun common dual construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "ruth-2-10-11",
+          "surface": "לְהַכִּירֵ֔נִי",
+          "lemma": "נָכַר",
+          "translit": "lehakiyreniy",
+          "morph": "Preposition + Verb Hiphil Infinitive Construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5234"
+        },
+        {
+          "id": "ruth-2-10-12",
+          "surface": "וְאָּנֹכִ֖י",
+          "lemma": "אָנֹכִי",
+          "translit": "ve'anokiy",
+          "morph": "Conjunction + Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H595"
+        },
+        {
+          "id": "ruth-2-10-13",
+          "surface": "נָכְרִיָּֽה",
+          "lemma": "נׇכְרִי",
+          "translit": "nakeriyah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5237"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:11",
+      "englishText": "  Boaz answered her, “It has fully been shown me, all that you have done to your mother-in-law since the death of your husband; and how you have left your father and your mother, and the land of your birth, and have come to a people that you didn’t know before.",
+      "tokens": [
+        {
+          "id": "ruth-2-11-0",
+          "surface": "וַיַּ֤עַן",
+          "lemma": "עָנָה",
+          "translit": "vaya`an",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "ruth-2-11-1",
+          "surface": "בֹּ֨עַז֙",
+          "lemma": "בֹּעַז",
+          "translit": "bo`az",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1162"
+        },
+        {
+          "id": "ruth-2-11-2",
+          "surface": "וַיֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-11-3",
+          "surface": "לָ֔הּ",
+          "lemma": "לָ֔הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-11-4",
+          "surface": "הֻגֵּ֨ד",
+          "lemma": "נָגַד",
+          "translit": "huged",
+          "morph": "Verb Hophal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "ruth-2-11-5",
+          "surface": "הֻגַּ֜ד",
+          "lemma": "נָגַד",
+          "translit": "hugad",
+          "morph": "Verb Hophal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "ruth-2-11-6",
+          "surface": "לִ֗י",
+          "lemma": "לִ֗י",
+          "translit": "liy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-11-7",
+          "surface": "כֹּ֤ל",
+          "lemma": "כֹּל",
+          "translit": "kol",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ruth-2-11-8",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-11-9",
+          "surface": "עָשִׂית֙",
+          "lemma": "עָשָׂה",
+          "translit": "`ashiyt",
+          "morph": "Verb Qal Participle 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "ruth-2-11-10",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "ruth-2-11-11",
+          "surface": "חֲמוֹתֵ֔ךְ",
+          "lemma": "חֲמוֹת",
+          "translit": "chmvoteke",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H2545"
+        },
+        {
+          "id": "ruth-2-11-12",
+          "surface": "אַחֲרֵ֖י",
+          "lemma": "אַחַר",
+          "translit": "'achrey",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "ruth-2-11-13",
+          "surface": "מ֣וֹת",
+          "lemma": "מָוֶת",
+          "translit": "mvot",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4194"
+        },
+        {
+          "id": "ruth-2-11-14",
+          "surface": "אִישֵׁ֑ךְ",
+          "lemma": "אִישׁ",
+          "translit": "'iysheke",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "ruth-2-11-15",
+          "surface": "וַתַּֽעַזְבִ֞י",
+          "lemma": "עָזַב",
+          "translit": "vata`azebiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5800"
+        },
+        {
+          "id": "ruth-2-11-16",
+          "surface": "אָּבִ֣יךְ",
+          "lemma": "אָב",
+          "translit": "'abiyke",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "ruth-2-11-17",
+          "surface": "וְאִמֵּ֗ךְ",
+          "lemma": "אֵם",
+          "translit": "ve'imeke",
+          "morph": "Conjunction + Noun common feminine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H517"
+        },
+        {
+          "id": "ruth-2-11-18",
+          "surface": "וְאֶ֨רֶץ֙",
+          "lemma": "אֶרֶץ",
+          "translit": "ve'erets",
+          "morph": "Conjunction + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "ruth-2-11-19",
+          "surface": "מֽוֹלַדְתֵּ֔ךְ",
+          "lemma": "מוֹלֶדֶת",
+          "translit": "mvoladeteke",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H4138"
+        },
+        {
+          "id": "ruth-2-11-20",
+          "surface": "וַתֵּ֣לְכִ֔י",
+          "lemma": "יָלַךְ",
+          "translit": "vatelekiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "ruth-2-11-21",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ruth-2-11-22",
+          "surface": "עַ֕ם",
+          "lemma": "עַם",
+          "translit": "`am",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "ruth-2-11-23",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-11-24",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ruth-2-11-25",
+          "surface": "יָדַ֖עַתְּ",
+          "lemma": "יָדַע",
+          "translit": "yada`ate",
+          "morph": "Verb Qal Participle 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ruth-2-11-26",
+          "surface": "תְּמ֥וֹל",
+          "lemma": "תְּמוֹל",
+          "translit": "temvol",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8543"
+        },
+        {
+          "id": "ruth-2-11-27",
+          "surface": "שִׁלְשֽׁוֹם",
+          "lemma": "שִׁלְשׁוֹם",
+          "translit": "shileshvom",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8032"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:12",
+      "englishText": "May Yahweh repay your work, and a full reward be given you from Yahweh, the God of Israel, under whose wings you have come to take refuge.”  ",
+      "tokens": [
+        {
+          "id": "ruth-2-12-0",
+          "surface": "יְשַׁלֵּ֥ם",
+          "lemma": "שָׁלַם",
+          "translit": "yeshalem",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7999"
+        },
+        {
+          "id": "ruth-2-12-1",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "ruth-2-12-2",
+          "surface": "פָּעֳלֵ֑ךְ",
+          "lemma": "פֹּעַל",
+          "translit": "pa`leke",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H6467"
+        },
+        {
+          "id": "ruth-2-12-3",
+          "surface": "וּתְהִ֨י",
+          "lemma": "הָיָה",
+          "translit": "vtehiy",
+          "morph": "Conjunction + Verb Qal Jussive 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ruth-2-12-4",
+          "surface": "מַשְׂכֻּרְתֵּ֜ךְ",
+          "lemma": "מַשְׂכֹּרֶת",
+          "translit": "mashekureteke",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H4909"
+        },
+        {
+          "id": "ruth-2-12-5",
+          "surface": "שְׁלֵמָ֗ה",
+          "lemma": "שָׁלֵם",
+          "translit": "shelemah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H8003"
+        },
+        {
+          "id": "ruth-2-12-6",
+          "surface": "מֵעִ֤ם",
+          "lemma": "עִם",
+          "translit": "me`im",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "ruth-2-12-7",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "ruth-2-12-8",
+          "surface": "אֱלֹהֵ֣י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "ruth-2-12-9",
+          "surface": "יִשְׂרָאֵ֔ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "ruth-2-12-10",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-12-11",
+          "surface": "בָּ֖את",
+          "lemma": "בּוֹא",
+          "translit": "ba't",
+          "morph": "Verb Qal Participle 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "ruth-2-12-12",
+          "surface": "לַחֲס֥וֹת",
+          "lemma": "חָסָה",
+          "translit": "lachsvot",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H2620"
+        },
+        {
+          "id": "ruth-2-12-13",
+          "surface": "תַּֽחַת",
+          "lemma": "תַּחַת",
+          "translit": "tachat",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H8478"
+        },
+        {
+          "id": "ruth-2-12-14",
+          "surface": "כְּנָפָֽיו",
+          "lemma": "כָּנָף",
+          "translit": "kenapayv",
+          "morph": "Noun common feminine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3671"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:13",
+      "englishText": "  Then she said, “Let me find favor in your sight, my lord, because you have comforted me, and because you have spoken kindly to your handmaid, though I am not as one of your handmaidens.”  ",
+      "tokens": [
+        {
+          "id": "ruth-2-13-0",
+          "surface": "וַ֠תֹּאמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-13-1",
+          "surface": "אֶמְצָא",
+          "lemma": "מָצָא",
+          "translit": "'emetsa'",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H4672"
+        },
+        {
+          "id": "ruth-2-13-2",
+          "surface": "חֵ֨ן",
+          "lemma": "חֵן",
+          "translit": "chen",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2580"
+        },
+        {
+          "id": "ruth-2-13-3",
+          "surface": "בְּעֵינֶ֤יךָ",
+          "lemma": "עַיִן",
+          "translit": "be`eyneyka",
+          "morph": "Preposition + Noun common dual construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "ruth-2-13-4",
+          "surface": "אֲדֹנִי֙",
+          "lemma": "אָדוֹן",
+          "translit": "'doniy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H113"
+        },
+        {
+          "id": "ruth-2-13-5",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ruth-2-13-6",
+          "surface": "נִֽחַמְתָּ֔נִי",
+          "lemma": "נָחַם",
+          "translit": "nichametaniy",
+          "morph": "Verb Piel Participle 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5162"
+        },
+        {
+          "id": "ruth-2-13-7",
+          "surface": "וְכִ֥י",
+          "lemma": "כִּי",
+          "translit": "vekiy",
+          "morph": "Conjunction + Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ruth-2-13-8",
+          "surface": "דִבַּ֖רְתָּ",
+          "lemma": "דָבַר",
+          "translit": "dibareta",
+          "morph": "Verb Piel Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "ruth-2-13-9",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ruth-2-13-10",
+          "surface": "לֵ֣ב",
+          "lemma": "לֵב",
+          "translit": "leb",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ruth-2-13-11",
+          "surface": "שִׁפְחָתֶ֑ךָ",
+          "lemma": "שִׁפְחָה",
+          "translit": "shipechateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8198"
+        },
+        {
+          "id": "ruth-2-13-12",
+          "surface": "וְאָנֹכִי֙",
+          "lemma": "אָנֹכִי",
+          "translit": "ve'anokiy",
+          "morph": "Conjunction + Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H595"
+        },
+        {
+          "id": "ruth-2-13-13",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ruth-2-13-14",
+          "surface": "אֶֽהְיֶ֔ה",
+          "lemma": "הָיָה",
+          "translit": "'eheyeh",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ruth-2-13-15",
+          "surface": "כְּאַחַ֖ת",
+          "lemma": "אֶחָד",
+          "translit": "ke'achat",
+          "morph": "Preposition + Adjective common feminine singular construct",
+          "glosses": [],
+          "strongs": "H259"
+        },
+        {
+          "id": "ruth-2-13-16",
+          "surface": "שִׁפְחֹתֶֽיךָ",
+          "lemma": "שִׁפְחָה",
+          "translit": "shipechoteyka",
+          "morph": "Noun common feminine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8198"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:14",
+      "englishText": "  At meal time Boaz said to her, “Come here, and eat of the bread, and dip your morsel in the vinegar.”   She sat beside the reapers, and they reached her parched grain, and she ate, and was satisfied, and left some of it.",
+      "tokens": [
+        {
+          "id": "ruth-2-14-0",
+          "surface": "וַיֹּאמֶר֩",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-14-1",
+          "surface": "לָ֨ה",
+          "lemma": "לָ֨ה",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-14-2",
+          "surface": "בֹ֜עַז",
+          "lemma": "בֹּעַז",
+          "translit": "bo`az",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1162"
+        },
+        {
+          "id": "ruth-2-14-3",
+          "surface": "לְעֵ֣ת",
+          "lemma": "עֵת",
+          "translit": "le`et",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H6256"
+        },
+        {
+          "id": "ruth-2-14-4",
+          "surface": "הָאֹ֗כֶל",
+          "lemma": "אֹכֶל",
+          "translit": "ha'okel",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H400"
+        },
+        {
+          "id": "ruth-2-14-5",
+          "surface": "גֹּ֤שִֽׁי",
+          "lemma": "נָגַשׁ",
+          "translit": "goshiy",
+          "morph": "Verb Qal Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5066"
+        },
+        {
+          "id": "ruth-2-14-6",
+          "surface": "הֲלֹם֙",
+          "lemma": "הֲלֹם",
+          "translit": "hlom",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H1988"
+        },
+        {
+          "id": "ruth-2-14-7",
+          "surface": "וְאָכַ֣לְתְּ",
+          "lemma": "אָכַל",
+          "translit": "ve'akalete",
+          "morph": "Conjunction + Verb Qal Perfect 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "ruth-2-14-8",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "ruth-2-14-9",
+          "surface": "הַלֶּ֔חֶם",
+          "lemma": "לֶחֶם",
+          "translit": "halechem",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H3899"
+        },
+        {
+          "id": "ruth-2-14-10",
+          "surface": "וְטָבַ֥לְתְּ",
+          "lemma": "טָבַל",
+          "translit": "vetabalete",
+          "morph": "Conjunction + Verb Qal Perfect 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H2881"
+        },
+        {
+          "id": "ruth-2-14-11",
+          "surface": "פִּתֵּ֖ךְ",
+          "lemma": "פַּת",
+          "translit": "piteke",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H6595"
+        },
+        {
+          "id": "ruth-2-14-12",
+          "surface": "בַּחֹ֑מֶץ",
+          "lemma": "חֹמֶץ",
+          "translit": "bachomets",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2558"
+        },
+        {
+          "id": "ruth-2-14-13",
+          "surface": "וַתֵּ֨שֶׁב֙",
+          "lemma": "יָשַׁב",
+          "translit": "vatesheb",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "ruth-2-14-14",
+          "surface": "מִצַּ֣ד",
+          "lemma": "צַד",
+          "translit": "mitsad",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6654"
+        },
+        {
+          "id": "ruth-2-14-15",
+          "surface": "הַקּֽוֹצְרִ֔ים",
+          "lemma": "קָצַר",
+          "translit": "haqvotseriym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7114"
+        },
+        {
+          "id": "ruth-2-14-16",
+          "surface": "וַיִּצְבָּט",
+          "lemma": "צָבַט",
+          "translit": "vayitsebat",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6642"
+        },
+        {
+          "id": "ruth-2-14-17",
+          "surface": "לָ֣הּ",
+          "lemma": "לָ֣הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-14-18",
+          "surface": "קָלִ֔י",
+          "lemma": "קָלִי",
+          "translit": "qaliy",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7039"
+        },
+        {
+          "id": "ruth-2-14-19",
+          "surface": "וַתֹּ֥אכַל",
+          "lemma": "אָכַל",
+          "translit": "vato'kal",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "ruth-2-14-20",
+          "surface": "וַתִּשְׂבַּ֖ע",
+          "lemma": "שָׂבַע",
+          "translit": "vatisheba`",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7646"
+        },
+        {
+          "id": "ruth-2-14-21",
+          "surface": "וַתֹּתַֽר",
+          "lemma": "יָתַר",
+          "translit": "vatotar",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3498"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:15",
+      "englishText": "When she had risen up to glean, Boaz commanded his young men, saying, “Let her glean even among the sheaves, and don’t reproach her.",
+      "tokens": [
+        {
+          "id": "ruth-2-15-0",
+          "surface": "וַתָּ֖קָם",
+          "lemma": "קוּם",
+          "translit": "vataqam",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "ruth-2-15-1",
+          "surface": "לְלַקֵּ֑ט",
+          "lemma": "לָקַט",
+          "translit": "lelaqet",
+          "morph": "Preposition + Verb Piel Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-15-2",
+          "surface": "וַיְצַו֩",
+          "lemma": "צָוָה",
+          "translit": "vayetsav",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6680"
+        },
+        {
+          "id": "ruth-2-15-3",
+          "surface": "בֹּ֨עַז",
+          "lemma": "בֹּעַז",
+          "translit": "bo`az",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1162"
+        },
+        {
+          "id": "ruth-2-15-4",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ruth-2-15-5",
+          "surface": "נְעָרָ֜יו",
+          "lemma": "נַעַר",
+          "translit": "ne`arayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "ruth-2-15-6",
+          "surface": "לֵאמֹ֗ר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-15-7",
+          "surface": "גַּ֣ם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "ruth-2-15-8",
+          "surface": "בֵּ֧ין",
+          "lemma": "בֵּין",
+          "translit": "beyn",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H996"
+        },
+        {
+          "id": "ruth-2-15-9",
+          "surface": "הָֽעֳמָרִ֛ים",
+          "lemma": "עֹמֶר",
+          "translit": "ha`mariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6016"
+        },
+        {
+          "id": "ruth-2-15-10",
+          "surface": "תְּלַקֵּ֖ט",
+          "lemma": "לָקַט",
+          "translit": "telaqet",
+          "morph": "Verb Piel Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-15-11",
+          "surface": "וְלֹ֥א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ruth-2-15-12",
+          "surface": "תַכְלִימֽוּהָ",
+          "lemma": "כָּלַם",
+          "translit": "takeliymvha",
+          "morph": "Verb Hiphil Imperative 2nd masculine plural + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3637"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:16",
+      "englishText": "Also pull out some for her from the bundles, and leave it, and let her glean, and don’t rebuke her.”  ",
+      "tokens": [
+        {
+          "id": "ruth-2-16-0",
+          "surface": "וְגַ֛ם",
+          "lemma": "גַּם",
+          "translit": "vegam",
+          "morph": "Conjunction + Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "ruth-2-16-1",
+          "surface": "שֹׁל",
+          "lemma": "שָׁלַל",
+          "translit": "shol",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H7997"
+        },
+        {
+          "id": "ruth-2-16-2",
+          "surface": "תָּשֹׁ֥לּוּ",
+          "lemma": "שָׁלַל",
+          "translit": "tasholv",
+          "morph": "Verb Qal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7997"
+        },
+        {
+          "id": "ruth-2-16-3",
+          "surface": "לָ֖הּ",
+          "lemma": "לָ֖הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-16-4",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "ruth-2-16-5",
+          "surface": "הַצְּבָתִ֑ים",
+          "lemma": "צֶבֶת",
+          "translit": "hatsebatiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6653"
+        },
+        {
+          "id": "ruth-2-16-6",
+          "surface": "וַעֲזַבְתֶּ֥ם",
+          "lemma": "עָזַב",
+          "translit": "va`zabetem",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H5800"
+        },
+        {
+          "id": "ruth-2-16-7",
+          "surface": "וְלִקְּטָ֖ה",
+          "lemma": "לָקַט",
+          "translit": "veliqetah",
+          "morph": "Conjunction + Verb Piel Perfect 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-16-8",
+          "surface": "וְלֹ֥א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ruth-2-16-9",
+          "surface": "תִגְעֲרוּ",
+          "lemma": "גָּעַר",
+          "translit": "tige`rv",
+          "morph": "Verb Qal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1605"
+        },
+        {
+          "id": "ruth-2-16-10",
+          "surface": "בָֽהּ",
+          "lemma": "בָֽהּ",
+          "translit": "bah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:17",
+      "englishText": "  So she gleaned in the field until evening; and she beat out that which she had gleaned, and it was about an ephah of barley.",
+      "tokens": [
+        {
+          "id": "ruth-2-17-0",
+          "surface": "וַתְּלַקֵּ֥ט",
+          "lemma": "לָקַט",
+          "translit": "vatelaqet",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-17-1",
+          "surface": "בַּשָּׂדֶ֖ה",
+          "lemma": "שָׂדֶה",
+          "translit": "bashadeh",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "ruth-2-17-2",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "ruth-2-17-3",
+          "surface": "הָעָ֑רֶב",
+          "lemma": "עֶרֶב",
+          "translit": "ha`areb",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6153"
+        },
+        {
+          "id": "ruth-2-17-4",
+          "surface": "וַתַּחְבֹּט֙",
+          "lemma": "חָבַט",
+          "translit": "vatachebot",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2251"
+        },
+        {
+          "id": "ruth-2-17-5",
+          "surface": "אֵ֣ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ruth-2-17-6",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-17-7",
+          "surface": "לִקֵּ֔טָה",
+          "lemma": "לָקַט",
+          "translit": "liqetah",
+          "morph": "Verb Piel Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-17-8",
+          "surface": "וַיְהִ֖י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ruth-2-17-9",
+          "surface": "כְּאֵיפָ֥ה",
+          "lemma": "אֵיפָה",
+          "translit": "ke'eypah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H374"
+        },
+        {
+          "id": "ruth-2-17-10",
+          "surface": "שְׂעֹרִֽים",
+          "lemma": "שְׂעֹרָה",
+          "translit": "she`oriym",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H8184"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:18",
+      "englishText": "She took it up, and went into the city; and her mother-in-law saw what she had gleaned: and she brought out and gave to her that which she had left after she was sufficed.  ",
+      "tokens": [
+        {
+          "id": "ruth-2-18-0",
+          "surface": "וַתִּשָּׂא֙",
+          "lemma": "נָשָׂא",
+          "translit": "vatisha'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5375"
+        },
+        {
+          "id": "ruth-2-18-1",
+          "surface": "וַתָּב֣וֹא",
+          "lemma": "בּוֹא",
+          "translit": "vatabvo'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "ruth-2-18-2",
+          "surface": "הָעִ֔יר",
+          "lemma": "עִיר",
+          "translit": "ha`iyr",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5892"
+        },
+        {
+          "id": "ruth-2-18-3",
+          "surface": "וַתֵּ֥רֶא",
+          "lemma": "רָאָה",
+          "translit": "vatere'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "ruth-2-18-4",
+          "surface": "חֲמוֹתָ֖הּ",
+          "lemma": "חֲמוֹת",
+          "translit": "chmvotah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2545"
+        },
+        {
+          "id": "ruth-2-18-5",
+          "surface": "אֵ֣ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ruth-2-18-6",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-18-7",
+          "surface": "לִקֵּ֑טָה",
+          "lemma": "לָקַט",
+          "translit": "liqetah",
+          "morph": "Verb Piel Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-18-8",
+          "surface": "וַתּוֹצֵא֙",
+          "lemma": "יָצָא",
+          "translit": "vatvotse'",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "ruth-2-18-9",
+          "surface": "וַתִּתֶּן",
+          "lemma": "נָתַן",
+          "translit": "vatiten",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "ruth-2-18-10",
+          "surface": "לָ֔הּ",
+          "lemma": "לָ֔הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-18-11",
+          "surface": "אֵ֥ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ruth-2-18-12",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-18-13",
+          "surface": "הוֹתִ֖רָה",
+          "lemma": "יָתַר",
+          "translit": "hvotirah",
+          "morph": "Verb Hiphil Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3498"
+        },
+        {
+          "id": "ruth-2-18-14",
+          "surface": "מִשָּׂבְעָֽהּ",
+          "lemma": "שֹׂבַע",
+          "translit": "mishabe`ah",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7648"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:19",
+      "englishText": "  Her mother-in-law said to her, “Where have you gleaned today? Where have you worked? Blessed be he who noticed you.”   She showed her mother-in-law with whom she had worked, and said, “The man’s name with whom I worked today is Boaz.”",
+      "tokens": [
+        {
+          "id": "ruth-2-19-0",
+          "surface": "וַתֹּאמֶר֩",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-19-1",
+          "surface": "לָ֨הּ",
+          "lemma": "לָ֨הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-19-2",
+          "surface": "חֲמוֹתָ֜הּ",
+          "lemma": "חֲמוֹת",
+          "translit": "chmvotah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2545"
+        },
+        {
+          "id": "ruth-2-19-3",
+          "surface": "אֵיפֹ֨ה",
+          "lemma": "אֵיפֹה",
+          "translit": "'eypoh",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H375"
+        },
+        {
+          "id": "ruth-2-19-4",
+          "surface": "לִקַּ֤טְתְּ",
+          "lemma": "לָקַט",
+          "translit": "liqatete",
+          "morph": "Verb Piel Participle 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-19-5",
+          "surface": "הַיּוֹם֙",
+          "lemma": "יוֹם",
+          "translit": "hayvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "ruth-2-19-6",
+          "surface": "וְאָ֣נָה",
+          "lemma": "אָן",
+          "translit": "ve'anah",
+          "morph": "Conjunction + Adverb",
+          "glosses": [],
+          "strongs": "H575"
+        },
+        {
+          "id": "ruth-2-19-7",
+          "surface": "עָשִׂ֔ית",
+          "lemma": "עָשָׂה",
+          "translit": "`ashiyt",
+          "morph": "Verb Qal Participle 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "ruth-2-19-8",
+          "surface": "יְהִ֥י",
+          "lemma": "הָיָה",
+          "translit": "yehiy",
+          "morph": "Verb Qal Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ruth-2-19-9",
+          "surface": "מַכִּירֵ֖ךְ",
+          "lemma": "נָכַר",
+          "translit": "makiyreke",
+          "morph": "Verb Hiphil Passive Participle + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5234"
+        },
+        {
+          "id": "ruth-2-19-10",
+          "surface": "בָּר֑וּךְ",
+          "lemma": "בָרַךְ",
+          "translit": "barvke",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H1288"
+        },
+        {
+          "id": "ruth-2-19-11",
+          "surface": "וַתַּגֵּ֣ד",
+          "lemma": "נָגַד",
+          "translit": "vataged",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "ruth-2-19-12",
+          "surface": "לַחֲמוֹתָ֗הּ",
+          "lemma": "חֲמוֹת",
+          "translit": "lachmvotah",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2545"
+        },
+        {
+          "id": "ruth-2-19-13",
+          "surface": "אֵ֤ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ruth-2-19-14",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-19-15",
+          "surface": "עָשְׂתָה֙",
+          "lemma": "עָשָׂה",
+          "translit": "`ashetah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "ruth-2-19-16",
+          "surface": "עִמּ֔וֹ",
+          "lemma": "עִם",
+          "translit": "`imvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "ruth-2-19-17",
+          "surface": "וַתֹּ֗אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-19-18",
+          "surface": "שֵׁ֤ם",
+          "lemma": "שֵׁם",
+          "translit": "shem",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "ruth-2-19-19",
+          "surface": "הָאִישׁ֙",
+          "lemma": "אִישׁ",
+          "translit": "ha'iysh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "ruth-2-19-20",
+          "surface": "אֲשֶׁ֨ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-19-21",
+          "surface": "עָשִׂ֧יתִי",
+          "lemma": "עָשָׂה",
+          "translit": "`ashiytiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "ruth-2-19-22",
+          "surface": "עִמּ֛וֹ",
+          "lemma": "עִם",
+          "translit": "`imvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "ruth-2-19-23",
+          "surface": "הַיּ֖וֹם",
+          "lemma": "יוֹם",
+          "translit": "hayvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "ruth-2-19-24",
+          "surface": "בֹּֽעַז",
+          "lemma": "בֹּעַז",
+          "translit": "bo`az",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1162"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:20",
+      "englishText": "Naomi said to her daughter-in-law, “Blessed be he of Yahweh, who has not left off his kindness to the living and to the dead.” Naomi said to her, “The man is a close relative to us, one of our near kinsmen.”  ",
+      "tokens": [
+        {
+          "id": "ruth-2-20-0",
+          "surface": "וַתֹּ֨אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-20-1",
+          "surface": "נָעֳמִ֜י",
+          "lemma": "נׇעֳמִי",
+          "translit": "na`miy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5281"
+        },
+        {
+          "id": "ruth-2-20-2",
+          "surface": "לְכַלָּתָ֗הּ",
+          "lemma": "כַּלָּה",
+          "translit": "lekalatah",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3618"
+        },
+        {
+          "id": "ruth-2-20-3",
+          "surface": "בָּר֥וּךְ",
+          "lemma": "בָרַךְ",
+          "translit": "barvke",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H1288"
+        },
+        {
+          "id": "ruth-2-20-4",
+          "surface": "הוּא֙",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "ruth-2-20-5",
+          "surface": "לַיהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "ruth-2-20-6",
+          "surface": "אֲשֶׁר֙",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-20-7",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ruth-2-20-8",
+          "surface": "עָזַ֣ב",
+          "lemma": "עָזַב",
+          "translit": "`azab",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5800"
+        },
+        {
+          "id": "ruth-2-20-9",
+          "surface": "חַסְדּ֔וֹ",
+          "lemma": "חֵסֵד",
+          "translit": "chasedvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2617"
+        },
+        {
+          "id": "ruth-2-20-10",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "ruth-2-20-11",
+          "surface": "הַחַיִּ֖ים",
+          "lemma": "חַי",
+          "translit": "hachayiym",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H2416"
+        },
+        {
+          "id": "ruth-2-20-12",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "ruth-2-20-13",
+          "surface": "הַמֵּתִ֑ים",
+          "lemma": "מוּת",
+          "translit": "hametiym",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "ruth-2-20-14",
+          "surface": "וַתֹּ֧אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-20-15",
+          "surface": "לָ֣הּ",
+          "lemma": "לָ֣הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-20-16",
+          "surface": "נָעֳמִ֗י",
+          "lemma": "נׇעֳמִי",
+          "translit": "na`miy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5281"
+        },
+        {
+          "id": "ruth-2-20-17",
+          "surface": "קָר֥וֹב",
+          "lemma": "קָרוֹב",
+          "translit": "qarvob",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7138"
+        },
+        {
+          "id": "ruth-2-20-18",
+          "surface": "לָ֨נוּ֙",
+          "lemma": "לָ֨נוּ֙",
+          "translit": "lanv",
+          "morph": "Preposition + Suffix plural 1st common",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-20-19",
+          "surface": "הָאִ֔ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "ha'iysh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "ruth-2-20-20",
+          "surface": "מִֽגֹּאֲלֵ֖נוּ",
+          "lemma": "גָּאַל",
+          "translit": "migo'lenv",
+          "morph": "Preposition + Verb Qal Passive Participle + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H1350"
+        },
+        {
+          "id": "ruth-2-20-21",
+          "surface": "הֽוּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:21",
+      "englishText": "  Ruth the Moabitess said, “Yes, he said to me, ‘You shall stay close to my young men, until they have ended all my harvest.’”  ",
+      "tokens": [
+        {
+          "id": "ruth-2-21-0",
+          "surface": "וַתֹּ֖אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-21-1",
+          "surface": "ר֣וּת",
+          "lemma": "רוּת",
+          "translit": "rvt",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7327"
+        },
+        {
+          "id": "ruth-2-21-2",
+          "surface": "הַמּוֹאֲבִיָּ֑ה",
+          "lemma": "מוֹאָבִי",
+          "translit": "hamvo'biyah",
+          "morph": "Particle dual + Noun gentilic feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4125"
+        },
+        {
+          "id": "ruth-2-21-3",
+          "surface": "גַּ֣ם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "ruth-2-21-4",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ruth-2-21-5",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-21-6",
+          "surface": "אֵלַ֗י",
+          "lemma": "אֵל",
+          "translit": "'elay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ruth-2-21-7",
+          "surface": "עִם",
+          "lemma": "עִם",
+          "translit": "`im",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "ruth-2-21-8",
+          "surface": "הַנְּעָרִ֤ים",
+          "lemma": "נַעַר",
+          "translit": "hane`ariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "ruth-2-21-9",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-21-10",
+          "surface": "לִי֙",
+          "lemma": "לִי֙",
+          "translit": "liy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-21-11",
+          "surface": "תִּדְבָּקִ֔ין",
+          "lemma": "דָּבַק",
+          "translit": "tidebaqiyn",
+          "morph": "Verb Qal Imperative 2nd feminine singular + Suffix",
+          "glosses": [],
+          "strongs": "H1692"
+        },
+        {
+          "id": "ruth-2-21-12",
+          "surface": "עַ֣ד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "ruth-2-21-13",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "ruth-2-21-14",
+          "surface": "כִּלּ֔וּ",
+          "lemma": "כָּלָה",
+          "translit": "kilv",
+          "morph": "Verb Piel Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H3615"
+        },
+        {
+          "id": "ruth-2-21-15",
+          "surface": "אֵ֥ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ruth-2-21-16",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ruth-2-21-17",
+          "surface": "הַקָּצִ֖יר",
+          "lemma": "קָצִיר",
+          "translit": "haqatsiyr",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7105"
+        },
+        {
+          "id": "ruth-2-21-18",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ruth-2-21-19",
+          "surface": "לִֽי",
+          "lemma": "לִֽי",
+          "translit": "liy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:22",
+      "englishText": "  Naomi said to Ruth her daughter-in-law, “It is good, my daughter, that you go out with his maidens, and that they not meet you in any other field.”",
+      "tokens": [
+        {
+          "id": "ruth-2-22-0",
+          "surface": "וַתֹּ֥אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "ruth-2-22-1",
+          "surface": "נָעֳמִ֖י",
+          "lemma": "נׇעֳמִי",
+          "translit": "na`miy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5281"
+        },
+        {
+          "id": "ruth-2-22-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "ruth-2-22-3",
+          "surface": "ר֣וּת",
+          "lemma": "רוּת",
+          "translit": "rvt",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7327"
+        },
+        {
+          "id": "ruth-2-22-4",
+          "surface": "כַּלָּתָ֑הּ",
+          "lemma": "כַּלָּה",
+          "translit": "kalatah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3618"
+        },
+        {
+          "id": "ruth-2-22-5",
+          "surface": "ט֣וֹב",
+          "lemma": "טוֹב",
+          "translit": "tvob",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2896"
+        },
+        {
+          "id": "ruth-2-22-6",
+          "surface": "בִּתִּ֗י",
+          "lemma": "בַּת",
+          "translit": "bitiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "ruth-2-22-7",
+          "surface": "כִּ֤י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ruth-2-22-8",
+          "surface": "תֵֽצְאִי֙",
+          "lemma": "יָצָא",
+          "translit": "tetse'iy",
+          "morph": "Verb Qal Imperative 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "ruth-2-22-9",
+          "surface": "עִם",
+          "lemma": "עִם",
+          "translit": "`im",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "ruth-2-22-10",
+          "surface": "נַ֣עֲרוֹתָ֔יו",
+          "lemma": "נַעֲרָה",
+          "translit": "na`rvotayv",
+          "morph": "Noun common feminine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5291"
+        },
+        {
+          "id": "ruth-2-22-11",
+          "surface": "וְלֹ֥א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ruth-2-22-12",
+          "surface": "יִפְגְּעוּ",
+          "lemma": "פָּגַע",
+          "translit": "yipege`v",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H6293"
+        },
+        {
+          "id": "ruth-2-22-13",
+          "surface": "בָ֖ךְ",
+          "lemma": "בָ֖ךְ",
+          "translit": "bake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "ruth-2-22-14",
+          "surface": "בְּשָׂדֶ֥ה",
+          "lemma": "שָׂדֶה",
+          "translit": "beshadeh",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "ruth-2-22-15",
+          "surface": "אַחֵֽר",
+          "lemma": "אַחֵר",
+          "translit": "'acher",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H312"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ruth 2:23",
+      "englishText": "So she stayed close to the maidens of Boaz, to glean to the end of barley harvest and of wheat harvest; and she lived with her mother-in-law.   ",
+      "tokens": [
+        {
+          "id": "ruth-2-23-0",
+          "surface": "וַתִּדְבַּ֞ק",
+          "lemma": "דָּבַק",
+          "translit": "vatidebaq",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1692"
+        },
+        {
+          "id": "ruth-2-23-1",
+          "surface": "בְּנַעֲר֥וֹת",
+          "lemma": "נַעֲרָה",
+          "translit": "bena`rvot",
+          "morph": "Preposition + Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H5291"
+        },
+        {
+          "id": "ruth-2-23-2",
+          "surface": "בֹּ֨עַז֙",
+          "lemma": "בֹּעַז",
+          "translit": "bo`az",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1162"
+        },
+        {
+          "id": "ruth-2-23-3",
+          "surface": "לְלַקֵּ֔ט",
+          "lemma": "לָקַט",
+          "translit": "lelaqet",
+          "morph": "Preposition + Verb Piel Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3950"
+        },
+        {
+          "id": "ruth-2-23-4",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "ruth-2-23-5",
+          "surface": "כְּל֥וֹת",
+          "lemma": "כָּלָה",
+          "translit": "kelvot",
+          "morph": "Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3615"
+        },
+        {
+          "id": "ruth-2-23-6",
+          "surface": "קְצִֽיר",
+          "lemma": "קָצִיר",
+          "translit": "qetsiyr",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7105"
+        },
+        {
+          "id": "ruth-2-23-7",
+          "surface": "הַשְּׂעֹרִ֖ים",
+          "lemma": "שְׂעֹרָה",
+          "translit": "hashe`oriym",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H8184"
+        },
+        {
+          "id": "ruth-2-23-8",
+          "surface": "וּקְצִ֣יר",
+          "lemma": "קָצִיר",
+          "translit": "vqetsiyr",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7105"
+        },
+        {
+          "id": "ruth-2-23-9",
+          "surface": "הַֽחִטִּ֑ים",
+          "lemma": "חִטָּה",
+          "translit": "hachitiym",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H2406"
+        },
+        {
+          "id": "ruth-2-23-10",
+          "surface": "וַתֵּ֖שֶׁב",
+          "lemma": "יָשַׁב",
+          "translit": "vatesheb",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "ruth-2-23-11",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "ruth-2-23-12",
+          "surface": "חֲמוֹתָֽהּ",
+          "lemma": "חֲמוֹת",
+          "translit": "chmvotah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2545"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

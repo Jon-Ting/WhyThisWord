@@ -1,1 +1,1365 @@
-{"id":"ecclesiastes-11","name":"Ecclesiastes","chapter":11,"verses":[{"ref":"Ecclesiastes 11:1","englishText":"Cast your bread on the waters;  for you shall find it after many days. ","tokens":[{"id":"ecclesiastes-11-1-0","surface":"שַׁלַּ֥ח","lemma":"שָׁלַח","translit":"shalach","morph":"Verb Piel Weqatal 2nd masculine singular","glosses":[],"strongs":"H7971"},{"id":"ecclesiastes-11-1-1","surface":"לַחְמְךָ֖","lemma":"לֶחֶם","translit":"lachemeka","morph":"Noun common singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3899"},{"id":"ecclesiastes-11-1-2","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ecclesiastes-11-1-3","surface":"פְּנֵ֣י","lemma":"פָּנִים","translit":"peney","morph":"Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"ecclesiastes-11-1-4","surface":"הַמָּ֑יִם","lemma":"מַיִם","translit":"hamayim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H4325"},{"id":"ecclesiastes-11-1-5","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ecclesiastes-11-1-6","surface":"בְרֹ֥ב","lemma":"רֹב","translit":"berob","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7230"},{"id":"ecclesiastes-11-1-7","surface":"הַיָּמִ֖ים","lemma":"יוֹם","translit":"hayamiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3117"},{"id":"ecclesiastes-11-1-8","surface":"תִּמְצָאֶֽנּוּ","lemma":"מָצָא","translit":"timetsa'env","morph":"Verb Qal Imperative 2nd masculine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H4672"}],"language":"hebrew"},{"ref":"Ecclesiastes 11:2","englishText":"Give a portion to seven, yes, even to eight; for you don’t know what evil will be on the earth. ","tokens":[{"id":"ecclesiastes-11-2-0","surface":"תֶּן","lemma":"נָתַן","translit":"ten","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"ecclesiastes-11-2-1","surface":"חֵ֥לֶק","lemma":"חֵלֶק","translit":"cheleq","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2506"},{"id":"ecclesiastes-11-2-2","surface":"לְשִׁבְעָ֖ה","lemma":"שֶׁבַע","translit":"leshibe`ah","morph":"Preposition + Adjective common masculine singular absolute","glosses":[],"strongs":"H7651"},{"id":"ecclesiastes-11-2-3","surface":"וְגַ֣ם","lemma":"גַּם","translit":"vegam","morph":"Conjunction + Particle absolute","glosses":[],"strongs":"H1571"},{"id":"ecclesiastes-11-2-4","surface":"לִשְׁמוֹנָ֑ה","lemma":"שְׁמֹנֶה","translit":"lishemvonah","morph":"Preposition + Adjective common masculine singular absolute","glosses":[],"strongs":"H8083"},{"id":"ecclesiastes-11-2-5","surface":"כִּ֚י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ecclesiastes-11-2-6","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"ecclesiastes-11-2-7","surface":"תֵדַ֔ע","lemma":"יָדַע","translit":"teda`","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H3045"},{"id":"ecclesiastes-11-2-8","surface":"מַה","lemma":"מָה","translit":"mah","morph":"Particle","glosses":[],"strongs":"H4100"},{"id":"ecclesiastes-11-2-9","surface":"יִּהְיֶ֥ה","lemma":"הָיָה","translit":"yiheyeh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"ecclesiastes-11-2-10","surface":"רָעָ֖ה","lemma":"רַע","translit":"ra`ah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7451"},{"id":"ecclesiastes-11-2-11","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ecclesiastes-11-2-12","surface":"הָאָֽרֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Ecclesiastes 11:3","englishText":"If the clouds are full of rain, they empty themselves on the earth; and if a tree falls toward the south, or toward the north, in the place where the tree falls, there shall it be. ","tokens":[{"id":"ecclesiastes-11-3-0","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"ecclesiastes-11-3-1","surface":"יִמָּלְא֨וּ","lemma":"מָלֵא","translit":"yimale'v","morph":"Verb Niphal Imperative 3rd masculine plural","glosses":[],"strongs":"H4390"},{"id":"ecclesiastes-11-3-2","surface":"הֶעָבִ֥ים","lemma":"עָב","translit":"he`abiym","morph":"Particle dual + Noun common plural absolute","glosses":[],"strongs":"H5645"},{"id":"ecclesiastes-11-3-3","surface":"גֶּ֨שֶׁם֙","lemma":"גֶּשֶׁם","translit":"geshem","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1653"},{"id":"ecclesiastes-11-3-4","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ecclesiastes-11-3-5","surface":"הָאָ֣רֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"ecclesiastes-11-3-6","surface":"יָרִ֔יקוּ","lemma":"רוּק","translit":"yariyqv","morph":"Verb Hiphil Imperative 3rd masculine plural","glosses":[],"strongs":"H7324"},{"id":"ecclesiastes-11-3-7","surface":"וְאִם","lemma":"אִם","translit":"ve'im","morph":"Conjunction + Conjunction","glosses":[],"strongs":"H518"},{"id":"ecclesiastes-11-3-8","surface":"יִפּ֥וֹל","lemma":"נָפַל","translit":"yipvol","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5307"},{"id":"ecclesiastes-11-3-9","surface":"עֵ֛ץ","lemma":"עֵץ","translit":"`ets","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H6086"},{"id":"ecclesiastes-11-3-10","surface":"בַּדָּר֖וֹם","lemma":"דָּרוֹם","translit":"badarvom","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1864"},{"id":"ecclesiastes-11-3-11","surface":"וְאִ֣ם","lemma":"אִם","translit":"ve'im","morph":"Conjunction + Conjunction","glosses":[],"strongs":"H518"},{"id":"ecclesiastes-11-3-12","surface":"בַּצָּפ֑וֹן","lemma":"צָפוֹן","translit":"batsapvon","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H6828"},{"id":"ecclesiastes-11-3-13","surface":"מְק֛וֹם","lemma":"מָקוֹם","translit":"meqvom","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4725"},{"id":"ecclesiastes-11-3-14","surface":"שֶׁיִּפּ֥וֹל","lemma":"נָפַל","translit":"sheyipvol","morph":"Particle + Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5307"},{"id":"ecclesiastes-11-3-15","surface":"הָעֵ֖ץ","lemma":"עֵץ","translit":"ha`ets","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H6086"},{"id":"ecclesiastes-11-3-16","surface":"שָׁ֥ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"ecclesiastes-11-3-17","surface":"יְהֽוּא","lemma":"הָוָא","translit":"yehv'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1933"}],"language":"hebrew"},{"ref":"Ecclesiastes 11:4","englishText":"He who observes the wind won’t sow; and he who regards the clouds won’t reap. ","tokens":[{"id":"ecclesiastes-11-4-0","surface":"שֹׁמֵ֥ר","lemma":"שָׁמַר","translit":"shomer","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H8104"},{"id":"ecclesiastes-11-4-1","surface":"ר֖וּחַ","lemma":"רוּחַ","translit":"rvcha","morph":"Noun common singular absolute","glosses":[],"strongs":"H7307"},{"id":"ecclesiastes-11-4-2","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"ecclesiastes-11-4-3","surface":"יִזְרָ֑ע","lemma":"זָרַע","translit":"yizera`","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H2232"},{"id":"ecclesiastes-11-4-4","surface":"וְרֹאֶ֥ה","lemma":"רָאָה","translit":"vero'eh","morph":"Conjunction + Verb Qal Passive Participle","glosses":[],"strongs":"H7200"},{"id":"ecclesiastes-11-4-5","surface":"בֶעָבִ֖ים","lemma":"עָב","translit":"be`abiym","morph":"Preposition dual + Noun common plural absolute","glosses":[],"strongs":"H5645"},{"id":"ecclesiastes-11-4-6","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"ecclesiastes-11-4-7","surface":"יִקְצֽוֹר","lemma":"קָצַר","translit":"yiqetsvor","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7114"}],"language":"hebrew"},{"ref":"Ecclesiastes 11:5","englishText":"As you don’t know what is the way of the wind, nor how the bones grow in the womb of her who is with child; even so you don’t know the work of God who does all. ","tokens":[{"id":"ecclesiastes-11-5-0","surface":"כַּאֲשֶׁ֨ר","lemma":"אֲשֶׁר","translit":"ka'sher","morph":"Preposition + Particle","glosses":[],"strongs":"H834"},{"id":"ecclesiastes-11-5-1","surface":"אֵֽינְךָ֤","lemma":"אַיִן","translit":"'eyneka","morph":"Particle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H369"},{"id":"ecclesiastes-11-5-2","surface":"יוֹדֵ֨עַ֙","lemma":"יָדַע","translit":"yvode`a","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3045"},{"id":"ecclesiastes-11-5-3","surface":"מַה","lemma":"מָה","translit":"mah","morph":"Particle","glosses":[],"strongs":"H4100"},{"id":"ecclesiastes-11-5-4","surface":"דֶּ֣רֶךְ","lemma":"דֶּרֶךְ","translit":"dereke","morph":"Noun common singular construct","glosses":[],"strongs":"H1870"},{"id":"ecclesiastes-11-5-5","surface":"הָר֔וּחַ","lemma":"רוּחַ","translit":"harvcha","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H7307"},{"id":"ecclesiastes-11-5-6","surface":"כַּעֲצָמִ֖ים","lemma":"עֶצֶם","translit":"ka`tsamiym","morph":"Preposition + Noun common feminine plural absolute","glosses":[],"strongs":"H6106"},{"id":"ecclesiastes-11-5-7","surface":"בְּבֶ֣טֶן","lemma":"בֶּטֶן","translit":"bebeten","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H990"},{"id":"ecclesiastes-11-5-8","surface":"הַמְּלֵאָ֑ה","lemma":"מָלֵא","translit":"hamele'ah","morph":"Particle dual + Adjective","glosses":[],"strongs":"H4392"},{"id":"ecclesiastes-11-5-9","surface":"כָּ֗כָה","lemma":"כָּכָה","translit":"kakah","morph":"Adverb","glosses":[],"strongs":"H3602"},{"id":"ecclesiastes-11-5-10","surface":"לֹ֤א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"ecclesiastes-11-5-11","surface":"תֵדַע֙","lemma":"יָדַע","translit":"teda`","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H3045"},{"id":"ecclesiastes-11-5-12","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ecclesiastes-11-5-13","surface":"מַעֲשֵׂ֣ה","lemma":"מַעֲשֶׂה","translit":"ma`sheh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4639"},{"id":"ecclesiastes-11-5-14","surface":"הָֽאֱלֹהִ֔ים","lemma":"אֱלֹהִים","translit":"ha'lohiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"ecclesiastes-11-5-15","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"ecclesiastes-11-5-16","surface":"יַעֲשֶׂ֖ה","lemma":"עָשָׂה","translit":"ya`sheh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H6213"},{"id":"ecclesiastes-11-5-17","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ecclesiastes-11-5-18","surface":"הַכֹּֽל","lemma":"כֹּל","translit":"hakol","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3605"}],"language":"hebrew"},{"ref":"Ecclesiastes 11:6","englishText":"In the morning sow your seed, and in the evening don’t withhold your hand; for you don’t know which will prosper, whether this or that, or whether they both will be equally good. ","tokens":[{"id":"ecclesiastes-11-6-0","surface":"בַּבֹּ֨קֶר֙","lemma":"בֹּקֶר","translit":"baboqer","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1242"},{"id":"ecclesiastes-11-6-1","surface":"זְרַ֣ע","lemma":"זָרַע","translit":"zera`","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H2232"},{"id":"ecclesiastes-11-6-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ecclesiastes-11-6-3","surface":"זַרְעֶ֔ךָ","lemma":"זֶרַע","translit":"zare`eka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2233"},{"id":"ecclesiastes-11-6-4","surface":"וְלָעֶ֖רֶב","lemma":"עֶרֶב","translit":"vela`ereb","morph":"Conjunction + Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H6153"},{"id":"ecclesiastes-11-6-5","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"ecclesiastes-11-6-6","surface":"תַּנַּ֣ח","lemma":"יָנַח","translit":"tanach","morph":"Verb Hiphil Jussive 2nd masculine singular","glosses":[],"strongs":"H3240"},{"id":"ecclesiastes-11-6-7","surface":"יָדֶ֑ךָ","lemma":"יָד","translit":"yadeka","morph":"Noun common singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3027"},{"id":"ecclesiastes-11-6-8","surface":"כִּי֩","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ecclesiastes-11-6-9","surface":"אֵֽינְךָ֨","lemma":"אַיִן","translit":"'eyneka","morph":"Particle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H369"},{"id":"ecclesiastes-11-6-10","surface":"יוֹדֵ֜ע","lemma":"יָדַע","translit":"yvode`","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3045"},{"id":"ecclesiastes-11-6-11","surface":"אֵ֣י","lemma":"אַי","translit":"'ey","morph":"Particle","glosses":[],"strongs":"H335"},{"id":"ecclesiastes-11-6-12","surface":"זֶ֤ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"ecclesiastes-11-6-13","surface":"יִכְשָׁר֙","lemma":"כָּשֵׁר","translit":"yikeshar","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H3787"},{"id":"ecclesiastes-11-6-14","surface":"הֲזֶ֣ה","lemma":"זֶה","translit":"hzeh","morph":"Particle + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"ecclesiastes-11-6-15","surface":"אוֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"ecclesiastes-11-6-16","surface":"זֶ֔ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"ecclesiastes-11-6-17","surface":"וְאִם","lemma":"אִם","translit":"ve'im","morph":"Conjunction + Conjunction","glosses":[],"strongs":"H518"},{"id":"ecclesiastes-11-6-18","surface":"שְׁנֵיהֶ֥ם","lemma":"שְׁנַיִם","translit":"sheneyhem","morph":"Adjective common masculine dual construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H8147"},{"id":"ecclesiastes-11-6-19","surface":"כְּאֶחָ֖ד","lemma":"אֶחָד","translit":"ke'echad","morph":"Preposition + Adjective common masculine singular absolute","glosses":[],"strongs":"H259"},{"id":"ecclesiastes-11-6-20","surface":"טוֹבִֽים","lemma":"טוֹב","translit":"tvobiym","morph":"Adjective","glosses":[],"strongs":"H2896"}],"language":"hebrew"},{"ref":"Ecclesiastes 11:7","englishText":"Truly the light is sweet, and a pleasant thing it is for the eyes to see the sun. ","tokens":[{"id":"ecclesiastes-11-7-0","surface":"וּמָת֖וֹק","lemma":"מָתוֹק","translit":"vmatvoq","morph":"Conjunction + Adjective","glosses":[],"strongs":"H4966"},{"id":"ecclesiastes-11-7-1","surface":"הָא֑וֹר","lemma":"אוֹר","translit":"ha'vor","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H216"},{"id":"ecclesiastes-11-7-2","surface":"וְט֥וֹב","lemma":"טוֹב","translit":"vetvob","morph":"Conjunction + Adjective","glosses":[],"strongs":"H2896"},{"id":"ecclesiastes-11-7-3","surface":"לַֽעֵינַ֖יִם","lemma":"עַיִן","translit":"la`eynayim","morph":"Preposition dual + Noun common dual absolute","glosses":[],"strongs":"H5869"},{"id":"ecclesiastes-11-7-4","surface":"לִרְא֥וֹת","lemma":"רָאָה","translit":"lire'vot","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H7200"},{"id":"ecclesiastes-11-7-5","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ecclesiastes-11-7-6","surface":"הַשָּֽׁמֶשׁ","lemma":"שֶׁמֶשׁ","translit":"hashamesh","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H8121"}],"language":"hebrew"},{"ref":"Ecclesiastes 11:8","englishText":"Yes, if a man lives many years, let him rejoice in them all; but let him remember the days of darkness, for they shall be many. All that comes is vanity. ","tokens":[{"id":"ecclesiastes-11-8-0","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ecclesiastes-11-8-1","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"ecclesiastes-11-8-2","surface":"שָׁנִ֥ים","lemma":"שָׁנֶה","translit":"shaniym","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H8141"},{"id":"ecclesiastes-11-8-3","surface":"הַרְבֵּ֛ה","lemma":"רָבָה","translit":"harebeh","morph":"Verb Hiphil Infinitive Absolute","glosses":[],"strongs":"H7235"},{"id":"ecclesiastes-11-8-4","surface":"יִחְיֶ֥ה","lemma":"חָיָה","translit":"yicheyeh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H2421"},{"id":"ecclesiastes-11-8-5","surface":"הָאָדָ֖ם","lemma":"אָדָם","translit":"ha'adam","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H120"},{"id":"ecclesiastes-11-8-6","surface":"בְּכֻלָּ֣ם","lemma":"כֹּל","translit":"bekulam","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H3605"},{"id":"ecclesiastes-11-8-7","surface":"יִשְׂמָ֑ח","lemma":"שָׂמַח","translit":"yishemach","morph":"Verb Qal Jussive 3rd masculine singular","glosses":[],"strongs":"H8055"},{"id":"ecclesiastes-11-8-8","surface":"וְיִזְכֹּר֙","lemma":"זָכַר","translit":"veyizekor","morph":"Conjunction + Verb Qal Jussive 3rd masculine singular","glosses":[],"strongs":"H2142"},{"id":"ecclesiastes-11-8-9","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"ecclesiastes-11-8-10","surface":"יְמֵ֣י","lemma":"יוֹם","translit":"yemey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H3117"},{"id":"ecclesiastes-11-8-11","surface":"הַחֹ֔שֶׁךְ","lemma":"חֹשֶׁךְ","translit":"hachosheke","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2822"},{"id":"ecclesiastes-11-8-12","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ecclesiastes-11-8-13","surface":"הַרְבֵּ֥ה","lemma":"רָבָה","translit":"harebeh","morph":"Verb Hiphil Infinitive Absolute","glosses":[],"strongs":"H7235"},{"id":"ecclesiastes-11-8-14","surface":"יִהְי֖וּ","lemma":"הָיָה","translit":"yiheyv","morph":"Verb Qal Imperative 3rd masculine plural","glosses":[],"strongs":"H1961"},{"id":"ecclesiastes-11-8-15","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3605"},{"id":"ecclesiastes-11-8-16","surface":"שֶׁבָּ֥א","lemma":"בּוֹא","translit":"sheba'","morph":"Particle + Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"ecclesiastes-11-8-17","surface":"הָֽבֶל","lemma":"הֶבֶל","translit":"habel","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1892"}],"language":"hebrew"},{"ref":"Ecclesiastes 11:9","englishText":"Rejoice, young man, in your youth, and let your heart cheer you in the days of your youth, and walk in the ways of your heart, and in the sight of your eyes; but know that for all these things God will bring you into judgment. ","tokens":[{"id":"ecclesiastes-11-9-0","surface":"שְׂמַ֧ח","lemma":"שָׂמַח","translit":"shemach","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H8055"},{"id":"ecclesiastes-11-9-1","surface":"בָּח֣וּר","lemma":"בָּחוּר","translit":"bachvr","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H970"},{"id":"ecclesiastes-11-9-2","surface":"בְּיַלְדוּתֶ֗יךָ","lemma":"יַלְדוּת","translit":"beyaledvteyka","morph":"Preposition + Noun common feminine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3208"},{"id":"ecclesiastes-11-9-3","surface":"וִֽיטִֽיבְךָ֤","lemma":"יָטַב","translit":"viytiybeka","morph":"Conjunction + Verb Hiphil Jussive 3rd masculine singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3190"},{"id":"ecclesiastes-11-9-4","surface":"לִבְּךָ֙","lemma":"לֵב","translit":"libeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3820"},{"id":"ecclesiastes-11-9-5","surface":"בִּימֵ֣י","lemma":"יוֹם","translit":"biymey","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H3117"},{"id":"ecclesiastes-11-9-6","surface":"בְחוּרוֹתֶ֔ךָ","lemma":"בְּחֻרוֹת","translit":"bechvrvoteka","morph":"Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H979"},{"id":"ecclesiastes-11-9-7","surface":"וְהַלֵּךְ֙","lemma":"הָלַךְ","translit":"vehaleke","morph":"Conjunction + Verb Piel Weqatal 2nd masculine singular","glosses":[],"strongs":"H1980"},{"id":"ecclesiastes-11-9-8","surface":"בְּדַרְכֵ֣י","lemma":"דֶּרֶךְ","translit":"bedarekey","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H1870"},{"id":"ecclesiastes-11-9-9","surface":"לִבְּךָ֔","lemma":"לֵב","translit":"libeka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3820"},{"id":"ecclesiastes-11-9-10","surface":"וּבְמַרְאֵ֖י","lemma":"מַרְאֶה","translit":"vbemare'ey","morph":"Conjunction + Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H4758"},{"id":"ecclesiastes-11-9-11","surface":"עֵינֶ֑יךָ","lemma":"עַיִן","translit":"`eyneyka","morph":"Noun common dual construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5869"},{"id":"ecclesiastes-11-9-12","surface":"וְדָ֕ע","lemma":"יָדַע","translit":"veda`","morph":"Conjunction + Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H3045"},{"id":"ecclesiastes-11-9-13","surface":"כִּ֧י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ecclesiastes-11-9-14","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"ecclesiastes-11-9-15","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"ecclesiastes-11-9-16","surface":"אֵ֛לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"ecclesiastes-11-9-17","surface":"יְבִֽיאֲךָ֥","lemma":"בּוֹא","translit":"yebiy'ka","morph":"Verb Hiphil Imperative 3rd masculine singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H935"},{"id":"ecclesiastes-11-9-18","surface":"הָאֱלֹהִ֖ים","lemma":"אֱלֹהִים","translit":"ha'lohiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"ecclesiastes-11-9-19","surface":"בַּמִּשְׁפָּֽט","lemma":"מִשְׁפָּט","translit":"bamishepat","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4941"}],"language":"hebrew"},{"ref":"Ecclesiastes 11:10","englishText":"Therefore remove sorrow from your heart, and put away evil from your flesh; for youth and the dawn of life are vanity.    ","tokens":[{"id":"ecclesiastes-11-10-0","surface":"וְהָסֵ֥ר","lemma":"סוּר","translit":"vehaser","morph":"Conjunction + Verb Hiphil Weqatal 2nd masculine singular","glosses":[],"strongs":"H5493"},{"id":"ecclesiastes-11-10-1","surface":"כַּ֨עַס֙","lemma":"כַּעַס","translit":"ka`as","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3708"},{"id":"ecclesiastes-11-10-2","surface":"מִלִּבֶּ֔ךָ","lemma":"לֵב","translit":"milibeka","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3820"},{"id":"ecclesiastes-11-10-3","surface":"וְהַעֲבֵ֥ר","lemma":"עָבַר","translit":"veha`ber","morph":"Conjunction + Verb Hiphil Weqatal 2nd masculine singular","glosses":[],"strongs":"H5674"},{"id":"ecclesiastes-11-10-4","surface":"רָעָ֖ה","lemma":"רַע","translit":"ra`ah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7451"},{"id":"ecclesiastes-11-10-5","surface":"מִבְּשָׂרֶ֑ךָ","lemma":"בָּשָׂר","translit":"mibeshareka","morph":"Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1320"},{"id":"ecclesiastes-11-10-6","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"ecclesiastes-11-10-7","surface":"הַיַּלְד֥וּת","lemma":"יַלְדוּת","translit":"hayaledvt","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H3208"},{"id":"ecclesiastes-11-10-8","surface":"וְהַֽשַּׁחֲר֖וּת","lemma":"שַׁחֲרוּת","translit":"vehashachrvt","morph":"Conjunction + Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H7839"},{"id":"ecclesiastes-11-10-9","surface":"הָֽבֶל","lemma":"הֶבֶל","translit":"habel","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1892"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "ecclesiastes-11",
+  "name": "Ecclesiastes",
+  "chapter": 11,
+  "verses": [
+    {
+      "ref": "Ecclesiastes 11:1",
+      "englishText": "Cast your bread on the waters;  for you shall find it after many days. ",
+      "tokens": [
+        {
+          "id": "ecclesiastes-11-1-0",
+          "surface": "שַׁלַּ֥ח",
+          "lemma": "שָׁלַח",
+          "translit": "shalach",
+          "morph": "Verb Piel Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "ecclesiastes-11-1-1",
+          "surface": "לַחְמְךָ֖",
+          "lemma": "לֶחֶם",
+          "translit": "lachemeka",
+          "morph": "Noun common singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3899"
+        },
+        {
+          "id": "ecclesiastes-11-1-2",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ecclesiastes-11-1-3",
+          "surface": "פְּנֵ֣י",
+          "lemma": "פָּנִים",
+          "translit": "peney",
+          "morph": "Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "ecclesiastes-11-1-4",
+          "surface": "הַמָּ֑יִם",
+          "lemma": "מַיִם",
+          "translit": "hamayim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4325"
+        },
+        {
+          "id": "ecclesiastes-11-1-5",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ecclesiastes-11-1-6",
+          "surface": "בְרֹ֥ב",
+          "lemma": "רֹב",
+          "translit": "berob",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7230"
+        },
+        {
+          "id": "ecclesiastes-11-1-7",
+          "surface": "הַיָּמִ֖ים",
+          "lemma": "יוֹם",
+          "translit": "hayamiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "ecclesiastes-11-1-8",
+          "surface": "תִּמְצָאֶֽנּוּ",
+          "lemma": "מָצָא",
+          "translit": "timetsa'env",
+          "morph": "Verb Qal Imperative 2nd masculine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4672"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ecclesiastes 11:2",
+      "englishText": "Give a portion to seven, yes, even to eight; for you don’t know what evil will be on the earth. ",
+      "tokens": [
+        {
+          "id": "ecclesiastes-11-2-0",
+          "surface": "תֶּן",
+          "lemma": "נָתַן",
+          "translit": "ten",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "ecclesiastes-11-2-1",
+          "surface": "חֵ֥לֶק",
+          "lemma": "חֵלֶק",
+          "translit": "cheleq",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2506"
+        },
+        {
+          "id": "ecclesiastes-11-2-2",
+          "surface": "לְשִׁבְעָ֖ה",
+          "lemma": "שֶׁבַע",
+          "translit": "leshibe`ah",
+          "morph": "Preposition + Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7651"
+        },
+        {
+          "id": "ecclesiastes-11-2-3",
+          "surface": "וְגַ֣ם",
+          "lemma": "גַּם",
+          "translit": "vegam",
+          "morph": "Conjunction + Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "ecclesiastes-11-2-4",
+          "surface": "לִשְׁמוֹנָ֑ה",
+          "lemma": "שְׁמֹנֶה",
+          "translit": "lishemvonah",
+          "morph": "Preposition + Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8083"
+        },
+        {
+          "id": "ecclesiastes-11-2-5",
+          "surface": "כִּ֚י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ecclesiastes-11-2-6",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ecclesiastes-11-2-7",
+          "surface": "תֵדַ֔ע",
+          "lemma": "יָדַע",
+          "translit": "teda`",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ecclesiastes-11-2-8",
+          "surface": "מַה",
+          "lemma": "מָה",
+          "translit": "mah",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "ecclesiastes-11-2-9",
+          "surface": "יִּהְיֶ֥ה",
+          "lemma": "הָיָה",
+          "translit": "yiheyeh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ecclesiastes-11-2-10",
+          "surface": "רָעָ֖ה",
+          "lemma": "רַע",
+          "translit": "ra`ah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7451"
+        },
+        {
+          "id": "ecclesiastes-11-2-11",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ecclesiastes-11-2-12",
+          "surface": "הָאָֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ecclesiastes 11:3",
+      "englishText": "If the clouds are full of rain, they empty themselves on the earth; and if a tree falls toward the south, or toward the north, in the place where the tree falls, there shall it be. ",
+      "tokens": [
+        {
+          "id": "ecclesiastes-11-3-0",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "ecclesiastes-11-3-1",
+          "surface": "יִמָּלְא֨וּ",
+          "lemma": "מָלֵא",
+          "translit": "yimale'v",
+          "morph": "Verb Niphal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H4390"
+        },
+        {
+          "id": "ecclesiastes-11-3-2",
+          "surface": "הֶעָבִ֥ים",
+          "lemma": "עָב",
+          "translit": "he`abiym",
+          "morph": "Particle dual + Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H5645"
+        },
+        {
+          "id": "ecclesiastes-11-3-3",
+          "surface": "גֶּ֨שֶׁם֙",
+          "lemma": "גֶּשֶׁם",
+          "translit": "geshem",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1653"
+        },
+        {
+          "id": "ecclesiastes-11-3-4",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ecclesiastes-11-3-5",
+          "surface": "הָאָ֣רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "ecclesiastes-11-3-6",
+          "surface": "יָרִ֔יקוּ",
+          "lemma": "רוּק",
+          "translit": "yariyqv",
+          "morph": "Verb Hiphil Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7324"
+        },
+        {
+          "id": "ecclesiastes-11-3-7",
+          "surface": "וְאִם",
+          "lemma": "אִם",
+          "translit": "ve'im",
+          "morph": "Conjunction + Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "ecclesiastes-11-3-8",
+          "surface": "יִפּ֥וֹל",
+          "lemma": "נָפַל",
+          "translit": "yipvol",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "ecclesiastes-11-3-9",
+          "surface": "עֵ֛ץ",
+          "lemma": "עֵץ",
+          "translit": "`ets",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6086"
+        },
+        {
+          "id": "ecclesiastes-11-3-10",
+          "surface": "בַּדָּר֖וֹם",
+          "lemma": "דָּרוֹם",
+          "translit": "badarvom",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1864"
+        },
+        {
+          "id": "ecclesiastes-11-3-11",
+          "surface": "וְאִ֣ם",
+          "lemma": "אִם",
+          "translit": "ve'im",
+          "morph": "Conjunction + Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "ecclesiastes-11-3-12",
+          "surface": "בַּצָּפ֑וֹן",
+          "lemma": "צָפוֹן",
+          "translit": "batsapvon",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H6828"
+        },
+        {
+          "id": "ecclesiastes-11-3-13",
+          "surface": "מְק֛וֹם",
+          "lemma": "מָקוֹם",
+          "translit": "meqvom",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4725"
+        },
+        {
+          "id": "ecclesiastes-11-3-14",
+          "surface": "שֶׁיִּפּ֥וֹל",
+          "lemma": "נָפַל",
+          "translit": "sheyipvol",
+          "morph": "Particle + Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "ecclesiastes-11-3-15",
+          "surface": "הָעֵ֖ץ",
+          "lemma": "עֵץ",
+          "translit": "ha`ets",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6086"
+        },
+        {
+          "id": "ecclesiastes-11-3-16",
+          "surface": "שָׁ֥ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "ecclesiastes-11-3-17",
+          "surface": "יְהֽוּא",
+          "lemma": "הָוָא",
+          "translit": "yehv'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1933"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ecclesiastes 11:4",
+      "englishText": "He who observes the wind won’t sow; and he who regards the clouds won’t reap. ",
+      "tokens": [
+        {
+          "id": "ecclesiastes-11-4-0",
+          "surface": "שֹׁמֵ֥ר",
+          "lemma": "שָׁמַר",
+          "translit": "shomer",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H8104"
+        },
+        {
+          "id": "ecclesiastes-11-4-1",
+          "surface": "ר֖וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "rvcha",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "ecclesiastes-11-4-2",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ecclesiastes-11-4-3",
+          "surface": "יִזְרָ֑ע",
+          "lemma": "זָרַע",
+          "translit": "yizera`",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2232"
+        },
+        {
+          "id": "ecclesiastes-11-4-4",
+          "surface": "וְרֹאֶ֥ה",
+          "lemma": "רָאָה",
+          "translit": "vero'eh",
+          "morph": "Conjunction + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "ecclesiastes-11-4-5",
+          "surface": "בֶעָבִ֖ים",
+          "lemma": "עָב",
+          "translit": "be`abiym",
+          "morph": "Preposition dual + Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H5645"
+        },
+        {
+          "id": "ecclesiastes-11-4-6",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ecclesiastes-11-4-7",
+          "surface": "יִקְצֽוֹר",
+          "lemma": "קָצַר",
+          "translit": "yiqetsvor",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7114"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ecclesiastes 11:5",
+      "englishText": "As you don’t know what is the way of the wind, nor how the bones grow in the womb of her who is with child; even so you don’t know the work of God who does all. ",
+      "tokens": [
+        {
+          "id": "ecclesiastes-11-5-0",
+          "surface": "כַּאֲשֶׁ֨ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "ka'sher",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ecclesiastes-11-5-1",
+          "surface": "אֵֽינְךָ֤",
+          "lemma": "אַיִן",
+          "translit": "'eyneka",
+          "morph": "Particle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "ecclesiastes-11-5-2",
+          "surface": "יוֹדֵ֨עַ֙",
+          "lemma": "יָדַע",
+          "translit": "yvode`a",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ecclesiastes-11-5-3",
+          "surface": "מַה",
+          "lemma": "מָה",
+          "translit": "mah",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "ecclesiastes-11-5-4",
+          "surface": "דֶּ֣רֶךְ",
+          "lemma": "דֶּרֶךְ",
+          "translit": "dereke",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H1870"
+        },
+        {
+          "id": "ecclesiastes-11-5-5",
+          "surface": "הָר֔וּחַ",
+          "lemma": "רוּחַ",
+          "translit": "harvcha",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "ecclesiastes-11-5-6",
+          "surface": "כַּעֲצָמִ֖ים",
+          "lemma": "עֶצֶם",
+          "translit": "ka`tsamiym",
+          "morph": "Preposition + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H6106"
+        },
+        {
+          "id": "ecclesiastes-11-5-7",
+          "surface": "בְּבֶ֣טֶן",
+          "lemma": "בֶּטֶן",
+          "translit": "bebeten",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H990"
+        },
+        {
+          "id": "ecclesiastes-11-5-8",
+          "surface": "הַמְּלֵאָ֑ה",
+          "lemma": "מָלֵא",
+          "translit": "hamele'ah",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H4392"
+        },
+        {
+          "id": "ecclesiastes-11-5-9",
+          "surface": "כָּ֗כָה",
+          "lemma": "כָּכָה",
+          "translit": "kakah",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3602"
+        },
+        {
+          "id": "ecclesiastes-11-5-10",
+          "surface": "לֹ֤א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "ecclesiastes-11-5-11",
+          "surface": "תֵדַע֙",
+          "lemma": "יָדַע",
+          "translit": "teda`",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ecclesiastes-11-5-12",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ecclesiastes-11-5-13",
+          "surface": "מַעֲשֵׂ֣ה",
+          "lemma": "מַעֲשֶׂה",
+          "translit": "ma`sheh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4639"
+        },
+        {
+          "id": "ecclesiastes-11-5-14",
+          "surface": "הָֽאֱלֹהִ֔ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "ha'lohiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "ecclesiastes-11-5-15",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "ecclesiastes-11-5-16",
+          "surface": "יַעֲשֶׂ֖ה",
+          "lemma": "עָשָׂה",
+          "translit": "ya`sheh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "ecclesiastes-11-5-17",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ecclesiastes-11-5-18",
+          "surface": "הַכֹּֽל",
+          "lemma": "כֹּל",
+          "translit": "hakol",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3605"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ecclesiastes 11:6",
+      "englishText": "In the morning sow your seed, and in the evening don’t withhold your hand; for you don’t know which will prosper, whether this or that, or whether they both will be equally good. ",
+      "tokens": [
+        {
+          "id": "ecclesiastes-11-6-0",
+          "surface": "בַּבֹּ֨קֶר֙",
+          "lemma": "בֹּקֶר",
+          "translit": "baboqer",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1242"
+        },
+        {
+          "id": "ecclesiastes-11-6-1",
+          "surface": "זְרַ֣ע",
+          "lemma": "זָרַע",
+          "translit": "zera`",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2232"
+        },
+        {
+          "id": "ecclesiastes-11-6-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ecclesiastes-11-6-3",
+          "surface": "זַרְעֶ֔ךָ",
+          "lemma": "זֶרַע",
+          "translit": "zare`eka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2233"
+        },
+        {
+          "id": "ecclesiastes-11-6-4",
+          "surface": "וְלָעֶ֖רֶב",
+          "lemma": "עֶרֶב",
+          "translit": "vela`ereb",
+          "morph": "Conjunction + Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6153"
+        },
+        {
+          "id": "ecclesiastes-11-6-5",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "ecclesiastes-11-6-6",
+          "surface": "תַּנַּ֣ח",
+          "lemma": "יָנַח",
+          "translit": "tanach",
+          "morph": "Verb Hiphil Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3240"
+        },
+        {
+          "id": "ecclesiastes-11-6-7",
+          "surface": "יָדֶ֑ךָ",
+          "lemma": "יָד",
+          "translit": "yadeka",
+          "morph": "Noun common singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "ecclesiastes-11-6-8",
+          "surface": "כִּי֩",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ecclesiastes-11-6-9",
+          "surface": "אֵֽינְךָ֨",
+          "lemma": "אַיִן",
+          "translit": "'eyneka",
+          "morph": "Particle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "ecclesiastes-11-6-10",
+          "surface": "יוֹדֵ֜ע",
+          "lemma": "יָדַע",
+          "translit": "yvode`",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ecclesiastes-11-6-11",
+          "surface": "אֵ֣י",
+          "lemma": "אַי",
+          "translit": "'ey",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H335"
+        },
+        {
+          "id": "ecclesiastes-11-6-12",
+          "surface": "זֶ֤ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "ecclesiastes-11-6-13",
+          "surface": "יִכְשָׁר֙",
+          "lemma": "כָּשֵׁר",
+          "translit": "yikeshar",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3787"
+        },
+        {
+          "id": "ecclesiastes-11-6-14",
+          "surface": "הֲזֶ֣ה",
+          "lemma": "זֶה",
+          "translit": "hzeh",
+          "morph": "Particle + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "ecclesiastes-11-6-15",
+          "surface": "אוֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "ecclesiastes-11-6-16",
+          "surface": "זֶ֔ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "ecclesiastes-11-6-17",
+          "surface": "וְאִם",
+          "lemma": "אִם",
+          "translit": "ve'im",
+          "morph": "Conjunction + Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "ecclesiastes-11-6-18",
+          "surface": "שְׁנֵיהֶ֥ם",
+          "lemma": "שְׁנַיִם",
+          "translit": "sheneyhem",
+          "morph": "Adjective common masculine dual construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "ecclesiastes-11-6-19",
+          "surface": "כְּאֶחָ֖ד",
+          "lemma": "אֶחָד",
+          "translit": "ke'echad",
+          "morph": "Preposition + Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H259"
+        },
+        {
+          "id": "ecclesiastes-11-6-20",
+          "surface": "טוֹבִֽים",
+          "lemma": "טוֹב",
+          "translit": "tvobiym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2896"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ecclesiastes 11:7",
+      "englishText": "Truly the light is sweet, and a pleasant thing it is for the eyes to see the sun. ",
+      "tokens": [
+        {
+          "id": "ecclesiastes-11-7-0",
+          "surface": "וּמָת֖וֹק",
+          "lemma": "מָתוֹק",
+          "translit": "vmatvoq",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H4966"
+        },
+        {
+          "id": "ecclesiastes-11-7-1",
+          "surface": "הָא֑וֹר",
+          "lemma": "אוֹר",
+          "translit": "ha'vor",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H216"
+        },
+        {
+          "id": "ecclesiastes-11-7-2",
+          "surface": "וְט֥וֹב",
+          "lemma": "טוֹב",
+          "translit": "vetvob",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H2896"
+        },
+        {
+          "id": "ecclesiastes-11-7-3",
+          "surface": "לַֽעֵינַ֖יִם",
+          "lemma": "עַיִן",
+          "translit": "la`eynayim",
+          "morph": "Preposition dual + Noun common dual absolute",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "ecclesiastes-11-7-4",
+          "surface": "לִרְא֥וֹת",
+          "lemma": "רָאָה",
+          "translit": "lire'vot",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "ecclesiastes-11-7-5",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ecclesiastes-11-7-6",
+          "surface": "הַשָּֽׁמֶשׁ",
+          "lemma": "שֶׁמֶשׁ",
+          "translit": "hashamesh",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H8121"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ecclesiastes 11:8",
+      "englishText": "Yes, if a man lives many years, let him rejoice in them all; but let him remember the days of darkness, for they shall be many. All that comes is vanity. ",
+      "tokens": [
+        {
+          "id": "ecclesiastes-11-8-0",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ecclesiastes-11-8-1",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "ecclesiastes-11-8-2",
+          "surface": "שָׁנִ֥ים",
+          "lemma": "שָׁנֶה",
+          "translit": "shaniym",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "ecclesiastes-11-8-3",
+          "surface": "הַרְבֵּ֛ה",
+          "lemma": "רָבָה",
+          "translit": "harebeh",
+          "morph": "Verb Hiphil Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "ecclesiastes-11-8-4",
+          "surface": "יִחְיֶ֥ה",
+          "lemma": "חָיָה",
+          "translit": "yicheyeh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2421"
+        },
+        {
+          "id": "ecclesiastes-11-8-5",
+          "surface": "הָאָדָ֖ם",
+          "lemma": "אָדָם",
+          "translit": "ha'adam",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        },
+        {
+          "id": "ecclesiastes-11-8-6",
+          "surface": "בְּכֻלָּ֣ם",
+          "lemma": "כֹּל",
+          "translit": "bekulam",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ecclesiastes-11-8-7",
+          "surface": "יִשְׂמָ֑ח",
+          "lemma": "שָׂמַח",
+          "translit": "yishemach",
+          "morph": "Verb Qal Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8055"
+        },
+        {
+          "id": "ecclesiastes-11-8-8",
+          "surface": "וְיִזְכֹּר֙",
+          "lemma": "זָכַר",
+          "translit": "veyizekor",
+          "morph": "Conjunction + Verb Qal Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2142"
+        },
+        {
+          "id": "ecclesiastes-11-8-9",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "ecclesiastes-11-8-10",
+          "surface": "יְמֵ֣י",
+          "lemma": "יוֹם",
+          "translit": "yemey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "ecclesiastes-11-8-11",
+          "surface": "הַחֹ֔שֶׁךְ",
+          "lemma": "חֹשֶׁךְ",
+          "translit": "hachosheke",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2822"
+        },
+        {
+          "id": "ecclesiastes-11-8-12",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ecclesiastes-11-8-13",
+          "surface": "הַרְבֵּ֥ה",
+          "lemma": "רָבָה",
+          "translit": "harebeh",
+          "morph": "Verb Hiphil Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "ecclesiastes-11-8-14",
+          "surface": "יִהְי֖וּ",
+          "lemma": "הָיָה",
+          "translit": "yiheyv",
+          "morph": "Verb Qal Imperative 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "ecclesiastes-11-8-15",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ecclesiastes-11-8-16",
+          "surface": "שֶׁבָּ֥א",
+          "lemma": "בּוֹא",
+          "translit": "sheba'",
+          "morph": "Particle + Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "ecclesiastes-11-8-17",
+          "surface": "הָֽבֶל",
+          "lemma": "הֶבֶל",
+          "translit": "habel",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1892"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ecclesiastes 11:9",
+      "englishText": "Rejoice, young man, in your youth, and let your heart cheer you in the days of your youth, and walk in the ways of your heart, and in the sight of your eyes; but know that for all these things God will bring you into judgment. ",
+      "tokens": [
+        {
+          "id": "ecclesiastes-11-9-0",
+          "surface": "שְׂמַ֧ח",
+          "lemma": "שָׂמַח",
+          "translit": "shemach",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8055"
+        },
+        {
+          "id": "ecclesiastes-11-9-1",
+          "surface": "בָּח֣וּר",
+          "lemma": "בָּחוּר",
+          "translit": "bachvr",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H970"
+        },
+        {
+          "id": "ecclesiastes-11-9-2",
+          "surface": "בְּיַלְדוּתֶ֗יךָ",
+          "lemma": "יַלְדוּת",
+          "translit": "beyaledvteyka",
+          "morph": "Preposition + Noun common feminine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3208"
+        },
+        {
+          "id": "ecclesiastes-11-9-3",
+          "surface": "וִֽיטִֽיבְךָ֤",
+          "lemma": "יָטַב",
+          "translit": "viytiybeka",
+          "morph": "Conjunction + Verb Hiphil Jussive 3rd masculine singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3190"
+        },
+        {
+          "id": "ecclesiastes-11-9-4",
+          "surface": "לִבְּךָ֙",
+          "lemma": "לֵב",
+          "translit": "libeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ecclesiastes-11-9-5",
+          "surface": "בִּימֵ֣י",
+          "lemma": "יוֹם",
+          "translit": "biymey",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "ecclesiastes-11-9-6",
+          "surface": "בְחוּרוֹתֶ֔ךָ",
+          "lemma": "בְּחֻרוֹת",
+          "translit": "bechvrvoteka",
+          "morph": "Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H979"
+        },
+        {
+          "id": "ecclesiastes-11-9-7",
+          "surface": "וְהַלֵּךְ֙",
+          "lemma": "הָלַךְ",
+          "translit": "vehaleke",
+          "morph": "Conjunction + Verb Piel Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "ecclesiastes-11-9-8",
+          "surface": "בְּדַרְכֵ֣י",
+          "lemma": "דֶּרֶךְ",
+          "translit": "bedarekey",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H1870"
+        },
+        {
+          "id": "ecclesiastes-11-9-9",
+          "surface": "לִבְּךָ֔",
+          "lemma": "לֵב",
+          "translit": "libeka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ecclesiastes-11-9-10",
+          "surface": "וּבְמַרְאֵ֖י",
+          "lemma": "מַרְאֶה",
+          "translit": "vbemare'ey",
+          "morph": "Conjunction + Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H4758"
+        },
+        {
+          "id": "ecclesiastes-11-9-11",
+          "surface": "עֵינֶ֑יךָ",
+          "lemma": "עַיִן",
+          "translit": "`eyneyka",
+          "morph": "Noun common dual construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "ecclesiastes-11-9-12",
+          "surface": "וְדָ֕ע",
+          "lemma": "יָדַע",
+          "translit": "veda`",
+          "morph": "Conjunction + Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "ecclesiastes-11-9-13",
+          "surface": "כִּ֧י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ecclesiastes-11-9-14",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "ecclesiastes-11-9-15",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "ecclesiastes-11-9-16",
+          "surface": "אֵ֛לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "ecclesiastes-11-9-17",
+          "surface": "יְבִֽיאֲךָ֥",
+          "lemma": "בּוֹא",
+          "translit": "yebiy'ka",
+          "morph": "Verb Hiphil Imperative 3rd masculine singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "ecclesiastes-11-9-18",
+          "surface": "הָאֱלֹהִ֖ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "ha'lohiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "ecclesiastes-11-9-19",
+          "surface": "בַּמִּשְׁפָּֽט",
+          "lemma": "מִשְׁפָּט",
+          "translit": "bamishepat",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4941"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Ecclesiastes 11:10",
+      "englishText": "Therefore remove sorrow from your heart, and put away evil from your flesh; for youth and the dawn of life are vanity.    ",
+      "tokens": [
+        {
+          "id": "ecclesiastes-11-10-0",
+          "surface": "וְהָסֵ֥ר",
+          "lemma": "סוּר",
+          "translit": "vehaser",
+          "morph": "Conjunction + Verb Hiphil Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5493"
+        },
+        {
+          "id": "ecclesiastes-11-10-1",
+          "surface": "כַּ֨עַס֙",
+          "lemma": "כַּעַס",
+          "translit": "ka`as",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3708"
+        },
+        {
+          "id": "ecclesiastes-11-10-2",
+          "surface": "מִלִּבֶּ֔ךָ",
+          "lemma": "לֵב",
+          "translit": "milibeka",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "ecclesiastes-11-10-3",
+          "surface": "וְהַעֲבֵ֥ר",
+          "lemma": "עָבַר",
+          "translit": "veha`ber",
+          "morph": "Conjunction + Verb Hiphil Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5674"
+        },
+        {
+          "id": "ecclesiastes-11-10-4",
+          "surface": "רָעָ֖ה",
+          "lemma": "רַע",
+          "translit": "ra`ah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7451"
+        },
+        {
+          "id": "ecclesiastes-11-10-5",
+          "surface": "מִבְּשָׂרֶ֑ךָ",
+          "lemma": "בָּשָׂר",
+          "translit": "mibeshareka",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1320"
+        },
+        {
+          "id": "ecclesiastes-11-10-6",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "ecclesiastes-11-10-7",
+          "surface": "הַיַּלְד֥וּת",
+          "lemma": "יַלְדוּת",
+          "translit": "hayaledvt",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H3208"
+        },
+        {
+          "id": "ecclesiastes-11-10-8",
+          "surface": "וְהַֽשַּׁחֲר֖וּת",
+          "lemma": "שַׁחֲרוּת",
+          "translit": "vehashachrvt",
+          "morph": "Conjunction + Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7839"
+        },
+        {
+          "id": "ecclesiastes-11-10-9",
+          "surface": "הָֽבֶל",
+          "lemma": "הֶבֶל",
+          "translit": "habel",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1892"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

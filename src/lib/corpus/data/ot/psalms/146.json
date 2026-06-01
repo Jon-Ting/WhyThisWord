@@ -1,1 +1,841 @@
-{"id":"psalms-146","name":"Psalms","chapter":146,"verses":[{"ref":"Psalms 146:1","englishText":"Praise Yah! Praise Yahweh, my soul. ","tokens":[{"id":"psalms-146-1-0","surface":"הַֽלְלוּ","lemma":"הָלַל","translit":"halelv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"psalms-146-1-1","surface":"יָ֡הּ","lemma":"יָהּ","translit":"yah","morph":"Noun proper","glosses":[],"strongs":"H3050"},{"id":"psalms-146-1-2","surface":"הַלְלִ֥י","lemma":"הָלַל","translit":"haleliy","morph":"Verb Piel Weqatal 2nd feminine singular","glosses":[],"strongs":"H1984"},{"id":"psalms-146-1-3","surface":"נַ֝פְשִׁ֗י","lemma":"נֶפֶשׁ","translit":"napeshiy","morph":"Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5315"},{"id":"psalms-146-1-4","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-146-1-5","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Psalms 146:2","englishText":"While I live, I will praise Yahweh. I will sing praises to my God as long as I exist. ","tokens":[{"id":"psalms-146-2-0","surface":"אֲהַלְלָ֣ה","lemma":"הָלַל","translit":"'halelah","morph":"Verb Piel Cohortative 1st common singular","glosses":[],"strongs":"H1984"},{"id":"psalms-146-2-1","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-146-2-2","surface":"בְּחַיָּ֑י","lemma":"חַי","translit":"bechayay","morph":"Preposition + Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H2416"},{"id":"psalms-146-2-3","surface":"אֲזַמְּרָ֖ה","lemma":"זָמַר","translit":"'zamerah","morph":"Verb Piel Cohortative 1st common singular","glosses":[],"strongs":"H2167"},{"id":"psalms-146-2-4","surface":"לֵֽאלֹהַ֣י","lemma":"אֱלֹהִים","translit":"le'lohay","morph":"Preposition + Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H430"},{"id":"psalms-146-2-5","surface":"בְּעוֹדִֽי","lemma":"עוֹד","translit":"be`vodiy","morph":"Preposition + Adverb + Suffix plural 1st common singular","glosses":[],"strongs":"H5750"}],"language":"hebrew"},{"ref":"Psalms 146:3","englishText":"Don’t put your trust in princes, each a son of man in whom there is no help. ","tokens":[{"id":"psalms-146-3-0","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"psalms-146-3-1","surface":"תִּבְטְח֥וּ","lemma":"בָּטַח","translit":"tibetechv","morph":"Verb Qal Jussive 2nd masculine plural","glosses":[],"strongs":"H982"},{"id":"psalms-146-3-2","surface":"בִנְדִיבִ֑ים","lemma":"נָדִיב","translit":"binediybiym","morph":"Preposition + Adjective","glosses":[],"strongs":"H5081"},{"id":"psalms-146-3-3","surface":"בְּבֶן","lemma":"בֵּן","translit":"beben","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"psalms-146-3-4","surface":"אָדָ֓ם","lemma":"אָדָם","translit":"'adam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H120"},{"id":"psalms-146-3-5","surface":"שֶׁ֤אֵֽין","lemma":"אַיִן","translit":"she'eyn","morph":"Particle + Particle","glosses":[],"strongs":"H369"},{"id":"psalms-146-3-6","surface":"ל֥וֹ","lemma":"ל֥וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"psalms-146-3-7","surface":"תְשׁוּעָֽה","lemma":"תְּשׁוּעָה","translit":"teshv`ah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8668"}],"language":"hebrew"},{"ref":"Psalms 146:4","englishText":"His spirit departs, and he returns to the earth. In that very day, his thoughts perish. ","tokens":[{"id":"psalms-146-4-0","surface":"תֵּצֵ֣א","lemma":"יָצָא","translit":"tetse'","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H3318"},{"id":"psalms-146-4-1","surface":"ר֭וּחוֹ","lemma":"רוּחַ","translit":"rvchvo","morph":"Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7307"},{"id":"psalms-146-4-2","surface":"יָשֻׁ֣ב","lemma":"שׁוּב","translit":"yashub","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H7725"},{"id":"psalms-146-4-3","surface":"לְאַדְמָת֑וֹ","lemma":"אֲדָמָה","translit":"le'adematvo","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H127"},{"id":"psalms-146-4-4","surface":"בַּיּ֥וֹם","lemma":"יוֹם","translit":"bayvom","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"psalms-146-4-5","surface":"הַ֝ה֗וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"psalms-146-4-6","surface":"אָבְד֥וּ","lemma":"אָבַד","translit":"'abedv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H6"},{"id":"psalms-146-4-7","surface":"עֶשְׁתֹּנֹתָֽיו","lemma":"עֶשְׁתֹּנָה","translit":"`eshetonotayv","morph":"Noun common feminine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6250"}],"language":"hebrew"},{"ref":"Psalms 146:5","englishText":"Happy is he who has the God of Jacob for his help, whose hope is in Yahweh, his God: ","tokens":[{"id":"psalms-146-5-0","surface":"אַשְׁרֵ֗י","lemma":"אֶשֶׁר","translit":"'asherey","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H835"},{"id":"psalms-146-5-1","surface":"שֶׁ֤אֵ֣ל","lemma":"אֵל","translit":"she'el","morph":"Particle + Noun common masculine singular construct","glosses":[],"strongs":"H410"},{"id":"psalms-146-5-2","surface":"יַעֲקֹ֣ב","lemma":"יַעֲקֹב","translit":"ya`qob","morph":"Noun proper","glosses":[],"strongs":"H3290"},{"id":"psalms-146-5-3","surface":"בְּעֶזְר֑וֹ","lemma":"עֵזֶר","translit":"be`ezervo","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5828"},{"id":"psalms-146-5-4","surface":"שִׂ֝בְר֗וֹ","lemma":"שֵׂבֶר","translit":"shibervo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7664"},{"id":"psalms-146-5-5","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"psalms-146-5-6","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-146-5-7","surface":"אֱלֹהָֽיו","lemma":"אֱלֹהִים","translit":"'lohayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H430"}],"language":"hebrew"},{"ref":"Psalms 146:6","englishText":"who made heaven and earth, the sea, and all that is in them; who keeps truth forever; ","tokens":[{"id":"psalms-146-6-0","surface":"עֹשֶׂ֤ה","lemma":"עָשָׂה","translit":"`osheh","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H6213"},{"id":"psalms-146-6-1","surface":"שָׁ֘מַ֤יִם","lemma":"שָׁמַיִם","translit":"shamayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"psalms-146-6-2","surface":"וָאָ֗רֶץ","lemma":"אֶרֶץ","translit":"va'arets","morph":"Conjunction + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"psalms-146-6-3","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-146-6-4","surface":"הַיָּ֥ם","lemma":"יָם","translit":"hayam","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3220"},{"id":"psalms-146-6-5","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"psalms-146-6-6","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"psalms-146-6-7","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"psalms-146-6-8","surface":"בָּ֑ם","lemma":"בָּ֑ם","translit":"bam","morph":"Preposition + Suffix plural 3rd masculine","glosses":[]},{"id":"psalms-146-6-9","surface":"הַשֹּׁמֵ֖ר","lemma":"שָׁמַר","translit":"hashomer","morph":"Particle dual + Verb Qal Passive Participle","glosses":[],"strongs":"H8104"},{"id":"psalms-146-6-10","surface":"אֱמֶ֣ת","lemma":"אֶמֶת","translit":"'met","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H571"},{"id":"psalms-146-6-11","surface":"לְעוֹלָֽם","lemma":"עוֹלָם","translit":"le`volam","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H5769"}],"language":"hebrew"},{"ref":"Psalms 146:7","englishText":"who executes justice for the oppressed; who gives food to the hungry. Yahweh frees the prisoners. ","tokens":[{"id":"psalms-146-7-0","surface":"עֹשֶׂ֤ה","lemma":"עָשָׂה","translit":"`osheh","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H6213"},{"id":"psalms-146-7-1","surface":"מִשְׁפָּ֨ט","lemma":"מִשְׁפָּט","translit":"mishepat","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4941"},{"id":"psalms-146-7-2","surface":"לָעֲשׁוּקִ֗ים","lemma":"עָשַׁק","translit":"la`shvqiym","morph":"Preposition dual + Verb Qal s","glosses":[],"strongs":"H6231"},{"id":"psalms-146-7-3","surface":"נֹתֵ֣ן","lemma":"נָתַן","translit":"noten","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H5414"},{"id":"psalms-146-7-4","surface":"לֶ֭חֶם","lemma":"לֶחֶם","translit":"lechem","morph":"Noun common singular absolute","glosses":[],"strongs":"H3899"},{"id":"psalms-146-7-5","surface":"לָרְעֵבִ֑ים","lemma":"רָעֵב","translit":"lare`ebiym","morph":"Preposition dual + Adjective","glosses":[],"strongs":"H7457"},{"id":"psalms-146-7-6","surface":"יְ֝הוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-146-7-7","surface":"מַתִּ֥יר","lemma":"נָתַר","translit":"matiyr","morph":"Verb Hiphil Passive Participle","glosses":[],"strongs":"H5425"},{"id":"psalms-146-7-8","surface":"אֲסוּרִֽים","lemma":"אָסַר","translit":"'svriym","morph":"Verb Qal s","glosses":[],"strongs":"H631"}],"language":"hebrew"},{"ref":"Psalms 146:8","englishText":"Yahweh opens the eyes of the blind. Yahweh raises up those who are bowed down. Yahweh loves the righteous. ","tokens":[{"id":"psalms-146-8-0","surface":"יְהוָ֤ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-146-8-1","surface":"פֹּ֘קֵ֤חַ","lemma":"פָּקַח","translit":"poqecha","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H6491"},{"id":"psalms-146-8-2","surface":"עִוְרִ֗ים","lemma":"עִוֵּר","translit":"`iveriym","morph":"Adjective","glosses":[],"strongs":"H5787"},{"id":"psalms-146-8-3","surface":"יְ֭הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-146-8-4","surface":"זֹקֵ֣ף","lemma":"זָקַף","translit":"zoqep","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H2210"},{"id":"psalms-146-8-5","surface":"כְּפוּפִ֑ים","lemma":"כָּפַף","translit":"kepvpiym","morph":"Verb Qal s","glosses":[],"strongs":"H3721"},{"id":"psalms-146-8-6","surface":"יְ֝הוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-146-8-7","surface":"אֹהֵ֥ב","lemma":"אָהַב","translit":"'oheb","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H157"},{"id":"psalms-146-8-8","surface":"צַדִּיקִֽים","lemma":"צַדִּיק","translit":"tsadiyqiym","morph":"Adjective","glosses":[],"strongs":"H6662"}],"language":"hebrew"},{"ref":"Psalms 146:9","englishText":"Yahweh preserves the foreigners. He upholds the fatherless and widow, but the way of the wicked he turns upside down. ","tokens":[{"id":"psalms-146-9-0","surface":"יְהוָ֤ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-146-9-1","surface":"שֹׁ֘מֵ֤ר","lemma":"שָׁמַר","translit":"shomer","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H8104"},{"id":"psalms-146-9-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"psalms-146-9-3","surface":"גֵּרִ֗ים","lemma":"גֵּר","translit":"geriym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1616"},{"id":"psalms-146-9-4","surface":"יָת֣וֹם","lemma":"יָתוֹם","translit":"yatvom","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3490"},{"id":"psalms-146-9-5","surface":"וְאַלְמָנָ֣ה","lemma":"אַלְמָנָה","translit":"ve'alemanah","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H490"},{"id":"psalms-146-9-6","surface":"יְעוֹדֵ֑ד","lemma":"עוּד","translit":"ye`voded","morph":"Verb Polel Imperative 3rd masculine singular","glosses":[],"strongs":"H5749"},{"id":"psalms-146-9-7","surface":"וְדֶ֖רֶךְ","lemma":"דֶּרֶךְ","translit":"vedereke","morph":"Conjunction + Noun common singular construct","glosses":[],"strongs":"H1870"},{"id":"psalms-146-9-8","surface":"רְשָׁעִ֣ים","lemma":"רָשָׁע","translit":"resha`iym","morph":"Adjective","glosses":[],"strongs":"H7563"},{"id":"psalms-146-9-9","surface":"יְעַוֵּֽת","lemma":"עָוַת","translit":"ye`avet","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H5791"}],"language":"hebrew"},{"ref":"Psalms 146:10","englishText":"Yahweh will reign forever; your God, O Zion, to all generations. Praise Yah!   ","tokens":[{"id":"psalms-146-10-0","surface":"יִמְלֹ֤ךְ","lemma":"מָלַךְ","translit":"yimeloke","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H4427"},{"id":"psalms-146-10-1","surface":"יְהוָ֨ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"psalms-146-10-2","surface":"לְעוֹלָ֗ם","lemma":"עוֹלָם","translit":"le`volam","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H5769"},{"id":"psalms-146-10-3","surface":"אֱלֹהַ֣יִךְ","lemma":"אֱלֹהִים","translit":"'lohayike","morph":"Noun common masculine plural construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H430"},{"id":"psalms-146-10-4","surface":"צִ֭יּוֹן","lemma":"צִיּוֹן","translit":"tsiyvon","morph":"Noun proper","glosses":[],"strongs":"H6726"},{"id":"psalms-146-10-5","surface":"לְדֹ֥ר","lemma":"דּוֹר","translit":"ledor","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H1755"},{"id":"psalms-146-10-6","surface":"וָדֹ֗ר","lemma":"דּוֹר","translit":"vador","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H1755"},{"id":"psalms-146-10-7","surface":"הַֽלְלוּ","lemma":"הָלַל","translit":"halelv","morph":"Verb Piel Weqatal 2nd masculine plural","glosses":[],"strongs":"H1984"},{"id":"psalms-146-10-8","surface":"יָֽהּ","lemma":"יָהּ","translit":"yah","morph":"Noun proper","glosses":[],"strongs":"H3050"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "psalms-146",
+  "name": "Psalms",
+  "chapter": 146,
+  "verses": [
+    {
+      "ref": "Psalms 146:1",
+      "englishText": "Praise Yah! Praise Yahweh, my soul. ",
+      "tokens": [
+        {
+          "id": "psalms-146-1-0",
+          "surface": "הַֽלְלוּ",
+          "lemma": "הָלַל",
+          "translit": "halelv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-146-1-1",
+          "surface": "יָ֡הּ",
+          "lemma": "יָהּ",
+          "translit": "yah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3050"
+        },
+        {
+          "id": "psalms-146-1-2",
+          "surface": "הַלְלִ֥י",
+          "lemma": "הָלַל",
+          "translit": "haleliy",
+          "morph": "Verb Piel Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-146-1-3",
+          "surface": "נַ֝פְשִׁ֗י",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napeshiy",
+          "morph": "Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "psalms-146-1-4",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-146-1-5",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 146:2",
+      "englishText": "While I live, I will praise Yahweh. I will sing praises to my God as long as I exist. ",
+      "tokens": [
+        {
+          "id": "psalms-146-2-0",
+          "surface": "אֲהַלְלָ֣ה",
+          "lemma": "הָלַל",
+          "translit": "'halelah",
+          "morph": "Verb Piel Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-146-2-1",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-146-2-2",
+          "surface": "בְּחַיָּ֑י",
+          "lemma": "חַי",
+          "translit": "bechayay",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2416"
+        },
+        {
+          "id": "psalms-146-2-3",
+          "surface": "אֲזַמְּרָ֖ה",
+          "lemma": "זָמַר",
+          "translit": "'zamerah",
+          "morph": "Verb Piel Cohortative 1st common singular",
+          "glosses": [],
+          "strongs": "H2167"
+        },
+        {
+          "id": "psalms-146-2-4",
+          "surface": "לֵֽאלֹהַ֣י",
+          "lemma": "אֱלֹהִים",
+          "translit": "le'lohay",
+          "morph": "Preposition + Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-146-2-5",
+          "surface": "בְּעוֹדִֽי",
+          "lemma": "עוֹד",
+          "translit": "be`vodiy",
+          "morph": "Preposition + Adverb + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5750"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 146:3",
+      "englishText": "Don’t put your trust in princes, each a son of man in whom there is no help. ",
+      "tokens": [
+        {
+          "id": "psalms-146-3-0",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "psalms-146-3-1",
+          "surface": "תִּבְטְח֥וּ",
+          "lemma": "בָּטַח",
+          "translit": "tibetechv",
+          "morph": "Verb Qal Jussive 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H982"
+        },
+        {
+          "id": "psalms-146-3-2",
+          "surface": "בִנְדִיבִ֑ים",
+          "lemma": "נָדִיב",
+          "translit": "binediybiym",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H5081"
+        },
+        {
+          "id": "psalms-146-3-3",
+          "surface": "בְּבֶן",
+          "lemma": "בֵּן",
+          "translit": "beben",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "psalms-146-3-4",
+          "surface": "אָדָ֓ם",
+          "lemma": "אָדָם",
+          "translit": "'adam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H120"
+        },
+        {
+          "id": "psalms-146-3-5",
+          "surface": "שֶׁ֤אֵֽין",
+          "lemma": "אַיִן",
+          "translit": "she'eyn",
+          "morph": "Particle + Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "psalms-146-3-6",
+          "surface": "ל֥וֹ",
+          "lemma": "ל֥וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "psalms-146-3-7",
+          "surface": "תְשׁוּעָֽה",
+          "lemma": "תְּשׁוּעָה",
+          "translit": "teshv`ah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8668"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 146:4",
+      "englishText": "His spirit departs, and he returns to the earth. In that very day, his thoughts perish. ",
+      "tokens": [
+        {
+          "id": "psalms-146-4-0",
+          "surface": "תֵּצֵ֣א",
+          "lemma": "יָצָא",
+          "translit": "tetse'",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "psalms-146-4-1",
+          "surface": "ר֭וּחוֹ",
+          "lemma": "רוּחַ",
+          "translit": "rvchvo",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "psalms-146-4-2",
+          "surface": "יָשֻׁ֣ב",
+          "lemma": "שׁוּב",
+          "translit": "yashub",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "psalms-146-4-3",
+          "surface": "לְאַדְמָת֑וֹ",
+          "lemma": "אֲדָמָה",
+          "translit": "le'adematvo",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H127"
+        },
+        {
+          "id": "psalms-146-4-4",
+          "surface": "בַּיּ֥וֹם",
+          "lemma": "יוֹם",
+          "translit": "bayvom",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "psalms-146-4-5",
+          "surface": "הַ֝ה֗וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "psalms-146-4-6",
+          "surface": "אָבְד֥וּ",
+          "lemma": "אָבַד",
+          "translit": "'abedv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H6"
+        },
+        {
+          "id": "psalms-146-4-7",
+          "surface": "עֶשְׁתֹּנֹתָֽיו",
+          "lemma": "עֶשְׁתֹּנָה",
+          "translit": "`eshetonotayv",
+          "morph": "Noun common feminine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6250"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 146:5",
+      "englishText": "Happy is he who has the God of Jacob for his help, whose hope is in Yahweh, his God: ",
+      "tokens": [
+        {
+          "id": "psalms-146-5-0",
+          "surface": "אַשְׁרֵ֗י",
+          "lemma": "אֶשֶׁר",
+          "translit": "'asherey",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H835"
+        },
+        {
+          "id": "psalms-146-5-1",
+          "surface": "שֶׁ֤אֵ֣ל",
+          "lemma": "אֵל",
+          "translit": "she'el",
+          "morph": "Particle + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H410"
+        },
+        {
+          "id": "psalms-146-5-2",
+          "surface": "יַעֲקֹ֣ב",
+          "lemma": "יַעֲקֹב",
+          "translit": "ya`qob",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3290"
+        },
+        {
+          "id": "psalms-146-5-3",
+          "surface": "בְּעֶזְר֑וֹ",
+          "lemma": "עֵזֶר",
+          "translit": "be`ezervo",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5828"
+        },
+        {
+          "id": "psalms-146-5-4",
+          "surface": "שִׂ֝בְר֗וֹ",
+          "lemma": "שֵׂבֶר",
+          "translit": "shibervo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7664"
+        },
+        {
+          "id": "psalms-146-5-5",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "psalms-146-5-6",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-146-5-7",
+          "surface": "אֱלֹהָֽיו",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 146:6",
+      "englishText": "who made heaven and earth, the sea, and all that is in them; who keeps truth forever; ",
+      "tokens": [
+        {
+          "id": "psalms-146-6-0",
+          "surface": "עֹשֶׂ֤ה",
+          "lemma": "עָשָׂה",
+          "translit": "`osheh",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "psalms-146-6-1",
+          "surface": "שָׁ֘מַ֤יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "shamayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "psalms-146-6-2",
+          "surface": "וָאָ֗רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "va'arets",
+          "morph": "Conjunction + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "psalms-146-6-3",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-146-6-4",
+          "surface": "הַיָּ֥ם",
+          "lemma": "יָם",
+          "translit": "hayam",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3220"
+        },
+        {
+          "id": "psalms-146-6-5",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-146-6-6",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "psalms-146-6-7",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "psalms-146-6-8",
+          "surface": "בָּ֑ם",
+          "lemma": "בָּ֑ם",
+          "translit": "bam",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": []
+        },
+        {
+          "id": "psalms-146-6-9",
+          "surface": "הַשֹּׁמֵ֖ר",
+          "lemma": "שָׁמַר",
+          "translit": "hashomer",
+          "morph": "Particle dual + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H8104"
+        },
+        {
+          "id": "psalms-146-6-10",
+          "surface": "אֱמֶ֣ת",
+          "lemma": "אֶמֶת",
+          "translit": "'met",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H571"
+        },
+        {
+          "id": "psalms-146-6-11",
+          "surface": "לְעוֹלָֽם",
+          "lemma": "עוֹלָם",
+          "translit": "le`volam",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 146:7",
+      "englishText": "who executes justice for the oppressed; who gives food to the hungry. Yahweh frees the prisoners. ",
+      "tokens": [
+        {
+          "id": "psalms-146-7-0",
+          "surface": "עֹשֶׂ֤ה",
+          "lemma": "עָשָׂה",
+          "translit": "`osheh",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "psalms-146-7-1",
+          "surface": "מִשְׁפָּ֨ט",
+          "lemma": "מִשְׁפָּט",
+          "translit": "mishepat",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "psalms-146-7-2",
+          "surface": "לָעֲשׁוּקִ֗ים",
+          "lemma": "עָשַׁק",
+          "translit": "la`shvqiym",
+          "morph": "Preposition dual + Verb Qal s",
+          "glosses": [],
+          "strongs": "H6231"
+        },
+        {
+          "id": "psalms-146-7-3",
+          "surface": "נֹתֵ֣ן",
+          "lemma": "נָתַן",
+          "translit": "noten",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "psalms-146-7-4",
+          "surface": "לֶ֭חֶם",
+          "lemma": "לֶחֶם",
+          "translit": "lechem",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H3899"
+        },
+        {
+          "id": "psalms-146-7-5",
+          "surface": "לָרְעֵבִ֑ים",
+          "lemma": "רָעֵב",
+          "translit": "lare`ebiym",
+          "morph": "Preposition dual + Adjective",
+          "glosses": [],
+          "strongs": "H7457"
+        },
+        {
+          "id": "psalms-146-7-6",
+          "surface": "יְ֝הוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-146-7-7",
+          "surface": "מַתִּ֥יר",
+          "lemma": "נָתַר",
+          "translit": "matiyr",
+          "morph": "Verb Hiphil Passive Participle",
+          "glosses": [],
+          "strongs": "H5425"
+        },
+        {
+          "id": "psalms-146-7-8",
+          "surface": "אֲסוּרִֽים",
+          "lemma": "אָסַר",
+          "translit": "'svriym",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H631"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 146:8",
+      "englishText": "Yahweh opens the eyes of the blind. Yahweh raises up those who are bowed down. Yahweh loves the righteous. ",
+      "tokens": [
+        {
+          "id": "psalms-146-8-0",
+          "surface": "יְהוָ֤ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-146-8-1",
+          "surface": "פֹּ֘קֵ֤חַ",
+          "lemma": "פָּקַח",
+          "translit": "poqecha",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H6491"
+        },
+        {
+          "id": "psalms-146-8-2",
+          "surface": "עִוְרִ֗ים",
+          "lemma": "עִוֵּר",
+          "translit": "`iveriym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H5787"
+        },
+        {
+          "id": "psalms-146-8-3",
+          "surface": "יְ֭הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-146-8-4",
+          "surface": "זֹקֵ֣ף",
+          "lemma": "זָקַף",
+          "translit": "zoqep",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H2210"
+        },
+        {
+          "id": "psalms-146-8-5",
+          "surface": "כְּפוּפִ֑ים",
+          "lemma": "כָּפַף",
+          "translit": "kepvpiym",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H3721"
+        },
+        {
+          "id": "psalms-146-8-6",
+          "surface": "יְ֝הוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-146-8-7",
+          "surface": "אֹהֵ֥ב",
+          "lemma": "אָהַב",
+          "translit": "'oheb",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H157"
+        },
+        {
+          "id": "psalms-146-8-8",
+          "surface": "צַדִּיקִֽים",
+          "lemma": "צַדִּיק",
+          "translit": "tsadiyqiym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H6662"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 146:9",
+      "englishText": "Yahweh preserves the foreigners. He upholds the fatherless and widow, but the way of the wicked he turns upside down. ",
+      "tokens": [
+        {
+          "id": "psalms-146-9-0",
+          "surface": "יְהוָ֤ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-146-9-1",
+          "surface": "שֹׁ֘מֵ֤ר",
+          "lemma": "שָׁמַר",
+          "translit": "shomer",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H8104"
+        },
+        {
+          "id": "psalms-146-9-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "psalms-146-9-3",
+          "surface": "גֵּרִ֗ים",
+          "lemma": "גֵּר",
+          "translit": "geriym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1616"
+        },
+        {
+          "id": "psalms-146-9-4",
+          "surface": "יָת֣וֹם",
+          "lemma": "יָתוֹם",
+          "translit": "yatvom",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3490"
+        },
+        {
+          "id": "psalms-146-9-5",
+          "surface": "וְאַלְמָנָ֣ה",
+          "lemma": "אַלְמָנָה",
+          "translit": "ve'alemanah",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H490"
+        },
+        {
+          "id": "psalms-146-9-6",
+          "surface": "יְעוֹדֵ֑ד",
+          "lemma": "עוּד",
+          "translit": "ye`voded",
+          "morph": "Verb Polel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5749"
+        },
+        {
+          "id": "psalms-146-9-7",
+          "surface": "וְדֶ֖רֶךְ",
+          "lemma": "דֶּרֶךְ",
+          "translit": "vedereke",
+          "morph": "Conjunction + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H1870"
+        },
+        {
+          "id": "psalms-146-9-8",
+          "surface": "רְשָׁעִ֣ים",
+          "lemma": "רָשָׁע",
+          "translit": "resha`iym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7563"
+        },
+        {
+          "id": "psalms-146-9-9",
+          "surface": "יְעַוֵּֽת",
+          "lemma": "עָוַת",
+          "translit": "ye`avet",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5791"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Psalms 146:10",
+      "englishText": "Yahweh will reign forever; your God, O Zion, to all generations. Praise Yah!   ",
+      "tokens": [
+        {
+          "id": "psalms-146-10-0",
+          "surface": "יִמְלֹ֤ךְ",
+          "lemma": "מָלַךְ",
+          "translit": "yimeloke",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4427"
+        },
+        {
+          "id": "psalms-146-10-1",
+          "surface": "יְהוָ֨ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "psalms-146-10-2",
+          "surface": "לְעוֹלָ֗ם",
+          "lemma": "עוֹלָם",
+          "translit": "le`volam",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        },
+        {
+          "id": "psalms-146-10-3",
+          "surface": "אֱלֹהַ֣יִךְ",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohayike",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "psalms-146-10-4",
+          "surface": "צִ֭יּוֹן",
+          "lemma": "צִיּוֹן",
+          "translit": "tsiyvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6726"
+        },
+        {
+          "id": "psalms-146-10-5",
+          "surface": "לְדֹ֥ר",
+          "lemma": "דּוֹר",
+          "translit": "ledor",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1755"
+        },
+        {
+          "id": "psalms-146-10-6",
+          "surface": "וָדֹ֗ר",
+          "lemma": "דּוֹר",
+          "translit": "vador",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1755"
+        },
+        {
+          "id": "psalms-146-10-7",
+          "surface": "הַֽלְלוּ",
+          "lemma": "הָלַל",
+          "translit": "halelv",
+          "morph": "Verb Piel Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1984"
+        },
+        {
+          "id": "psalms-146-10-8",
+          "surface": "יָֽהּ",
+          "lemma": "יָהּ",
+          "translit": "yah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3050"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

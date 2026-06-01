@@ -47,7 +47,9 @@ export function useSettings() {
 
   const updateSettings = useCallback((updates: Partial<Settings>) => {
     const current = read();
-    write({ ...current, ...updates });
+    const next = { ...current, ...updates };
+    console.log(`[Settings] Updating:`, updates, "→ new state:", next);
+    write(next);
   }, []);
 
   return { ...settings, updateSettings };

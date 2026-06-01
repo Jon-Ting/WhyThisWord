@@ -1,1 +1,3286 @@
-{"id":"isaiah-7","name":"Isaiah","chapter":7,"verses":[{"ref":"Isaiah 7:1","englishText":"In the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up to Jerusalem to war against it, but could not prevail against it.","tokens":[{"id":"isaiah-7-1-0","surface":"וַיְהִ֡י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"isaiah-7-1-1","surface":"בִּימֵ֣י","lemma":"יוֹם","translit":"biymey","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H3117"},{"id":"isaiah-7-1-2","surface":"אָ֠חָז","lemma":"אָחָז","translit":"'achaz","morph":"Noun proper","glosses":[],"strongs":"H271"},{"id":"isaiah-7-1-3","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"isaiah-7-1-4","surface":"יוֹתָ֨ם","lemma":"יוֹתָם","translit":"yvotam","morph":"Noun proper","glosses":[],"strongs":"H3147"},{"id":"isaiah-7-1-5","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"isaiah-7-1-6","surface":"עֻזִּיָּ֜הוּ","lemma":"עֻזִּיָּה","translit":"`uziyahv","morph":"Noun proper","glosses":[],"strongs":"H5818"},{"id":"isaiah-7-1-7","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"isaiah-7-1-8","surface":"יְהוּדָ֗ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"isaiah-7-1-9","surface":"עָלָ֣ה","lemma":"עָלָה","translit":"`alah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"isaiah-7-1-10","surface":"רְצִ֣ין","lemma":"רְצִין","translit":"retsiyn","morph":"Noun proper","glosses":[],"strongs":"H7526"},{"id":"isaiah-7-1-11","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"isaiah-7-1-12","surface":"אֲ֠רָם","lemma":"אֲרָם","translit":"'ram","morph":"Noun proper","glosses":[],"strongs":"H758"},{"id":"isaiah-7-1-13","surface":"וּפֶ֨קַח","lemma":"פֶּקַח","translit":"vpeqach","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H6492"},{"id":"isaiah-7-1-14","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"isaiah-7-1-15","surface":"רְמַלְיָ֤הוּ","lemma":"רְמַלְיָהוּ","translit":"remaleyahv","morph":"Noun proper","glosses":[],"strongs":"H7425"},{"id":"isaiah-7-1-16","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"isaiah-7-1-17","surface":"יִשְׂרָאֵל֙","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"isaiah-7-1-18","surface":"יְר֣וּשָׁלִַ֔ם","lemma":"יְרוּשָׁלַ͏ִם","translit":"yervshalaim","morph":"Noun proper","glosses":[],"strongs":"H3389"},{"id":"isaiah-7-1-19","surface":"לַמִּלְחָמָ֖ה","lemma":"מִלְחָמָה","translit":"lamilechamah","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4421"},{"id":"isaiah-7-1-20","surface":"עָלֶ֑יהָ","lemma":"עַל","translit":"`aleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H5921"},{"id":"isaiah-7-1-21","surface":"וְלֹ֥א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-7-1-22","surface":"יָכֹ֖ל","lemma":"יָכֹל","translit":"yakol","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H3201"},{"id":"isaiah-7-1-23","surface":"לְהִלָּחֵ֥ם","lemma":"לָחַם","translit":"lehilachem","morph":"Preposition + Verb Niphal Infinitive Construct","glosses":[],"strongs":"H3898"},{"id":"isaiah-7-1-24","surface":"עָלֶֽיהָ","lemma":"עַל","translit":"`aleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H5921"}],"language":"hebrew"},{"ref":"Isaiah 7:2","englishText":"It was told the house of David, saying, “Syria is allied with Ephraim.” His heart trembled, and the heart of his people, as the trees of the forest tremble with the wind.","tokens":[{"id":"isaiah-7-2-0","surface":"וַיֻּגַּ֗ד","lemma":"נָגַד","translit":"vayugad","morph":"Conjunction + Verb Hophal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5046"},{"id":"isaiah-7-2-1","surface":"לְבֵ֤ית","lemma":"בַּיִת","translit":"lebeyt","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"isaiah-7-2-2","surface":"דָּוִד֙","lemma":"דָּוִד","translit":"david","morph":"Noun proper","glosses":[],"strongs":"H1732"},{"id":"isaiah-7-2-3","surface":"לֵאמֹ֔ר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"},{"id":"isaiah-7-2-4","surface":"נָ֥חָֽה","lemma":"נוּחַ","translit":"nachah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5117"},{"id":"isaiah-7-2-5","surface":"אֲרָ֖ם","lemma":"אֲרָם","translit":"'ram","morph":"Noun proper","glosses":[],"strongs":"H758"},{"id":"isaiah-7-2-6","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"isaiah-7-2-7","surface":"אֶפְרָ֑יִם","lemma":"אֶפְרַיִם","translit":"'eperayim","morph":"Noun proper","glosses":[],"strongs":"H669"},{"id":"isaiah-7-2-8","surface":"וַיָּ֤נַע","lemma":"נוּעַ","translit":"vayana`","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5128"},{"id":"isaiah-7-2-9","surface":"לְבָבוֹ֙","lemma":"לֵבָב","translit":"lebabvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3824"},{"id":"isaiah-7-2-10","surface":"וּלְבַ֣ב","lemma":"לֵבָב","translit":"vlebab","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3824"},{"id":"isaiah-7-2-11","surface":"עַמּ֔וֹ","lemma":"עַם","translit":"`amvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5971"},{"id":"isaiah-7-2-12","surface":"כְּנ֥וֹעַ","lemma":"נוּעַ","translit":"kenvo`a","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H5128"},{"id":"isaiah-7-2-13","surface":"עֲצֵי","lemma":"עֵץ","translit":"`tsey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H6086"},{"id":"isaiah-7-2-14","surface":"יַ֖עַר","lemma":"יַעַר","translit":"ya`ar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3293"},{"id":"isaiah-7-2-15","surface":"מִפְּנֵי","lemma":"פָּנִים","translit":"mipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"isaiah-7-2-16","surface":"רֽוּחַ","lemma":"רוּחַ","translit":"rvcha","morph":"Noun common singular absolute","glosses":[],"strongs":"H7307"}],"language":"hebrew"},{"ref":"Isaiah 7:3","englishText":"Then Yahweh said to Isaiah, “Go out now to meet Ahaz, you, and Shearjashub your son, at the end of the conduit of the upper pool, on the highway of the fuller’s field.","tokens":[{"id":"isaiah-7-3-0","surface":"וַיֹּ֣אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"isaiah-7-3-1","surface":"יְהוָה֮","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-7-3-2","surface":"אֶֽל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"isaiah-7-3-3","surface":"יְשַׁעְיָהוּ֒","lemma":"יְשַׁעְיָה","translit":"yesha`eyahv","morph":"Noun proper","glosses":[],"strongs":"H3470"},{"id":"isaiah-7-3-4","surface":"צֵא","lemma":"יָצָא","translit":"tse'","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H3318"},{"id":"isaiah-7-3-5","surface":"נָא֙","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"isaiah-7-3-6","surface":"לִקְרַ֣את","lemma":"קִרְאָה","translit":"liqera't","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H7125"},{"id":"isaiah-7-3-7","surface":"אָחָ֔ז","lemma":"אָחָז","translit":"'achaz","morph":"Noun proper","glosses":[],"strongs":"H271"},{"id":"isaiah-7-3-8","surface":"אַתָּ֕ה","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"isaiah-7-3-9","surface":"וּשְׁאָ֖ר","lemma":"שְׁאָר יָשׁוּב","translit":"vshe'ar","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H7610"},{"id":"isaiah-7-3-10","surface":"יָשׁ֣וּב","lemma":"שְׁאָר יָשׁוּב","translit":"yashvb","morph":"Noun proper","glosses":[],"strongs":"H7610"},{"id":"isaiah-7-3-11","surface":"בְּנֶ֑ךָ","lemma":"בֵּן","translit":"beneka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1121"},{"id":"isaiah-7-3-12","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"isaiah-7-3-13","surface":"קְצֵ֗ה","lemma":"קָצֶה","translit":"qetseh","morph":"Noun common singular construct","glosses":[],"strongs":"H7097"},{"id":"isaiah-7-3-14","surface":"תְּעָלַת֙","lemma":"תְּעָלָה","translit":"te`alat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H8585"},{"id":"isaiah-7-3-15","surface":"הַבְּרֵכָ֣ה","lemma":"בְּרֵכָה","translit":"haberekah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H1295"},{"id":"isaiah-7-3-16","surface":"הָעֶלְיוֹנָ֔ה","lemma":"עֶלְיוֹן","translit":"ha`eleyvonah","morph":"Particle dual + Adjective","glosses":[],"strongs":"H5945"},{"id":"isaiah-7-3-17","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"isaiah-7-3-18","surface":"מְסִלַּ֖ת","lemma":"מְסִלָּה","translit":"mesilat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H4546"},{"id":"isaiah-7-3-19","surface":"שְׂדֵ֥ה","lemma":"שָׂדֶה","translit":"shedeh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7704"},{"id":"isaiah-7-3-20","surface":"כוֹבֵֽס","lemma":"כָּבַס","translit":"kvobes","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3526"}],"language":"hebrew"},{"ref":"Isaiah 7:4","englishText":"Tell him, ‘Be careful, and keep calm. Don’t be afraid, neither let your heart be faint because of these two tails of smoking torches, for the fierce anger of Rezin and Syria, and of the son of Remaliah.","tokens":[{"id":"isaiah-7-4-0","surface":"וְאָמַרְתָּ֣","lemma":"אָמַר","translit":"ve'amareta","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H559"},{"id":"isaiah-7-4-1","surface":"אֵ֠לָיו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"isaiah-7-4-2","surface":"הִשָּׁמֵ֨ר","lemma":"שָׁמַר","translit":"hishamer","morph":"Verb Niphal Weqatal 2nd masculine singular","glosses":[],"strongs":"H8104"},{"id":"isaiah-7-4-3","surface":"וְהַשְׁקֵ֜ט","lemma":"שָׁקַט","translit":"vehasheqet","morph":"Conjunction + Verb Hiphil Weqatal 2nd masculine singular","glosses":[],"strongs":"H8252"},{"id":"isaiah-7-4-4","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"isaiah-7-4-5","surface":"תִּירָ֗א","lemma":"יָרֵא","translit":"tiyra'","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H3372"},{"id":"isaiah-7-4-6","surface":"וּלְבָבְךָ֙","lemma":"לֵבָב","translit":"vlebabeka","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3824"},{"id":"isaiah-7-4-7","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"isaiah-7-4-8","surface":"יֵרַ֔ךְ","lemma":"רָכַךְ","translit":"yerake","morph":"Verb Qal Jussive 3rd masculine singular","glosses":[],"strongs":"H7401"},{"id":"isaiah-7-4-9","surface":"מִשְּׁנֵ֨י","lemma":"שְׁנַיִם","translit":"misheney","morph":"Preposition + Adjective common masculine dual construct","glosses":[],"strongs":"H8147"},{"id":"isaiah-7-4-10","surface":"זַנְב֧וֹת","lemma":"זָנָב","translit":"zanebvot","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H2180"},{"id":"isaiah-7-4-11","surface":"הָאוּדִ֛ים","lemma":"אוּד","translit":"ha'vdiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H181"},{"id":"isaiah-7-4-12","surface":"הָעֲשֵׁנִ֖ים","lemma":"עָשֵׁן","translit":"ha`sheniym","morph":"Particle dual + Adjective","glosses":[],"strongs":"H6226"},{"id":"isaiah-7-4-13","surface":"הָאֵ֑לֶּה","lemma":"אֵלֶּה","translit":"ha'eleh","morph":"Particle dual + Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"isaiah-7-4-14","surface":"בָּחֳרִי","lemma":"חֳרִי","translit":"bachriy","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H2750"},{"id":"isaiah-7-4-15","surface":"אַ֛ף","lemma":"אַף","translit":"'ap","morph":"Particle absolute","glosses":[],"strongs":"H639"},{"id":"isaiah-7-4-16","surface":"רְצִ֥ין","lemma":"רְצִין","translit":"retsiyn","morph":"Noun proper","glosses":[],"strongs":"H7526"},{"id":"isaiah-7-4-17","surface":"וַאֲרָ֖ם","lemma":"אֲרָם","translit":"va'ram","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H758"},{"id":"isaiah-7-4-18","surface":"וּבֶן","lemma":"בֵּן","translit":"vben","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"isaiah-7-4-19","surface":"רְמַלְיָֽהוּ","lemma":"רְמַלְיָהוּ","translit":"remaleyahv","morph":"Noun proper","glosses":[],"strongs":"H7425"}],"language":"hebrew"},{"ref":"Isaiah 7:5","englishText":"Because Syria, Ephraim, and the son of Remaliah, have plotted evil against you, saying,","tokens":[{"id":"isaiah-7-5-0","surface":"יַ֗עַן","lemma":"יַעַן","translit":"ya`an","morph":"Conjunction","glosses":[],"strongs":"H3282"},{"id":"isaiah-7-5-1","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-7-5-2","surface":"יָעַ֥ץ","lemma":"יָעַץ","translit":"ya`ats","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H3289"},{"id":"isaiah-7-5-3","surface":"עָלֶ֛יךָ","lemma":"עַל","translit":"`aleyka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5921"},{"id":"isaiah-7-5-4","surface":"אֲרָ֖ם","lemma":"אֲרָם","translit":"'ram","morph":"Noun proper","glosses":[],"strongs":"H758"},{"id":"isaiah-7-5-5","surface":"רָעָ֑ה","lemma":"רַע","translit":"ra`ah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H7451"},{"id":"isaiah-7-5-6","surface":"אֶפְרַ֥יִם","lemma":"אֶפְרַיִם","translit":"'eperayim","morph":"Noun proper","glosses":[],"strongs":"H669"},{"id":"isaiah-7-5-7","surface":"וּבֶן","lemma":"בֵּן","translit":"vben","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"isaiah-7-5-8","surface":"רְמַלְיָ֖הוּ","lemma":"רְמַלְיָהוּ","translit":"remaleyahv","morph":"Noun proper","glosses":[],"strongs":"H7425"},{"id":"isaiah-7-5-9","surface":"לֵאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Isaiah 7:6","englishText":"“Let’s go up against Judah, and tear it apart, and let’s divide it among ourselves, and set up a king in its midst, even the son of Tabeel.”","tokens":[{"id":"isaiah-7-6-0","surface":"נַעֲלֶ֤ה","lemma":"עָלָה","translit":"na`leh","morph":"Verb Qal Imperative 1st common plural","glosses":[],"strongs":"H5927"},{"id":"isaiah-7-6-1","surface":"בִֽיהוּדָה֙","lemma":"יְהוּדָה","translit":"biyhvdah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3063"},{"id":"isaiah-7-6-2","surface":"וּנְקִיצֶ֔נָּה","lemma":"קוּץ","translit":"vneqiytsenah","morph":"Conjunction + Verb Hiphil Imperative 1st common plural + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6973"},{"id":"isaiah-7-6-3","surface":"וְנַבְקִעֶ֖נָּה","lemma":"בָּקַע","translit":"venabeqi`enah","morph":"Conjunction + Verb Hiphil Imperative 1st common plural + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1234"},{"id":"isaiah-7-6-4","surface":"אֵלֵ֑ינוּ","lemma":"אֵל","translit":"'eleynv","morph":"Preposition + Suffix plural 1st common","glosses":[],"strongs":"H413"},{"id":"isaiah-7-6-5","surface":"וְנַמְלִ֥יךְ","lemma":"מָלַךְ","translit":"venameliyke","morph":"Conjunction + Verb Hiphil Imperative 1st common plural","glosses":[],"strongs":"H4427"},{"id":"isaiah-7-6-6","surface":"מֶ֨לֶךְ֙","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4428"},{"id":"isaiah-7-6-7","surface":"בְּתוֹכָ֔הּ","lemma":"תָּוֶךְ","translit":"betvokah","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H8432"},{"id":"isaiah-7-6-8","surface":"אֵ֖ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"isaiah-7-6-9","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"isaiah-7-6-10","surface":"טָֽבְאַֽל","lemma":"טָבְאֵל","translit":"tabe'al","morph":"Noun proper","glosses":[],"strongs":"H2870"}],"language":"hebrew"},{"ref":"Isaiah 7:7","englishText":"This is what the Lord Yahweh says: “It shall not stand, neither shall it happen.”","tokens":[{"id":"isaiah-7-7-0","surface":"כֹּ֥ה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"isaiah-7-7-1","surface":"אָמַ֖ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"isaiah-7-7-2","surface":"אֲדֹנָ֣י","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"isaiah-7-7-3","surface":"יְהוִ֑ה","lemma":"יְהֹוִה","translit":"yehvih","morph":"Noun proper","glosses":[],"strongs":"H3069"},{"id":"isaiah-7-7-4","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-7-7-5","surface":"תָק֖וּם","lemma":"קוּם","translit":"taqvm","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H6965"},{"id":"isaiah-7-7-6","surface":"וְלֹ֥א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-7-7-7","surface":"תִֽהְיֶֽה","lemma":"הָיָה","translit":"tiheyeh","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H1961"}],"language":"hebrew"},{"ref":"Isaiah 7:8","englishText":"For the head of Syria is Damascus, and the head of Damascus is Rezin; and within sixty-five years Ephraim shall be broken in pieces, so that it shall not be a people;","tokens":[{"id":"isaiah-7-8-0","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-7-8-1","surface":"רֹ֤אשׁ","lemma":"רֹאשׁ","translit":"ro'sh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7218"},{"id":"isaiah-7-8-2","surface":"אֲרָם֙","lemma":"אֲרָם","translit":"'ram","morph":"Noun proper","glosses":[],"strongs":"H758"},{"id":"isaiah-7-8-3","surface":"דַּמֶּ֔שֶׂק","lemma":"דַּמֶּשֶׂק","translit":"damesheq","morph":"Noun proper","glosses":[],"strongs":"H1834"},{"id":"isaiah-7-8-4","surface":"וְרֹ֥אשׁ","lemma":"רֹאשׁ","translit":"vero'sh","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H7218"},{"id":"isaiah-7-8-5","surface":"דַּמֶּ֖שֶׂק","lemma":"דַּמֶּשֶׂק","translit":"damesheq","morph":"Noun proper","glosses":[],"strongs":"H1834"},{"id":"isaiah-7-8-6","surface":"רְצִ֑ין","lemma":"רְצִין","translit":"retsiyn","morph":"Noun proper","glosses":[],"strongs":"H7526"},{"id":"isaiah-7-8-7","surface":"וּבְע֗וֹד","lemma":"בְּעַד","translit":"vbe`vod","morph":"Conjunction + Preposition + Adverb","glosses":[],"strongs":"H1157"},{"id":"isaiah-7-8-8","surface":"שִׁשִּׁ֤ים","lemma":"שִׁשִּׁים","translit":"shishiym","morph":"Adjective common plural absolute","glosses":[],"strongs":"H8346"},{"id":"isaiah-7-8-9","surface":"וְחָמֵשׁ֙","lemma":"חָמֵשׁ","translit":"vechamesh","morph":"Conjunction + Adjective common feminine singular absolute","glosses":[],"strongs":"H2568"},{"id":"isaiah-7-8-10","surface":"שָׁנָ֔ה","lemma":"שָׁנֶה","translit":"shanah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8141"},{"id":"isaiah-7-8-11","surface":"יֵחַ֥ת","lemma":"חַת","translit":"yechat","morph":"Verb Niphal Imperative 3rd masculine singular","glosses":[],"strongs":"H2844"},{"id":"isaiah-7-8-12","surface":"אֶפְרַ֖יִם","lemma":"אֶפְרַיִם","translit":"'eperayim","morph":"Noun proper","glosses":[],"strongs":"H669"},{"id":"isaiah-7-8-13","surface":"מֵעָֽם","lemma":"עַם","translit":"me`am","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"}],"language":"hebrew"},{"ref":"Isaiah 7:9","englishText":"and the head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If you will not believe, surely you shall not be established.’”  ","tokens":[{"id":"isaiah-7-9-0","surface":"וְרֹ֤אשׁ","lemma":"רֹאשׁ","translit":"vero'sh","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H7218"},{"id":"isaiah-7-9-1","surface":"אֶפְרַ֨יִם֙","lemma":"אֶפְרַיִם","translit":"'eperayim","morph":"Noun proper","glosses":[],"strongs":"H669"},{"id":"isaiah-7-9-2","surface":"שֹׁמְר֔וֹן","lemma":"שֹׁמְרוֹן","translit":"shomervon","morph":"Noun proper","glosses":[],"strongs":"H8111"},{"id":"isaiah-7-9-3","surface":"וְרֹ֥אשׁ","lemma":"רֹאשׁ","translit":"vero'sh","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H7218"},{"id":"isaiah-7-9-4","surface":"שֹׁמְר֖וֹן","lemma":"שֹׁמְרוֹן","translit":"shomervon","morph":"Noun proper","glosses":[],"strongs":"H8111"},{"id":"isaiah-7-9-5","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"isaiah-7-9-6","surface":"רְמַלְיָ֑הוּ","lemma":"רְמַלְיָהוּ","translit":"remaleyahv","morph":"Noun proper","glosses":[],"strongs":"H7425"},{"id":"isaiah-7-9-7","surface":"אִ֚ם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"isaiah-7-9-8","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-7-9-9","surface":"תַאֲמִ֔ינוּ","lemma":"אָמַן","translit":"ta'miynv","morph":"Verb Hiphil Imperative 2nd masculine plural","glosses":[],"strongs":"H539"},{"id":"isaiah-7-9-10","surface":"כִּ֖י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-7-9-11","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-7-9-12","surface":"תֵאָמֵֽנוּ","lemma":"אָמַן","translit":"te'amenv","morph":"Verb Niphal Imperative 2nd masculine plural","glosses":[],"strongs":"H539"}],"language":"hebrew"},{"ref":"Isaiah 7:10","englishText":"  Yahweh spoke again to Ahaz, saying,","tokens":[{"id":"isaiah-7-10-0","surface":"וַיּ֣וֹסֶף","lemma":"יָסַף","translit":"vayvosep","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3254"},{"id":"isaiah-7-10-1","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-7-10-2","surface":"דַּבֵּ֥ר","lemma":"דָבַר","translit":"daber","morph":"Verb Piel Infinitive Construct","glosses":[],"strongs":"H1696"},{"id":"isaiah-7-10-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"isaiah-7-10-4","surface":"אָחָ֖ז","lemma":"אָחָז","translit":"'achaz","morph":"Noun proper","glosses":[],"strongs":"H271"},{"id":"isaiah-7-10-5","surface":"לֵאמֹֽר","lemma":"אָמַר","translit":"le'mor","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H559"}],"language":"hebrew"},{"ref":"Isaiah 7:11","englishText":"“Ask a sign of Yahweh your God; ask it either in the depth, or in the height above.”  ","tokens":[{"id":"isaiah-7-11-0","surface":"שְׁאַל","lemma":"שָׁאַל","translit":"she'al","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H7592"},{"id":"isaiah-7-11-1","surface":"לְךָ֣","lemma":"לְךָ֣","translit":"leka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[]},{"id":"isaiah-7-11-2","surface":"א֔וֹת","lemma":"אוֹת","translit":"'vot","morph":"Noun common singular absolute","glosses":[],"strongs":"H226"},{"id":"isaiah-7-11-3","surface":"מֵעִ֖ם","lemma":"עִם","translit":"me`im","morph":"Preposition + Preposition","glosses":[],"strongs":"H5973"},{"id":"isaiah-7-11-4","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-7-11-5","surface":"אֱלֹהֶ֑יךָ","lemma":"אֱלֹהִים","translit":"'loheyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H430"},{"id":"isaiah-7-11-6","surface":"הַעְמֵ֣ק","lemma":"עָמַק","translit":"ha`emeq","morph":"Verb Hiphil Infinitive Absolute","glosses":[],"strongs":"H6009"},{"id":"isaiah-7-11-7","surface":"שְׁאָ֔לָה","lemma":"שְׁאוֹל","translit":"she'alah","morph":"Verb Qal Infinitive Construct","glosses":[],"strongs":"H7585"},{"id":"isaiah-7-11-8","surface":"א֖וֹ","lemma":"אוֹ","translit":"'vo","morph":"Conjunction","glosses":[],"strongs":"H176"},{"id":"isaiah-7-11-9","surface":"הַגְבֵּ֥הַּ","lemma":"גָּבַהּ","translit":"hagebeha","morph":"Verb Hiphil Infinitive Absolute","glosses":[],"strongs":"H1361"},{"id":"isaiah-7-11-10","surface":"לְמָֽעְלָה","lemma":"מַעַל","translit":"lema`elah","morph":"Preposition + Adverb + Suffix dual","glosses":[],"strongs":"H4605"}],"language":"hebrew"},{"ref":"Isaiah 7:12","englishText":"  But Ahaz said, “I will not ask, neither will I tempt Yahweh.”  ","tokens":[{"id":"isaiah-7-12-0","surface":"וַיֹּ֖אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"isaiah-7-12-1","surface":"אָחָ֑ז","lemma":"אָחָז","translit":"'achaz","morph":"Noun proper","glosses":[],"strongs":"H271"},{"id":"isaiah-7-12-2","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-7-12-3","surface":"אֶשְׁאַ֥ל","lemma":"שָׁאַל","translit":"'eshe'al","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H7592"},{"id":"isaiah-7-12-4","surface":"וְלֹֽא","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-7-12-5","surface":"אֲנַסֶּ֖ה","lemma":"נָסָה","translit":"'naseh","morph":"Verb Piel Imperative 1st common singular","glosses":[],"strongs":"H5254"},{"id":"isaiah-7-12-6","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"isaiah-7-12-7","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"Isaiah 7:13","englishText":"  He said, “Listen now, house of David. Is it not enough for you to try the patience of men, that you will try the patience of my God also?","tokens":[{"id":"isaiah-7-13-0","surface":"וַיֹּ֕אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"isaiah-7-13-1","surface":"שִׁמְעוּ","lemma":"שָׁמַע","translit":"shime`v","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H8085"},{"id":"isaiah-7-13-2","surface":"נָ֖א","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"isaiah-7-13-3","surface":"בֵּ֣ית","lemma":"בַּיִת","translit":"beyt","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"isaiah-7-13-4","surface":"דָּוִ֑ד","lemma":"דָּוִד","translit":"david","morph":"Noun proper","glosses":[],"strongs":"H1732"},{"id":"isaiah-7-13-5","surface":"הַמְעַ֤ט","lemma":"מְעַט","translit":"hame`at","morph":"Particle + Noun common masculine singular absolute","glosses":[],"strongs":"H4592"},{"id":"isaiah-7-13-6","surface":"מִכֶּם֙","lemma":"מִן","translit":"mikem","morph":"Preposition + Suffix plural 2nd masculine","glosses":[],"strongs":"H4480"},{"id":"isaiah-7-13-7","surface":"הַלְא֣וֹת","lemma":"לָאָה","translit":"hale'vot","morph":"Verb Hiphil Infinitive Construct","glosses":[],"strongs":"H3811"},{"id":"isaiah-7-13-8","surface":"אֲנָשִׁ֔ים","lemma":"אִישׁ","translit":"'nashiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H376"},{"id":"isaiah-7-13-9","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-7-13-10","surface":"תַלְא֖וּ","lemma":"לָאָה","translit":"tale'v","morph":"Verb Hiphil Imperative 2nd masculine plural","glosses":[],"strongs":"H3811"},{"id":"isaiah-7-13-11","surface":"גַּ֥ם","lemma":"גַּם","translit":"gam","morph":"Particle absolute","glosses":[],"strongs":"H1571"},{"id":"isaiah-7-13-12","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"isaiah-7-13-13","surface":"אֱלֹהָֽי","lemma":"אֱלֹהִים","translit":"'lohay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H430"}],"language":"hebrew"},{"ref":"Isaiah 7:14","englishText":"Therefore the Lord himself will give you a sign. Behold, the virgin will conceive, and bear a son, and shall call his name Immanuel.","tokens":[{"id":"isaiah-7-14-0","surface":"לָ֠כֵן","lemma":"כֵּן","translit":"laken","morph":"Preposition + Adverb","glosses":[],"strongs":"H3651"},{"id":"isaiah-7-14-1","surface":"יִתֵּ֨ן","lemma":"נָתַן","translit":"yiten","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"isaiah-7-14-2","surface":"אֲדֹנָ֥י","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"isaiah-7-14-3","surface":"ה֛וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"isaiah-7-14-4","surface":"לָכֶ֖ם","lemma":"לָכֶ֖ם","translit":"lakem","morph":"Preposition + Suffix plural 2nd masculine","glosses":[]},{"id":"isaiah-7-14-5","surface":"א֑וֹת","lemma":"אוֹת","translit":"'vot","morph":"Noun common singular absolute","glosses":[],"strongs":"H226"},{"id":"isaiah-7-14-6","surface":"הִנֵּ֣ה","lemma":"הִנֵּה","translit":"hineh","morph":"Particle masculine","glosses":[],"strongs":"H2009"},{"id":"isaiah-7-14-7","surface":"הָעַלְמָ֗ה","lemma":"עַלְמָה","translit":"ha`alemah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H5959"},{"id":"isaiah-7-14-8","surface":"הָרָה֙","lemma":"הָרֶה","translit":"harah","morph":"Adjective","glosses":[],"strongs":"H2030"},{"id":"isaiah-7-14-9","surface":"וְיֹלֶ֣דֶת","lemma":"יָלַד","translit":"veyoledet","morph":"Conjunction + Verb Qal Passive Participle","glosses":[],"strongs":"H3205"},{"id":"isaiah-7-14-10","surface":"בֵּ֔ן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1121"},{"id":"isaiah-7-14-11","surface":"וְקָרָ֥את","lemma":"קָרָא","translit":"veqara't","morph":"Conjunction + Verb Qal Perfect 3rd feminine singular","glosses":[],"strongs":"H7121"},{"id":"isaiah-7-14-12","surface":"שְׁמ֖וֹ","lemma":"שֵׁם","translit":"shemvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H8034"},{"id":"isaiah-7-14-13","surface":"עִמָּ֥נוּ","lemma":"עִמָּנוּאֵל","translit":"`imanv","morph":"Noun proper","glosses":[],"strongs":"H6005"},{"id":"isaiah-7-14-14","surface":"אֵֽל","lemma":"עִמָּנוּאֵל","translit":"'el","morph":"Noun proper","glosses":[],"strongs":"H6005"}],"language":"hebrew"},{"ref":"Isaiah 7:15","englishText":"He shall eat butter and honey when he knows to refuse the evil, and choose the good.","tokens":[{"id":"isaiah-7-15-0","surface":"חֶמְאָ֥ה","lemma":"חֶמְאָה","translit":"cheme'ah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2529"},{"id":"isaiah-7-15-1","surface":"וּדְבַ֖שׁ","lemma":"דְּבַשׁ","translit":"vdebash","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H1706"},{"id":"isaiah-7-15-2","surface":"יֹאכֵ֑ל","lemma":"אָכַל","translit":"yo'kel","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H398"},{"id":"isaiah-7-15-3","surface":"לְדַעְתּ֛וֹ","lemma":"יָדַע","translit":"leda`etvo","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3045"},{"id":"isaiah-7-15-4","surface":"מָא֥וֹס","lemma":"מָאַס","translit":"ma'vos","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H3988"},{"id":"isaiah-7-15-5","surface":"בָּרָ֖ע","lemma":"רַע","translit":"bara`","morph":"Preposition dual + Adjective","glosses":[],"strongs":"H7451"},{"id":"isaiah-7-15-6","surface":"וּבָח֥וֹר","lemma":"בָּחַר","translit":"vbachvor","morph":"Conjunction + Verb Qal Infinitive Absolute","glosses":[],"strongs":"H977"},{"id":"isaiah-7-15-7","surface":"בַּטּֽוֹב","lemma":"טוֹב","translit":"batvob","morph":"Preposition dual + Adjective","glosses":[],"strongs":"H2896"}],"language":"hebrew"},{"ref":"Isaiah 7:16","englishText":"For before the child knows to refuse the evil, and choose the good, the land whose two kings you abhor shall be forsaken.","tokens":[{"id":"isaiah-7-16-0","surface":"כִּ֠י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-7-16-1","surface":"בְּטֶ֨רֶם","lemma":"טֶרֶם","translit":"beterem","morph":"Preposition + Adverb","glosses":[],"strongs":"H2962"},{"id":"isaiah-7-16-2","surface":"יֵדַ֥ע","lemma":"יָדַע","translit":"yeda`","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H3045"},{"id":"isaiah-7-16-3","surface":"הַנַּ֛עַר","lemma":"נַעַר","translit":"hana`ar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5288"},{"id":"isaiah-7-16-4","surface":"מָאֹ֥ס","lemma":"מָאַס","translit":"ma'os","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H3988"},{"id":"isaiah-7-16-5","surface":"בָּרָ֖ע","lemma":"רַע","translit":"bara`","morph":"Preposition dual + Adjective","glosses":[],"strongs":"H7451"},{"id":"isaiah-7-16-6","surface":"וּבָחֹ֣ר","lemma":"בָּחַר","translit":"vbachor","morph":"Conjunction + Verb Qal Infinitive Absolute","glosses":[],"strongs":"H977"},{"id":"isaiah-7-16-7","surface":"בַּטּ֑וֹב","lemma":"טוֹב","translit":"batvob","morph":"Preposition dual + Adjective","glosses":[],"strongs":"H2896"},{"id":"isaiah-7-16-8","surface":"תֵּעָזֵ֤ב","lemma":"עָזַב","translit":"te`azeb","morph":"Verb Niphal Imperative 3rd feminine singular","glosses":[],"strongs":"H5800"},{"id":"isaiah-7-16-9","surface":"הָאֲדָמָה֙","lemma":"אֲדָמָה","translit":"ha'damah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H127"},{"id":"isaiah-7-16-10","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"isaiah-7-16-11","surface":"אַתָּ֣ה","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"isaiah-7-16-12","surface":"קָ֔ץ","lemma":"קוּץ","translit":"qats","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H6973"},{"id":"isaiah-7-16-13","surface":"מִפְּנֵ֖י","lemma":"פָּנִים","translit":"mipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"isaiah-7-16-14","surface":"שְׁנֵ֥י","lemma":"שְׁנַיִם","translit":"sheney","morph":"Adjective common masculine dual construct","glosses":[],"strongs":"H8147"},{"id":"isaiah-7-16-15","surface":"מְלָכֶֽיהָ","lemma":"מֶלֶךְ","translit":"melakeyha","morph":"Noun common masculine plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H4428"}],"language":"hebrew"},{"ref":"Isaiah 7:17","englishText":"Yahweh will bring on you, on your people, and on your father’s house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria.","tokens":[{"id":"isaiah-7-17-0","surface":"יָבִ֨יא","lemma":"בּוֹא","translit":"yabiy'","morph":"Verb Hiphil Imperative 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"isaiah-7-17-1","surface":"יְהוָ֜ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-7-17-2","surface":"עָלֶ֗יךָ","lemma":"עַל","translit":"`aleyka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5921"},{"id":"isaiah-7-17-3","surface":"וְעַֽל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"isaiah-7-17-4","surface":"עַמְּךָ֮","lemma":"עַם","translit":"`ameka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5971"},{"id":"isaiah-7-17-5","surface":"וְעַל","lemma":"עַל","translit":"ve`al","morph":"Conjunction + Preposition","glosses":[],"strongs":"H5921"},{"id":"isaiah-7-17-6","surface":"בֵּ֣ית","lemma":"בַּיִת","translit":"beyt","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"isaiah-7-17-7","surface":"אָבִיךָ֒","lemma":"אָב","translit":"'abiyka","morph":"Noun common masculine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H1"},{"id":"isaiah-7-17-8","surface":"יָמִים֙","lemma":"יוֹם","translit":"yamiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H3117"},{"id":"isaiah-7-17-9","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"isaiah-7-17-10","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-7-17-11","surface":"בָ֔אוּ","lemma":"בּוֹא","translit":"ba'v","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H935"},{"id":"isaiah-7-17-12","surface":"לְמִיּ֥וֹם","lemma":"יוֹם","translit":"lemiyvom","morph":"Preposition + Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3117"},{"id":"isaiah-7-17-13","surface":"סוּר","lemma":"סוּר","translit":"svr","morph":"Verb Qal Infinitive Construct","glosses":[],"strongs":"H5493"},{"id":"isaiah-7-17-14","surface":"אֶפְרַ֖יִם","lemma":"אֶפְרַיִם","translit":"'eperayim","morph":"Noun proper","glosses":[],"strongs":"H669"},{"id":"isaiah-7-17-15","surface":"מֵעַ֣ל","lemma":"עַל","translit":"me`al","morph":"Preposition + Preposition","glosses":[],"strongs":"H5921"},{"id":"isaiah-7-17-16","surface":"יְהוּדָ֑ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"isaiah-7-17-17","surface":"אֵ֖ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"isaiah-7-17-18","surface":"מֶ֥לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"isaiah-7-17-19","surface":"אַשּֽׁוּר","lemma":"אַשּׁוּר","translit":"'ashvr","morph":"Noun proper","glosses":[],"strongs":"H804"}],"language":"hebrew"},{"ref":"Isaiah 7:18","englishText":"It will happen in that day that Yahweh will whistle for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.","tokens":[{"id":"isaiah-7-18-0","surface":"וְהָיָ֣ה","lemma":"הָיָה","translit":"vehayah","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"isaiah-7-18-1","surface":"בַּיּ֣וֹם","lemma":"יוֹם","translit":"bayvom","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"isaiah-7-18-2","surface":"הַה֗וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"isaiah-7-18-3","surface":"יִשְׁרֹ֤ק","lemma":"שָׁרַק","translit":"yisheroq","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H8319"},{"id":"isaiah-7-18-4","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"isaiah-7-18-5","surface":"לַזְּב֔וּב","lemma":"זְבוּב","translit":"lazebvb","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2070"},{"id":"isaiah-7-18-6","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"isaiah-7-18-7","surface":"בִּקְצֵ֖ה","lemma":"קָצֶה","translit":"biqetseh","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7097"},{"id":"isaiah-7-18-8","surface":"יְאֹרֵ֣י","lemma":"יְאֹר","translit":"ye'orey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H2975"},{"id":"isaiah-7-18-9","surface":"מִצְרָ֑יִם","lemma":"מִצְרַיִם","translit":"mitserayim","morph":"Noun proper","glosses":[],"strongs":"H4714"},{"id":"isaiah-7-18-10","surface":"וְלַ֨דְּבוֹרָ֔ה","lemma":"דְּבוֹרָה","translit":"veladebvorah","morph":"Conjunction + Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H1682"},{"id":"isaiah-7-18-11","surface":"אֲשֶׁ֖ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"isaiah-7-18-12","surface":"בְּאֶ֥רֶץ","lemma":"אֶרֶץ","translit":"be'erets","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H776"},{"id":"isaiah-7-18-13","surface":"אַשּֽׁוּר","lemma":"אַשּׁוּר","translit":"'ashvr","morph":"Noun proper","glosses":[],"strongs":"H804"}],"language":"hebrew"},{"ref":"Isaiah 7:19","englishText":"They shall come, and shall all rest in the desolate valleys, in the clefts of the rocks, on all thorn hedges, and on all pastures.","tokens":[{"id":"isaiah-7-19-0","surface":"וּבָ֨אוּ","lemma":"בּוֹא","translit":"vba'v","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H935"},{"id":"isaiah-7-19-1","surface":"וְנָח֤וּ","lemma":"נוּחַ","translit":"venachv","morph":"Conjunction + Verb Qal Perfect 3rd common plural","glosses":[],"strongs":"H5117"},{"id":"isaiah-7-19-2","surface":"כֻלָּם֙","lemma":"כֹּל","translit":"kulam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H3605"},{"id":"isaiah-7-19-3","surface":"בְּנַחֲלֵ֣י","lemma":"נַחַל","translit":"benachley","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H5158"},{"id":"isaiah-7-19-4","surface":"הַבַּתּ֔וֹת","lemma":"בַּתָּה","translit":"habatvot","morph":"Particle dual + Noun common feminine plural absolute","glosses":[],"strongs":"H1327"},{"id":"isaiah-7-19-5","surface":"וּבִנְקִיקֵ֖י","lemma":"נָקִיק","translit":"vbineqiyqey","morph":"Conjunction + Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H5357"},{"id":"isaiah-7-19-6","surface":"הַסְּלָעִ֑ים","lemma":"סֶלַע","translit":"hasela`iym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5553"},{"id":"isaiah-7-19-7","surface":"וּבְכֹל֙","lemma":"כֹּל","translit":"vbekol","morph":"Conjunction + Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"isaiah-7-19-8","surface":"הַנַּ֣עֲצוּצִ֔ים","lemma":"נַעֲצוּץ","translit":"hana`tsvtsiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5285"},{"id":"isaiah-7-19-9","surface":"וּבְכֹ֖ל","lemma":"כֹּל","translit":"vbekol","morph":"Conjunction + Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"isaiah-7-19-10","surface":"הַנַּהֲלֹלִֽים","lemma":"נַהֲלֹל","translit":"hanahloliym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H5097"}],"language":"hebrew"},{"ref":"Isaiah 7:20","englishText":"In that day the Lord will shave with a razor that is hired in the parts beyond the River, even with the king of Assyria, the head and the hair of the feet; and it shall also consume the beard.","tokens":[{"id":"isaiah-7-20-0","surface":"בַּיּ֣וֹם","lemma":"יוֹם","translit":"bayvom","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"isaiah-7-20-1","surface":"הַה֡וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"isaiah-7-20-2","surface":"יְגַלַּ֣ח","lemma":"גָּלַח","translit":"yegalach","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H1548"},{"id":"isaiah-7-20-3","surface":"אֲדֹנָי֩","lemma":"אֲדֹנָי","translit":"'donay","morph":"Noun common masculine plural construct + Suffix plural 1st common singular","glosses":[],"strongs":"H136"},{"id":"isaiah-7-20-4","surface":"בְּתַ֨עַר","lemma":"תַּעַר","translit":"beta`ar","morph":"Preposition + Noun common singular absolute","glosses":[],"strongs":"H8593"},{"id":"isaiah-7-20-5","surface":"הַשְּׂכִירָ֜ה","lemma":"שְׂכִירָה","translit":"hashekiyrah","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7917"},{"id":"isaiah-7-20-6","surface":"בְּעֶבְרֵ֤י","lemma":"עֵבֶר","translit":"be`eberey","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H5676"},{"id":"isaiah-7-20-7","surface":"נָהָר֙","lemma":"נָהָר","translit":"nahar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5104"},{"id":"isaiah-7-20-8","surface":"בְּמֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"bemeleke","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"isaiah-7-20-9","surface":"אַשּׁ֔וּר","lemma":"אַשּׁוּר","translit":"'ashvr","morph":"Noun proper","glosses":[],"strongs":"H804"},{"id":"isaiah-7-20-10","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"isaiah-7-20-11","surface":"הָרֹ֖אשׁ","lemma":"רֹאשׁ","translit":"haro'sh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7218"},{"id":"isaiah-7-20-12","surface":"וְשַׂ֣עַר","lemma":"שֵׂעָר","translit":"vesha`ar","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H8181"},{"id":"isaiah-7-20-13","surface":"הָרַגְלָ֑יִם","lemma":"רֶגֶל","translit":"haragelayim","morph":"Particle dual + Noun common feminine dual absolute","glosses":[],"strongs":"H7272"},{"id":"isaiah-7-20-14","surface":"וְגַ֥ם","lemma":"גַּם","translit":"vegam","morph":"Conjunction + Particle absolute","glosses":[],"strongs":"H1571"},{"id":"isaiah-7-20-15","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"isaiah-7-20-16","surface":"הַזָּקָ֖ן","lemma":"זָקָן","translit":"hazaqan","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H2206"},{"id":"isaiah-7-20-17","surface":"תִּסְפֶּֽה","lemma":"סָפָה","translit":"tisepeh","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H5595"}],"language":"hebrew"},{"ref":"Isaiah 7:21","englishText":"It shall happen in that day that a man shall keep alive a young cow, and two sheep;","tokens":[{"id":"isaiah-7-21-0","surface":"וְהָיָ֖ה","lemma":"הָיָה","translit":"vehayah","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"isaiah-7-21-1","surface":"בַּיּ֣וֹם","lemma":"יוֹם","translit":"bayvom","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"isaiah-7-21-2","surface":"הַה֑וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"isaiah-7-21-3","surface":"יְחַיֶּה","lemma":"חָיָה","translit":"yechayeh","morph":"Verb Piel Imperative 3rd masculine singular","glosses":[],"strongs":"H2421"},{"id":"isaiah-7-21-4","surface":"אִ֛ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"isaiah-7-21-5","surface":"עֶגְלַ֥ת","lemma":"עֶגְלָה","translit":"`egelat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H5697"},{"id":"isaiah-7-21-6","surface":"בָּקָ֖ר","lemma":"בָּקָר","translit":"baqar","morph":"Noun common singular absolute","glosses":[],"strongs":"H1241"},{"id":"isaiah-7-21-7","surface":"וּשְׁתֵּי","lemma":"שְׁנַיִם","translit":"vshetey","morph":"Conjunction + Adjective common feminine dual construct","glosses":[],"strongs":"H8147"},{"id":"isaiah-7-21-8","surface":"צֹֽאן","lemma":"צֹאן","translit":"tso'n","morph":"Noun common singular absolute","glosses":[],"strongs":"H6629"}],"language":"hebrew"},{"ref":"Isaiah 7:22","englishText":"and it shall happen, that because of the abundance of milk which they shall give he shall eat butter: for everyone will eat butter and honey that is left in the midst of the land.","tokens":[{"id":"isaiah-7-22-0","surface":"וְהָיָ֗ה","lemma":"הָיָה","translit":"vehayah","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"isaiah-7-22-1","surface":"מֵרֹ֛ב","lemma":"רֹב","translit":"merob","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7230"},{"id":"isaiah-7-22-2","surface":"עֲשׂ֥וֹת","lemma":"עָשָׂה","translit":"`shvot","morph":"Verb Qal Infinitive Construct","glosses":[],"strongs":"H6213"},{"id":"isaiah-7-22-3","surface":"חָלָ֖ב","lemma":"חָלָב","translit":"chalab","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2461"},{"id":"isaiah-7-22-4","surface":"יֹאכַ֣ל","lemma":"אָכַל","translit":"yo'kal","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H398"},{"id":"isaiah-7-22-5","surface":"חֶמְאָ֑ה","lemma":"חֶמְאָה","translit":"cheme'ah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2529"},{"id":"isaiah-7-22-6","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-7-22-7","surface":"חֶמְאָ֤ה","lemma":"חֶמְאָה","translit":"cheme'ah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2529"},{"id":"isaiah-7-22-8","surface":"וּדְבַשׁ֙","lemma":"דְּבַשׁ","translit":"vdebash","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H1706"},{"id":"isaiah-7-22-9","surface":"יֹאכֵ֔ל","lemma":"אָכַל","translit":"yo'kel","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H398"},{"id":"isaiah-7-22-10","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"isaiah-7-22-11","surface":"הַנּוֹתָ֖ר","lemma":"יָתַר","translit":"hanvotar","morph":"Particle dual + Verb Niphal Passive Participle","glosses":[],"strongs":"H3498"},{"id":"isaiah-7-22-12","surface":"בְּקֶ֥רֶב","lemma":"קֶרֶב","translit":"beqereb","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H7130"},{"id":"isaiah-7-22-13","surface":"הָאָֽרֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Isaiah 7:23","englishText":"It will happen in that day that every place where there were a thousand vines at a thousand silver shekels, shall be for briers and thorns.","tokens":[{"id":"isaiah-7-23-0","surface":"וְהָיָה֙","lemma":"הָיָה","translit":"vehayah","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"isaiah-7-23-1","surface":"בַּיּ֣וֹם","lemma":"יוֹם","translit":"bayvom","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"isaiah-7-23-2","surface":"הַה֔וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"isaiah-7-23-3","surface":"יִֽהְיֶ֣ה","lemma":"הָיָה","translit":"yiheyeh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"isaiah-7-23-4","surface":"כָל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"isaiah-7-23-5","surface":"מָק֗וֹם","lemma":"מָקוֹם","translit":"maqvom","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H4725"},{"id":"isaiah-7-23-6","surface":"אֲשֶׁ֧ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"isaiah-7-23-7","surface":"יִֽהְיֶה","lemma":"הָיָה","translit":"yiheyeh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"isaiah-7-23-8","surface":"שָּׁ֛ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"isaiah-7-23-9","surface":"אֶ֥לֶף","lemma":"אֶלֶף","translit":"'elep","morph":"Adjective common singular absolute","glosses":[],"strongs":"H505"},{"id":"isaiah-7-23-10","surface":"גֶּ֖פֶן","lemma":"גֶּפֶן","translit":"gepen","morph":"Noun common singular absolute","glosses":[],"strongs":"H1612"},{"id":"isaiah-7-23-11","surface":"בְּאֶ֣לֶף","lemma":"אֶלֶף","translit":"be'elep","morph":"Preposition + Adjective common singular absolute","glosses":[],"strongs":"H505"},{"id":"isaiah-7-23-12","surface":"כָּ֑סֶף","lemma":"כֶּסֶף","translit":"kasep","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3701"},{"id":"isaiah-7-23-13","surface":"לַשָּׁמִ֥יר","lemma":"שָׁמִיר","translit":"lashamiyr","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H8068"},{"id":"isaiah-7-23-14","surface":"וְלַשַּׁ֖יִת","lemma":"שַׁיִת","translit":"velashayit","morph":"Conjunction + Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7898"},{"id":"isaiah-7-23-15","surface":"יִֽהְיֶֽה","lemma":"הָיָה","translit":"yiheyeh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H1961"}],"language":"hebrew"},{"ref":"Isaiah 7:24","englishText":"People will go there with arrows and with bow, because all the land will be briers and thorns.","tokens":[{"id":"isaiah-7-24-0","surface":"בַּחִצִּ֥ים","lemma":"חִצִּי","translit":"bachitsiym","morph":"Preposition dual + Noun common masculine plural absolute","glosses":[],"strongs":"H2678"},{"id":"isaiah-7-24-1","surface":"וּבַקֶּ֖שֶׁת","lemma":"קֶשֶׁת","translit":"vbaqeshet","morph":"Conjunction + Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H7198"},{"id":"isaiah-7-24-2","surface":"יָ֣בוֹא","lemma":"בּוֹא","translit":"yabvo'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"isaiah-7-24-3","surface":"שָׁ֑מָּה","lemma":"שָׁם","translit":"shamah","morph":"Adverb + Suffix dual","glosses":[],"strongs":"H8033"},{"id":"isaiah-7-24-4","surface":"כִּי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"isaiah-7-24-5","surface":"שָׁמִ֥יר","lemma":"שָׁמִיר","translit":"shamiyr","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8068"},{"id":"isaiah-7-24-6","surface":"וָשַׁ֖יִת","lemma":"שַׁיִת","translit":"vashayit","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H7898"},{"id":"isaiah-7-24-7","surface":"תִּֽהְיֶ֥ה","lemma":"הָיָה","translit":"tiheyeh","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H1961"},{"id":"isaiah-7-24-8","surface":"כָל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"isaiah-7-24-9","surface":"הָאָֽרֶץ","lemma":"אֶרֶץ","translit":"ha'arets","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H776"}],"language":"hebrew"},{"ref":"Isaiah 7:25","englishText":"All the hills that were cultivated with the hoe, you shall not come there for fear of briers and thorns; but it shall be for the sending out of oxen, and for the treading of sheep.”   ","tokens":[{"id":"isaiah-7-25-0","surface":"וְכֹ֣ל","lemma":"כֹּל","translit":"vekol","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"isaiah-7-25-1","surface":"הֶהָרִ֗ים","lemma":"הַר","translit":"hehariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H2022"},{"id":"isaiah-7-25-2","surface":"אֲשֶׁ֤ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"isaiah-7-25-3","surface":"בַּמַּעְדֵּר֙","lemma":"מַעְדֵּר","translit":"bama`eder","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4576"},{"id":"isaiah-7-25-4","surface":"יֵעָ֣דֵר֔וּן","lemma":"עֲדַר","translit":"ye`adervn","morph":"Verb Niphal Imperative 3rd masculine plural + Suffix","glosses":[],"strongs":"H5737"},{"id":"isaiah-7-25-5","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"isaiah-7-25-6","surface":"תָב֣וֹא","lemma":"בּוֹא","translit":"tabvo'","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H935"},{"id":"isaiah-7-25-7","surface":"שָׁ֔מָּה","lemma":"שָׁם","translit":"shamah","morph":"Adverb + Suffix dual","glosses":[],"strongs":"H8033"},{"id":"isaiah-7-25-8","surface":"יִרְאַ֖ת","lemma":"יִרְאָה","translit":"yire'at","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H3374"},{"id":"isaiah-7-25-9","surface":"שָׁמִ֣יר","lemma":"שָׁמִיר","translit":"shamiyr","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8068"},{"id":"isaiah-7-25-10","surface":"וָשָׁ֑יִת","lemma":"שַׁיִת","translit":"vashayit","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H7898"},{"id":"isaiah-7-25-11","surface":"וְהָיָה֙","lemma":"הָיָה","translit":"vehayah","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"isaiah-7-25-12","surface":"לְמִשְׁלַ֣ח","lemma":"מִשְׁלוֹחַ","translit":"lemishelach","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4916"},{"id":"isaiah-7-25-13","surface":"שׁ֔וֹר","lemma":"שׁוֹר","translit":"shvor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7794"},{"id":"isaiah-7-25-14","surface":"וּלְמִרְמַ֖ס","lemma":"מִרְמָס","translit":"vlemiremas","morph":"Conjunction + Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H4823"},{"id":"isaiah-7-25-15","surface":"שֶֽׂה","lemma":"שֶׂה","translit":"sheh","morph":"Noun common singular absolute","glosses":[],"strongs":"H7716"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "isaiah-7",
+  "name": "Isaiah",
+  "chapter": 7,
+  "verses": [
+    {
+      "ref": "Isaiah 7:1",
+      "englishText": "In the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up to Jerusalem to war against it, but could not prevail against it.",
+      "tokens": [
+        {
+          "id": "isaiah-7-1-0",
+          "surface": "וַיְהִ֡י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-7-1-1",
+          "surface": "בִּימֵ֣י",
+          "lemma": "יוֹם",
+          "translit": "biymey",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "isaiah-7-1-2",
+          "surface": "אָ֠חָז",
+          "lemma": "אָחָז",
+          "translit": "'achaz",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H271"
+        },
+        {
+          "id": "isaiah-7-1-3",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "isaiah-7-1-4",
+          "surface": "יוֹתָ֨ם",
+          "lemma": "יוֹתָם",
+          "translit": "yvotam",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3147"
+        },
+        {
+          "id": "isaiah-7-1-5",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "isaiah-7-1-6",
+          "surface": "עֻזִּיָּ֜הוּ",
+          "lemma": "עֻזִּיָּה",
+          "translit": "`uziyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5818"
+        },
+        {
+          "id": "isaiah-7-1-7",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "isaiah-7-1-8",
+          "surface": "יְהוּדָ֗ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "isaiah-7-1-9",
+          "surface": "עָלָ֣ה",
+          "lemma": "עָלָה",
+          "translit": "`alah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "isaiah-7-1-10",
+          "surface": "רְצִ֣ין",
+          "lemma": "רְצִין",
+          "translit": "retsiyn",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7526"
+        },
+        {
+          "id": "isaiah-7-1-11",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "isaiah-7-1-12",
+          "surface": "אֲ֠רָם",
+          "lemma": "אֲרָם",
+          "translit": "'ram",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H758"
+        },
+        {
+          "id": "isaiah-7-1-13",
+          "surface": "וּפֶ֨קַח",
+          "lemma": "פֶּקַח",
+          "translit": "vpeqach",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H6492"
+        },
+        {
+          "id": "isaiah-7-1-14",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "isaiah-7-1-15",
+          "surface": "רְמַלְיָ֤הוּ",
+          "lemma": "רְמַלְיָהוּ",
+          "translit": "remaleyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7425"
+        },
+        {
+          "id": "isaiah-7-1-16",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "isaiah-7-1-17",
+          "surface": "יִשְׂרָאֵל֙",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "isaiah-7-1-18",
+          "surface": "יְר֣וּשָׁלִַ֔ם",
+          "lemma": "יְרוּשָׁלַ͏ִם",
+          "translit": "yervshalaim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3389"
+        },
+        {
+          "id": "isaiah-7-1-19",
+          "surface": "לַמִּלְחָמָ֖ה",
+          "lemma": "מִלְחָמָה",
+          "translit": "lamilechamah",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4421"
+        },
+        {
+          "id": "isaiah-7-1-20",
+          "surface": "עָלֶ֑יהָ",
+          "lemma": "עַל",
+          "translit": "`aleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "isaiah-7-1-21",
+          "surface": "וְלֹ֥א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-7-1-22",
+          "surface": "יָכֹ֖ל",
+          "lemma": "יָכֹל",
+          "translit": "yakol",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3201"
+        },
+        {
+          "id": "isaiah-7-1-23",
+          "surface": "לְהִלָּחֵ֥ם",
+          "lemma": "לָחַם",
+          "translit": "lehilachem",
+          "morph": "Preposition + Verb Niphal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3898"
+        },
+        {
+          "id": "isaiah-7-1-24",
+          "surface": "עָלֶֽיהָ",
+          "lemma": "עַל",
+          "translit": "`aleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:2",
+      "englishText": "It was told the house of David, saying, “Syria is allied with Ephraim.” His heart trembled, and the heart of his people, as the trees of the forest tremble with the wind.",
+      "tokens": [
+        {
+          "id": "isaiah-7-2-0",
+          "surface": "וַיֻּגַּ֗ד",
+          "lemma": "נָגַד",
+          "translit": "vayugad",
+          "morph": "Conjunction + Verb Hophal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "isaiah-7-2-1",
+          "surface": "לְבֵ֤ית",
+          "lemma": "בַּיִת",
+          "translit": "lebeyt",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "isaiah-7-2-2",
+          "surface": "דָּוִד֙",
+          "lemma": "דָּוִד",
+          "translit": "david",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1732"
+        },
+        {
+          "id": "isaiah-7-2-3",
+          "surface": "לֵאמֹ֔ר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-7-2-4",
+          "surface": "נָ֥חָֽה",
+          "lemma": "נוּחַ",
+          "translit": "nachah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5117"
+        },
+        {
+          "id": "isaiah-7-2-5",
+          "surface": "אֲרָ֖ם",
+          "lemma": "אֲרָם",
+          "translit": "'ram",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H758"
+        },
+        {
+          "id": "isaiah-7-2-6",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "isaiah-7-2-7",
+          "surface": "אֶפְרָ֑יִם",
+          "lemma": "אֶפְרַיִם",
+          "translit": "'eperayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H669"
+        },
+        {
+          "id": "isaiah-7-2-8",
+          "surface": "וַיָּ֤נַע",
+          "lemma": "נוּעַ",
+          "translit": "vayana`",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5128"
+        },
+        {
+          "id": "isaiah-7-2-9",
+          "surface": "לְבָבוֹ֙",
+          "lemma": "לֵבָב",
+          "translit": "lebabvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "isaiah-7-2-10",
+          "surface": "וּלְבַ֣ב",
+          "lemma": "לֵבָב",
+          "translit": "vlebab",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "isaiah-7-2-11",
+          "surface": "עַמּ֔וֹ",
+          "lemma": "עַם",
+          "translit": "`amvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "isaiah-7-2-12",
+          "surface": "כְּנ֥וֹעַ",
+          "lemma": "נוּעַ",
+          "translit": "kenvo`a",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5128"
+        },
+        {
+          "id": "isaiah-7-2-13",
+          "surface": "עֲצֵי",
+          "lemma": "עֵץ",
+          "translit": "`tsey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H6086"
+        },
+        {
+          "id": "isaiah-7-2-14",
+          "surface": "יַ֖עַר",
+          "lemma": "יַעַר",
+          "translit": "ya`ar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3293"
+        },
+        {
+          "id": "isaiah-7-2-15",
+          "surface": "מִפְּנֵי",
+          "lemma": "פָּנִים",
+          "translit": "mipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "isaiah-7-2-16",
+          "surface": "רֽוּחַ",
+          "lemma": "רוּחַ",
+          "translit": "rvcha",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7307"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:3",
+      "englishText": "Then Yahweh said to Isaiah, “Go out now to meet Ahaz, you, and Shearjashub your son, at the end of the conduit of the upper pool, on the highway of the fuller’s field.",
+      "tokens": [
+        {
+          "id": "isaiah-7-3-0",
+          "surface": "וַיֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-7-3-1",
+          "surface": "יְהוָה֮",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-7-3-2",
+          "surface": "אֶֽל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "isaiah-7-3-3",
+          "surface": "יְשַׁעְיָהוּ֒",
+          "lemma": "יְשַׁעְיָה",
+          "translit": "yesha`eyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3470"
+        },
+        {
+          "id": "isaiah-7-3-4",
+          "surface": "צֵא",
+          "lemma": "יָצָא",
+          "translit": "tse'",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "isaiah-7-3-5",
+          "surface": "נָא֙",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "isaiah-7-3-6",
+          "surface": "לִקְרַ֣את",
+          "lemma": "קִרְאָה",
+          "translit": "liqera't",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7125"
+        },
+        {
+          "id": "isaiah-7-3-7",
+          "surface": "אָחָ֔ז",
+          "lemma": "אָחָז",
+          "translit": "'achaz",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H271"
+        },
+        {
+          "id": "isaiah-7-3-8",
+          "surface": "אַתָּ֕ה",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "isaiah-7-3-9",
+          "surface": "וּשְׁאָ֖ר",
+          "lemma": "שְׁאָר יָשׁוּב",
+          "translit": "vshe'ar",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H7610"
+        },
+        {
+          "id": "isaiah-7-3-10",
+          "surface": "יָשׁ֣וּב",
+          "lemma": "שְׁאָר יָשׁוּב",
+          "translit": "yashvb",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7610"
+        },
+        {
+          "id": "isaiah-7-3-11",
+          "surface": "בְּנֶ֑ךָ",
+          "lemma": "בֵּן",
+          "translit": "beneka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "isaiah-7-3-12",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "isaiah-7-3-13",
+          "surface": "קְצֵ֗ה",
+          "lemma": "קָצֶה",
+          "translit": "qetseh",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7097"
+        },
+        {
+          "id": "isaiah-7-3-14",
+          "surface": "תְּעָלַת֙",
+          "lemma": "תְּעָלָה",
+          "translit": "te`alat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H8585"
+        },
+        {
+          "id": "isaiah-7-3-15",
+          "surface": "הַבְּרֵכָ֣ה",
+          "lemma": "בְּרֵכָה",
+          "translit": "haberekah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1295"
+        },
+        {
+          "id": "isaiah-7-3-16",
+          "surface": "הָעֶלְיוֹנָ֔ה",
+          "lemma": "עֶלְיוֹן",
+          "translit": "ha`eleyvonah",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H5945"
+        },
+        {
+          "id": "isaiah-7-3-17",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "isaiah-7-3-18",
+          "surface": "מְסִלַּ֖ת",
+          "lemma": "מְסִלָּה",
+          "translit": "mesilat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4546"
+        },
+        {
+          "id": "isaiah-7-3-19",
+          "surface": "שְׂדֵ֥ה",
+          "lemma": "שָׂדֶה",
+          "translit": "shedeh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7704"
+        },
+        {
+          "id": "isaiah-7-3-20",
+          "surface": "כוֹבֵֽס",
+          "lemma": "כָּבַס",
+          "translit": "kvobes",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3526"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:4",
+      "englishText": "Tell him, ‘Be careful, and keep calm. Don’t be afraid, neither let your heart be faint because of these two tails of smoking torches, for the fierce anger of Rezin and Syria, and of the son of Remaliah.",
+      "tokens": [
+        {
+          "id": "isaiah-7-4-0",
+          "surface": "וְאָמַרְתָּ֣",
+          "lemma": "אָמַר",
+          "translit": "ve'amareta",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-7-4-1",
+          "surface": "אֵ֠לָיו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "isaiah-7-4-2",
+          "surface": "הִשָּׁמֵ֨ר",
+          "lemma": "שָׁמַר",
+          "translit": "hishamer",
+          "morph": "Verb Niphal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8104"
+        },
+        {
+          "id": "isaiah-7-4-3",
+          "surface": "וְהַשְׁקֵ֜ט",
+          "lemma": "שָׁקַט",
+          "translit": "vehasheqet",
+          "morph": "Conjunction + Verb Hiphil Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8252"
+        },
+        {
+          "id": "isaiah-7-4-4",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "isaiah-7-4-5",
+          "surface": "תִּירָ֗א",
+          "lemma": "יָרֵא",
+          "translit": "tiyra'",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "isaiah-7-4-6",
+          "surface": "וּלְבָבְךָ֙",
+          "lemma": "לֵבָב",
+          "translit": "vlebabeka",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "isaiah-7-4-7",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "isaiah-7-4-8",
+          "surface": "יֵרַ֔ךְ",
+          "lemma": "רָכַךְ",
+          "translit": "yerake",
+          "morph": "Verb Qal Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7401"
+        },
+        {
+          "id": "isaiah-7-4-9",
+          "surface": "מִשְּׁנֵ֨י",
+          "lemma": "שְׁנַיִם",
+          "translit": "misheney",
+          "morph": "Preposition + Adjective common masculine dual construct",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "isaiah-7-4-10",
+          "surface": "זַנְב֧וֹת",
+          "lemma": "זָנָב",
+          "translit": "zanebvot",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H2180"
+        },
+        {
+          "id": "isaiah-7-4-11",
+          "surface": "הָאוּדִ֛ים",
+          "lemma": "אוּד",
+          "translit": "ha'vdiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H181"
+        },
+        {
+          "id": "isaiah-7-4-12",
+          "surface": "הָעֲשֵׁנִ֖ים",
+          "lemma": "עָשֵׁן",
+          "translit": "ha`sheniym",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H6226"
+        },
+        {
+          "id": "isaiah-7-4-13",
+          "surface": "הָאֵ֑לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "ha'eleh",
+          "morph": "Particle dual + Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "isaiah-7-4-14",
+          "surface": "בָּחֳרִי",
+          "lemma": "חֳרִי",
+          "translit": "bachriy",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2750"
+        },
+        {
+          "id": "isaiah-7-4-15",
+          "surface": "אַ֛ף",
+          "lemma": "אַף",
+          "translit": "'ap",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H639"
+        },
+        {
+          "id": "isaiah-7-4-16",
+          "surface": "רְצִ֥ין",
+          "lemma": "רְצִין",
+          "translit": "retsiyn",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7526"
+        },
+        {
+          "id": "isaiah-7-4-17",
+          "surface": "וַאֲרָ֖ם",
+          "lemma": "אֲרָם",
+          "translit": "va'ram",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H758"
+        },
+        {
+          "id": "isaiah-7-4-18",
+          "surface": "וּבֶן",
+          "lemma": "בֵּן",
+          "translit": "vben",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "isaiah-7-4-19",
+          "surface": "רְמַלְיָֽהוּ",
+          "lemma": "רְמַלְיָהוּ",
+          "translit": "remaleyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7425"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:5",
+      "englishText": "Because Syria, Ephraim, and the son of Remaliah, have plotted evil against you, saying,",
+      "tokens": [
+        {
+          "id": "isaiah-7-5-0",
+          "surface": "יַ֗עַן",
+          "lemma": "יַעַן",
+          "translit": "ya`an",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3282"
+        },
+        {
+          "id": "isaiah-7-5-1",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-7-5-2",
+          "surface": "יָעַ֥ץ",
+          "lemma": "יָעַץ",
+          "translit": "ya`ats",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3289"
+        },
+        {
+          "id": "isaiah-7-5-3",
+          "surface": "עָלֶ֛יךָ",
+          "lemma": "עַל",
+          "translit": "`aleyka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "isaiah-7-5-4",
+          "surface": "אֲרָ֖ם",
+          "lemma": "אֲרָם",
+          "translit": "'ram",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H758"
+        },
+        {
+          "id": "isaiah-7-5-5",
+          "surface": "רָעָ֑ה",
+          "lemma": "רַע",
+          "translit": "ra`ah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7451"
+        },
+        {
+          "id": "isaiah-7-5-6",
+          "surface": "אֶפְרַ֥יִם",
+          "lemma": "אֶפְרַיִם",
+          "translit": "'eperayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H669"
+        },
+        {
+          "id": "isaiah-7-5-7",
+          "surface": "וּבֶן",
+          "lemma": "בֵּן",
+          "translit": "vben",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "isaiah-7-5-8",
+          "surface": "רְמַלְיָ֖הוּ",
+          "lemma": "רְמַלְיָהוּ",
+          "translit": "remaleyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7425"
+        },
+        {
+          "id": "isaiah-7-5-9",
+          "surface": "לֵאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:6",
+      "englishText": "“Let’s go up against Judah, and tear it apart, and let’s divide it among ourselves, and set up a king in its midst, even the son of Tabeel.”",
+      "tokens": [
+        {
+          "id": "isaiah-7-6-0",
+          "surface": "נַעֲלֶ֤ה",
+          "lemma": "עָלָה",
+          "translit": "na`leh",
+          "morph": "Verb Qal Imperative 1st common plural",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "isaiah-7-6-1",
+          "surface": "בִֽיהוּדָה֙",
+          "lemma": "יְהוּדָה",
+          "translit": "biyhvdah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "isaiah-7-6-2",
+          "surface": "וּנְקִיצֶ֔נָּה",
+          "lemma": "קוּץ",
+          "translit": "vneqiytsenah",
+          "morph": "Conjunction + Verb Hiphil Imperative 1st common plural + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6973"
+        },
+        {
+          "id": "isaiah-7-6-3",
+          "surface": "וְנַבְקִעֶ֖נָּה",
+          "lemma": "בָּקַע",
+          "translit": "venabeqi`enah",
+          "morph": "Conjunction + Verb Hiphil Imperative 1st common plural + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1234"
+        },
+        {
+          "id": "isaiah-7-6-4",
+          "surface": "אֵלֵ֑ינוּ",
+          "lemma": "אֵל",
+          "translit": "'eleynv",
+          "morph": "Preposition + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "isaiah-7-6-5",
+          "surface": "וְנַמְלִ֥יךְ",
+          "lemma": "מָלַךְ",
+          "translit": "venameliyke",
+          "morph": "Conjunction + Verb Hiphil Imperative 1st common plural",
+          "glosses": [],
+          "strongs": "H4427"
+        },
+        {
+          "id": "isaiah-7-6-6",
+          "surface": "מֶ֨לֶךְ֙",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "isaiah-7-6-7",
+          "surface": "בְּתוֹכָ֔הּ",
+          "lemma": "תָּוֶךְ",
+          "translit": "betvokah",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H8432"
+        },
+        {
+          "id": "isaiah-7-6-8",
+          "surface": "אֵ֖ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-7-6-9",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "isaiah-7-6-10",
+          "surface": "טָֽבְאַֽל",
+          "lemma": "טָבְאֵל",
+          "translit": "tabe'al",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2870"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:7",
+      "englishText": "This is what the Lord Yahweh says: “It shall not stand, neither shall it happen.”",
+      "tokens": [
+        {
+          "id": "isaiah-7-7-0",
+          "surface": "כֹּ֥ה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "isaiah-7-7-1",
+          "surface": "אָמַ֖ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-7-7-2",
+          "surface": "אֲדֹנָ֣י",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "isaiah-7-7-3",
+          "surface": "יְהוִ֑ה",
+          "lemma": "יְהֹוִה",
+          "translit": "yehvih",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3069"
+        },
+        {
+          "id": "isaiah-7-7-4",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-7-7-5",
+          "surface": "תָק֖וּם",
+          "lemma": "קוּם",
+          "translit": "taqvm",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "isaiah-7-7-6",
+          "surface": "וְלֹ֥א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-7-7-7",
+          "surface": "תִֽהְיֶֽה",
+          "lemma": "הָיָה",
+          "translit": "tiheyeh",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:8",
+      "englishText": "For the head of Syria is Damascus, and the head of Damascus is Rezin; and within sixty-five years Ephraim shall be broken in pieces, so that it shall not be a people;",
+      "tokens": [
+        {
+          "id": "isaiah-7-8-0",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-7-8-1",
+          "surface": "רֹ֤אשׁ",
+          "lemma": "רֹאשׁ",
+          "translit": "ro'sh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "isaiah-7-8-2",
+          "surface": "אֲרָם֙",
+          "lemma": "אֲרָם",
+          "translit": "'ram",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H758"
+        },
+        {
+          "id": "isaiah-7-8-3",
+          "surface": "דַּמֶּ֔שֶׂק",
+          "lemma": "דַּמֶּשֶׂק",
+          "translit": "damesheq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1834"
+        },
+        {
+          "id": "isaiah-7-8-4",
+          "surface": "וְרֹ֥אשׁ",
+          "lemma": "רֹאשׁ",
+          "translit": "vero'sh",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "isaiah-7-8-5",
+          "surface": "דַּמֶּ֖שֶׂק",
+          "lemma": "דַּמֶּשֶׂק",
+          "translit": "damesheq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1834"
+        },
+        {
+          "id": "isaiah-7-8-6",
+          "surface": "רְצִ֑ין",
+          "lemma": "רְצִין",
+          "translit": "retsiyn",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7526"
+        },
+        {
+          "id": "isaiah-7-8-7",
+          "surface": "וּבְע֗וֹד",
+          "lemma": "בְּעַד",
+          "translit": "vbe`vod",
+          "morph": "Conjunction + Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H1157"
+        },
+        {
+          "id": "isaiah-7-8-8",
+          "surface": "שִׁשִּׁ֤ים",
+          "lemma": "שִׁשִּׁים",
+          "translit": "shishiym",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H8346"
+        },
+        {
+          "id": "isaiah-7-8-9",
+          "surface": "וְחָמֵשׁ֙",
+          "lemma": "חָמֵשׁ",
+          "translit": "vechamesh",
+          "morph": "Conjunction + Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2568"
+        },
+        {
+          "id": "isaiah-7-8-10",
+          "surface": "שָׁנָ֔ה",
+          "lemma": "שָׁנֶה",
+          "translit": "shanah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "isaiah-7-8-11",
+          "surface": "יֵחַ֥ת",
+          "lemma": "חַת",
+          "translit": "yechat",
+          "morph": "Verb Niphal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2844"
+        },
+        {
+          "id": "isaiah-7-8-12",
+          "surface": "אֶפְרַ֖יִם",
+          "lemma": "אֶפְרַיִם",
+          "translit": "'eperayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H669"
+        },
+        {
+          "id": "isaiah-7-8-13",
+          "surface": "מֵעָֽם",
+          "lemma": "עַם",
+          "translit": "me`am",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:9",
+      "englishText": "and the head of Ephraim is Samaria, and the head of Samaria is Remaliah’s son. If you will not believe, surely you shall not be established.’”  ",
+      "tokens": [
+        {
+          "id": "isaiah-7-9-0",
+          "surface": "וְרֹ֤אשׁ",
+          "lemma": "רֹאשׁ",
+          "translit": "vero'sh",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "isaiah-7-9-1",
+          "surface": "אֶפְרַ֨יִם֙",
+          "lemma": "אֶפְרַיִם",
+          "translit": "'eperayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H669"
+        },
+        {
+          "id": "isaiah-7-9-2",
+          "surface": "שֹׁמְר֔וֹן",
+          "lemma": "שֹׁמְרוֹן",
+          "translit": "shomervon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H8111"
+        },
+        {
+          "id": "isaiah-7-9-3",
+          "surface": "וְרֹ֥אשׁ",
+          "lemma": "רֹאשׁ",
+          "translit": "vero'sh",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "isaiah-7-9-4",
+          "surface": "שֹׁמְר֖וֹן",
+          "lemma": "שֹׁמְרוֹן",
+          "translit": "shomervon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H8111"
+        },
+        {
+          "id": "isaiah-7-9-5",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "isaiah-7-9-6",
+          "surface": "רְמַלְיָ֑הוּ",
+          "lemma": "רְמַלְיָהוּ",
+          "translit": "remaleyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7425"
+        },
+        {
+          "id": "isaiah-7-9-7",
+          "surface": "אִ֚ם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "isaiah-7-9-8",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-7-9-9",
+          "surface": "תַאֲמִ֔ינוּ",
+          "lemma": "אָמַן",
+          "translit": "ta'miynv",
+          "morph": "Verb Hiphil Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H539"
+        },
+        {
+          "id": "isaiah-7-9-10",
+          "surface": "כִּ֖י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-7-9-11",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-7-9-12",
+          "surface": "תֵאָמֵֽנוּ",
+          "lemma": "אָמַן",
+          "translit": "te'amenv",
+          "morph": "Verb Niphal Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H539"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:10",
+      "englishText": "  Yahweh spoke again to Ahaz, saying,",
+      "tokens": [
+        {
+          "id": "isaiah-7-10-0",
+          "surface": "וַיּ֣וֹסֶף",
+          "lemma": "יָסַף",
+          "translit": "vayvosep",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3254"
+        },
+        {
+          "id": "isaiah-7-10-1",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-7-10-2",
+          "surface": "דַּבֵּ֥ר",
+          "lemma": "דָבַר",
+          "translit": "daber",
+          "morph": "Verb Piel Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "isaiah-7-10-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "isaiah-7-10-4",
+          "surface": "אָחָ֖ז",
+          "lemma": "אָחָז",
+          "translit": "'achaz",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H271"
+        },
+        {
+          "id": "isaiah-7-10-5",
+          "surface": "לֵאמֹֽר",
+          "lemma": "אָמַר",
+          "translit": "le'mor",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H559"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:11",
+      "englishText": "“Ask a sign of Yahweh your God; ask it either in the depth, or in the height above.”  ",
+      "tokens": [
+        {
+          "id": "isaiah-7-11-0",
+          "surface": "שְׁאַל",
+          "lemma": "שָׁאַל",
+          "translit": "she'al",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7592"
+        },
+        {
+          "id": "isaiah-7-11-1",
+          "surface": "לְךָ֣",
+          "lemma": "לְךָ֣",
+          "translit": "leka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "isaiah-7-11-2",
+          "surface": "א֔וֹת",
+          "lemma": "אוֹת",
+          "translit": "'vot",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H226"
+        },
+        {
+          "id": "isaiah-7-11-3",
+          "surface": "מֵעִ֖ם",
+          "lemma": "עִם",
+          "translit": "me`im",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "isaiah-7-11-4",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-7-11-5",
+          "surface": "אֱלֹהֶ֑יךָ",
+          "lemma": "אֱלֹהִים",
+          "translit": "'loheyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "isaiah-7-11-6",
+          "surface": "הַעְמֵ֣ק",
+          "lemma": "עָמַק",
+          "translit": "ha`emeq",
+          "morph": "Verb Hiphil Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H6009"
+        },
+        {
+          "id": "isaiah-7-11-7",
+          "surface": "שְׁאָ֔לָה",
+          "lemma": "שְׁאוֹל",
+          "translit": "she'alah",
+          "morph": "Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7585"
+        },
+        {
+          "id": "isaiah-7-11-8",
+          "surface": "א֖וֹ",
+          "lemma": "אוֹ",
+          "translit": "'vo",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H176"
+        },
+        {
+          "id": "isaiah-7-11-9",
+          "surface": "הַגְבֵּ֥הַּ",
+          "lemma": "גָּבַהּ",
+          "translit": "hagebeha",
+          "morph": "Verb Hiphil Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H1361"
+        },
+        {
+          "id": "isaiah-7-11-10",
+          "surface": "לְמָֽעְלָה",
+          "lemma": "מַעַל",
+          "translit": "lema`elah",
+          "morph": "Preposition + Adverb + Suffix dual",
+          "glosses": [],
+          "strongs": "H4605"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:12",
+      "englishText": "  But Ahaz said, “I will not ask, neither will I tempt Yahweh.”  ",
+      "tokens": [
+        {
+          "id": "isaiah-7-12-0",
+          "surface": "וַיֹּ֖אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-7-12-1",
+          "surface": "אָחָ֑ז",
+          "lemma": "אָחָז",
+          "translit": "'achaz",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H271"
+        },
+        {
+          "id": "isaiah-7-12-2",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-7-12-3",
+          "surface": "אֶשְׁאַ֥ל",
+          "lemma": "שָׁאַל",
+          "translit": "'eshe'al",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H7592"
+        },
+        {
+          "id": "isaiah-7-12-4",
+          "surface": "וְלֹֽא",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-7-12-5",
+          "surface": "אֲנַסֶּ֖ה",
+          "lemma": "נָסָה",
+          "translit": "'naseh",
+          "morph": "Verb Piel Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H5254"
+        },
+        {
+          "id": "isaiah-7-12-6",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-7-12-7",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:13",
+      "englishText": "  He said, “Listen now, house of David. Is it not enough for you to try the patience of men, that you will try the patience of my God also?",
+      "tokens": [
+        {
+          "id": "isaiah-7-13-0",
+          "surface": "וַיֹּ֕אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "isaiah-7-13-1",
+          "surface": "שִׁמְעוּ",
+          "lemma": "שָׁמַע",
+          "translit": "shime`v",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "isaiah-7-13-2",
+          "surface": "נָ֖א",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "isaiah-7-13-3",
+          "surface": "בֵּ֣ית",
+          "lemma": "בַּיִת",
+          "translit": "beyt",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "isaiah-7-13-4",
+          "surface": "דָּוִ֑ד",
+          "lemma": "דָּוִד",
+          "translit": "david",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1732"
+        },
+        {
+          "id": "isaiah-7-13-5",
+          "surface": "הַמְעַ֤ט",
+          "lemma": "מְעַט",
+          "translit": "hame`at",
+          "morph": "Particle + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4592"
+        },
+        {
+          "id": "isaiah-7-13-6",
+          "surface": "מִכֶּם֙",
+          "lemma": "מִן",
+          "translit": "mikem",
+          "morph": "Preposition + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "isaiah-7-13-7",
+          "surface": "הַלְא֣וֹת",
+          "lemma": "לָאָה",
+          "translit": "hale'vot",
+          "morph": "Verb Hiphil Infinitive Construct",
+          "glosses": [],
+          "strongs": "H3811"
+        },
+        {
+          "id": "isaiah-7-13-8",
+          "surface": "אֲנָשִׁ֔ים",
+          "lemma": "אִישׁ",
+          "translit": "'nashiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "isaiah-7-13-9",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-7-13-10",
+          "surface": "תַלְא֖וּ",
+          "lemma": "לָאָה",
+          "translit": "tale'v",
+          "morph": "Verb Hiphil Imperative 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3811"
+        },
+        {
+          "id": "isaiah-7-13-11",
+          "surface": "גַּ֥ם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "isaiah-7-13-12",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-7-13-13",
+          "surface": "אֱלֹהָֽי",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H430"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:14",
+      "englishText": "Therefore the Lord himself will give you a sign. Behold, the virgin will conceive, and bear a son, and shall call his name Immanuel.",
+      "tokens": [
+        {
+          "id": "isaiah-7-14-0",
+          "surface": "לָ֠כֵן",
+          "lemma": "כֵּן",
+          "translit": "laken",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "isaiah-7-14-1",
+          "surface": "יִתֵּ֨ן",
+          "lemma": "נָתַן",
+          "translit": "yiten",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "isaiah-7-14-2",
+          "surface": "אֲדֹנָ֥י",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "isaiah-7-14-3",
+          "surface": "ה֛וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "isaiah-7-14-4",
+          "surface": "לָכֶ֖ם",
+          "lemma": "לָכֶ֖ם",
+          "translit": "lakem",
+          "morph": "Preposition + Suffix plural 2nd masculine",
+          "glosses": []
+        },
+        {
+          "id": "isaiah-7-14-5",
+          "surface": "א֑וֹת",
+          "lemma": "אוֹת",
+          "translit": "'vot",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H226"
+        },
+        {
+          "id": "isaiah-7-14-6",
+          "surface": "הִנֵּ֣ה",
+          "lemma": "הִנֵּה",
+          "translit": "hineh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "isaiah-7-14-7",
+          "surface": "הָעַלְמָ֗ה",
+          "lemma": "עַלְמָה",
+          "translit": "ha`alemah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5959"
+        },
+        {
+          "id": "isaiah-7-14-8",
+          "surface": "הָרָה֙",
+          "lemma": "הָרֶה",
+          "translit": "harah",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2030"
+        },
+        {
+          "id": "isaiah-7-14-9",
+          "surface": "וְיֹלֶ֣דֶת",
+          "lemma": "יָלַד",
+          "translit": "veyoledet",
+          "morph": "Conjunction + Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3205"
+        },
+        {
+          "id": "isaiah-7-14-10",
+          "surface": "בֵּ֔ן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "isaiah-7-14-11",
+          "surface": "וְקָרָ֥את",
+          "lemma": "קָרָא",
+          "translit": "veqara't",
+          "morph": "Conjunction + Verb Qal Perfect 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "isaiah-7-14-12",
+          "surface": "שְׁמ֖וֹ",
+          "lemma": "שֵׁם",
+          "translit": "shemvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "isaiah-7-14-13",
+          "surface": "עִמָּ֥נוּ",
+          "lemma": "עִמָּנוּאֵל",
+          "translit": "`imanv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6005"
+        },
+        {
+          "id": "isaiah-7-14-14",
+          "surface": "אֵֽל",
+          "lemma": "עִמָּנוּאֵל",
+          "translit": "'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6005"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:15",
+      "englishText": "He shall eat butter and honey when he knows to refuse the evil, and choose the good.",
+      "tokens": [
+        {
+          "id": "isaiah-7-15-0",
+          "surface": "חֶמְאָ֥ה",
+          "lemma": "חֶמְאָה",
+          "translit": "cheme'ah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2529"
+        },
+        {
+          "id": "isaiah-7-15-1",
+          "surface": "וּדְבַ֖שׁ",
+          "lemma": "דְּבַשׁ",
+          "translit": "vdebash",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1706"
+        },
+        {
+          "id": "isaiah-7-15-2",
+          "surface": "יֹאכֵ֑ל",
+          "lemma": "אָכַל",
+          "translit": "yo'kel",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "isaiah-7-15-3",
+          "surface": "לְדַעְתּ֛וֹ",
+          "lemma": "יָדַע",
+          "translit": "leda`etvo",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "isaiah-7-15-4",
+          "surface": "מָא֥וֹס",
+          "lemma": "מָאַס",
+          "translit": "ma'vos",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H3988"
+        },
+        {
+          "id": "isaiah-7-15-5",
+          "surface": "בָּרָ֖ע",
+          "lemma": "רַע",
+          "translit": "bara`",
+          "morph": "Preposition dual + Adjective",
+          "glosses": [],
+          "strongs": "H7451"
+        },
+        {
+          "id": "isaiah-7-15-6",
+          "surface": "וּבָח֥וֹר",
+          "lemma": "בָּחַר",
+          "translit": "vbachvor",
+          "morph": "Conjunction + Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H977"
+        },
+        {
+          "id": "isaiah-7-15-7",
+          "surface": "בַּטּֽוֹב",
+          "lemma": "טוֹב",
+          "translit": "batvob",
+          "morph": "Preposition dual + Adjective",
+          "glosses": [],
+          "strongs": "H2896"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:16",
+      "englishText": "For before the child knows to refuse the evil, and choose the good, the land whose two kings you abhor shall be forsaken.",
+      "tokens": [
+        {
+          "id": "isaiah-7-16-0",
+          "surface": "כִּ֠י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-7-16-1",
+          "surface": "בְּטֶ֨רֶם",
+          "lemma": "טֶרֶם",
+          "translit": "beterem",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H2962"
+        },
+        {
+          "id": "isaiah-7-16-2",
+          "surface": "יֵדַ֥ע",
+          "lemma": "יָדַע",
+          "translit": "yeda`",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "isaiah-7-16-3",
+          "surface": "הַנַּ֛עַר",
+          "lemma": "נַעַר",
+          "translit": "hana`ar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "isaiah-7-16-4",
+          "surface": "מָאֹ֥ס",
+          "lemma": "מָאַס",
+          "translit": "ma'os",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H3988"
+        },
+        {
+          "id": "isaiah-7-16-5",
+          "surface": "בָּרָ֖ע",
+          "lemma": "רַע",
+          "translit": "bara`",
+          "morph": "Preposition dual + Adjective",
+          "glosses": [],
+          "strongs": "H7451"
+        },
+        {
+          "id": "isaiah-7-16-6",
+          "surface": "וּבָחֹ֣ר",
+          "lemma": "בָּחַר",
+          "translit": "vbachor",
+          "morph": "Conjunction + Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H977"
+        },
+        {
+          "id": "isaiah-7-16-7",
+          "surface": "בַּטּ֑וֹב",
+          "lemma": "טוֹב",
+          "translit": "batvob",
+          "morph": "Preposition dual + Adjective",
+          "glosses": [],
+          "strongs": "H2896"
+        },
+        {
+          "id": "isaiah-7-16-8",
+          "surface": "תֵּעָזֵ֤ב",
+          "lemma": "עָזַב",
+          "translit": "te`azeb",
+          "morph": "Verb Niphal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5800"
+        },
+        {
+          "id": "isaiah-7-16-9",
+          "surface": "הָאֲדָמָה֙",
+          "lemma": "אֲדָמָה",
+          "translit": "ha'damah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H127"
+        },
+        {
+          "id": "isaiah-7-16-10",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "isaiah-7-16-11",
+          "surface": "אַתָּ֣ה",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "isaiah-7-16-12",
+          "surface": "קָ֔ץ",
+          "lemma": "קוּץ",
+          "translit": "qats",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H6973"
+        },
+        {
+          "id": "isaiah-7-16-13",
+          "surface": "מִפְּנֵ֖י",
+          "lemma": "פָּנִים",
+          "translit": "mipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "isaiah-7-16-14",
+          "surface": "שְׁנֵ֥י",
+          "lemma": "שְׁנַיִם",
+          "translit": "sheney",
+          "morph": "Adjective common masculine dual construct",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "isaiah-7-16-15",
+          "surface": "מְלָכֶֽיהָ",
+          "lemma": "מֶלֶךְ",
+          "translit": "melakeyha",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4428"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:17",
+      "englishText": "Yahweh will bring on you, on your people, and on your father’s house, days that have not come, from the day that Ephraim departed from Judah; even the king of Assyria.",
+      "tokens": [
+        {
+          "id": "isaiah-7-17-0",
+          "surface": "יָבִ֨יא",
+          "lemma": "בּוֹא",
+          "translit": "yabiy'",
+          "morph": "Verb Hiphil Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "isaiah-7-17-1",
+          "surface": "יְהוָ֜ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-7-17-2",
+          "surface": "עָלֶ֗יךָ",
+          "lemma": "עַל",
+          "translit": "`aleyka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "isaiah-7-17-3",
+          "surface": "וְעַֽל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "isaiah-7-17-4",
+          "surface": "עַמְּךָ֮",
+          "lemma": "עַם",
+          "translit": "`ameka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "isaiah-7-17-5",
+          "surface": "וְעַל",
+          "lemma": "עַל",
+          "translit": "ve`al",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "isaiah-7-17-6",
+          "surface": "בֵּ֣ית",
+          "lemma": "בַּיִת",
+          "translit": "beyt",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "isaiah-7-17-7",
+          "surface": "אָבִיךָ֒",
+          "lemma": "אָב",
+          "translit": "'abiyka",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1"
+        },
+        {
+          "id": "isaiah-7-17-8",
+          "surface": "יָמִים֙",
+          "lemma": "יוֹם",
+          "translit": "yamiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "isaiah-7-17-9",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "isaiah-7-17-10",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-7-17-11",
+          "surface": "בָ֔אוּ",
+          "lemma": "בּוֹא",
+          "translit": "ba'v",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "isaiah-7-17-12",
+          "surface": "לְמִיּ֥וֹם",
+          "lemma": "יוֹם",
+          "translit": "lemiyvom",
+          "morph": "Preposition + Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "isaiah-7-17-13",
+          "surface": "סוּר",
+          "lemma": "סוּר",
+          "translit": "svr",
+          "morph": "Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H5493"
+        },
+        {
+          "id": "isaiah-7-17-14",
+          "surface": "אֶפְרַ֖יִם",
+          "lemma": "אֶפְרַיִם",
+          "translit": "'eperayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H669"
+        },
+        {
+          "id": "isaiah-7-17-15",
+          "surface": "מֵעַ֣ל",
+          "lemma": "עַל",
+          "translit": "me`al",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "isaiah-7-17-16",
+          "surface": "יְהוּדָ֑ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "isaiah-7-17-17",
+          "surface": "אֵ֖ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-7-17-18",
+          "surface": "מֶ֥לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "isaiah-7-17-19",
+          "surface": "אַשּֽׁוּר",
+          "lemma": "אַשּׁוּר",
+          "translit": "'ashvr",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H804"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:18",
+      "englishText": "It will happen in that day that Yahweh will whistle for the fly that is in the uttermost part of the rivers of Egypt, and for the bee that is in the land of Assyria.",
+      "tokens": [
+        {
+          "id": "isaiah-7-18-0",
+          "surface": "וְהָיָ֣ה",
+          "lemma": "הָיָה",
+          "translit": "vehayah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-7-18-1",
+          "surface": "בַּיּ֣וֹם",
+          "lemma": "יוֹם",
+          "translit": "bayvom",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "isaiah-7-18-2",
+          "surface": "הַה֗וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "isaiah-7-18-3",
+          "surface": "יִשְׁרֹ֤ק",
+          "lemma": "שָׁרַק",
+          "translit": "yisheroq",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8319"
+        },
+        {
+          "id": "isaiah-7-18-4",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "isaiah-7-18-5",
+          "surface": "לַזְּב֔וּב",
+          "lemma": "זְבוּב",
+          "translit": "lazebvb",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2070"
+        },
+        {
+          "id": "isaiah-7-18-6",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "isaiah-7-18-7",
+          "surface": "בִּקְצֵ֖ה",
+          "lemma": "קָצֶה",
+          "translit": "biqetseh",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7097"
+        },
+        {
+          "id": "isaiah-7-18-8",
+          "surface": "יְאֹרֵ֣י",
+          "lemma": "יְאֹר",
+          "translit": "ye'orey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H2975"
+        },
+        {
+          "id": "isaiah-7-18-9",
+          "surface": "מִצְרָ֑יִם",
+          "lemma": "מִצְרַיִם",
+          "translit": "mitserayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4714"
+        },
+        {
+          "id": "isaiah-7-18-10",
+          "surface": "וְלַ֨דְּבוֹרָ֔ה",
+          "lemma": "דְּבוֹרָה",
+          "translit": "veladebvorah",
+          "morph": "Conjunction + Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H1682"
+        },
+        {
+          "id": "isaiah-7-18-11",
+          "surface": "אֲשֶׁ֖ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "isaiah-7-18-12",
+          "surface": "בְּאֶ֥רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "be'erets",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "isaiah-7-18-13",
+          "surface": "אַשּֽׁוּר",
+          "lemma": "אַשּׁוּר",
+          "translit": "'ashvr",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H804"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:19",
+      "englishText": "They shall come, and shall all rest in the desolate valleys, in the clefts of the rocks, on all thorn hedges, and on all pastures.",
+      "tokens": [
+        {
+          "id": "isaiah-7-19-0",
+          "surface": "וּבָ֨אוּ",
+          "lemma": "בּוֹא",
+          "translit": "vba'v",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "isaiah-7-19-1",
+          "surface": "וְנָח֤וּ",
+          "lemma": "נוּחַ",
+          "translit": "venachv",
+          "morph": "Conjunction + Verb Qal Perfect 3rd common plural",
+          "glosses": [],
+          "strongs": "H5117"
+        },
+        {
+          "id": "isaiah-7-19-2",
+          "surface": "כֻלָּם֙",
+          "lemma": "כֹּל",
+          "translit": "kulam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "isaiah-7-19-3",
+          "surface": "בְּנַחֲלֵ֣י",
+          "lemma": "נַחַל",
+          "translit": "benachley",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H5158"
+        },
+        {
+          "id": "isaiah-7-19-4",
+          "surface": "הַבַּתּ֔וֹת",
+          "lemma": "בַּתָּה",
+          "translit": "habatvot",
+          "morph": "Particle dual + Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H1327"
+        },
+        {
+          "id": "isaiah-7-19-5",
+          "surface": "וּבִנְקִיקֵ֖י",
+          "lemma": "נָקִיק",
+          "translit": "vbineqiyqey",
+          "morph": "Conjunction + Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H5357"
+        },
+        {
+          "id": "isaiah-7-19-6",
+          "surface": "הַסְּלָעִ֑ים",
+          "lemma": "סֶלַע",
+          "translit": "hasela`iym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5553"
+        },
+        {
+          "id": "isaiah-7-19-7",
+          "surface": "וּבְכֹל֙",
+          "lemma": "כֹּל",
+          "translit": "vbekol",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "isaiah-7-19-8",
+          "surface": "הַנַּ֣עֲצוּצִ֔ים",
+          "lemma": "נַעֲצוּץ",
+          "translit": "hana`tsvtsiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5285"
+        },
+        {
+          "id": "isaiah-7-19-9",
+          "surface": "וּבְכֹ֖ל",
+          "lemma": "כֹּל",
+          "translit": "vbekol",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "isaiah-7-19-10",
+          "surface": "הַנַּהֲלֹלִֽים",
+          "lemma": "נַהֲלֹל",
+          "translit": "hanahloliym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H5097"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:20",
+      "englishText": "In that day the Lord will shave with a razor that is hired in the parts beyond the River, even with the king of Assyria, the head and the hair of the feet; and it shall also consume the beard.",
+      "tokens": [
+        {
+          "id": "isaiah-7-20-0",
+          "surface": "בַּיּ֣וֹם",
+          "lemma": "יוֹם",
+          "translit": "bayvom",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "isaiah-7-20-1",
+          "surface": "הַה֡וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "isaiah-7-20-2",
+          "surface": "יְגַלַּ֣ח",
+          "lemma": "גָּלַח",
+          "translit": "yegalach",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1548"
+        },
+        {
+          "id": "isaiah-7-20-3",
+          "surface": "אֲדֹנָי֩",
+          "lemma": "אֲדֹנָי",
+          "translit": "'donay",
+          "morph": "Noun common masculine plural construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H136"
+        },
+        {
+          "id": "isaiah-7-20-4",
+          "surface": "בְּתַ֨עַר",
+          "lemma": "תַּעַר",
+          "translit": "beta`ar",
+          "morph": "Preposition + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H8593"
+        },
+        {
+          "id": "isaiah-7-20-5",
+          "surface": "הַשְּׂכִירָ֜ה",
+          "lemma": "שְׂכִירָה",
+          "translit": "hashekiyrah",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7917"
+        },
+        {
+          "id": "isaiah-7-20-6",
+          "surface": "בְּעֶבְרֵ֤י",
+          "lemma": "עֵבֶר",
+          "translit": "be`eberey",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H5676"
+        },
+        {
+          "id": "isaiah-7-20-7",
+          "surface": "נָהָר֙",
+          "lemma": "נָהָר",
+          "translit": "nahar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5104"
+        },
+        {
+          "id": "isaiah-7-20-8",
+          "surface": "בְּמֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "bemeleke",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "isaiah-7-20-9",
+          "surface": "אַשּׁ֔וּר",
+          "lemma": "אַשּׁוּר",
+          "translit": "'ashvr",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H804"
+        },
+        {
+          "id": "isaiah-7-20-10",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-7-20-11",
+          "surface": "הָרֹ֖אשׁ",
+          "lemma": "רֹאשׁ",
+          "translit": "haro'sh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "isaiah-7-20-12",
+          "surface": "וְשַׂ֣עַר",
+          "lemma": "שֵׂעָר",
+          "translit": "vesha`ar",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8181"
+        },
+        {
+          "id": "isaiah-7-20-13",
+          "surface": "הָרַגְלָ֑יִם",
+          "lemma": "רֶגֶל",
+          "translit": "haragelayim",
+          "morph": "Particle dual + Noun common feminine dual absolute",
+          "glosses": [],
+          "strongs": "H7272"
+        },
+        {
+          "id": "isaiah-7-20-14",
+          "surface": "וְגַ֥ם",
+          "lemma": "גַּם",
+          "translit": "vegam",
+          "morph": "Conjunction + Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "isaiah-7-20-15",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "isaiah-7-20-16",
+          "surface": "הַזָּקָ֖ן",
+          "lemma": "זָקָן",
+          "translit": "hazaqan",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H2206"
+        },
+        {
+          "id": "isaiah-7-20-17",
+          "surface": "תִּסְפֶּֽה",
+          "lemma": "סָפָה",
+          "translit": "tisepeh",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5595"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:21",
+      "englishText": "It shall happen in that day that a man shall keep alive a young cow, and two sheep;",
+      "tokens": [
+        {
+          "id": "isaiah-7-21-0",
+          "surface": "וְהָיָ֖ה",
+          "lemma": "הָיָה",
+          "translit": "vehayah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-7-21-1",
+          "surface": "בַּיּ֣וֹם",
+          "lemma": "יוֹם",
+          "translit": "bayvom",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "isaiah-7-21-2",
+          "surface": "הַה֑וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "isaiah-7-21-3",
+          "surface": "יְחַיֶּה",
+          "lemma": "חָיָה",
+          "translit": "yechayeh",
+          "morph": "Verb Piel Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2421"
+        },
+        {
+          "id": "isaiah-7-21-4",
+          "surface": "אִ֛ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "isaiah-7-21-5",
+          "surface": "עֶגְלַ֥ת",
+          "lemma": "עֶגְלָה",
+          "translit": "`egelat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H5697"
+        },
+        {
+          "id": "isaiah-7-21-6",
+          "surface": "בָּקָ֖ר",
+          "lemma": "בָּקָר",
+          "translit": "baqar",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H1241"
+        },
+        {
+          "id": "isaiah-7-21-7",
+          "surface": "וּשְׁתֵּי",
+          "lemma": "שְׁנַיִם",
+          "translit": "vshetey",
+          "morph": "Conjunction + Adjective common feminine dual construct",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "isaiah-7-21-8",
+          "surface": "צֹֽאן",
+          "lemma": "צֹאן",
+          "translit": "tso'n",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H6629"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:22",
+      "englishText": "and it shall happen, that because of the abundance of milk which they shall give he shall eat butter: for everyone will eat butter and honey that is left in the midst of the land.",
+      "tokens": [
+        {
+          "id": "isaiah-7-22-0",
+          "surface": "וְהָיָ֗ה",
+          "lemma": "הָיָה",
+          "translit": "vehayah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-7-22-1",
+          "surface": "מֵרֹ֛ב",
+          "lemma": "רֹב",
+          "translit": "merob",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7230"
+        },
+        {
+          "id": "isaiah-7-22-2",
+          "surface": "עֲשׂ֥וֹת",
+          "lemma": "עָשָׂה",
+          "translit": "`shvot",
+          "morph": "Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "isaiah-7-22-3",
+          "surface": "חָלָ֖ב",
+          "lemma": "חָלָב",
+          "translit": "chalab",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2461"
+        },
+        {
+          "id": "isaiah-7-22-4",
+          "surface": "יֹאכַ֣ל",
+          "lemma": "אָכַל",
+          "translit": "yo'kal",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "isaiah-7-22-5",
+          "surface": "חֶמְאָ֑ה",
+          "lemma": "חֶמְאָה",
+          "translit": "cheme'ah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2529"
+        },
+        {
+          "id": "isaiah-7-22-6",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-7-22-7",
+          "surface": "חֶמְאָ֤ה",
+          "lemma": "חֶמְאָה",
+          "translit": "cheme'ah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2529"
+        },
+        {
+          "id": "isaiah-7-22-8",
+          "surface": "וּדְבַשׁ֙",
+          "lemma": "דְּבַשׁ",
+          "translit": "vdebash",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1706"
+        },
+        {
+          "id": "isaiah-7-22-9",
+          "surface": "יֹאכֵ֔ל",
+          "lemma": "אָכַל",
+          "translit": "yo'kel",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "isaiah-7-22-10",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "isaiah-7-22-11",
+          "surface": "הַנּוֹתָ֖ר",
+          "lemma": "יָתַר",
+          "translit": "hanvotar",
+          "morph": "Particle dual + Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H3498"
+        },
+        {
+          "id": "isaiah-7-22-12",
+          "surface": "בְּקֶ֥רֶב",
+          "lemma": "קֶרֶב",
+          "translit": "beqereb",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7130"
+        },
+        {
+          "id": "isaiah-7-22-13",
+          "surface": "הָאָֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:23",
+      "englishText": "It will happen in that day that every place where there were a thousand vines at a thousand silver shekels, shall be for briers and thorns.",
+      "tokens": [
+        {
+          "id": "isaiah-7-23-0",
+          "surface": "וְהָיָה֙",
+          "lemma": "הָיָה",
+          "translit": "vehayah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-7-23-1",
+          "surface": "בַּיּ֣וֹם",
+          "lemma": "יוֹם",
+          "translit": "bayvom",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "isaiah-7-23-2",
+          "surface": "הַה֔וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "isaiah-7-23-3",
+          "surface": "יִֽהְיֶ֣ה",
+          "lemma": "הָיָה",
+          "translit": "yiheyeh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-7-23-4",
+          "surface": "כָל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "isaiah-7-23-5",
+          "surface": "מָק֗וֹם",
+          "lemma": "מָקוֹם",
+          "translit": "maqvom",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4725"
+        },
+        {
+          "id": "isaiah-7-23-6",
+          "surface": "אֲשֶׁ֧ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "isaiah-7-23-7",
+          "surface": "יִֽהְיֶה",
+          "lemma": "הָיָה",
+          "translit": "yiheyeh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-7-23-8",
+          "surface": "שָּׁ֛ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "isaiah-7-23-9",
+          "surface": "אֶ֥לֶף",
+          "lemma": "אֶלֶף",
+          "translit": "'elep",
+          "morph": "Adjective common singular absolute",
+          "glosses": [],
+          "strongs": "H505"
+        },
+        {
+          "id": "isaiah-7-23-10",
+          "surface": "גֶּ֖פֶן",
+          "lemma": "גֶּפֶן",
+          "translit": "gepen",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H1612"
+        },
+        {
+          "id": "isaiah-7-23-11",
+          "surface": "בְּאֶ֣לֶף",
+          "lemma": "אֶלֶף",
+          "translit": "be'elep",
+          "morph": "Preposition + Adjective common singular absolute",
+          "glosses": [],
+          "strongs": "H505"
+        },
+        {
+          "id": "isaiah-7-23-12",
+          "surface": "כָּ֑סֶף",
+          "lemma": "כֶּסֶף",
+          "translit": "kasep",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3701"
+        },
+        {
+          "id": "isaiah-7-23-13",
+          "surface": "לַשָּׁמִ֥יר",
+          "lemma": "שָׁמִיר",
+          "translit": "lashamiyr",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8068"
+        },
+        {
+          "id": "isaiah-7-23-14",
+          "surface": "וְלַשַּׁ֖יִת",
+          "lemma": "שַׁיִת",
+          "translit": "velashayit",
+          "morph": "Conjunction + Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7898"
+        },
+        {
+          "id": "isaiah-7-23-15",
+          "surface": "יִֽהְיֶֽה",
+          "lemma": "הָיָה",
+          "translit": "yiheyeh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:24",
+      "englishText": "People will go there with arrows and with bow, because all the land will be briers and thorns.",
+      "tokens": [
+        {
+          "id": "isaiah-7-24-0",
+          "surface": "בַּחִצִּ֥ים",
+          "lemma": "חִצִּי",
+          "translit": "bachitsiym",
+          "morph": "Preposition dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H2678"
+        },
+        {
+          "id": "isaiah-7-24-1",
+          "surface": "וּבַקֶּ֖שֶׁת",
+          "lemma": "קֶשֶׁת",
+          "translit": "vbaqeshet",
+          "morph": "Conjunction + Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7198"
+        },
+        {
+          "id": "isaiah-7-24-2",
+          "surface": "יָ֣בוֹא",
+          "lemma": "בּוֹא",
+          "translit": "yabvo'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "isaiah-7-24-3",
+          "surface": "שָׁ֑מָּה",
+          "lemma": "שָׁם",
+          "translit": "shamah",
+          "morph": "Adverb + Suffix dual",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "isaiah-7-24-4",
+          "surface": "כִּי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "isaiah-7-24-5",
+          "surface": "שָׁמִ֥יר",
+          "lemma": "שָׁמִיר",
+          "translit": "shamiyr",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8068"
+        },
+        {
+          "id": "isaiah-7-24-6",
+          "surface": "וָשַׁ֖יִת",
+          "lemma": "שַׁיִת",
+          "translit": "vashayit",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7898"
+        },
+        {
+          "id": "isaiah-7-24-7",
+          "surface": "תִּֽהְיֶ֥ה",
+          "lemma": "הָיָה",
+          "translit": "tiheyeh",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-7-24-8",
+          "surface": "כָל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "isaiah-7-24-9",
+          "surface": "הָאָֽרֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ha'arets",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Isaiah 7:25",
+      "englishText": "All the hills that were cultivated with the hoe, you shall not come there for fear of briers and thorns; but it shall be for the sending out of oxen, and for the treading of sheep.”   ",
+      "tokens": [
+        {
+          "id": "isaiah-7-25-0",
+          "surface": "וְכֹ֣ל",
+          "lemma": "כֹּל",
+          "translit": "vekol",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "isaiah-7-25-1",
+          "surface": "הֶהָרִ֗ים",
+          "lemma": "הַר",
+          "translit": "hehariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "isaiah-7-25-2",
+          "surface": "אֲשֶׁ֤ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "isaiah-7-25-3",
+          "surface": "בַּמַּעְדֵּר֙",
+          "lemma": "מַעְדֵּר",
+          "translit": "bama`eder",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4576"
+        },
+        {
+          "id": "isaiah-7-25-4",
+          "surface": "יֵעָ֣דֵר֔וּן",
+          "lemma": "עֲדַר",
+          "translit": "ye`adervn",
+          "morph": "Verb Niphal Imperative 3rd masculine plural + Suffix",
+          "glosses": [],
+          "strongs": "H5737"
+        },
+        {
+          "id": "isaiah-7-25-5",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "isaiah-7-25-6",
+          "surface": "תָב֣וֹא",
+          "lemma": "בּוֹא",
+          "translit": "tabvo'",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "isaiah-7-25-7",
+          "surface": "שָׁ֔מָּה",
+          "lemma": "שָׁם",
+          "translit": "shamah",
+          "morph": "Adverb + Suffix dual",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "isaiah-7-25-8",
+          "surface": "יִרְאַ֖ת",
+          "lemma": "יִרְאָה",
+          "translit": "yire'at",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H3374"
+        },
+        {
+          "id": "isaiah-7-25-9",
+          "surface": "שָׁמִ֣יר",
+          "lemma": "שָׁמִיר",
+          "translit": "shamiyr",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8068"
+        },
+        {
+          "id": "isaiah-7-25-10",
+          "surface": "וָשָׁ֑יִת",
+          "lemma": "שַׁיִת",
+          "translit": "vashayit",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7898"
+        },
+        {
+          "id": "isaiah-7-25-11",
+          "surface": "וְהָיָה֙",
+          "lemma": "הָיָה",
+          "translit": "vehayah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "isaiah-7-25-12",
+          "surface": "לְמִשְׁלַ֣ח",
+          "lemma": "מִשְׁלוֹחַ",
+          "translit": "lemishelach",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4916"
+        },
+        {
+          "id": "isaiah-7-25-13",
+          "surface": "שׁ֔וֹר",
+          "lemma": "שׁוֹר",
+          "translit": "shvor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7794"
+        },
+        {
+          "id": "isaiah-7-25-14",
+          "surface": "וּלְמִרְמַ֖ס",
+          "lemma": "מִרְמָס",
+          "translit": "vlemiremas",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4823"
+        },
+        {
+          "id": "isaiah-7-25-15",
+          "surface": "שֶֽׂה",
+          "lemma": "שֶׂה",
+          "translit": "sheh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7716"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

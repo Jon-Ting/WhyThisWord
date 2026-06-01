@@ -1,1 +1,3364 @@
-{"id":"2-kings-1","name":"2 Kings","chapter":1,"verses":[{"ref":"2 Kings 1:1","englishText":"Moab rebelled against Israel after the death of Ahab.","tokens":[{"id":"2-kings-1-1-0","surface":"וַיִּפְשַׁ֤ע","lemma":"פָּשַׁע","translit":"vayipesha`","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6586"},{"id":"2-kings-1-1-1","surface":"מוֹאָב֙","lemma":"מוֹאָב","translit":"mvo'ab","morph":"Noun proper","glosses":[],"strongs":"H4124"},{"id":"2-kings-1-1-2","surface":"בְּיִשְׂרָאֵ֔ל","lemma":"יִשְׂרָאֵל","translit":"beyishera'el","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3478"},{"id":"2-kings-1-1-3","surface":"אַחֲרֵ֖י","lemma":"אַחַר","translit":"'achrey","morph":"Preposition","glosses":[],"strongs":"H310"},{"id":"2-kings-1-1-4","surface":"מ֥וֹת","lemma":"מָוֶת","translit":"mvot","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4194"},{"id":"2-kings-1-1-5","surface":"אַחְאָֽב","lemma":"אַחְאָב","translit":"'ache'ab","morph":"Noun proper","glosses":[],"strongs":"H256"}],"language":"hebrew"},{"ref":"2 Kings 1:2","englishText":"Ahaziah fell down through the lattice in his upper room that was in Samaria, and was sick. So he sent messengers, and said to them, “Go, inquire of Baal Zebub, the god of Ekron, whether I will recover of this sickness.”  ","tokens":[{"id":"2-kings-1-2-0","surface":"וַיִּפֹּ֨ל","lemma":"נָפַל","translit":"vayipol","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5307"},{"id":"2-kings-1-2-1","surface":"אֲחַזְיָ֜ה","lemma":"אֲחַזְיָה","translit":"'chazeyah","morph":"Noun proper","glosses":[],"strongs":"H274"},{"id":"2-kings-1-2-2","surface":"בְּעַ֣ד","lemma":"בְּעַד","translit":"be`ad","morph":"Preposition","glosses":[],"strongs":"H1157"},{"id":"2-kings-1-2-3","surface":"הַשְּׂבָכָ֗ה","lemma":"שְׂבָכָה","translit":"hashebakah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H7639"},{"id":"2-kings-1-2-4","surface":"בַּעֲלִיָּת֛וֹ","lemma":"עֲלִיָּה","translit":"ba`liyatvo","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5944"},{"id":"2-kings-1-2-5","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"2-kings-1-2-6","surface":"בְּשֹׁמְר֖וֹן","lemma":"שֹׁמְרוֹן","translit":"beshomervon","morph":"Preposition + Noun proper","glosses":[],"strongs":"H8111"},{"id":"2-kings-1-2-7","surface":"וַיָּ֑חַל","lemma":"חָלָה","translit":"vayachal","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H2470"},{"id":"2-kings-1-2-8","surface":"וַיִּשְׁלַ֣ח","lemma":"שָׁלַח","translit":"vayishelach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7971"},{"id":"2-kings-1-2-9","surface":"מַלְאָכִ֔ים","lemma":"מֲלְאָךְ","translit":"male'akiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4397"},{"id":"2-kings-1-2-10","surface":"וַיֹּ֤אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"2-kings-1-2-11","surface":"אֲלֵהֶם֙","lemma":"אֵל","translit":"'lehem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H413"},{"id":"2-kings-1-2-12","surface":"לְכ֣וּ","lemma":"יָלַךְ","translit":"lekv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H3212"},{"id":"2-kings-1-2-13","surface":"דִרְשׁ֗וּ","lemma":"דָּרַשׁ","translit":"direshv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H1875"},{"id":"2-kings-1-2-14","surface":"בְּבַ֤עַל","lemma":"בַּעַל זְבוּב","translit":"beba`al","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1176"},{"id":"2-kings-1-2-15","surface":"זְבוּב֙","lemma":"בַּעַל זְבוּב","translit":"zebvb","morph":"Noun proper","glosses":[],"strongs":"H1176"},{"id":"2-kings-1-2-16","surface":"אֱלֹהֵ֣י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"2-kings-1-2-17","surface":"עֶקְר֔וֹן","lemma":"עֶקְרוֹן","translit":"`eqervon","morph":"Noun proper","glosses":[],"strongs":"H6138"},{"id":"2-kings-1-2-18","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"2-kings-1-2-19","surface":"אֶחְיֶ֖ה","lemma":"חָיָה","translit":"'echeyeh","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H2421"},{"id":"2-kings-1-2-20","surface":"מֵחֳלִ֥י","lemma":"חֳלִי","translit":"mechliy","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H2483"},{"id":"2-kings-1-2-21","surface":"זֶֽה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"}],"language":"hebrew"},{"ref":"2 Kings 1:3","englishText":"  But Yahweh’s angel said to Elijah the Tishbite, “Arise, go up to meet the messengers of the king of Samaria, and tell them, ‘Is it because there is no God in Israel, that you go to inquire of Baal Zebub, the god of Ekron?","tokens":[{"id":"2-kings-1-3-0","surface":"וּמַלְאַ֣ךְ","lemma":"מֲלְאָךְ","translit":"vmale'ake","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H4397"},{"id":"2-kings-1-3-1","surface":"יְהוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"2-kings-1-3-2","surface":"דִּבֶּר֙","lemma":"דָבַר","translit":"diber","morph":"Verb Piel Participle 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-3-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"2-kings-1-3-4","surface":"אֵלִיָּ֣ה","lemma":"אֵלִיָּה","translit":"'eliyah","morph":"Noun proper","glosses":[],"strongs":"H452"},{"id":"2-kings-1-3-5","surface":"הַתִּשְׁבִּ֔י","lemma":"תִּשְׁבִּי","translit":"hatishebiy","morph":"Particle dual + Noun gentilic masculine singular absolute","glosses":[],"strongs":"H8664"},{"id":"2-kings-1-3-6","surface":"ק֣וּם","lemma":"קוּם","translit":"qvm","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H6965"},{"id":"2-kings-1-3-7","surface":"עֲלֵ֔ה","lemma":"עָלָה","translit":"`leh","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H5927"},{"id":"2-kings-1-3-8","surface":"לִקְרַ֖את","lemma":"קִרְאָה","translit":"liqera't","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H7125"},{"id":"2-kings-1-3-9","surface":"מַלְאֲכֵ֣י","lemma":"מֲלְאָךְ","translit":"male'key","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H4397"},{"id":"2-kings-1-3-10","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"2-kings-1-3-11","surface":"שֹׁמְר֑וֹן","lemma":"שֹׁמְרוֹן","translit":"shomervon","morph":"Noun proper","glosses":[],"strongs":"H8111"},{"id":"2-kings-1-3-12","surface":"וְדַבֵּ֣ר","lemma":"דָבַר","translit":"vedaber","morph":"Conjunction + Verb Piel Weqatal 2nd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-3-13","surface":"אֲלֵהֶ֔ם","lemma":"אֵל","translit":"'lehem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H413"},{"id":"2-kings-1-3-14","surface":"הַֽמִבְּלִ֤י","lemma":"בְּלִי","translit":"hamibeliy","morph":"Particle + Preposition + Adverb","glosses":[],"strongs":"H1097"},{"id":"2-kings-1-3-15","surface":"אֵין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"2-kings-1-3-16","surface":"אֱלֹהִים֙","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"2-kings-1-3-17","surface":"בְּיִשְׂרָאֵ֔ל","lemma":"יִשְׂרָאֵל","translit":"beyishera'el","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3478"},{"id":"2-kings-1-3-18","surface":"אַתֶּם֙","lemma":"אַתָּה","translit":"'atem","morph":"Pronoun plural 2nd masculine","glosses":[],"strongs":"H859"},{"id":"2-kings-1-3-19","surface":"הֹֽלְכִ֔ים","lemma":"הָלַךְ","translit":"holekiym","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H1980"},{"id":"2-kings-1-3-20","surface":"לִדְרֹ֕שׁ","lemma":"דָּרַשׁ","translit":"liderosh","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H1875"},{"id":"2-kings-1-3-21","surface":"בְּבַ֥עַל","lemma":"בַּעַל זְבוּב","translit":"beba`al","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1176"},{"id":"2-kings-1-3-22","surface":"זְב֖וּב","lemma":"בַּעַל זְבוּב","translit":"zebvb","morph":"Noun proper","glosses":[],"strongs":"H1176"},{"id":"2-kings-1-3-23","surface":"אֱלֹהֵ֥י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"2-kings-1-3-24","surface":"עֶקְרֽוֹן","lemma":"עֶקְרוֹן","translit":"`eqervon","morph":"Noun proper","glosses":[],"strongs":"H6138"}],"language":"hebrew"},{"ref":"2 Kings 1:4","englishText":"Now therefore thus says Yahweh, “You shall not come down from the bed where you have gone up, but shall surely die.”’” Elijah departed.  ","tokens":[{"id":"2-kings-1-4-0","surface":"וְלָכֵן֙","lemma":"כֵּן","translit":"velaken","morph":"Conjunction + Preposition + Adverb","glosses":[],"strongs":"H3651"},{"id":"2-kings-1-4-1","surface":"כֹּֽה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"2-kings-1-4-2","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"2-kings-1-4-3","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"2-kings-1-4-4","surface":"הַמִּטָּ֞ה","lemma":"מִטָּה","translit":"hamitah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4296"},{"id":"2-kings-1-4-5","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"2-kings-1-4-6","surface":"עָלִ֥יתָ","lemma":"עָלָה","translit":"`aliyta","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H5927"},{"id":"2-kings-1-4-7","surface":"שָּׁ֛ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"2-kings-1-4-8","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"2-kings-1-4-9","surface":"תֵרֵ֥ד","lemma":"יָרַד","translit":"tered","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H3381"},{"id":"2-kings-1-4-10","surface":"מִמֶּ֖נָּה","lemma":"מִן","translit":"mimenah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H4480"},{"id":"2-kings-1-4-11","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"2-kings-1-4-12","surface":"מ֣וֹת","lemma":"מוּת","translit":"mvot","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H4191"},{"id":"2-kings-1-4-13","surface":"תָּמ֑וּת","lemma":"מוּת","translit":"tamvt","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H4191"},{"id":"2-kings-1-4-14","surface":"וַיֵּ֖לֶךְ","lemma":"יָלַךְ","translit":"vayeleke","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3212"},{"id":"2-kings-1-4-15","surface":"אֵלִיָּֽה","lemma":"אֵלִיָּה","translit":"'eliyah","morph":"Noun proper","glosses":[],"strongs":"H452"}],"language":"hebrew"},{"ref":"2 Kings 1:5","englishText":"  The messengers returned to him, and he said to them, “Why is it that you have returned?”  ","tokens":[{"id":"2-kings-1-5-0","surface":"וַיָּשׁ֥וּבוּ","lemma":"שׁוּב","translit":"vayashvbv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H7725"},{"id":"2-kings-1-5-1","surface":"הַמַּלְאָכִ֖ים","lemma":"מֲלְאָךְ","translit":"hamale'akiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H4397"},{"id":"2-kings-1-5-2","surface":"אֵלָ֑יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-5-3","surface":"וַיֹּ֥אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"2-kings-1-5-4","surface":"אֲלֵיהֶ֖ם","lemma":"אֵל","translit":"'leyhem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H413"},{"id":"2-kings-1-5-5","surface":"מַה","lemma":"מָה","translit":"mah","morph":"Particle","glosses":[],"strongs":"H4100"},{"id":"2-kings-1-5-6","surface":"זֶּ֥ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"2-kings-1-5-7","surface":"שַׁבְתֶּֽם","lemma":"שׁוּב","translit":"shabetem","morph":"Verb Qal Participle 2nd masculine plural","glosses":[],"strongs":"H7725"}],"language":"hebrew"},{"ref":"2 Kings 1:6","englishText":"  They said to him, “A man came up to meet us, and said to us, ‘Go, return to the king who sent you, and tell him, “Thus says Yahweh, ‘Is it because there is no God in Israel, that you send to inquire of Baal Zebub, the god of Ekron? Therefore you shall not come down from the bed where you have gone up, but shall surely die.’”’”  ","tokens":[{"id":"2-kings-1-6-0","surface":"וַיֹּאמְר֨וּ","lemma":"אָמַר","translit":"vayo'merv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H559"},{"id":"2-kings-1-6-1","surface":"אֵלָ֜יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-6-2","surface":"אִ֣ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"2-kings-1-6-3","surface":"עָלָ֣ה","lemma":"עָלָה","translit":"`alah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"2-kings-1-6-4","surface":"לִקְרָאתֵ֗נוּ","lemma":"קִרְאָה","translit":"liqera'tenv","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 1st common","glosses":[],"strongs":"H7125"},{"id":"2-kings-1-6-5","surface":"וַיֹּ֣אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"2-kings-1-6-6","surface":"אֵלֵינוּ֮","lemma":"אֵל","translit":"'eleynv","morph":"Preposition + Suffix plural 1st common","glosses":[],"strongs":"H413"},{"id":"2-kings-1-6-7","surface":"לְכ֣וּ","lemma":"יָלַךְ","translit":"lekv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H3212"},{"id":"2-kings-1-6-8","surface":"שׁוּבוּ֮","lemma":"שׁוּב","translit":"shvbv","morph":"Verb Qal Weqatal 2nd masculine plural","glosses":[],"strongs":"H7725"},{"id":"2-kings-1-6-9","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"2-kings-1-6-10","surface":"הַמֶּ֣לֶךְ","lemma":"מֶלֶךְ","translit":"hameleke","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4428"},{"id":"2-kings-1-6-11","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"2-kings-1-6-12","surface":"שָׁלַ֣ח","lemma":"שָׁלַח","translit":"shalach","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H7971"},{"id":"2-kings-1-6-13","surface":"אֶתְכֶם֒","lemma":"אֵת","translit":"'etekem","morph":"Particle + Suffix plural 2nd masculine","glosses":[],"strongs":"H853"},{"id":"2-kings-1-6-14","surface":"וְדִבַּרְתֶּ֣ם","lemma":"דָבַר","translit":"vedibaretem","morph":"Conjunction + Verb Piel Perfect 2nd masculine plural","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-6-15","surface":"אֵלָ֗יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-6-16","surface":"כֹּ֚ה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"2-kings-1-6-17","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"2-kings-1-6-18","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"2-kings-1-6-19","surface":"הַֽמִבְּלִ֤י","lemma":"בְּלִי","translit":"hamibeliy","morph":"Particle + Preposition + Adverb","glosses":[],"strongs":"H1097"},{"id":"2-kings-1-6-20","surface":"אֵין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"2-kings-1-6-21","surface":"אֱלֹהִים֙","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"2-kings-1-6-22","surface":"בְּיִשְׂרָאֵ֔ל","lemma":"יִשְׂרָאֵל","translit":"beyishera'el","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3478"},{"id":"2-kings-1-6-23","surface":"אַתָּ֣ה","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"2-kings-1-6-24","surface":"שֹׁלֵ֔חַ","lemma":"שָׁלַח","translit":"sholecha","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H7971"},{"id":"2-kings-1-6-25","surface":"לִדְרֹ֕שׁ","lemma":"דָּרַשׁ","translit":"liderosh","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H1875"},{"id":"2-kings-1-6-26","surface":"בְּבַ֥עַל","lemma":"בַּעַל זְבוּב","translit":"beba`al","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1176"},{"id":"2-kings-1-6-27","surface":"זְב֖וּב","lemma":"בַּעַל זְבוּב","translit":"zebvb","morph":"Noun proper","glosses":[],"strongs":"H1176"},{"id":"2-kings-1-6-28","surface":"אֱלֹהֵ֣י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"2-kings-1-6-29","surface":"עֶקְר֑וֹן","lemma":"עֶקְרוֹן","translit":"`eqervon","morph":"Noun proper","glosses":[],"strongs":"H6138"},{"id":"2-kings-1-6-30","surface":"לָ֠כֵן","lemma":"כֵּן","translit":"laken","morph":"Preposition + Adverb","glosses":[],"strongs":"H3651"},{"id":"2-kings-1-6-31","surface":"הַמִּטָּ֞ה","lemma":"מִטָּה","translit":"hamitah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4296"},{"id":"2-kings-1-6-32","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"2-kings-1-6-33","surface":"עָלִ֥יתָ","lemma":"עָלָה","translit":"`aliyta","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H5927"},{"id":"2-kings-1-6-34","surface":"שָּׁ֛ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"2-kings-1-6-35","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"2-kings-1-6-36","surface":"תֵרֵ֥ד","lemma":"יָרַד","translit":"tered","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H3381"},{"id":"2-kings-1-6-37","surface":"מִמֶּ֖נָּה","lemma":"מִן","translit":"mimenah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H4480"},{"id":"2-kings-1-6-38","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"2-kings-1-6-39","surface":"מ֥וֹת","lemma":"מוּת","translit":"mvot","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H4191"},{"id":"2-kings-1-6-40","surface":"תָּמֽוּת","lemma":"מוּת","translit":"tamvt","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H4191"}],"language":"hebrew"},{"ref":"2 Kings 1:7","englishText":"  He said to them, “What kind of man was he who came up to meet you, and told you these words?”  ","tokens":[{"id":"2-kings-1-7-0","surface":"וַיְדַבֵּ֣ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-7-1","surface":"אֲלֵהֶ֔ם","lemma":"אֵל","translit":"'lehem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H413"},{"id":"2-kings-1-7-2","surface":"מֶ֚ה","lemma":"מָה","translit":"meh","morph":"Particle","glosses":[],"strongs":"H4100"},{"id":"2-kings-1-7-3","surface":"מִשְׁפַּ֣ט","lemma":"מִשְׁפָּט","translit":"mishepat","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4941"},{"id":"2-kings-1-7-4","surface":"הָאִ֔ישׁ","lemma":"אִישׁ","translit":"ha'iysh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"2-kings-1-7-5","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"2-kings-1-7-6","surface":"עָלָ֖ה","lemma":"עָלָה","translit":"`alah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"2-kings-1-7-7","surface":"לִקְרַאתְכֶ֑ם","lemma":"קִרְאָה","translit":"liqera'tekem","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 2nd masculine","glosses":[],"strongs":"H7125"},{"id":"2-kings-1-7-8","surface":"וַיְדַבֵּ֣ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-7-9","surface":"אֲלֵיכֶ֔ם","lemma":"אֵל","translit":"'leykem","morph":"Preposition + Suffix plural 2nd masculine","glosses":[],"strongs":"H413"},{"id":"2-kings-1-7-10","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"2-kings-1-7-11","surface":"הַדְּבָרִ֖ים","lemma":"דָּבָר","translit":"hadebariym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H1697"},{"id":"2-kings-1-7-12","surface":"הָאֵֽלֶּה","lemma":"אֵלֶּה","translit":"ha'eleh","morph":"Particle dual + Pronoun dual common plural","glosses":[],"strongs":"H428"}],"language":"hebrew"},{"ref":"2 Kings 1:8","englishText":"  They answered him, “He was a hairy man, and wearing a leather belt around his waist.”   He said, “It is Elijah the Tishbite.”  ","tokens":[{"id":"2-kings-1-8-0","surface":"וַיֹּאמְר֣וּ","lemma":"אָמַר","translit":"vayo'merv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H559"},{"id":"2-kings-1-8-1","surface":"אֵלָ֗יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-8-2","surface":"אִ֚ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H376"},{"id":"2-kings-1-8-3","surface":"בַּ֣עַל","lemma":"בַּעַל","translit":"ba`al","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1167"},{"id":"2-kings-1-8-4","surface":"שֵׂעָ֔ר","lemma":"שֵׂעָר","translit":"she`ar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H8181"},{"id":"2-kings-1-8-5","surface":"וְאֵז֥וֹר","lemma":"אֵזוֹר","translit":"ve'ezvor","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H232"},{"id":"2-kings-1-8-6","surface":"ע֖וֹר","lemma":"עוֹר","translit":"`vor","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5785"},{"id":"2-kings-1-8-7","surface":"אָז֣וּר","lemma":"אָזַר","translit":"'azvr","morph":"Verb Qal s","glosses":[],"strongs":"H247"},{"id":"2-kings-1-8-8","surface":"בְּמָתְנָ֑יו","lemma":"מֹתֶן","translit":"bematenayv","morph":"Preposition + Noun common masculine dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H4975"},{"id":"2-kings-1-8-9","surface":"וַיֹּאמַ֕ר","lemma":"אָמַר","translit":"vayo'mar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"2-kings-1-8-10","surface":"אֵלִיָּ֥ה","lemma":"אֵלִיָּה","translit":"'eliyah","morph":"Noun proper","glosses":[],"strongs":"H452"},{"id":"2-kings-1-8-11","surface":"הַתִּשְׁבִּ֖י","lemma":"תִּשְׁבִּי","translit":"hatishebiy","morph":"Particle dual + Noun gentilic masculine singular absolute","glosses":[],"strongs":"H8664"},{"id":"2-kings-1-8-12","surface":"הֽוּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"2 Kings 1:9","englishText":"  Then the king sent a captain of fifty with his fifty to him. He went up to him; and behold, he was sitting on the top of the hill. He said to him, “Man of God, the king has said, ‘Come down!’”  ","tokens":[{"id":"2-kings-1-9-0","surface":"וַיִּשְׁלַ֥ח","lemma":"שָׁלַח","translit":"vayishelach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7971"},{"id":"2-kings-1-9-1","surface":"אֵלָ֛יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-9-2","surface":"שַׂר","lemma":"שַׂר","translit":"shar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8269"},{"id":"2-kings-1-9-3","surface":"חֲמִשִּׁ֖ים","lemma":"חֲמִשִּׁים","translit":"chmishiym","morph":"Adjective common plural absolute","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-9-4","surface":"וַחֲמִשָּׁ֑יו","lemma":"חֲמִשִּׁים","translit":"vachmishayv","morph":"Conjunction + Adjective common plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-9-5","surface":"וַיַּ֣עַל","lemma":"עָלָה","translit":"vaya`al","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"2-kings-1-9-6","surface":"אֵלָ֗יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-9-7","surface":"וְהִנֵּה֙","lemma":"הִנֵּה","translit":"vehineh","morph":"Conjunction + Particle masculine","glosses":[],"strongs":"H2009"},{"id":"2-kings-1-9-8","surface":"יֹשֵׁב֙","lemma":"יָשַׁב","translit":"yosheb","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3427"},{"id":"2-kings-1-9-9","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"2-kings-1-9-10","surface":"רֹ֣אשׁ","lemma":"רֹאשׁ","translit":"ro'sh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7218"},{"id":"2-kings-1-9-11","surface":"הָהָ֔ר","lemma":"הַר","translit":"hahar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2022"},{"id":"2-kings-1-9-12","surface":"וַיְדַבֵּ֣ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-9-13","surface":"אֵלָ֔יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-9-14","surface":"אִ֚ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H376"},{"id":"2-kings-1-9-15","surface":"הָֽאֱלֹהִ֔ים","lemma":"אֱלֹהִים","translit":"ha'lohiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"2-kings-1-9-16","surface":"הַמֶּ֥לֶךְ","lemma":"מֶלֶךְ","translit":"hameleke","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4428"},{"id":"2-kings-1-9-17","surface":"דִּבֶּ֖ר","lemma":"דָבַר","translit":"diber","morph":"Verb Piel Participle 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-9-18","surface":"רֵֽדָה","lemma":"יָרַד","translit":"redah","morph":"Verb Qal Weqatal 2nd masculine singular + Suffix","glosses":[],"strongs":"H3381"}],"language":"hebrew"},{"ref":"2 Kings 1:10","englishText":"  Elijah answered to the captain of fifty, “If I am a man of God, let fire come down from the sky, and consume you and your fifty!” Fire came down from the sky, and consumed him and his fifty.  ","tokens":[{"id":"2-kings-1-10-0","surface":"וַיַּעֲנֶ֣ה","lemma":"עָנָה","translit":"vaya`neh","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6030"},{"id":"2-kings-1-10-1","surface":"אֵלִיָּ֗הוּ","lemma":"אֵלִיָּה","translit":"'eliyahv","morph":"Noun proper","glosses":[],"strongs":"H452"},{"id":"2-kings-1-10-2","surface":"וַיְדַבֵּר֮","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-10-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"2-kings-1-10-4","surface":"שַׂ֣ר","lemma":"שַׂר","translit":"shar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8269"},{"id":"2-kings-1-10-5","surface":"הַחֲמִשִּׁים֒","lemma":"חֲמִשִּׁים","translit":"hachmishiym","morph":"Particle dual + Adjective common plural absolute","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-10-6","surface":"וְאִם","lemma":"אִם","translit":"ve'im","morph":"Conjunction + Conjunction","glosses":[],"strongs":"H518"},{"id":"2-kings-1-10-7","surface":"אִ֤ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H376"},{"id":"2-kings-1-10-8","surface":"אֱלֹהִים֙","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"2-kings-1-10-9","surface":"אָ֔נִי","lemma":"אֲנִי","translit":"'aniy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"2-kings-1-10-10","surface":"תֵּ֤רֶד","lemma":"יָרַד","translit":"tered","morph":"Verb Qal Jussive 3rd feminine singular","glosses":[],"strongs":"H3381"},{"id":"2-kings-1-10-11","surface":"אֵשׁ֙","lemma":"אֵשׁ","translit":"'esh","morph":"Noun common singular absolute","glosses":[],"strongs":"H784"},{"id":"2-kings-1-10-12","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"2-kings-1-10-13","surface":"הַשָּׁמַ֔יִם","lemma":"שָׁמַיִם","translit":"hashamayim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"2-kings-1-10-14","surface":"וְתֹאכַ֥ל","lemma":"אָכַל","translit":"veto'kal","morph":"Conjunction + Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H398"},{"id":"2-kings-1-10-15","surface":"אֹתְךָ֖","lemma":"אֵת","translit":"'oteka","morph":"Particle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H853"},{"id":"2-kings-1-10-16","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"2-kings-1-10-17","surface":"חֲמִשֶּׁ֑יךָ","lemma":"חֲמִשִּׁים","translit":"chmisheyka","morph":"Adjective common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-10-18","surface":"וַתֵּ֤רֶד","lemma":"יָרַד","translit":"vatered","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3381"},{"id":"2-kings-1-10-19","surface":"אֵשׁ֙","lemma":"אֵשׁ","translit":"'esh","morph":"Noun common singular absolute","glosses":[],"strongs":"H784"},{"id":"2-kings-1-10-20","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"2-kings-1-10-21","surface":"הַשָּׁמַ֔יִם","lemma":"שָׁמַיִם","translit":"hashamayim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"2-kings-1-10-22","surface":"וַתֹּ֥אכַל","lemma":"אָכַל","translit":"vato'kal","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H398"},{"id":"2-kings-1-10-23","surface":"אֹת֖וֹ","lemma":"אֵת","translit":"'otvo","morph":"Particle + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H853"},{"id":"2-kings-1-10-24","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"2-kings-1-10-25","surface":"חֲמִשָּֽׁיו","lemma":"חֲמִשִּׁים","translit":"chmishayv","morph":"Adjective common plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2572"}],"language":"hebrew"},{"ref":"2 Kings 1:11","englishText":"  Again he sent to him another captain of fifty and his fifty. He answered him, “Man of God, the king has said, ‘Come down quickly!’”  ","tokens":[{"id":"2-kings-1-11-0","surface":"וַיָּ֜שָׁב","lemma":"שׁוּב","translit":"vayashab","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7725"},{"id":"2-kings-1-11-1","surface":"וַיִּשְׁלַ֥ח","lemma":"שָׁלַח","translit":"vayishelach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7971"},{"id":"2-kings-1-11-2","surface":"אֵלָ֛יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-11-3","surface":"שַׂר","lemma":"שַׂר","translit":"shar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8269"},{"id":"2-kings-1-11-4","surface":"חֲמִשִּׁ֥ים","lemma":"חֲמִשִּׁים","translit":"chmishiym","morph":"Adjective common plural absolute","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-11-5","surface":"אַחֵ֖ר","lemma":"אַחֵר","translit":"'acher","morph":"Adjective","glosses":[],"strongs":"H312"},{"id":"2-kings-1-11-6","surface":"וַחֲמִשָּׁ֑יו","lemma":"חֲמִשִּׁים","translit":"vachmishayv","morph":"Conjunction + Adjective common plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-11-7","surface":"וַיַּ֨עַן֙","lemma":"עָנָה","translit":"vaya`an","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6030"},{"id":"2-kings-1-11-8","surface":"וַיְדַבֵּ֣ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-11-9","surface":"אֵלָ֔יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-11-10","surface":"אִ֚ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H376"},{"id":"2-kings-1-11-11","surface":"הָאֱלֹהִ֔ים","lemma":"אֱלֹהִים","translit":"ha'lohiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"2-kings-1-11-12","surface":"כֹּֽה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"2-kings-1-11-13","surface":"אָמַ֥ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"2-kings-1-11-14","surface":"הַמֶּ֖לֶךְ","lemma":"מֶלֶךְ","translit":"hameleke","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4428"},{"id":"2-kings-1-11-15","surface":"מְהֵרָ֥ה","lemma":"מְהֵרָה","translit":"meherah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H4120"},{"id":"2-kings-1-11-16","surface":"רֵֽדָה","lemma":"יָרַד","translit":"redah","morph":"Verb Qal Weqatal 2nd masculine singular + Suffix","glosses":[],"strongs":"H3381"}],"language":"hebrew"},{"ref":"2 Kings 1:12","englishText":"  Elijah answered them, “If I am a man of God, let fire come down from the sky, and consume you and your fifty!” The fire of God came down from the sky, and consumed him and his fifty.  ","tokens":[{"id":"2-kings-1-12-0","surface":"וַיַּ֣עַן","lemma":"עָנָה","translit":"vaya`an","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6030"},{"id":"2-kings-1-12-1","surface":"אֵלִיָּה֮","lemma":"אֵלִיָּה","translit":"'eliyah","morph":"Noun proper","glosses":[],"strongs":"H452"},{"id":"2-kings-1-12-2","surface":"וַיְדַבֵּ֣ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-12-3","surface":"אֲלֵיהֶם֒","lemma":"אֵל","translit":"'leyhem","morph":"Preposition + Suffix plural 3rd masculine","glosses":[],"strongs":"H413"},{"id":"2-kings-1-12-4","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"2-kings-1-12-5","surface":"אִ֤ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H376"},{"id":"2-kings-1-12-6","surface":"הָֽאֱלֹהִים֙","lemma":"אֱלֹהִים","translit":"ha'lohiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"2-kings-1-12-7","surface":"אָ֔נִי","lemma":"אֲנִי","translit":"'aniy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"2-kings-1-12-8","surface":"תֵּ֤רֶד","lemma":"יָרַד","translit":"tered","morph":"Verb Qal Jussive 3rd feminine singular","glosses":[],"strongs":"H3381"},{"id":"2-kings-1-12-9","surface":"אֵשׁ֙","lemma":"אֵשׁ","translit":"'esh","morph":"Noun common singular absolute","glosses":[],"strongs":"H784"},{"id":"2-kings-1-12-10","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"2-kings-1-12-11","surface":"הַשָּׁמַ֔יִם","lemma":"שָׁמַיִם","translit":"hashamayim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"2-kings-1-12-12","surface":"וְתֹאכַ֥ל","lemma":"אָכַל","translit":"veto'kal","morph":"Conjunction + Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H398"},{"id":"2-kings-1-12-13","surface":"אֹתְךָ֖","lemma":"אֵת","translit":"'oteka","morph":"Particle + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H853"},{"id":"2-kings-1-12-14","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"2-kings-1-12-15","surface":"חֲמִשֶּׁ֑יךָ","lemma":"חֲמִשִּׁים","translit":"chmisheyka","morph":"Adjective common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-12-16","surface":"וַתֵּ֤רֶד","lemma":"יָרַד","translit":"vatered","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3381"},{"id":"2-kings-1-12-17","surface":"אֵשׁ","lemma":"אֵשׁ","translit":"'esh","morph":"Noun common singular construct","glosses":[],"strongs":"H784"},{"id":"2-kings-1-12-18","surface":"אֱלֹהִים֙","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"2-kings-1-12-19","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"2-kings-1-12-20","surface":"הַשָּׁמַ֔יִם","lemma":"שָׁמַיִם","translit":"hashamayim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"2-kings-1-12-21","surface":"וַתֹּ֥אכַל","lemma":"אָכַל","translit":"vato'kal","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H398"},{"id":"2-kings-1-12-22","surface":"אֹת֖וֹ","lemma":"אֵת","translit":"'otvo","morph":"Particle + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H853"},{"id":"2-kings-1-12-23","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"2-kings-1-12-24","surface":"חֲמִשָּֽׁיו","lemma":"חֲמִשִּׁים","translit":"chmishayv","morph":"Adjective common plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2572"}],"language":"hebrew"},{"ref":"2 Kings 1:13","englishText":"  Again he sent the captain of a third fifty with his fifty. The third captain of fifty went up, and came and fell on his knees before Elijah, and begged him, and said to him, “Man of God, please let my life, and the life of these fifty your servants, be precious in your sight.","tokens":[{"id":"2-kings-1-13-0","surface":"וַיָּ֗שָׁב","lemma":"שׁוּב","translit":"vayashab","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7725"},{"id":"2-kings-1-13-1","surface":"וַיִּשְׁלַ֛ח","lemma":"שָׁלַח","translit":"vayishelach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7971"},{"id":"2-kings-1-13-2","surface":"שַׂר","lemma":"שַׂר","translit":"shar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8269"},{"id":"2-kings-1-13-3","surface":"חֲמִשִּׁ֥ים","lemma":"חֲמִשִּׁים","translit":"chmishiym","morph":"Adjective common plural absolute","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-13-4","surface":"שְׁלִשִׁ֖ים","lemma":"שְׁלִישִׁי","translit":"shelishiym","morph":"Adjective","glosses":[],"strongs":"H7992"},{"id":"2-kings-1-13-5","surface":"וַחֲמִשָּׁ֑יו","lemma":"חֲמִשִּׁים","translit":"vachmishayv","morph":"Conjunction + Adjective common plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-13-6","surface":"וַיַּ֡עַל","lemma":"עָלָה","translit":"vaya`al","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"2-kings-1-13-7","surface":"וַיָּבֹא֩","lemma":"בּוֹא","translit":"vayabo'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"2-kings-1-13-8","surface":"שַׂר","lemma":"שַׂר","translit":"shar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8269"},{"id":"2-kings-1-13-9","surface":"הַחֲמִשִּׁ֨ים","lemma":"חֲמִשִּׁים","translit":"hachmishiym","morph":"Particle dual + Adjective common plural absolute","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-13-10","surface":"הַשְּׁלִישִׁ֜י","lemma":"שְׁלִישִׁי","translit":"hasheliyshiy","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7992"},{"id":"2-kings-1-13-11","surface":"וַיִּכְרַ֥ע","lemma":"כָּרַע","translit":"vayikera`","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3766"},{"id":"2-kings-1-13-12","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"2-kings-1-13-13","surface":"בִּרְכָּ֣יו","lemma":"בֶּרֶךְ","translit":"birekayv","morph":"Noun common feminine dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1290"},{"id":"2-kings-1-13-14","surface":"לְנֶ֣גֶד","lemma":"נֶגֶד","translit":"leneged","morph":"Preposition + Preposition","glosses":[],"strongs":"H5048"},{"id":"2-kings-1-13-15","surface":"אֵלִיָּ֗הוּ","lemma":"אֵלִיָּה","translit":"'eliyahv","morph":"Noun proper","glosses":[],"strongs":"H452"},{"id":"2-kings-1-13-16","surface":"וַיִּתְחַנֵּ֤ן","lemma":"חָנַן","translit":"vayitechanen","morph":"Conjunction + Verb Hithpael Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H2603"},{"id":"2-kings-1-13-17","surface":"אֵלָיו֙","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-13-18","surface":"וַיְדַבֵּ֣ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-13-19","surface":"אֵלָ֔יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-13-20","surface":"אִ֚ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H376"},{"id":"2-kings-1-13-21","surface":"הָֽאֱלֹהִ֔ים","lemma":"אֱלֹהִים","translit":"ha'lohiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"2-kings-1-13-22","surface":"תִּֽיקַר","lemma":"יָקַר","translit":"tiyqar","morph":"Verb Qal Jussive 3rd feminine singular","glosses":[],"strongs":"H3365"},{"id":"2-kings-1-13-23","surface":"נָ֣א","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"2-kings-1-13-24","surface":"נַפְשִׁ֗י","lemma":"נֶפֶשׁ","translit":"napeshiy","morph":"Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5315"},{"id":"2-kings-1-13-25","surface":"וְנֶ֨פֶשׁ","lemma":"נֶפֶשׁ","translit":"venepesh","morph":"Conjunction + Noun common singular construct","glosses":[],"strongs":"H5315"},{"id":"2-kings-1-13-26","surface":"עֲבָדֶ֥יךָֽ","lemma":"עֶבֶד","translit":"`badeyka","morph":"Noun common masculine plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5650"},{"id":"2-kings-1-13-27","surface":"אֵ֛לֶּה","lemma":"אֵלֶּה","translit":"'eleh","morph":"Pronoun dual common plural","glosses":[],"strongs":"H428"},{"id":"2-kings-1-13-28","surface":"חֲמִשִּׁ֖ים","lemma":"חֲמִשִּׁים","translit":"chmishiym","morph":"Adjective common plural absolute","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-13-29","surface":"בְּעֵינֶֽיךָ","lemma":"עַיִן","translit":"be`eyneyka","morph":"Preposition + Noun common dual construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5869"}],"language":"hebrew"},{"ref":"2 Kings 1:14","englishText":"Behold, fire came down from the sky, and consumed the two former captains of fifty with their fifties. But now let my life be precious in your sight.”  ","tokens":[{"id":"2-kings-1-14-0","surface":"הִ֠נֵּה","lemma":"הִנֵּה","translit":"hineh","morph":"Particle masculine","glosses":[],"strongs":"H2009"},{"id":"2-kings-1-14-1","surface":"יָ֤רְדָה","lemma":"יָרַד","translit":"yaredah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H3381"},{"id":"2-kings-1-14-2","surface":"אֵשׁ֙","lemma":"אֵשׁ","translit":"'esh","morph":"Noun common singular absolute","glosses":[],"strongs":"H784"},{"id":"2-kings-1-14-3","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"2-kings-1-14-4","surface":"הַשָּׁמַ֔יִם","lemma":"שָׁמַיִם","translit":"hashamayim","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H8064"},{"id":"2-kings-1-14-5","surface":"וַ֠תֹּאכַל","lemma":"אָכַל","translit":"vato'kal","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H398"},{"id":"2-kings-1-14-6","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"2-kings-1-14-7","surface":"שְׁנֵ֞י","lemma":"שְׁנַיִם","translit":"sheney","morph":"Adjective common masculine dual construct","glosses":[],"strongs":"H8147"},{"id":"2-kings-1-14-8","surface":"שָׂרֵ֧י","lemma":"שַׂר","translit":"sharey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H8269"},{"id":"2-kings-1-14-9","surface":"הַחֲמִשִּׁ֛ים","lemma":"חֲמִשִּׁים","translit":"hachmishiym","morph":"Particle dual + Adjective common plural absolute","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-14-10","surface":"הָרִאשֹׁנִ֖ים","lemma":"רִאשׁוֹן","translit":"hari'shoniym","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7223"},{"id":"2-kings-1-14-11","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"2-kings-1-14-12","surface":"חֲמִשֵּׁיהֶ֑ם","lemma":"חֲמִשִּׁים","translit":"chmisheyhem","morph":"Adjective common plural construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H2572"},{"id":"2-kings-1-14-13","surface":"וְעַתָּ֕ה","lemma":"עַתָּה","translit":"ve`atah","morph":"Conjunction + Adverb","glosses":[],"strongs":"H6258"},{"id":"2-kings-1-14-14","surface":"תִּיקַ֥ר","lemma":"יָקַר","translit":"tiyqar","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H3365"},{"id":"2-kings-1-14-15","surface":"נַפְשִׁ֖י","lemma":"נֶפֶשׁ","translit":"napeshiy","morph":"Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5315"},{"id":"2-kings-1-14-16","surface":"בְּעֵינֶֽיךָ","lemma":"עַיִן","translit":"be`eyneyka","morph":"Preposition + Noun common dual construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5869"}],"language":"hebrew"},{"ref":"2 Kings 1:15","englishText":"  Yahweh’s angel said to Elijah, “Go down with him. Don’t be afraid of him.”   He arose, and went down with him to the king.","tokens":[{"id":"2-kings-1-15-0","surface":"וַיְדַבֵּ֞ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-15-1","surface":"מַלְאַ֤ךְ","lemma":"מֲלְאָךְ","translit":"male'ake","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4397"},{"id":"2-kings-1-15-2","surface":"יְהוָה֙","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"2-kings-1-15-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"2-kings-1-15-4","surface":"אֵ֣לִיָּ֔הוּ","lemma":"אֵלִיָּה","translit":"'eliyahv","morph":"Noun proper","glosses":[],"strongs":"H452"},{"id":"2-kings-1-15-5","surface":"רֵ֣ד","lemma":"יָרַד","translit":"red","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H3381"},{"id":"2-kings-1-15-6","surface":"אוֹת֔וֹ","lemma":"אֵת","translit":"'votvo","morph":"Particle + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H853"},{"id":"2-kings-1-15-7","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"2-kings-1-15-8","surface":"תִּירָ֖א","lemma":"יָרֵא","translit":"tiyra'","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H3372"},{"id":"2-kings-1-15-9","surface":"מִפָּנָ֑יו","lemma":"פָּנִים","translit":"mipanayv","morph":"Preposition + Noun common plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6440"},{"id":"2-kings-1-15-10","surface":"וַיָּ֛קָם","lemma":"קוּם","translit":"vayaqam","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6965"},{"id":"2-kings-1-15-11","surface":"וַיֵּ֥רֶד","lemma":"יָרַד","translit":"vayered","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3381"},{"id":"2-kings-1-15-12","surface":"אוֹת֖וֹ","lemma":"אֵת","translit":"'votvo","morph":"Particle + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H853"},{"id":"2-kings-1-15-13","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"2-kings-1-15-14","surface":"הַמֶּֽלֶךְ","lemma":"מֶלֶךְ","translit":"hameleke","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4428"}],"language":"hebrew"},{"ref":"2 Kings 1:16","englishText":"He said to him, “Thus says Yahweh, ‘Because you have sent messengers to inquire of Baal Zebub, the god of Ekron, is it because there is no God in Israel to inquire of his word? Therefore you shall not come down from the bed where you have gone up, but shall surely die.’”  ","tokens":[{"id":"2-kings-1-16-0","surface":"וַיְדַבֵּ֨ר","lemma":"דָבַר","translit":"vayedaber","morph":"Conjunction + Verb Piel Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-16-1","surface":"אֵלָ֜יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"2-kings-1-16-2","surface":"כֹּֽה","lemma":"כֹּה","translit":"koh","morph":"Adverb","glosses":[],"strongs":"H3541"},{"id":"2-kings-1-16-3","surface":"אָמַ֣ר","lemma":"אָמַר","translit":"'amar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"2-kings-1-16-4","surface":"יְהוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"2-kings-1-16-5","surface":"יַ֜עַן","lemma":"יַעַן","translit":"ya`an","morph":"Conjunction","glosses":[],"strongs":"H3282"},{"id":"2-kings-1-16-6","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"2-kings-1-16-7","surface":"שָׁלַ֣חְתָּ","lemma":"שָׁלַח","translit":"shalacheta","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H7971"},{"id":"2-kings-1-16-8","surface":"מַלְאָכִים֮","lemma":"מֲלְאָךְ","translit":"male'akiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4397"},{"id":"2-kings-1-16-9","surface":"לִדְרֹשׁ֮","lemma":"דָּרַשׁ","translit":"liderosh","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H1875"},{"id":"2-kings-1-16-10","surface":"בְּבַ֣עַל","lemma":"בַּעַל זְבוּב","translit":"beba`al","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1176"},{"id":"2-kings-1-16-11","surface":"זְבוּב֮","lemma":"בַּעַל זְבוּב","translit":"zebvb","morph":"Noun proper","glosses":[],"strongs":"H1176"},{"id":"2-kings-1-16-12","surface":"אֱלֹהֵ֣י","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"2-kings-1-16-13","surface":"עֶקְרוֹן֒","lemma":"עֶקְרוֹן","translit":"`eqervon","morph":"Noun proper","glosses":[],"strongs":"H6138"},{"id":"2-kings-1-16-14","surface":"הַֽמִבְּלִ֤י","lemma":"בְּלִי","translit":"hamibeliy","morph":"Particle + Preposition + Adverb","glosses":[],"strongs":"H1097"},{"id":"2-kings-1-16-15","surface":"אֵין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"2-kings-1-16-16","surface":"אֱלֹהִים֙","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"2-kings-1-16-17","surface":"בְּיִשְׂרָאֵ֔ל","lemma":"יִשְׂרָאֵל","translit":"beyishera'el","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3478"},{"id":"2-kings-1-16-18","surface":"לִדְרֹ֖שׁ","lemma":"דָּרַשׁ","translit":"liderosh","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H1875"},{"id":"2-kings-1-16-19","surface":"בִּדְבָר֑וֹ","lemma":"דָּבָר","translit":"bidebarvo","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1697"},{"id":"2-kings-1-16-20","surface":"לָ֠כֵן","lemma":"כֵּן","translit":"laken","morph":"Preposition + Adverb","glosses":[],"strongs":"H3651"},{"id":"2-kings-1-16-21","surface":"הַמִּטָּ֞ה","lemma":"מִטָּה","translit":"hamitah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4296"},{"id":"2-kings-1-16-22","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"2-kings-1-16-23","surface":"עָלִ֥יתָ","lemma":"עָלָה","translit":"`aliyta","morph":"Verb Qal Participle 2nd masculine singular","glosses":[],"strongs":"H5927"},{"id":"2-kings-1-16-24","surface":"שָּׁ֛ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"2-kings-1-16-25","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"2-kings-1-16-26","surface":"תֵרֵ֥ד","lemma":"יָרַד","translit":"tered","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H3381"},{"id":"2-kings-1-16-27","surface":"מִמֶּ֖נָּה","lemma":"מִן","translit":"mimenah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H4480"},{"id":"2-kings-1-16-28","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"2-kings-1-16-29","surface":"מ֥וֹת","lemma":"מוּת","translit":"mvot","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H4191"},{"id":"2-kings-1-16-30","surface":"תָּמֽוּת","lemma":"מוּת","translit":"tamvt","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H4191"}],"language":"hebrew"},{"ref":"2 Kings 1:17","englishText":"  So he died according to Yahweh’s word which Elijah had spoken. Jehoram began to reign in his place in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.","tokens":[{"id":"2-kings-1-17-0","surface":"וַיָּ֜מָת","lemma":"מוּת","translit":"vayamat","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H4191"},{"id":"2-kings-1-17-1","surface":"כִּדְבַ֥ר","lemma":"דָּבָר","translit":"kidebar","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1697"},{"id":"2-kings-1-17-2","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"2-kings-1-17-3","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"2-kings-1-17-4","surface":"דִּבֶּ֣ר","lemma":"דָבַר","translit":"diber","morph":"Verb Piel Participle 3rd masculine singular","glosses":[],"strongs":"H1696"},{"id":"2-kings-1-17-5","surface":"אֵלִיָּ֗הוּ","lemma":"אֵלִיָּה","translit":"'eliyahv","morph":"Noun proper","glosses":[],"strongs":"H452"},{"id":"2-kings-1-17-6","surface":"וַיִּמְלֹ֤ךְ","lemma":"מָלַךְ","translit":"vayimeloke","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H4427"},{"id":"2-kings-1-17-7","surface":"יְהוֹרָם֙","lemma":"יְהוֹרָם","translit":"yehvoram","morph":"Noun proper","glosses":[],"strongs":"H3088"},{"id":"2-kings-1-17-8","surface":"תַּחְתָּ֔יו","lemma":"תַּחַת","translit":"tachetayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H8478"},{"id":"2-kings-1-17-9","surface":"בִּשְׁנַ֣ת","lemma":"שָׁנֶה","translit":"bishenat","morph":"Preposition + Noun common feminine singular construct","glosses":[],"strongs":"H8141"},{"id":"2-kings-1-17-10","surface":"שְׁתַּ֔יִם","lemma":"שְׁנַיִם","translit":"shetayim","morph":"Adjective common feminine dual absolute","glosses":[],"strongs":"H8147"},{"id":"2-kings-1-17-11","surface":"לִיהוֹרָ֥ם","lemma":"יְהוֹרָם","translit":"liyhvoram","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3088"},{"id":"2-kings-1-17-12","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"2-kings-1-17-13","surface":"יְהוֹשָׁפָ֖ט","lemma":"יְהוֹשָׁפָט","translit":"yehvoshapat","morph":"Noun proper","glosses":[],"strongs":"H3092"},{"id":"2-kings-1-17-14","surface":"מֶ֣לֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"2-kings-1-17-15","surface":"יְהוּדָ֑ה","lemma":"יְהוּדָה","translit":"yehvdah","morph":"Noun proper","glosses":[],"strongs":"H3063"},{"id":"2-kings-1-17-16","surface":"כִּ֛י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"2-kings-1-17-17","surface":"לֹֽא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"2-kings-1-17-18","surface":"הָ֥יָה","lemma":"הָיָה","translit":"hayah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"2-kings-1-17-19","surface":"ל֖וֹ","lemma":"ל֖וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"2-kings-1-17-20","surface":"בֵּֽן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1121"}],"language":"hebrew"},{"ref":"2 Kings 1:18","englishText":"Now the rest of the acts of Ahaziah which he did, aren’t they written in the book of the chronicles of the kings of Israel?   ","tokens":[{"id":"2-kings-1-18-0","surface":"וְיֶ֛תֶר","lemma":"יֶתֶר","translit":"veyeter","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3499"},{"id":"2-kings-1-18-1","surface":"דִּבְרֵ֥י","lemma":"דָּבָר","translit":"diberey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1697"},{"id":"2-kings-1-18-2","surface":"אֲחַזְיָ֖הוּ","lemma":"אֲחַזְיָה","translit":"'chazeyahv","morph":"Noun proper","glosses":[],"strongs":"H274"},{"id":"2-kings-1-18-3","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"2-kings-1-18-4","surface":"עָשָׂ֑ה","lemma":"עָשָׂה","translit":"`ashah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H6213"},{"id":"2-kings-1-18-5","surface":"הֲלֽוֹא","lemma":"לֹא","translit":"hlvo'","morph":"Particle + Particle","glosses":[],"strongs":"H3808"},{"id":"2-kings-1-18-6","surface":"הֵ֣מָּה","lemma":"הֵם","translit":"hemah","morph":"Pronoun plural 3rd masculine","glosses":[],"strongs":"H1992"},{"id":"2-kings-1-18-7","surface":"כְתוּבִ֗ים","lemma":"כָּתַב","translit":"ketvbiym","morph":"Verb Qal s","glosses":[],"strongs":"H3789"},{"id":"2-kings-1-18-8","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"2-kings-1-18-9","surface":"סֵ֛פֶר","lemma":"סֵפֶר","translit":"seper","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5612"},{"id":"2-kings-1-18-10","surface":"דִּבְרֵ֥י","lemma":"דָּבָר","translit":"diberey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1697"},{"id":"2-kings-1-18-11","surface":"הַיָּמִ֖ים","lemma":"יוֹם","translit":"hayamiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3117"},{"id":"2-kings-1-18-12","surface":"לְמַלְכֵ֥י","lemma":"מֶלֶךְ","translit":"lemalekey","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H4428"},{"id":"2-kings-1-18-13","surface":"יִשְׂרָאֵֽל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "2-kings-1",
+  "name": "2 Kings",
+  "chapter": 1,
+  "verses": [
+    {
+      "ref": "2 Kings 1:1",
+      "englishText": "Moab rebelled against Israel after the death of Ahab.",
+      "tokens": [
+        {
+          "id": "2-kings-1-1-0",
+          "surface": "וַיִּפְשַׁ֤ע",
+          "lemma": "פָּשַׁע",
+          "translit": "vayipesha`",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6586"
+        },
+        {
+          "id": "2-kings-1-1-1",
+          "surface": "מוֹאָב֙",
+          "lemma": "מוֹאָב",
+          "translit": "mvo'ab",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4124"
+        },
+        {
+          "id": "2-kings-1-1-2",
+          "surface": "בְּיִשְׂרָאֵ֔ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "beyishera'el",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "2-kings-1-1-3",
+          "surface": "אַחֲרֵ֖י",
+          "lemma": "אַחַר",
+          "translit": "'achrey",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "2-kings-1-1-4",
+          "surface": "מ֥וֹת",
+          "lemma": "מָוֶת",
+          "translit": "mvot",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4194"
+        },
+        {
+          "id": "2-kings-1-1-5",
+          "surface": "אַחְאָֽב",
+          "lemma": "אַחְאָב",
+          "translit": "'ache'ab",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H256"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:2",
+      "englishText": "Ahaziah fell down through the lattice in his upper room that was in Samaria, and was sick. So he sent messengers, and said to them, “Go, inquire of Baal Zebub, the god of Ekron, whether I will recover of this sickness.”  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-2-0",
+          "surface": "וַיִּפֹּ֨ל",
+          "lemma": "נָפַל",
+          "translit": "vayipol",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "2-kings-1-2-1",
+          "surface": "אֲחַזְיָ֜ה",
+          "lemma": "אֲחַזְיָה",
+          "translit": "'chazeyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H274"
+        },
+        {
+          "id": "2-kings-1-2-2",
+          "surface": "בְּעַ֣ד",
+          "lemma": "בְּעַד",
+          "translit": "be`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H1157"
+        },
+        {
+          "id": "2-kings-1-2-3",
+          "surface": "הַשְּׂבָכָ֗ה",
+          "lemma": "שְׂבָכָה",
+          "translit": "hashebakah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H7639"
+        },
+        {
+          "id": "2-kings-1-2-4",
+          "surface": "בַּעֲלִיָּת֛וֹ",
+          "lemma": "עֲלִיָּה",
+          "translit": "ba`liyatvo",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5944"
+        },
+        {
+          "id": "2-kings-1-2-5",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "2-kings-1-2-6",
+          "surface": "בְּשֹׁמְר֖וֹן",
+          "lemma": "שֹׁמְרוֹן",
+          "translit": "beshomervon",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H8111"
+        },
+        {
+          "id": "2-kings-1-2-7",
+          "surface": "וַיָּ֑חַל",
+          "lemma": "חָלָה",
+          "translit": "vayachal",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2470"
+        },
+        {
+          "id": "2-kings-1-2-8",
+          "surface": "וַיִּשְׁלַ֣ח",
+          "lemma": "שָׁלַח",
+          "translit": "vayishelach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "2-kings-1-2-9",
+          "surface": "מַלְאָכִ֔ים",
+          "lemma": "מֲלְאָךְ",
+          "translit": "male'akiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4397"
+        },
+        {
+          "id": "2-kings-1-2-10",
+          "surface": "וַיֹּ֤אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "2-kings-1-2-11",
+          "surface": "אֲלֵהֶם֙",
+          "lemma": "אֵל",
+          "translit": "'lehem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-2-12",
+          "surface": "לְכ֣וּ",
+          "lemma": "יָלַךְ",
+          "translit": "lekv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "2-kings-1-2-13",
+          "surface": "דִרְשׁ֗וּ",
+          "lemma": "דָּרַשׁ",
+          "translit": "direshv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1875"
+        },
+        {
+          "id": "2-kings-1-2-14",
+          "surface": "בְּבַ֤עַל",
+          "lemma": "בַּעַל זְבוּב",
+          "translit": "beba`al",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1176"
+        },
+        {
+          "id": "2-kings-1-2-15",
+          "surface": "זְבוּב֙",
+          "lemma": "בַּעַל זְבוּב",
+          "translit": "zebvb",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1176"
+        },
+        {
+          "id": "2-kings-1-2-16",
+          "surface": "אֱלֹהֵ֣י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-2-17",
+          "surface": "עֶקְר֔וֹן",
+          "lemma": "עֶקְרוֹן",
+          "translit": "`eqervon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6138"
+        },
+        {
+          "id": "2-kings-1-2-18",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "2-kings-1-2-19",
+          "surface": "אֶחְיֶ֖ה",
+          "lemma": "חָיָה",
+          "translit": "'echeyeh",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H2421"
+        },
+        {
+          "id": "2-kings-1-2-20",
+          "surface": "מֵחֳלִ֥י",
+          "lemma": "חֳלִי",
+          "translit": "mechliy",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2483"
+        },
+        {
+          "id": "2-kings-1-2-21",
+          "surface": "זֶֽה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:3",
+      "englishText": "  But Yahweh’s angel said to Elijah the Tishbite, “Arise, go up to meet the messengers of the king of Samaria, and tell them, ‘Is it because there is no God in Israel, that you go to inquire of Baal Zebub, the god of Ekron?",
+      "tokens": [
+        {
+          "id": "2-kings-1-3-0",
+          "surface": "וּמַלְאַ֣ךְ",
+          "lemma": "מֲלְאָךְ",
+          "translit": "vmale'ake",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4397"
+        },
+        {
+          "id": "2-kings-1-3-1",
+          "surface": "יְהוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "2-kings-1-3-2",
+          "surface": "דִּבֶּר֙",
+          "lemma": "דָבַר",
+          "translit": "diber",
+          "morph": "Verb Piel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-3-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-3-4",
+          "surface": "אֵלִיָּ֣ה",
+          "lemma": "אֵלִיָּה",
+          "translit": "'eliyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H452"
+        },
+        {
+          "id": "2-kings-1-3-5",
+          "surface": "הַתִּשְׁבִּ֔י",
+          "lemma": "תִּשְׁבִּי",
+          "translit": "hatishebiy",
+          "morph": "Particle dual + Noun gentilic masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8664"
+        },
+        {
+          "id": "2-kings-1-3-6",
+          "surface": "ק֣וּם",
+          "lemma": "קוּם",
+          "translit": "qvm",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "2-kings-1-3-7",
+          "surface": "עֲלֵ֔ה",
+          "lemma": "עָלָה",
+          "translit": "`leh",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "2-kings-1-3-8",
+          "surface": "לִקְרַ֖את",
+          "lemma": "קִרְאָה",
+          "translit": "liqera't",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7125"
+        },
+        {
+          "id": "2-kings-1-3-9",
+          "surface": "מַלְאֲכֵ֣י",
+          "lemma": "מֲלְאָךְ",
+          "translit": "male'key",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H4397"
+        },
+        {
+          "id": "2-kings-1-3-10",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "2-kings-1-3-11",
+          "surface": "שֹׁמְר֑וֹן",
+          "lemma": "שֹׁמְרוֹן",
+          "translit": "shomervon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H8111"
+        },
+        {
+          "id": "2-kings-1-3-12",
+          "surface": "וְדַבֵּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "vedaber",
+          "morph": "Conjunction + Verb Piel Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-3-13",
+          "surface": "אֲלֵהֶ֔ם",
+          "lemma": "אֵל",
+          "translit": "'lehem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-3-14",
+          "surface": "הַֽמִבְּלִ֤י",
+          "lemma": "בְּלִי",
+          "translit": "hamibeliy",
+          "morph": "Particle + Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H1097"
+        },
+        {
+          "id": "2-kings-1-3-15",
+          "surface": "אֵין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "2-kings-1-3-16",
+          "surface": "אֱלֹהִים֙",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-3-17",
+          "surface": "בְּיִשְׂרָאֵ֔ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "beyishera'el",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "2-kings-1-3-18",
+          "surface": "אַתֶּם֙",
+          "lemma": "אַתָּה",
+          "translit": "'atem",
+          "morph": "Pronoun plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "2-kings-1-3-19",
+          "surface": "הֹֽלְכִ֔ים",
+          "lemma": "הָלַךְ",
+          "translit": "holekiym",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "2-kings-1-3-20",
+          "surface": "לִדְרֹ֕שׁ",
+          "lemma": "דָּרַשׁ",
+          "translit": "liderosh",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1875"
+        },
+        {
+          "id": "2-kings-1-3-21",
+          "surface": "בְּבַ֥עַל",
+          "lemma": "בַּעַל זְבוּב",
+          "translit": "beba`al",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1176"
+        },
+        {
+          "id": "2-kings-1-3-22",
+          "surface": "זְב֖וּב",
+          "lemma": "בַּעַל זְבוּב",
+          "translit": "zebvb",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1176"
+        },
+        {
+          "id": "2-kings-1-3-23",
+          "surface": "אֱלֹהֵ֥י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-3-24",
+          "surface": "עֶקְרֽוֹן",
+          "lemma": "עֶקְרוֹן",
+          "translit": "`eqervon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6138"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:4",
+      "englishText": "Now therefore thus says Yahweh, “You shall not come down from the bed where you have gone up, but shall surely die.”’” Elijah departed.  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-4-0",
+          "surface": "וְלָכֵן֙",
+          "lemma": "כֵּן",
+          "translit": "velaken",
+          "morph": "Conjunction + Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "2-kings-1-4-1",
+          "surface": "כֹּֽה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "2-kings-1-4-2",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "2-kings-1-4-3",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "2-kings-1-4-4",
+          "surface": "הַמִּטָּ֞ה",
+          "lemma": "מִטָּה",
+          "translit": "hamitah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4296"
+        },
+        {
+          "id": "2-kings-1-4-5",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "2-kings-1-4-6",
+          "surface": "עָלִ֥יתָ",
+          "lemma": "עָלָה",
+          "translit": "`aliyta",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "2-kings-1-4-7",
+          "surface": "שָּׁ֛ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "2-kings-1-4-8",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "2-kings-1-4-9",
+          "surface": "תֵרֵ֥ד",
+          "lemma": "יָרַד",
+          "translit": "tered",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "2-kings-1-4-10",
+          "surface": "מִמֶּ֖נָּה",
+          "lemma": "מִן",
+          "translit": "mimenah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "2-kings-1-4-11",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "2-kings-1-4-12",
+          "surface": "מ֣וֹת",
+          "lemma": "מוּת",
+          "translit": "mvot",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "2-kings-1-4-13",
+          "surface": "תָּמ֑וּת",
+          "lemma": "מוּת",
+          "translit": "tamvt",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "2-kings-1-4-14",
+          "surface": "וַיֵּ֖לֶךְ",
+          "lemma": "יָלַךְ",
+          "translit": "vayeleke",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "2-kings-1-4-15",
+          "surface": "אֵלִיָּֽה",
+          "lemma": "אֵלִיָּה",
+          "translit": "'eliyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H452"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:5",
+      "englishText": "  The messengers returned to him, and he said to them, “Why is it that you have returned?”  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-5-0",
+          "surface": "וַיָּשׁ֥וּבוּ",
+          "lemma": "שׁוּב",
+          "translit": "vayashvbv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "2-kings-1-5-1",
+          "surface": "הַמַּלְאָכִ֖ים",
+          "lemma": "מֲלְאָךְ",
+          "translit": "hamale'akiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4397"
+        },
+        {
+          "id": "2-kings-1-5-2",
+          "surface": "אֵלָ֑יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-5-3",
+          "surface": "וַיֹּ֥אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "2-kings-1-5-4",
+          "surface": "אֲלֵיהֶ֖ם",
+          "lemma": "אֵל",
+          "translit": "'leyhem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-5-5",
+          "surface": "מַה",
+          "lemma": "מָה",
+          "translit": "mah",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "2-kings-1-5-6",
+          "surface": "זֶּ֥ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "2-kings-1-5-7",
+          "surface": "שַׁבְתֶּֽם",
+          "lemma": "שׁוּב",
+          "translit": "shabetem",
+          "morph": "Verb Qal Participle 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7725"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:6",
+      "englishText": "  They said to him, “A man came up to meet us, and said to us, ‘Go, return to the king who sent you, and tell him, “Thus says Yahweh, ‘Is it because there is no God in Israel, that you send to inquire of Baal Zebub, the god of Ekron? Therefore you shall not come down from the bed where you have gone up, but shall surely die.’”’”  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-6-0",
+          "surface": "וַיֹּאמְר֨וּ",
+          "lemma": "אָמַר",
+          "translit": "vayo'merv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "2-kings-1-6-1",
+          "surface": "אֵלָ֜יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-6-2",
+          "surface": "אִ֣ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "2-kings-1-6-3",
+          "surface": "עָלָ֣ה",
+          "lemma": "עָלָה",
+          "translit": "`alah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "2-kings-1-6-4",
+          "surface": "לִקְרָאתֵ֗נוּ",
+          "lemma": "קִרְאָה",
+          "translit": "liqera'tenv",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H7125"
+        },
+        {
+          "id": "2-kings-1-6-5",
+          "surface": "וַיֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "2-kings-1-6-6",
+          "surface": "אֵלֵינוּ֮",
+          "lemma": "אֵל",
+          "translit": "'eleynv",
+          "morph": "Preposition + Suffix plural 1st common",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-6-7",
+          "surface": "לְכ֣וּ",
+          "lemma": "יָלַךְ",
+          "translit": "lekv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "2-kings-1-6-8",
+          "surface": "שׁוּבוּ֮",
+          "lemma": "שׁוּב",
+          "translit": "shvbv",
+          "morph": "Verb Qal Weqatal 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "2-kings-1-6-9",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-6-10",
+          "surface": "הַמֶּ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "hameleke",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "2-kings-1-6-11",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "2-kings-1-6-12",
+          "surface": "שָׁלַ֣ח",
+          "lemma": "שָׁלַח",
+          "translit": "shalach",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "2-kings-1-6-13",
+          "surface": "אֶתְכֶם֒",
+          "lemma": "אֵת",
+          "translit": "'etekem",
+          "morph": "Particle + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-6-14",
+          "surface": "וְדִבַּרְתֶּ֣ם",
+          "lemma": "דָבַר",
+          "translit": "vedibaretem",
+          "morph": "Conjunction + Verb Piel Perfect 2nd masculine plural",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-6-15",
+          "surface": "אֵלָ֗יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-6-16",
+          "surface": "כֹּ֚ה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "2-kings-1-6-17",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "2-kings-1-6-18",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "2-kings-1-6-19",
+          "surface": "הַֽמִבְּלִ֤י",
+          "lemma": "בְּלִי",
+          "translit": "hamibeliy",
+          "morph": "Particle + Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H1097"
+        },
+        {
+          "id": "2-kings-1-6-20",
+          "surface": "אֵין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "2-kings-1-6-21",
+          "surface": "אֱלֹהִים֙",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-6-22",
+          "surface": "בְּיִשְׂרָאֵ֔ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "beyishera'el",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "2-kings-1-6-23",
+          "surface": "אַתָּ֣ה",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "2-kings-1-6-24",
+          "surface": "שֹׁלֵ֔חַ",
+          "lemma": "שָׁלַח",
+          "translit": "sholecha",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "2-kings-1-6-25",
+          "surface": "לִדְרֹ֕שׁ",
+          "lemma": "דָּרַשׁ",
+          "translit": "liderosh",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1875"
+        },
+        {
+          "id": "2-kings-1-6-26",
+          "surface": "בְּבַ֥עַל",
+          "lemma": "בַּעַל זְבוּב",
+          "translit": "beba`al",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1176"
+        },
+        {
+          "id": "2-kings-1-6-27",
+          "surface": "זְב֖וּב",
+          "lemma": "בַּעַל זְבוּב",
+          "translit": "zebvb",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1176"
+        },
+        {
+          "id": "2-kings-1-6-28",
+          "surface": "אֱלֹהֵ֣י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-6-29",
+          "surface": "עֶקְר֑וֹן",
+          "lemma": "עֶקְרוֹן",
+          "translit": "`eqervon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6138"
+        },
+        {
+          "id": "2-kings-1-6-30",
+          "surface": "לָ֠כֵן",
+          "lemma": "כֵּן",
+          "translit": "laken",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "2-kings-1-6-31",
+          "surface": "הַמִּטָּ֞ה",
+          "lemma": "מִטָּה",
+          "translit": "hamitah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4296"
+        },
+        {
+          "id": "2-kings-1-6-32",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "2-kings-1-6-33",
+          "surface": "עָלִ֥יתָ",
+          "lemma": "עָלָה",
+          "translit": "`aliyta",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "2-kings-1-6-34",
+          "surface": "שָּׁ֛ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "2-kings-1-6-35",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "2-kings-1-6-36",
+          "surface": "תֵרֵ֥ד",
+          "lemma": "יָרַד",
+          "translit": "tered",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "2-kings-1-6-37",
+          "surface": "מִמֶּ֖נָּה",
+          "lemma": "מִן",
+          "translit": "mimenah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "2-kings-1-6-38",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "2-kings-1-6-39",
+          "surface": "מ֥וֹת",
+          "lemma": "מוּת",
+          "translit": "mvot",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "2-kings-1-6-40",
+          "surface": "תָּמֽוּת",
+          "lemma": "מוּת",
+          "translit": "tamvt",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4191"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:7",
+      "englishText": "  He said to them, “What kind of man was he who came up to meet you, and told you these words?”  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-7-0",
+          "surface": "וַיְדַבֵּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-7-1",
+          "surface": "אֲלֵהֶ֔ם",
+          "lemma": "אֵל",
+          "translit": "'lehem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-7-2",
+          "surface": "מֶ֚ה",
+          "lemma": "מָה",
+          "translit": "meh",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "2-kings-1-7-3",
+          "surface": "מִשְׁפַּ֣ט",
+          "lemma": "מִשְׁפָּט",
+          "translit": "mishepat",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4941"
+        },
+        {
+          "id": "2-kings-1-7-4",
+          "surface": "הָאִ֔ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "ha'iysh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "2-kings-1-7-5",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "2-kings-1-7-6",
+          "surface": "עָלָ֖ה",
+          "lemma": "עָלָה",
+          "translit": "`alah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "2-kings-1-7-7",
+          "surface": "לִקְרַאתְכֶ֑ם",
+          "lemma": "קִרְאָה",
+          "translit": "liqera'tekem",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H7125"
+        },
+        {
+          "id": "2-kings-1-7-8",
+          "surface": "וַיְדַבֵּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-7-9",
+          "surface": "אֲלֵיכֶ֔ם",
+          "lemma": "אֵל",
+          "translit": "'leykem",
+          "morph": "Preposition + Suffix plural 2nd masculine",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-7-10",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-7-11",
+          "surface": "הַדְּבָרִ֖ים",
+          "lemma": "דָּבָר",
+          "translit": "hadebariym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "2-kings-1-7-12",
+          "surface": "הָאֵֽלֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "ha'eleh",
+          "morph": "Particle dual + Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:8",
+      "englishText": "  They answered him, “He was a hairy man, and wearing a leather belt around his waist.”   He said, “It is Elijah the Tishbite.”  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-8-0",
+          "surface": "וַיֹּאמְר֣וּ",
+          "lemma": "אָמַר",
+          "translit": "vayo'merv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "2-kings-1-8-1",
+          "surface": "אֵלָ֗יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-8-2",
+          "surface": "אִ֚ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "2-kings-1-8-3",
+          "surface": "בַּ֣עַל",
+          "lemma": "בַּעַל",
+          "translit": "ba`al",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1167"
+        },
+        {
+          "id": "2-kings-1-8-4",
+          "surface": "שֵׂעָ֔ר",
+          "lemma": "שֵׂעָר",
+          "translit": "she`ar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8181"
+        },
+        {
+          "id": "2-kings-1-8-5",
+          "surface": "וְאֵז֥וֹר",
+          "lemma": "אֵזוֹר",
+          "translit": "ve'ezvor",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H232"
+        },
+        {
+          "id": "2-kings-1-8-6",
+          "surface": "ע֖וֹר",
+          "lemma": "עוֹר",
+          "translit": "`vor",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5785"
+        },
+        {
+          "id": "2-kings-1-8-7",
+          "surface": "אָז֣וּר",
+          "lemma": "אָזַר",
+          "translit": "'azvr",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H247"
+        },
+        {
+          "id": "2-kings-1-8-8",
+          "surface": "בְּמָתְנָ֑יו",
+          "lemma": "מֹתֶן",
+          "translit": "bematenayv",
+          "morph": "Preposition + Noun common masculine dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4975"
+        },
+        {
+          "id": "2-kings-1-8-9",
+          "surface": "וַיֹּאמַ֕ר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "2-kings-1-8-10",
+          "surface": "אֵלִיָּ֥ה",
+          "lemma": "אֵלִיָּה",
+          "translit": "'eliyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H452"
+        },
+        {
+          "id": "2-kings-1-8-11",
+          "surface": "הַתִּשְׁבִּ֖י",
+          "lemma": "תִּשְׁבִּי",
+          "translit": "hatishebiy",
+          "morph": "Particle dual + Noun gentilic masculine singular absolute",
+          "glosses": [],
+          "strongs": "H8664"
+        },
+        {
+          "id": "2-kings-1-8-12",
+          "surface": "הֽוּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:9",
+      "englishText": "  Then the king sent a captain of fifty with his fifty to him. He went up to him; and behold, he was sitting on the top of the hill. He said to him, “Man of God, the king has said, ‘Come down!’”  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-9-0",
+          "surface": "וַיִּשְׁלַ֥ח",
+          "lemma": "שָׁלַח",
+          "translit": "vayishelach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "2-kings-1-9-1",
+          "surface": "אֵלָ֛יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-9-2",
+          "surface": "שַׂר",
+          "lemma": "שַׂר",
+          "translit": "shar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8269"
+        },
+        {
+          "id": "2-kings-1-9-3",
+          "surface": "חֲמִשִּׁ֖ים",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "chmishiym",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-9-4",
+          "surface": "וַחֲמִשָּׁ֑יו",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "vachmishayv",
+          "morph": "Conjunction + Adjective common plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-9-5",
+          "surface": "וַיַּ֣עַל",
+          "lemma": "עָלָה",
+          "translit": "vaya`al",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "2-kings-1-9-6",
+          "surface": "אֵלָ֗יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-9-7",
+          "surface": "וְהִנֵּה֙",
+          "lemma": "הִנֵּה",
+          "translit": "vehineh",
+          "morph": "Conjunction + Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "2-kings-1-9-8",
+          "surface": "יֹשֵׁב֙",
+          "lemma": "יָשַׁב",
+          "translit": "yosheb",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "2-kings-1-9-9",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "2-kings-1-9-10",
+          "surface": "רֹ֣אשׁ",
+          "lemma": "רֹאשׁ",
+          "translit": "ro'sh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7218"
+        },
+        {
+          "id": "2-kings-1-9-11",
+          "surface": "הָהָ֔ר",
+          "lemma": "הַר",
+          "translit": "hahar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "2-kings-1-9-12",
+          "surface": "וַיְדַבֵּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-9-13",
+          "surface": "אֵלָ֔יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-9-14",
+          "surface": "אִ֚ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "2-kings-1-9-15",
+          "surface": "הָֽאֱלֹהִ֔ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "ha'lohiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-9-16",
+          "surface": "הַמֶּ֥לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "hameleke",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "2-kings-1-9-17",
+          "surface": "דִּבֶּ֖ר",
+          "lemma": "דָבַר",
+          "translit": "diber",
+          "morph": "Verb Piel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-9-18",
+          "surface": "רֵֽדָה",
+          "lemma": "יָרַד",
+          "translit": "redah",
+          "morph": "Verb Qal Weqatal 2nd masculine singular + Suffix",
+          "glosses": [],
+          "strongs": "H3381"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:10",
+      "englishText": "  Elijah answered to the captain of fifty, “If I am a man of God, let fire come down from the sky, and consume you and your fifty!” Fire came down from the sky, and consumed him and his fifty.  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-10-0",
+          "surface": "וַיַּעֲנֶ֣ה",
+          "lemma": "עָנָה",
+          "translit": "vaya`neh",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "2-kings-1-10-1",
+          "surface": "אֵלִיָּ֗הוּ",
+          "lemma": "אֵלִיָּה",
+          "translit": "'eliyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H452"
+        },
+        {
+          "id": "2-kings-1-10-2",
+          "surface": "וַיְדַבֵּר֮",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-10-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-10-4",
+          "surface": "שַׂ֣ר",
+          "lemma": "שַׂר",
+          "translit": "shar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8269"
+        },
+        {
+          "id": "2-kings-1-10-5",
+          "surface": "הַחֲמִשִּׁים֒",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "hachmishiym",
+          "morph": "Particle dual + Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-10-6",
+          "surface": "וְאִם",
+          "lemma": "אִם",
+          "translit": "ve'im",
+          "morph": "Conjunction + Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "2-kings-1-10-7",
+          "surface": "אִ֤ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "2-kings-1-10-8",
+          "surface": "אֱלֹהִים֙",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-10-9",
+          "surface": "אָ֔נִי",
+          "lemma": "אֲנִי",
+          "translit": "'aniy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "2-kings-1-10-10",
+          "surface": "תֵּ֤רֶד",
+          "lemma": "יָרַד",
+          "translit": "tered",
+          "morph": "Verb Qal Jussive 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "2-kings-1-10-11",
+          "surface": "אֵשׁ֙",
+          "lemma": "אֵשׁ",
+          "translit": "'esh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H784"
+        },
+        {
+          "id": "2-kings-1-10-12",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "2-kings-1-10-13",
+          "surface": "הַשָּׁמַ֔יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "hashamayim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "2-kings-1-10-14",
+          "surface": "וְתֹאכַ֥ל",
+          "lemma": "אָכַל",
+          "translit": "veto'kal",
+          "morph": "Conjunction + Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "2-kings-1-10-15",
+          "surface": "אֹתְךָ֖",
+          "lemma": "אֵת",
+          "translit": "'oteka",
+          "morph": "Particle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-10-16",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-10-17",
+          "surface": "חֲמִשֶּׁ֑יךָ",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "chmisheyka",
+          "morph": "Adjective common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-10-18",
+          "surface": "וַתֵּ֤רֶד",
+          "lemma": "יָרַד",
+          "translit": "vatered",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "2-kings-1-10-19",
+          "surface": "אֵשׁ֙",
+          "lemma": "אֵשׁ",
+          "translit": "'esh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H784"
+        },
+        {
+          "id": "2-kings-1-10-20",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "2-kings-1-10-21",
+          "surface": "הַשָּׁמַ֔יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "hashamayim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "2-kings-1-10-22",
+          "surface": "וַתֹּ֥אכַל",
+          "lemma": "אָכַל",
+          "translit": "vato'kal",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "2-kings-1-10-23",
+          "surface": "אֹת֖וֹ",
+          "lemma": "אֵת",
+          "translit": "'otvo",
+          "morph": "Particle + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-10-24",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-10-25",
+          "surface": "חֲמִשָּֽׁיו",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "chmishayv",
+          "morph": "Adjective common plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2572"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:11",
+      "englishText": "  Again he sent to him another captain of fifty and his fifty. He answered him, “Man of God, the king has said, ‘Come down quickly!’”  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-11-0",
+          "surface": "וַיָּ֜שָׁב",
+          "lemma": "שׁוּב",
+          "translit": "vayashab",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "2-kings-1-11-1",
+          "surface": "וַיִּשְׁלַ֥ח",
+          "lemma": "שָׁלַח",
+          "translit": "vayishelach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "2-kings-1-11-2",
+          "surface": "אֵלָ֛יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-11-3",
+          "surface": "שַׂר",
+          "lemma": "שַׂר",
+          "translit": "shar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8269"
+        },
+        {
+          "id": "2-kings-1-11-4",
+          "surface": "חֲמִשִּׁ֥ים",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "chmishiym",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-11-5",
+          "surface": "אַחֵ֖ר",
+          "lemma": "אַחֵר",
+          "translit": "'acher",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H312"
+        },
+        {
+          "id": "2-kings-1-11-6",
+          "surface": "וַחֲמִשָּׁ֑יו",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "vachmishayv",
+          "morph": "Conjunction + Adjective common plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-11-7",
+          "surface": "וַיַּ֨עַן֙",
+          "lemma": "עָנָה",
+          "translit": "vaya`an",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "2-kings-1-11-8",
+          "surface": "וַיְדַבֵּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-11-9",
+          "surface": "אֵלָ֔יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-11-10",
+          "surface": "אִ֚ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "2-kings-1-11-11",
+          "surface": "הָאֱלֹהִ֔ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "ha'lohiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-11-12",
+          "surface": "כֹּֽה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "2-kings-1-11-13",
+          "surface": "אָמַ֥ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "2-kings-1-11-14",
+          "surface": "הַמֶּ֖לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "hameleke",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "2-kings-1-11-15",
+          "surface": "מְהֵרָ֥ה",
+          "lemma": "מְהֵרָה",
+          "translit": "meherah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4120"
+        },
+        {
+          "id": "2-kings-1-11-16",
+          "surface": "רֵֽדָה",
+          "lemma": "יָרַד",
+          "translit": "redah",
+          "morph": "Verb Qal Weqatal 2nd masculine singular + Suffix",
+          "glosses": [],
+          "strongs": "H3381"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:12",
+      "englishText": "  Elijah answered them, “If I am a man of God, let fire come down from the sky, and consume you and your fifty!” The fire of God came down from the sky, and consumed him and his fifty.  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-12-0",
+          "surface": "וַיַּ֣עַן",
+          "lemma": "עָנָה",
+          "translit": "vaya`an",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "2-kings-1-12-1",
+          "surface": "אֵלִיָּה֮",
+          "lemma": "אֵלִיָּה",
+          "translit": "'eliyah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H452"
+        },
+        {
+          "id": "2-kings-1-12-2",
+          "surface": "וַיְדַבֵּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-12-3",
+          "surface": "אֲלֵיהֶם֒",
+          "lemma": "אֵל",
+          "translit": "'leyhem",
+          "morph": "Preposition + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-12-4",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "2-kings-1-12-5",
+          "surface": "אִ֤ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "2-kings-1-12-6",
+          "surface": "הָֽאֱלֹהִים֙",
+          "lemma": "אֱלֹהִים",
+          "translit": "ha'lohiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-12-7",
+          "surface": "אָ֔נִי",
+          "lemma": "אֲנִי",
+          "translit": "'aniy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "2-kings-1-12-8",
+          "surface": "תֵּ֤רֶד",
+          "lemma": "יָרַד",
+          "translit": "tered",
+          "morph": "Verb Qal Jussive 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "2-kings-1-12-9",
+          "surface": "אֵשׁ֙",
+          "lemma": "אֵשׁ",
+          "translit": "'esh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H784"
+        },
+        {
+          "id": "2-kings-1-12-10",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "2-kings-1-12-11",
+          "surface": "הַשָּׁמַ֔יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "hashamayim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "2-kings-1-12-12",
+          "surface": "וְתֹאכַ֥ל",
+          "lemma": "אָכַל",
+          "translit": "veto'kal",
+          "morph": "Conjunction + Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "2-kings-1-12-13",
+          "surface": "אֹתְךָ֖",
+          "lemma": "אֵת",
+          "translit": "'oteka",
+          "morph": "Particle + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-12-14",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-12-15",
+          "surface": "חֲמִשֶּׁ֑יךָ",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "chmisheyka",
+          "morph": "Adjective common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-12-16",
+          "surface": "וַתֵּ֤רֶד",
+          "lemma": "יָרַד",
+          "translit": "vatered",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "2-kings-1-12-17",
+          "surface": "אֵשׁ",
+          "lemma": "אֵשׁ",
+          "translit": "'esh",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H784"
+        },
+        {
+          "id": "2-kings-1-12-18",
+          "surface": "אֱלֹהִים֙",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-12-19",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "2-kings-1-12-20",
+          "surface": "הַשָּׁמַ֔יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "hashamayim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "2-kings-1-12-21",
+          "surface": "וַתֹּ֥אכַל",
+          "lemma": "אָכַל",
+          "translit": "vato'kal",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "2-kings-1-12-22",
+          "surface": "אֹת֖וֹ",
+          "lemma": "אֵת",
+          "translit": "'otvo",
+          "morph": "Particle + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-12-23",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-12-24",
+          "surface": "חֲמִשָּֽׁיו",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "chmishayv",
+          "morph": "Adjective common plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2572"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:13",
+      "englishText": "  Again he sent the captain of a third fifty with his fifty. The third captain of fifty went up, and came and fell on his knees before Elijah, and begged him, and said to him, “Man of God, please let my life, and the life of these fifty your servants, be precious in your sight.",
+      "tokens": [
+        {
+          "id": "2-kings-1-13-0",
+          "surface": "וַיָּ֗שָׁב",
+          "lemma": "שׁוּב",
+          "translit": "vayashab",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "2-kings-1-13-1",
+          "surface": "וַיִּשְׁלַ֛ח",
+          "lemma": "שָׁלַח",
+          "translit": "vayishelach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "2-kings-1-13-2",
+          "surface": "שַׂר",
+          "lemma": "שַׂר",
+          "translit": "shar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8269"
+        },
+        {
+          "id": "2-kings-1-13-3",
+          "surface": "חֲמִשִּׁ֥ים",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "chmishiym",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-13-4",
+          "surface": "שְׁלִשִׁ֖ים",
+          "lemma": "שְׁלִישִׁי",
+          "translit": "shelishiym",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7992"
+        },
+        {
+          "id": "2-kings-1-13-5",
+          "surface": "וַחֲמִשָּׁ֑יו",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "vachmishayv",
+          "morph": "Conjunction + Adjective common plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-13-6",
+          "surface": "וַיַּ֡עַל",
+          "lemma": "עָלָה",
+          "translit": "vaya`al",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "2-kings-1-13-7",
+          "surface": "וַיָּבֹא֩",
+          "lemma": "בּוֹא",
+          "translit": "vayabo'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "2-kings-1-13-8",
+          "surface": "שַׂר",
+          "lemma": "שַׂר",
+          "translit": "shar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8269"
+        },
+        {
+          "id": "2-kings-1-13-9",
+          "surface": "הַחֲמִשִּׁ֨ים",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "hachmishiym",
+          "morph": "Particle dual + Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-13-10",
+          "surface": "הַשְּׁלִישִׁ֜י",
+          "lemma": "שְׁלִישִׁי",
+          "translit": "hasheliyshiy",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7992"
+        },
+        {
+          "id": "2-kings-1-13-11",
+          "surface": "וַיִּכְרַ֥ע",
+          "lemma": "כָּרַע",
+          "translit": "vayikera`",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3766"
+        },
+        {
+          "id": "2-kings-1-13-12",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "2-kings-1-13-13",
+          "surface": "בִּרְכָּ֣יו",
+          "lemma": "בֶּרֶךְ",
+          "translit": "birekayv",
+          "morph": "Noun common feminine dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1290"
+        },
+        {
+          "id": "2-kings-1-13-14",
+          "surface": "לְנֶ֣גֶד",
+          "lemma": "נֶגֶד",
+          "translit": "leneged",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5048"
+        },
+        {
+          "id": "2-kings-1-13-15",
+          "surface": "אֵלִיָּ֗הוּ",
+          "lemma": "אֵלִיָּה",
+          "translit": "'eliyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H452"
+        },
+        {
+          "id": "2-kings-1-13-16",
+          "surface": "וַיִּתְחַנֵּ֤ן",
+          "lemma": "חָנַן",
+          "translit": "vayitechanen",
+          "morph": "Conjunction + Verb Hithpael Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2603"
+        },
+        {
+          "id": "2-kings-1-13-17",
+          "surface": "אֵלָיו֙",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-13-18",
+          "surface": "וַיְדַבֵּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-13-19",
+          "surface": "אֵלָ֔יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-13-20",
+          "surface": "אִ֚ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "2-kings-1-13-21",
+          "surface": "הָֽאֱלֹהִ֔ים",
+          "lemma": "אֱלֹהִים",
+          "translit": "ha'lohiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-13-22",
+          "surface": "תִּֽיקַר",
+          "lemma": "יָקַר",
+          "translit": "tiyqar",
+          "morph": "Verb Qal Jussive 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3365"
+        },
+        {
+          "id": "2-kings-1-13-23",
+          "surface": "נָ֣א",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "2-kings-1-13-24",
+          "surface": "נַפְשִׁ֗י",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napeshiy",
+          "morph": "Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "2-kings-1-13-25",
+          "surface": "וְנֶ֨פֶשׁ",
+          "lemma": "נֶפֶשׁ",
+          "translit": "venepesh",
+          "morph": "Conjunction + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "2-kings-1-13-26",
+          "surface": "עֲבָדֶ֥יךָֽ",
+          "lemma": "עֶבֶד",
+          "translit": "`badeyka",
+          "morph": "Noun common masculine plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5650"
+        },
+        {
+          "id": "2-kings-1-13-27",
+          "surface": "אֵ֛לֶּה",
+          "lemma": "אֵלֶּה",
+          "translit": "'eleh",
+          "morph": "Pronoun dual common plural",
+          "glosses": [],
+          "strongs": "H428"
+        },
+        {
+          "id": "2-kings-1-13-28",
+          "surface": "חֲמִשִּׁ֖ים",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "chmishiym",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-13-29",
+          "surface": "בְּעֵינֶֽיךָ",
+          "lemma": "עַיִן",
+          "translit": "be`eyneyka",
+          "morph": "Preposition + Noun common dual construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:14",
+      "englishText": "Behold, fire came down from the sky, and consumed the two former captains of fifty with their fifties. But now let my life be precious in your sight.”  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-14-0",
+          "surface": "הִ֠נֵּה",
+          "lemma": "הִנֵּה",
+          "translit": "hineh",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "2-kings-1-14-1",
+          "surface": "יָ֤רְדָה",
+          "lemma": "יָרַד",
+          "translit": "yaredah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "2-kings-1-14-2",
+          "surface": "אֵשׁ֙",
+          "lemma": "אֵשׁ",
+          "translit": "'esh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H784"
+        },
+        {
+          "id": "2-kings-1-14-3",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "2-kings-1-14-4",
+          "surface": "הַשָּׁמַ֔יִם",
+          "lemma": "שָׁמַיִם",
+          "translit": "hashamayim",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H8064"
+        },
+        {
+          "id": "2-kings-1-14-5",
+          "surface": "וַ֠תֹּאכַל",
+          "lemma": "אָכַל",
+          "translit": "vato'kal",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "2-kings-1-14-6",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-14-7",
+          "surface": "שְׁנֵ֞י",
+          "lemma": "שְׁנַיִם",
+          "translit": "sheney",
+          "morph": "Adjective common masculine dual construct",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "2-kings-1-14-8",
+          "surface": "שָׂרֵ֧י",
+          "lemma": "שַׂר",
+          "translit": "sharey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H8269"
+        },
+        {
+          "id": "2-kings-1-14-9",
+          "surface": "הַחֲמִשִּׁ֛ים",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "hachmishiym",
+          "morph": "Particle dual + Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-14-10",
+          "surface": "הָרִאשֹׁנִ֖ים",
+          "lemma": "רִאשׁוֹן",
+          "translit": "hari'shoniym",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7223"
+        },
+        {
+          "id": "2-kings-1-14-11",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-14-12",
+          "surface": "חֲמִשֵּׁיהֶ֑ם",
+          "lemma": "חֲמִשִּׁים",
+          "translit": "chmisheyhem",
+          "morph": "Adjective common plural construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H2572"
+        },
+        {
+          "id": "2-kings-1-14-13",
+          "surface": "וְעַתָּ֕ה",
+          "lemma": "עַתָּה",
+          "translit": "ve`atah",
+          "morph": "Conjunction + Adverb",
+          "glosses": [],
+          "strongs": "H6258"
+        },
+        {
+          "id": "2-kings-1-14-14",
+          "surface": "תִּיקַ֥ר",
+          "lemma": "יָקַר",
+          "translit": "tiyqar",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3365"
+        },
+        {
+          "id": "2-kings-1-14-15",
+          "surface": "נַפְשִׁ֖י",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napeshiy",
+          "morph": "Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "2-kings-1-14-16",
+          "surface": "בְּעֵינֶֽיךָ",
+          "lemma": "עַיִן",
+          "translit": "be`eyneyka",
+          "morph": "Preposition + Noun common dual construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:15",
+      "englishText": "  Yahweh’s angel said to Elijah, “Go down with him. Don’t be afraid of him.”   He arose, and went down with him to the king.",
+      "tokens": [
+        {
+          "id": "2-kings-1-15-0",
+          "surface": "וַיְדַבֵּ֞ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-15-1",
+          "surface": "מַלְאַ֤ךְ",
+          "lemma": "מֲלְאָךְ",
+          "translit": "male'ake",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4397"
+        },
+        {
+          "id": "2-kings-1-15-2",
+          "surface": "יְהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "2-kings-1-15-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-15-4",
+          "surface": "אֵ֣לִיָּ֔הוּ",
+          "lemma": "אֵלִיָּה",
+          "translit": "'eliyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H452"
+        },
+        {
+          "id": "2-kings-1-15-5",
+          "surface": "רֵ֣ד",
+          "lemma": "יָרַד",
+          "translit": "red",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "2-kings-1-15-6",
+          "surface": "אוֹת֔וֹ",
+          "lemma": "אֵת",
+          "translit": "'votvo",
+          "morph": "Particle + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-15-7",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "2-kings-1-15-8",
+          "surface": "תִּירָ֖א",
+          "lemma": "יָרֵא",
+          "translit": "tiyra'",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "2-kings-1-15-9",
+          "surface": "מִפָּנָ֑יו",
+          "lemma": "פָּנִים",
+          "translit": "mipanayv",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "2-kings-1-15-10",
+          "surface": "וַיָּ֛קָם",
+          "lemma": "קוּם",
+          "translit": "vayaqam",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "2-kings-1-15-11",
+          "surface": "וַיֵּ֥רֶד",
+          "lemma": "יָרַד",
+          "translit": "vayered",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "2-kings-1-15-12",
+          "surface": "אוֹת֖וֹ",
+          "lemma": "אֵת",
+          "translit": "'votvo",
+          "morph": "Particle + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "2-kings-1-15-13",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-15-14",
+          "surface": "הַמֶּֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "hameleke",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4428"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:16",
+      "englishText": "He said to him, “Thus says Yahweh, ‘Because you have sent messengers to inquire of Baal Zebub, the god of Ekron, is it because there is no God in Israel to inquire of his word? Therefore you shall not come down from the bed where you have gone up, but shall surely die.’”  ",
+      "tokens": [
+        {
+          "id": "2-kings-1-16-0",
+          "surface": "וַיְדַבֵּ֨ר",
+          "lemma": "דָבַר",
+          "translit": "vayedaber",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-16-1",
+          "surface": "אֵלָ֜יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "2-kings-1-16-2",
+          "surface": "כֹּֽה",
+          "lemma": "כֹּה",
+          "translit": "koh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H3541"
+        },
+        {
+          "id": "2-kings-1-16-3",
+          "surface": "אָמַ֣ר",
+          "lemma": "אָמַר",
+          "translit": "'amar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "2-kings-1-16-4",
+          "surface": "יְהוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "2-kings-1-16-5",
+          "surface": "יַ֜עַן",
+          "lemma": "יַעַן",
+          "translit": "ya`an",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3282"
+        },
+        {
+          "id": "2-kings-1-16-6",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "2-kings-1-16-7",
+          "surface": "שָׁלַ֣חְתָּ",
+          "lemma": "שָׁלַח",
+          "translit": "shalacheta",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "2-kings-1-16-8",
+          "surface": "מַלְאָכִים֮",
+          "lemma": "מֲלְאָךְ",
+          "translit": "male'akiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4397"
+        },
+        {
+          "id": "2-kings-1-16-9",
+          "surface": "לִדְרֹשׁ֮",
+          "lemma": "דָּרַשׁ",
+          "translit": "liderosh",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1875"
+        },
+        {
+          "id": "2-kings-1-16-10",
+          "surface": "בְּבַ֣עַל",
+          "lemma": "בַּעַל זְבוּב",
+          "translit": "beba`al",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1176"
+        },
+        {
+          "id": "2-kings-1-16-11",
+          "surface": "זְבוּב֮",
+          "lemma": "בַּעַל זְבוּב",
+          "translit": "zebvb",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1176"
+        },
+        {
+          "id": "2-kings-1-16-12",
+          "surface": "אֱלֹהֵ֣י",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-16-13",
+          "surface": "עֶקְרוֹן֒",
+          "lemma": "עֶקְרוֹן",
+          "translit": "`eqervon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6138"
+        },
+        {
+          "id": "2-kings-1-16-14",
+          "surface": "הַֽמִבְּלִ֤י",
+          "lemma": "בְּלִי",
+          "translit": "hamibeliy",
+          "morph": "Particle + Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H1097"
+        },
+        {
+          "id": "2-kings-1-16-15",
+          "surface": "אֵין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "2-kings-1-16-16",
+          "surface": "אֱלֹהִים֙",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "2-kings-1-16-17",
+          "surface": "בְּיִשְׂרָאֵ֔ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "beyishera'el",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "2-kings-1-16-18",
+          "surface": "לִדְרֹ֖שׁ",
+          "lemma": "דָּרַשׁ",
+          "translit": "liderosh",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H1875"
+        },
+        {
+          "id": "2-kings-1-16-19",
+          "surface": "בִּדְבָר֑וֹ",
+          "lemma": "דָּבָר",
+          "translit": "bidebarvo",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "2-kings-1-16-20",
+          "surface": "לָ֠כֵן",
+          "lemma": "כֵּן",
+          "translit": "laken",
+          "morph": "Preposition + Adverb",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "2-kings-1-16-21",
+          "surface": "הַמִּטָּ֞ה",
+          "lemma": "מִטָּה",
+          "translit": "hamitah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4296"
+        },
+        {
+          "id": "2-kings-1-16-22",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "2-kings-1-16-23",
+          "surface": "עָלִ֥יתָ",
+          "lemma": "עָלָה",
+          "translit": "`aliyta",
+          "morph": "Verb Qal Participle 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "2-kings-1-16-24",
+          "surface": "שָּׁ֛ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "2-kings-1-16-25",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "2-kings-1-16-26",
+          "surface": "תֵרֵ֥ד",
+          "lemma": "יָרַד",
+          "translit": "tered",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "2-kings-1-16-27",
+          "surface": "מִמֶּ֖נָּה",
+          "lemma": "מִן",
+          "translit": "mimenah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "2-kings-1-16-28",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "2-kings-1-16-29",
+          "surface": "מ֥וֹת",
+          "lemma": "מוּת",
+          "translit": "mvot",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "2-kings-1-16-30",
+          "surface": "תָּמֽוּת",
+          "lemma": "מוּת",
+          "translit": "tamvt",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4191"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:17",
+      "englishText": "  So he died according to Yahweh’s word which Elijah had spoken. Jehoram began to reign in his place in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.",
+      "tokens": [
+        {
+          "id": "2-kings-1-17-0",
+          "surface": "וַיָּ֜מָת",
+          "lemma": "מוּת",
+          "translit": "vayamat",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "2-kings-1-17-1",
+          "surface": "כִּדְבַ֥ר",
+          "lemma": "דָּבָר",
+          "translit": "kidebar",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "2-kings-1-17-2",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "2-kings-1-17-3",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "2-kings-1-17-4",
+          "surface": "דִּבֶּ֣ר",
+          "lemma": "דָבַר",
+          "translit": "diber",
+          "morph": "Verb Piel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "2-kings-1-17-5",
+          "surface": "אֵלִיָּ֗הוּ",
+          "lemma": "אֵלִיָּה",
+          "translit": "'eliyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H452"
+        },
+        {
+          "id": "2-kings-1-17-6",
+          "surface": "וַיִּמְלֹ֤ךְ",
+          "lemma": "מָלַךְ",
+          "translit": "vayimeloke",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4427"
+        },
+        {
+          "id": "2-kings-1-17-7",
+          "surface": "יְהוֹרָם֙",
+          "lemma": "יְהוֹרָם",
+          "translit": "yehvoram",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3088"
+        },
+        {
+          "id": "2-kings-1-17-8",
+          "surface": "תַּחְתָּ֔יו",
+          "lemma": "תַּחַת",
+          "translit": "tachetayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8478"
+        },
+        {
+          "id": "2-kings-1-17-9",
+          "surface": "בִּשְׁנַ֣ת",
+          "lemma": "שָׁנֶה",
+          "translit": "bishenat",
+          "morph": "Preposition + Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "2-kings-1-17-10",
+          "surface": "שְׁתַּ֔יִם",
+          "lemma": "שְׁנַיִם",
+          "translit": "shetayim",
+          "morph": "Adjective common feminine dual absolute",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "2-kings-1-17-11",
+          "surface": "לִיהוֹרָ֥ם",
+          "lemma": "יְהוֹרָם",
+          "translit": "liyhvoram",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3088"
+        },
+        {
+          "id": "2-kings-1-17-12",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "2-kings-1-17-13",
+          "surface": "יְהוֹשָׁפָ֖ט",
+          "lemma": "יְהוֹשָׁפָט",
+          "translit": "yehvoshapat",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3092"
+        },
+        {
+          "id": "2-kings-1-17-14",
+          "surface": "מֶ֣לֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "2-kings-1-17-15",
+          "surface": "יְהוּדָ֑ה",
+          "lemma": "יְהוּדָה",
+          "translit": "yehvdah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3063"
+        },
+        {
+          "id": "2-kings-1-17-16",
+          "surface": "כִּ֛י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "2-kings-1-17-17",
+          "surface": "לֹֽא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "2-kings-1-17-18",
+          "surface": "הָ֥יָה",
+          "lemma": "הָיָה",
+          "translit": "hayah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "2-kings-1-17-19",
+          "surface": "ל֖וֹ",
+          "lemma": "ל֖וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "2-kings-1-17-20",
+          "surface": "בֵּֽן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1121"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "2 Kings 1:18",
+      "englishText": "Now the rest of the acts of Ahaziah which he did, aren’t they written in the book of the chronicles of the kings of Israel?   ",
+      "tokens": [
+        {
+          "id": "2-kings-1-18-0",
+          "surface": "וְיֶ֛תֶר",
+          "lemma": "יֶתֶר",
+          "translit": "veyeter",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3499"
+        },
+        {
+          "id": "2-kings-1-18-1",
+          "surface": "דִּבְרֵ֥י",
+          "lemma": "דָּבָר",
+          "translit": "diberey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "2-kings-1-18-2",
+          "surface": "אֲחַזְיָ֖הוּ",
+          "lemma": "אֲחַזְיָה",
+          "translit": "'chazeyahv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H274"
+        },
+        {
+          "id": "2-kings-1-18-3",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "2-kings-1-18-4",
+          "surface": "עָשָׂ֑ה",
+          "lemma": "עָשָׂה",
+          "translit": "`ashah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "2-kings-1-18-5",
+          "surface": "הֲלֽוֹא",
+          "lemma": "לֹא",
+          "translit": "hlvo'",
+          "morph": "Particle + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "2-kings-1-18-6",
+          "surface": "הֵ֣מָּה",
+          "lemma": "הֵם",
+          "translit": "hemah",
+          "morph": "Pronoun plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1992"
+        },
+        {
+          "id": "2-kings-1-18-7",
+          "surface": "כְתוּבִ֗ים",
+          "lemma": "כָּתַב",
+          "translit": "ketvbiym",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H3789"
+        },
+        {
+          "id": "2-kings-1-18-8",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "2-kings-1-18-9",
+          "surface": "סֵ֛פֶר",
+          "lemma": "סֵפֶר",
+          "translit": "seper",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5612"
+        },
+        {
+          "id": "2-kings-1-18-10",
+          "surface": "דִּבְרֵ֥י",
+          "lemma": "דָּבָר",
+          "translit": "diberey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "2-kings-1-18-11",
+          "surface": "הַיָּמִ֖ים",
+          "lemma": "יוֹם",
+          "translit": "hayamiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "2-kings-1-18-12",
+          "surface": "לְמַלְכֵ֥י",
+          "lemma": "מֶלֶךְ",
+          "translit": "lemalekey",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "2-kings-1-18-13",
+          "surface": "יִשְׂרָאֵֽל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

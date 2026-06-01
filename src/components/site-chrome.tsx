@@ -16,6 +16,7 @@ function ThemeToggle() {
   }, []);
   const toggle = () => {
     const next = !dark;
+    console.log(`[Theme] Switching to ${next ? "dark" : "light"} mode`);
     setDark(next);
     document.documentElement.classList.toggle("dark", next);
     try {
@@ -41,7 +42,11 @@ function AISynthesisToggle() {
   return (
     <button
       type="button"
-      onClick={() => updateSettings({ aiSynthesisEnabled: !aiSynthesisEnabled })}
+      onClick={() => {
+        const next = !aiSynthesisEnabled;
+        console.log(`[AI] Synthesis toggled ${next ? "ON" : "OFF"}`);
+        updateSettings({ aiSynthesisEnabled: next });
+      }}
       title={aiSynthesisEnabled ? "Disable AI Synthesis" : "Enable AI Synthesis"}
       className={
         "inline-flex h-9 w-9 items-center justify-center rounded-md border transition-colors " +

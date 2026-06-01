@@ -1,1 +1,3981 @@
-{"id":"judges-4","name":"Judges","chapter":4,"verses":[{"ref":"Judges 4:1","englishText":"The children of Israel again did that which was evil in the sight of Yahweh, when Ehud was dead.","tokens":[{"id":"judges-4-1-0","surface":"וַיֹּסִ֨פוּ֙","lemma":"יָסַף","translit":"vayosipv","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H3254"},{"id":"judges-4-1-1","surface":"בְּנֵ֣י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-1-2","surface":"יִשְׂרָאֵ֔ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"judges-4-1-3","surface":"לַעֲשׂ֥וֹת","lemma":"עָשָׂה","translit":"la`shvot","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H6213"},{"id":"judges-4-1-4","surface":"הָרַ֖ע","lemma":"רַע","translit":"hara`","morph":"Particle dual + Adjective","glosses":[],"strongs":"H7451"},{"id":"judges-4-1-5","surface":"בְּעֵינֵ֣י","lemma":"עַיִן","translit":"be`eyney","morph":"Preposition + Noun common dual construct","glosses":[],"strongs":"H5869"},{"id":"judges-4-1-6","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"judges-4-1-7","surface":"וְאֵה֖וּד","lemma":"אֵהוּד","translit":"ve'ehvd","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H164"},{"id":"judges-4-1-8","surface":"מֵֽת","lemma":"מוּת","translit":"met","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H4191"}],"language":"hebrew"},{"ref":"Judges 4:2","englishText":"Yahweh sold them into the hand of Jabin king of Canaan, who reigned in Hazor; the captain of whose army was Sisera, who lived in Harosheth of the Gentiles.","tokens":[{"id":"judges-4-2-0","surface":"וַיִּמְכְּרֵ֣ם","lemma":"מָכַר","translit":"vayimekerem","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine","glosses":[],"strongs":"H4376"},{"id":"judges-4-2-1","surface":"יְהוָ֗ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"judges-4-2-2","surface":"בְּיַד֙","lemma":"יָד","translit":"beyad","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"judges-4-2-3","surface":"יָבִ֣ין","lemma":"יָבִין","translit":"yabiyn","morph":"Noun proper","glosses":[],"strongs":"H2985"},{"id":"judges-4-2-4","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"judges-4-2-5","surface":"כְּנַ֔עַן","lemma":"כְּנַעַן","translit":"kena`an","morph":"Noun proper","glosses":[],"strongs":"H3667"},{"id":"judges-4-2-6","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"judges-4-2-7","surface":"מָלַ֖ךְ","lemma":"מָלַךְ","translit":"malake","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H4427"},{"id":"judges-4-2-8","surface":"בְּחָצ֑וֹר","lemma":"חָצוֹר","translit":"bechatsvor","morph":"Preposition + Noun proper","glosses":[],"strongs":"H2674"},{"id":"judges-4-2-9","surface":"וְשַׂר","lemma":"שַׂר","translit":"veshar","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H8269"},{"id":"judges-4-2-10","surface":"צְבָאוֹ֙","lemma":"צָבָא","translit":"tseba'vo","morph":"Noun common singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H6635"},{"id":"judges-4-2-11","surface":"סִֽיסְרָ֔א","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-2-12","surface":"וְה֥וּא","lemma":"הוּא","translit":"vehv'","morph":"Conjunction + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"judges-4-2-13","surface":"יוֹשֵׁ֖ב","lemma":"יָשַׁב","translit":"yvosheb","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3427"},{"id":"judges-4-2-14","surface":"בַּחֲרֹ֥שֶׁת","lemma":"חֲרֹשֶׁת","translit":"bachroshet","morph":"Preposition + Noun proper","glosses":[],"strongs":"H2800"},{"id":"judges-4-2-15","surface":"הַגּוֹיִֽם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Noun proper","glosses":[],"strongs":"H1471"}],"language":"hebrew"},{"ref":"Judges 4:3","englishText":"The children of Israel cried to Yahweh: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.","tokens":[{"id":"judges-4-3-0","surface":"וַיִּצְעֲק֥וּ","lemma":"צָעַק","translit":"vayitse`qv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H6817"},{"id":"judges-4-3-1","surface":"בְנֵֽי","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-3-2","surface":"יִשְׂרָאֵ֖ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"judges-4-3-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"judges-4-3-4","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"judges-4-3-5","surface":"כִּ֠י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"judges-4-3-6","surface":"תְּשַׁ֨ע","lemma":"תֵּשַׁע","translit":"tesha`","morph":"Adjective common feminine singular absolute","glosses":[],"strongs":"H8672"},{"id":"judges-4-3-7","surface":"מֵא֤וֹת","lemma":"מֵאָה","translit":"me'vot","morph":"Adjective common plural absolute","glosses":[],"strongs":"H3967"},{"id":"judges-4-3-8","surface":"רֶֽכֶב","lemma":"רֶכֶב","translit":"rekeb","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7393"},{"id":"judges-4-3-9","surface":"בַּרְזֶל֙","lemma":"בַּרְזֶל","translit":"barezel","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1270"},{"id":"judges-4-3-10","surface":"ל֔וֹ","lemma":"ל֔וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"judges-4-3-11","surface":"וְ֠הוּא","lemma":"הוּא","translit":"vehv'","morph":"Conjunction + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"judges-4-3-12","surface":"לָחַ֞ץ","lemma":"לָחַץ","translit":"lachats","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H3905"},{"id":"judges-4-3-13","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-3-14","surface":"בְּנֵ֧י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-3-15","surface":"יִשְׂרָאֵ֛ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"judges-4-3-16","surface":"בְּחָזְקָ֖ה","lemma":"חׇזְקָה","translit":"bechazeqah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H2394"},{"id":"judges-4-3-17","surface":"עֶשְׂרִ֥ים","lemma":"עֶשְׂרִים","translit":"`esheriym","morph":"Adjective common plural absolute","glosses":[],"strongs":"H6242"},{"id":"judges-4-3-18","surface":"שָׁנָֽה","lemma":"שָׁנֶה","translit":"shanah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8141"}],"language":"hebrew"},{"ref":"Judges 4:4","englishText":"Now Deborah, a prophetess, the wife of Lappidoth, she judged Israel at that time.","tokens":[{"id":"judges-4-4-0","surface":"וּדְבוֹרָה֙","lemma":"דְּבּוֹרָה","translit":"vdebvorah","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H1683"},{"id":"judges-4-4-1","surface":"אִשָּׁ֣ה","lemma":"אִשָּׁה","translit":"'ishah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"judges-4-4-2","surface":"נְבִיאָ֔ה","lemma":"נְבִיאָה","translit":"nebiy'ah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H5031"},{"id":"judges-4-4-3","surface":"אֵ֖שֶׁת","lemma":"אִשָּׁה","translit":"'eshet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H802"},{"id":"judges-4-4-4","surface":"לַפִּיד֑וֹת","lemma":"לַפִּידוֹת","translit":"lapiydvot","morph":"Noun proper","glosses":[],"strongs":"H3941"},{"id":"judges-4-4-5","surface":"הִ֛יא","lemma":"הוּא","translit":"hiy'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"judges-4-4-6","surface":"שֹׁפְטָ֥ה","lemma":"שָׁפַט","translit":"shopetah","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H8199"},{"id":"judges-4-4-7","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-4-8","surface":"יִשְׂרָאֵ֖ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"judges-4-4-9","surface":"בָּעֵ֥ת","lemma":"עֵת","translit":"ba`et","morph":"Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H6256"},{"id":"judges-4-4-10","surface":"הַהִֽיא","lemma":"הוּא","translit":"hahiy'","morph":"Particle dual + Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"}],"language":"hebrew"},{"ref":"Judges 4:5","englishText":"She lived under the palm tree of Deborah between Ramah and Bethel in the hill country of Ephraim: and the children of Israel came up to her for judgment.","tokens":[{"id":"judges-4-5-0","surface":"וְ֠הִיא","lemma":"הוּא","translit":"vehiy'","morph":"Conjunction + Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"judges-4-5-1","surface":"יוֹשֶׁ֨בֶת","lemma":"יָשַׁב","translit":"yvoshebet","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3427"},{"id":"judges-4-5-2","surface":"תַּֽחַת","lemma":"תַּחַת","translit":"tachat","morph":"Preposition","glosses":[],"strongs":"H8478"},{"id":"judges-4-5-3","surface":"תֹּ֜מֶר","lemma":"תֹּמֶר","translit":"tomer","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8560"},{"id":"judges-4-5-4","surface":"דְּבוֹרָ֗ה","lemma":"דְּבּוֹרָה","translit":"debvorah","morph":"Noun proper","glosses":[],"strongs":"H1683"},{"id":"judges-4-5-5","surface":"בֵּ֧ין","lemma":"בֵּין","translit":"beyn","morph":"Preposition","glosses":[],"strongs":"H996"},{"id":"judges-4-5-6","surface":"הָרָמָ֛ה","lemma":"רָמָה","translit":"haramah","morph":"Particle dual + Noun proper","glosses":[],"strongs":"H7414"},{"id":"judges-4-5-7","surface":"וּבֵ֥ין","lemma":"בֵּין","translit":"vbeyn","morph":"Conjunction + Preposition","glosses":[],"strongs":"H996"},{"id":"judges-4-5-8","surface":"בֵּֽית","lemma":"בֵּית־אֵל","translit":"beyt","morph":"Noun proper","glosses":[],"strongs":"H1008"},{"id":"judges-4-5-9","surface":"אֵ֖ל","lemma":"בֵּית־אֵל","translit":"'el","morph":"Noun proper","glosses":[],"strongs":"H1008"},{"id":"judges-4-5-10","surface":"בְּהַ֣ר","lemma":"הַר","translit":"behar","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H2022"},{"id":"judges-4-5-11","surface":"אֶפְרָ֑יִם","lemma":"אֶפְרַיִם","translit":"'eperayim","morph":"Noun proper","glosses":[],"strongs":"H669"},{"id":"judges-4-5-12","surface":"וַיַּעֲל֥וּ","lemma":"עָלָה","translit":"vaya`lv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H5927"},{"id":"judges-4-5-13","surface":"אֵלֶ֛יהָ","lemma":"אֵל","translit":"'eleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H413"},{"id":"judges-4-5-14","surface":"בְּנֵ֥י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-5-15","surface":"יִשְׂרָאֵ֖ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"judges-4-5-16","surface":"לַמִּשְׁפָּֽט","lemma":"מִשְׁפָּט","translit":"lamishepat","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H4941"}],"language":"hebrew"},{"ref":"Judges 4:6","englishText":"She sent and called Barak the son of Abinoam out of Kedesh Naphtali, and said to him, “Hasn’t Yahweh, the God of Israel, commanded, ‘Go and draw to Mount Tabor, and take with you ten thousand men of the children of Naphtali and of the children of Zebulun?","tokens":[{"id":"judges-4-6-0","surface":"וַתִּשְׁלַ֗ח","lemma":"שָׁלַח","translit":"vatishelach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H7971"},{"id":"judges-4-6-1","surface":"וַתִּקְרָא֙","lemma":"קָרָא","translit":"vatiqera'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H7121"},{"id":"judges-4-6-2","surface":"לְבָרָ֣ק","lemma":"בָּרָק","translit":"lebaraq","morph":"Preposition + Noun proper","glosses":[],"strongs":"H1301"},{"id":"judges-4-6-3","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-6-4","surface":"אֲבִינֹ֔עַם","lemma":"אֲבִינֹעַם","translit":"'biyno`am","morph":"Noun proper","glosses":[],"strongs":"H42"},{"id":"judges-4-6-5","surface":"מִקֶּ֖דֶשׁ","lemma":"קֶדֶשׁ","translit":"miqedesh","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6943"},{"id":"judges-4-6-6","surface":"נַפְתָּלִ֑י","lemma":"נַפְתָּלִי","translit":"napetaliy","morph":"Noun proper","glosses":[],"strongs":"H5321"},{"id":"judges-4-6-7","surface":"וַתֹּ֨אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"judges-4-6-8","surface":"אֵלָ֜יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"judges-4-6-9","surface":"הֲלֹ֥א","lemma":"לֹא","translit":"hlo'","morph":"Particle + Particle","glosses":[],"strongs":"H3808"},{"id":"judges-4-6-10","surface":"צִוָּ֣ה","lemma":"צָוָה","translit":"tsivah","morph":"Verb Piel Participle 3rd masculine singular","glosses":[],"strongs":"H6680"},{"id":"judges-4-6-11","surface":"יְהוָ֣ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"judges-4-6-12","surface":"אֱלֹהֵֽי","lemma":"אֱלֹהִים","translit":"'lohey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"judges-4-6-13","surface":"יִשְׂרָאֵ֗ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"judges-4-6-14","surface":"לֵ֤ךְ","lemma":"יָלַךְ","translit":"leke","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H3212"},{"id":"judges-4-6-15","surface":"וּמָֽשַׁכְתָּ֙","lemma":"מָשַׁךְ","translit":"vmashaketa","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H4900"},{"id":"judges-4-6-16","surface":"בְּהַ֣ר","lemma":"הַר","translit":"behar","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H2022"},{"id":"judges-4-6-17","surface":"תָּב֔וֹר","lemma":"תָּבוֹר","translit":"tabvor","morph":"Noun proper","glosses":[],"strongs":"H8396"},{"id":"judges-4-6-18","surface":"וְלָקַחְתָּ֣","lemma":"לָקַח","translit":"velaqacheta","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H3947"},{"id":"judges-4-6-19","surface":"עִמְּךָ֗","lemma":"עִם","translit":"`imeka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5973"},{"id":"judges-4-6-20","surface":"עֲשֶׂ֤רֶת","lemma":"עֶשֶׂר","translit":"`sheret","morph":"Adjective common masculine singular construct","glosses":[],"strongs":"H6235"},{"id":"judges-4-6-21","surface":"אֲלָפִים֙","lemma":"אֶלֶף","translit":"'lapiym","morph":"Adjective common plural absolute","glosses":[],"strongs":"H505"},{"id":"judges-4-6-22","surface":"אִ֔ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"judges-4-6-23","surface":"מִבְּנֵ֥י","lemma":"בֵּן","translit":"mibeney","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-6-24","surface":"נַפְתָּלִ֖י","lemma":"נַפְתָּלִי","translit":"napetaliy","morph":"Noun proper","glosses":[],"strongs":"H5321"},{"id":"judges-4-6-25","surface":"וּמִבְּנֵ֥י","lemma":"בֵּן","translit":"vmibeney","morph":"Conjunction + Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-6-26","surface":"זְבֻלֽוּן","lemma":"זְבוּלוּן","translit":"zebulvn","morph":"Noun proper","glosses":[],"strongs":"H2074"}],"language":"hebrew"},{"ref":"Judges 4:7","englishText":"I will draw to you, to the river Kishon, Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into your hand.’”  ","tokens":[{"id":"judges-4-7-0","surface":"וּמָשַׁכְתִּ֨י","lemma":"מָשַׁךְ","translit":"vmashaketiy","morph":"Conjunction + Verb Qal Perfect 1st common singular","glosses":[],"strongs":"H4900"},{"id":"judges-4-7-1","surface":"אֵלֶ֜יךָ","lemma":"אֵל","translit":"'eleyka","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H413"},{"id":"judges-4-7-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"judges-4-7-3","surface":"נַ֣חַל","lemma":"נַחַל","translit":"nachal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5158"},{"id":"judges-4-7-4","surface":"קִישׁ֗וֹן","lemma":"קִישׁוֹן","translit":"qiyshvon","morph":"Noun proper","glosses":[],"strongs":"H7028"},{"id":"judges-4-7-5","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-7-6","surface":"סִֽיסְרָא֙","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-7-7","surface":"שַׂר","lemma":"שַׂר","translit":"shar","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8269"},{"id":"judges-4-7-8","surface":"צְבָ֣א","lemma":"צָבָא","translit":"tseba'","morph":"Noun common singular construct","glosses":[],"strongs":"H6635"},{"id":"judges-4-7-9","surface":"יָבִ֔ין","lemma":"יָבִין","translit":"yabiyn","morph":"Noun proper","glosses":[],"strongs":"H2985"},{"id":"judges-4-7-10","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-7-11","surface":"רִכְבּ֖וֹ","lemma":"רֶכֶב","translit":"rikebvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7393"},{"id":"judges-4-7-12","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-7-13","surface":"הֲמוֹנ֑וֹ","lemma":"הָמוֹן","translit":"hmvonvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1995"},{"id":"judges-4-7-14","surface":"וּנְתַתִּ֖יהוּ","lemma":"נָתַן","translit":"vnetatiyhv","morph":"Conjunction + Verb Qal Perfect 1st common singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"judges-4-7-15","surface":"בְּיָדֶֽךָ","lemma":"יָד","translit":"beyadeka","morph":"Preposition + Noun common singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3027"}],"language":"hebrew"},{"ref":"Judges 4:8","englishText":"  Barak said to her, “If you will go with me, then I will go; but if you will not go with me, I will not go.”  ","tokens":[{"id":"judges-4-8-0","surface":"וַיֹּ֤אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"judges-4-8-1","surface":"אֵלֶ֨יהָ֙","lemma":"אֵל","translit":"'eleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H413"},{"id":"judges-4-8-2","surface":"בָּרָ֔ק","lemma":"בָּרָק","translit":"baraq","morph":"Noun proper","glosses":[],"strongs":"H1301"},{"id":"judges-4-8-3","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"judges-4-8-4","surface":"תֵּלְכִ֥י","lemma":"יָלַךְ","translit":"telekiy","morph":"Verb Qal Imperative 2nd feminine singular","glosses":[],"strongs":"H3212"},{"id":"judges-4-8-5","surface":"עִמִּ֖י","lemma":"עִם","translit":"`imiy","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H5973"},{"id":"judges-4-8-6","surface":"וְהָלָ֑כְתִּי","lemma":"הָלַךְ","translit":"vehalaketiy","morph":"Conjunction + Verb Qal Perfect 1st common singular","glosses":[],"strongs":"H1980"},{"id":"judges-4-8-7","surface":"וְאִם","lemma":"אִם","translit":"ve'im","morph":"Conjunction + Conjunction","glosses":[],"strongs":"H518"},{"id":"judges-4-8-8","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"judges-4-8-9","surface":"תֵלְכִ֛י","lemma":"יָלַךְ","translit":"telekiy","morph":"Verb Qal Imperative 2nd feminine singular","glosses":[],"strongs":"H3212"},{"id":"judges-4-8-10","surface":"עִמִּ֖י","lemma":"עִם","translit":"`imiy","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H5973"},{"id":"judges-4-8-11","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"judges-4-8-12","surface":"אֵלֵֽךְ","lemma":"יָלַךְ","translit":"'eleke","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H3212"}],"language":"hebrew"},{"ref":"Judges 4:9","englishText":"  She said, “I will surely go with you: nevertheless, the journey that you take shall not be for your honor; for Yahweh will sell Sisera into the hand of a woman.” Deborah arose, and went with Barak to Kedesh.  ","tokens":[{"id":"judges-4-9-0","surface":"וַתֹּ֜אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"judges-4-9-1","surface":"הָלֹ֧ךְ","lemma":"הָלַךְ","translit":"haloke","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H1980"},{"id":"judges-4-9-2","surface":"אֵלֵ֣ךְ","lemma":"יָלַךְ","translit":"'eleke","morph":"Verb Qal Imperative 1st common singular","glosses":[],"strongs":"H3212"},{"id":"judges-4-9-3","surface":"עִמָּ֗ךְ","lemma":"עִם","translit":"`imake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H5973"},{"id":"judges-4-9-4","surface":"אֶ֚פֶס","lemma":"אֶפֶס","translit":"'epes","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H657"},{"id":"judges-4-9-5","surface":"כִּי֩","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"judges-4-9-6","surface":"לֹ֨א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"judges-4-9-7","surface":"תִֽהְיֶ֜ה","lemma":"הָיָה","translit":"tiheyeh","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H1961"},{"id":"judges-4-9-8","surface":"תִּֽפְאַרְתְּךָ֗","lemma":"תִּפְאָרָה","translit":"tipe'areteka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8597"},{"id":"judges-4-9-9","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"judges-4-9-10","surface":"הַדֶּ֨רֶךְ֙","lemma":"דֶּרֶךְ","translit":"hadereke","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H1870"},{"id":"judges-4-9-11","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"judges-4-9-12","surface":"אַתָּ֣ה","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"judges-4-9-13","surface":"הוֹלֵ֔ךְ","lemma":"הָלַךְ","translit":"hvoleke","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H1980"},{"id":"judges-4-9-14","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"judges-4-9-15","surface":"בְֽיַד","lemma":"יָד","translit":"beyad","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"judges-4-9-16","surface":"אִשָּׁ֔ה","lemma":"אִשָּׁה","translit":"'ishah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"judges-4-9-17","surface":"יִמְכֹּ֥ר","lemma":"מָכַר","translit":"yimekor","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H4376"},{"id":"judges-4-9-18","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"judges-4-9-19","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-9-20","surface":"סִֽיסְרָ֑א","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-9-21","surface":"וַתָּ֧קָם","lemma":"קוּם","translit":"vataqam","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H6965"},{"id":"judges-4-9-22","surface":"דְּבוֹרָ֛ה","lemma":"דְּבּוֹרָה","translit":"debvorah","morph":"Noun proper","glosses":[],"strongs":"H1683"},{"id":"judges-4-9-23","surface":"וַתֵּ֥לֶך","lemma":"יָלַךְ","translit":"vatelek","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3212"},{"id":"judges-4-9-24","surface":"עִם","lemma":"עִם","translit":"`im","morph":"Preposition","glosses":[],"strongs":"H5973"},{"id":"judges-4-9-25","surface":"בָּרָ֖ק","lemma":"בָּרָק","translit":"baraq","morph":"Noun proper","glosses":[],"strongs":"H1301"},{"id":"judges-4-9-26","surface":"קֶֽדְשָׁה","lemma":"קֶדֶשׁ","translit":"qedeshah","morph":"Noun proper + Suffix dual","glosses":[],"strongs":"H6943"}],"language":"hebrew"},{"ref":"Judges 4:10","englishText":"  Barak called Zebulun and Naphtali together to Kedesh; and there went up ten thousand men at his feet: and Deborah went up with him.","tokens":[{"id":"judges-4-10-0","surface":"וַיַּזְעֵ֨ק","lemma":"זָעַק","translit":"vayaze`eq","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H2199"},{"id":"judges-4-10-1","surface":"בָּרָ֜ק","lemma":"בָּרָק","translit":"baraq","morph":"Noun proper","glosses":[],"strongs":"H1301"},{"id":"judges-4-10-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-10-3","surface":"זְבוּלֻ֤ן","lemma":"זְבוּלוּן","translit":"zebvlun","morph":"Noun proper","glosses":[],"strongs":"H2074"},{"id":"judges-4-10-4","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-10-5","surface":"נַפְתָּלִי֙","lemma":"נַפְתָּלִי","translit":"napetaliy","morph":"Noun proper","glosses":[],"strongs":"H5321"},{"id":"judges-4-10-6","surface":"קֶ֔דְשָׁה","lemma":"קֶדֶשׁ","translit":"qedeshah","morph":"Noun proper + Suffix dual","glosses":[],"strongs":"H6943"},{"id":"judges-4-10-7","surface":"וַיַּ֣עַל","lemma":"עָלָה","translit":"vaya`al","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"judges-4-10-8","surface":"בְּרַגְלָ֔יו","lemma":"רֶגֶל","translit":"beragelayv","morph":"Preposition + Noun common feminine dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7272"},{"id":"judges-4-10-9","surface":"עֲשֶׂ֥רֶת","lemma":"עֶשֶׂר","translit":"`sheret","morph":"Adjective common masculine singular construct","glosses":[],"strongs":"H6235"},{"id":"judges-4-10-10","surface":"אַלְפֵ֖י","lemma":"אֶלֶף","translit":"'alepey","morph":"Adjective common plural construct","glosses":[],"strongs":"H505"},{"id":"judges-4-10-11","surface":"אִ֑ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"judges-4-10-12","surface":"וַתַּ֥עַל","lemma":"עָלָה","translit":"vata`al","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H5927"},{"id":"judges-4-10-13","surface":"עִמּ֖וֹ","lemma":"עִם","translit":"`imvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5973"},{"id":"judges-4-10-14","surface":"דְּבוֹרָֽה","lemma":"דְּבּוֹרָה","translit":"debvorah","morph":"Noun proper","glosses":[],"strongs":"H1683"}],"language":"hebrew"},{"ref":"Judges 4:11","englishText":"Now Heber the Kenite had separated himself from the Kenites, even from the children of Hobab the brother-in-law of Moses, and had pitched his tent as far as the oak in Zaanannim, which is by Kedesh.","tokens":[{"id":"judges-4-11-0","surface":"וְחֶ֤בֶר","lemma":"חֶבֶר","translit":"vecheber","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H2268"},{"id":"judges-4-11-1","surface":"הַקֵּינִי֙","lemma":"קֵינִי","translit":"haqeyniy","morph":"Particle dual + Noun gentilic masculine singular absolute","glosses":[],"strongs":"H7017"},{"id":"judges-4-11-2","surface":"נִפְרָ֣ד","lemma":"פָּרַד","translit":"niperad","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H6504"},{"id":"judges-4-11-3","surface":"מִקַּ֔יִן","lemma":"קֵינִי","translit":"miqayin","morph":"Preposition + Noun proper","glosses":[],"strongs":"H7017"},{"id":"judges-4-11-4","surface":"מִבְּנֵ֥י","lemma":"בֵּן","translit":"mibeney","morph":"Preposition + Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-11-5","surface":"חֹבָ֖ב","lemma":"חֹבָב","translit":"chobab","morph":"Noun proper","glosses":[],"strongs":"H2246"},{"id":"judges-4-11-6","surface":"חֹתֵ֣ן","lemma":"חָתַן","translit":"choten","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H2859"},{"id":"judges-4-11-7","surface":"מֹשֶׁ֑ה","lemma":"מֹשֶׁה","translit":"mosheh","morph":"Noun proper","glosses":[],"strongs":"H4872"},{"id":"judges-4-11-8","surface":"וַיֵּ֣ט","lemma":"נָטָה","translit":"vayet","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5186"},{"id":"judges-4-11-9","surface":"אָהֳל֔וֹ","lemma":"אֹהֶל","translit":"'ahlvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H168"},{"id":"judges-4-11-10","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"judges-4-11-11","surface":"אֵל֥וֹן","lemma":"אֵלוֹן","translit":"'elvon","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H436"},{"id":"judges-4-11-12","surface":"בצענים","lemma":"צַעֲנַנִּים","translit":"bts`nym","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6815"},{"id":"judges-4-11-13","surface":"בְּצַעֲנַנִּ֖ים","lemma":"צַעֲנַנִּים","translit":"betsa`naniym","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6815"},{"id":"judges-4-11-14","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"judges-4-11-15","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Preposition","glosses":[],"strongs":"H854"},{"id":"judges-4-11-16","surface":"קֶֽדֶשׁ","lemma":"קֶדֶשׁ","translit":"qedesh","morph":"Noun proper","glosses":[],"strongs":"H6943"}],"language":"hebrew"},{"ref":"Judges 4:12","englishText":"They told Sisera that Barak the son of Abinoam was gone up to Mount Tabor.","tokens":[{"id":"judges-4-12-0","surface":"וַיַּגִּ֖דוּ","lemma":"נָגַד","translit":"vayagidv","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H5046"},{"id":"judges-4-12-1","surface":"לְסִֽיסְרָ֑א","lemma":"סִיסְרָא","translit":"lesiysera'","morph":"Preposition + Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-12-2","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"judges-4-12-3","surface":"עָלָ֛ה","lemma":"עָלָה","translit":"`alah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"judges-4-12-4","surface":"בָּרָ֥ק","lemma":"בָּרָק","translit":"baraq","morph":"Noun proper","glosses":[],"strongs":"H1301"},{"id":"judges-4-12-5","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-12-6","surface":"אֲבִינֹ֖עַם","lemma":"אֲבִינֹעַם","translit":"'biyno`am","morph":"Noun proper","glosses":[],"strongs":"H42"},{"id":"judges-4-12-7","surface":"הַר","lemma":"הַר","translit":"har","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H2022"},{"id":"judges-4-12-8","surface":"תָּבֽוֹר","lemma":"תָּבוֹר","translit":"tabvor","morph":"Noun proper","glosses":[],"strongs":"H8396"}],"language":"hebrew"},{"ref":"Judges 4:13","englishText":"Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people who were with him, from Harosheth of the Gentiles, to the river Kishon.  ","tokens":[{"id":"judges-4-13-0","surface":"וַיַּזְעֵ֨ק","lemma":"זָעַק","translit":"vayaze`eq","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H2199"},{"id":"judges-4-13-1","surface":"סִֽיסְרָ֜א","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-13-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-13-3","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"judges-4-13-4","surface":"רִכְבּ֗וֹ","lemma":"רֶכֶב","translit":"rikebvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7393"},{"id":"judges-4-13-5","surface":"תְּשַׁ֤ע","lemma":"תֵּשַׁע","translit":"tesha`","morph":"Adjective common feminine singular absolute","glosses":[],"strongs":"H8672"},{"id":"judges-4-13-6","surface":"מֵאוֹת֙","lemma":"מֵאָה","translit":"me'vot","morph":"Adjective common plural absolute","glosses":[],"strongs":"H3967"},{"id":"judges-4-13-7","surface":"רֶ֣כֶב","lemma":"רֶכֶב","translit":"rekeb","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H7393"},{"id":"judges-4-13-8","surface":"בַּרְזֶ֔ל","lemma":"בַּרְזֶל","translit":"barezel","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1270"},{"id":"judges-4-13-9","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-13-10","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"judges-4-13-11","surface":"הָעָ֖ם","lemma":"עַם","translit":"ha`am","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5971"},{"id":"judges-4-13-12","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"judges-4-13-13","surface":"אִתּ֑וֹ","lemma":"אֵת","translit":"'itvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H854"},{"id":"judges-4-13-14","surface":"מֵחֲרֹ֥שֶׁת","lemma":"חֲרֹשֶׁת","translit":"mechroshet","morph":"Preposition + Noun proper","glosses":[],"strongs":"H2800"},{"id":"judges-4-13-15","surface":"הַגּוֹיִ֖ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Noun proper","glosses":[],"strongs":"H1471"},{"id":"judges-4-13-16","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"judges-4-13-17","surface":"נַ֥חַל","lemma":"נַחַל","translit":"nachal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H5158"},{"id":"judges-4-13-18","surface":"קִישֽׁוֹן","lemma":"קִישׁוֹן","translit":"qiyshvon","morph":"Noun proper","glosses":[],"strongs":"H7028"}],"language":"hebrew"},{"ref":"Judges 4:14","englishText":"  Deborah said to Barak, “Go; for this is the day in which Yahweh has delivered Sisera into your hand. Hasn’t Yahweh gone out before you?” So Barak went down from Mount Tabor, and ten thousand men after him.","tokens":[{"id":"judges-4-14-0","surface":"וַתֹּאמֶר֩","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"judges-4-14-1","surface":"דְּבֹרָ֨ה","lemma":"דְּבּוֹרָה","translit":"deborah","morph":"Noun proper","glosses":[],"strongs":"H1683"},{"id":"judges-4-14-2","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"judges-4-14-3","surface":"בָּרָ֜ק","lemma":"בָּרָק","translit":"baraq","morph":"Noun proper","glosses":[],"strongs":"H1301"},{"id":"judges-4-14-4","surface":"ק֗וּם","lemma":"קוּם","translit":"qvm","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H6965"},{"id":"judges-4-14-5","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"judges-4-14-6","surface":"זֶ֤ה","lemma":"זֶה","translit":"zeh","morph":"Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"judges-4-14-7","surface":"הַיּוֹם֙","lemma":"יוֹם","translit":"hayvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"judges-4-14-8","surface":"אֲשֶׁר֩","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"judges-4-14-9","surface":"נָתַ֨ן","lemma":"נָתַן","translit":"natan","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"judges-4-14-10","surface":"יְהוָ֤ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"judges-4-14-11","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-14-12","surface":"סִֽיסְרָא֙","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-14-13","surface":"בְּיָדֶ֔ךָ","lemma":"יָד","translit":"beyadeka","morph":"Preposition + Noun common singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H3027"},{"id":"judges-4-14-14","surface":"הֲלֹ֥א","lemma":"לֹא","translit":"hlo'","morph":"Particle + Particle","glosses":[],"strongs":"H3808"},{"id":"judges-4-14-15","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"judges-4-14-16","surface":"יָצָ֣א","lemma":"יָצָא","translit":"yatsa'","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H3318"},{"id":"judges-4-14-17","surface":"לְפָנֶ֑יךָ","lemma":"פָּנִים","translit":"lepaneyka","morph":"Preposition + Noun common plural construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H6440"},{"id":"judges-4-14-18","surface":"וַיֵּ֤רֶד","lemma":"יָרַד","translit":"vayered","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3381"},{"id":"judges-4-14-19","surface":"בָּרָק֙","lemma":"בָּרָק","translit":"baraq","morph":"Noun proper","glosses":[],"strongs":"H1301"},{"id":"judges-4-14-20","surface":"מֵהַ֣ר","lemma":"הַר","translit":"mehar","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H2022"},{"id":"judges-4-14-21","surface":"תָּב֔וֹר","lemma":"תָּבוֹר","translit":"tabvor","morph":"Noun proper","glosses":[],"strongs":"H8396"},{"id":"judges-4-14-22","surface":"וַעֲשֶׂ֧רֶת","lemma":"עֶשֶׂר","translit":"va`sheret","morph":"Conjunction + Adjective common masculine singular construct","glosses":[],"strongs":"H6235"},{"id":"judges-4-14-23","surface":"אֲלָפִ֛ים","lemma":"אֶלֶף","translit":"'lapiym","morph":"Adjective common plural absolute","glosses":[],"strongs":"H505"},{"id":"judges-4-14-24","surface":"אִ֖ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"judges-4-14-25","surface":"אַחֲרָֽיו","lemma":"אַחַר","translit":"'achrayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H310"}],"language":"hebrew"},{"ref":"Judges 4:15","englishText":"Yahweh confused Sisera, and all his chariots, and all his army, with the edge of the sword before Barak; and Sisera alighted from his chariot, and fled away on his feet.","tokens":[{"id":"judges-4-15-0","surface":"וַיָּ֣הָם","lemma":"הָמַם","translit":"vayaham","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H2000"},{"id":"judges-4-15-1","surface":"יְ֠הוָה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"judges-4-15-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-15-3","surface":"סִֽיסְרָ֨א","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-15-4","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-15-5","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"judges-4-15-6","surface":"הָרֶ֧כֶב","lemma":"רֶכֶב","translit":"harekeb","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7393"},{"id":"judges-4-15-7","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-15-8","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"judges-4-15-9","surface":"הַֽמַּחֲנֶ֛ה","lemma":"מַחֲנֶה","translit":"hamachneh","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H4264"},{"id":"judges-4-15-10","surface":"לְפִי","lemma":"פֶּה","translit":"lepiy","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H6310"},{"id":"judges-4-15-11","surface":"חֶ֖רֶב","lemma":"חֶרֶב","translit":"chereb","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2719"},{"id":"judges-4-15-12","surface":"לִפְנֵ֣י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"judges-4-15-13","surface":"בָרָ֑ק","lemma":"בָּרָק","translit":"baraq","morph":"Noun proper","glosses":[],"strongs":"H1301"},{"id":"judges-4-15-14","surface":"וַיֵּ֧רֶד","lemma":"יָרַד","translit":"vayered","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3381"},{"id":"judges-4-15-15","surface":"סִֽיסְרָ֛א","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-15-16","surface":"מֵעַ֥ל","lemma":"עַל","translit":"me`al","morph":"Preposition + Preposition","glosses":[],"strongs":"H5921"},{"id":"judges-4-15-17","surface":"הַמֶּרְכָּבָ֖ה","lemma":"מֶרְכָּבָה","translit":"hamerekabah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4818"},{"id":"judges-4-15-18","surface":"וַיָּ֥נָס","lemma":"נוּס","translit":"vayanas","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5127"},{"id":"judges-4-15-19","surface":"בְּרַגְלָֽיו","lemma":"רֶגֶל","translit":"beragelayv","morph":"Preposition + Noun common feminine dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7272"}],"language":"hebrew"},{"ref":"Judges 4:16","englishText":"But Barak pursued after the chariots, and after the army, to Harosheth of the Gentiles: and all the army of Sisera fell by the edge of the sword; there was not a man left.  ","tokens":[{"id":"judges-4-16-0","surface":"וּבָרָ֗ק","lemma":"בָּרָק","translit":"vbaraq","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H1301"},{"id":"judges-4-16-1","surface":"רָדַ֞ף","lemma":"רָדַף","translit":"radap","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H7291"},{"id":"judges-4-16-2","surface":"אַחֲרֵ֤י","lemma":"אַחַר","translit":"'achrey","morph":"Preposition","glosses":[],"strongs":"H310"},{"id":"judges-4-16-3","surface":"הָרֶ֨כֶב֙","lemma":"רֶכֶב","translit":"harekeb","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H7393"},{"id":"judges-4-16-4","surface":"וְאַחֲרֵ֣י","lemma":"אַחַר","translit":"ve'achrey","morph":"Conjunction + Preposition","glosses":[],"strongs":"H310"},{"id":"judges-4-16-5","surface":"הַֽמַּחֲנֶ֔ה","lemma":"מַחֲנֶה","translit":"hamachneh","morph":"Particle dual + Noun common singular absolute","glosses":[],"strongs":"H4264"},{"id":"judges-4-16-6","surface":"עַ֖ד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"judges-4-16-7","surface":"חֲרֹ֣שֶׁת","lemma":"חֲרֹשֶׁת","translit":"chroshet","morph":"Noun proper","glosses":[],"strongs":"H2800"},{"id":"judges-4-16-8","surface":"הַגּוֹיִ֑ם","lemma":"גּוֹי","translit":"hagvoyim","morph":"Noun proper","glosses":[],"strongs":"H1471"},{"id":"judges-4-16-9","surface":"וַיִּפֹּ֞ל","lemma":"נָפַל","translit":"vayipol","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5307"},{"id":"judges-4-16-10","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"judges-4-16-11","surface":"מַחֲנֵ֤ה","lemma":"מַחֲנֶה","translit":"machneh","morph":"Noun common singular construct","glosses":[],"strongs":"H4264"},{"id":"judges-4-16-12","surface":"סִֽיסְרָא֙","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-16-13","surface":"לְפִי","lemma":"פֶּה","translit":"lepiy","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H6310"},{"id":"judges-4-16-14","surface":"חֶ֔רֶב","lemma":"חֶרֶב","translit":"chereb","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H2719"},{"id":"judges-4-16-15","surface":"לֹ֥א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"judges-4-16-16","surface":"נִשְׁאַ֖ר","lemma":"שָׁאַר","translit":"nishe'ar","morph":"Verb Niphal Participle 3rd masculine singular","glosses":[],"strongs":"H7604"},{"id":"judges-4-16-17","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"judges-4-16-18","surface":"אֶחָֽד","lemma":"אֶחָד","translit":"'echad","morph":"Adjective common masculine singular absolute","glosses":[],"strongs":"H259"}],"language":"hebrew"},{"ref":"Judges 4:17","englishText":"  However Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite; for there was peace between Jabin the king of Hazor and the house of Heber the Kenite.","tokens":[{"id":"judges-4-17-0","surface":"וְסִֽיסְרָא֙","lemma":"סִיסְרָא","translit":"vesiysera'","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-17-1","surface":"נָ֣ס","lemma":"נוּס","translit":"nas","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5127"},{"id":"judges-4-17-2","surface":"בְּרַגְלָ֔יו","lemma":"רֶגֶל","translit":"beragelayv","morph":"Preposition + Noun common feminine dual construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7272"},{"id":"judges-4-17-3","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"judges-4-17-4","surface":"אֹ֣הֶל","lemma":"אֹהֶל","translit":"'ohel","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H168"},{"id":"judges-4-17-5","surface":"יָעֵ֔ל","lemma":"יָעֵל","translit":"ya`el","morph":"Noun proper","glosses":[],"strongs":"H3278"},{"id":"judges-4-17-6","surface":"אֵ֖שֶּׁת","lemma":"אִשָּׁה","translit":"'eshet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H802"},{"id":"judges-4-17-7","surface":"חֶ֣בֶר","lemma":"חֶבֶר","translit":"cheber","morph":"Noun proper","glosses":[],"strongs":"H2268"},{"id":"judges-4-17-8","surface":"הַקֵּינִ֑י","lemma":"קֵינִי","translit":"haqeyniy","morph":"Particle dual + Noun gentilic masculine singular absolute","glosses":[],"strongs":"H7017"},{"id":"judges-4-17-9","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"judges-4-17-10","surface":"שָׁל֗וֹם","lemma":"שָׁלוֹם","translit":"shalvom","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7965"},{"id":"judges-4-17-11","surface":"בֵּ֚ין","lemma":"בֵּין","translit":"beyn","morph":"Preposition","glosses":[],"strongs":"H996"},{"id":"judges-4-17-12","surface":"יָבִ֣ין","lemma":"יָבִין","translit":"yabiyn","morph":"Noun proper","glosses":[],"strongs":"H2985"},{"id":"judges-4-17-13","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"judges-4-17-14","surface":"חָצ֔וֹר","lemma":"חָצוֹר","translit":"chatsvor","morph":"Noun proper","glosses":[],"strongs":"H2674"},{"id":"judges-4-17-15","surface":"וּבֵ֕ין","lemma":"בֵּין","translit":"vbeyn","morph":"Conjunction + Preposition","glosses":[],"strongs":"H996"},{"id":"judges-4-17-16","surface":"בֵּ֖ית","lemma":"בַּיִת","translit":"beyt","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"judges-4-17-17","surface":"חֶ֥בֶר","lemma":"חֶבֶר","translit":"cheber","morph":"Noun proper","glosses":[],"strongs":"H2268"},{"id":"judges-4-17-18","surface":"הַקֵּינִֽי","lemma":"קֵינִי","translit":"haqeyniy","morph":"Particle dual + Noun gentilic masculine singular absolute","glosses":[],"strongs":"H7017"}],"language":"hebrew"},{"ref":"Judges 4:18","englishText":"Jael went out to meet Sisera, and said to him, “Turn in, my lord, turn in to me; don’t be afraid.” He came in to her into the tent, and she covered him with a rug.  ","tokens":[{"id":"judges-4-18-0","surface":"וַתֵּצֵ֣א","lemma":"יָצָא","translit":"vatetse'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3318"},{"id":"judges-4-18-1","surface":"יָעֵל֮","lemma":"יָעֵל","translit":"ya`el","morph":"Noun proper","glosses":[],"strongs":"H3278"},{"id":"judges-4-18-2","surface":"לִקְרַ֣את","lemma":"קִרְאָה","translit":"liqera't","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H7125"},{"id":"judges-4-18-3","surface":"סִֽיסְרָא֒","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-18-4","surface":"וַתֹּ֣אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"judges-4-18-5","surface":"אֵלָ֗יו","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"judges-4-18-6","surface":"סוּרָ֧ה","lemma":"סוּר","translit":"svrah","morph":"Verb Qal Weqatal 2nd masculine singular + Suffix","glosses":[],"strongs":"H5493"},{"id":"judges-4-18-7","surface":"אֲדֹנִ֛י","lemma":"אָדוֹן","translit":"'doniy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H113"},{"id":"judges-4-18-8","surface":"סוּרָ֥ה","lemma":"סוּר","translit":"svrah","morph":"Verb Qal Weqatal 2nd masculine singular + Suffix","glosses":[],"strongs":"H5493"},{"id":"judges-4-18-9","surface":"אֵלַ֖י","lemma":"אֵל","translit":"'elay","morph":"Preposition + Suffix plural 1st common singular","glosses":[],"strongs":"H413"},{"id":"judges-4-18-10","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"judges-4-18-11","surface":"תִּירָ֑א","lemma":"יָרֵא","translit":"tiyra'","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H3372"},{"id":"judges-4-18-12","surface":"וַיָּ֤סַר","lemma":"סוּר","translit":"vayasar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5493"},{"id":"judges-4-18-13","surface":"אֵלֶ֨יהָ֙","lemma":"אֵל","translit":"'eleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H413"},{"id":"judges-4-18-14","surface":"הָאֹ֔הֱלָה","lemma":"אֹהֶל","translit":"ha'ohlah","morph":"Particle dual + Noun common masculine singular absolute + Suffix dual","glosses":[],"strongs":"H168"},{"id":"judges-4-18-15","surface":"וַתְּכַסֵּ֖הוּ","lemma":"כָּסָה","translit":"vatekasehv","morph":"Conjunction + Verb Piel Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3680"},{"id":"judges-4-18-16","surface":"בַּשְּׂמִיכָֽה","lemma":"שְׂמִיכָה","translit":"bashemiykah","morph":"Preposition dual + Noun common feminine singular absolute","glosses":[],"strongs":"H8063"}],"language":"hebrew"},{"ref":"Judges 4:19","englishText":"  He said to her, “Please give me a little water to drink; for I am thirsty.”   She opened a bottle of milk, and gave him drink, and covered him.  ","tokens":[{"id":"judges-4-19-0","surface":"וַיֹּ֧אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"judges-4-19-1","surface":"אֵלֶ֛יהָ","lemma":"אֵל","translit":"'eleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H413"},{"id":"judges-4-19-2","surface":"הַשְׁקִינִי","lemma":"שָׁקָה","translit":"hasheqiyniy","morph":"Verb Hiphil Weqatal 2nd feminine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H8248"},{"id":"judges-4-19-3","surface":"נָ֥א","lemma":"נָא","translit":"na'","morph":"Particle","glosses":[],"strongs":"H4994"},{"id":"judges-4-19-4","surface":"מְעַט","lemma":"מְעַט","translit":"me`at","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4592"},{"id":"judges-4-19-5","surface":"מַ֖יִם","lemma":"מַיִם","translit":"mayim","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H4325"},{"id":"judges-4-19-6","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"judges-4-19-7","surface":"צָמֵ֑אתִי","lemma":"צָמֵא","translit":"tsame'tiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H6770"},{"id":"judges-4-19-8","surface":"וַתִּפְתַּ֞ח","lemma":"פָּתַח","translit":"vatipetach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H6605"},{"id":"judges-4-19-9","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-19-10","surface":"נֹ֧אוד","lemma":"נֹאד","translit":"no'vd","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4997"},{"id":"judges-4-19-11","surface":"הֶחָלָ֛ב","lemma":"חָלָב","translit":"hechalab","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H2461"},{"id":"judges-4-19-12","surface":"וַתַּשְׁקֵ֖הוּ","lemma":"שָׁקָה","translit":"vatasheqehv","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H8248"},{"id":"judges-4-19-13","surface":"וַתְּכַסֵּֽהוּ","lemma":"כָּסָה","translit":"vatekasehv","morph":"Conjunction + Verb Piel Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H3680"}],"language":"hebrew"},{"ref":"Judges 4:20","englishText":"  He said to her, “Stand in the door of the tent, and it shall be, when any man comes and inquires of you, and says, ‘Is there any man here?’ that you shall say, ‘No.’”  ","tokens":[{"id":"judges-4-20-0","surface":"וַיֹּ֣אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"judges-4-20-1","surface":"אֵלֶ֔יהָ","lemma":"אֵל","translit":"'eleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H413"},{"id":"judges-4-20-2","surface":"עֲמֹ֖ד","lemma":"עָמַד","translit":"`mod","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H5975"},{"id":"judges-4-20-3","surface":"פֶּ֣תַח","lemma":"פֶּתַח","translit":"petach","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H6607"},{"id":"judges-4-20-4","surface":"הָאֹ֑הֶל","lemma":"אֹהֶל","translit":"ha'ohel","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H168"},{"id":"judges-4-20-5","surface":"וְהָיָה֩","lemma":"הָיָה","translit":"vehayah","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"judges-4-20-6","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"judges-4-20-7","surface":"אִ֨ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"judges-4-20-8","surface":"יָב֜וֹא","lemma":"בּוֹא","translit":"yabvo'","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"judges-4-20-9","surface":"וּשְׁאֵלֵ֗ךְ","lemma":"שָׁאַל","translit":"vshe'eleke","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H7592"},{"id":"judges-4-20-10","surface":"וְאָמַ֛ר","lemma":"אָמַר","translit":"ve'amar","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"judges-4-20-11","surface":"הֲיֵֽשׁ","lemma":"יֵשׁ","translit":"hyesh","morph":"Particle + Particle masculine","glosses":[],"strongs":"H3426"},{"id":"judges-4-20-12","surface":"פֹּ֥ה","lemma":"פֹּה","translit":"poh","morph":"Adverb","glosses":[],"strongs":"H6311"},{"id":"judges-4-20-13","surface":"אִ֖ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"judges-4-20-14","surface":"וְאָמַ֥רְתְּ","lemma":"אָמַר","translit":"ve'amarete","morph":"Conjunction + Verb Qal Perfect 2nd feminine singular","glosses":[],"strongs":"H559"},{"id":"judges-4-20-15","surface":"אָֽיִן","lemma":"אַיִן","translit":"'ayin","morph":"Particle","glosses":[],"strongs":"H369"}],"language":"hebrew"},{"ref":"Judges 4:21","englishText":"  Then Jael Heber’s wife took a tent peg, and took a hammer in her hand, and went softly to him, and struck the pin into his temples, and it pierced through into the ground; for he was in a deep sleep; so he swooned and died.","tokens":[{"id":"judges-4-21-0","surface":"וַתִּקַּ֣ח","lemma":"לָקַח","translit":"vatiqach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3947"},{"id":"judges-4-21-1","surface":"יָעֵ֣ל","lemma":"יָעֵל","translit":"ya`el","morph":"Noun proper","glosses":[],"strongs":"H3278"},{"id":"judges-4-21-2","surface":"אֵֽשֶׁת","lemma":"אִשָּׁה","translit":"'eshet","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H802"},{"id":"judges-4-21-3","surface":"חֶ֠בֶר","lemma":"חֶבֶר","translit":"cheber","morph":"Noun proper","glosses":[],"strongs":"H2268"},{"id":"judges-4-21-4","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-21-5","surface":"יְתַ֨ד","lemma":"יָתֵד","translit":"yetad","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H3489"},{"id":"judges-4-21-6","surface":"הָאֹ֜הֶל","lemma":"אֹהֶל","translit":"ha'ohel","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H168"},{"id":"judges-4-21-7","surface":"וַתָּ֧שֶׂם","lemma":"שׂוּם","translit":"vatashem","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H7760"},{"id":"judges-4-21-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-21-9","surface":"הַמַּקֶּ֣בֶת","lemma":"מַקֶּבֶת","translit":"hamaqebet","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H4718"},{"id":"judges-4-21-10","surface":"בְּיָדָ֗הּ","lemma":"יָד","translit":"beyadah","morph":"Preposition + Noun common singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3027"},{"id":"judges-4-21-11","surface":"וַתָּב֤וֹא","lemma":"בּוֹא","translit":"vatabvo'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H935"},{"id":"judges-4-21-12","surface":"אֵלָיו֙","lemma":"אֵל","translit":"'elayv","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H413"},{"id":"judges-4-21-13","surface":"בַּלָּ֔אט","lemma":"לָאט","translit":"bala't","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3814"},{"id":"judges-4-21-14","surface":"וַתִּתְקַ֤ע","lemma":"תָּקַע","translit":"vatiteqa`","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H8628"},{"id":"judges-4-21-15","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-21-16","surface":"הַיָּתֵד֙","lemma":"יָתֵד","translit":"hayated","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H3489"},{"id":"judges-4-21-17","surface":"בְּרַקָּת֔וֹ","lemma":"רַקָּה","translit":"beraqatvo","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7541"},{"id":"judges-4-21-18","surface":"וַתִּצְנַ֖ח","lemma":"צָנַח","translit":"vatitsenach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H6795"},{"id":"judges-4-21-19","surface":"בָּאָ֑רֶץ","lemma":"אֶרֶץ","translit":"ba'arets","morph":"Preposition dual + Noun common singular absolute","glosses":[],"strongs":"H776"},{"id":"judges-4-21-20","surface":"וְהֽוּא","lemma":"הוּא","translit":"vehv'","morph":"Conjunction + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"judges-4-21-21","surface":"נִרְדָּ֥ם","lemma":"רָדַם","translit":"niredam","morph":"Verb Niphal Passive Participle","glosses":[],"strongs":"H7290"},{"id":"judges-4-21-22","surface":"וַיָּ֖עַף","lemma":"עוּף","translit":"vaya`ap","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5774"},{"id":"judges-4-21-23","surface":"וַיָּמֹֽת","lemma":"מוּת","translit":"vayamot","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H4191"}],"language":"hebrew"},{"ref":"Judges 4:22","englishText":"Behold, as Barak pursued Sisera, Jael came out to meet him, and said to him, “Come, and I will show you the man whom you seek.” He came to her; and behold, Sisera lay dead, and the tent peg was in his temples.","tokens":[{"id":"judges-4-22-0","surface":"וְהִנֵּ֣ה","lemma":"הִנֵּה","translit":"vehineh","morph":"Conjunction + Particle masculine","glosses":[],"strongs":"H2009"},{"id":"judges-4-22-1","surface":"בָרָק֮","lemma":"בָּרָק","translit":"baraq","morph":"Noun proper","glosses":[],"strongs":"H1301"},{"id":"judges-4-22-2","surface":"רֹדֵ֣ף","lemma":"רָדַף","translit":"rodep","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H7291"},{"id":"judges-4-22-3","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-22-4","surface":"סִֽיסְרָא֒","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-22-5","surface":"וַתֵּצֵ֤א","lemma":"יָצָא","translit":"vatetse'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3318"},{"id":"judges-4-22-6","surface":"יָעֵל֙","lemma":"יָעֵל","translit":"ya`el","morph":"Noun proper","glosses":[],"strongs":"H3278"},{"id":"judges-4-22-7","surface":"לִקְרָאת֔וֹ","lemma":"קִרְאָה","translit":"liqera'tvo","morph":"Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7125"},{"id":"judges-4-22-8","surface":"וַתֹּ֣אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"judges-4-22-9","surface":"ל֔וֹ","lemma":"ל֔וֹ","translit":"lvo","morph":"Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"judges-4-22-10","surface":"לֵ֣ךְ","lemma":"יָלַךְ","translit":"leke","morph":"Verb Qal Weqatal 2nd masculine singular","glosses":[],"strongs":"H3212"},{"id":"judges-4-22-11","surface":"וְאַרְאֶ֔ךָּ","lemma":"רָאָה","translit":"ve'are'eka","morph":"Conjunction + Verb Hiphil Cohortative 1st common singular + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H7200"},{"id":"judges-4-22-12","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-22-13","surface":"הָאִ֖ישׁ","lemma":"אִישׁ","translit":"ha'iysh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"judges-4-22-14","surface":"אֲשֶׁר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"judges-4-22-15","surface":"אַתָּ֣ה","lemma":"אַתָּה","translit":"'atah","morph":"Pronoun plural 2nd masculine singular","glosses":[],"strongs":"H859"},{"id":"judges-4-22-16","surface":"מְבַקֵּ֑שׁ","lemma":"בָּקַשׁ","translit":"mebaqesh","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H1245"},{"id":"judges-4-22-17","surface":"וַיָּבֹ֣א","lemma":"בּוֹא","translit":"vayabo'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"judges-4-22-18","surface":"אֵלֶ֔יהָ","lemma":"אֵל","translit":"'eleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H413"},{"id":"judges-4-22-19","surface":"וְהִנֵּ֤ה","lemma":"הִנֵּה","translit":"vehineh","morph":"Conjunction + Particle masculine","glosses":[],"strongs":"H2009"},{"id":"judges-4-22-20","surface":"סִֽיסְרָא֙","lemma":"סִיסְרָא","translit":"siysera'","morph":"Noun proper","glosses":[],"strongs":"H5516"},{"id":"judges-4-22-21","surface":"נֹפֵ֣ל","lemma":"נָפַל","translit":"nopel","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H5307"},{"id":"judges-4-22-22","surface":"מֵ֔ת","lemma":"מוּת","translit":"met","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H4191"},{"id":"judges-4-22-23","surface":"וְהַיָּתֵ֖ד","lemma":"יָתֵד","translit":"vehayated","morph":"Conjunction + Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H3489"},{"id":"judges-4-22-24","surface":"בְּרַקָּתֽוֹ","lemma":"רַקָּה","translit":"beraqatvo","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7541"}],"language":"hebrew"},{"ref":"Judges 4:23","englishText":"So God subdued on that day Jabin the king of Canaan before the children of Israel.","tokens":[{"id":"judges-4-23-0","surface":"וַיַּכְנַ֤ע","lemma":"כָּנַע","translit":"vayakena`","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3665"},{"id":"judges-4-23-1","surface":"אֱלֹהִים֙","lemma":"אֱלֹהִים","translit":"'lohiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H430"},{"id":"judges-4-23-2","surface":"בַּיּ֣וֹם","lemma":"יוֹם","translit":"bayvom","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"judges-4-23-3","surface":"הַה֔וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"judges-4-23-4","surface":"אֵ֖ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-23-5","surface":"יָבִ֣ין","lemma":"יָבִין","translit":"yabiyn","morph":"Noun proper","glosses":[],"strongs":"H2985"},{"id":"judges-4-23-6","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"judges-4-23-7","surface":"כְּנָ֑עַן","lemma":"כְּנַעַן","translit":"kena`an","morph":"Noun proper","glosses":[],"strongs":"H3667"},{"id":"judges-4-23-8","surface":"לִפְנֵ֖י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"judges-4-23-9","surface":"בְּנֵ֥י","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-23-10","surface":"יִשְׂרָאֵֽל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"}],"language":"hebrew"},{"ref":"Judges 4:24","englishText":"The hand of the children of Israel prevailed more and more against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.   ","tokens":[{"id":"judges-4-24-0","surface":"וַתֵּ֜לֶךְ","lemma":"יָלַךְ","translit":"vateleke","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3212"},{"id":"judges-4-24-1","surface":"יַ֤ד","lemma":"יָד","translit":"yad","morph":"Noun common singular construct","glosses":[],"strongs":"H3027"},{"id":"judges-4-24-2","surface":"בְּנֵֽי","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"judges-4-24-3","surface":"יִשְׂרָאֵל֙","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"judges-4-24-4","surface":"הָל֣וֹךְ","lemma":"הָלַךְ","translit":"halvoke","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H1980"},{"id":"judges-4-24-5","surface":"וְקָשָׁ֔ה","lemma":"קָשֶׁה","translit":"veqashah","morph":"Conjunction + Adjective","glosses":[],"strongs":"H7186"},{"id":"judges-4-24-6","surface":"עַ֖ל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"judges-4-24-7","surface":"יָבִ֣ין","lemma":"יָבִין","translit":"yabiyn","morph":"Noun proper","glosses":[],"strongs":"H2985"},{"id":"judges-4-24-8","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"judges-4-24-9","surface":"כְּנָ֑עַן","lemma":"כְּנַעַן","translit":"kena`an","morph":"Noun proper","glosses":[],"strongs":"H3667"},{"id":"judges-4-24-10","surface":"עַ֚ד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"judges-4-24-11","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"judges-4-24-12","surface":"הִכְרִ֔יתוּ","lemma":"כָּרַת","translit":"hikeriytv","morph":"Verb Hiphil Participle 3rd common plural","glosses":[],"strongs":"H3772"},{"id":"judges-4-24-13","surface":"אֵ֖ת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"judges-4-24-14","surface":"יָבִ֥ין","lemma":"יָבִין","translit":"yabiyn","morph":"Noun proper","glosses":[],"strongs":"H2985"},{"id":"judges-4-24-15","surface":"מֶֽלֶךְ","lemma":"מֶלֶךְ","translit":"meleke","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H4428"},{"id":"judges-4-24-16","surface":"כְּנָֽעַן","lemma":"כְּנַעַן","translit":"kena`an","morph":"Noun proper","glosses":[],"strongs":"H3667"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "judges-4",
+  "name": "Judges",
+  "chapter": 4,
+  "verses": [
+    {
+      "ref": "Judges 4:1",
+      "englishText": "The children of Israel again did that which was evil in the sight of Yahweh, when Ehud was dead.",
+      "tokens": [
+        {
+          "id": "judges-4-1-0",
+          "surface": "וַיֹּסִ֨פוּ֙",
+          "lemma": "יָסַף",
+          "translit": "vayosipv",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H3254"
+        },
+        {
+          "id": "judges-4-1-1",
+          "surface": "בְּנֵ֣י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-1-2",
+          "surface": "יִשְׂרָאֵ֔ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "judges-4-1-3",
+          "surface": "לַעֲשׂ֥וֹת",
+          "lemma": "עָשָׂה",
+          "translit": "la`shvot",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "judges-4-1-4",
+          "surface": "הָרַ֖ע",
+          "lemma": "רַע",
+          "translit": "hara`",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H7451"
+        },
+        {
+          "id": "judges-4-1-5",
+          "surface": "בְּעֵינֵ֣י",
+          "lemma": "עַיִן",
+          "translit": "be`eyney",
+          "morph": "Preposition + Noun common dual construct",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "judges-4-1-6",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "judges-4-1-7",
+          "surface": "וְאֵה֖וּד",
+          "lemma": "אֵהוּד",
+          "translit": "ve'ehvd",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H164"
+        },
+        {
+          "id": "judges-4-1-8",
+          "surface": "מֵֽת",
+          "lemma": "מוּת",
+          "translit": "met",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4191"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:2",
+      "englishText": "Yahweh sold them into the hand of Jabin king of Canaan, who reigned in Hazor; the captain of whose army was Sisera, who lived in Harosheth of the Gentiles.",
+      "tokens": [
+        {
+          "id": "judges-4-2-0",
+          "surface": "וַיִּמְכְּרֵ֣ם",
+          "lemma": "מָכַר",
+          "translit": "vayimekerem",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H4376"
+        },
+        {
+          "id": "judges-4-2-1",
+          "surface": "יְהוָ֗ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "judges-4-2-2",
+          "surface": "בְּיַד֙",
+          "lemma": "יָד",
+          "translit": "beyad",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "judges-4-2-3",
+          "surface": "יָבִ֣ין",
+          "lemma": "יָבִין",
+          "translit": "yabiyn",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2985"
+        },
+        {
+          "id": "judges-4-2-4",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "judges-4-2-5",
+          "surface": "כְּנַ֔עַן",
+          "lemma": "כְּנַעַן",
+          "translit": "kena`an",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3667"
+        },
+        {
+          "id": "judges-4-2-6",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "judges-4-2-7",
+          "surface": "מָלַ֖ךְ",
+          "lemma": "מָלַךְ",
+          "translit": "malake",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4427"
+        },
+        {
+          "id": "judges-4-2-8",
+          "surface": "בְּחָצ֑וֹר",
+          "lemma": "חָצוֹר",
+          "translit": "bechatsvor",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H2674"
+        },
+        {
+          "id": "judges-4-2-9",
+          "surface": "וְשַׂר",
+          "lemma": "שַׂר",
+          "translit": "veshar",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8269"
+        },
+        {
+          "id": "judges-4-2-10",
+          "surface": "צְבָאוֹ֙",
+          "lemma": "צָבָא",
+          "translit": "tseba'vo",
+          "morph": "Noun common singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "judges-4-2-11",
+          "surface": "סִֽיסְרָ֔א",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-2-12",
+          "surface": "וְה֥וּא",
+          "lemma": "הוּא",
+          "translit": "vehv'",
+          "morph": "Conjunction + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "judges-4-2-13",
+          "surface": "יוֹשֵׁ֖ב",
+          "lemma": "יָשַׁב",
+          "translit": "yvosheb",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "judges-4-2-14",
+          "surface": "בַּחֲרֹ֥שֶׁת",
+          "lemma": "חֲרֹשֶׁת",
+          "translit": "bachroshet",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H2800"
+        },
+        {
+          "id": "judges-4-2-15",
+          "surface": "הַגּוֹיִֽם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1471"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:3",
+      "englishText": "The children of Israel cried to Yahweh: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.",
+      "tokens": [
+        {
+          "id": "judges-4-3-0",
+          "surface": "וַיִּצְעֲק֥וּ",
+          "lemma": "צָעַק",
+          "translit": "vayitse`qv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H6817"
+        },
+        {
+          "id": "judges-4-3-1",
+          "surface": "בְנֵֽי",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-3-2",
+          "surface": "יִשְׂרָאֵ֖ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "judges-4-3-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-3-4",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "judges-4-3-5",
+          "surface": "כִּ֠י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "judges-4-3-6",
+          "surface": "תְּשַׁ֨ע",
+          "lemma": "תֵּשַׁע",
+          "translit": "tesha`",
+          "morph": "Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8672"
+        },
+        {
+          "id": "judges-4-3-7",
+          "surface": "מֵא֤וֹת",
+          "lemma": "מֵאָה",
+          "translit": "me'vot",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H3967"
+        },
+        {
+          "id": "judges-4-3-8",
+          "surface": "רֶֽכֶב",
+          "lemma": "רֶכֶב",
+          "translit": "rekeb",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7393"
+        },
+        {
+          "id": "judges-4-3-9",
+          "surface": "בַּרְזֶל֙",
+          "lemma": "בַּרְזֶל",
+          "translit": "barezel",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1270"
+        },
+        {
+          "id": "judges-4-3-10",
+          "surface": "ל֔וֹ",
+          "lemma": "ל֔וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "judges-4-3-11",
+          "surface": "וְ֠הוּא",
+          "lemma": "הוּא",
+          "translit": "vehv'",
+          "morph": "Conjunction + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "judges-4-3-12",
+          "surface": "לָחַ֞ץ",
+          "lemma": "לָחַץ",
+          "translit": "lachats",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3905"
+        },
+        {
+          "id": "judges-4-3-13",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-3-14",
+          "surface": "בְּנֵ֧י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-3-15",
+          "surface": "יִשְׂרָאֵ֛ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "judges-4-3-16",
+          "surface": "בְּחָזְקָ֖ה",
+          "lemma": "חׇזְקָה",
+          "translit": "bechazeqah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2394"
+        },
+        {
+          "id": "judges-4-3-17",
+          "surface": "עֶשְׂרִ֥ים",
+          "lemma": "עֶשְׂרִים",
+          "translit": "`esheriym",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H6242"
+        },
+        {
+          "id": "judges-4-3-18",
+          "surface": "שָׁנָֽה",
+          "lemma": "שָׁנֶה",
+          "translit": "shanah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:4",
+      "englishText": "Now Deborah, a prophetess, the wife of Lappidoth, she judged Israel at that time.",
+      "tokens": [
+        {
+          "id": "judges-4-4-0",
+          "surface": "וּדְבוֹרָה֙",
+          "lemma": "דְּבּוֹרָה",
+          "translit": "vdebvorah",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H1683"
+        },
+        {
+          "id": "judges-4-4-1",
+          "surface": "אִשָּׁ֣ה",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "judges-4-4-2",
+          "surface": "נְבִיאָ֔ה",
+          "lemma": "נְבִיאָה",
+          "translit": "nebiy'ah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H5031"
+        },
+        {
+          "id": "judges-4-4-3",
+          "surface": "אֵ֖שֶׁת",
+          "lemma": "אִשָּׁה",
+          "translit": "'eshet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "judges-4-4-4",
+          "surface": "לַפִּיד֑וֹת",
+          "lemma": "לַפִּידוֹת",
+          "translit": "lapiydvot",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3941"
+        },
+        {
+          "id": "judges-4-4-5",
+          "surface": "הִ֛יא",
+          "lemma": "הוּא",
+          "translit": "hiy'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "judges-4-4-6",
+          "surface": "שֹׁפְטָ֥ה",
+          "lemma": "שָׁפַט",
+          "translit": "shopetah",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H8199"
+        },
+        {
+          "id": "judges-4-4-7",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-4-8",
+          "surface": "יִשְׂרָאֵ֖ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "judges-4-4-9",
+          "surface": "בָּעֵ֥ת",
+          "lemma": "עֵת",
+          "translit": "ba`et",
+          "morph": "Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H6256"
+        },
+        {
+          "id": "judges-4-4-10",
+          "surface": "הַהִֽיא",
+          "lemma": "הוּא",
+          "translit": "hahiy'",
+          "morph": "Particle dual + Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:5",
+      "englishText": "She lived under the palm tree of Deborah between Ramah and Bethel in the hill country of Ephraim: and the children of Israel came up to her for judgment.",
+      "tokens": [
+        {
+          "id": "judges-4-5-0",
+          "surface": "וְ֠הִיא",
+          "lemma": "הוּא",
+          "translit": "vehiy'",
+          "morph": "Conjunction + Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "judges-4-5-1",
+          "surface": "יוֹשֶׁ֨בֶת",
+          "lemma": "יָשַׁב",
+          "translit": "yvoshebet",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "judges-4-5-2",
+          "surface": "תַּֽחַת",
+          "lemma": "תַּחַת",
+          "translit": "tachat",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H8478"
+        },
+        {
+          "id": "judges-4-5-3",
+          "surface": "תֹּ֜מֶר",
+          "lemma": "תֹּמֶר",
+          "translit": "tomer",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8560"
+        },
+        {
+          "id": "judges-4-5-4",
+          "surface": "דְּבוֹרָ֗ה",
+          "lemma": "דְּבּוֹרָה",
+          "translit": "debvorah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1683"
+        },
+        {
+          "id": "judges-4-5-5",
+          "surface": "בֵּ֧ין",
+          "lemma": "בֵּין",
+          "translit": "beyn",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H996"
+        },
+        {
+          "id": "judges-4-5-6",
+          "surface": "הָרָמָ֛ה",
+          "lemma": "רָמָה",
+          "translit": "haramah",
+          "morph": "Particle dual + Noun proper",
+          "glosses": [],
+          "strongs": "H7414"
+        },
+        {
+          "id": "judges-4-5-7",
+          "surface": "וּבֵ֥ין",
+          "lemma": "בֵּין",
+          "translit": "vbeyn",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H996"
+        },
+        {
+          "id": "judges-4-5-8",
+          "surface": "בֵּֽית",
+          "lemma": "בֵּית־אֵל",
+          "translit": "beyt",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1008"
+        },
+        {
+          "id": "judges-4-5-9",
+          "surface": "אֵ֖ל",
+          "lemma": "בֵּית־אֵל",
+          "translit": "'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1008"
+        },
+        {
+          "id": "judges-4-5-10",
+          "surface": "בְּהַ֣ר",
+          "lemma": "הַר",
+          "translit": "behar",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "judges-4-5-11",
+          "surface": "אֶפְרָ֑יִם",
+          "lemma": "אֶפְרַיִם",
+          "translit": "'eperayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H669"
+        },
+        {
+          "id": "judges-4-5-12",
+          "surface": "וַיַּעֲל֥וּ",
+          "lemma": "עָלָה",
+          "translit": "vaya`lv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "judges-4-5-13",
+          "surface": "אֵלֶ֛יהָ",
+          "lemma": "אֵל",
+          "translit": "'eleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-5-14",
+          "surface": "בְּנֵ֥י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-5-15",
+          "surface": "יִשְׂרָאֵ֖ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "judges-4-5-16",
+          "surface": "לַמִּשְׁפָּֽט",
+          "lemma": "מִשְׁפָּט",
+          "translit": "lamishepat",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4941"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:6",
+      "englishText": "She sent and called Barak the son of Abinoam out of Kedesh Naphtali, and said to him, “Hasn’t Yahweh, the God of Israel, commanded, ‘Go and draw to Mount Tabor, and take with you ten thousand men of the children of Naphtali and of the children of Zebulun?",
+      "tokens": [
+        {
+          "id": "judges-4-6-0",
+          "surface": "וַתִּשְׁלַ֗ח",
+          "lemma": "שָׁלַח",
+          "translit": "vatishelach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7971"
+        },
+        {
+          "id": "judges-4-6-1",
+          "surface": "וַתִּקְרָא֙",
+          "lemma": "קָרָא",
+          "translit": "vatiqera'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "judges-4-6-2",
+          "surface": "לְבָרָ֣ק",
+          "lemma": "בָּרָק",
+          "translit": "lebaraq",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H1301"
+        },
+        {
+          "id": "judges-4-6-3",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-6-4",
+          "surface": "אֲבִינֹ֔עַם",
+          "lemma": "אֲבִינֹעַם",
+          "translit": "'biyno`am",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H42"
+        },
+        {
+          "id": "judges-4-6-5",
+          "surface": "מִקֶּ֖דֶשׁ",
+          "lemma": "קֶדֶשׁ",
+          "translit": "miqedesh",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6943"
+        },
+        {
+          "id": "judges-4-6-6",
+          "surface": "נַפְתָּלִ֑י",
+          "lemma": "נַפְתָּלִי",
+          "translit": "napetaliy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5321"
+        },
+        {
+          "id": "judges-4-6-7",
+          "surface": "וַתֹּ֨אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "judges-4-6-8",
+          "surface": "אֵלָ֜יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-6-9",
+          "surface": "הֲלֹ֥א",
+          "lemma": "לֹא",
+          "translit": "hlo'",
+          "morph": "Particle + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "judges-4-6-10",
+          "surface": "צִוָּ֣ה",
+          "lemma": "צָוָה",
+          "translit": "tsivah",
+          "morph": "Verb Piel Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6680"
+        },
+        {
+          "id": "judges-4-6-11",
+          "surface": "יְהוָ֣ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "judges-4-6-12",
+          "surface": "אֱלֹהֵֽי",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "judges-4-6-13",
+          "surface": "יִשְׂרָאֵ֗ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "judges-4-6-14",
+          "surface": "לֵ֤ךְ",
+          "lemma": "יָלַךְ",
+          "translit": "leke",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "judges-4-6-15",
+          "surface": "וּמָֽשַׁכְתָּ֙",
+          "lemma": "מָשַׁךְ",
+          "translit": "vmashaketa",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H4900"
+        },
+        {
+          "id": "judges-4-6-16",
+          "surface": "בְּהַ֣ר",
+          "lemma": "הַר",
+          "translit": "behar",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "judges-4-6-17",
+          "surface": "תָּב֔וֹר",
+          "lemma": "תָּבוֹר",
+          "translit": "tabvor",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H8396"
+        },
+        {
+          "id": "judges-4-6-18",
+          "surface": "וְלָקַחְתָּ֣",
+          "lemma": "לָקַח",
+          "translit": "velaqacheta",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "judges-4-6-19",
+          "surface": "עִמְּךָ֗",
+          "lemma": "עִם",
+          "translit": "`imeka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "judges-4-6-20",
+          "surface": "עֲשֶׂ֤רֶת",
+          "lemma": "עֶשֶׂר",
+          "translit": "`sheret",
+          "morph": "Adjective common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6235"
+        },
+        {
+          "id": "judges-4-6-21",
+          "surface": "אֲלָפִים֙",
+          "lemma": "אֶלֶף",
+          "translit": "'lapiym",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H505"
+        },
+        {
+          "id": "judges-4-6-22",
+          "surface": "אִ֔ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "judges-4-6-23",
+          "surface": "מִבְּנֵ֥י",
+          "lemma": "בֵּן",
+          "translit": "mibeney",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-6-24",
+          "surface": "נַפְתָּלִ֖י",
+          "lemma": "נַפְתָּלִי",
+          "translit": "napetaliy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5321"
+        },
+        {
+          "id": "judges-4-6-25",
+          "surface": "וּמִבְּנֵ֥י",
+          "lemma": "בֵּן",
+          "translit": "vmibeney",
+          "morph": "Conjunction + Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-6-26",
+          "surface": "זְבֻלֽוּן",
+          "lemma": "זְבוּלוּן",
+          "translit": "zebulvn",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2074"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:7",
+      "englishText": "I will draw to you, to the river Kishon, Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into your hand.’”  ",
+      "tokens": [
+        {
+          "id": "judges-4-7-0",
+          "surface": "וּמָשַׁכְתִּ֨י",
+          "lemma": "מָשַׁךְ",
+          "translit": "vmashaketiy",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H4900"
+        },
+        {
+          "id": "judges-4-7-1",
+          "surface": "אֵלֶ֜יךָ",
+          "lemma": "אֵל",
+          "translit": "'eleyka",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-7-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-7-3",
+          "surface": "נַ֣חַל",
+          "lemma": "נַחַל",
+          "translit": "nachal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5158"
+        },
+        {
+          "id": "judges-4-7-4",
+          "surface": "קִישׁ֗וֹן",
+          "lemma": "קִישׁוֹן",
+          "translit": "qiyshvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7028"
+        },
+        {
+          "id": "judges-4-7-5",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-7-6",
+          "surface": "סִֽיסְרָא֙",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-7-7",
+          "surface": "שַׂר",
+          "lemma": "שַׂר",
+          "translit": "shar",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8269"
+        },
+        {
+          "id": "judges-4-7-8",
+          "surface": "צְבָ֣א",
+          "lemma": "צָבָא",
+          "translit": "tseba'",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "judges-4-7-9",
+          "surface": "יָבִ֔ין",
+          "lemma": "יָבִין",
+          "translit": "yabiyn",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2985"
+        },
+        {
+          "id": "judges-4-7-10",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-7-11",
+          "surface": "רִכְבּ֖וֹ",
+          "lemma": "רֶכֶב",
+          "translit": "rikebvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7393"
+        },
+        {
+          "id": "judges-4-7-12",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-7-13",
+          "surface": "הֲמוֹנ֑וֹ",
+          "lemma": "הָמוֹן",
+          "translit": "hmvonvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1995"
+        },
+        {
+          "id": "judges-4-7-14",
+          "surface": "וּנְתַתִּ֖יהוּ",
+          "lemma": "נָתַן",
+          "translit": "vnetatiyhv",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "judges-4-7-15",
+          "surface": "בְּיָדֶֽךָ",
+          "lemma": "יָד",
+          "translit": "beyadeka",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3027"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:8",
+      "englishText": "  Barak said to her, “If you will go with me, then I will go; but if you will not go with me, I will not go.”  ",
+      "tokens": [
+        {
+          "id": "judges-4-8-0",
+          "surface": "וַיֹּ֤אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "judges-4-8-1",
+          "surface": "אֵלֶ֨יהָ֙",
+          "lemma": "אֵל",
+          "translit": "'eleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-8-2",
+          "surface": "בָּרָ֔ק",
+          "lemma": "בָּרָק",
+          "translit": "baraq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1301"
+        },
+        {
+          "id": "judges-4-8-3",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "judges-4-8-4",
+          "surface": "תֵּלְכִ֥י",
+          "lemma": "יָלַךְ",
+          "translit": "telekiy",
+          "morph": "Verb Qal Imperative 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "judges-4-8-5",
+          "surface": "עִמִּ֖י",
+          "lemma": "עִם",
+          "translit": "`imiy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "judges-4-8-6",
+          "surface": "וְהָלָ֑כְתִּי",
+          "lemma": "הָלַךְ",
+          "translit": "vehalaketiy",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "judges-4-8-7",
+          "surface": "וְאִם",
+          "lemma": "אִם",
+          "translit": "ve'im",
+          "morph": "Conjunction + Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "judges-4-8-8",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "judges-4-8-9",
+          "surface": "תֵלְכִ֛י",
+          "lemma": "יָלַךְ",
+          "translit": "telekiy",
+          "morph": "Verb Qal Imperative 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "judges-4-8-10",
+          "surface": "עִמִּ֖י",
+          "lemma": "עִם",
+          "translit": "`imiy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "judges-4-8-11",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "judges-4-8-12",
+          "surface": "אֵלֵֽךְ",
+          "lemma": "יָלַךְ",
+          "translit": "'eleke",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H3212"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:9",
+      "englishText": "  She said, “I will surely go with you: nevertheless, the journey that you take shall not be for your honor; for Yahweh will sell Sisera into the hand of a woman.” Deborah arose, and went with Barak to Kedesh.  ",
+      "tokens": [
+        {
+          "id": "judges-4-9-0",
+          "surface": "וַתֹּ֜אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "judges-4-9-1",
+          "surface": "הָלֹ֧ךְ",
+          "lemma": "הָלַךְ",
+          "translit": "haloke",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "judges-4-9-2",
+          "surface": "אֵלֵ֣ךְ",
+          "lemma": "יָלַךְ",
+          "translit": "'eleke",
+          "morph": "Verb Qal Imperative 1st common singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "judges-4-9-3",
+          "surface": "עִמָּ֗ךְ",
+          "lemma": "עִם",
+          "translit": "`imake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "judges-4-9-4",
+          "surface": "אֶ֚פֶס",
+          "lemma": "אֶפֶס",
+          "translit": "'epes",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H657"
+        },
+        {
+          "id": "judges-4-9-5",
+          "surface": "כִּי֩",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "judges-4-9-6",
+          "surface": "לֹ֨א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "judges-4-9-7",
+          "surface": "תִֽהְיֶ֜ה",
+          "lemma": "הָיָה",
+          "translit": "tiheyeh",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "judges-4-9-8",
+          "surface": "תִּֽפְאַרְתְּךָ֗",
+          "lemma": "תִּפְאָרָה",
+          "translit": "tipe'areteka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8597"
+        },
+        {
+          "id": "judges-4-9-9",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "judges-4-9-10",
+          "surface": "הַדֶּ֨רֶךְ֙",
+          "lemma": "דֶּרֶךְ",
+          "translit": "hadereke",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H1870"
+        },
+        {
+          "id": "judges-4-9-11",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "judges-4-9-12",
+          "surface": "אַתָּ֣ה",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "judges-4-9-13",
+          "surface": "הוֹלֵ֔ךְ",
+          "lemma": "הָלַךְ",
+          "translit": "hvoleke",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "judges-4-9-14",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "judges-4-9-15",
+          "surface": "בְֽיַד",
+          "lemma": "יָד",
+          "translit": "beyad",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "judges-4-9-16",
+          "surface": "אִשָּׁ֔ה",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "judges-4-9-17",
+          "surface": "יִמְכֹּ֥ר",
+          "lemma": "מָכַר",
+          "translit": "yimekor",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4376"
+        },
+        {
+          "id": "judges-4-9-18",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "judges-4-9-19",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-9-20",
+          "surface": "סִֽיסְרָ֑א",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-9-21",
+          "surface": "וַתָּ֧קָם",
+          "lemma": "קוּם",
+          "translit": "vataqam",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "judges-4-9-22",
+          "surface": "דְּבוֹרָ֛ה",
+          "lemma": "דְּבּוֹרָה",
+          "translit": "debvorah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1683"
+        },
+        {
+          "id": "judges-4-9-23",
+          "surface": "וַתֵּ֥לֶך",
+          "lemma": "יָלַךְ",
+          "translit": "vatelek",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "judges-4-9-24",
+          "surface": "עִם",
+          "lemma": "עִם",
+          "translit": "`im",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "judges-4-9-25",
+          "surface": "בָּרָ֖ק",
+          "lemma": "בָּרָק",
+          "translit": "baraq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1301"
+        },
+        {
+          "id": "judges-4-9-26",
+          "surface": "קֶֽדְשָׁה",
+          "lemma": "קֶדֶשׁ",
+          "translit": "qedeshah",
+          "morph": "Noun proper + Suffix dual",
+          "glosses": [],
+          "strongs": "H6943"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:10",
+      "englishText": "  Barak called Zebulun and Naphtali together to Kedesh; and there went up ten thousand men at his feet: and Deborah went up with him.",
+      "tokens": [
+        {
+          "id": "judges-4-10-0",
+          "surface": "וַיַּזְעֵ֨ק",
+          "lemma": "זָעַק",
+          "translit": "vayaze`eq",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2199"
+        },
+        {
+          "id": "judges-4-10-1",
+          "surface": "בָּרָ֜ק",
+          "lemma": "בָּרָק",
+          "translit": "baraq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1301"
+        },
+        {
+          "id": "judges-4-10-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-10-3",
+          "surface": "זְבוּלֻ֤ן",
+          "lemma": "זְבוּלוּן",
+          "translit": "zebvlun",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2074"
+        },
+        {
+          "id": "judges-4-10-4",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-10-5",
+          "surface": "נַפְתָּלִי֙",
+          "lemma": "נַפְתָּלִי",
+          "translit": "napetaliy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5321"
+        },
+        {
+          "id": "judges-4-10-6",
+          "surface": "קֶ֔דְשָׁה",
+          "lemma": "קֶדֶשׁ",
+          "translit": "qedeshah",
+          "morph": "Noun proper + Suffix dual",
+          "glosses": [],
+          "strongs": "H6943"
+        },
+        {
+          "id": "judges-4-10-7",
+          "surface": "וַיַּ֣עַל",
+          "lemma": "עָלָה",
+          "translit": "vaya`al",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "judges-4-10-8",
+          "surface": "בְּרַגְלָ֔יו",
+          "lemma": "רֶגֶל",
+          "translit": "beragelayv",
+          "morph": "Preposition + Noun common feminine dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7272"
+        },
+        {
+          "id": "judges-4-10-9",
+          "surface": "עֲשֶׂ֥רֶת",
+          "lemma": "עֶשֶׂר",
+          "translit": "`sheret",
+          "morph": "Adjective common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6235"
+        },
+        {
+          "id": "judges-4-10-10",
+          "surface": "אַלְפֵ֖י",
+          "lemma": "אֶלֶף",
+          "translit": "'alepey",
+          "morph": "Adjective common plural construct",
+          "glosses": [],
+          "strongs": "H505"
+        },
+        {
+          "id": "judges-4-10-11",
+          "surface": "אִ֑ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "judges-4-10-12",
+          "surface": "וַתַּ֥עַל",
+          "lemma": "עָלָה",
+          "translit": "vata`al",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "judges-4-10-13",
+          "surface": "עִמּ֖וֹ",
+          "lemma": "עִם",
+          "translit": "`imvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "judges-4-10-14",
+          "surface": "דְּבוֹרָֽה",
+          "lemma": "דְּבּוֹרָה",
+          "translit": "debvorah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1683"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:11",
+      "englishText": "Now Heber the Kenite had separated himself from the Kenites, even from the children of Hobab the brother-in-law of Moses, and had pitched his tent as far as the oak in Zaanannim, which is by Kedesh.",
+      "tokens": [
+        {
+          "id": "judges-4-11-0",
+          "surface": "וְחֶ֤בֶר",
+          "lemma": "חֶבֶר",
+          "translit": "vecheber",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H2268"
+        },
+        {
+          "id": "judges-4-11-1",
+          "surface": "הַקֵּינִי֙",
+          "lemma": "קֵינִי",
+          "translit": "haqeyniy",
+          "morph": "Particle dual + Noun gentilic masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7017"
+        },
+        {
+          "id": "judges-4-11-2",
+          "surface": "נִפְרָ֣ד",
+          "lemma": "פָּרַד",
+          "translit": "niperad",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H6504"
+        },
+        {
+          "id": "judges-4-11-3",
+          "surface": "מִקַּ֔יִן",
+          "lemma": "קֵינִי",
+          "translit": "miqayin",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H7017"
+        },
+        {
+          "id": "judges-4-11-4",
+          "surface": "מִבְּנֵ֥י",
+          "lemma": "בֵּן",
+          "translit": "mibeney",
+          "morph": "Preposition + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-11-5",
+          "surface": "חֹבָ֖ב",
+          "lemma": "חֹבָב",
+          "translit": "chobab",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2246"
+        },
+        {
+          "id": "judges-4-11-6",
+          "surface": "חֹתֵ֣ן",
+          "lemma": "חָתַן",
+          "translit": "choten",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H2859"
+        },
+        {
+          "id": "judges-4-11-7",
+          "surface": "מֹשֶׁ֑ה",
+          "lemma": "מֹשֶׁה",
+          "translit": "mosheh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H4872"
+        },
+        {
+          "id": "judges-4-11-8",
+          "surface": "וַיֵּ֣ט",
+          "lemma": "נָטָה",
+          "translit": "vayet",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5186"
+        },
+        {
+          "id": "judges-4-11-9",
+          "surface": "אָהֳל֔וֹ",
+          "lemma": "אֹהֶל",
+          "translit": "'ahlvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H168"
+        },
+        {
+          "id": "judges-4-11-10",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "judges-4-11-11",
+          "surface": "אֵל֥וֹן",
+          "lemma": "אֵלוֹן",
+          "translit": "'elvon",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H436"
+        },
+        {
+          "id": "judges-4-11-12",
+          "surface": "בצענים",
+          "lemma": "צַעֲנַנִּים",
+          "translit": "bts`nym",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6815"
+        },
+        {
+          "id": "judges-4-11-13",
+          "surface": "בְּצַעֲנַנִּ֖ים",
+          "lemma": "צַעֲנַנִּים",
+          "translit": "betsa`naniym",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6815"
+        },
+        {
+          "id": "judges-4-11-14",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "judges-4-11-15",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "judges-4-11-16",
+          "surface": "קֶֽדֶשׁ",
+          "lemma": "קֶדֶשׁ",
+          "translit": "qedesh",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6943"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:12",
+      "englishText": "They told Sisera that Barak the son of Abinoam was gone up to Mount Tabor.",
+      "tokens": [
+        {
+          "id": "judges-4-12-0",
+          "surface": "וַיַּגִּ֖דוּ",
+          "lemma": "נָגַד",
+          "translit": "vayagidv",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H5046"
+        },
+        {
+          "id": "judges-4-12-1",
+          "surface": "לְסִֽיסְרָ֑א",
+          "lemma": "סִיסְרָא",
+          "translit": "lesiysera'",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-12-2",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "judges-4-12-3",
+          "surface": "עָלָ֛ה",
+          "lemma": "עָלָה",
+          "translit": "`alah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "judges-4-12-4",
+          "surface": "בָּרָ֥ק",
+          "lemma": "בָּרָק",
+          "translit": "baraq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1301"
+        },
+        {
+          "id": "judges-4-12-5",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-12-6",
+          "surface": "אֲבִינֹ֖עַם",
+          "lemma": "אֲבִינֹעַם",
+          "translit": "'biyno`am",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H42"
+        },
+        {
+          "id": "judges-4-12-7",
+          "surface": "הַר",
+          "lemma": "הַר",
+          "translit": "har",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "judges-4-12-8",
+          "surface": "תָּבֽוֹר",
+          "lemma": "תָּבוֹר",
+          "translit": "tabvor",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H8396"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:13",
+      "englishText": "Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people who were with him, from Harosheth of the Gentiles, to the river Kishon.  ",
+      "tokens": [
+        {
+          "id": "judges-4-13-0",
+          "surface": "וַיַּזְעֵ֨ק",
+          "lemma": "זָעַק",
+          "translit": "vayaze`eq",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2199"
+        },
+        {
+          "id": "judges-4-13-1",
+          "surface": "סִֽיסְרָ֜א",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-13-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-13-3",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "judges-4-13-4",
+          "surface": "רִכְבּ֗וֹ",
+          "lemma": "רֶכֶב",
+          "translit": "rikebvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7393"
+        },
+        {
+          "id": "judges-4-13-5",
+          "surface": "תְּשַׁ֤ע",
+          "lemma": "תֵּשַׁע",
+          "translit": "tesha`",
+          "morph": "Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8672"
+        },
+        {
+          "id": "judges-4-13-6",
+          "surface": "מֵאוֹת֙",
+          "lemma": "מֵאָה",
+          "translit": "me'vot",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H3967"
+        },
+        {
+          "id": "judges-4-13-7",
+          "surface": "רֶ֣כֶב",
+          "lemma": "רֶכֶב",
+          "translit": "rekeb",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H7393"
+        },
+        {
+          "id": "judges-4-13-8",
+          "surface": "בַּרְזֶ֔ל",
+          "lemma": "בַּרְזֶל",
+          "translit": "barezel",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1270"
+        },
+        {
+          "id": "judges-4-13-9",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-13-10",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "judges-4-13-11",
+          "surface": "הָעָ֖ם",
+          "lemma": "עַם",
+          "translit": "ha`am",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5971"
+        },
+        {
+          "id": "judges-4-13-12",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "judges-4-13-13",
+          "surface": "אִתּ֑וֹ",
+          "lemma": "אֵת",
+          "translit": "'itvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "judges-4-13-14",
+          "surface": "מֵחֲרֹ֥שֶׁת",
+          "lemma": "חֲרֹשֶׁת",
+          "translit": "mechroshet",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H2800"
+        },
+        {
+          "id": "judges-4-13-15",
+          "surface": "הַגּוֹיִ֖ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "judges-4-13-16",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-13-17",
+          "surface": "נַ֥חַל",
+          "lemma": "נַחַל",
+          "translit": "nachal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5158"
+        },
+        {
+          "id": "judges-4-13-18",
+          "surface": "קִישֽׁוֹן",
+          "lemma": "קִישׁוֹן",
+          "translit": "qiyshvon",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7028"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:14",
+      "englishText": "  Deborah said to Barak, “Go; for this is the day in which Yahweh has delivered Sisera into your hand. Hasn’t Yahweh gone out before you?” So Barak went down from Mount Tabor, and ten thousand men after him.",
+      "tokens": [
+        {
+          "id": "judges-4-14-0",
+          "surface": "וַתֹּאמֶר֩",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "judges-4-14-1",
+          "surface": "דְּבֹרָ֨ה",
+          "lemma": "דְּבּוֹרָה",
+          "translit": "deborah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1683"
+        },
+        {
+          "id": "judges-4-14-2",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-14-3",
+          "surface": "בָּרָ֜ק",
+          "lemma": "בָּרָק",
+          "translit": "baraq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1301"
+        },
+        {
+          "id": "judges-4-14-4",
+          "surface": "ק֗וּם",
+          "lemma": "קוּם",
+          "translit": "qvm",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "judges-4-14-5",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "judges-4-14-6",
+          "surface": "זֶ֤ה",
+          "lemma": "זֶה",
+          "translit": "zeh",
+          "morph": "Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "judges-4-14-7",
+          "surface": "הַיּוֹם֙",
+          "lemma": "יוֹם",
+          "translit": "hayvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "judges-4-14-8",
+          "surface": "אֲשֶׁר֩",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "judges-4-14-9",
+          "surface": "נָתַ֨ן",
+          "lemma": "נָתַן",
+          "translit": "natan",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "judges-4-14-10",
+          "surface": "יְהוָ֤ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "judges-4-14-11",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-14-12",
+          "surface": "סִֽיסְרָא֙",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-14-13",
+          "surface": "בְּיָדֶ֔ךָ",
+          "lemma": "יָד",
+          "translit": "beyadeka",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "judges-4-14-14",
+          "surface": "הֲלֹ֥א",
+          "lemma": "לֹא",
+          "translit": "hlo'",
+          "morph": "Particle + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "judges-4-14-15",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "judges-4-14-16",
+          "surface": "יָצָ֣א",
+          "lemma": "יָצָא",
+          "translit": "yatsa'",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "judges-4-14-17",
+          "surface": "לְפָנֶ֑יךָ",
+          "lemma": "פָּנִים",
+          "translit": "lepaneyka",
+          "morph": "Preposition + Noun common plural construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "judges-4-14-18",
+          "surface": "וַיֵּ֤רֶד",
+          "lemma": "יָרַד",
+          "translit": "vayered",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "judges-4-14-19",
+          "surface": "בָּרָק֙",
+          "lemma": "בָּרָק",
+          "translit": "baraq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1301"
+        },
+        {
+          "id": "judges-4-14-20",
+          "surface": "מֵהַ֣ר",
+          "lemma": "הַר",
+          "translit": "mehar",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "judges-4-14-21",
+          "surface": "תָּב֔וֹר",
+          "lemma": "תָּבוֹר",
+          "translit": "tabvor",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H8396"
+        },
+        {
+          "id": "judges-4-14-22",
+          "surface": "וַעֲשֶׂ֧רֶת",
+          "lemma": "עֶשֶׂר",
+          "translit": "va`sheret",
+          "morph": "Conjunction + Adjective common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6235"
+        },
+        {
+          "id": "judges-4-14-23",
+          "surface": "אֲלָפִ֛ים",
+          "lemma": "אֶלֶף",
+          "translit": "'lapiym",
+          "morph": "Adjective common plural absolute",
+          "glosses": [],
+          "strongs": "H505"
+        },
+        {
+          "id": "judges-4-14-24",
+          "surface": "אִ֖ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "judges-4-14-25",
+          "surface": "אַחֲרָֽיו",
+          "lemma": "אַחַר",
+          "translit": "'achrayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H310"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:15",
+      "englishText": "Yahweh confused Sisera, and all his chariots, and all his army, with the edge of the sword before Barak; and Sisera alighted from his chariot, and fled away on his feet.",
+      "tokens": [
+        {
+          "id": "judges-4-15-0",
+          "surface": "וַיָּ֣הָם",
+          "lemma": "הָמַם",
+          "translit": "vayaham",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2000"
+        },
+        {
+          "id": "judges-4-15-1",
+          "surface": "יְ֠הוָה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "judges-4-15-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-15-3",
+          "surface": "סִֽיסְרָ֨א",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-15-4",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-15-5",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "judges-4-15-6",
+          "surface": "הָרֶ֧כֶב",
+          "lemma": "רֶכֶב",
+          "translit": "harekeb",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7393"
+        },
+        {
+          "id": "judges-4-15-7",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-15-8",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "judges-4-15-9",
+          "surface": "הַֽמַּחֲנֶ֛ה",
+          "lemma": "מַחֲנֶה",
+          "translit": "hamachneh",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H4264"
+        },
+        {
+          "id": "judges-4-15-10",
+          "surface": "לְפִי",
+          "lemma": "פֶּה",
+          "translit": "lepiy",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6310"
+        },
+        {
+          "id": "judges-4-15-11",
+          "surface": "חֶ֖רֶב",
+          "lemma": "חֶרֶב",
+          "translit": "chereb",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "judges-4-15-12",
+          "surface": "לִפְנֵ֣י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "judges-4-15-13",
+          "surface": "בָרָ֑ק",
+          "lemma": "בָּרָק",
+          "translit": "baraq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1301"
+        },
+        {
+          "id": "judges-4-15-14",
+          "surface": "וַיֵּ֧רֶד",
+          "lemma": "יָרַד",
+          "translit": "vayered",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3381"
+        },
+        {
+          "id": "judges-4-15-15",
+          "surface": "סִֽיסְרָ֛א",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-15-16",
+          "surface": "מֵעַ֥ל",
+          "lemma": "עַל",
+          "translit": "me`al",
+          "morph": "Preposition + Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "judges-4-15-17",
+          "surface": "הַמֶּרְכָּבָ֖ה",
+          "lemma": "מֶרְכָּבָה",
+          "translit": "hamerekabah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4818"
+        },
+        {
+          "id": "judges-4-15-18",
+          "surface": "וַיָּ֥נָס",
+          "lemma": "נוּס",
+          "translit": "vayanas",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5127"
+        },
+        {
+          "id": "judges-4-15-19",
+          "surface": "בְּרַגְלָֽיו",
+          "lemma": "רֶגֶל",
+          "translit": "beragelayv",
+          "morph": "Preposition + Noun common feminine dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7272"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:16",
+      "englishText": "But Barak pursued after the chariots, and after the army, to Harosheth of the Gentiles: and all the army of Sisera fell by the edge of the sword; there was not a man left.  ",
+      "tokens": [
+        {
+          "id": "judges-4-16-0",
+          "surface": "וּבָרָ֗ק",
+          "lemma": "בָּרָק",
+          "translit": "vbaraq",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H1301"
+        },
+        {
+          "id": "judges-4-16-1",
+          "surface": "רָדַ֞ף",
+          "lemma": "רָדַף",
+          "translit": "radap",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7291"
+        },
+        {
+          "id": "judges-4-16-2",
+          "surface": "אַחֲרֵ֤י",
+          "lemma": "אַחַר",
+          "translit": "'achrey",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "judges-4-16-3",
+          "surface": "הָרֶ֨כֶב֙",
+          "lemma": "רֶכֶב",
+          "translit": "harekeb",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7393"
+        },
+        {
+          "id": "judges-4-16-4",
+          "surface": "וְאַחֲרֵ֣י",
+          "lemma": "אַחַר",
+          "translit": "ve'achrey",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "judges-4-16-5",
+          "surface": "הַֽמַּחֲנֶ֔ה",
+          "lemma": "מַחֲנֶה",
+          "translit": "hamachneh",
+          "morph": "Particle dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H4264"
+        },
+        {
+          "id": "judges-4-16-6",
+          "surface": "עַ֖ד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "judges-4-16-7",
+          "surface": "חֲרֹ֣שֶׁת",
+          "lemma": "חֲרֹשֶׁת",
+          "translit": "chroshet",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2800"
+        },
+        {
+          "id": "judges-4-16-8",
+          "surface": "הַגּוֹיִ֑ם",
+          "lemma": "גּוֹי",
+          "translit": "hagvoyim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1471"
+        },
+        {
+          "id": "judges-4-16-9",
+          "surface": "וַיִּפֹּ֞ל",
+          "lemma": "נָפַל",
+          "translit": "vayipol",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "judges-4-16-10",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "judges-4-16-11",
+          "surface": "מַחֲנֵ֤ה",
+          "lemma": "מַחֲנֶה",
+          "translit": "machneh",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H4264"
+        },
+        {
+          "id": "judges-4-16-12",
+          "surface": "סִֽיסְרָא֙",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-16-13",
+          "surface": "לְפִי",
+          "lemma": "פֶּה",
+          "translit": "lepiy",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6310"
+        },
+        {
+          "id": "judges-4-16-14",
+          "surface": "חֶ֔רֶב",
+          "lemma": "חֶרֶב",
+          "translit": "chereb",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H2719"
+        },
+        {
+          "id": "judges-4-16-15",
+          "surface": "לֹ֥א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "judges-4-16-16",
+          "surface": "נִשְׁאַ֖ר",
+          "lemma": "שָׁאַר",
+          "translit": "nishe'ar",
+          "morph": "Verb Niphal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7604"
+        },
+        {
+          "id": "judges-4-16-17",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "judges-4-16-18",
+          "surface": "אֶחָֽד",
+          "lemma": "אֶחָד",
+          "translit": "'echad",
+          "morph": "Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H259"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:17",
+      "englishText": "  However Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite; for there was peace between Jabin the king of Hazor and the house of Heber the Kenite.",
+      "tokens": [
+        {
+          "id": "judges-4-17-0",
+          "surface": "וְסִֽיסְרָא֙",
+          "lemma": "סִיסְרָא",
+          "translit": "vesiysera'",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-17-1",
+          "surface": "נָ֣ס",
+          "lemma": "נוּס",
+          "translit": "nas",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5127"
+        },
+        {
+          "id": "judges-4-17-2",
+          "surface": "בְּרַגְלָ֔יו",
+          "lemma": "רֶגֶל",
+          "translit": "beragelayv",
+          "morph": "Preposition + Noun common feminine dual construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7272"
+        },
+        {
+          "id": "judges-4-17-3",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-17-4",
+          "surface": "אֹ֣הֶל",
+          "lemma": "אֹהֶל",
+          "translit": "'ohel",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H168"
+        },
+        {
+          "id": "judges-4-17-5",
+          "surface": "יָעֵ֔ל",
+          "lemma": "יָעֵל",
+          "translit": "ya`el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3278"
+        },
+        {
+          "id": "judges-4-17-6",
+          "surface": "אֵ֖שֶּׁת",
+          "lemma": "אִשָּׁה",
+          "translit": "'eshet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "judges-4-17-7",
+          "surface": "חֶ֣בֶר",
+          "lemma": "חֶבֶר",
+          "translit": "cheber",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2268"
+        },
+        {
+          "id": "judges-4-17-8",
+          "surface": "הַקֵּינִ֑י",
+          "lemma": "קֵינִי",
+          "translit": "haqeyniy",
+          "morph": "Particle dual + Noun gentilic masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7017"
+        },
+        {
+          "id": "judges-4-17-9",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "judges-4-17-10",
+          "surface": "שָׁל֗וֹם",
+          "lemma": "שָׁלוֹם",
+          "translit": "shalvom",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7965"
+        },
+        {
+          "id": "judges-4-17-11",
+          "surface": "בֵּ֚ין",
+          "lemma": "בֵּין",
+          "translit": "beyn",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H996"
+        },
+        {
+          "id": "judges-4-17-12",
+          "surface": "יָבִ֣ין",
+          "lemma": "יָבִין",
+          "translit": "yabiyn",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2985"
+        },
+        {
+          "id": "judges-4-17-13",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "judges-4-17-14",
+          "surface": "חָצ֔וֹר",
+          "lemma": "חָצוֹר",
+          "translit": "chatsvor",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2674"
+        },
+        {
+          "id": "judges-4-17-15",
+          "surface": "וּבֵ֕ין",
+          "lemma": "בֵּין",
+          "translit": "vbeyn",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H996"
+        },
+        {
+          "id": "judges-4-17-16",
+          "surface": "בֵּ֖ית",
+          "lemma": "בַּיִת",
+          "translit": "beyt",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "judges-4-17-17",
+          "surface": "חֶ֥בֶר",
+          "lemma": "חֶבֶר",
+          "translit": "cheber",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2268"
+        },
+        {
+          "id": "judges-4-17-18",
+          "surface": "הַקֵּינִֽי",
+          "lemma": "קֵינִי",
+          "translit": "haqeyniy",
+          "morph": "Particle dual + Noun gentilic masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7017"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:18",
+      "englishText": "Jael went out to meet Sisera, and said to him, “Turn in, my lord, turn in to me; don’t be afraid.” He came in to her into the tent, and she covered him with a rug.  ",
+      "tokens": [
+        {
+          "id": "judges-4-18-0",
+          "surface": "וַתֵּצֵ֣א",
+          "lemma": "יָצָא",
+          "translit": "vatetse'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "judges-4-18-1",
+          "surface": "יָעֵל֮",
+          "lemma": "יָעֵל",
+          "translit": "ya`el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3278"
+        },
+        {
+          "id": "judges-4-18-2",
+          "surface": "לִקְרַ֣את",
+          "lemma": "קִרְאָה",
+          "translit": "liqera't",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7125"
+        },
+        {
+          "id": "judges-4-18-3",
+          "surface": "סִֽיסְרָא֒",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-18-4",
+          "surface": "וַתֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "judges-4-18-5",
+          "surface": "אֵלָ֗יו",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-18-6",
+          "surface": "סוּרָ֧ה",
+          "lemma": "סוּר",
+          "translit": "svrah",
+          "morph": "Verb Qal Weqatal 2nd masculine singular + Suffix",
+          "glosses": [],
+          "strongs": "H5493"
+        },
+        {
+          "id": "judges-4-18-7",
+          "surface": "אֲדֹנִ֛י",
+          "lemma": "אָדוֹן",
+          "translit": "'doniy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H113"
+        },
+        {
+          "id": "judges-4-18-8",
+          "surface": "סוּרָ֥ה",
+          "lemma": "סוּר",
+          "translit": "svrah",
+          "morph": "Verb Qal Weqatal 2nd masculine singular + Suffix",
+          "glosses": [],
+          "strongs": "H5493"
+        },
+        {
+          "id": "judges-4-18-9",
+          "surface": "אֵלַ֖י",
+          "lemma": "אֵל",
+          "translit": "'elay",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-18-10",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "judges-4-18-11",
+          "surface": "תִּירָ֑א",
+          "lemma": "יָרֵא",
+          "translit": "tiyra'",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3372"
+        },
+        {
+          "id": "judges-4-18-12",
+          "surface": "וַיָּ֤סַר",
+          "lemma": "סוּר",
+          "translit": "vayasar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5493"
+        },
+        {
+          "id": "judges-4-18-13",
+          "surface": "אֵלֶ֨יהָ֙",
+          "lemma": "אֵל",
+          "translit": "'eleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-18-14",
+          "surface": "הָאֹ֔הֱלָה",
+          "lemma": "אֹהֶל",
+          "translit": "ha'ohlah",
+          "morph": "Particle dual + Noun common masculine singular absolute + Suffix dual",
+          "glosses": [],
+          "strongs": "H168"
+        },
+        {
+          "id": "judges-4-18-15",
+          "surface": "וַתְּכַסֵּ֖הוּ",
+          "lemma": "כָּסָה",
+          "translit": "vatekasehv",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3680"
+        },
+        {
+          "id": "judges-4-18-16",
+          "surface": "בַּשְּׂמִיכָֽה",
+          "lemma": "שְׂמִיכָה",
+          "translit": "bashemiykah",
+          "morph": "Preposition dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8063"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:19",
+      "englishText": "  He said to her, “Please give me a little water to drink; for I am thirsty.”   She opened a bottle of milk, and gave him drink, and covered him.  ",
+      "tokens": [
+        {
+          "id": "judges-4-19-0",
+          "surface": "וַיֹּ֧אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "judges-4-19-1",
+          "surface": "אֵלֶ֛יהָ",
+          "lemma": "אֵל",
+          "translit": "'eleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-19-2",
+          "surface": "הַשְׁקִינִי",
+          "lemma": "שָׁקָה",
+          "translit": "hasheqiyniy",
+          "morph": "Verb Hiphil Weqatal 2nd feminine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H8248"
+        },
+        {
+          "id": "judges-4-19-3",
+          "surface": "נָ֥א",
+          "lemma": "נָא",
+          "translit": "na'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4994"
+        },
+        {
+          "id": "judges-4-19-4",
+          "surface": "מְעַט",
+          "lemma": "מְעַט",
+          "translit": "me`at",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4592"
+        },
+        {
+          "id": "judges-4-19-5",
+          "surface": "מַ֖יִם",
+          "lemma": "מַיִם",
+          "translit": "mayim",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H4325"
+        },
+        {
+          "id": "judges-4-19-6",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "judges-4-19-7",
+          "surface": "צָמֵ֑אתִי",
+          "lemma": "צָמֵא",
+          "translit": "tsame'tiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H6770"
+        },
+        {
+          "id": "judges-4-19-8",
+          "surface": "וַתִּפְתַּ֞ח",
+          "lemma": "פָּתַח",
+          "translit": "vatipetach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6605"
+        },
+        {
+          "id": "judges-4-19-9",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-19-10",
+          "surface": "נֹ֧אוד",
+          "lemma": "נֹאד",
+          "translit": "no'vd",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4997"
+        },
+        {
+          "id": "judges-4-19-11",
+          "surface": "הֶחָלָ֛ב",
+          "lemma": "חָלָב",
+          "translit": "hechalab",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2461"
+        },
+        {
+          "id": "judges-4-19-12",
+          "surface": "וַתַּשְׁקֵ֖הוּ",
+          "lemma": "שָׁקָה",
+          "translit": "vatasheqehv",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8248"
+        },
+        {
+          "id": "judges-4-19-13",
+          "surface": "וַתְּכַסֵּֽהוּ",
+          "lemma": "כָּסָה",
+          "translit": "vatekasehv",
+          "morph": "Conjunction + Verb Piel Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3680"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:20",
+      "englishText": "  He said to her, “Stand in the door of the tent, and it shall be, when any man comes and inquires of you, and says, ‘Is there any man here?’ that you shall say, ‘No.’”  ",
+      "tokens": [
+        {
+          "id": "judges-4-20-0",
+          "surface": "וַיֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "judges-4-20-1",
+          "surface": "אֵלֶ֔יהָ",
+          "lemma": "אֵל",
+          "translit": "'eleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-20-2",
+          "surface": "עֲמֹ֖ד",
+          "lemma": "עָמַד",
+          "translit": "`mod",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5975"
+        },
+        {
+          "id": "judges-4-20-3",
+          "surface": "פֶּ֣תַח",
+          "lemma": "פֶּתַח",
+          "translit": "petach",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6607"
+        },
+        {
+          "id": "judges-4-20-4",
+          "surface": "הָאֹ֑הֶל",
+          "lemma": "אֹהֶל",
+          "translit": "ha'ohel",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H168"
+        },
+        {
+          "id": "judges-4-20-5",
+          "surface": "וְהָיָה֩",
+          "lemma": "הָיָה",
+          "translit": "vehayah",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "judges-4-20-6",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "judges-4-20-7",
+          "surface": "אִ֨ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "judges-4-20-8",
+          "surface": "יָב֜וֹא",
+          "lemma": "בּוֹא",
+          "translit": "yabvo'",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "judges-4-20-9",
+          "surface": "וּשְׁאֵלֵ֗ךְ",
+          "lemma": "שָׁאַל",
+          "translit": "vshe'eleke",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7592"
+        },
+        {
+          "id": "judges-4-20-10",
+          "surface": "וְאָמַ֛ר",
+          "lemma": "אָמַר",
+          "translit": "ve'amar",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "judges-4-20-11",
+          "surface": "הֲיֵֽשׁ",
+          "lemma": "יֵשׁ",
+          "translit": "hyesh",
+          "morph": "Particle + Particle masculine",
+          "glosses": [],
+          "strongs": "H3426"
+        },
+        {
+          "id": "judges-4-20-12",
+          "surface": "פֹּ֥ה",
+          "lemma": "פֹּה",
+          "translit": "poh",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H6311"
+        },
+        {
+          "id": "judges-4-20-13",
+          "surface": "אִ֖ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "judges-4-20-14",
+          "surface": "וְאָמַ֥רְתְּ",
+          "lemma": "אָמַר",
+          "translit": "ve'amarete",
+          "morph": "Conjunction + Verb Qal Perfect 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "judges-4-20-15",
+          "surface": "אָֽיִן",
+          "lemma": "אַיִן",
+          "translit": "'ayin",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:21",
+      "englishText": "  Then Jael Heber’s wife took a tent peg, and took a hammer in her hand, and went softly to him, and struck the pin into his temples, and it pierced through into the ground; for he was in a deep sleep; so he swooned and died.",
+      "tokens": [
+        {
+          "id": "judges-4-21-0",
+          "surface": "וַתִּקַּ֣ח",
+          "lemma": "לָקַח",
+          "translit": "vatiqach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3947"
+        },
+        {
+          "id": "judges-4-21-1",
+          "surface": "יָעֵ֣ל",
+          "lemma": "יָעֵל",
+          "translit": "ya`el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3278"
+        },
+        {
+          "id": "judges-4-21-2",
+          "surface": "אֵֽשֶׁת",
+          "lemma": "אִשָּׁה",
+          "translit": "'eshet",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "judges-4-21-3",
+          "surface": "חֶ֠בֶר",
+          "lemma": "חֶבֶר",
+          "translit": "cheber",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2268"
+        },
+        {
+          "id": "judges-4-21-4",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-21-5",
+          "surface": "יְתַ֨ד",
+          "lemma": "יָתֵד",
+          "translit": "yetad",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H3489"
+        },
+        {
+          "id": "judges-4-21-6",
+          "surface": "הָאֹ֜הֶל",
+          "lemma": "אֹהֶל",
+          "translit": "ha'ohel",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H168"
+        },
+        {
+          "id": "judges-4-21-7",
+          "surface": "וַתָּ֧שֶׂם",
+          "lemma": "שׂוּם",
+          "translit": "vatashem",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7760"
+        },
+        {
+          "id": "judges-4-21-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-21-9",
+          "surface": "הַמַּקֶּ֣בֶת",
+          "lemma": "מַקֶּבֶת",
+          "translit": "hamaqebet",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4718"
+        },
+        {
+          "id": "judges-4-21-10",
+          "surface": "בְּיָדָ֗הּ",
+          "lemma": "יָד",
+          "translit": "beyadah",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "judges-4-21-11",
+          "surface": "וַתָּב֤וֹא",
+          "lemma": "בּוֹא",
+          "translit": "vatabvo'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "judges-4-21-12",
+          "surface": "אֵלָיו֙",
+          "lemma": "אֵל",
+          "translit": "'elayv",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-21-13",
+          "surface": "בַּלָּ֔אט",
+          "lemma": "לָאט",
+          "translit": "bala't",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3814"
+        },
+        {
+          "id": "judges-4-21-14",
+          "surface": "וַתִּתְקַ֤ע",
+          "lemma": "תָּקַע",
+          "translit": "vatiteqa`",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H8628"
+        },
+        {
+          "id": "judges-4-21-15",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-21-16",
+          "surface": "הַיָּתֵד֙",
+          "lemma": "יָתֵד",
+          "translit": "hayated",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H3489"
+        },
+        {
+          "id": "judges-4-21-17",
+          "surface": "בְּרַקָּת֔וֹ",
+          "lemma": "רַקָּה",
+          "translit": "beraqatvo",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7541"
+        },
+        {
+          "id": "judges-4-21-18",
+          "surface": "וַתִּצְנַ֖ח",
+          "lemma": "צָנַח",
+          "translit": "vatitsenach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6795"
+        },
+        {
+          "id": "judges-4-21-19",
+          "surface": "בָּאָ֑רֶץ",
+          "lemma": "אֶרֶץ",
+          "translit": "ba'arets",
+          "morph": "Preposition dual + Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H776"
+        },
+        {
+          "id": "judges-4-21-20",
+          "surface": "וְהֽוּא",
+          "lemma": "הוּא",
+          "translit": "vehv'",
+          "morph": "Conjunction + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "judges-4-21-21",
+          "surface": "נִרְדָּ֥ם",
+          "lemma": "רָדַם",
+          "translit": "niredam",
+          "morph": "Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H7290"
+        },
+        {
+          "id": "judges-4-21-22",
+          "surface": "וַיָּ֖עַף",
+          "lemma": "עוּף",
+          "translit": "vaya`ap",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5774"
+        },
+        {
+          "id": "judges-4-21-23",
+          "surface": "וַיָּמֹֽת",
+          "lemma": "מוּת",
+          "translit": "vayamot",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H4191"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:22",
+      "englishText": "Behold, as Barak pursued Sisera, Jael came out to meet him, and said to him, “Come, and I will show you the man whom you seek.” He came to her; and behold, Sisera lay dead, and the tent peg was in his temples.",
+      "tokens": [
+        {
+          "id": "judges-4-22-0",
+          "surface": "וְהִנֵּ֣ה",
+          "lemma": "הִנֵּה",
+          "translit": "vehineh",
+          "morph": "Conjunction + Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "judges-4-22-1",
+          "surface": "בָרָק֮",
+          "lemma": "בָּרָק",
+          "translit": "baraq",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H1301"
+        },
+        {
+          "id": "judges-4-22-2",
+          "surface": "רֹדֵ֣ף",
+          "lemma": "רָדַף",
+          "translit": "rodep",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H7291"
+        },
+        {
+          "id": "judges-4-22-3",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-22-4",
+          "surface": "סִֽיסְרָא֒",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-22-5",
+          "surface": "וַתֵּצֵ֤א",
+          "lemma": "יָצָא",
+          "translit": "vatetse'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3318"
+        },
+        {
+          "id": "judges-4-22-6",
+          "surface": "יָעֵל֙",
+          "lemma": "יָעֵל",
+          "translit": "ya`el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3278"
+        },
+        {
+          "id": "judges-4-22-7",
+          "surface": "לִקְרָאת֔וֹ",
+          "lemma": "קִרְאָה",
+          "translit": "liqera'tvo",
+          "morph": "Preposition + Verb Qal Infinitive Construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7125"
+        },
+        {
+          "id": "judges-4-22-8",
+          "surface": "וַתֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "judges-4-22-9",
+          "surface": "ל֔וֹ",
+          "lemma": "ל֔וֹ",
+          "translit": "lvo",
+          "morph": "Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "judges-4-22-10",
+          "surface": "לֵ֣ךְ",
+          "lemma": "יָלַךְ",
+          "translit": "leke",
+          "morph": "Verb Qal Weqatal 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "judges-4-22-11",
+          "surface": "וְאַרְאֶ֔ךָּ",
+          "lemma": "רָאָה",
+          "translit": "ve'are'eka",
+          "morph": "Conjunction + Verb Hiphil Cohortative 1st common singular + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "judges-4-22-12",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-22-13",
+          "surface": "הָאִ֖ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "ha'iysh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "judges-4-22-14",
+          "surface": "אֲשֶׁר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "judges-4-22-15",
+          "surface": "אַתָּ֣ה",
+          "lemma": "אַתָּה",
+          "translit": "'atah",
+          "morph": "Pronoun plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H859"
+        },
+        {
+          "id": "judges-4-22-16",
+          "surface": "מְבַקֵּ֑שׁ",
+          "lemma": "בָּקַשׁ",
+          "translit": "mebaqesh",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H1245"
+        },
+        {
+          "id": "judges-4-22-17",
+          "surface": "וַיָּבֹ֣א",
+          "lemma": "בּוֹא",
+          "translit": "vayabo'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "judges-4-22-18",
+          "surface": "אֵלֶ֔יהָ",
+          "lemma": "אֵל",
+          "translit": "'eleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "judges-4-22-19",
+          "surface": "וְהִנֵּ֤ה",
+          "lemma": "הִנֵּה",
+          "translit": "vehineh",
+          "morph": "Conjunction + Particle masculine",
+          "glosses": [],
+          "strongs": "H2009"
+        },
+        {
+          "id": "judges-4-22-20",
+          "surface": "סִֽיסְרָא֙",
+          "lemma": "סִיסְרָא",
+          "translit": "siysera'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5516"
+        },
+        {
+          "id": "judges-4-22-21",
+          "surface": "נֹפֵ֣ל",
+          "lemma": "נָפַל",
+          "translit": "nopel",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5307"
+        },
+        {
+          "id": "judges-4-22-22",
+          "surface": "מֵ֔ת",
+          "lemma": "מוּת",
+          "translit": "met",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H4191"
+        },
+        {
+          "id": "judges-4-22-23",
+          "surface": "וְהַיָּתֵ֖ד",
+          "lemma": "יָתֵד",
+          "translit": "vehayated",
+          "morph": "Conjunction + Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H3489"
+        },
+        {
+          "id": "judges-4-22-24",
+          "surface": "בְּרַקָּתֽוֹ",
+          "lemma": "רַקָּה",
+          "translit": "beraqatvo",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7541"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:23",
+      "englishText": "So God subdued on that day Jabin the king of Canaan before the children of Israel.",
+      "tokens": [
+        {
+          "id": "judges-4-23-0",
+          "surface": "וַיַּכְנַ֤ע",
+          "lemma": "כָּנַע",
+          "translit": "vayakena`",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3665"
+        },
+        {
+          "id": "judges-4-23-1",
+          "surface": "אֱלֹהִים֙",
+          "lemma": "אֱלֹהִים",
+          "translit": "'lohiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "judges-4-23-2",
+          "surface": "בַּיּ֣וֹם",
+          "lemma": "יוֹם",
+          "translit": "bayvom",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "judges-4-23-3",
+          "surface": "הַה֔וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "judges-4-23-4",
+          "surface": "אֵ֖ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-23-5",
+          "surface": "יָבִ֣ין",
+          "lemma": "יָבִין",
+          "translit": "yabiyn",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2985"
+        },
+        {
+          "id": "judges-4-23-6",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "judges-4-23-7",
+          "surface": "כְּנָ֑עַן",
+          "lemma": "כְּנַעַן",
+          "translit": "kena`an",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3667"
+        },
+        {
+          "id": "judges-4-23-8",
+          "surface": "לִפְנֵ֖י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "judges-4-23-9",
+          "surface": "בְּנֵ֥י",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-23-10",
+          "surface": "יִשְׂרָאֵֽל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "Judges 4:24",
+      "englishText": "The hand of the children of Israel prevailed more and more against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.   ",
+      "tokens": [
+        {
+          "id": "judges-4-24-0",
+          "surface": "וַתֵּ֜לֶךְ",
+          "lemma": "יָלַךְ",
+          "translit": "vateleke",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "judges-4-24-1",
+          "surface": "יַ֤ד",
+          "lemma": "יָד",
+          "translit": "yad",
+          "morph": "Noun common singular construct",
+          "glosses": [],
+          "strongs": "H3027"
+        },
+        {
+          "id": "judges-4-24-2",
+          "surface": "בְּנֵֽי",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "judges-4-24-3",
+          "surface": "יִשְׂרָאֵל֙",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "judges-4-24-4",
+          "surface": "הָל֣וֹךְ",
+          "lemma": "הָלַךְ",
+          "translit": "halvoke",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H1980"
+        },
+        {
+          "id": "judges-4-24-5",
+          "surface": "וְקָשָׁ֔ה",
+          "lemma": "קָשֶׁה",
+          "translit": "veqashah",
+          "morph": "Conjunction + Adjective",
+          "glosses": [],
+          "strongs": "H7186"
+        },
+        {
+          "id": "judges-4-24-6",
+          "surface": "עַ֖ל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "judges-4-24-7",
+          "surface": "יָבִ֣ין",
+          "lemma": "יָבִין",
+          "translit": "yabiyn",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2985"
+        },
+        {
+          "id": "judges-4-24-8",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "judges-4-24-9",
+          "surface": "כְּנָ֑עַן",
+          "lemma": "כְּנַעַן",
+          "translit": "kena`an",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3667"
+        },
+        {
+          "id": "judges-4-24-10",
+          "surface": "עַ֚ד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "judges-4-24-11",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "judges-4-24-12",
+          "surface": "הִכְרִ֔יתוּ",
+          "lemma": "כָּרַת",
+          "translit": "hikeriytv",
+          "morph": "Verb Hiphil Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H3772"
+        },
+        {
+          "id": "judges-4-24-13",
+          "surface": "אֵ֖ת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "judges-4-24-14",
+          "surface": "יָבִ֥ין",
+          "lemma": "יָבִין",
+          "translit": "yabiyn",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2985"
+        },
+        {
+          "id": "judges-4-24-15",
+          "surface": "מֶֽלֶךְ",
+          "lemma": "מֶלֶךְ",
+          "translit": "meleke",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H4428"
+        },
+        {
+          "id": "judges-4-24-16",
+          "surface": "כְּנָֽעַן",
+          "lemma": "כְּנַעַן",
+          "translit": "kena`an",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3667"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}

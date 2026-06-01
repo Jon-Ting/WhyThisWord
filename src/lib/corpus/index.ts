@@ -110,6 +110,7 @@ export function parsePassageRef(id: string): ParsedPassageRef | null {
   // 1. Cross-chapter with explicit book name: john-3:16-john-4:5
   let m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)-([a-z0-9-]+)-(\d+):(\d+)$/);
   if (m) {
+    console.log(`[Passage] Matched cross-chapter explicit book: ${id}`);
     const [, bookId, sCh, sV, endBook, eCh, eV] = m;
     if (bookId !== endBook) return null;
     return {
@@ -124,6 +125,7 @@ export function parsePassageRef(id: string): ParsedPassageRef | null {
   // 2. Cross-chapter without explicit book (colon on right): john-3:16-4:5
   m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)-(\d+):(\d+)$/);
   if (m) {
+    console.log(`[Passage] Matched cross-chapter range: ${id}`);
     const [, bookId, sCh, sV, eCh, eV] = m;
     return {
       bookId,
@@ -137,6 +139,7 @@ export function parsePassageRef(id: string): ParsedPassageRef | null {
   // 2.5. Cross-chapter without explicit book and no end verse: john-3:16-4:
   m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)-(\d+):$/);
   if (m) {
+    console.log(`[Passage] Matched cross-chapter no-end-verse: ${id}`);
     const [, bookId, sCh, sV, eCh] = m;
     return {
       bookId,
@@ -162,6 +165,7 @@ export function parsePassageRef(id: string): ParsedPassageRef | null {
   // 3. Same-chapter verse range: john-3:16-20
   m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)-(\d+)$/);
   if (m) {
+    console.log(`[Passage] Matched same-chapter range: ${id}`);
     const [, bookId, ch, sV, eV] = m;
     return {
       bookId,
@@ -174,6 +178,7 @@ export function parsePassageRef(id: string): ParsedPassageRef | null {
   // 4. Single verse: john-3:16
   m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)$/);
   if (m) {
+    console.log(`[Passage] Matched single verse: ${id}`);
     const [, bookId, ch, v] = m;
     return {
       bookId,
@@ -185,6 +190,7 @@ export function parsePassageRef(id: string): ParsedPassageRef | null {
   // 5. Full chapter: john-3
   m = id.match(/^([a-z0-9-]+)-(\d+)$/);
   if (m) {
+    console.log(`[Passage] Matched full chapter: ${id}`);
     const [, bookId, ch] = m;
     return {
       bookId,
@@ -192,6 +198,7 @@ export function parsePassageRef(id: string): ParsedPassageRef | null {
     };
   }
 
+  console.warn(`[Passage] Unable to parse ref slug: ${id}`);
   return null;
 }
 
@@ -278,9 +285,11 @@ export async function getChapterVerseCount(
     const chapterData = await import(`./data/${folder}/${bookId}/${chapterNum}.json`).then(
       (m) => m.default || m,
     );
-    return (chapterData.verses as Verse[]).length;
+    const count = (chapterData.verses as Verse[]).length;
+    console.log(`[Passage] ${bookId} ${chapterNum} has ${count} verses`);
+    return count;
   } catch (err) {
-    console.error(`Failed to load chapter data for ${bookId} ${chapterNum}:`, err);
+    console.error(`[Passage] Failed to load chapter data for ${bookId} ${chapterNum}:`, err);
     return undefined;
   }
 }
@@ -319,6 +328,7 @@ async function loadSingleChapter(
 
     let verses: Verse[] = chapterData.verses;
     let ref = `${chapterData.name} ${chapterNum}`;
+    console.log(`[Passage] Loaded ${verses.length} verses for ${ref}`);
 
     if (startVerse !== undefined || endVerse !== undefined) {
       const verseNumbers = verses.map((v: Verse) => parseVerseNumber(v.ref));
@@ -335,6 +345,9 @@ async function loadSingleChapter(
         const num = parseVerseNumber(v.ref);
         return num >= start && num <= end;
       });
+      console.log(
+        `[Passage] Filtered verses ${start}-${end}: ${filtered.length} of ${verses.length}`,
+      );
       verses = filtered.length > 0 ? filtered : verses;
 
       if (filtered.length > 0) {
@@ -354,7 +367,10 @@ async function loadSingleChapter(
       language: bookMetadata.language,
     };
   } catch (err) {
-    console.error(`Failed to load passage chunk for ${bookId} chapter ${chapterNum}:`, err);
+    console.error(
+      `[Passage] Failed to load passage chunk for ${bookId} chapter ${chapterNum}:`,
+      err,
+    );
     return undefined;
   }
 }
@@ -386,11 +402,17 @@ async function loadMultiChapterRange(
   if (!bookMetadata) return undefined;
 
   if (endChapter - startChapter + 1 > MAX_PASSAGE_SPAN) {
+    console.warn(
+      `[Passage] Range too large: ${bookId} ${startChapter}-${endChapter} (${endChapter - startChapter + 1} chapters, max ${MAX_PASSAGE_SPAN})`,
+    );
     throw new PassageRangeTooLargeError(bookId, startChapter, endChapter, MAX_PASSAGE_SPAN);
   }
 
   const folder = bookMetadata.testament.toLowerCase();
 
+  console.log(
+    `[Passage] Loading ${endChapter - startChapter + 1} chapters for ${bookMetadata.name}`,
+  );
   const chapterPromises: Promise<unknown>[] = [];
   for (let ch = startChapter; ch <= endChapter; ch++) {
     chapterPromises.push(
@@ -407,6 +429,7 @@ async function loadMultiChapterRange(
   }
 
   let allVerses: Verse[] = [];
+  console.log(`[Passage] Concatenating verses from ${chapterDatas.length} chapters`);
 
   for (let i = 0; i < chapterDatas.length; i++) {
     const ch = startChapter + i;
@@ -449,34 +472,26 @@ async function loadMultiChapterRange(
 }
 
 // Asynchronously load a complete chapter passage on demand (dynamic chunk loading)
-export async function getPassage(
-  id: string,
-  options?: { startVerse?: number; endVerse?: number },
-): Promise<Passage | undefined> {
+export async function getPassage(id: string): Promise<Passage | undefined> {
+  console.log(`[Passage] getPassage called with id: ${id}`);
   const parsed = parsePassageRef(id);
   if (!parsed) {
-    // Try legacy format: book-chapter with options
-    const legacyMatch = id.match(/^([a-z0-9-]+)-(\d+)$/);
-    if (!legacyMatch) return undefined;
-    const [, bookId, chapterStr] = legacyMatch;
-    return loadSingleChapter(
-      bookId,
-      parseInt(chapterStr, 10),
-      options?.startVerse,
-      options?.endVerse,
-      id,
-    );
+    console.warn(`[Passage] parsePassageRef returned null for: ${id}`);
+    return undefined;
   }
 
   const { bookId, startChapter, startVerse, endChapter, endVerse } = parsed;
 
   if (!endChapter) {
-    // Single chapter — may have verse range from slug or legacy options
-    const sV = startVerse ?? options?.startVerse;
-    const eV = endVerse ?? options?.endVerse;
-    return loadSingleChapter(bookId, startChapter, sV, eV, id);
+    console.log(
+      `[Passage] Loading single chapter: ${bookId} ${startChapter} (verses ${startVerse ?? "all"} - ${endVerse ?? "all"})`,
+    );
+    return loadSingleChapter(bookId, startChapter, startVerse, endVerse, id);
   }
 
+  console.log(
+    `[Passage] Loading multi-chapter range: ${bookId} ${startChapter}:${startVerse ?? "start"} - ${endChapter}:${endVerse ?? "end"}`,
+  );
   return loadMultiChapterRange(bookId, startChapter, startVerse, endChapter, endVerse);
 }
 
@@ -490,11 +505,13 @@ export async function getWordAnalysis(
 
   // 1. Check if a curated, contrastive analysis exists in the mock database
   if (analyses[normalizedLemma]) {
+    console.log(`[Analysis] Curated HIT for lemma: ${normalizedLemma}`);
     return analyses[normalizedLemma];
   }
 
   // 2. If context is provided and AI is not disabled, try retrieving/generating via Gemini & cache
   if (context && !options?.disableAI) {
+    console.log(`[Analysis] No curated entry for ${normalizedLemma}. Attempting AI synthesis...`);
     try {
       // If running inside CLI test script (direct execution)
       if (
@@ -507,8 +524,10 @@ export async function getWordAnalysis(
 
         const cached = await getCachedAnalysis(normalizedLemma, context.ref);
         if (cached) {
+          console.log(`[Analysis] Local cache HIT for ${normalizedLemma} @ ${context.ref}`);
           return cached;
         }
+        console.log(`[Analysis] Local cache MISS for ${normalizedLemma} @ ${context.ref}`);
 
         const generated = await fetchSemanticAnalysis(
           normalizedLemma,
@@ -522,6 +541,7 @@ export async function getWordAnalysis(
       }
 
       // If running in browser or SSR runtime, execute standard Server Function RPC
+      console.log(`[Analysis] Calling server function for ${normalizedLemma} @ ${context.ref}`);
       const { getSemanticAnalysisServer } = await import("../analysis/server-functions");
       const result = await getSemanticAnalysisServer({
         data: {
@@ -533,14 +553,20 @@ export async function getWordAnalysis(
         },
       });
       if (result) {
+        console.log(`[Analysis] Server function returned result for ${normalizedLemma}`);
         return result;
       }
+      console.warn(`[Analysis] Server function returned empty for ${normalizedLemma}`);
     } catch (err) {
-      console.warn("Dynamic AI analysis failed, falling back to lexicon definition:", err);
+      console.warn(
+        `[Analysis] AI pipeline failed for ${normalizedLemma}, falling back to lexicon:`,
+        err,
+      );
     }
   }
 
   // 3. Fall back to standard dictionary definition (Abbott-Smith / Strong's)
+  console.log(`[Analysis] Falling back to lexicon for ${normalizedLemma}`);
   try {
     const lexicon = (await import("./data/lexicon.json").then((m) => m.default || m)) as Record<
       string,
@@ -550,6 +576,7 @@ export async function getWordAnalysis(
     const fallback = lexicon[cleanLemma] as WordAnalysis;
 
     if (fallback) {
+      console.log(`[Analysis] Lexicon HIT for ${normalizedLemma}`);
       const result = { ...fallback } as WordAnalysis;
 
       // Inject Louw-Nida domains
@@ -595,9 +622,10 @@ export async function getWordAnalysis(
       return result;
     }
   } catch (err) {
-    console.error("Failed to load lexicon fallback definition:", err);
+    console.error(`[Analysis] Failed to load lexicon fallback for ${normalizedLemma}:`, err);
   }
 
+  console.warn(`[Analysis] No definition found for ${normalizedLemma}`);
   return undefined;
 }
 

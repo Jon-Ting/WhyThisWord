@@ -1,1 +1,3933 @@
-{"id":"1-samuel-1","name":"1 Samuel","chapter":1,"verses":[{"ref":"1 Samuel 1:1","englishText":"Now there was a certain man of Ramathaim Zophim, of the hill country of Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite:","tokens":[{"id":"1-samuel-1-1-0","surface":"וַיְהִי֩","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"1-samuel-1-1-1","surface":"אִ֨ישׁ","lemma":"אִישׁ","translit":"'iysh","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"1-samuel-1-1-2","surface":"אֶחָ֜ד","lemma":"אֶחָד","translit":"'echad","morph":"Adjective common masculine singular absolute","glosses":[],"strongs":"H259"},{"id":"1-samuel-1-1-3","surface":"מִן","lemma":"מִן","translit":"min","morph":"Preposition","glosses":[],"strongs":"H4480"},{"id":"1-samuel-1-1-4","surface":"הָרָמָתַ֛יִם","lemma":"רָמָתַיִם צוֹפִים","translit":"haramatayim","morph":"Particle dual + Noun proper","glosses":[],"strongs":"H7436"},{"id":"1-samuel-1-1-5","surface":"צוֹפִ֖ים","lemma":"רָמָתַיִם צוֹפִים","translit":"tsvopiym","morph":"Noun proper","glosses":[],"strongs":"H7436"},{"id":"1-samuel-1-1-6","surface":"מֵהַ֣ר","lemma":"הַר","translit":"mehar","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H2022"},{"id":"1-samuel-1-1-7","surface":"אֶפְרָ֑יִם","lemma":"אֶפְרַיִם","translit":"'eperayim","morph":"Noun proper","glosses":[],"strongs":"H669"},{"id":"1-samuel-1-1-8","surface":"וּשְׁמ֡וֹ","lemma":"שֵׁם","translit":"vshemvo","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H8034"},{"id":"1-samuel-1-1-9","surface":"אֶ֠לְקָנָה","lemma":"אֶלְקָנָה","translit":"'eleqanah","morph":"Noun proper","glosses":[],"strongs":"H511"},{"id":"1-samuel-1-1-10","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"1-samuel-1-1-11","surface":"יְרֹחָ֧ם","lemma":"יְרֹחָם","translit":"yerocham","morph":"Noun proper","glosses":[],"strongs":"H3395"},{"id":"1-samuel-1-1-12","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"1-samuel-1-1-13","surface":"אֱלִיה֛וּא","lemma":"אֱלִיהוּ","translit":"'liyhv'","morph":"Noun proper","glosses":[],"strongs":"H453"},{"id":"1-samuel-1-1-14","surface":"בֶּן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"1-samuel-1-1-15","surface":"תֹּ֥חוּ","lemma":"תֹּחוּ","translit":"tochv","morph":"Noun proper","glosses":[],"strongs":"H8459"},{"id":"1-samuel-1-1-16","surface":"בֶן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1121"},{"id":"1-samuel-1-1-17","surface":"צ֖וּף","lemma":"צוּף","translit":"tsvp","morph":"Noun proper","glosses":[],"strongs":"H6689"},{"id":"1-samuel-1-1-18","surface":"אֶפְרָתִֽי","lemma":"אֶפְרָתִי","translit":"'eperatiy","morph":"Noun gentilic masculine singular absolute","glosses":[],"strongs":"H673"}],"language":"hebrew"},{"ref":"1 Samuel 1:2","englishText":"and he had two wives; the name of the one was Hannah, and the name of other Peninnah: and Peninnah had children, but Hannah had no children.","tokens":[{"id":"1-samuel-1-2-0","surface":"וְלוֹ֙","lemma":"וְלוֹ֙","translit":"velvo","morph":"Conjunction + Preposition + Suffix plural 3rd masculine singular","glosses":[]},{"id":"1-samuel-1-2-1","surface":"שְׁתֵּ֣י","lemma":"שְׁנַיִם","translit":"shetey","morph":"Adjective common feminine dual construct","glosses":[],"strongs":"H8147"},{"id":"1-samuel-1-2-2","surface":"נָשִׁ֔ים","lemma":"אִשָּׁה","translit":"nashiym","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H802"},{"id":"1-samuel-1-2-3","surface":"שֵׁ֤ם","lemma":"שֵׁם","translit":"shem","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"1-samuel-1-2-4","surface":"אַחַת֙","lemma":"אֶחָד","translit":"'achat","morph":"Adjective common feminine singular absolute","glosses":[],"strongs":"H259"},{"id":"1-samuel-1-2-5","surface":"חַנָּ֔ה","lemma":"חַנָּה","translit":"chanah","morph":"Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-2-6","surface":"וְשֵׁ֥ם","lemma":"שֵׁם","translit":"veshem","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H8034"},{"id":"1-samuel-1-2-7","surface":"הַשֵּׁנִ֖ית","lemma":"שֵׁנִי","translit":"hasheniyt","morph":"Particle dual + Adjective","glosses":[],"strongs":"H8145"},{"id":"1-samuel-1-2-8","surface":"פְּנִנָּ֑ה","lemma":"פְּנִנָּה","translit":"peninah","morph":"Noun proper","glosses":[],"strongs":"H6444"},{"id":"1-samuel-1-2-9","surface":"וַיְהִ֤י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"1-samuel-1-2-10","surface":"לִפְנִנָּה֙","lemma":"פְּנִנָּה","translit":"lipeninah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6444"},{"id":"1-samuel-1-2-11","surface":"יְלָדִ֔ים","lemma":"יֶלֶד","translit":"yeladiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H3206"},{"id":"1-samuel-1-2-12","surface":"וּלְחַנָּ֖ה","lemma":"חַנָּה","translit":"vlechanah","morph":"Conjunction + Preposition + Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-2-13","surface":"אֵ֥ין","lemma":"אַיִן","translit":"'eyn","morph":"Particle","glosses":[],"strongs":"H369"},{"id":"1-samuel-1-2-14","surface":"יְלָדִֽים","lemma":"יֶלֶד","translit":"yeladiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H3206"}],"language":"hebrew"},{"ref":"1 Samuel 1:3","englishText":"This man went up out of his city from year to year to worship and to sacrifice to Yahweh of Armies in Shiloh. The two sons of Eli, Hophni and Phinehas, priests to Yahweh, were there.","tokens":[{"id":"1-samuel-1-3-0","surface":"וְעָלָה֩","lemma":"עָלָה","translit":"ve`alah","morph":"Conjunction + Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"1-samuel-1-3-1","surface":"הָאִ֨ישׁ","lemma":"אִישׁ","translit":"ha'iysh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"1-samuel-1-3-2","surface":"הַה֤וּא","lemma":"הוּא","translit":"hahv'","morph":"Particle dual + Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"1-samuel-1-3-3","surface":"מֵֽעִירוֹ֙","lemma":"עִיר","translit":"me`iyrvo","morph":"Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5892"},{"id":"1-samuel-1-3-4","surface":"מִיָּמִ֣ים","lemma":"יוֹם","translit":"miyamiym","morph":"Preposition + Noun common masculine plural absolute","glosses":[],"strongs":"H3117"},{"id":"1-samuel-1-3-5","surface":"יָמִ֔ימָה","lemma":"יוֹם","translit":"yamiymah","morph":"Noun common masculine plural absolute + Suffix dual","glosses":[],"strongs":"H3117"},{"id":"1-samuel-1-3-6","surface":"לְהִֽשְׁתַּחֲוֺ֧ת","lemma":"שָׁחָה","translit":"lehishetachvt","morph":"Preposition + Verb Hithpael Infinitive Construct","glosses":[],"strongs":"H7812"},{"id":"1-samuel-1-3-7","surface":"וְלִזְבֹּ֛חַ","lemma":"זָבַח","translit":"velizebocha","morph":"Conjunction + Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H2076"},{"id":"1-samuel-1-3-8","surface":"לַיהוָ֥ה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-3-9","surface":"צְבָא֖וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"1-samuel-1-3-10","surface":"בְּשִׁלֹ֑ה","lemma":"שִׁילֹה","translit":"beshiloh","morph":"Preposition + Noun proper","glosses":[],"strongs":"H7887"},{"id":"1-samuel-1-3-11","surface":"וְשָׁ֞ם","lemma":"שָׁם","translit":"vesham","morph":"Conjunction + Adverb","glosses":[],"strongs":"H8033"},{"id":"1-samuel-1-3-12","surface":"שְׁנֵ֣י","lemma":"שְׁנַיִם","translit":"sheney","morph":"Adjective common masculine dual construct","glosses":[],"strongs":"H8147"},{"id":"1-samuel-1-3-13","surface":"בְנֵֽי","lemma":"בֵּן","translit":"beney","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H1121"},{"id":"1-samuel-1-3-14","surface":"עֵלִ֗י","lemma":"עֵלִי","translit":"`eliy","morph":"Noun proper","glosses":[],"strongs":"H5941"},{"id":"1-samuel-1-3-15","surface":"חָפְנִי֙","lemma":"חׇפְנִי","translit":"chapeniy","morph":"Noun proper","glosses":[],"strongs":"H2652"},{"id":"1-samuel-1-3-16","surface":"וּפִ֣נְחָ֔ס","lemma":"פִּינְחָס","translit":"vpinechas","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H6372"},{"id":"1-samuel-1-3-17","surface":"כֹּהֲנִ֖ים","lemma":"כֹּהֵן","translit":"kohniym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H3548"},{"id":"1-samuel-1-3-18","surface":"לַיהוָֽה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"1 Samuel 1:4","englishText":"When the day came that Elkanah sacrificed, he gave to Peninnah his wife, and to all her sons and her daughters, portions:","tokens":[{"id":"1-samuel-1-4-0","surface":"וַיְהִ֣י","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"1-samuel-1-4-1","surface":"הַיּ֔וֹם","lemma":"יוֹם","translit":"hayvom","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3117"},{"id":"1-samuel-1-4-2","surface":"וַיִּזְבַּ֖ח","lemma":"זָבַח","translit":"vayizebach","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H2076"},{"id":"1-samuel-1-4-3","surface":"אֶלְקָנָ֑ה","lemma":"אֶלְקָנָה","translit":"'eleqanah","morph":"Noun proper","glosses":[],"strongs":"H511"},{"id":"1-samuel-1-4-4","surface":"וְנָתַ֞ן","lemma":"נָתַן","translit":"venatan","morph":"Conjunction + Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"1-samuel-1-4-5","surface":"לִפְנִנָּ֣ה","lemma":"פְּנִנָּה","translit":"lipeninah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H6444"},{"id":"1-samuel-1-4-6","surface":"אִשְׁתּ֗וֹ","lemma":"אִשָּׁה","translit":"'ishetvo","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H802"},{"id":"1-samuel-1-4-7","surface":"וּֽלְכָל","lemma":"כֹּל","translit":"vlekal","morph":"Conjunction + Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"1-samuel-1-4-8","surface":"בָּנֶ֛יהָ","lemma":"בֵּן","translit":"baneyha","morph":"Noun common masculine plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1121"},{"id":"1-samuel-1-4-9","surface":"וּבְנוֹתֶ֖יהָ","lemma":"בַּת","translit":"vbenvoteyha","morph":"Conjunction + Noun common feminine plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1323"},{"id":"1-samuel-1-4-10","surface":"מָנֽוֹת","lemma":"מָנָה","translit":"manvot","morph":"Noun common feminine plural absolute","glosses":[],"strongs":"H4490"}],"language":"hebrew"},{"ref":"1 Samuel 1:5","englishText":"but to Hannah he gave a double portion; for he loved Hannah, but Yahweh had shut up her womb.","tokens":[{"id":"1-samuel-1-5-0","surface":"וּלְחַנָּ֕ה","lemma":"חַנָּה","translit":"vlechanah","morph":"Conjunction + Preposition + Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-5-1","surface":"יִתֵּ֛ן","lemma":"נָתַן","translit":"yiten","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"1-samuel-1-5-2","surface":"מָנָ֥ה","lemma":"מָנָה","translit":"manah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H4490"},{"id":"1-samuel-1-5-3","surface":"אַחַ֖ת","lemma":"אֶחָד","translit":"'achat","morph":"Adjective common feminine singular absolute","glosses":[],"strongs":"H259"},{"id":"1-samuel-1-5-4","surface":"אַפָּ֑יִם","lemma":"אַף","translit":"'apayim","morph":"Noun common masculine dual absolute","glosses":[],"strongs":"H639"},{"id":"1-samuel-1-5-5","surface":"כִּ֤י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"1-samuel-1-5-6","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-5-7","surface":"חַנָּה֙","lemma":"חַנָּה","translit":"chanah","morph":"Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-5-8","surface":"אָהֵ֔ב","lemma":"אָהַב","translit":"'aheb","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H157"},{"id":"1-samuel-1-5-9","surface":"וַֽיהוָ֖ה","lemma":"יְהֹוָה","translit":"vayhvah","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-5-10","surface":"סָגַ֥ר","lemma":"סָגַר","translit":"sagar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5462"},{"id":"1-samuel-1-5-11","surface":"רַחְמָֽהּ","lemma":"רֶחֶם","translit":"rachemah","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H7358"}],"language":"hebrew"},{"ref":"1 Samuel 1:6","englishText":"Her rival provoked her severely, to make her fret, because Yahweh had shut up her womb.","tokens":[{"id":"1-samuel-1-6-0","surface":"וְכִֽעֲסַ֤תָּה","lemma":"כַּעַס","translit":"veki`satah","morph":"Conjunction + Verb Piel Participle 3rd feminine singular + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3707"},{"id":"1-samuel-1-6-1","surface":"צָֽרָתָהּ֙","lemma":"צָרָה","translit":"tsaratah","morph":"Noun common feminine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6869"},{"id":"1-samuel-1-6-2","surface":"גַּם","lemma":"גַּם","translit":"gam","morph":"Particle absolute","glosses":[],"strongs":"H1571"},{"id":"1-samuel-1-6-3","surface":"כַּ֔עַס","lemma":"כַּעַס","translit":"ka`as","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3708"},{"id":"1-samuel-1-6-4","surface":"בַּעֲב֖וּר","lemma":"עָבוּר","translit":"ba`bvr","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H5668"},{"id":"1-samuel-1-6-5","surface":"הַרְּעִמָ֑הּ","lemma":"רָעַם","translit":"hare`imah","morph":"Verb Hiphil Infinitive Construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H7481"},{"id":"1-samuel-1-6-6","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"1-samuel-1-6-7","surface":"סָגַ֥ר","lemma":"סָגַר","translit":"sagar","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H5462"},{"id":"1-samuel-1-6-8","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-6-9","surface":"בְּעַ֥ד","lemma":"בְּעַד","translit":"be`ad","morph":"Preposition","glosses":[],"strongs":"H1157"},{"id":"1-samuel-1-6-10","surface":"רַחְמָֽהּ","lemma":"רֶחֶם","translit":"rachemah","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H7358"}],"language":"hebrew"},{"ref":"1 Samuel 1:7","englishText":"As he did so year by year, when she went up to Yahweh’s house, so she provoked her; therefore she wept, and didn’t eat.","tokens":[{"id":"1-samuel-1-7-0","surface":"וְכֵ֨ן","lemma":"כֵּן","translit":"veken","morph":"Conjunction + Particle masculine","glosses":[],"strongs":"H3651"},{"id":"1-samuel-1-7-1","surface":"יַעֲשֶׂ֜ה","lemma":"עָשָׂה","translit":"ya`sheh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H6213"},{"id":"1-samuel-1-7-2","surface":"שָׁנָ֣ה","lemma":"שָׁנֶה","translit":"shanah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H8141"},{"id":"1-samuel-1-7-3","surface":"בְשָׁנָ֗ה","lemma":"שָׁנֶה","translit":"beshanah","morph":"Preposition + Noun common feminine singular absolute","glosses":[],"strongs":"H8141"},{"id":"1-samuel-1-7-4","surface":"מִדֵּ֤י","lemma":"דַּי","translit":"midey","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1767"},{"id":"1-samuel-1-7-5","surface":"עֲלֹתָהּ֙","lemma":"עָלָה","translit":"`lotah","morph":"Verb Qal Infinitive Construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H5927"},{"id":"1-samuel-1-7-6","surface":"בְּבֵ֣ית","lemma":"בַּיִת","translit":"bebeyt","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"1-samuel-1-7-7","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-7-8","surface":"כֵּ֖ן","lemma":"כֵּן","translit":"ken","morph":"Particle masculine","glosses":[],"strongs":"H3651"},{"id":"1-samuel-1-7-9","surface":"תַּכְעִסֶ֑נָּה","lemma":"כַּעַס","translit":"take`isenah","morph":"Verb Hiphil Imperative 3rd feminine singular + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3707"},{"id":"1-samuel-1-7-10","surface":"וַתִּבְכֶּ֖ה","lemma":"בָּכָה","translit":"vatibekeh","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H1058"},{"id":"1-samuel-1-7-11","surface":"וְלֹ֥א","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"1-samuel-1-7-12","surface":"תֹאכַֽל","lemma":"אָכַל","translit":"to'kal","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H398"}],"language":"hebrew"},{"ref":"1 Samuel 1:8","englishText":"Elkanah her husband said to her, “Hannah, why do you weep? Why don’t you eat? Why is your heart grieved? Am I not better to you than ten sons?”  ","tokens":[{"id":"1-samuel-1-8-0","surface":"וַיֹּ֨אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"1-samuel-1-8-1","surface":"לָ֜הּ","lemma":"לָ֜הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"1-samuel-1-8-2","surface":"אֶלְקָנָ֣ה","lemma":"אֶלְקָנָה","translit":"'eleqanah","morph":"Noun proper","glosses":[],"strongs":"H511"},{"id":"1-samuel-1-8-3","surface":"אִישָׁ֗הּ","lemma":"אִישׁ","translit":"'iyshah","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H376"},{"id":"1-samuel-1-8-4","surface":"חַנָּה֙","lemma":"חַנָּה","translit":"chanah","morph":"Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-8-5","surface":"לָ֣מֶה","lemma":"מָה","translit":"lameh","morph":"Preposition + Particle","glosses":[],"strongs":"H4100"},{"id":"1-samuel-1-8-6","surface":"תִבְכִּ֗י","lemma":"בָּכָה","translit":"tibekiy","morph":"Verb Qal Imperative 2nd feminine singular","glosses":[],"strongs":"H1058"},{"id":"1-samuel-1-8-7","surface":"וְלָ֨מֶה֙","lemma":"מָה","translit":"velameh","morph":"Conjunction + Preposition + Particle","glosses":[],"strongs":"H4100"},{"id":"1-samuel-1-8-8","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"1-samuel-1-8-9","surface":"תֹֽאכְלִ֔י","lemma":"אָכַל","translit":"to'keliy","morph":"Verb Qal Imperative 2nd feminine singular","glosses":[],"strongs":"H398"},{"id":"1-samuel-1-8-10","surface":"וְלָ֖מֶה","lemma":"מָה","translit":"velameh","morph":"Conjunction + Preposition + Particle","glosses":[],"strongs":"H4100"},{"id":"1-samuel-1-8-11","surface":"יֵרַ֣ע","lemma":"יָרַע","translit":"yera`","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H3415"},{"id":"1-samuel-1-8-12","surface":"לְבָבֵ֑ךְ","lemma":"לֵבָב","translit":"lebabeke","morph":"Noun common masculine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H3824"},{"id":"1-samuel-1-8-13","surface":"הֲל֤וֹא","lemma":"לֹא","translit":"hlvo'","morph":"Particle + Particle","glosses":[],"strongs":"H3808"},{"id":"1-samuel-1-8-14","surface":"אָֽנֹכִי֙","lemma":"אָנֹכִי","translit":"'anokiy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H595"},{"id":"1-samuel-1-8-15","surface":"ט֣וֹב","lemma":"טוֹב","translit":"tvob","morph":"Adjective","glosses":[],"strongs":"H2896"},{"id":"1-samuel-1-8-16","surface":"לָ֔ךְ","lemma":"לָ֔ךְ","translit":"lake","morph":"Preposition + Suffix plural 2nd feminine singular","glosses":[]},{"id":"1-samuel-1-8-17","surface":"מֵעֲשָׂרָ֖ה","lemma":"עֶשֶׂר","translit":"me`sharah","morph":"Preposition + Adjective common masculine singular absolute","glosses":[],"strongs":"H6235"},{"id":"1-samuel-1-8-18","surface":"בָּנִֽים","lemma":"בֵּן","translit":"baniym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H1121"}],"language":"hebrew"},{"ref":"1 Samuel 1:9","englishText":"  So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest was sitting on his seat by the doorpost of Yahweh’s temple.","tokens":[{"id":"1-samuel-1-9-0","surface":"וַתָּ֣קָם","lemma":"קוּם","translit":"vataqam","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H6965"},{"id":"1-samuel-1-9-1","surface":"חַנָּ֔ה","lemma":"חַנָּה","translit":"chanah","morph":"Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-9-2","surface":"אַחֲרֵ֛י","lemma":"אַחַר","translit":"'achrey","morph":"Preposition","glosses":[],"strongs":"H310"},{"id":"1-samuel-1-9-3","surface":"אָכְלָ֥ה","lemma":"אָכַל","translit":"'akelah","morph":"Verb Qal Infinitive Construct","glosses":[],"strongs":"H398"},{"id":"1-samuel-1-9-4","surface":"בְשִׁלֹ֖ה","lemma":"שִׁילֹה","translit":"beshiloh","morph":"Preposition + Noun proper","glosses":[],"strongs":"H7887"},{"id":"1-samuel-1-9-5","surface":"וְאַחֲרֵ֣י","lemma":"אַחַר","translit":"ve'achrey","morph":"Conjunction + Preposition","glosses":[],"strongs":"H310"},{"id":"1-samuel-1-9-6","surface":"שָׁתֹ֑ה","lemma":"שָׁתָה","translit":"shatoh","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H8354"},{"id":"1-samuel-1-9-7","surface":"וְעֵלִ֣י","lemma":"עֵלִי","translit":"ve`eliy","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H5941"},{"id":"1-samuel-1-9-8","surface":"הַכֹּהֵ֗ן","lemma":"כֹּהֵן","translit":"hakohen","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3548"},{"id":"1-samuel-1-9-9","surface":"יֹשֵׁב֙","lemma":"יָשַׁב","translit":"yosheb","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H3427"},{"id":"1-samuel-1-9-10","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"1-samuel-1-9-11","surface":"הַכִּסֵּ֔א","lemma":"כִּסֵּא","translit":"hakise'","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H3678"},{"id":"1-samuel-1-9-12","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"1-samuel-1-9-13","surface":"מְזוּזַ֖ת","lemma":"מְזוּזָה","translit":"mezvzat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H4201"},{"id":"1-samuel-1-9-14","surface":"הֵיכַ֥ל","lemma":"הֵיכָל","translit":"heykal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1964"},{"id":"1-samuel-1-9-15","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"1 Samuel 1:10","englishText":"She was in bitterness of soul, and prayed to Yahweh, and wept bitterly.","tokens":[{"id":"1-samuel-1-10-0","surface":"וְהִ֖יא","lemma":"הוּא","translit":"vehiy'","morph":"Conjunction + Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"1-samuel-1-10-1","surface":"מָ֣רַת","lemma":"מַר","translit":"marat","morph":"Adjective","glosses":[],"strongs":"H4751"},{"id":"1-samuel-1-10-2","surface":"נָ֑פֶשׁ","lemma":"נֶפֶשׁ","translit":"napesh","morph":"Noun common singular absolute","glosses":[],"strongs":"H5315"},{"id":"1-samuel-1-10-3","surface":"וַתִּתְפַּלֵּ֥ל","lemma":"פָּלַל","translit":"vatitepalel","morph":"Conjunction + Verb Hithpael Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H6419"},{"id":"1-samuel-1-10-4","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"1-samuel-1-10-5","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-10-6","surface":"וּבָכֹ֥ה","lemma":"בָּכָה","translit":"vbakoh","morph":"Conjunction + Verb Qal Infinitive Absolute","glosses":[],"strongs":"H1058"},{"id":"1-samuel-1-10-7","surface":"תִבְכֶּֽה","lemma":"בָּכָה","translit":"tibekeh","morph":"Verb Qal Imperative 3rd feminine singular","glosses":[],"strongs":"H1058"}],"language":"hebrew"},{"ref":"1 Samuel 1:11","englishText":"She vowed a vow, and said, “Yahweh of Armies, if you will indeed look on the affliction of your handmaid, and remember me, and not forget your handmaid, but will give to your handmaid a boy, then I will give him to Yahweh all the days of his life, and no razor shall come on his head.”  ","tokens":[{"id":"1-samuel-1-11-0","surface":"וַתִּדֹּ֨ר","lemma":"נָדַר","translit":"vatidor","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H5087"},{"id":"1-samuel-1-11-1","surface":"נֶ֜דֶר","lemma":"נֶדֶר","translit":"neder","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5088"},{"id":"1-samuel-1-11-2","surface":"וַתֹּאמַ֗ר","lemma":"אָמַר","translit":"vato'mar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"1-samuel-1-11-3","surface":"יְהוָ֨ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-11-4","surface":"צְבָא֜וֹת","lemma":"צָבָא","translit":"tseba'vot","morph":"Noun common plural absolute","glosses":[],"strongs":"H6635"},{"id":"1-samuel-1-11-5","surface":"אִם","lemma":"אִם","translit":"'im","morph":"Conjunction","glosses":[],"strongs":"H518"},{"id":"1-samuel-1-11-6","surface":"רָאֹ֥ה","lemma":"רָאָה","translit":"ra'oh","morph":"Verb Qal Infinitive Absolute","glosses":[],"strongs":"H7200"},{"id":"1-samuel-1-11-7","surface":"תִרְאֶ֣ה","lemma":"רָאָה","translit":"tire'eh","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H7200"},{"id":"1-samuel-1-11-8","surface":"בָּעֳנִ֣י","lemma":"עֳנִי","translit":"ba`niy","morph":"Preposition + Noun common masculine singular construct","glosses":[],"strongs":"H6040"},{"id":"1-samuel-1-11-9","surface":"אֲמָתֶ֗ךָ","lemma":"אָמָה","translit":"'mateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H519"},{"id":"1-samuel-1-11-10","surface":"וּזְכַרְתַּ֨נִי֙","lemma":"זָכַר","translit":"vzekaretaniy","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular + Suffix plural 1st common singular","glosses":[],"strongs":"H2142"},{"id":"1-samuel-1-11-11","surface":"וְלֹֽא","lemma":"לֹא","translit":"velo'","morph":"Conjunction + Particle","glosses":[],"strongs":"H3808"},{"id":"1-samuel-1-11-12","surface":"תִשְׁכַּ֣ח","lemma":"שָׁכַח","translit":"tishekach","morph":"Verb Qal Imperative 2nd masculine singular","glosses":[],"strongs":"H7911"},{"id":"1-samuel-1-11-13","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-11-14","surface":"אֲמָתֶ֔ךָ","lemma":"אָמָה","translit":"'mateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H519"},{"id":"1-samuel-1-11-15","surface":"וְנָתַתָּ֥ה","lemma":"נָתַן","translit":"venatatah","morph":"Conjunction + Verb Qal Perfect 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"1-samuel-1-11-16","surface":"לַאֲמָתְךָ֖","lemma":"אָמָה","translit":"la'mateka","morph":"Preposition + Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H519"},{"id":"1-samuel-1-11-17","surface":"זֶ֣רַע","lemma":"זֶרַע","translit":"zera`","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H2233"},{"id":"1-samuel-1-11-18","surface":"אֲנָשִׁ֑ים","lemma":"אִישׁ","translit":"'nashiym","morph":"Noun common masculine plural absolute","glosses":[],"strongs":"H376"},{"id":"1-samuel-1-11-19","surface":"וּנְתַתִּ֤יו","lemma":"נָתַן","translit":"vnetatiyv","morph":"Conjunction + Verb Qal Perfect 1st common singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"1-samuel-1-11-20","surface":"לַֽיהוָה֙","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-11-21","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"1-samuel-1-11-22","surface":"יְמֵ֣י","lemma":"יוֹם","translit":"yemey","morph":"Noun common masculine plural construct","glosses":[],"strongs":"H3117"},{"id":"1-samuel-1-11-23","surface":"חַיָּ֔יו","lemma":"חַי","translit":"chayayv","morph":"Noun common masculine plural construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H2416"},{"id":"1-samuel-1-11-24","surface":"וּמוֹרָ֖ה","lemma":"מוֹרָה","translit":"vmvorah","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H4177"},{"id":"1-samuel-1-11-25","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"1-samuel-1-11-26","surface":"יַעֲלֶ֥ה","lemma":"עָלָה","translit":"ya`leh","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"1-samuel-1-11-27","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"1-samuel-1-11-28","surface":"רֹאשֽׁוֹ","lemma":"רֹאשׁ","translit":"ro'shvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7218"}],"language":"hebrew"},{"ref":"1 Samuel 1:12","englishText":"  As she continued praying before Yahweh, Eli saw her mouth.","tokens":[{"id":"1-samuel-1-12-0","surface":"וְהָיָה֙","lemma":"הָיָה","translit":"vehayah","morph":"Conjunction + Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"1-samuel-1-12-1","surface":"כִּ֣י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"1-samuel-1-12-2","surface":"הִרְבְּתָ֔ה","lemma":"רָבָה","translit":"hirebetah","morph":"Verb Hiphil Participle 3rd feminine singular","glosses":[],"strongs":"H7235"},{"id":"1-samuel-1-12-3","surface":"לְהִתְפַּלֵּ֖ל","lemma":"פָּלַל","translit":"lehitepalel","morph":"Preposition + Verb Hithpael Infinitive Construct","glosses":[],"strongs":"H6419"},{"id":"1-samuel-1-12-4","surface":"לִפְנֵ֣י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"1-samuel-1-12-5","surface":"יְהוָ֑ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-12-6","surface":"וְעֵלִ֖י","lemma":"עֵלִי","translit":"ve`eliy","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H5941"},{"id":"1-samuel-1-12-7","surface":"שֹׁמֵ֥ר","lemma":"שָׁמַר","translit":"shomer","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H8104"},{"id":"1-samuel-1-12-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-12-9","surface":"פִּֽיהָ","lemma":"פֶּה","translit":"piyha","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6310"}],"language":"hebrew"},{"ref":"1 Samuel 1:13","englishText":"Now Hannah spoke in her heart. Only her lips moved, but her voice was not heard. Therefore Eli thought she had been drunken.","tokens":[{"id":"1-samuel-1-13-0","surface":"וְחַנָּ֗ה","lemma":"חַנָּה","translit":"vechanah","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-13-1","surface":"הִ֚יא","lemma":"הוּא","translit":"hiy'","morph":"Pronoun plural 3rd feminine singular","glosses":[],"strongs":"H1931"},{"id":"1-samuel-1-13-2","surface":"מְדַבֶּ֣רֶת","lemma":"דָבַר","translit":"medaberet","morph":"Verb Piel Passive Participle","glosses":[],"strongs":"H1696"},{"id":"1-samuel-1-13-3","surface":"עַל","lemma":"עַל","translit":"`al","morph":"Preposition","glosses":[],"strongs":"H5921"},{"id":"1-samuel-1-13-4","surface":"לִבָּ֔הּ","lemma":"לֵב","translit":"libah","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H3820"},{"id":"1-samuel-1-13-5","surface":"רַ֚ק","lemma":"רַק","translit":"raq","morph":"Particle absolute","glosses":[],"strongs":"H7535"},{"id":"1-samuel-1-13-6","surface":"שְׂפָתֶ֣יהָ","lemma":"שָׂפָה","translit":"shepateyha","morph":"Noun common feminine dual construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H8193"},{"id":"1-samuel-1-13-7","surface":"נָּע֔וֹת","lemma":"נוּעַ","translit":"na`vot","morph":"Verb Qal Passive Participle","glosses":[],"strongs":"H5128"},{"id":"1-samuel-1-13-8","surface":"וְקוֹלָ֖הּ","lemma":"קוֹל","translit":"veqvolah","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6963"},{"id":"1-samuel-1-13-9","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"1-samuel-1-13-10","surface":"יִשָּׁמֵ֑עַ","lemma":"שָׁמַע","translit":"yishame`a","morph":"Verb Niphal Imperative 3rd masculine singular","glosses":[],"strongs":"H8085"},{"id":"1-samuel-1-13-11","surface":"וַיַּחְשְׁבֶ֥הָ","lemma":"חָשַׁב","translit":"vayacheshebeha","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H2803"},{"id":"1-samuel-1-13-12","surface":"עֵלִ֖י","lemma":"עֵלִי","translit":"`eliy","morph":"Noun proper","glosses":[],"strongs":"H5941"},{"id":"1-samuel-1-13-13","surface":"לְשִׁכֹּרָֽה","lemma":"שִׁכּוֹר","translit":"leshikorah","morph":"Preposition + Adjective","glosses":[],"strongs":"H7910"}],"language":"hebrew"},{"ref":"1 Samuel 1:14","englishText":"Eli said to her, “How long will you be drunken? Put away your wine from you.”  ","tokens":[{"id":"1-samuel-1-14-0","surface":"וַיֹּ֤אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"1-samuel-1-14-1","surface":"אֵלֶ֨יהָ֙","lemma":"אֵל","translit":"'eleyha","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H413"},{"id":"1-samuel-1-14-2","surface":"עֵלִ֔י","lemma":"עֵלִי","translit":"`eliy","morph":"Noun proper","glosses":[],"strongs":"H5941"},{"id":"1-samuel-1-14-3","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"1-samuel-1-14-4","surface":"מָתַ֖י","lemma":"מָתַי","translit":"matay","morph":"Particle","glosses":[],"strongs":"H4970"},{"id":"1-samuel-1-14-5","surface":"תִּשְׁתַּכָּרִ֑ין","lemma":"שָׁכַר","translit":"tishetakariyn","morph":"Verb Hithpael Imperative 2nd feminine singular + Suffix","glosses":[],"strongs":"H7937"},{"id":"1-samuel-1-14-6","surface":"הָסִ֥ירִי","lemma":"סוּר","translit":"hasiyriy","morph":"Verb Hiphil Weqatal 2nd feminine singular","glosses":[],"strongs":"H5493"},{"id":"1-samuel-1-14-7","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-14-8","surface":"יֵינֵ֖ךְ","lemma":"יַיִן","translit":"yeyneke","morph":"Noun common masculine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H3196"},{"id":"1-samuel-1-14-9","surface":"מֵעָלָֽיִךְ","lemma":"עַל","translit":"me`alayike","morph":"Preposition + Preposition + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H5921"}],"language":"hebrew"},{"ref":"1 Samuel 1:15","englishText":"  Hannah answered, “No, my lord, I am a woman of a sorrowful spirit. I have drunk neither wine nor strong drink, but I poured out my soul before Yahweh.","tokens":[{"id":"1-samuel-1-15-0","surface":"וַתַּ֨עַן","lemma":"עָנָה","translit":"vata`an","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H6030"},{"id":"1-samuel-1-15-1","surface":"חַנָּ֤ה","lemma":"חַנָּה","translit":"chanah","morph":"Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-15-2","surface":"וַתֹּ֨אמֶר֙","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"1-samuel-1-15-3","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"1-samuel-1-15-4","surface":"אֲדֹנִ֔י","lemma":"אָדוֹן","translit":"'doniy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H113"},{"id":"1-samuel-1-15-5","surface":"אִשָּׁ֤ה","lemma":"אִשָּׁה","translit":"'ishah","morph":"Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"1-samuel-1-15-6","surface":"קְשַׁת","lemma":"קָשֶׁה","translit":"qeshat","morph":"Adjective","glosses":[],"strongs":"H7186"},{"id":"1-samuel-1-15-7","surface":"ר֨וּחַ֙","lemma":"רוּחַ","translit":"rvcha","morph":"Noun common singular absolute","glosses":[],"strongs":"H7307"},{"id":"1-samuel-1-15-8","surface":"אָנֹ֔כִי","lemma":"אָנֹכִי","translit":"'anokiy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H595"},{"id":"1-samuel-1-15-9","surface":"וְיַ֥יִן","lemma":"יַיִן","translit":"veyayin","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H3196"},{"id":"1-samuel-1-15-10","surface":"וְשֵׁכָ֖ר","lemma":"שֵׁכָר","translit":"veshekar","morph":"Conjunction + Noun common masculine singular absolute","glosses":[],"strongs":"H7941"},{"id":"1-samuel-1-15-11","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"1-samuel-1-15-12","surface":"שָׁתִ֑יתִי","lemma":"שָׁתָה","translit":"shatiytiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H8354"},{"id":"1-samuel-1-15-13","surface":"וָאֶשְׁפֹּ֥ךְ","lemma":"שָׁפַךְ","translit":"va'eshepoke","morph":"Conjunction + Verb Qal Wayyiqtol 1st common singular","glosses":[],"strongs":"H8210"},{"id":"1-samuel-1-15-14","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-15-15","surface":"נַפְשִׁ֖י","lemma":"נֶפֶשׁ","translit":"napeshiy","morph":"Noun common singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H5315"},{"id":"1-samuel-1-15-16","surface":"לִפְנֵ֥י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"1-samuel-1-15-17","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"1 Samuel 1:16","englishText":"Don’t count your handmaid for a wicked woman; for I have been speaking out of the abundance of my complaint and my provocation.”  ","tokens":[{"id":"1-samuel-1-16-0","surface":"אַל","lemma":"אַל","translit":"'al","morph":"Particle","glosses":[],"strongs":"H408"},{"id":"1-samuel-1-16-1","surface":"תִּתֵּן֙","lemma":"נָתַן","translit":"titen","morph":"Verb Qal Jussive 2nd masculine singular","glosses":[],"strongs":"H5414"},{"id":"1-samuel-1-16-2","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-16-3","surface":"אֲמָ֣תְךָ֔","lemma":"אָמָה","translit":"'mateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H519"},{"id":"1-samuel-1-16-4","surface":"לִפְנֵ֖י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"1-samuel-1-16-5","surface":"בַּת","lemma":"בַּת","translit":"bat","morph":"Noun common feminine singular construct","glosses":[],"strongs":"H1323"},{"id":"1-samuel-1-16-6","surface":"בְּלִיָּ֑עַל","lemma":"בְּלִיַּעַל","translit":"beliya`al","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1100"},{"id":"1-samuel-1-16-7","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"1-samuel-1-16-8","surface":"מֵרֹ֥ב","lemma":"רֹב","translit":"merob","morph":"Preposition + Noun common singular construct","glosses":[],"strongs":"H7230"},{"id":"1-samuel-1-16-9","surface":"שִׂיחִ֛י","lemma":"שִׂיחַ","translit":"shiychiy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H7879"},{"id":"1-samuel-1-16-10","surface":"וְכַעְסִ֖י","lemma":"כַּעַס","translit":"veka`esiy","morph":"Conjunction + Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H3708"},{"id":"1-samuel-1-16-11","surface":"דִּבַּ֥רְתִּי","lemma":"דָבַר","translit":"dibaretiy","morph":"Verb Piel Participle 1st common singular","glosses":[],"strongs":"H1696"},{"id":"1-samuel-1-16-12","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"1-samuel-1-16-13","surface":"הֵֽנָּה","lemma":"הֵנָּה","translit":"henah","morph":"Adverb","glosses":[],"strongs":"H2008"}],"language":"hebrew"},{"ref":"1 Samuel 1:17","englishText":"  Then Eli answered, “Go in peace; and may the God of Israel grant your petition that you have asked of him.”  ","tokens":[{"id":"1-samuel-1-17-0","surface":"וַיַּ֧עַן","lemma":"עָנָה","translit":"vaya`an","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H6030"},{"id":"1-samuel-1-17-1","surface":"עֵלִ֛י","lemma":"עֵלִי","translit":"`eliy","morph":"Noun proper","glosses":[],"strongs":"H5941"},{"id":"1-samuel-1-17-2","surface":"וַיֹּ֖אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"1-samuel-1-17-3","surface":"לְכִ֣י","lemma":"יָלַךְ","translit":"lekiy","morph":"Verb Qal Weqatal 2nd feminine singular","glosses":[],"strongs":"H3212"},{"id":"1-samuel-1-17-4","surface":"לְשָׁל֑וֹם","lemma":"שָׁלוֹם","translit":"leshalvom","morph":"Preposition + Noun common masculine singular absolute","glosses":[],"strongs":"H7965"},{"id":"1-samuel-1-17-5","surface":"וֵאלֹהֵ֣י","lemma":"אֱלֹהִים","translit":"ve'lohey","morph":"Conjunction + Noun common masculine plural construct","glosses":[],"strongs":"H430"},{"id":"1-samuel-1-17-6","surface":"יִשְׂרָאֵ֗ל","lemma":"יִשְׂרָאֵל","translit":"yishera'el","morph":"Noun proper","glosses":[],"strongs":"H3478"},{"id":"1-samuel-1-17-7","surface":"יִתֵּן֙","lemma":"נָתַן","translit":"yiten","morph":"Verb Qal Imperative 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"1-samuel-1-17-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-17-9","surface":"שֵׁ֣לָתֵ֔ךְ","lemma":"שְׁאֵלָה","translit":"shelateke","morph":"Noun common feminine singular construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H7596"},{"id":"1-samuel-1-17-10","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"1-samuel-1-17-11","surface":"שָׁאַ֖לְתְּ","lemma":"שָׁאַל","translit":"sha'alete","morph":"Verb Qal Participle 2nd feminine singular","glosses":[],"strongs":"H7592"},{"id":"1-samuel-1-17-12","surface":"מֵעִמּֽוֹ","lemma":"עִם","translit":"me`imvo","morph":"Preposition + Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5973"}],"language":"hebrew"},{"ref":"1 Samuel 1:18","englishText":"  She said, “Let your handmaid find favor in your sight.” So the woman went her way, and ate; and her facial expression wasn’t sad any more.","tokens":[{"id":"1-samuel-1-18-0","surface":"וַתֹּ֕אמֶר","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"1-samuel-1-18-1","surface":"תִּמְצָ֧א","lemma":"מָצָא","translit":"timetsa'","morph":"Verb Qal Jussive 3rd feminine singular","glosses":[],"strongs":"H4672"},{"id":"1-samuel-1-18-2","surface":"שִׁפְחָתְךָ֛","lemma":"שִׁפְחָה","translit":"shipechateka","morph":"Noun common feminine singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H8198"},{"id":"1-samuel-1-18-3","surface":"חֵ֖ן","lemma":"חֵן","translit":"chen","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H2580"},{"id":"1-samuel-1-18-4","surface":"בְּעֵינֶ֑יךָ","lemma":"עַיִן","translit":"be`eyneyka","morph":"Preposition + Noun common dual construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5869"},{"id":"1-samuel-1-18-5","surface":"וַתֵּ֨לֶךְ","lemma":"יָלַךְ","translit":"vateleke","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3212"},{"id":"1-samuel-1-18-6","surface":"הָאִשָּׁ֤ה","lemma":"אִשָּׁה","translit":"ha'ishah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"1-samuel-1-18-7","surface":"לְדַרְכָּהּ֙","lemma":"דֶּרֶךְ","translit":"ledarekah","morph":"Preposition + Noun common singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1870"},{"id":"1-samuel-1-18-8","surface":"וַתֹּאכַ֔ל","lemma":"אָכַל","translit":"vato'kal","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H398"},{"id":"1-samuel-1-18-9","surface":"וּפָנֶ֥יהָ","lemma":"פָּנִים","translit":"vpaneyha","morph":"Conjunction + Noun common plural construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H6440"},{"id":"1-samuel-1-18-10","surface":"לֹא","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"1-samuel-1-18-11","surface":"הָיוּ","lemma":"הָיָה","translit":"hayv","morph":"Verb Qal Participle 3rd common plural","glosses":[],"strongs":"H1961"},{"id":"1-samuel-1-18-12","surface":"לָ֖הּ","lemma":"לָ֖הּ","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"1-samuel-1-18-13","surface":"עֽוֹד","lemma":"עוֹד","translit":"`vod","morph":"Adverb","glosses":[],"strongs":"H5750"}],"language":"hebrew"},{"ref":"1 Samuel 1:19","englishText":"They rose up in the morning early, and worshiped before Yahweh, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and Yahweh remembered her.  ","tokens":[{"id":"1-samuel-1-19-0","surface":"וַיַּשְׁכִּ֣מוּ","lemma":"שָׁכַם","translit":"vayashekimv","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H7925"},{"id":"1-samuel-1-19-1","surface":"בַבֹּ֗קֶר","lemma":"בֹּקֶר","translit":"baboqer","morph":"Preposition dual + Noun common masculine singular absolute","glosses":[],"strongs":"H1242"},{"id":"1-samuel-1-19-2","surface":"וַיִּֽשְׁתַּחֲווּ֙","lemma":"שָׁחָה","translit":"vayishetachvv","morph":"Conjunction + Verb Hithpael Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H7812"},{"id":"1-samuel-1-19-3","surface":"לִפְנֵ֣י","lemma":"פָּנִים","translit":"lipeney","morph":"Preposition + Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"1-samuel-1-19-4","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-19-5","surface":"וַיָּשֻׁ֛בוּ","lemma":"שׁוּב","translit":"vayashubv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H7725"},{"id":"1-samuel-1-19-6","surface":"וַיָּבֹ֥אוּ","lemma":"בּוֹא","translit":"vayabo'v","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H935"},{"id":"1-samuel-1-19-7","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"1-samuel-1-19-8","surface":"בֵּיתָ֖ם","lemma":"בַּיִת","translit":"beytam","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine","glosses":[],"strongs":"H1004"},{"id":"1-samuel-1-19-9","surface":"הָרָמָ֑תָה","lemma":"רָמָה","translit":"haramatah","morph":"Particle dual + Noun proper + Suffix dual","glosses":[],"strongs":"H7414"},{"id":"1-samuel-1-19-10","surface":"וַיֵּ֤דַע","lemma":"יָדַע","translit":"vayeda`","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H3045"},{"id":"1-samuel-1-19-11","surface":"אֶלְקָנָה֙","lemma":"אֶלְקָנָה","translit":"'eleqanah","morph":"Noun proper","glosses":[],"strongs":"H511"},{"id":"1-samuel-1-19-12","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-19-13","surface":"חַנָּ֣ה","lemma":"חַנָּה","translit":"chanah","morph":"Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-19-14","surface":"אִשְׁתּ֔וֹ","lemma":"אִשָּׁה","translit":"'ishetvo","morph":"Noun common feminine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H802"},{"id":"1-samuel-1-19-15","surface":"וַיִּֽזְכְּרֶ֖הָ","lemma":"זָכַר","translit":"vayizekereha","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H2142"},{"id":"1-samuel-1-19-16","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"1 Samuel 1:20","englishText":"  When the time had come, Hannah conceived, and bore a son; and she named him Samuel, saying, “Because I have asked him of Yahweh.”  ","tokens":[{"id":"1-samuel-1-20-0","surface":"וַיְהִי֙","lemma":"הָיָה","translit":"vayehiy","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"1-samuel-1-20-1","surface":"לִתְקֻפ֣וֹת","lemma":"תְּקוּפָה","translit":"litequpvot","morph":"Preposition + Noun common feminine plural construct","glosses":[],"strongs":"H8622"},{"id":"1-samuel-1-20-2","surface":"הַיָּמִ֔ים","lemma":"יוֹם","translit":"hayamiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3117"},{"id":"1-samuel-1-20-3","surface":"וַתַּ֥הַר","lemma":"הָרָה","translit":"vatahar","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H2029"},{"id":"1-samuel-1-20-4","surface":"חַנָּ֖ה","lemma":"חַנָּה","translit":"chanah","morph":"Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-20-5","surface":"וַתֵּ֣לֶד","lemma":"יָלַד","translit":"vateled","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3205"},{"id":"1-samuel-1-20-6","surface":"בֵּ֑ן","lemma":"בֵּן","translit":"ben","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H1121"},{"id":"1-samuel-1-20-7","surface":"וַתִּקְרָ֤א","lemma":"קָרָא","translit":"vatiqera'","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H7121"},{"id":"1-samuel-1-20-8","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-20-9","surface":"שְׁמוֹ֙","lemma":"שֵׁם","translit":"shemvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H8034"},{"id":"1-samuel-1-20-10","surface":"שְׁמוּאֵ֔ל","lemma":"שְׁמוּאֵל","translit":"shemv'el","morph":"Noun proper","glosses":[],"strongs":"H8050"},{"id":"1-samuel-1-20-11","surface":"כִּ֥י","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"1-samuel-1-20-12","surface":"מֵיְהוָ֖ה","lemma":"יְהֹוָה","translit":"meyehvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-20-13","surface":"שְׁאִלְתִּֽיו","lemma":"שָׁאַל","translit":"she'iletiyv","morph":"Verb Qal Participle 1st common singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7592"}],"language":"hebrew"},{"ref":"1 Samuel 1:21","englishText":"  The man Elkanah, and all his house, went up to offer to Yahweh the yearly sacrifice, and his vow.","tokens":[{"id":"1-samuel-1-21-0","surface":"וַיַּ֛עַל","lemma":"עָלָה","translit":"vaya`al","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"1-samuel-1-21-1","surface":"הָאִ֥ישׁ","lemma":"אִישׁ","translit":"ha'iysh","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H376"},{"id":"1-samuel-1-21-2","surface":"אֶלְקָנָ֖ה","lemma":"אֶלְקָנָה","translit":"'eleqanah","morph":"Noun proper","glosses":[],"strongs":"H511"},{"id":"1-samuel-1-21-3","surface":"וְכָל","lemma":"כֹּל","translit":"vekal","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"1-samuel-1-21-4","surface":"בֵּית֑וֹ","lemma":"בַּיִת","translit":"beytvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1004"},{"id":"1-samuel-1-21-5","surface":"לִזְבֹּ֧חַ","lemma":"זָבַח","translit":"lizebocha","morph":"Preposition + Verb Qal Infinitive Construct","glosses":[],"strongs":"H2076"},{"id":"1-samuel-1-21-6","surface":"לַֽיהוָ֛ה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-21-7","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-21-8","surface":"זֶ֥בַח","lemma":"זֶבַח","translit":"zebach","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H2077"},{"id":"1-samuel-1-21-9","surface":"הַיָּמִ֖ים","lemma":"יוֹם","translit":"hayamiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3117"},{"id":"1-samuel-1-21-10","surface":"וְאֶת","lemma":"אֵת","translit":"ve'et","morph":"Conjunction + Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-21-11","surface":"נִדְרֽוֹ","lemma":"נֶדֶר","translit":"nidervo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5088"}],"language":"hebrew"},{"ref":"1 Samuel 1:22","englishText":"But Hannah didn’t go up; for she said to her husband, “Not until the child is weaned; then I will bring him, that he may appear before Yahweh, and stay there forever.”  ","tokens":[{"id":"1-samuel-1-22-0","surface":"וְחַנָּ֖ה","lemma":"חַנָּה","translit":"vechanah","morph":"Conjunction + Noun proper","glosses":[],"strongs":"H2584"},{"id":"1-samuel-1-22-1","surface":"לֹ֣א","lemma":"לֹא","translit":"lo'","morph":"Particle","glosses":[],"strongs":"H3808"},{"id":"1-samuel-1-22-2","surface":"עָלָ֑תָה","lemma":"עָלָה","translit":"`alatah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H5927"},{"id":"1-samuel-1-22-3","surface":"כִּֽי","lemma":"כִּי","translit":"kiy","morph":"Conjunction","glosses":[],"strongs":"H3588"},{"id":"1-samuel-1-22-4","surface":"אָמְרָ֣ה","lemma":"אָמַר","translit":"'amerah","morph":"Verb Qal Participle 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"1-samuel-1-22-5","surface":"לְאִישָׁ֗הּ","lemma":"אִישׁ","translit":"le'iyshah","morph":"Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H376"},{"id":"1-samuel-1-22-6","surface":"עַ֣ד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"1-samuel-1-22-7","surface":"יִגָּמֵ֤ל","lemma":"גָּמַל","translit":"yigamel","morph":"Verb Niphal Imperative 3rd masculine singular","glosses":[],"strongs":"H1580"},{"id":"1-samuel-1-22-8","surface":"הַנַּ֨עַר֙","lemma":"נַעַר","translit":"hana`ar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5288"},{"id":"1-samuel-1-22-9","surface":"וַהֲבִאֹתִ֗יו","lemma":"בּוֹא","translit":"vahbi'otiyv","morph":"Conjunction + Verb Hiphil Perfect 1st common singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"1-samuel-1-22-10","surface":"וְנִרְאָה֙","lemma":"רָאָה","translit":"venire'ah","morph":"Conjunction + Verb Niphal Perfect 3rd masculine singular","glosses":[],"strongs":"H7200"},{"id":"1-samuel-1-22-11","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Preposition","glosses":[],"strongs":"H854"},{"id":"1-samuel-1-22-12","surface":"פְּנֵ֣י","lemma":"פָּנִים","translit":"peney","morph":"Noun common plural construct","glosses":[],"strongs":"H6440"},{"id":"1-samuel-1-22-13","surface":"יְהוָ֔ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-22-14","surface":"וְיָ֥שַׁב","lemma":"יָשַׁב","translit":"veyashab","morph":"Conjunction + Verb Qal Perfect 3rd masculine singular","glosses":[],"strongs":"H3427"},{"id":"1-samuel-1-22-15","surface":"שָׁ֖ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"1-samuel-1-22-16","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"1-samuel-1-22-17","surface":"עוֹלָֽם","lemma":"עוֹלָם","translit":"`volam","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5769"}],"language":"hebrew"},{"ref":"1 Samuel 1:23","englishText":"  Elkanah her husband said to her, “Do what seems good to you. Wait until you have weaned him; only may Yahweh establish his word.”   So the woman waited and nursed her son, until she weaned him.","tokens":[{"id":"1-samuel-1-23-0","surface":"וַיֹּ֣אמֶר","lemma":"אָמַר","translit":"vayo'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H559"},{"id":"1-samuel-1-23-1","surface":"לָהּ֩","lemma":"לָהּ֩","translit":"lah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[]},{"id":"1-samuel-1-23-2","surface":"אֶלְקָנָ֨ה","lemma":"אֶלְקָנָה","translit":"'eleqanah","morph":"Noun proper","glosses":[],"strongs":"H511"},{"id":"1-samuel-1-23-3","surface":"אִישָׁ֜הּ","lemma":"אִישׁ","translit":"'iyshah","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H376"},{"id":"1-samuel-1-23-4","surface":"עֲשִׂ֧י","lemma":"עָשָׂה","translit":"`shiy","morph":"Verb Qal Weqatal 2nd feminine singular","glosses":[],"strongs":"H6213"},{"id":"1-samuel-1-23-5","surface":"הַטּ֣וֹב","lemma":"טוֹב","translit":"hatvob","morph":"Particle dual + Adjective","glosses":[],"strongs":"H2896"},{"id":"1-samuel-1-23-6","surface":"בְּעֵינַ֗יִךְ","lemma":"עַיִן","translit":"be`eynayike","morph":"Preposition + Noun common dual construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H5869"},{"id":"1-samuel-1-23-7","surface":"שְׁבִי֙","lemma":"יָשַׁב","translit":"shebiy","morph":"Verb Qal Weqatal 2nd feminine singular","glosses":[],"strongs":"H3427"},{"id":"1-samuel-1-23-8","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"1-samuel-1-23-9","surface":"גָּמְלֵ֣ךְ","lemma":"גָּמַל","translit":"gameleke","morph":"Verb Qal Infinitive Construct + Suffix plural 2nd feminine singular","glosses":[],"strongs":"H1580"},{"id":"1-samuel-1-23-10","surface":"אֹת֔וֹ","lemma":"אֵת","translit":"'otvo","morph":"Particle + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-23-11","surface":"אַ֛ךְ","lemma":"אַךְ","translit":"'ake","morph":"Particle absolute","glosses":[],"strongs":"H389"},{"id":"1-samuel-1-23-12","surface":"יָקֵ֥ם","lemma":"קוּם","translit":"yaqem","morph":"Verb Hiphil Jussive 3rd masculine singular","glosses":[],"strongs":"H6965"},{"id":"1-samuel-1-23-13","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-23-14","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-23-15","surface":"דְּבָר֑וֹ","lemma":"דָּבָר","translit":"debarvo","morph":"Noun common masculine singular construct + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1697"},{"id":"1-samuel-1-23-16","surface":"וַתֵּ֤שֶׁב","lemma":"יָשַׁב","translit":"vatesheb","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3427"},{"id":"1-samuel-1-23-17","surface":"הָֽאִשָּׁה֙","lemma":"אִשָּׁה","translit":"ha'ishah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"1-samuel-1-23-18","surface":"וַתֵּ֣ינֶק","lemma":"יָנַק","translit":"vateyneq","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H3243"},{"id":"1-samuel-1-23-19","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-23-20","surface":"בְּנָ֔הּ","lemma":"בֵּן","translit":"benah","morph":"Noun common masculine singular construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1121"},{"id":"1-samuel-1-23-21","surface":"עַד","lemma":"עַד","translit":"`ad","morph":"Preposition","glosses":[],"strongs":"H5704"},{"id":"1-samuel-1-23-22","surface":"גָּמְלָ֖הּ","lemma":"גָּמַל","translit":"gamelah","morph":"Verb Qal Infinitive Construct + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H1580"},{"id":"1-samuel-1-23-23","surface":"אֹתֽוֹ","lemma":"אֵת","translit":"'otvo","morph":"Particle + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H853"}],"language":"hebrew"},{"ref":"1 Samuel 1:24","englishText":"When she had weaned him, she took him up with her, with three bulls, and one ephah of meal, and a bottle of wine, and brought him to Yahweh’s house in Shiloh. The child was young.","tokens":[{"id":"1-samuel-1-24-0","surface":"וַתַּעֲלֵ֨הוּ","lemma":"עָלָה","translit":"vata`lehv","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5927"},{"id":"1-samuel-1-24-1","surface":"עִמָּ֜הּ","lemma":"עִם","translit":"`imah","morph":"Preposition + Suffix plural 3rd feminine singular","glosses":[],"strongs":"H5973"},{"id":"1-samuel-1-24-2","surface":"כַּאֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"ka'sher","morph":"Preposition + Particle","glosses":[],"strongs":"H834"},{"id":"1-samuel-1-24-3","surface":"גְּמָלַ֗תּוּ","lemma":"גָּמַל","translit":"gemalatv","morph":"Verb Qal Participle 3rd feminine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H1580"},{"id":"1-samuel-1-24-4","surface":"בְּפָרִ֤ים","lemma":"פַּר","translit":"bepariym","morph":"Preposition + Noun common masculine plural absolute","glosses":[],"strongs":"H6499"},{"id":"1-samuel-1-24-5","surface":"שְׁלֹשָׁה֙","lemma":"שָׁלוֹשׁ","translit":"sheloshah","morph":"Adjective common masculine singular absolute","glosses":[],"strongs":"H7969"},{"id":"1-samuel-1-24-6","surface":"וְאֵיפָ֨ה","lemma":"אֵיפָה","translit":"ve'eypah","morph":"Conjunction + Noun common feminine singular absolute","glosses":[],"strongs":"H374"},{"id":"1-samuel-1-24-7","surface":"אַחַ֥ת","lemma":"אֶחָד","translit":"'achat","morph":"Adjective common feminine singular absolute","glosses":[],"strongs":"H259"},{"id":"1-samuel-1-24-8","surface":"קֶ֨מַח֙","lemma":"קֶמַח","translit":"qemach","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H7058"},{"id":"1-samuel-1-24-9","surface":"וְנֵ֣בֶל","lemma":"נֶבֶל","translit":"venebel","morph":"Conjunction + Noun common masculine singular construct","glosses":[],"strongs":"H5035"},{"id":"1-samuel-1-24-10","surface":"יַ֔יִן","lemma":"יַיִן","translit":"yayin","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H3196"},{"id":"1-samuel-1-24-11","surface":"וַתְּבִאֵ֥הוּ","lemma":"בּוֹא","translit":"vatebi'ehv","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H935"},{"id":"1-samuel-1-24-12","surface":"בֵית","lemma":"בַּיִת","translit":"beyt","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H1004"},{"id":"1-samuel-1-24-13","surface":"יְהוָ֖ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-24-14","surface":"שִׁל֑וֹ","lemma":"שִׁילֹה","translit":"shilvo","morph":"Noun proper","glosses":[],"strongs":"H7887"},{"id":"1-samuel-1-24-15","surface":"וְהַנַּ֖עַר","lemma":"נַעַר","translit":"vehana`ar","morph":"Conjunction + Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5288"},{"id":"1-samuel-1-24-16","surface":"נָֽעַר","lemma":"נַעַר","translit":"na`ar","morph":"Noun common masculine singular absolute","glosses":[],"strongs":"H5288"}],"language":"hebrew"},{"ref":"1 Samuel 1:25","englishText":"They killed the bull, and brought the child to Eli.","tokens":[{"id":"1-samuel-1-25-0","surface":"וַֽיִּשְׁחֲט֖וּ","lemma":"שָׁחַט","translit":"vayishechtv","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H7819"},{"id":"1-samuel-1-25-1","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-25-2","surface":"הַפָּ֑ר","lemma":"פַּר","translit":"hapar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H6499"},{"id":"1-samuel-1-25-3","surface":"וַיָּבִ֥יאוּ","lemma":"בּוֹא","translit":"vayabiy'v","morph":"Conjunction + Verb Hiphil Wayyiqtol 3rd masculine plural","glosses":[],"strongs":"H935"},{"id":"1-samuel-1-25-4","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-25-5","surface":"הַנַּ֖עַר","lemma":"נַעַר","translit":"hana`ar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5288"},{"id":"1-samuel-1-25-6","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"1-samuel-1-25-7","surface":"עֵלִֽי","lemma":"עֵלִי","translit":"`eliy","morph":"Noun proper","glosses":[],"strongs":"H5941"}],"language":"hebrew"},{"ref":"1 Samuel 1:26","englishText":"She said, “Oh, my lord, as your soul lives, my lord, I am the woman who stood by you here, praying to Yahweh.","tokens":[{"id":"1-samuel-1-26-0","surface":"וַתֹּ֨אמֶר֙","lemma":"אָמַר","translit":"vato'mer","morph":"Conjunction + Verb Qal Wayyiqtol 3rd feminine singular","glosses":[],"strongs":"H559"},{"id":"1-samuel-1-26-1","surface":"בִּ֣י","lemma":"בִּי","translit":"biy","morph":"Particle","glosses":[],"strongs":"H994"},{"id":"1-samuel-1-26-2","surface":"אֲדֹנִ֔י","lemma":"אָדוֹן","translit":"'doniy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H113"},{"id":"1-samuel-1-26-3","surface":"חֵ֥י","lemma":"חַי","translit":"chey","morph":"Adjective","glosses":[],"strongs":"H2416"},{"id":"1-samuel-1-26-4","surface":"נַפְשְׁךָ֖","lemma":"נֶפֶשׁ","translit":"napesheka","morph":"Noun common singular construct + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5315"},{"id":"1-samuel-1-26-5","surface":"אֲדֹנִ֑י","lemma":"אָדוֹן","translit":"'doniy","morph":"Noun common masculine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H113"},{"id":"1-samuel-1-26-6","surface":"אֲנִ֣י","lemma":"אֲנִי","translit":"'niy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H589"},{"id":"1-samuel-1-26-7","surface":"הָאִשָּׁ֗ה","lemma":"אִשָּׁה","translit":"ha'ishah","morph":"Particle dual + Noun common feminine singular absolute","glosses":[],"strongs":"H802"},{"id":"1-samuel-1-26-8","surface":"הַנִּצֶּ֤בֶת","lemma":"נָצַב","translit":"hanitsebet","morph":"Particle dual + Verb Niphal Passive Participle","glosses":[],"strongs":"H5324"},{"id":"1-samuel-1-26-9","surface":"עִמְּכָה֙","lemma":"עִם","translit":"`imekah","morph":"Preposition + Suffix plural 2nd masculine singular","glosses":[],"strongs":"H5973"},{"id":"1-samuel-1-26-10","surface":"בָּזֶ֔ה","lemma":"זֶה","translit":"bazeh","morph":"Preposition + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"1-samuel-1-26-11","surface":"לְהִתְפַּלֵּ֖ל","lemma":"פָּלַל","translit":"lehitepalel","morph":"Preposition + Verb Hithpael Infinitive Construct","glosses":[],"strongs":"H6419"},{"id":"1-samuel-1-26-12","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"1-samuel-1-26-13","surface":"יְהוָֽה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"},{"ref":"1 Samuel 1:27","englishText":"For this child I prayed; and Yahweh has given me my petition which I asked of him.","tokens":[{"id":"1-samuel-1-27-0","surface":"אֶל","lemma":"אֵל","translit":"'el","morph":"Preposition","glosses":[],"strongs":"H413"},{"id":"1-samuel-1-27-1","surface":"הַנַּ֥עַר","lemma":"נַעַר","translit":"hana`ar","morph":"Particle dual + Noun common masculine singular absolute","glosses":[],"strongs":"H5288"},{"id":"1-samuel-1-27-2","surface":"הַזֶּ֖ה","lemma":"זֶה","translit":"hazeh","morph":"Particle dual + Pronoun dual masculine singular","glosses":[],"strongs":"H2088"},{"id":"1-samuel-1-27-3","surface":"הִתְפַּלָּ֑לְתִּי","lemma":"פָּלַל","translit":"hitepalaletiy","morph":"Verb Hithpael Participle 1st common singular","glosses":[],"strongs":"H6419"},{"id":"1-samuel-1-27-4","surface":"וַיִּתֵּ֨ן","lemma":"נָתַן","translit":"vayiten","morph":"Conjunction + Verb Qal Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H5414"},{"id":"1-samuel-1-27-5","surface":"יְהוָ֥ה","lemma":"יְהֹוָה","translit":"yehvah","morph":"Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-27-6","surface":"לִי֙","lemma":"לִי֙","translit":"liy","morph":"Preposition + Suffix plural 1st common singular","glosses":[]},{"id":"1-samuel-1-27-7","surface":"אֶת","lemma":"אֵת","translit":"'et","morph":"Particle","glosses":[],"strongs":"H853"},{"id":"1-samuel-1-27-8","surface":"שְׁאֵ֣לָתִ֔י","lemma":"שְׁאֵלָה","translit":"she'elatiy","morph":"Noun common feminine singular construct + Suffix plural 1st common singular","glosses":[],"strongs":"H7596"},{"id":"1-samuel-1-27-9","surface":"אֲשֶׁ֥ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"1-samuel-1-27-10","surface":"שָׁאַ֖לְתִּי","lemma":"שָׁאַל","translit":"sha'aletiy","morph":"Verb Qal Participle 1st common singular","glosses":[],"strongs":"H7592"},{"id":"1-samuel-1-27-11","surface":"מֵעִמּֽוֹ","lemma":"עִם","translit":"me`imvo","morph":"Preposition + Preposition + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H5973"}],"language":"hebrew"},{"ref":"1 Samuel 1:28","englishText":"Therefore also I have granted him to Yahweh. As long as he lives he is granted to Yahweh.” He worshiped Yahweh there.   ","tokens":[{"id":"1-samuel-1-28-0","surface":"וְגַ֣ם","lemma":"גַּם","translit":"vegam","morph":"Conjunction + Particle absolute","glosses":[],"strongs":"H1571"},{"id":"1-samuel-1-28-1","surface":"אָנֹכִ֗י","lemma":"אָנֹכִי","translit":"'anokiy","morph":"Pronoun plural 1st common singular","glosses":[],"strongs":"H595"},{"id":"1-samuel-1-28-2","surface":"הִשְׁאִלְתִּ֨הוּ֙","lemma":"שָׁאַל","translit":"hishe'iletihv","morph":"Verb Hiphil Participle 1st common singular + Suffix plural 3rd masculine singular","glosses":[],"strongs":"H7592"},{"id":"1-samuel-1-28-3","surface":"לַֽיהוָ֔ה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-28-4","surface":"כָּל","lemma":"כֹּל","translit":"kal","morph":"Noun common masculine singular construct","glosses":[],"strongs":"H3605"},{"id":"1-samuel-1-28-5","surface":"הַיָּמִים֙","lemma":"יוֹם","translit":"hayamiym","morph":"Particle dual + Noun common masculine plural absolute","glosses":[],"strongs":"H3117"},{"id":"1-samuel-1-28-6","surface":"אֲשֶׁ֣ר","lemma":"אֲשֶׁר","translit":"'sher","morph":"Particle","glosses":[],"strongs":"H834"},{"id":"1-samuel-1-28-7","surface":"הָיָ֔ה","lemma":"הָיָה","translit":"hayah","morph":"Verb Qal Participle 3rd masculine singular","glosses":[],"strongs":"H1961"},{"id":"1-samuel-1-28-8","surface":"ה֥וּא","lemma":"הוּא","translit":"hv'","morph":"Pronoun plural 3rd masculine singular","glosses":[],"strongs":"H1931"},{"id":"1-samuel-1-28-9","surface":"שָׁא֖וּל","lemma":"שָׁאַל","translit":"sha'vl","morph":"Verb Qal s","glosses":[],"strongs":"H7592"},{"id":"1-samuel-1-28-10","surface":"לַֽיהוָ֑ה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"},{"id":"1-samuel-1-28-11","surface":"וַיִּשְׁתַּ֥חוּ","lemma":"שָׁחָה","translit":"vayishetachv","morph":"Conjunction + Verb Hithpael Wayyiqtol 3rd masculine singular","glosses":[],"strongs":"H7812"},{"id":"1-samuel-1-28-12","surface":"שָׁ֖ם","lemma":"שָׁם","translit":"sham","morph":"Adverb","glosses":[],"strongs":"H8033"},{"id":"1-samuel-1-28-13","surface":"לַיהוָֽה","lemma":"יְהֹוָה","translit":"layhvah","morph":"Preposition + Noun proper","glosses":[],"strongs":"H3068"}],"language":"hebrew"}],"language":"hebrew"}
+{
+  "id": "1-samuel-1",
+  "name": "1 Samuel",
+  "chapter": 1,
+  "verses": [
+    {
+      "ref": "1 Samuel 1:1",
+      "englishText": "Now there was a certain man of Ramathaim Zophim, of the hill country of Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite:",
+      "tokens": [
+        {
+          "id": "1-samuel-1-1-0",
+          "surface": "וַיְהִי֩",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "1-samuel-1-1-1",
+          "surface": "אִ֨ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "'iysh",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "1-samuel-1-1-2",
+          "surface": "אֶחָ֜ד",
+          "lemma": "אֶחָד",
+          "translit": "'echad",
+          "morph": "Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H259"
+        },
+        {
+          "id": "1-samuel-1-1-3",
+          "surface": "מִן",
+          "lemma": "מִן",
+          "translit": "min",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H4480"
+        },
+        {
+          "id": "1-samuel-1-1-4",
+          "surface": "הָרָמָתַ֛יִם",
+          "lemma": "רָמָתַיִם צוֹפִים",
+          "translit": "haramatayim",
+          "morph": "Particle dual + Noun proper",
+          "glosses": [],
+          "strongs": "H7436"
+        },
+        {
+          "id": "1-samuel-1-1-5",
+          "surface": "צוֹפִ֖ים",
+          "lemma": "רָמָתַיִם צוֹפִים",
+          "translit": "tsvopiym",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7436"
+        },
+        {
+          "id": "1-samuel-1-1-6",
+          "surface": "מֵהַ֣ר",
+          "lemma": "הַר",
+          "translit": "mehar",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2022"
+        },
+        {
+          "id": "1-samuel-1-1-7",
+          "surface": "אֶפְרָ֑יִם",
+          "lemma": "אֶפְרַיִם",
+          "translit": "'eperayim",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H669"
+        },
+        {
+          "id": "1-samuel-1-1-8",
+          "surface": "וּשְׁמ֡וֹ",
+          "lemma": "שֵׁם",
+          "translit": "vshemvo",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "1-samuel-1-1-9",
+          "surface": "אֶ֠לְקָנָה",
+          "lemma": "אֶלְקָנָה",
+          "translit": "'eleqanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H511"
+        },
+        {
+          "id": "1-samuel-1-1-10",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "1-samuel-1-1-11",
+          "surface": "יְרֹחָ֧ם",
+          "lemma": "יְרֹחָם",
+          "translit": "yerocham",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3395"
+        },
+        {
+          "id": "1-samuel-1-1-12",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "1-samuel-1-1-13",
+          "surface": "אֱלִיה֛וּא",
+          "lemma": "אֱלִיהוּ",
+          "translit": "'liyhv'",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H453"
+        },
+        {
+          "id": "1-samuel-1-1-14",
+          "surface": "בֶּן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "1-samuel-1-1-15",
+          "surface": "תֹּ֥חוּ",
+          "lemma": "תֹּחוּ",
+          "translit": "tochv",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H8459"
+        },
+        {
+          "id": "1-samuel-1-1-16",
+          "surface": "בֶן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "1-samuel-1-1-17",
+          "surface": "צ֖וּף",
+          "lemma": "צוּף",
+          "translit": "tsvp",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6689"
+        },
+        {
+          "id": "1-samuel-1-1-18",
+          "surface": "אֶפְרָתִֽי",
+          "lemma": "אֶפְרָתִי",
+          "translit": "'eperatiy",
+          "morph": "Noun gentilic masculine singular absolute",
+          "glosses": [],
+          "strongs": "H673"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:2",
+      "englishText": "and he had two wives; the name of the one was Hannah, and the name of other Peninnah: and Peninnah had children, but Hannah had no children.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-2-0",
+          "surface": "וְלוֹ֙",
+          "lemma": "וְלוֹ֙",
+          "translit": "velvo",
+          "morph": "Conjunction + Preposition + Suffix plural 3rd masculine singular",
+          "glosses": []
+        },
+        {
+          "id": "1-samuel-1-2-1",
+          "surface": "שְׁתֵּ֣י",
+          "lemma": "שְׁנַיִם",
+          "translit": "shetey",
+          "morph": "Adjective common feminine dual construct",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "1-samuel-1-2-2",
+          "surface": "נָשִׁ֔ים",
+          "lemma": "אִשָּׁה",
+          "translit": "nashiym",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "1-samuel-1-2-3",
+          "surface": "שֵׁ֤ם",
+          "lemma": "שֵׁם",
+          "translit": "shem",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "1-samuel-1-2-4",
+          "surface": "אַחַת֙",
+          "lemma": "אֶחָד",
+          "translit": "'achat",
+          "morph": "Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H259"
+        },
+        {
+          "id": "1-samuel-1-2-5",
+          "surface": "חַנָּ֔ה",
+          "lemma": "חַנָּה",
+          "translit": "chanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-2-6",
+          "surface": "וְשֵׁ֥ם",
+          "lemma": "שֵׁם",
+          "translit": "veshem",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "1-samuel-1-2-7",
+          "surface": "הַשֵּׁנִ֖ית",
+          "lemma": "שֵׁנִי",
+          "translit": "hasheniyt",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H8145"
+        },
+        {
+          "id": "1-samuel-1-2-8",
+          "surface": "פְּנִנָּ֑ה",
+          "lemma": "פְּנִנָּה",
+          "translit": "peninah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H6444"
+        },
+        {
+          "id": "1-samuel-1-2-9",
+          "surface": "וַיְהִ֤י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "1-samuel-1-2-10",
+          "surface": "לִפְנִנָּה֙",
+          "lemma": "פְּנִנָּה",
+          "translit": "lipeninah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6444"
+        },
+        {
+          "id": "1-samuel-1-2-11",
+          "surface": "יְלָדִ֔ים",
+          "lemma": "יֶלֶד",
+          "translit": "yeladiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3206"
+        },
+        {
+          "id": "1-samuel-1-2-12",
+          "surface": "וּלְחַנָּ֖ה",
+          "lemma": "חַנָּה",
+          "translit": "vlechanah",
+          "morph": "Conjunction + Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-2-13",
+          "surface": "אֵ֥ין",
+          "lemma": "אַיִן",
+          "translit": "'eyn",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H369"
+        },
+        {
+          "id": "1-samuel-1-2-14",
+          "surface": "יְלָדִֽים",
+          "lemma": "יֶלֶד",
+          "translit": "yeladiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3206"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:3",
+      "englishText": "This man went up out of his city from year to year to worship and to sacrifice to Yahweh of Armies in Shiloh. The two sons of Eli, Hophni and Phinehas, priests to Yahweh, were there.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-3-0",
+          "surface": "וְעָלָה֩",
+          "lemma": "עָלָה",
+          "translit": "ve`alah",
+          "morph": "Conjunction + Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "1-samuel-1-3-1",
+          "surface": "הָאִ֨ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "ha'iysh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "1-samuel-1-3-2",
+          "surface": "הַה֤וּא",
+          "lemma": "הוּא",
+          "translit": "hahv'",
+          "morph": "Particle dual + Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "1-samuel-1-3-3",
+          "surface": "מֵֽעִירוֹ֙",
+          "lemma": "עִיר",
+          "translit": "me`iyrvo",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5892"
+        },
+        {
+          "id": "1-samuel-1-3-4",
+          "surface": "מִיָּמִ֣ים",
+          "lemma": "יוֹם",
+          "translit": "miyamiym",
+          "morph": "Preposition + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "1-samuel-1-3-5",
+          "surface": "יָמִ֔ימָה",
+          "lemma": "יוֹם",
+          "translit": "yamiymah",
+          "morph": "Noun common masculine plural absolute + Suffix dual",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "1-samuel-1-3-6",
+          "surface": "לְהִֽשְׁתַּחֲוֺ֧ת",
+          "lemma": "שָׁחָה",
+          "translit": "lehishetachvt",
+          "morph": "Preposition + Verb Hithpael Infinitive Construct",
+          "glosses": [],
+          "strongs": "H7812"
+        },
+        {
+          "id": "1-samuel-1-3-7",
+          "surface": "וְלִזְבֹּ֛חַ",
+          "lemma": "זָבַח",
+          "translit": "velizebocha",
+          "morph": "Conjunction + Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H2076"
+        },
+        {
+          "id": "1-samuel-1-3-8",
+          "surface": "לַיהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-3-9",
+          "surface": "צְבָא֖וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "1-samuel-1-3-10",
+          "surface": "בְּשִׁלֹ֑ה",
+          "lemma": "שִׁילֹה",
+          "translit": "beshiloh",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H7887"
+        },
+        {
+          "id": "1-samuel-1-3-11",
+          "surface": "וְשָׁ֞ם",
+          "lemma": "שָׁם",
+          "translit": "vesham",
+          "morph": "Conjunction + Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "1-samuel-1-3-12",
+          "surface": "שְׁנֵ֣י",
+          "lemma": "שְׁנַיִם",
+          "translit": "sheney",
+          "morph": "Adjective common masculine dual construct",
+          "glosses": [],
+          "strongs": "H8147"
+        },
+        {
+          "id": "1-samuel-1-3-13",
+          "surface": "בְנֵֽי",
+          "lemma": "בֵּן",
+          "translit": "beney",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "1-samuel-1-3-14",
+          "surface": "עֵלִ֗י",
+          "lemma": "עֵלִי",
+          "translit": "`eliy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5941"
+        },
+        {
+          "id": "1-samuel-1-3-15",
+          "surface": "חָפְנִי֙",
+          "lemma": "חׇפְנִי",
+          "translit": "chapeniy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2652"
+        },
+        {
+          "id": "1-samuel-1-3-16",
+          "surface": "וּפִ֣נְחָ֔ס",
+          "lemma": "פִּינְחָס",
+          "translit": "vpinechas",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H6372"
+        },
+        {
+          "id": "1-samuel-1-3-17",
+          "surface": "כֹּהֲנִ֖ים",
+          "lemma": "כֹּהֵן",
+          "translit": "kohniym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "1-samuel-1-3-18",
+          "surface": "לַיהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:4",
+      "englishText": "When the day came that Elkanah sacrificed, he gave to Peninnah his wife, and to all her sons and her daughters, portions:",
+      "tokens": [
+        {
+          "id": "1-samuel-1-4-0",
+          "surface": "וַיְהִ֣י",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "1-samuel-1-4-1",
+          "surface": "הַיּ֔וֹם",
+          "lemma": "יוֹם",
+          "translit": "hayvom",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "1-samuel-1-4-2",
+          "surface": "וַיִּזְבַּ֖ח",
+          "lemma": "זָבַח",
+          "translit": "vayizebach",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2076"
+        },
+        {
+          "id": "1-samuel-1-4-3",
+          "surface": "אֶלְקָנָ֑ה",
+          "lemma": "אֶלְקָנָה",
+          "translit": "'eleqanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H511"
+        },
+        {
+          "id": "1-samuel-1-4-4",
+          "surface": "וְנָתַ֞ן",
+          "lemma": "נָתַן",
+          "translit": "venatan",
+          "morph": "Conjunction + Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "1-samuel-1-4-5",
+          "surface": "לִפְנִנָּ֣ה",
+          "lemma": "פְּנִנָּה",
+          "translit": "lipeninah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H6444"
+        },
+        {
+          "id": "1-samuel-1-4-6",
+          "surface": "אִשְׁתּ֗וֹ",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishetvo",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "1-samuel-1-4-7",
+          "surface": "וּֽלְכָל",
+          "lemma": "כֹּל",
+          "translit": "vlekal",
+          "morph": "Conjunction + Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "1-samuel-1-4-8",
+          "surface": "בָּנֶ֛יהָ",
+          "lemma": "בֵּן",
+          "translit": "baneyha",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "1-samuel-1-4-9",
+          "surface": "וּבְנוֹתֶ֖יהָ",
+          "lemma": "בַּת",
+          "translit": "vbenvoteyha",
+          "morph": "Conjunction + Noun common feminine plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "1-samuel-1-4-10",
+          "surface": "מָנֽוֹת",
+          "lemma": "מָנָה",
+          "translit": "manvot",
+          "morph": "Noun common feminine plural absolute",
+          "glosses": [],
+          "strongs": "H4490"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:5",
+      "englishText": "but to Hannah he gave a double portion; for he loved Hannah, but Yahweh had shut up her womb.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-5-0",
+          "surface": "וּלְחַנָּ֕ה",
+          "lemma": "חַנָּה",
+          "translit": "vlechanah",
+          "morph": "Conjunction + Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-5-1",
+          "surface": "יִתֵּ֛ן",
+          "lemma": "נָתַן",
+          "translit": "yiten",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "1-samuel-1-5-2",
+          "surface": "מָנָ֥ה",
+          "lemma": "מָנָה",
+          "translit": "manah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H4490"
+        },
+        {
+          "id": "1-samuel-1-5-3",
+          "surface": "אַחַ֖ת",
+          "lemma": "אֶחָד",
+          "translit": "'achat",
+          "morph": "Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H259"
+        },
+        {
+          "id": "1-samuel-1-5-4",
+          "surface": "אַפָּ֑יִם",
+          "lemma": "אַף",
+          "translit": "'apayim",
+          "morph": "Noun common masculine dual absolute",
+          "glosses": [],
+          "strongs": "H639"
+        },
+        {
+          "id": "1-samuel-1-5-5",
+          "surface": "כִּ֤י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "1-samuel-1-5-6",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-5-7",
+          "surface": "חַנָּה֙",
+          "lemma": "חַנָּה",
+          "translit": "chanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-5-8",
+          "surface": "אָהֵ֔ב",
+          "lemma": "אָהַב",
+          "translit": "'aheb",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H157"
+        },
+        {
+          "id": "1-samuel-1-5-9",
+          "surface": "וַֽיהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "vayhvah",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-5-10",
+          "surface": "סָגַ֥ר",
+          "lemma": "סָגַר",
+          "translit": "sagar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5462"
+        },
+        {
+          "id": "1-samuel-1-5-11",
+          "surface": "רַחְמָֽהּ",
+          "lemma": "רֶחֶם",
+          "translit": "rachemah",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7358"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:6",
+      "englishText": "Her rival provoked her severely, to make her fret, because Yahweh had shut up her womb.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-6-0",
+          "surface": "וְכִֽעֲסַ֤תָּה",
+          "lemma": "כַּעַס",
+          "translit": "veki`satah",
+          "morph": "Conjunction + Verb Piel Participle 3rd feminine singular + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3707"
+        },
+        {
+          "id": "1-samuel-1-6-1",
+          "surface": "צָֽרָתָהּ֙",
+          "lemma": "צָרָה",
+          "translit": "tsaratah",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6869"
+        },
+        {
+          "id": "1-samuel-1-6-2",
+          "surface": "גַּם",
+          "lemma": "גַּם",
+          "translit": "gam",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "1-samuel-1-6-3",
+          "surface": "כַּ֔עַס",
+          "lemma": "כַּעַס",
+          "translit": "ka`as",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3708"
+        },
+        {
+          "id": "1-samuel-1-6-4",
+          "surface": "בַּעֲב֖וּר",
+          "lemma": "עָבוּר",
+          "translit": "ba`bvr",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5668"
+        },
+        {
+          "id": "1-samuel-1-6-5",
+          "surface": "הַרְּעִמָ֑הּ",
+          "lemma": "רָעַם",
+          "translit": "hare`imah",
+          "morph": "Verb Hiphil Infinitive Construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7481"
+        },
+        {
+          "id": "1-samuel-1-6-6",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "1-samuel-1-6-7",
+          "surface": "סָגַ֥ר",
+          "lemma": "סָגַר",
+          "translit": "sagar",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5462"
+        },
+        {
+          "id": "1-samuel-1-6-8",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-6-9",
+          "surface": "בְּעַ֥ד",
+          "lemma": "בְּעַד",
+          "translit": "be`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H1157"
+        },
+        {
+          "id": "1-samuel-1-6-10",
+          "surface": "רַחְמָֽהּ",
+          "lemma": "רֶחֶם",
+          "translit": "rachemah",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7358"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:7",
+      "englishText": "As he did so year by year, when she went up to Yahweh’s house, so she provoked her; therefore she wept, and didn’t eat.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-7-0",
+          "surface": "וְכֵ֨ן",
+          "lemma": "כֵּן",
+          "translit": "veken",
+          "morph": "Conjunction + Particle masculine",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "1-samuel-1-7-1",
+          "surface": "יַעֲשֶׂ֜ה",
+          "lemma": "עָשָׂה",
+          "translit": "ya`sheh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "1-samuel-1-7-2",
+          "surface": "שָׁנָ֣ה",
+          "lemma": "שָׁנֶה",
+          "translit": "shanah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "1-samuel-1-7-3",
+          "surface": "בְשָׁנָ֗ה",
+          "lemma": "שָׁנֶה",
+          "translit": "beshanah",
+          "morph": "Preposition + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H8141"
+        },
+        {
+          "id": "1-samuel-1-7-4",
+          "surface": "מִדֵּ֤י",
+          "lemma": "דַּי",
+          "translit": "midey",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1767"
+        },
+        {
+          "id": "1-samuel-1-7-5",
+          "surface": "עֲלֹתָהּ֙",
+          "lemma": "עָלָה",
+          "translit": "`lotah",
+          "morph": "Verb Qal Infinitive Construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "1-samuel-1-7-6",
+          "surface": "בְּבֵ֣ית",
+          "lemma": "בַּיִת",
+          "translit": "bebeyt",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "1-samuel-1-7-7",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-7-8",
+          "surface": "כֵּ֖ן",
+          "lemma": "כֵּן",
+          "translit": "ken",
+          "morph": "Particle masculine",
+          "glosses": [],
+          "strongs": "H3651"
+        },
+        {
+          "id": "1-samuel-1-7-9",
+          "surface": "תַּכְעִסֶ֑נָּה",
+          "lemma": "כַּעַס",
+          "translit": "take`isenah",
+          "morph": "Verb Hiphil Imperative 3rd feminine singular + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3707"
+        },
+        {
+          "id": "1-samuel-1-7-10",
+          "surface": "וַתִּבְכֶּ֖ה",
+          "lemma": "בָּכָה",
+          "translit": "vatibekeh",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1058"
+        },
+        {
+          "id": "1-samuel-1-7-11",
+          "surface": "וְלֹ֥א",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "1-samuel-1-7-12",
+          "surface": "תֹאכַֽל",
+          "lemma": "אָכַל",
+          "translit": "to'kal",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:8",
+      "englishText": "Elkanah her husband said to her, “Hannah, why do you weep? Why don’t you eat? Why is your heart grieved? Am I not better to you than ten sons?”  ",
+      "tokens": [
+        {
+          "id": "1-samuel-1-8-0",
+          "surface": "וַיֹּ֨אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "1-samuel-1-8-1",
+          "surface": "לָ֜הּ",
+          "lemma": "לָ֜הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "1-samuel-1-8-2",
+          "surface": "אֶלְקָנָ֣ה",
+          "lemma": "אֶלְקָנָה",
+          "translit": "'eleqanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H511"
+        },
+        {
+          "id": "1-samuel-1-8-3",
+          "surface": "אִישָׁ֗הּ",
+          "lemma": "אִישׁ",
+          "translit": "'iyshah",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "1-samuel-1-8-4",
+          "surface": "חַנָּה֙",
+          "lemma": "חַנָּה",
+          "translit": "chanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-8-5",
+          "surface": "לָ֣מֶה",
+          "lemma": "מָה",
+          "translit": "lameh",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "1-samuel-1-8-6",
+          "surface": "תִבְכִּ֗י",
+          "lemma": "בָּכָה",
+          "translit": "tibekiy",
+          "morph": "Verb Qal Imperative 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1058"
+        },
+        {
+          "id": "1-samuel-1-8-7",
+          "surface": "וְלָ֨מֶה֙",
+          "lemma": "מָה",
+          "translit": "velameh",
+          "morph": "Conjunction + Preposition + Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "1-samuel-1-8-8",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "1-samuel-1-8-9",
+          "surface": "תֹֽאכְלִ֔י",
+          "lemma": "אָכַל",
+          "translit": "to'keliy",
+          "morph": "Verb Qal Imperative 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "1-samuel-1-8-10",
+          "surface": "וְלָ֖מֶה",
+          "lemma": "מָה",
+          "translit": "velameh",
+          "morph": "Conjunction + Preposition + Particle",
+          "glosses": [],
+          "strongs": "H4100"
+        },
+        {
+          "id": "1-samuel-1-8-11",
+          "surface": "יֵרַ֣ע",
+          "lemma": "יָרַע",
+          "translit": "yera`",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3415"
+        },
+        {
+          "id": "1-samuel-1-8-12",
+          "surface": "לְבָבֵ֑ךְ",
+          "lemma": "לֵבָב",
+          "translit": "lebabeke",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3824"
+        },
+        {
+          "id": "1-samuel-1-8-13",
+          "surface": "הֲל֤וֹא",
+          "lemma": "לֹא",
+          "translit": "hlvo'",
+          "morph": "Particle + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "1-samuel-1-8-14",
+          "surface": "אָֽנֹכִי֙",
+          "lemma": "אָנֹכִי",
+          "translit": "'anokiy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H595"
+        },
+        {
+          "id": "1-samuel-1-8-15",
+          "surface": "ט֣וֹב",
+          "lemma": "טוֹב",
+          "translit": "tvob",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2896"
+        },
+        {
+          "id": "1-samuel-1-8-16",
+          "surface": "לָ֔ךְ",
+          "lemma": "לָ֔ךְ",
+          "translit": "lake",
+          "morph": "Preposition + Suffix plural 2nd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "1-samuel-1-8-17",
+          "surface": "מֵעֲשָׂרָ֖ה",
+          "lemma": "עֶשֶׂר",
+          "translit": "me`sharah",
+          "morph": "Preposition + Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6235"
+        },
+        {
+          "id": "1-samuel-1-8-18",
+          "surface": "בָּנִֽים",
+          "lemma": "בֵּן",
+          "translit": "baniym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H1121"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:9",
+      "englishText": "  So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest was sitting on his seat by the doorpost of Yahweh’s temple.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-9-0",
+          "surface": "וַתָּ֣קָם",
+          "lemma": "קוּם",
+          "translit": "vataqam",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "1-samuel-1-9-1",
+          "surface": "חַנָּ֔ה",
+          "lemma": "חַנָּה",
+          "translit": "chanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-9-2",
+          "surface": "אַחֲרֵ֛י",
+          "lemma": "אַחַר",
+          "translit": "'achrey",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "1-samuel-1-9-3",
+          "surface": "אָכְלָ֥ה",
+          "lemma": "אָכַל",
+          "translit": "'akelah",
+          "morph": "Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "1-samuel-1-9-4",
+          "surface": "בְשִׁלֹ֖ה",
+          "lemma": "שִׁילֹה",
+          "translit": "beshiloh",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H7887"
+        },
+        {
+          "id": "1-samuel-1-9-5",
+          "surface": "וְאַחֲרֵ֣י",
+          "lemma": "אַחַר",
+          "translit": "ve'achrey",
+          "morph": "Conjunction + Preposition",
+          "glosses": [],
+          "strongs": "H310"
+        },
+        {
+          "id": "1-samuel-1-9-6",
+          "surface": "שָׁתֹ֑ה",
+          "lemma": "שָׁתָה",
+          "translit": "shatoh",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H8354"
+        },
+        {
+          "id": "1-samuel-1-9-7",
+          "surface": "וְעֵלִ֣י",
+          "lemma": "עֵלִי",
+          "translit": "ve`eliy",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H5941"
+        },
+        {
+          "id": "1-samuel-1-9-8",
+          "surface": "הַכֹּהֵ֗ן",
+          "lemma": "כֹּהֵן",
+          "translit": "hakohen",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3548"
+        },
+        {
+          "id": "1-samuel-1-9-9",
+          "surface": "יֹשֵׁב֙",
+          "lemma": "יָשַׁב",
+          "translit": "yosheb",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "1-samuel-1-9-10",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "1-samuel-1-9-11",
+          "surface": "הַכִּסֵּ֔א",
+          "lemma": "כִּסֵּא",
+          "translit": "hakise'",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3678"
+        },
+        {
+          "id": "1-samuel-1-9-12",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "1-samuel-1-9-13",
+          "surface": "מְזוּזַ֖ת",
+          "lemma": "מְזוּזָה",
+          "translit": "mezvzat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H4201"
+        },
+        {
+          "id": "1-samuel-1-9-14",
+          "surface": "הֵיכַ֥ל",
+          "lemma": "הֵיכָל",
+          "translit": "heykal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1964"
+        },
+        {
+          "id": "1-samuel-1-9-15",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:10",
+      "englishText": "She was in bitterness of soul, and prayed to Yahweh, and wept bitterly.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-10-0",
+          "surface": "וְהִ֖יא",
+          "lemma": "הוּא",
+          "translit": "vehiy'",
+          "morph": "Conjunction + Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "1-samuel-1-10-1",
+          "surface": "מָ֣רַת",
+          "lemma": "מַר",
+          "translit": "marat",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H4751"
+        },
+        {
+          "id": "1-samuel-1-10-2",
+          "surface": "נָ֑פֶשׁ",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napesh",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "1-samuel-1-10-3",
+          "surface": "וַתִּתְפַּלֵּ֥ל",
+          "lemma": "פָּלַל",
+          "translit": "vatitepalel",
+          "morph": "Conjunction + Verb Hithpael Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6419"
+        },
+        {
+          "id": "1-samuel-1-10-4",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "1-samuel-1-10-5",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-10-6",
+          "surface": "וּבָכֹ֥ה",
+          "lemma": "בָּכָה",
+          "translit": "vbakoh",
+          "morph": "Conjunction + Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H1058"
+        },
+        {
+          "id": "1-samuel-1-10-7",
+          "surface": "תִבְכֶּֽה",
+          "lemma": "בָּכָה",
+          "translit": "tibekeh",
+          "morph": "Verb Qal Imperative 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1058"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:11",
+      "englishText": "She vowed a vow, and said, “Yahweh of Armies, if you will indeed look on the affliction of your handmaid, and remember me, and not forget your handmaid, but will give to your handmaid a boy, then I will give him to Yahweh all the days of his life, and no razor shall come on his head.”  ",
+      "tokens": [
+        {
+          "id": "1-samuel-1-11-0",
+          "surface": "וַתִּדֹּ֨ר",
+          "lemma": "נָדַר",
+          "translit": "vatidor",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5087"
+        },
+        {
+          "id": "1-samuel-1-11-1",
+          "surface": "נֶ֜דֶר",
+          "lemma": "נֶדֶר",
+          "translit": "neder",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5088"
+        },
+        {
+          "id": "1-samuel-1-11-2",
+          "surface": "וַתֹּאמַ֗ר",
+          "lemma": "אָמַר",
+          "translit": "vato'mar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "1-samuel-1-11-3",
+          "surface": "יְהוָ֨ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-11-4",
+          "surface": "צְבָא֜וֹת",
+          "lemma": "צָבָא",
+          "translit": "tseba'vot",
+          "morph": "Noun common plural absolute",
+          "glosses": [],
+          "strongs": "H6635"
+        },
+        {
+          "id": "1-samuel-1-11-5",
+          "surface": "אִם",
+          "lemma": "אִם",
+          "translit": "'im",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H518"
+        },
+        {
+          "id": "1-samuel-1-11-6",
+          "surface": "רָאֹ֥ה",
+          "lemma": "רָאָה",
+          "translit": "ra'oh",
+          "morph": "Verb Qal Infinitive Absolute",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "1-samuel-1-11-7",
+          "surface": "תִרְאֶ֣ה",
+          "lemma": "רָאָה",
+          "translit": "tire'eh",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "1-samuel-1-11-8",
+          "surface": "בָּעֳנִ֣י",
+          "lemma": "עֳנִי",
+          "translit": "ba`niy",
+          "morph": "Preposition + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H6040"
+        },
+        {
+          "id": "1-samuel-1-11-9",
+          "surface": "אֲמָתֶ֗ךָ",
+          "lemma": "אָמָה",
+          "translit": "'mateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H519"
+        },
+        {
+          "id": "1-samuel-1-11-10",
+          "surface": "וּזְכַרְתַּ֨נִי֙",
+          "lemma": "זָכַר",
+          "translit": "vzekaretaniy",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H2142"
+        },
+        {
+          "id": "1-samuel-1-11-11",
+          "surface": "וְלֹֽא",
+          "lemma": "לֹא",
+          "translit": "velo'",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "1-samuel-1-11-12",
+          "surface": "תִשְׁכַּ֣ח",
+          "lemma": "שָׁכַח",
+          "translit": "tishekach",
+          "morph": "Verb Qal Imperative 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H7911"
+        },
+        {
+          "id": "1-samuel-1-11-13",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-11-14",
+          "surface": "אֲמָתֶ֔ךָ",
+          "lemma": "אָמָה",
+          "translit": "'mateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H519"
+        },
+        {
+          "id": "1-samuel-1-11-15",
+          "surface": "וְנָתַתָּ֥ה",
+          "lemma": "נָתַן",
+          "translit": "venatatah",
+          "morph": "Conjunction + Verb Qal Perfect 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "1-samuel-1-11-16",
+          "surface": "לַאֲמָתְךָ֖",
+          "lemma": "אָמָה",
+          "translit": "la'mateka",
+          "morph": "Preposition + Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H519"
+        },
+        {
+          "id": "1-samuel-1-11-17",
+          "surface": "זֶ֣רַע",
+          "lemma": "זֶרַע",
+          "translit": "zera`",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2233"
+        },
+        {
+          "id": "1-samuel-1-11-18",
+          "surface": "אֲנָשִׁ֑ים",
+          "lemma": "אִישׁ",
+          "translit": "'nashiym",
+          "morph": "Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "1-samuel-1-11-19",
+          "surface": "וּנְתַתִּ֤יו",
+          "lemma": "נָתַן",
+          "translit": "vnetatiyv",
+          "morph": "Conjunction + Verb Qal Perfect 1st common singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "1-samuel-1-11-20",
+          "surface": "לַֽיהוָה֙",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-11-21",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "1-samuel-1-11-22",
+          "surface": "יְמֵ֣י",
+          "lemma": "יוֹם",
+          "translit": "yemey",
+          "morph": "Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "1-samuel-1-11-23",
+          "surface": "חַיָּ֔יו",
+          "lemma": "חַי",
+          "translit": "chayayv",
+          "morph": "Noun common masculine plural construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H2416"
+        },
+        {
+          "id": "1-samuel-1-11-24",
+          "surface": "וּמוֹרָ֖ה",
+          "lemma": "מוֹרָה",
+          "translit": "vmvorah",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H4177"
+        },
+        {
+          "id": "1-samuel-1-11-25",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "1-samuel-1-11-26",
+          "surface": "יַעֲלֶ֥ה",
+          "lemma": "עָלָה",
+          "translit": "ya`leh",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "1-samuel-1-11-27",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "1-samuel-1-11-28",
+          "surface": "רֹאשֽׁוֹ",
+          "lemma": "רֹאשׁ",
+          "translit": "ro'shvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7218"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:12",
+      "englishText": "  As she continued praying before Yahweh, Eli saw her mouth.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-12-0",
+          "surface": "וְהָיָה֙",
+          "lemma": "הָיָה",
+          "translit": "vehayah",
+          "morph": "Conjunction + Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "1-samuel-1-12-1",
+          "surface": "כִּ֣י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "1-samuel-1-12-2",
+          "surface": "הִרְבְּתָ֔ה",
+          "lemma": "רָבָה",
+          "translit": "hirebetah",
+          "morph": "Verb Hiphil Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7235"
+        },
+        {
+          "id": "1-samuel-1-12-3",
+          "surface": "לְהִתְפַּלֵּ֖ל",
+          "lemma": "פָּלַל",
+          "translit": "lehitepalel",
+          "morph": "Preposition + Verb Hithpael Infinitive Construct",
+          "glosses": [],
+          "strongs": "H6419"
+        },
+        {
+          "id": "1-samuel-1-12-4",
+          "surface": "לִפְנֵ֣י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "1-samuel-1-12-5",
+          "surface": "יְהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-12-6",
+          "surface": "וְעֵלִ֖י",
+          "lemma": "עֵלִי",
+          "translit": "ve`eliy",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H5941"
+        },
+        {
+          "id": "1-samuel-1-12-7",
+          "surface": "שֹׁמֵ֥ר",
+          "lemma": "שָׁמַר",
+          "translit": "shomer",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H8104"
+        },
+        {
+          "id": "1-samuel-1-12-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-12-9",
+          "surface": "פִּֽיהָ",
+          "lemma": "פֶּה",
+          "translit": "piyha",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6310"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:13",
+      "englishText": "Now Hannah spoke in her heart. Only her lips moved, but her voice was not heard. Therefore Eli thought she had been drunken.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-13-0",
+          "surface": "וְחַנָּ֗ה",
+          "lemma": "חַנָּה",
+          "translit": "vechanah",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-13-1",
+          "surface": "הִ֚יא",
+          "lemma": "הוּא",
+          "translit": "hiy'",
+          "morph": "Pronoun plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "1-samuel-1-13-2",
+          "surface": "מְדַבֶּ֣רֶת",
+          "lemma": "דָבַר",
+          "translit": "medaberet",
+          "morph": "Verb Piel Passive Participle",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "1-samuel-1-13-3",
+          "surface": "עַל",
+          "lemma": "עַל",
+          "translit": "`al",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5921"
+        },
+        {
+          "id": "1-samuel-1-13-4",
+          "surface": "לִבָּ֔הּ",
+          "lemma": "לֵב",
+          "translit": "libah",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3820"
+        },
+        {
+          "id": "1-samuel-1-13-5",
+          "surface": "רַ֚ק",
+          "lemma": "רַק",
+          "translit": "raq",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H7535"
+        },
+        {
+          "id": "1-samuel-1-13-6",
+          "surface": "שְׂפָתֶ֣יהָ",
+          "lemma": "שָׂפָה",
+          "translit": "shepateyha",
+          "morph": "Noun common feminine dual construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H8193"
+        },
+        {
+          "id": "1-samuel-1-13-7",
+          "surface": "נָּע֔וֹת",
+          "lemma": "נוּעַ",
+          "translit": "na`vot",
+          "morph": "Verb Qal Passive Participle",
+          "glosses": [],
+          "strongs": "H5128"
+        },
+        {
+          "id": "1-samuel-1-13-8",
+          "surface": "וְקוֹלָ֖הּ",
+          "lemma": "קוֹל",
+          "translit": "veqvolah",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6963"
+        },
+        {
+          "id": "1-samuel-1-13-9",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "1-samuel-1-13-10",
+          "surface": "יִשָּׁמֵ֑עַ",
+          "lemma": "שָׁמַע",
+          "translit": "yishame`a",
+          "morph": "Verb Niphal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8085"
+        },
+        {
+          "id": "1-samuel-1-13-11",
+          "surface": "וַיַּחְשְׁבֶ֥הָ",
+          "lemma": "חָשַׁב",
+          "translit": "vayacheshebeha",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2803"
+        },
+        {
+          "id": "1-samuel-1-13-12",
+          "surface": "עֵלִ֖י",
+          "lemma": "עֵלִי",
+          "translit": "`eliy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5941"
+        },
+        {
+          "id": "1-samuel-1-13-13",
+          "surface": "לְשִׁכֹּרָֽה",
+          "lemma": "שִׁכּוֹר",
+          "translit": "leshikorah",
+          "morph": "Preposition + Adjective",
+          "glosses": [],
+          "strongs": "H7910"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:14",
+      "englishText": "Eli said to her, “How long will you be drunken? Put away your wine from you.”  ",
+      "tokens": [
+        {
+          "id": "1-samuel-1-14-0",
+          "surface": "וַיֹּ֤אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "1-samuel-1-14-1",
+          "surface": "אֵלֶ֨יהָ֙",
+          "lemma": "אֵל",
+          "translit": "'eleyha",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "1-samuel-1-14-2",
+          "surface": "עֵלִ֔י",
+          "lemma": "עֵלִי",
+          "translit": "`eliy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5941"
+        },
+        {
+          "id": "1-samuel-1-14-3",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "1-samuel-1-14-4",
+          "surface": "מָתַ֖י",
+          "lemma": "מָתַי",
+          "translit": "matay",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H4970"
+        },
+        {
+          "id": "1-samuel-1-14-5",
+          "surface": "תִּשְׁתַּכָּרִ֑ין",
+          "lemma": "שָׁכַר",
+          "translit": "tishetakariyn",
+          "morph": "Verb Hithpael Imperative 2nd feminine singular + Suffix",
+          "glosses": [],
+          "strongs": "H7937"
+        },
+        {
+          "id": "1-samuel-1-14-6",
+          "surface": "הָסִ֥ירִי",
+          "lemma": "סוּר",
+          "translit": "hasiyriy",
+          "morph": "Verb Hiphil Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5493"
+        },
+        {
+          "id": "1-samuel-1-14-7",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-14-8",
+          "surface": "יֵינֵ֖ךְ",
+          "lemma": "יַיִן",
+          "translit": "yeyneke",
+          "morph": "Noun common masculine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3196"
+        },
+        {
+          "id": "1-samuel-1-14-9",
+          "surface": "מֵעָלָֽיִךְ",
+          "lemma": "עַל",
+          "translit": "me`alayike",
+          "morph": "Preposition + Preposition + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5921"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:15",
+      "englishText": "  Hannah answered, “No, my lord, I am a woman of a sorrowful spirit. I have drunk neither wine nor strong drink, but I poured out my soul before Yahweh.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-15-0",
+          "surface": "וַתַּ֨עַן",
+          "lemma": "עָנָה",
+          "translit": "vata`an",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "1-samuel-1-15-1",
+          "surface": "חַנָּ֤ה",
+          "lemma": "חַנָּה",
+          "translit": "chanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-15-2",
+          "surface": "וַתֹּ֨אמֶר֙",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "1-samuel-1-15-3",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "1-samuel-1-15-4",
+          "surface": "אֲדֹנִ֔י",
+          "lemma": "אָדוֹן",
+          "translit": "'doniy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H113"
+        },
+        {
+          "id": "1-samuel-1-15-5",
+          "surface": "אִשָּׁ֤ה",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishah",
+          "morph": "Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "1-samuel-1-15-6",
+          "surface": "קְשַׁת",
+          "lemma": "קָשֶׁה",
+          "translit": "qeshat",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H7186"
+        },
+        {
+          "id": "1-samuel-1-15-7",
+          "surface": "ר֨וּחַ֙",
+          "lemma": "רוּחַ",
+          "translit": "rvcha",
+          "morph": "Noun common singular absolute",
+          "glosses": [],
+          "strongs": "H7307"
+        },
+        {
+          "id": "1-samuel-1-15-8",
+          "surface": "אָנֹ֔כִי",
+          "lemma": "אָנֹכִי",
+          "translit": "'anokiy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H595"
+        },
+        {
+          "id": "1-samuel-1-15-9",
+          "surface": "וְיַ֥יִן",
+          "lemma": "יַיִן",
+          "translit": "veyayin",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3196"
+        },
+        {
+          "id": "1-samuel-1-15-10",
+          "surface": "וְשֵׁכָ֖ר",
+          "lemma": "שֵׁכָר",
+          "translit": "veshekar",
+          "morph": "Conjunction + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7941"
+        },
+        {
+          "id": "1-samuel-1-15-11",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "1-samuel-1-15-12",
+          "surface": "שָׁתִ֑יתִי",
+          "lemma": "שָׁתָה",
+          "translit": "shatiytiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H8354"
+        },
+        {
+          "id": "1-samuel-1-15-13",
+          "surface": "וָאֶשְׁפֹּ֥ךְ",
+          "lemma": "שָׁפַךְ",
+          "translit": "va'eshepoke",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 1st common singular",
+          "glosses": [],
+          "strongs": "H8210"
+        },
+        {
+          "id": "1-samuel-1-15-14",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-15-15",
+          "surface": "נַפְשִׁ֖י",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napeshiy",
+          "morph": "Noun common singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "1-samuel-1-15-16",
+          "surface": "לִפְנֵ֥י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "1-samuel-1-15-17",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:16",
+      "englishText": "Don’t count your handmaid for a wicked woman; for I have been speaking out of the abundance of my complaint and my provocation.”  ",
+      "tokens": [
+        {
+          "id": "1-samuel-1-16-0",
+          "surface": "אַל",
+          "lemma": "אַל",
+          "translit": "'al",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H408"
+        },
+        {
+          "id": "1-samuel-1-16-1",
+          "surface": "תִּתֵּן֙",
+          "lemma": "נָתַן",
+          "translit": "titen",
+          "morph": "Verb Qal Jussive 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "1-samuel-1-16-2",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-16-3",
+          "surface": "אֲמָ֣תְךָ֔",
+          "lemma": "אָמָה",
+          "translit": "'mateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H519"
+        },
+        {
+          "id": "1-samuel-1-16-4",
+          "surface": "לִפְנֵ֖י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "1-samuel-1-16-5",
+          "surface": "בַּת",
+          "lemma": "בַּת",
+          "translit": "bat",
+          "morph": "Noun common feminine singular construct",
+          "glosses": [],
+          "strongs": "H1323"
+        },
+        {
+          "id": "1-samuel-1-16-6",
+          "surface": "בְּלִיָּ֑עַל",
+          "lemma": "בְּלִיַּעַל",
+          "translit": "beliya`al",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1100"
+        },
+        {
+          "id": "1-samuel-1-16-7",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "1-samuel-1-16-8",
+          "surface": "מֵרֹ֥ב",
+          "lemma": "רֹב",
+          "translit": "merob",
+          "morph": "Preposition + Noun common singular construct",
+          "glosses": [],
+          "strongs": "H7230"
+        },
+        {
+          "id": "1-samuel-1-16-9",
+          "surface": "שִׂיחִ֛י",
+          "lemma": "שִׂיחַ",
+          "translit": "shiychiy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H7879"
+        },
+        {
+          "id": "1-samuel-1-16-10",
+          "surface": "וְכַעְסִ֖י",
+          "lemma": "כַּעַס",
+          "translit": "veka`esiy",
+          "morph": "Conjunction + Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H3708"
+        },
+        {
+          "id": "1-samuel-1-16-11",
+          "surface": "דִּבַּ֥רְתִּי",
+          "lemma": "דָבַר",
+          "translit": "dibaretiy",
+          "morph": "Verb Piel Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H1696"
+        },
+        {
+          "id": "1-samuel-1-16-12",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "1-samuel-1-16-13",
+          "surface": "הֵֽנָּה",
+          "lemma": "הֵנָּה",
+          "translit": "henah",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H2008"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:17",
+      "englishText": "  Then Eli answered, “Go in peace; and may the God of Israel grant your petition that you have asked of him.”  ",
+      "tokens": [
+        {
+          "id": "1-samuel-1-17-0",
+          "surface": "וַיַּ֧עַן",
+          "lemma": "עָנָה",
+          "translit": "vaya`an",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6030"
+        },
+        {
+          "id": "1-samuel-1-17-1",
+          "surface": "עֵלִ֛י",
+          "lemma": "עֵלִי",
+          "translit": "`eliy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5941"
+        },
+        {
+          "id": "1-samuel-1-17-2",
+          "surface": "וַיֹּ֖אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "1-samuel-1-17-3",
+          "surface": "לְכִ֣י",
+          "lemma": "יָלַךְ",
+          "translit": "lekiy",
+          "morph": "Verb Qal Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "1-samuel-1-17-4",
+          "surface": "לְשָׁל֑וֹם",
+          "lemma": "שָׁלוֹם",
+          "translit": "leshalvom",
+          "morph": "Preposition + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7965"
+        },
+        {
+          "id": "1-samuel-1-17-5",
+          "surface": "וֵאלֹהֵ֣י",
+          "lemma": "אֱלֹהִים",
+          "translit": "ve'lohey",
+          "morph": "Conjunction + Noun common masculine plural construct",
+          "glosses": [],
+          "strongs": "H430"
+        },
+        {
+          "id": "1-samuel-1-17-6",
+          "surface": "יִשְׂרָאֵ֗ל",
+          "lemma": "יִשְׂרָאֵל",
+          "translit": "yishera'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3478"
+        },
+        {
+          "id": "1-samuel-1-17-7",
+          "surface": "יִתֵּן֙",
+          "lemma": "נָתַן",
+          "translit": "yiten",
+          "morph": "Verb Qal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "1-samuel-1-17-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-17-9",
+          "surface": "שֵׁ֣לָתֵ֔ךְ",
+          "lemma": "שְׁאֵלָה",
+          "translit": "shelateke",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H7596"
+        },
+        {
+          "id": "1-samuel-1-17-10",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "1-samuel-1-17-11",
+          "surface": "שָׁאַ֖לְתְּ",
+          "lemma": "שָׁאַל",
+          "translit": "sha'alete",
+          "morph": "Verb Qal Participle 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H7592"
+        },
+        {
+          "id": "1-samuel-1-17-12",
+          "surface": "מֵעִמּֽוֹ",
+          "lemma": "עִם",
+          "translit": "me`imvo",
+          "morph": "Preposition + Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:18",
+      "englishText": "  She said, “Let your handmaid find favor in your sight.” So the woman went her way, and ate; and her facial expression wasn’t sad any more.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-18-0",
+          "surface": "וַתֹּ֕אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "1-samuel-1-18-1",
+          "surface": "תִּמְצָ֧א",
+          "lemma": "מָצָא",
+          "translit": "timetsa'",
+          "morph": "Verb Qal Jussive 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H4672"
+        },
+        {
+          "id": "1-samuel-1-18-2",
+          "surface": "שִׁפְחָתְךָ֛",
+          "lemma": "שִׁפְחָה",
+          "translit": "shipechateka",
+          "morph": "Noun common feminine singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H8198"
+        },
+        {
+          "id": "1-samuel-1-18-3",
+          "surface": "חֵ֖ן",
+          "lemma": "חֵן",
+          "translit": "chen",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H2580"
+        },
+        {
+          "id": "1-samuel-1-18-4",
+          "surface": "בְּעֵינֶ֑יךָ",
+          "lemma": "עַיִן",
+          "translit": "be`eyneyka",
+          "morph": "Preposition + Noun common dual construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "1-samuel-1-18-5",
+          "surface": "וַתֵּ֨לֶךְ",
+          "lemma": "יָלַךְ",
+          "translit": "vateleke",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3212"
+        },
+        {
+          "id": "1-samuel-1-18-6",
+          "surface": "הָאִשָּׁ֤ה",
+          "lemma": "אִשָּׁה",
+          "translit": "ha'ishah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "1-samuel-1-18-7",
+          "surface": "לְדַרְכָּהּ֙",
+          "lemma": "דֶּרֶךְ",
+          "translit": "ledarekah",
+          "morph": "Preposition + Noun common singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1870"
+        },
+        {
+          "id": "1-samuel-1-18-8",
+          "surface": "וַתֹּאכַ֔ל",
+          "lemma": "אָכַל",
+          "translit": "vato'kal",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H398"
+        },
+        {
+          "id": "1-samuel-1-18-9",
+          "surface": "וּפָנֶ֥יהָ",
+          "lemma": "פָּנִים",
+          "translit": "vpaneyha",
+          "morph": "Conjunction + Noun common plural construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "1-samuel-1-18-10",
+          "surface": "לֹא",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "1-samuel-1-18-11",
+          "surface": "הָיוּ",
+          "lemma": "הָיָה",
+          "translit": "hayv",
+          "morph": "Verb Qal Participle 3rd common plural",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "1-samuel-1-18-12",
+          "surface": "לָ֖הּ",
+          "lemma": "לָ֖הּ",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "1-samuel-1-18-13",
+          "surface": "עֽוֹד",
+          "lemma": "עוֹד",
+          "translit": "`vod",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H5750"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:19",
+      "englishText": "They rose up in the morning early, and worshiped before Yahweh, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and Yahweh remembered her.  ",
+      "tokens": [
+        {
+          "id": "1-samuel-1-19-0",
+          "surface": "וַיַּשְׁכִּ֣מוּ",
+          "lemma": "שָׁכַם",
+          "translit": "vayashekimv",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7925"
+        },
+        {
+          "id": "1-samuel-1-19-1",
+          "surface": "בַבֹּ֗קֶר",
+          "lemma": "בֹּקֶר",
+          "translit": "baboqer",
+          "morph": "Preposition dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1242"
+        },
+        {
+          "id": "1-samuel-1-19-2",
+          "surface": "וַיִּֽשְׁתַּחֲווּ֙",
+          "lemma": "שָׁחָה",
+          "translit": "vayishetachvv",
+          "morph": "Conjunction + Verb Hithpael Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7812"
+        },
+        {
+          "id": "1-samuel-1-19-3",
+          "surface": "לִפְנֵ֣י",
+          "lemma": "פָּנִים",
+          "translit": "lipeney",
+          "morph": "Preposition + Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "1-samuel-1-19-4",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-19-5",
+          "surface": "וַיָּשֻׁ֛בוּ",
+          "lemma": "שׁוּב",
+          "translit": "vayashubv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7725"
+        },
+        {
+          "id": "1-samuel-1-19-6",
+          "surface": "וַיָּבֹ֥אוּ",
+          "lemma": "בּוֹא",
+          "translit": "vayabo'v",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "1-samuel-1-19-7",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "1-samuel-1-19-8",
+          "surface": "בֵּיתָ֖ם",
+          "lemma": "בַּיִת",
+          "translit": "beytam",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "1-samuel-1-19-9",
+          "surface": "הָרָמָ֑תָה",
+          "lemma": "רָמָה",
+          "translit": "haramatah",
+          "morph": "Particle dual + Noun proper + Suffix dual",
+          "glosses": [],
+          "strongs": "H7414"
+        },
+        {
+          "id": "1-samuel-1-19-10",
+          "surface": "וַיֵּ֤דַע",
+          "lemma": "יָדַע",
+          "translit": "vayeda`",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3045"
+        },
+        {
+          "id": "1-samuel-1-19-11",
+          "surface": "אֶלְקָנָה֙",
+          "lemma": "אֶלְקָנָה",
+          "translit": "'eleqanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H511"
+        },
+        {
+          "id": "1-samuel-1-19-12",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-19-13",
+          "surface": "חַנָּ֣ה",
+          "lemma": "חַנָּה",
+          "translit": "chanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-19-14",
+          "surface": "אִשְׁתּ֔וֹ",
+          "lemma": "אִשָּׁה",
+          "translit": "'ishetvo",
+          "morph": "Noun common feminine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "1-samuel-1-19-15",
+          "surface": "וַיִּֽזְכְּרֶ֖הָ",
+          "lemma": "זָכַר",
+          "translit": "vayizekereha",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2142"
+        },
+        {
+          "id": "1-samuel-1-19-16",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:20",
+      "englishText": "  When the time had come, Hannah conceived, and bore a son; and she named him Samuel, saying, “Because I have asked him of Yahweh.”  ",
+      "tokens": [
+        {
+          "id": "1-samuel-1-20-0",
+          "surface": "וַיְהִי֙",
+          "lemma": "הָיָה",
+          "translit": "vayehiy",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "1-samuel-1-20-1",
+          "surface": "לִתְקֻפ֣וֹת",
+          "lemma": "תְּקוּפָה",
+          "translit": "litequpvot",
+          "morph": "Preposition + Noun common feminine plural construct",
+          "glosses": [],
+          "strongs": "H8622"
+        },
+        {
+          "id": "1-samuel-1-20-2",
+          "surface": "הַיָּמִ֔ים",
+          "lemma": "יוֹם",
+          "translit": "hayamiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "1-samuel-1-20-3",
+          "surface": "וַתַּ֥הַר",
+          "lemma": "הָרָה",
+          "translit": "vatahar",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H2029"
+        },
+        {
+          "id": "1-samuel-1-20-4",
+          "surface": "חַנָּ֖ה",
+          "lemma": "חַנָּה",
+          "translit": "chanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-20-5",
+          "surface": "וַתֵּ֣לֶד",
+          "lemma": "יָלַד",
+          "translit": "vateled",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3205"
+        },
+        {
+          "id": "1-samuel-1-20-6",
+          "surface": "בֵּ֑ן",
+          "lemma": "בֵּן",
+          "translit": "ben",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "1-samuel-1-20-7",
+          "surface": "וַתִּקְרָ֤א",
+          "lemma": "קָרָא",
+          "translit": "vatiqera'",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H7121"
+        },
+        {
+          "id": "1-samuel-1-20-8",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-20-9",
+          "surface": "שְׁמוֹ֙",
+          "lemma": "שֵׁם",
+          "translit": "shemvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H8034"
+        },
+        {
+          "id": "1-samuel-1-20-10",
+          "surface": "שְׁמוּאֵ֔ל",
+          "lemma": "שְׁמוּאֵל",
+          "translit": "shemv'el",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H8050"
+        },
+        {
+          "id": "1-samuel-1-20-11",
+          "surface": "כִּ֥י",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "1-samuel-1-20-12",
+          "surface": "מֵיְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "meyehvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-20-13",
+          "surface": "שְׁאִלְתִּֽיו",
+          "lemma": "שָׁאַל",
+          "translit": "she'iletiyv",
+          "morph": "Verb Qal Participle 1st common singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7592"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:21",
+      "englishText": "  The man Elkanah, and all his house, went up to offer to Yahweh the yearly sacrifice, and his vow.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-21-0",
+          "surface": "וַיַּ֛עַל",
+          "lemma": "עָלָה",
+          "translit": "vaya`al",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "1-samuel-1-21-1",
+          "surface": "הָאִ֥ישׁ",
+          "lemma": "אִישׁ",
+          "translit": "ha'iysh",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "1-samuel-1-21-2",
+          "surface": "אֶלְקָנָ֖ה",
+          "lemma": "אֶלְקָנָה",
+          "translit": "'eleqanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H511"
+        },
+        {
+          "id": "1-samuel-1-21-3",
+          "surface": "וְכָל",
+          "lemma": "כֹּל",
+          "translit": "vekal",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "1-samuel-1-21-4",
+          "surface": "בֵּית֑וֹ",
+          "lemma": "בַּיִת",
+          "translit": "beytvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "1-samuel-1-21-5",
+          "surface": "לִזְבֹּ֧חַ",
+          "lemma": "זָבַח",
+          "translit": "lizebocha",
+          "morph": "Preposition + Verb Qal Infinitive Construct",
+          "glosses": [],
+          "strongs": "H2076"
+        },
+        {
+          "id": "1-samuel-1-21-6",
+          "surface": "לַֽיהוָ֛ה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-21-7",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-21-8",
+          "surface": "זֶ֥בַח",
+          "lemma": "זֶבַח",
+          "translit": "zebach",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H2077"
+        },
+        {
+          "id": "1-samuel-1-21-9",
+          "surface": "הַיָּמִ֖ים",
+          "lemma": "יוֹם",
+          "translit": "hayamiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "1-samuel-1-21-10",
+          "surface": "וְאֶת",
+          "lemma": "אֵת",
+          "translit": "ve'et",
+          "morph": "Conjunction + Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-21-11",
+          "surface": "נִדְרֽוֹ",
+          "lemma": "נֶדֶר",
+          "translit": "nidervo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5088"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:22",
+      "englishText": "But Hannah didn’t go up; for she said to her husband, “Not until the child is weaned; then I will bring him, that he may appear before Yahweh, and stay there forever.”  ",
+      "tokens": [
+        {
+          "id": "1-samuel-1-22-0",
+          "surface": "וְחַנָּ֖ה",
+          "lemma": "חַנָּה",
+          "translit": "vechanah",
+          "morph": "Conjunction + Noun proper",
+          "glosses": [],
+          "strongs": "H2584"
+        },
+        {
+          "id": "1-samuel-1-22-1",
+          "surface": "לֹ֣א",
+          "lemma": "לֹא",
+          "translit": "lo'",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H3808"
+        },
+        {
+          "id": "1-samuel-1-22-2",
+          "surface": "עָלָ֑תָה",
+          "lemma": "עָלָה",
+          "translit": "`alatah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "1-samuel-1-22-3",
+          "surface": "כִּֽי",
+          "lemma": "כִּי",
+          "translit": "kiy",
+          "morph": "Conjunction",
+          "glosses": [],
+          "strongs": "H3588"
+        },
+        {
+          "id": "1-samuel-1-22-4",
+          "surface": "אָמְרָ֣ה",
+          "lemma": "אָמַר",
+          "translit": "'amerah",
+          "morph": "Verb Qal Participle 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "1-samuel-1-22-5",
+          "surface": "לְאִישָׁ֗הּ",
+          "lemma": "אִישׁ",
+          "translit": "le'iyshah",
+          "morph": "Preposition + Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "1-samuel-1-22-6",
+          "surface": "עַ֣ד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "1-samuel-1-22-7",
+          "surface": "יִגָּמֵ֤ל",
+          "lemma": "גָּמַל",
+          "translit": "yigamel",
+          "morph": "Verb Niphal Imperative 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1580"
+        },
+        {
+          "id": "1-samuel-1-22-8",
+          "surface": "הַנַּ֨עַר֙",
+          "lemma": "נַעַר",
+          "translit": "hana`ar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "1-samuel-1-22-9",
+          "surface": "וַהֲבִאֹתִ֗יו",
+          "lemma": "בּוֹא",
+          "translit": "vahbi'otiyv",
+          "morph": "Conjunction + Verb Hiphil Perfect 1st common singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "1-samuel-1-22-10",
+          "surface": "וְנִרְאָה֙",
+          "lemma": "רָאָה",
+          "translit": "venire'ah",
+          "morph": "Conjunction + Verb Niphal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7200"
+        },
+        {
+          "id": "1-samuel-1-22-11",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H854"
+        },
+        {
+          "id": "1-samuel-1-22-12",
+          "surface": "פְּנֵ֣י",
+          "lemma": "פָּנִים",
+          "translit": "peney",
+          "morph": "Noun common plural construct",
+          "glosses": [],
+          "strongs": "H6440"
+        },
+        {
+          "id": "1-samuel-1-22-13",
+          "surface": "יְהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-22-14",
+          "surface": "וְיָ֥שַׁב",
+          "lemma": "יָשַׁב",
+          "translit": "veyashab",
+          "morph": "Conjunction + Verb Qal Perfect 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "1-samuel-1-22-15",
+          "surface": "שָׁ֖ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "1-samuel-1-22-16",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "1-samuel-1-22-17",
+          "surface": "עוֹלָֽם",
+          "lemma": "עוֹלָם",
+          "translit": "`volam",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5769"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:23",
+      "englishText": "  Elkanah her husband said to her, “Do what seems good to you. Wait until you have weaned him; only may Yahweh establish his word.”   So the woman waited and nursed her son, until she weaned him.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-23-0",
+          "surface": "וַיֹּ֣אמֶר",
+          "lemma": "אָמַר",
+          "translit": "vayo'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "1-samuel-1-23-1",
+          "surface": "לָהּ֩",
+          "lemma": "לָהּ֩",
+          "translit": "lah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": []
+        },
+        {
+          "id": "1-samuel-1-23-2",
+          "surface": "אֶלְקָנָ֨ה",
+          "lemma": "אֶלְקָנָה",
+          "translit": "'eleqanah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H511"
+        },
+        {
+          "id": "1-samuel-1-23-3",
+          "surface": "אִישָׁ֜הּ",
+          "lemma": "אִישׁ",
+          "translit": "'iyshah",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H376"
+        },
+        {
+          "id": "1-samuel-1-23-4",
+          "surface": "עֲשִׂ֧י",
+          "lemma": "עָשָׂה",
+          "translit": "`shiy",
+          "morph": "Verb Qal Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H6213"
+        },
+        {
+          "id": "1-samuel-1-23-5",
+          "surface": "הַטּ֣וֹב",
+          "lemma": "טוֹב",
+          "translit": "hatvob",
+          "morph": "Particle dual + Adjective",
+          "glosses": [],
+          "strongs": "H2896"
+        },
+        {
+          "id": "1-samuel-1-23-6",
+          "surface": "בְּעֵינַ֗יִךְ",
+          "lemma": "עַיִן",
+          "translit": "be`eynayike",
+          "morph": "Preposition + Noun common dual construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H5869"
+        },
+        {
+          "id": "1-samuel-1-23-7",
+          "surface": "שְׁבִי֙",
+          "lemma": "יָשַׁב",
+          "translit": "shebiy",
+          "morph": "Verb Qal Weqatal 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "1-samuel-1-23-8",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "1-samuel-1-23-9",
+          "surface": "גָּמְלֵ֣ךְ",
+          "lemma": "גָּמַל",
+          "translit": "gameleke",
+          "morph": "Verb Qal Infinitive Construct + Suffix plural 2nd feminine singular",
+          "glosses": [],
+          "strongs": "H1580"
+        },
+        {
+          "id": "1-samuel-1-23-10",
+          "surface": "אֹת֔וֹ",
+          "lemma": "אֵת",
+          "translit": "'otvo",
+          "morph": "Particle + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-23-11",
+          "surface": "אַ֛ךְ",
+          "lemma": "אַךְ",
+          "translit": "'ake",
+          "morph": "Particle absolute",
+          "glosses": [],
+          "strongs": "H389"
+        },
+        {
+          "id": "1-samuel-1-23-12",
+          "surface": "יָקֵ֥ם",
+          "lemma": "קוּם",
+          "translit": "yaqem",
+          "morph": "Verb Hiphil Jussive 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H6965"
+        },
+        {
+          "id": "1-samuel-1-23-13",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-23-14",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-23-15",
+          "surface": "דְּבָר֑וֹ",
+          "lemma": "דָּבָר",
+          "translit": "debarvo",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1697"
+        },
+        {
+          "id": "1-samuel-1-23-16",
+          "surface": "וַתֵּ֤שֶׁב",
+          "lemma": "יָשַׁב",
+          "translit": "vatesheb",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3427"
+        },
+        {
+          "id": "1-samuel-1-23-17",
+          "surface": "הָֽאִשָּׁה֙",
+          "lemma": "אִשָּׁה",
+          "translit": "ha'ishah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "1-samuel-1-23-18",
+          "surface": "וַתֵּ֣ינֶק",
+          "lemma": "יָנַק",
+          "translit": "vateyneq",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H3243"
+        },
+        {
+          "id": "1-samuel-1-23-19",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-23-20",
+          "surface": "בְּנָ֔הּ",
+          "lemma": "בֵּן",
+          "translit": "benah",
+          "morph": "Noun common masculine singular construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1121"
+        },
+        {
+          "id": "1-samuel-1-23-21",
+          "surface": "עַד",
+          "lemma": "עַד",
+          "translit": "`ad",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H5704"
+        },
+        {
+          "id": "1-samuel-1-23-22",
+          "surface": "גָּמְלָ֖הּ",
+          "lemma": "גָּמַל",
+          "translit": "gamelah",
+          "morph": "Verb Qal Infinitive Construct + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H1580"
+        },
+        {
+          "id": "1-samuel-1-23-23",
+          "surface": "אֹתֽוֹ",
+          "lemma": "אֵת",
+          "translit": "'otvo",
+          "morph": "Particle + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H853"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:24",
+      "englishText": "When she had weaned him, she took him up with her, with three bulls, and one ephah of meal, and a bottle of wine, and brought him to Yahweh’s house in Shiloh. The child was young.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-24-0",
+          "surface": "וַתַּעֲלֵ֨הוּ",
+          "lemma": "עָלָה",
+          "translit": "vata`lehv",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5927"
+        },
+        {
+          "id": "1-samuel-1-24-1",
+          "surface": "עִמָּ֜הּ",
+          "lemma": "עִם",
+          "translit": "`imah",
+          "morph": "Preposition + Suffix plural 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "1-samuel-1-24-2",
+          "surface": "כַּאֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "ka'sher",
+          "morph": "Preposition + Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "1-samuel-1-24-3",
+          "surface": "גְּמָלַ֗תּוּ",
+          "lemma": "גָּמַל",
+          "translit": "gemalatv",
+          "morph": "Verb Qal Participle 3rd feminine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1580"
+        },
+        {
+          "id": "1-samuel-1-24-4",
+          "surface": "בְּפָרִ֤ים",
+          "lemma": "פַּר",
+          "translit": "bepariym",
+          "morph": "Preposition + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H6499"
+        },
+        {
+          "id": "1-samuel-1-24-5",
+          "surface": "שְׁלֹשָׁה֙",
+          "lemma": "שָׁלוֹשׁ",
+          "translit": "sheloshah",
+          "morph": "Adjective common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7969"
+        },
+        {
+          "id": "1-samuel-1-24-6",
+          "surface": "וְאֵיפָ֨ה",
+          "lemma": "אֵיפָה",
+          "translit": "ve'eypah",
+          "morph": "Conjunction + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H374"
+        },
+        {
+          "id": "1-samuel-1-24-7",
+          "surface": "אַחַ֥ת",
+          "lemma": "אֶחָד",
+          "translit": "'achat",
+          "morph": "Adjective common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H259"
+        },
+        {
+          "id": "1-samuel-1-24-8",
+          "surface": "קֶ֨מַח֙",
+          "lemma": "קֶמַח",
+          "translit": "qemach",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H7058"
+        },
+        {
+          "id": "1-samuel-1-24-9",
+          "surface": "וְנֵ֣בֶל",
+          "lemma": "נֶבֶל",
+          "translit": "venebel",
+          "morph": "Conjunction + Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H5035"
+        },
+        {
+          "id": "1-samuel-1-24-10",
+          "surface": "יַ֔יִן",
+          "lemma": "יַיִן",
+          "translit": "yayin",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H3196"
+        },
+        {
+          "id": "1-samuel-1-24-11",
+          "surface": "וַתְּבִאֵ֥הוּ",
+          "lemma": "בּוֹא",
+          "translit": "vatebi'ehv",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd feminine singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "1-samuel-1-24-12",
+          "surface": "בֵית",
+          "lemma": "בַּיִת",
+          "translit": "beyt",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H1004"
+        },
+        {
+          "id": "1-samuel-1-24-13",
+          "surface": "יְהוָ֖ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-24-14",
+          "surface": "שִׁל֑וֹ",
+          "lemma": "שִׁילֹה",
+          "translit": "shilvo",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H7887"
+        },
+        {
+          "id": "1-samuel-1-24-15",
+          "surface": "וְהַנַּ֖עַר",
+          "lemma": "נַעַר",
+          "translit": "vehana`ar",
+          "morph": "Conjunction + Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "1-samuel-1-24-16",
+          "surface": "נָֽעַר",
+          "lemma": "נַעַר",
+          "translit": "na`ar",
+          "morph": "Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:25",
+      "englishText": "They killed the bull, and brought the child to Eli.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-25-0",
+          "surface": "וַֽיִּשְׁחֲט֖וּ",
+          "lemma": "שָׁחַט",
+          "translit": "vayishechtv",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H7819"
+        },
+        {
+          "id": "1-samuel-1-25-1",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-25-2",
+          "surface": "הַפָּ֑ר",
+          "lemma": "פַּר",
+          "translit": "hapar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H6499"
+        },
+        {
+          "id": "1-samuel-1-25-3",
+          "surface": "וַיָּבִ֥יאוּ",
+          "lemma": "בּוֹא",
+          "translit": "vayabiy'v",
+          "morph": "Conjunction + Verb Hiphil Wayyiqtol 3rd masculine plural",
+          "glosses": [],
+          "strongs": "H935"
+        },
+        {
+          "id": "1-samuel-1-25-4",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-25-5",
+          "surface": "הַנַּ֖עַר",
+          "lemma": "נַעַר",
+          "translit": "hana`ar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "1-samuel-1-25-6",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "1-samuel-1-25-7",
+          "surface": "עֵלִֽי",
+          "lemma": "עֵלִי",
+          "translit": "`eliy",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H5941"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:26",
+      "englishText": "She said, “Oh, my lord, as your soul lives, my lord, I am the woman who stood by you here, praying to Yahweh.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-26-0",
+          "surface": "וַתֹּ֨אמֶר֙",
+          "lemma": "אָמַר",
+          "translit": "vato'mer",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd feminine singular",
+          "glosses": [],
+          "strongs": "H559"
+        },
+        {
+          "id": "1-samuel-1-26-1",
+          "surface": "בִּ֣י",
+          "lemma": "בִּי",
+          "translit": "biy",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H994"
+        },
+        {
+          "id": "1-samuel-1-26-2",
+          "surface": "אֲדֹנִ֔י",
+          "lemma": "אָדוֹן",
+          "translit": "'doniy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H113"
+        },
+        {
+          "id": "1-samuel-1-26-3",
+          "surface": "חֵ֥י",
+          "lemma": "חַי",
+          "translit": "chey",
+          "morph": "Adjective",
+          "glosses": [],
+          "strongs": "H2416"
+        },
+        {
+          "id": "1-samuel-1-26-4",
+          "surface": "נַפְשְׁךָ֖",
+          "lemma": "נֶפֶשׁ",
+          "translit": "napesheka",
+          "morph": "Noun common singular construct + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5315"
+        },
+        {
+          "id": "1-samuel-1-26-5",
+          "surface": "אֲדֹנִ֑י",
+          "lemma": "אָדוֹן",
+          "translit": "'doniy",
+          "morph": "Noun common masculine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H113"
+        },
+        {
+          "id": "1-samuel-1-26-6",
+          "surface": "אֲנִ֣י",
+          "lemma": "אֲנִי",
+          "translit": "'niy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H589"
+        },
+        {
+          "id": "1-samuel-1-26-7",
+          "surface": "הָאִשָּׁ֗ה",
+          "lemma": "אִשָּׁה",
+          "translit": "ha'ishah",
+          "morph": "Particle dual + Noun common feminine singular absolute",
+          "glosses": [],
+          "strongs": "H802"
+        },
+        {
+          "id": "1-samuel-1-26-8",
+          "surface": "הַנִּצֶּ֤בֶת",
+          "lemma": "נָצַב",
+          "translit": "hanitsebet",
+          "morph": "Particle dual + Verb Niphal Passive Participle",
+          "glosses": [],
+          "strongs": "H5324"
+        },
+        {
+          "id": "1-samuel-1-26-9",
+          "surface": "עִמְּכָה֙",
+          "lemma": "עִם",
+          "translit": "`imekah",
+          "morph": "Preposition + Suffix plural 2nd masculine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        },
+        {
+          "id": "1-samuel-1-26-10",
+          "surface": "בָּזֶ֔ה",
+          "lemma": "זֶה",
+          "translit": "bazeh",
+          "morph": "Preposition + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "1-samuel-1-26-11",
+          "surface": "לְהִתְפַּלֵּ֖ל",
+          "lemma": "פָּלַל",
+          "translit": "lehitepalel",
+          "morph": "Preposition + Verb Hithpael Infinitive Construct",
+          "glosses": [],
+          "strongs": "H6419"
+        },
+        {
+          "id": "1-samuel-1-26-12",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "1-samuel-1-26-13",
+          "surface": "יְהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:27",
+      "englishText": "For this child I prayed; and Yahweh has given me my petition which I asked of him.",
+      "tokens": [
+        {
+          "id": "1-samuel-1-27-0",
+          "surface": "אֶל",
+          "lemma": "אֵל",
+          "translit": "'el",
+          "morph": "Preposition",
+          "glosses": [],
+          "strongs": "H413"
+        },
+        {
+          "id": "1-samuel-1-27-1",
+          "surface": "הַנַּ֥עַר",
+          "lemma": "נַעַר",
+          "translit": "hana`ar",
+          "morph": "Particle dual + Noun common masculine singular absolute",
+          "glosses": [],
+          "strongs": "H5288"
+        },
+        {
+          "id": "1-samuel-1-27-2",
+          "surface": "הַזֶּ֖ה",
+          "lemma": "זֶה",
+          "translit": "hazeh",
+          "morph": "Particle dual + Pronoun dual masculine singular",
+          "glosses": [],
+          "strongs": "H2088"
+        },
+        {
+          "id": "1-samuel-1-27-3",
+          "surface": "הִתְפַּלָּ֑לְתִּי",
+          "lemma": "פָּלַל",
+          "translit": "hitepalaletiy",
+          "morph": "Verb Hithpael Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H6419"
+        },
+        {
+          "id": "1-samuel-1-27-4",
+          "surface": "וַיִּתֵּ֨ן",
+          "lemma": "נָתַן",
+          "translit": "vayiten",
+          "morph": "Conjunction + Verb Qal Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5414"
+        },
+        {
+          "id": "1-samuel-1-27-5",
+          "surface": "יְהוָ֥ה",
+          "lemma": "יְהֹוָה",
+          "translit": "yehvah",
+          "morph": "Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-27-6",
+          "surface": "לִי֙",
+          "lemma": "לִי֙",
+          "translit": "liy",
+          "morph": "Preposition + Suffix plural 1st common singular",
+          "glosses": []
+        },
+        {
+          "id": "1-samuel-1-27-7",
+          "surface": "אֶת",
+          "lemma": "אֵת",
+          "translit": "'et",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H853"
+        },
+        {
+          "id": "1-samuel-1-27-8",
+          "surface": "שְׁאֵ֣לָתִ֔י",
+          "lemma": "שְׁאֵלָה",
+          "translit": "she'elatiy",
+          "morph": "Noun common feminine singular construct + Suffix plural 1st common singular",
+          "glosses": [],
+          "strongs": "H7596"
+        },
+        {
+          "id": "1-samuel-1-27-9",
+          "surface": "אֲשֶׁ֥ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "1-samuel-1-27-10",
+          "surface": "שָׁאַ֖לְתִּי",
+          "lemma": "שָׁאַל",
+          "translit": "sha'aletiy",
+          "morph": "Verb Qal Participle 1st common singular",
+          "glosses": [],
+          "strongs": "H7592"
+        },
+        {
+          "id": "1-samuel-1-27-11",
+          "surface": "מֵעִמּֽוֹ",
+          "lemma": "עִם",
+          "translit": "me`imvo",
+          "morph": "Preposition + Preposition + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H5973"
+        }
+      ],
+      "language": "hebrew"
+    },
+    {
+      "ref": "1 Samuel 1:28",
+      "englishText": "Therefore also I have granted him to Yahweh. As long as he lives he is granted to Yahweh.” He worshiped Yahweh there.   ",
+      "tokens": [
+        {
+          "id": "1-samuel-1-28-0",
+          "surface": "וְגַ֣ם",
+          "lemma": "גַּם",
+          "translit": "vegam",
+          "morph": "Conjunction + Particle absolute",
+          "glosses": [],
+          "strongs": "H1571"
+        },
+        {
+          "id": "1-samuel-1-28-1",
+          "surface": "אָנֹכִ֗י",
+          "lemma": "אָנֹכִי",
+          "translit": "'anokiy",
+          "morph": "Pronoun plural 1st common singular",
+          "glosses": [],
+          "strongs": "H595"
+        },
+        {
+          "id": "1-samuel-1-28-2",
+          "surface": "הִשְׁאִלְתִּ֨הוּ֙",
+          "lemma": "שָׁאַל",
+          "translit": "hishe'iletihv",
+          "morph": "Verb Hiphil Participle 1st common singular + Suffix plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7592"
+        },
+        {
+          "id": "1-samuel-1-28-3",
+          "surface": "לַֽיהוָ֔ה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-28-4",
+          "surface": "כָּל",
+          "lemma": "כֹּל",
+          "translit": "kal",
+          "morph": "Noun common masculine singular construct",
+          "glosses": [],
+          "strongs": "H3605"
+        },
+        {
+          "id": "1-samuel-1-28-5",
+          "surface": "הַיָּמִים֙",
+          "lemma": "יוֹם",
+          "translit": "hayamiym",
+          "morph": "Particle dual + Noun common masculine plural absolute",
+          "glosses": [],
+          "strongs": "H3117"
+        },
+        {
+          "id": "1-samuel-1-28-6",
+          "surface": "אֲשֶׁ֣ר",
+          "lemma": "אֲשֶׁר",
+          "translit": "'sher",
+          "morph": "Particle",
+          "glosses": [],
+          "strongs": "H834"
+        },
+        {
+          "id": "1-samuel-1-28-7",
+          "surface": "הָיָ֔ה",
+          "lemma": "הָיָה",
+          "translit": "hayah",
+          "morph": "Verb Qal Participle 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1961"
+        },
+        {
+          "id": "1-samuel-1-28-8",
+          "surface": "ה֥וּא",
+          "lemma": "הוּא",
+          "translit": "hv'",
+          "morph": "Pronoun plural 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H1931"
+        },
+        {
+          "id": "1-samuel-1-28-9",
+          "surface": "שָׁא֖וּל",
+          "lemma": "שָׁאַל",
+          "translit": "sha'vl",
+          "morph": "Verb Qal s",
+          "glosses": [],
+          "strongs": "H7592"
+        },
+        {
+          "id": "1-samuel-1-28-10",
+          "surface": "לַֽיהוָ֑ה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        },
+        {
+          "id": "1-samuel-1-28-11",
+          "surface": "וַיִּשְׁתַּ֥חוּ",
+          "lemma": "שָׁחָה",
+          "translit": "vayishetachv",
+          "morph": "Conjunction + Verb Hithpael Wayyiqtol 3rd masculine singular",
+          "glosses": [],
+          "strongs": "H7812"
+        },
+        {
+          "id": "1-samuel-1-28-12",
+          "surface": "שָׁ֖ם",
+          "lemma": "שָׁם",
+          "translit": "sham",
+          "morph": "Adverb",
+          "glosses": [],
+          "strongs": "H8033"
+        },
+        {
+          "id": "1-samuel-1-28-13",
+          "surface": "לַיהוָֽה",
+          "lemma": "יְהֹוָה",
+          "translit": "layhvah",
+          "morph": "Preposition + Noun proper",
+          "glosses": [],
+          "strongs": "H3068"
+        }
+      ],
+      "language": "hebrew"
+    }
+  ],
+  "language": "hebrew"
+}
