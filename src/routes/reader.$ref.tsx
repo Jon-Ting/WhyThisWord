@@ -4,7 +4,7 @@ import { z } from "zod";
 import { useEffect, useMemo, useState } from "react";
 import * as VisuallyHidden from "@radix-ui/react-visually-hidden";
 import type { Verse, CorpusToken } from "@/lib/corpus";
-import { getPassage } from "@/lib/corpus";
+import { getPassage, getAdjacentChapters } from "@/lib/corpus";
 import { SiteHeader, SiteFooter } from "@/components/site-chrome";
 import { PassagePicker } from "@/components/passage-picker";
 import { VerseReader } from "@/components/verse-reader";
@@ -12,6 +12,7 @@ import { WordAnalysisPanel } from "@/components/word-analysis-panel";
 import { Sheet, SheetContent, SheetTitle, SheetDescription } from "@/components/ui/sheet";
 import { useNavigate } from "@tanstack/react-router";
 import { recordRecentPassage } from "@/hooks/use-recent-passages";
+import { ChevronLeft, ChevronRight, BookOpen } from "lucide-react";
 
 function useIsCompact() {
   const [isCompact, setIsCompact] = useState(false);
@@ -27,12 +28,18 @@ function useIsCompact() {
 
 const searchSchema = z.object({
   w: z.string().optional().catch(undefined),
+  start: z.coerce.number().int().positive().optional().catch(undefined),
+  end: z.coerce.number().int().positive().optional().catch(undefined),
 });
 
 export const Route = createFileRoute("/reader/$ref")({
   validateSearch: zodValidator(searchSchema),
-  loader: async ({ params }) => {
-    const passage = await getPassage(params.ref);
+  loaderDeps: ({ search }) => ({ start: search.start, end: search.end }),
+  loader: async ({ params, search }) => {
+    const passage = await getPassage(params.ref, {
+      startVerse: search.start,
+      endVerse: search.end,
+    });
     if (!passage) throw notFound();
     return { passage };
   },
@@ -59,7 +66,8 @@ export const Route = createFileRoute("/reader/$ref")({
 
 function ReaderPage() {
   const { passage } = Route.useLoaderData();
-  const { w } = Route.useSearch();
+  const search = Route.useSearch();
+  const { w, start, end } = search;
   const navigate = useNavigate({ from: Route.fullPath });
   const isCompact = useIsCompact();
 
@@ -68,8 +76,10 @@ function ReaderPage() {
       id: passage.id,
       ref: passage.ref,
       title: passage.title,
+      start,
+      end,
     });
-  }, [passage.id, passage.ref, passage.title]);
+  }, [passage.id, passage.ref, passage.title, start, end]);
 
   const selectedTokenAndVerse = useMemo(() => {
     if (!w) return null;
@@ -80,10 +90,13 @@ function ReaderPage() {
     return null;
   }, [w, passage]);
 
+  const adjacent = useMemo(() => getAdjacentChapters(passage.id), [passage.id]);
+  const isPartial = start !== undefined || end !== undefined;
+
   const selectToken = (tokenId: string) =>
-    navigate({ search: { w: tokenId }, replace: true, resetScroll: false });
+    navigate({ search: { ...search, w: tokenId }, replace: true, resetScroll: false });
   const closePanel = () =>
-    navigate({ search: { w: undefined }, replace: true, resetScroll: false });
+    navigate({ search: { ...search, w: undefined }, replace: true, resetScroll: false });
 
   return (
     <div className="min-h-screen bg-background">
@@ -100,7 +113,7 @@ function ReaderPage() {
             <div className="my-6 h-px bg-border" />
           </div>
 
-          <header className="mb-10">
+          <header className="mb-6">
             <p className="text-xs uppercase tracking-[0.18em] text-muted-foreground">
               {passage.title}
             </p>
@@ -112,6 +125,56 @@ function ReaderPage() {
             </p>
           </header>
 
+          {/* Chapter navigation */}
+          <div className="mb-10 flex flex-wrap items-center gap-2">
+            {adjacent.prev ? (
+              <Link
+                to={`/reader/${adjacent.prev.id}`}
+                className="inline-flex h-9 items-center gap-1 rounded-md border border-border bg-background px-3 text-sm font-medium text-foreground transition-colors hover:bg-accent"
+              >
+                <ChevronLeft className="h-4 w-4" />
+                {adjacent.prev.ref}
+              </Link>
+            ) : (
+              <span
+                aria-disabled="true"
+                className="inline-flex h-9 cursor-not-allowed items-center gap-1 rounded-md border border-border bg-muted/40 px-3 text-sm font-medium text-muted-foreground"
+              >
+                <ChevronLeft className="h-4 w-4" />
+                Prev
+              </span>
+            )}
+
+            {isPartial ? (
+              <Link
+                to={`/reader/${passage.id}`}
+                search={w ? { w } : undefined}
+                className="inline-flex h-9 items-center gap-1.5 rounded-md border border-border bg-background px-3 text-sm font-medium text-foreground transition-colors hover:bg-accent"
+              >
+                <BookOpen className="h-4 w-4" />
+                Read full chapter
+              </Link>
+            ) : null}
+
+            {adjacent.next ? (
+              <Link
+                to={`/reader/${adjacent.next.id}`}
+                className="inline-flex h-9 items-center gap-1 rounded-md border border-border bg-background px-3 text-sm font-medium text-foreground transition-colors hover:bg-accent"
+              >
+                {adjacent.next.ref}
+                <ChevronRight className="h-4 w-4" />
+              </Link>
+            ) : (
+              <span
+                aria-disabled="true"
+                className="inline-flex h-9 cursor-not-allowed items-center gap-1 rounded-md border border-border bg-muted/40 px-3 text-sm font-medium text-muted-foreground"
+              >
+                Next
+                <ChevronRight className="h-4 w-4" />
+              </span>
+            )}
+          </div>
+
           <div className="space-y-14">
             {(passage.verses as Verse[]).map((verse) => (
               <VerseReader
@@ -121,6 +184,56 @@ function ReaderPage() {
                 onSelectToken={selectToken}
               />
             ))}
+          </div>
+
+          {/* Bottom chapter navigation */}
+          <div className="mt-14 flex flex-wrap items-center gap-2 border-t border-border pt-8">
+            {adjacent.prev ? (
+              <Link
+                to={`/reader/${adjacent.prev.id}`}
+                className="inline-flex h-9 items-center gap-1 rounded-md border border-border bg-background px-3 text-sm font-medium text-foreground transition-colors hover:bg-accent"
+              >
+                <ChevronLeft className="h-4 w-4" />
+                {adjacent.prev.ref}
+              </Link>
+            ) : (
+              <span
+                aria-disabled="true"
+                className="inline-flex h-9 cursor-not-allowed items-center gap-1 rounded-md border border-border bg-muted/40 px-3 text-sm font-medium text-muted-foreground"
+              >
+                <ChevronLeft className="h-4 w-4" />
+                Prev
+              </span>
+            )}
+
+            {isPartial ? (
+              <Link
+                to={`/reader/${passage.id}`}
+                search={w ? { w } : undefined}
+                className="inline-flex h-9 items-center gap-1.5 rounded-md border border-border bg-background px-3 text-sm font-medium text-foreground transition-colors hover:bg-accent"
+              >
+                <BookOpen className="h-4 w-4" />
+                Read full chapter
+              </Link>
+            ) : null}
+
+            {adjacent.next ? (
+              <Link
+                to={`/reader/${adjacent.next.id}`}
+                className="inline-flex h-9 items-center gap-1 rounded-md border border-border bg-background px-3 text-sm font-medium text-foreground transition-colors hover:bg-accent"
+              >
+                {adjacent.next.ref}
+                <ChevronRight className="h-4 w-4" />
+              </Link>
+            ) : (
+              <span
+                aria-disabled="true"
+                className="inline-flex h-9 cursor-not-allowed items-center gap-1 rounded-md border border-border bg-muted/40 px-3 text-sm font-medium text-muted-foreground"
+              >
+                Next
+                <ChevronRight className="h-4 w-4" />
+              </span>
+            )}
           </div>
         </main>
 
