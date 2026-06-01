@@ -7,12 +7,17 @@ export async function findNeighboursByLemma(lemma: string): Promise<string[]> {
 
   try {
     // Dynamically load lexicon and Louw-Nida mapping
-    const lexicon = (await import("./data/lexicon.json").then((m) => m.default || m)) as Record<string, any>;
+    const lexicon = (await import("./data/lexicon.json").then((m) => m.default || m)) as Record<
+      string,
+      unknown
+    >;
     const lnData = await import("./data/louw-nida.json").then((m) => m.default || m);
 
     // 1. Get Strong's number for the lemma
     // Lexicon keys are lowercased
-    const word = lexicon[normalizedLemma] || lexicon[normalizedLemma.toLowerCase()];
+    const word = (lexicon[normalizedLemma] || lexicon[normalizedLemma.toLowerCase()]) as {
+      strongs?: string;
+    };
     if (!word || !word.strongs) {
       console.warn(`No Strong's number found for lemma: ${normalizedLemma}`);
       return [];

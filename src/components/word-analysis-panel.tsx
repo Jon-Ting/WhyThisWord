@@ -60,8 +60,7 @@ export function WordAnalysisPanel({ token, verse, onClose }: WordAnalysisPanelPr
     return () => {
       active = false;
     };
-  }, [token, verse]);
-
+  }, [token, verse, aiSynthesisEnabled]);
 
   if (!token) {
     return <EmptyState />;
@@ -211,10 +210,7 @@ function NuanceSection({ analysis, language }: { analysis: WordAnalysis; languag
         </SectionLabel>
         <div className="flex flex-col gap-3">
           {analysis.neighbours.map((n) => (
-            <div
-              key={n.lemma}
-              className="rounded-lg border border-border/70 bg-background/40 p-4"
-            >
+            <div key={n.lemma} className="rounded-lg border border-border/70 bg-background/40 p-4">
               <div className="flex items-baseline justify-between gap-3">
                 <h5 className={cn("text-xl text-foreground", langFont)}>{n.lemma}</h5>
                 <span className="font-serif text-xs italic text-muted-foreground">
@@ -378,7 +374,8 @@ function NoAnalysisFallback({ token, language }: { token: CorpusToken; language:
       <p className="font-serif text-sm italic text-muted-foreground">
         No standard definition or curated comparative-semantics analysis could be found for this
         term. Standard dictionary entries are available for the vast majority of vocabulary in the
-        Bible. Try selecting a word with curated comparative notes (indicated by a dotted underline).
+        Bible. Try selecting a word with curated comparative notes (indicated by a dotted
+        underline).
       </p>
     </section>
   );

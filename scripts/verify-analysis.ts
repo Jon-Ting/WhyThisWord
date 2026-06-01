@@ -9,7 +9,9 @@ async function test() {
   console.log("\n[Test 1] Testing Curated Mock Data (λόγος)...");
   const curated = await getWordAnalysis("λόγος");
   if (curated && curated.neighbours.length > 0) {
-    console.log(`✅ Success: Curated neighbours: ${curated.neighbours.map((n) => n.lemma).join(", ")}`);
+    console.log(
+      `✅ Success: Curated neighbours: ${curated.neighbours.map((n) => n.lemma).join(", ")}`,
+    );
   } else {
     console.error("❌ Failed to load curated analysis for λόγος");
     process.exit(1);
@@ -45,7 +47,9 @@ async function test() {
       const duration = Date.now() - start;
       if (result && result.neighbours && result.neighbours.length > 0) {
         console.log(`✅ Success (completed in ${duration}ms)`);
-        console.log(`   AI Generated neighbours: ${result.neighbours.map((n) => n.lemma).join(", ")}`);
+        console.log(
+          `   AI Generated neighbours: ${result.neighbours.map((n) => n.lemma).join(", ")}`,
+        );
         console.log(`   First Neighbour Overlap: ${result.neighbours[0].overlap.slice(0, 80)}...`);
 
         // Check if cached locally

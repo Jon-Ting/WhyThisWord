@@ -5,11 +5,15 @@ function getEnvVar(key: string): string | undefined {
   if (typeof process !== "undefined" && process.env && process.env[key]) {
     return process.env[key];
   }
-  if (typeof import.meta !== "undefined" && import.meta.env && import.meta.env[key]) {
-    return import.meta.env[key];
+  if (
+    typeof import.meta !== "undefined" &&
+    import.meta.env &&
+    (import.meta.env as Record<string, unknown>)[key]
+  ) {
+    return (import.meta.env as Record<string, unknown>)[key] as string;
   }
-  if (typeof globalThis !== "undefined" && (globalThis as any)[key]) {
-    return (globalThis as any)[key];
+  if (typeof globalThis !== "undefined" && (globalThis as Record<string, unknown>)[key]) {
+    return (globalThis as Record<string, unknown>)[key] as string;
   }
   return undefined;
 }
@@ -19,22 +23,23 @@ export async function fetchSemanticAnalysis(
   ref: string,
   englishText: string,
   sourceText: string,
-  language: string = "greek"
+  language: string = "greek",
 ): Promise<WordAnalysis> {
   const isHebrew = language === "hebrew" || language === "aramaic";
-  
+
   // 0. Pre-identify semantic neighbours
   let lnNeighbours: string[] = [];
   if (language === "greek") {
     lnNeighbours = await findNeighboursByLemma(lemma);
   }
-  
+
   const suggestedNeighbours = lnNeighbours.slice(0, 5);
 
-  const neighbourInstructions = suggestedNeighbours.length > 0
-    ? `The following semantic neighbours have been pre-identified for "${lemma}" using Louw-Nida domains: ${suggestedNeighbours.join(", ")}. 
+  const neighbourInstructions =
+    suggestedNeighbours.length > 0
+      ? `The following semantic neighbours have been pre-identified for "${lemma}" using Louw-Nida domains: ${suggestedNeighbours.join(", ")}. 
    Please analyze 2-4 of these specifically (or other highly relevant synonyms if these are not suitable in this context).`
-    : `Identify 2-4 semantic neighbours (synonyms in the original language, ${language}).`;
+      : `Identify 2-4 semantic neighbours (synonyms in the original language, ${language}).`;
 
   const apiKey = getEnvVar("GEMINI_API_KEY");
   if (!apiKey) {
@@ -62,8 +67,6 @@ Provide:
 6. 2-3 usage examples from other biblical or relevant ancient literature (e.g., DSS, Josephus, Philo if Greek; same/other OT books if Hebrew).
 
 CRITICAL: Keep your tone academic, hedged, and non-dogmatic. Use words like "may suggest", "often associated with", "could imply". Avoid declaring absolute authorial intent.
-`;
-
 
 Return a JSON object matching the following structure:
 {
@@ -115,10 +118,18 @@ Return a JSON object matching the following structure:
             distinction: { type: "STRING" },
             typicalUsage: { type: "STRING" },
             implication: { type: "STRING" },
-            ifReplaced: { type: "STRING" }
+            ifReplaced: { type: "STRING" },
           },
-          required: ["lemma", "translit", "overlap", "distinction", "typicalUsage", "implication", "ifReplaced"]
-        }
+          required: [
+            "lemma",
+            "translit",
+            "overlap",
+            "distinction",
+            "typicalUsage",
+            "implication",
+            "ifReplaced",
+          ],
+        },
       },
       examples: {
         type: "ARRAY",
@@ -129,37 +140,52 @@ Return a JSON object matching the following structure:
             englishSnippet: { type: "STRING" },
             originalSnippet: { type: "STRING" },
             highlightLemma: { type: "STRING" },
-            note: { type: "STRING" }
+            note: { type: "STRING" },
           },
-          required: ["ref", "englishSnippet", "originalSnippet", "highlightLemma"]
-        }
-      }
+          required: ["ref", "englishSnippet", "originalSnippet", "highlightLemma"],
+        },
+      },
     },
-    required: ["lemma", "translit", "pronunciation", "morphSummary", "glosses", "shortDef", "neighbours", "examples"]
+    required: [
+      "lemma",
+      "translit",
+      "pronunciation",
+      "morphSummary",
+      "glosses",
+      "shortDef",
+      "neighbours",
+      "examples",
+    ],
   };
 
-  function typeSchema(val: string) { return val; } // Helper for lint bypass
+  function typeSchema(val: string) {
+    return val;
+  } // Helper for lint bypass
 
   const requestBody = {
-    contents: [{
-      parts: [{
-        text: prompt
-      }]
-    }],
+    contents: [
+      {
+        parts: [
+          {
+            text: prompt,
+          },
+        ],
+      },
+    ],
     generationConfig: {
       responseMimeType: "application/json",
       responseSchema: responseSchema,
-      temperature: 0.1
-    }
+      temperature: 0.1,
+    },
   };
 
   console.log(`\x1b[36m[Gemini]\x1b[0m Sending request for model: \x1b[33m${model}\x1b[0m`);
   const response = await fetch(url, {
     method: "POST",
     headers: {
-      "Content-Type": "application/json"
+      "Content-Type": "application/json",
     },
-    body: JSON.stringify(requestBody)
+    body: JSON.stringify(requestBody),
   });
 
   if (!response.ok) {

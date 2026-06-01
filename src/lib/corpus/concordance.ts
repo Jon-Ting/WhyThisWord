@@ -8,7 +8,7 @@ import booksIndex from "./data/books.json";
 export async function findExamplesInCorpus(
   lemma: string,
   limit: number = 3,
-  excludeRef?: string
+  excludeRef?: string,
 ): Promise<UsageExample[]> {
   const normalizedLemma = lemma.normalize("NFC").trim();
   const examples: UsageExample[] = [];
@@ -20,14 +20,12 @@ export async function findExamplesInCorpus(
     try {
       // Dynamically import the book data
       const bookData = await import(`./data/${book.id}.json`).then((m) => m.default || m);
-      
-      for (const verse of (bookData.verses as Verse[])) {
+
+      for (const verse of bookData.verses as Verse[]) {
         if (examples.length >= limit) break;
         if (excludeRef && verse.ref === excludeRef) continue;
 
-        const hasLemma = verse.tokens.some(
-          (t) => t.lemma.normalize("NFC") === normalizedLemma
-        );
+        const hasLemma = verse.tokens.some((t) => t.lemma.normalize("NFC") === normalizedLemma);
 
         if (hasLemma) {
           const originalSnippet = verse.tokens

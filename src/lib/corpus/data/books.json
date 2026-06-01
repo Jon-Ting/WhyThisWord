@@ -1,68 +1,596 @@
 [
-  { "id": "genesis", "name": "Genesis", "abbr": "Gn", "chaptersCount": 50, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "exodus", "name": "Exodus", "abbr": "Ex", "chaptersCount": 40, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "leviticus", "name": "Leviticus", "abbr": "Lv", "chaptersCount": 27, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "numbers", "name": "Numbers", "abbr": "Nm", "chaptersCount": 36, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "deuteronomy", "name": "Deuteronomy", "abbr": "Dt", "chaptersCount": 34, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "joshua", "name": "Joshua", "abbr": "Jos", "chaptersCount": 24, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "judges", "name": "Judges", "abbr": "Jgs", "chaptersCount": 21, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "ruth", "name": "Ruth", "abbr": "Ru", "chaptersCount": 4, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "1-samuel", "name": "1 Samuel", "abbr": "1Sa", "chaptersCount": 31, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "2-samuel", "name": "2 Samuel", "abbr": "2Sa", "chaptersCount": 24, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "1-kings", "name": "1 Kings", "abbr": "1Ki", "chaptersCount": 22, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "2-kings", "name": "2 Kings", "abbr": "2Ki", "chaptersCount": 25, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "1-chronicles", "name": "1 Chronicles", "abbr": "1Ch", "chaptersCount": 29, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "2-chronicles", "name": "2 Chronicles", "abbr": "2Ch", "chaptersCount": 36, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "ezra", "name": "Ezra", "abbr": "Ezr", "chaptersCount": 10, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "nehemiah", "name": "Nehemiah", "abbr": "Neh", "chaptersCount": 13, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "esther", "name": "Esther", "abbr": "Est", "chaptersCount": 10, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "job", "name": "Job", "abbr": "Jb", "chaptersCount": 42, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "psalms", "name": "Psalms", "abbr": "Ps", "chaptersCount": 150, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "proverbs", "name": "Proverbs", "abbr": "Pr", "chaptersCount": 31, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "ecclesiastes", "name": "Ecclesiastes", "abbr": "Ec", "chaptersCount": 12, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "song-of-solomon", "name": "Song of Solomon", "abbr": "Song", "chaptersCount": 8, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "isaiah", "name": "Isaiah", "abbr": "Is", "chaptersCount": 66, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "jeremiah", "name": "Jeremiah", "abbr": "Jer", "chaptersCount": 52, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "lamentations", "name": "Lamentations", "abbr": "Lam", "chaptersCount": 5, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "ezekiel", "name": "Ezekiel", "abbr": "Ez", "chaptersCount": 48, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "daniel", "name": "Daniel", "abbr": "Dn", "chaptersCount": 12, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "hosea", "name": "Hosea", "abbr": "Hos", "chaptersCount": 14, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "joel", "name": "Joel", "abbr": "Jl", "chaptersCount": 3, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "amos", "name": "Amos", "abbr": "Am", "chaptersCount": 9, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "obadiah", "name": "Obadiah", "abbr": "Ob", "chaptersCount": 1, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "jonah", "name": "Jonah", "abbr": "Jon", "chaptersCount": 4, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "micah", "name": "Micah", "abbr": "Mi", "chaptersCount": 7, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "nahum", "name": "Nahum", "abbr": "Na", "chaptersCount": 3, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "habakkuk", "name": "Habakkuk", "abbr": "Hb", "chaptersCount": 3, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "zephaniah", "name": "Zephaniah", "abbr": "Zep", "chaptersCount": 3, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "haggai", "name": "Haggai", "abbr": "Hg", "chaptersCount": 2, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "zechariah", "name": "Zechariah", "abbr": "Zec", "chaptersCount": 14, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "malachi", "name": "Malachi", "abbr": "Mal", "chaptersCount": 4, "versesCount": 0, "testament": "OT", "language": "hebrew" },
-  { "id": "matthew", "name": "Matthew", "abbr": "Mt", "chaptersCount": 28, "versesCount": 1068, "testament": "NT", "language": "greek" },
-  { "id": "mark", "name": "Mark", "abbr": "Mk", "chaptersCount": 16, "versesCount": 673, "testament": "NT", "language": "greek" },
-  { "id": "luke", "name": "Luke", "abbr": "Lk", "chaptersCount": 24, "versesCount": 1149, "testament": "NT", "language": "greek" },
-  { "id": "john", "name": "John", "abbr": "Jn", "chaptersCount": 21, "versesCount": 866, "testament": "NT", "language": "greek" },
-  { "id": "acts", "name": "Acts", "abbr": "Ac", "chaptersCount": 28, "versesCount": 1002, "testament": "NT", "language": "greek" },
-  { "id": "romans", "name": "Romans", "abbr": "Ro", "chaptersCount": 16, "versesCount": 430, "testament": "NT", "language": "greek" },
-  { "id": "1-corinthians", "name": "1 Corinthians", "abbr": "1Co", "chaptersCount": 16, "versesCount": 437, "testament": "NT", "language": "greek" },
-  { "id": "2-corinthians", "name": "2 Corinthians", "abbr": "2Co", "chaptersCount": 13, "versesCount": 256, "testament": "NT", "language": "greek" },
-  { "id": "galatians", "name": "Galatians", "abbr": "Ga", "chaptersCount": 6, "versesCount": 149, "testament": "NT", "language": "greek" },
-  { "id": "ephesians", "name": "Ephesians", "abbr": "Eph", "chaptersCount": 6, "versesCount": 155, "testament": "NT", "language": "greek" },
-  { "id": "philippians", "name": "Philippians", "abbr": "Php", "chaptersCount": 4, "versesCount": 104, "testament": "NT", "language": "greek" },
-  { "id": "colossians", "name": "Colossians", "abbr": "Col", "chaptersCount": 4, "versesCount": 95, "testament": "NT", "language": "greek" },
-  { "id": "1-thessalonians", "name": "1 Thessalonians", "abbr": "1Th", "chaptersCount": 5, "versesCount": 89, "testament": "NT", "language": "greek" },
-  { "id": "2-thessalonians", "name": "2 Thessalonians", "abbr": "2Th", "chaptersCount": 3, "versesCount": 47, "testament": "NT", "language": "greek" },
-  { "id": "1-timothy", "name": "1 Timothy", "abbr": "1Ti", "chaptersCount": 6, "versesCount": 113, "testament": "NT", "language": "greek" },
-  { "id": "2-timothy", "name": "2 Timothy", "abbr": "2Ti", "chaptersCount": 4, "versesCount": 83, "testament": "NT", "language": "greek" },
-  { "id": "titus", "name": "Titus", "abbr": "Ti", "chaptersCount": 3, "versesCount": 46, "testament": "NT", "language": "greek" },
-  { "id": "philemon", "name": "Philemon", "abbr": "Phm", "chaptersCount": 1, "versesCount": 25, "testament": "NT", "language": "greek" },
-  { "id": "hebrews", "name": "Hebrews", "abbr": "Heb", "chaptersCount": 13, "versesCount": 303, "testament": "NT", "language": "greek" },
-  { "id": "james", "name": "James", "abbr": "Jas", "chaptersCount": 5, "versesCount": 108, "testament": "NT", "language": "greek" },
-  { "id": "1-peter", "name": "1 Peter", "abbr": "1Pe", "chaptersCount": 5, "versesCount": 105, "testament": "NT", "language": "greek" },
-  { "id": "2-peter", "name": "2 Peter", "abbr": "2Pe", "chaptersCount": 3, "versesCount": 61, "testament": "NT", "language": "greek" },
-  { "id": "1-john", "name": "1 John", "abbr": "1Jn", "chaptersCount": 5, "versesCount": 105, "testament": "NT", "language": "greek" },
-  { "id": "2-john", "name": "2 John", "abbr": "2Jn", "chaptersCount": 1, "versesCount": 13, "testament": "NT", "language": "greek" },
-  { "id": "3-john", "name": "3 John", "abbr": "3Jn", "chaptersCount": 1, "versesCount": 15, "testament": "NT", "language": "greek" },
-  { "id": "jude", "name": "Jude", "abbr": "Jud", "chaptersCount": 1, "versesCount": 25, "testament": "NT", "language": "greek" },
-  { "id": "revelation", "name": "Revelation", "abbr": "Re", "chaptersCount": 22, "versesCount": 405, "testament": "NT", "language": "greek" }
+  {
+    "id": "genesis",
+    "name": "Genesis",
+    "abbr": "Gn",
+    "chaptersCount": 50,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "exodus",
+    "name": "Exodus",
+    "abbr": "Ex",
+    "chaptersCount": 40,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "leviticus",
+    "name": "Leviticus",
+    "abbr": "Lv",
+    "chaptersCount": 27,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "numbers",
+    "name": "Numbers",
+    "abbr": "Nm",
+    "chaptersCount": 36,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "deuteronomy",
+    "name": "Deuteronomy",
+    "abbr": "Dt",
+    "chaptersCount": 34,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "joshua",
+    "name": "Joshua",
+    "abbr": "Jos",
+    "chaptersCount": 24,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "judges",
+    "name": "Judges",
+    "abbr": "Jgs",
+    "chaptersCount": 21,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "ruth",
+    "name": "Ruth",
+    "abbr": "Ru",
+    "chaptersCount": 4,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "1-samuel",
+    "name": "1 Samuel",
+    "abbr": "1Sa",
+    "chaptersCount": 31,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "2-samuel",
+    "name": "2 Samuel",
+    "abbr": "2Sa",
+    "chaptersCount": 24,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "1-kings",
+    "name": "1 Kings",
+    "abbr": "1Ki",
+    "chaptersCount": 22,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "2-kings",
+    "name": "2 Kings",
+    "abbr": "2Ki",
+    "chaptersCount": 25,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "1-chronicles",
+    "name": "1 Chronicles",
+    "abbr": "1Ch",
+    "chaptersCount": 29,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "2-chronicles",
+    "name": "2 Chronicles",
+    "abbr": "2Ch",
+    "chaptersCount": 36,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "ezra",
+    "name": "Ezra",
+    "abbr": "Ezr",
+    "chaptersCount": 10,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "nehemiah",
+    "name": "Nehemiah",
+    "abbr": "Neh",
+    "chaptersCount": 13,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "esther",
+    "name": "Esther",
+    "abbr": "Est",
+    "chaptersCount": 10,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "job",
+    "name": "Job",
+    "abbr": "Jb",
+    "chaptersCount": 42,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "psalms",
+    "name": "Psalms",
+    "abbr": "Ps",
+    "chaptersCount": 150,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "proverbs",
+    "name": "Proverbs",
+    "abbr": "Pr",
+    "chaptersCount": 31,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "ecclesiastes",
+    "name": "Ecclesiastes",
+    "abbr": "Ec",
+    "chaptersCount": 12,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "song-of-solomon",
+    "name": "Song of Solomon",
+    "abbr": "Song",
+    "chaptersCount": 8,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "isaiah",
+    "name": "Isaiah",
+    "abbr": "Is",
+    "chaptersCount": 66,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "jeremiah",
+    "name": "Jeremiah",
+    "abbr": "Jer",
+    "chaptersCount": 52,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "lamentations",
+    "name": "Lamentations",
+    "abbr": "Lam",
+    "chaptersCount": 5,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "ezekiel",
+    "name": "Ezekiel",
+    "abbr": "Ez",
+    "chaptersCount": 48,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "daniel",
+    "name": "Daniel",
+    "abbr": "Dn",
+    "chaptersCount": 12,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "hosea",
+    "name": "Hosea",
+    "abbr": "Hos",
+    "chaptersCount": 14,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "joel",
+    "name": "Joel",
+    "abbr": "Jl",
+    "chaptersCount": 3,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "amos",
+    "name": "Amos",
+    "abbr": "Am",
+    "chaptersCount": 9,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "obadiah",
+    "name": "Obadiah",
+    "abbr": "Ob",
+    "chaptersCount": 1,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "jonah",
+    "name": "Jonah",
+    "abbr": "Jon",
+    "chaptersCount": 4,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "micah",
+    "name": "Micah",
+    "abbr": "Mi",
+    "chaptersCount": 7,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "nahum",
+    "name": "Nahum",
+    "abbr": "Na",
+    "chaptersCount": 3,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "habakkuk",
+    "name": "Habakkuk",
+    "abbr": "Hb",
+    "chaptersCount": 3,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "zephaniah",
+    "name": "Zephaniah",
+    "abbr": "Zep",
+    "chaptersCount": 3,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "haggai",
+    "name": "Haggai",
+    "abbr": "Hg",
+    "chaptersCount": 2,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "zechariah",
+    "name": "Zechariah",
+    "abbr": "Zec",
+    "chaptersCount": 14,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "malachi",
+    "name": "Malachi",
+    "abbr": "Mal",
+    "chaptersCount": 4,
+    "versesCount": 0,
+    "testament": "OT",
+    "language": "hebrew"
+  },
+  {
+    "id": "matthew",
+    "name": "Matthew",
+    "abbr": "Mt",
+    "chaptersCount": 28,
+    "versesCount": 1068,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "mark",
+    "name": "Mark",
+    "abbr": "Mk",
+    "chaptersCount": 16,
+    "versesCount": 673,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "luke",
+    "name": "Luke",
+    "abbr": "Lk",
+    "chaptersCount": 24,
+    "versesCount": 1149,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "john",
+    "name": "John",
+    "abbr": "Jn",
+    "chaptersCount": 21,
+    "versesCount": 866,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "acts",
+    "name": "Acts",
+    "abbr": "Ac",
+    "chaptersCount": 28,
+    "versesCount": 1002,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "romans",
+    "name": "Romans",
+    "abbr": "Ro",
+    "chaptersCount": 16,
+    "versesCount": 430,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "1-corinthians",
+    "name": "1 Corinthians",
+    "abbr": "1Co",
+    "chaptersCount": 16,
+    "versesCount": 437,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "2-corinthians",
+    "name": "2 Corinthians",
+    "abbr": "2Co",
+    "chaptersCount": 13,
+    "versesCount": 256,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "galatians",
+    "name": "Galatians",
+    "abbr": "Ga",
+    "chaptersCount": 6,
+    "versesCount": 149,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "ephesians",
+    "name": "Ephesians",
+    "abbr": "Eph",
+    "chaptersCount": 6,
+    "versesCount": 155,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "philippians",
+    "name": "Philippians",
+    "abbr": "Php",
+    "chaptersCount": 4,
+    "versesCount": 104,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "colossians",
+    "name": "Colossians",
+    "abbr": "Col",
+    "chaptersCount": 4,
+    "versesCount": 95,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "1-thessalonians",
+    "name": "1 Thessalonians",
+    "abbr": "1Th",
+    "chaptersCount": 5,
+    "versesCount": 89,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "2-thessalonians",
+    "name": "2 Thessalonians",
+    "abbr": "2Th",
+    "chaptersCount": 3,
+    "versesCount": 47,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "1-timothy",
+    "name": "1 Timothy",
+    "abbr": "1Ti",
+    "chaptersCount": 6,
+    "versesCount": 113,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "2-timothy",
+    "name": "2 Timothy",
+    "abbr": "2Ti",
+    "chaptersCount": 4,
+    "versesCount": 83,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "titus",
+    "name": "Titus",
+    "abbr": "Ti",
+    "chaptersCount": 3,
+    "versesCount": 46,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "philemon",
+    "name": "Philemon",
+    "abbr": "Phm",
+    "chaptersCount": 1,
+    "versesCount": 25,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "hebrews",
+    "name": "Hebrews",
+    "abbr": "Heb",
+    "chaptersCount": 13,
+    "versesCount": 303,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "james",
+    "name": "James",
+    "abbr": "Jas",
+    "chaptersCount": 5,
+    "versesCount": 108,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "1-peter",
+    "name": "1 Peter",
+    "abbr": "1Pe",
+    "chaptersCount": 5,
+    "versesCount": 105,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "2-peter",
+    "name": "2 Peter",
+    "abbr": "2Pe",
+    "chaptersCount": 3,
+    "versesCount": 61,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "1-john",
+    "name": "1 John",
+    "abbr": "1Jn",
+    "chaptersCount": 5,
+    "versesCount": 105,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "2-john",
+    "name": "2 John",
+    "abbr": "2Jn",
+    "chaptersCount": 1,
+    "versesCount": 13,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "3-john",
+    "name": "3 John",
+    "abbr": "3Jn",
+    "chaptersCount": 1,
+    "versesCount": 15,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "jude",
+    "name": "Jude",
+    "abbr": "Jud",
+    "chaptersCount": 1,
+    "versesCount": 25,
+    "testament": "NT",
+    "language": "greek"
+  },
+  {
+    "id": "revelation",
+    "name": "Revelation",
+    "abbr": "Re",
+    "chaptersCount": 22,
+    "versesCount": 405,
+    "testament": "NT",
+    "language": "greek"
+  }
 ]

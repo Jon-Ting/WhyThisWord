@@ -38,7 +38,7 @@ async function setLocalCache(key: string, data: WordAnalysis): Promise<void> {
 export async function getCachedAnalysis(
   lemma: string,
   verseRef: string,
-  env?: any
+  env?: Record<string, unknown>,
 ): Promise<WordAnalysis | undefined> {
   const cacheKey = `analysis:${lemma}:${verseRef}`;
 
@@ -48,7 +48,16 @@ export async function getCachedAnalysis(
   }
 
   // 2. Check Cloudflare KV if bound
-  const kv = env?.WHY_THIS_WORD_CACHE || (globalThis as any).WHY_THIS_WORD_CACHE;
+  const envCache = env?.WHY_THIS_WORD_CACHE as
+    | { get: (key: string) => Promise<string | null> }
+    | undefined;
+  const globalCache = (
+    globalThis as unknown as {
+      WHY_THIS_WORD_CACHE?: { get: (key: string) => Promise<string | null> };
+    }
+  ).WHY_THIS_WORD_CACHE;
+  const kv = envCache || globalCache;
+
   if (kv) {
     try {
       const raw = await kv.get(cacheKey);
@@ -76,7 +85,7 @@ export async function setCachedAnalysis(
   lemma: string,
   verseRef: string,
   analysis: WordAnalysis,
-  env?: any
+  env?: Record<string, unknown>,
 ): Promise<void> {
   const cacheKey = `analysis:${lemma}:${verseRef}`;
 
@@ -84,7 +93,16 @@ export async function setCachedAnalysis(
   memoryCache.set(cacheKey, analysis);
 
   // 2. Save to Cloudflare KV if bound
-  const kv = env?.WHY_THIS_WORD_CACHE || (globalThis as any).WHY_THIS_WORD_CACHE;
+  const envCache = env?.WHY_THIS_WORD_CACHE as
+    | { put: (key: string, value: string) => Promise<void> }
+    | undefined;
+  const globalCache = (
+    globalThis as unknown as {
+      WHY_THIS_WORD_CACHE?: { put: (key: string, value: string) => Promise<void> };
+    }
+  ).WHY_THIS_WORD_CACHE;
+  const kv = envCache || globalCache;
+
   if (kv) {
     try {
       await kv.put(cacheKey, JSON.stringify(analysis));

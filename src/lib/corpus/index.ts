@@ -112,7 +112,11 @@ export async function getWordAnalysis(
   if (context && !options?.disableAI) {
     try {
       // If running inside CLI test script (direct execution)
-      if (typeof window === "undefined" && typeof process !== "undefined" && !process.env.VINXI_ENV) {
+      if (
+        typeof window === "undefined" &&
+        typeof process !== "undefined" &&
+        !process.env.VINXI_ENV
+      ) {
         const { getCachedAnalysis, setCachedAnalysis } = await import("../analysis/cache");
         const { fetchSemanticAnalysis } = await import("../analysis/gemini");
 
@@ -151,31 +155,34 @@ export async function getWordAnalysis(
     }
   }
 
-
-
   // 3. Fall back to standard dictionary definition (Abbott-Smith / Strong's)
   try {
-    const lexicon = (await import("./data/lexicon.json").then((m) => m.default || m)) as Record<string, any>;
+    const lexicon = (await import("./data/lexicon.json").then((m) => m.default || m)) as Record<
+      string,
+      unknown
+    >;
     const cleanLemma = normalizedLemma.toLowerCase();
-    const fallback = lexicon[cleanLemma];
+    const fallback = lexicon[cleanLemma] as WordAnalysis;
 
     if (fallback) {
       const result = { ...fallback } as WordAnalysis;
-      
+
       // Inject Louw-Nida domains
       if (result.strongs) {
         try {
           const lnData = await import("./data/louw-nida.json").then((m) => m.default || m);
-          const domainNames = await import("./data/louw-nida-domains.json").then((m) => m.default || m);
+          const domainNames = await import("./data/louw-nida-domains.json").then(
+            (m) => m.default || m,
+          );
           const lnCodes = lnData.strongToLn[result.strongs] || [];
-          
+
           const uniqueDomains = new Set<string>();
           lnCodes.forEach((code: string) => {
             const domainId = code.split(".")[0];
             const name = domainNames[domainId];
             if (name) uniqueDomains.add(name);
           });
-          
+
           result.domains = Array.from(uniqueDomains);
         } catch (err) {
           console.error("Failed to load Louw-Nida domain data:", err);
@@ -185,7 +192,7 @@ export async function getWordAnalysis(
       // Inject Louw-Nida neighbours if empty
       if (!result.neighbours || result.neighbours.length === 0) {
         const lnLemmas = await findNeighboursByLemma(normalizedLemma);
-        result.neighbours = lnLemmas.slice(0, 5).map(l => {
+        result.neighbours = lnLemmas.slice(0, 5).map((l) => {
           const entry = lexicon[l] || lexicon[l.toLowerCase()];
           return {
             lemma: l,
@@ -199,7 +206,7 @@ export async function getWordAnalysis(
       if (!result.examples || result.examples.length === 0) {
         result.examples = await findExamplesInCorpus(normalizedLemma, 3, context?.ref);
       }
-      
+
       return result;
     }
   } catch (err) {

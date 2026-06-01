@@ -54,8 +54,9 @@ function About() {
           </ul>
           <h2 className="pt-4 font-serif text-2xl text-foreground">Prototype scope</h2>
           <p>
-            This is a work in progress. The data layer is modular: real sources such as SBLGNT, MorphGNT, Strong's, and
-            AI-generated explanations can later be plugged in behind the same component surface.
+            This is a work in progress. The data layer is modular: real sources such as SBLGNT,
+            MorphGNT, Strong's, and AI-generated explanations can later be plugged in behind the
+            same component surface.
           </p>
           <div className="pt-4">
             <Link

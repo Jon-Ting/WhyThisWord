@@ -18,9 +18,7 @@ export function VerseReader({ verse, selectedTokenId, onSelectToken }: VerseRead
         <h2 className="font-serif text-sm uppercase tracking-[0.18em] text-muted-foreground">
           {verse.ref}
         </h2>
-        <span className="text-xs text-muted-foreground">
-          {isHebrew ? "WLC (BHS)" : "SBLGNT"}
-        </span>
+        <span className="text-xs text-muted-foreground">{isHebrew ? "WLC (BHS)" : "SBLGNT"}</span>
       </header>
 
       <p className="font-serif text-2xl leading-relaxed text-reader-ink md:text-[1.7rem]">
@@ -71,4 +69,3 @@ export function VerseReader({ verse, selectedTokenId, onSelectToken }: VerseRead
     </article>
   );
 }
-
