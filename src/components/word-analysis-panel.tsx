@@ -73,7 +73,7 @@ export function WordAnalysisPanel({ token, verse, onClose, onCollapse }: WordAna
   }, [token, verse, aiSynthesisEnabled]);
 
   if (!token) {
-    return <EmptyState />;
+    return <EmptyState onCollapse={onCollapse} />;
   }
 
   return (
@@ -403,9 +403,19 @@ function NoAnalysisFallback({ token, language }: { token: CorpusToken; language:
   );
 }
 
-function EmptyState() {
+function EmptyState({ onCollapse }: { onCollapse?: () => void }) {
   return (
-    <aside className="flex h-full flex-col items-center justify-center bg-card px-8 text-center">
+    <aside className="relative flex h-full flex-col items-center justify-center bg-card px-8 text-center">
+      {onCollapse && (
+        <button
+          type="button"
+          onClick={onCollapse}
+          aria-label="Collapse panel"
+          className="absolute right-2 top-2 inline-flex h-7 w-7 items-center justify-center rounded-md text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+        >
+          <PanelRightClose className="h-4 w-4" />
+        </button>
+      )}
       <img
         src={logoIcon}
         alt="Why This Word"

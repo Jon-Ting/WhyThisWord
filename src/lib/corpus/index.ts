@@ -88,16 +88,118 @@ function parseVerseNumber(ref: string): number {
   return match ? parseInt(match[1], 10) : 0;
 }
 
-/** Given a passage id like "john-3", return neighbouring chapter refs (if any). */
+export interface ParsedPassageRef {
+  bookId: string;
+  startChapter: number;
+  startVerse?: number;
+  endChapter?: number;
+  endVerse?: number;
+}
+
+/**
+ * Parse passage IDs like:
+ *   john-3                    -> full chapter
+ *   john-3:16               -> single verse
+ *   john-3:16-20            -> same-chapter verse range
+ *   john-3:16-4:5           -> cross-chapter range (same book)
+ *   john-3:16-john-4:5      -> cross-chapter range with explicit book
+ */
+export function parsePassageRef(id: string): ParsedPassageRef | null {
+  // 1. Cross-chapter with explicit book name: john-3:16-john-4:5
+  let m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)-([a-z0-9-]+)-(\d+):(\d+)$/);
+  if (m) {
+    const [, bookId, sCh, sV, endBook, eCh, eV] = m;
+    if (bookId !== endBook) return null;
+    return {
+      bookId,
+      startChapter: parseInt(sCh, 10),
+      startVerse: parseInt(sV, 10),
+      endChapter: parseInt(eCh, 10),
+      endVerse: parseInt(eV, 10),
+    };
+  }
+
+  // 2. Cross-chapter without explicit book (colon on right): john-3:16-4:5
+  m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)-(\d+):(\d+)$/);
+  if (m) {
+    const [, bookId, sCh, sV, eCh, eV] = m;
+    return {
+      bookId,
+      startChapter: parseInt(sCh, 10),
+      startVerse: parseInt(sV, 10),
+      endChapter: parseInt(eCh, 10),
+      endVerse: parseInt(eV, 10),
+    };
+  }
+
+  // 3. Same-chapter verse range: john-3:16-20
+  m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)-(\d+)$/);
+  if (m) {
+    const [, bookId, ch, sV, eV] = m;
+    return {
+      bookId,
+      startChapter: parseInt(ch, 10),
+      startVerse: parseInt(sV, 10),
+      endVerse: parseInt(eV, 10),
+    };
+  }
+
+  // 4. Single verse: john-3:16
+  m = id.match(/^([a-z0-9-]+)-(\d+):(\d+)$/);
+  if (m) {
+    const [, bookId, ch, v] = m;
+    return {
+      bookId,
+      startChapter: parseInt(ch, 10),
+      startVerse: parseInt(v, 10),
+    };
+  }
+
+  // 5. Full chapter: john-3
+  m = id.match(/^([a-z0-9-]+)-(\d+)$/);
+  if (m) {
+    const [, bookId, ch] = m;
+    return {
+      bookId,
+      startChapter: parseInt(ch, 10),
+    };
+  }
+
+  return null;
+}
+
+/** Build a human-readable ref label from a parsed passage ref. */
+function buildRefLabel(
+  bookName: string,
+  startChapter: number,
+  startVerse?: number,
+  endChapter?: number,
+  endVerse?: number,
+): string {
+  if (startVerse === undefined) {
+    return `${bookName} ${startChapter}`;
+  }
+  if (endChapter === undefined) {
+    if (endVerse === undefined || endVerse === startVerse) {
+      return `${bookName} ${startChapter}:${startVerse}`;
+    }
+    return `${bookName} ${startChapter}:${startVerse}-${endVerse}`;
+  }
+  if (endVerse === undefined) {
+    return `${bookName} ${startChapter}:${startVerse} - ${endChapter}`;
+  }
+  return `${bookName} ${startChapter}:${startVerse} - ${endChapter}:${endVerse}`;
+}
+
+/** Given a passage id like "john-3" or "john-3:16-4:5", return neighbouring chapter refs (if any). */
 export function getAdjacentChapters(id: string): {
   prev?: { id: string; ref: string };
   next?: { id: string; ref: string };
 } {
-  const match = id.match(/^([a-z0-9-]+)-(\d+)$/);
-  if (!match) return {};
+  const parsed = parsePassageRef(id);
+  if (!parsed) return {};
 
-  const [, bookId, chapterStr] = match;
-  const chapterNum = parseInt(chapterStr, 10);
+  const { bookId, startChapter, endChapter = startChapter } = parsed;
 
   const bookIndex = (booksIndex as BookMetadata[]).findIndex((b) => b.id === bookId);
   if (bookIndex === -1) return {};
@@ -105,10 +207,10 @@ export function getAdjacentChapters(id: string): {
   const book = booksIndex[bookIndex] as BookMetadata;
   const result: { prev?: { id: string; ref: string }; next?: { id: string; ref: string } } = {};
 
-  if (chapterNum > 1) {
+  if (startChapter > 1) {
     result.prev = {
-      id: `${bookId}-${chapterNum - 1}`,
-      ref: `${book.name} ${chapterNum - 1}`,
+      id: `${bookId}-${startChapter - 1}`,
+      ref: `${book.name} ${startChapter - 1}`,
     };
   } else if (bookIndex > 0) {
     const prevBook = booksIndex[bookIndex - 1] as BookMetadata;
@@ -118,10 +220,10 @@ export function getAdjacentChapters(id: string): {
     };
   }
 
-  if (chapterNum < book.chaptersCount) {
+  if (endChapter < book.chaptersCount) {
     result.next = {
-      id: `${bookId}-${chapterNum + 1}`,
-      ref: `${book.name} ${chapterNum + 1}`,
+      id: `${bookId}-${endChapter + 1}`,
+      ref: `${book.name} ${endChapter + 1}`,
     };
   } else if (bookIndex < booksIndex.length - 1) {
     const nextBook = booksIndex[bookIndex + 1] as BookMetadata;
@@ -171,28 +273,19 @@ export function listPassages(): PassageSearchResult[] {
   return list;
 }
 
-// Asynchronously load a complete chapter passage on demand (dynamic chunk loading)
-export async function getPassage(
-  id: string,
-  options?: { startVerse?: number; endVerse?: number },
+async function loadSingleChapter(
+  bookId: string,
+  chapterNum: number,
+  startVerse?: number,
+  endVerse?: number,
+  originalId?: string,
 ): Promise<Passage | undefined> {
-  // Support standard book-chapter URL format, e.g. "john-1" or "1-corinthians-13"
-  const match = id.match(/^([a-z0-9-]+)-(\d+)$/);
-  if (!match) {
-    return undefined;
-  }
-
-  const [_, bookId, chapterStr] = match;
-  const chapterNum = parseInt(chapterStr, 10);
-
-  // Look up book metadata to find testament (folder)
   const bookMetadata = (booksIndex as BookMetadata[]).find((b) => b.id === bookId);
   if (!bookMetadata) return undefined;
 
   const folder = bookMetadata.testament.toLowerCase();
 
   try {
-    // Dynamically load the specific chapter chunk
     const chapterData = await import(`./data/${folder}/${bookId}/${chapterNum}.json`).then(
       (m) => m.default || m,
     );
@@ -200,25 +293,21 @@ export async function getPassage(
     let verses: Verse[] = chapterData.verses;
     let ref = `${chapterData.name} ${chapterNum}`;
 
-    // Filter to a verse range if requested
-    if (options?.startVerse || options?.endVerse) {
-      // Determine actual min/max verses in this chapter
+    if (startVerse !== undefined || endVerse !== undefined) {
       const verseNumbers = verses.map((v: Verse) => parseVerseNumber(v.ref));
       const minVerse = Math.min(...verseNumbers);
       const maxVerse = Math.max(...verseNumbers);
 
-      let start = options.startVerse ?? minVerse;
-      let end = options.endVerse ?? maxVerse;
-      // Clamp to actual available verses
+      let start = startVerse ?? minVerse;
+      let end = endVerse ?? maxVerse;
       start = Math.max(minVerse, Math.min(start, maxVerse));
       end = Math.max(minVerse, Math.min(end, maxVerse));
-      // Swap if the user typed the range backwards
       if (start > end) [start, end] = [end, start];
+
       const filtered = verses.filter((v: Verse) => {
         const num = parseVerseNumber(v.ref);
         return num >= start && num <= end;
       });
-      // If filtering yields nothing, fall back to the full chapter
       verses = filtered.length > 0 ? filtered : verses;
 
       if (filtered.length > 0) {
@@ -230,7 +319,7 @@ export async function getPassage(
     }
 
     return {
-      id,
+      id: originalId ?? `${bookId}-${chapterNum}`,
       ref,
       title: chapterData.name,
       description: `Original language text of ${chapterData.name} Chapter ${chapterNum} with grammatical morphology analysis.`,
@@ -241,6 +330,111 @@ export async function getPassage(
     console.error(`Failed to load passage chunk for ${bookId} chapter ${chapterNum}:`, err);
     return undefined;
   }
+}
+
+async function loadMultiChapterRange(
+  bookId: string,
+  startChapter: number,
+  startVerse: number | undefined,
+  endChapter: number,
+  endVerse: number | undefined,
+): Promise<Passage | undefined> {
+  const bookMetadata = (booksIndex as BookMetadata[]).find((b) => b.id === bookId);
+  if (!bookMetadata) return undefined;
+
+  const maxSpan = 10;
+  if (endChapter - startChapter + 1 > maxSpan) {
+    console.error(
+      `Range too large: ${bookId} ${startChapter}-${endChapter} exceeds max span of ${maxSpan} chapters`,
+    );
+    return undefined;
+  }
+
+  const folder = bookMetadata.testament.toLowerCase();
+
+  const chapterPromises: Promise<unknown>[] = [];
+  for (let ch = startChapter; ch <= endChapter; ch++) {
+    chapterPromises.push(
+      import(`./data/${folder}/${bookId}/${ch}.json`).then((m) => m.default || m).catch(() => null),
+    );
+  }
+
+  const chapterDatas = await Promise.all(chapterPromises);
+  if (chapterDatas.some((d) => d === null)) {
+    console.error(
+      `Failed to load one or more chapters in range ${bookId} ${startChapter}-${endChapter}`,
+    );
+    return undefined;
+  }
+
+  let allVerses: Verse[] = [];
+
+  for (let i = 0; i < chapterDatas.length; i++) {
+    const ch = startChapter + i;
+    const data = chapterDatas[i] as { verses: Verse[] };
+    let verses = data.verses;
+
+    if (ch === startChapter && startVerse !== undefined) {
+      verses = verses.filter((v) => parseVerseNumber(v.ref) >= startVerse);
+    }
+
+    if (ch === endChapter && endVerse !== undefined) {
+      verses = verses.filter((v) => parseVerseNumber(v.ref) <= endVerse);
+    }
+
+    allVerses = allVerses.concat(verses);
+  }
+
+  const ref = buildRefLabel(bookMetadata.name, startChapter, startVerse, endChapter, endVerse);
+  let id = `${bookId}-${startChapter}`;
+  if (startVerse !== undefined) id += `:${startVerse}`;
+  if (endChapter !== undefined && endChapter !== startChapter) {
+    id += `-${endChapter}`;
+    if (endVerse !== undefined) id += `:${endVerse}`;
+  } else if (endVerse !== undefined && endVerse !== startVerse) {
+    id += `-${endVerse}`;
+  }
+
+  return {
+    id,
+    ref,
+    title: bookMetadata.name,
+    description: `Original language text of ${ref} with grammatical morphology analysis.`,
+    verses: allVerses,
+    language: bookMetadata.language,
+  };
+}
+
+// Asynchronously load a complete chapter passage on demand (dynamic chunk loading)
+export async function getPassage(
+  id: string,
+  options?: { startVerse?: number; endVerse?: number },
+): Promise<Passage | undefined> {
+  const parsed = parsePassageRef(id);
+  if (!parsed) {
+    // Try legacy format: book-chapter with options
+    const legacyMatch = id.match(/^([a-z0-9-]+)-(\d+)$/);
+    if (!legacyMatch) return undefined;
+    const [, bookId, chapterStr] = legacyMatch;
+    return loadSingleChapter(
+      bookId,
+      parseInt(chapterStr, 10),
+      options?.startVerse,
+      options?.endVerse,
+      id,
+    );
+  }
+
+  const { bookId, startChapter, startVerse, endChapter, endVerse } = parsed;
+
+  if (!endChapter) {
+    // Single chapter — may have verse range from slug or legacy options
+    const sV = startVerse ?? options?.startVerse;
+    const eV = endVerse ?? options?.endVerse;
+    return loadSingleChapter(bookId, startChapter, sV, eV, id);
+  }
+
+  return loadMultiChapterRange(bookId, startChapter, startVerse, endChapter, endVerse);
 }
 
 // Asynchronously resolve a Greek word's contrastive semantics or lexicon definitions

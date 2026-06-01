@@ -5,7 +5,7 @@ import { useEffect, useMemo, useState } from "react";
 import * as VisuallyHidden from "@radix-ui/react-visually-hidden";
 import { cn } from "@/lib/utils";
 import type { Verse, CorpusToken } from "@/lib/corpus";
-import { getPassage, getAdjacentChapters } from "@/lib/corpus";
+import { getPassage, getAdjacentChapters, parsePassageRef } from "@/lib/corpus";
 import { SiteHeader, SiteFooter } from "@/components/site-chrome";
 import { PassagePicker } from "@/components/passage-picker";
 import { VerseReader } from "@/components/verse-reader";
@@ -186,7 +186,14 @@ function ReaderPage() {
   }, [w, selectedWordId, passage]);
 
   const adjacent = useMemo(() => getAdjacentChapters(passage.id), [passage.id]);
-  const isPartial = start !== undefined || end !== undefined;
+  const parsedRef = useMemo(() => parsePassageRef(passage.id), [passage.id]);
+  const isPartial = parsedRef
+    ? parsedRef.startVerse !== undefined || parsedRef.endChapter !== undefined
+    : start !== undefined || end !== undefined;
+  const fullChapterId =
+    parsedRef?.startVerse !== undefined
+      ? `${parsedRef.bookId}-${parsedRef.startChapter}`
+      : passage.id;
 
   const selectToken = (tokenId: string) =>
     navigate({ search: { ...search, w: tokenId }, replace: true, resetScroll: false });
@@ -292,7 +299,7 @@ function ReaderPage() {
 
             {isPartial ? (
               <Link
-                to={`/reader/${passage.id}`}
+                to={`/reader/${fullChapterId}`}
                 search={w ? { w } : undefined}
                 className="inline-flex h-9 items-center gap-1.5 rounded-md border border-border bg-background px-3 text-sm font-medium text-foreground transition-colors hover:bg-accent"
               >
@@ -354,7 +361,7 @@ function ReaderPage() {
 
             {isPartial ? (
               <Link
-                to={`/reader/${passage.id}`}
+                to={`/reader/${fullChapterId}`}
                 search={w ? { w } : undefined}
                 className="inline-flex h-9 items-center gap-1.5 rounded-md border border-border bg-background px-3 text-sm font-medium text-foreground transition-colors hover:bg-accent"
               >
