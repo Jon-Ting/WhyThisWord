@@ -41,13 +41,29 @@ const searchSchema = z.object({
   end: z.coerce.number().int().positive().optional().catch(undefined),
 });
 
+function parseRangeFromSearch(
+  search: { start?: number; end?: number } | undefined,
+  searchStr: string,
+): { start?: number; end?: number } {
+  const start = search?.start;
+  if (typeof start === "number") return { start, end: search?.end };
+  if (!searchStr) return {};
+  const sp = new URLSearchParams(searchStr);
+  const rawStart = sp.get("start");
+  const rawEnd = sp.get("end");
+  return {
+    start: rawStart ? parseInt(rawStart, 10) || undefined : undefined,
+    end: rawEnd ? parseInt(rawEnd, 10) || undefined : undefined,
+  };
+}
+
 export const Route = createFileRoute("/reader/$ref")({
   validateSearch: zodValidator(searchSchema),
   loaderDeps: ({ search }) => ({ start: search?.start, end: search?.end }),
-  loader: async ({ params, search }) => {
+  loader: async ({ params, deps }) => {
     const passage = await getPassage(params.ref, {
-      startVerse: search?.start,
-      endVerse: search?.end,
+      startVerse: deps.start,
+      endVerse: deps.end,
     });
     if (!passage) throw notFound();
     return { passage };
@@ -76,7 +92,8 @@ export const Route = createFileRoute("/reader/$ref")({
 function ReaderPage() {
   const { passage } = Route.useLoaderData();
   const search = Route.useSearch();
-  const { w, start, end } = search;
+  const { w } = search;
+  const { start, end } = Route.useLoaderDeps();
   const navigate = useNavigate({ from: Route.fullPath });
   const isCompact = useIsCompact();
 
@@ -89,12 +106,8 @@ function ReaderPage() {
     }
   });
   const [rightOpen, setRightOpen] = useState(() => {
-    if (typeof window === "undefined") return true;
-    try {
-      return JSON.parse(localStorage.getItem("reader.rightOpen") ?? "true");
-    } catch {
-      return true;
-    }
+    if (typeof window === "undefined") return false;
+    return !!w;
   });
 
   useEffect(() => {
@@ -105,13 +118,10 @@ function ReaderPage() {
     }
   }, [leftOpen]);
 
+  // Auto-open the analysis panel when a word is selected
   useEffect(() => {
-    try {
-      localStorage.setItem("reader.rightOpen", JSON.stringify(rightOpen));
-    } catch {
-      /* ignore */
-    }
-  }, [rightOpen]);
+    if (w) setRightOpen(true);
+  }, [w]);
 
   useEffect(() => {
     recordRecentPassage({
@@ -163,8 +173,8 @@ function ReaderPage() {
       <div
         className={cn(
           "mx-auto grid max-w-7xl grid-cols-1 gap-px",
-          leftOpen && rightOpen && "lg:grid-cols-[14rem_minmax(0,1fr)_24rem]",
-          leftOpen && !rightOpen && "lg:grid-cols-[14rem_minmax(0,1fr)]",
+          leftOpen && rightOpen && "lg:grid-cols-[18rem_minmax(0,1fr)_24rem]",
+          leftOpen && !rightOpen && "lg:grid-cols-[18rem_minmax(0,1fr)]",
           !leftOpen && rightOpen && "lg:grid-cols-[minmax(0,1fr)_24rem]",
           !leftOpen && !rightOpen && "lg:grid-cols-[1fr]",
         )}
