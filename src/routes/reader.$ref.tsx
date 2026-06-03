@@ -135,7 +135,7 @@ function ReaderPage() {
   // Auto-scroll to the first verse of a range when the page loads
   useEffect(() => {
     if (!parsedRef?.startVerse) return;
-    const target = passage.verses.find((v) => {
+    const target = passage.verses.find((v: { ref: string }) => {
       const numMatch = v.ref.match(/:(\d+)$/);
       return numMatch && parseInt(numMatch[1], 10) === parsedRef.startVerse;
     });

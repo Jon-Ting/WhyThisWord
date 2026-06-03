@@ -573,19 +573,21 @@ export async function getWordAnalysis(
       unknown
     >;
     const cleanLemma = normalizedLemma.toLowerCase();
-    const fallback = lexicon[cleanLemma] as WordAnalysis;
+    const fallback = lexicon[cleanLemma] as (WordAnalysis & { strongs?: string }) | undefined;
 
     if (fallback) {
       console.log(`[Analysis] Lexicon HIT for ${normalizedLemma}`);
-      const result = { ...fallback } as WordAnalysis;
+      const result = { ...fallback } as WordAnalysis & { strongs?: string };
 
       // Inject Louw-Nida domains
       if (result.strongs) {
         try {
-          const lnData = await import("./data/louw-nida.json").then((m) => m.default || m);
-          const domainNames = await import("./data/louw-nida-domains.json").then(
+          const lnData = (await import("./data/louw-nida.json").then((m) => m.default || m)) as {
+            strongToLn: Record<string, string[]>;
+          };
+          const domainNames = (await import("./data/louw-nida-domains.json").then(
             (m) => m.default || m,
-          );
+          )) as Record<string, string>;
           const lnCodes = lnData.strongToLn[result.strongs] || [];
 
           const uniqueDomains = new Set<string>();
@@ -605,7 +607,9 @@ export async function getWordAnalysis(
       if (!result.neighbours || result.neighbours.length === 0) {
         const lnLemmas = await findNeighboursByLemma(normalizedLemma);
         result.neighbours = lnLemmas.slice(0, 5).map((l) => {
-          const entry = lexicon[l] || lexicon[l.toLowerCase()];
+          const entry = (lexicon[l] || lexicon[l.toLowerCase()]) as
+            | { translit?: string; shortDef?: string }
+            | undefined;
           return {
             lemma: l,
             translit: entry?.translit || l,

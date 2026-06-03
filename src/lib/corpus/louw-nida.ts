@@ -11,7 +11,11 @@ export async function findNeighboursByLemma(lemma: string): Promise<string[]> {
       string,
       unknown
     >;
-    const lnData = await import("./data/louw-nida.json").then((m) => m.default || m);
+    const lnData = (await import("./data/louw-nida.json").then((m) => m.default || m)) as {
+      strongToLn: Record<string, string[]>;
+      lnToStrong: Record<string, string[]>;
+      strongToLemma: Record<string, string>;
+    };
 
     // 1. Get Strong's number for the lemma
     // Lexicon keys are lowercased
