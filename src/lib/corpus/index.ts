@@ -417,7 +417,7 @@ async function loadMultiChapterRange(
   const chapterPromises: Promise<unknown>[] = [];
   for (let ch = startChapter; ch <= endChapter; ch++) {
     chapterPromises.push(
-      import(`./data/${folder}/${bookId}/${ch}.json`).then((m) => m.default || m).catch(() => null),
+      fetchCorpusJson<{ verses: Verse[] }>(`${folder}/${bookId}/${ch}.json`).catch(() => null),
     );
   }
 
