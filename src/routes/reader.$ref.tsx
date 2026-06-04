@@ -46,6 +46,11 @@ const searchSchema = z.object({
 
 export const Route = createFileRoute("/reader/$ref")({
   validateSearch: zodValidator(searchSchema),
+  // Corpus chapter JSON is served as static assets under /corpus/...; the
+  // loader fetches them via relative URLs, which only resolve in the browser.
+  // Disabling SSR also prevents the Cloudflare Worker from doing any corpus
+  // I/O at request time (avoids Error 1102).
+  ssr: false,
   loader: async ({ params }) => {
     console.log(`[Reader] Loading passage for slug: ${params.ref}`);
     const passage = await getPassage(params.ref);
@@ -56,22 +61,24 @@ export const Route = createFileRoute("/reader/$ref")({
     console.log(`[Reader] Loaded passage: ${passage.ref} (${passage.verses.length} verses)`);
     return { passage };
   },
-  head: ({ loaderData }) => ({
-    meta: loaderData
-      ? [
-          { title: `${loaderData.passage.ref} — Why This Word` },
-          {
-            name: "description",
-            content: `${loaderData.passage.ref}: ${loaderData.passage.description}`,
-          },
-          { property: "og:title", content: `${loaderData.passage.ref} — Why This Word` },
-          {
-            property: "og:description",
-            content: loaderData.passage.description,
-          },
-        ]
-      : [{ title: "Reader — Why This Word" }],
-  }),
+  head: ({ loaderData, params }) => {
+    const title = loaderData
+      ? `${loaderData.passage.ref} — Why This Word`
+      : params?.ref
+        ? `${params.ref} — Why This Word`
+        : "Reader — Why This Word";
+    const description = loaderData
+      ? `${loaderData.passage.ref}: ${loaderData.passage.description}`
+      : "Original-language Bible reader with morphology and word analysis.";
+    return {
+      meta: [
+        { title },
+        { name: "description", content: description },
+        { property: "og:title", content: title },
+        { property: "og:description", content: description },
+      ],
+    };
+  },
   notFoundComponent: NotFound,
   errorComponent: ErrorView,
   component: ReaderPage,
