@@ -4,6 +4,7 @@ import { analyses } from "./mock/analyses";
 import type { Passage, Verse, WordAnalysis } from "./types";
 import { findNeighboursByLemma } from "./louw-nida";
 import { findExamplesInCorpus } from "./concordance";
+import { fetchCorpusJson } from "./fetch-data";
 
 export { findNeighboursByLemma } from "./louw-nida";
 export { findExamplesInCorpus } from "./concordance";
