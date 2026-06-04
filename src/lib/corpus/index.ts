@@ -569,10 +569,7 @@ export async function getWordAnalysis(
   // 3. Fall back to standard dictionary definition (Abbott-Smith / Strong's)
   console.log(`[Analysis] Falling back to lexicon for ${normalizedLemma}`);
   try {
-    const lexicon = (await import("./data/lexicon.json").then((m) => m.default || m)) as Record<
-      string,
-      unknown
-    >;
+    const lexicon = await fetchCorpusJson<Record<string, unknown>>("lexicon.json");
     const cleanLemma = normalizedLemma.toLowerCase();
     const fallback = lexicon[cleanLemma] as (WordAnalysis & { strongs?: string }) | undefined;
 
@@ -583,9 +580,9 @@ export async function getWordAnalysis(
       // Inject Louw-Nida domains
       if (result.strongs) {
         try {
-          const lnData = (await import("./data/louw-nida.json").then((m) => m.default || m)) as {
+          const lnData = await fetchCorpusJson<{
             strongToLn: Record<string, string[]>;
-          };
+          }>("louw-nida.json");
           const domainNames = (await import("./data/louw-nida-domains.json").then(
             (m) => m.default || m,
           )) as Record<string, string>;
