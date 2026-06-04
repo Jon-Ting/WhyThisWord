@@ -4,6 +4,7 @@ import { analyses } from "./mock/analyses";
 import type { Passage, Verse, WordAnalysis } from "./types";
 import { findNeighboursByLemma } from "./louw-nida";
 import { findExamplesInCorpus } from "./concordance";
+import { fetchCorpusJson } from "./fetch-data";
 
 export { findNeighboursByLemma } from "./louw-nida";
 export { findExamplesInCorpus } from "./concordance";
@@ -282,10 +283,10 @@ export async function getChapterVerseCount(
   const folder = bookMetadata.testament.toLowerCase();
 
   try {
-    const chapterData = await import(`./data/${folder}/${bookId}/${chapterNum}.json`).then(
-      (m) => m.default || m,
+    const chapterData = await fetchCorpusJson<{ verses: Verse[] }>(
+      `${folder}/${bookId}/${chapterNum}.json`,
     );
-    const count = (chapterData.verses as Verse[]).length;
+    const count = chapterData.verses.length;
     console.log(`[Passage] ${bookId} ${chapterNum} has ${count} verses`);
     return count;
   } catch (err) {
@@ -322,8 +323,8 @@ async function loadSingleChapter(
   const folder = bookMetadata.testament.toLowerCase();
 
   try {
-    const chapterData = await import(`./data/${folder}/${bookId}/${chapterNum}.json`).then(
-      (m) => m.default || m,
+    const chapterData = await fetchCorpusJson<{ name: string; verses: Verse[] }>(
+      `${folder}/${bookId}/${chapterNum}.json`,
     );
 
     let verses: Verse[] = chapterData.verses;
@@ -416,7 +417,7 @@ async function loadMultiChapterRange(
   const chapterPromises: Promise<unknown>[] = [];
   for (let ch = startChapter; ch <= endChapter; ch++) {
     chapterPromises.push(
-      import(`./data/${folder}/${bookId}/${ch}.json`).then((m) => m.default || m).catch(() => null),
+      fetchCorpusJson<{ verses: Verse[] }>(`${folder}/${bookId}/${ch}.json`).catch(() => null),
     );
   }
 
@@ -568,10 +569,7 @@ export async function getWordAnalysis(
   // 3. Fall back to standard dictionary definition (Abbott-Smith / Strong's)
   console.log(`[Analysis] Falling back to lexicon for ${normalizedLemma}`);
   try {
-    const lexicon = (await import("./data/lexicon.json").then((m) => m.default || m)) as Record<
-      string,
-      unknown
-    >;
+    const lexicon = await fetchCorpusJson<Record<string, unknown>>("lexicon.json");
     const cleanLemma = normalizedLemma.toLowerCase();
     const fallback = lexicon[cleanLemma] as (WordAnalysis & { strongs?: string }) | undefined;
 
@@ -582,9 +580,9 @@ export async function getWordAnalysis(
       // Inject Louw-Nida domains
       if (result.strongs) {
         try {
-          const lnData = (await import("./data/louw-nida.json").then((m) => m.default || m)) as {
+          const lnData = await fetchCorpusJson<{
             strongToLn: Record<string, string[]>;
-          };
+          }>("louw-nida.json");
           const domainNames = (await import("./data/louw-nida-domains.json").then(
             (m) => m.default || m,
           )) as Record<string, string>;

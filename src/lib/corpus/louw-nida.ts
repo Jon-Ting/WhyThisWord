@@ -1,4 +1,4 @@
-import { analyses } from "./mock/analyses";
+import { fetchCorpusJson } from "./fetch-data";
 
 // Find semantic neighbors for a lemma using Louw-Nida domain mapping
 export async function findNeighboursByLemma(lemma: string): Promise<string[]> {
@@ -6,16 +6,12 @@ export async function findNeighboursByLemma(lemma: string): Promise<string[]> {
   const normalizedLemma = lemma.normalize("NFC").trim();
 
   try {
-    // Dynamically load lexicon and Louw-Nida mapping
-    const lexicon = (await import("./data/lexicon.json").then((m) => m.default || m)) as Record<
-      string,
-      unknown
-    >;
-    const lnData = (await import("./data/louw-nida.json").then((m) => m.default || m)) as {
+    const lexicon = await fetchCorpusJson<Record<string, unknown>>("lexicon.json");
+    const lnData = await fetchCorpusJson<{
       strongToLn: Record<string, string[]>;
       lnToStrong: Record<string, string[]>;
       strongToLemma: Record<string, string>;
-    };
+    }>("louw-nida.json");
 
     // 1. Get Strong's number for the lemma
     // Lexicon keys are lowercased
