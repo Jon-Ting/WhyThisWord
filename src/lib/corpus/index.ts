@@ -283,10 +283,10 @@ export async function getChapterVerseCount(
   const folder = bookMetadata.testament.toLowerCase();
 
   try {
-    const chapterData = await import(`./data/${folder}/${bookId}/${chapterNum}.json`).then(
-      (m) => m.default || m,
+    const chapterData = await fetchCorpusJson<{ verses: Verse[] }>(
+      `${folder}/${bookId}/${chapterNum}.json`,
     );
-    const count = (chapterData.verses as Verse[]).length;
+    const count = chapterData.verses.length;
     console.log(`[Passage] ${bookId} ${chapterNum} has ${count} verses`);
     return count;
   } catch (err) {
