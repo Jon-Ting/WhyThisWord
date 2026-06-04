@@ -323,8 +323,8 @@ async function loadSingleChapter(
   const folder = bookMetadata.testament.toLowerCase();
 
   try {
-    const chapterData = await import(`./data/${folder}/${bookId}/${chapterNum}.json`).then(
-      (m) => m.default || m,
+    const chapterData = await fetchCorpusJson<{ name: string; verses: Verse[] }>(
+      `${folder}/${bookId}/${chapterNum}.json`,
     );
 
     let verses: Verse[] = chapterData.verses;
